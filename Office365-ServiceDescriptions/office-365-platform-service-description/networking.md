@@ -1,0 +1,70 @@
+---
+title: 网络
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 6/13/2018
+ms.audience: ITPro
+ms.topic: reference
+f1_keywords:
+- office-365-networking
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom: Adm_ServiceDesc
+ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
+description: Microsoft Office 365 支持以下网络功能。
+ms.openlocfilehash: 8a9a8d8b5276f4f4578fec625849410268f855ad
+ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24035015"
+---
+# <a name="networking"></a>网络
+
+Microsoft Office 365 支持以下网络功能。
+  
+## <a name="ports-protocols-and-ip-addresses"></a>端口、协议和 IP 地址
+
+Office 365 使用 IPv4 和 IPv6 地址。可选择使用 IPv6 寻址，并且不需要与 Office 365 之间进行连接。使用 IPv6 时未完全启用所有的 Office 365 功能。有关 Office 365 中的 IPv6 支持的详细信息，请参阅 [Office 365 服务中的 IPv6 支持](https://go.microsoft.com/fwlink/?LinkID=785121&amp;clcid=0x409)。
+  
+Office 365 在 Office 365 帮助中维护允许的 IP 地址的列表。有关详细信息，请参阅 [Office 365 URL 和 IP 地址范围](https://go.microsoft.com/fwlink/p/?LinkID=243567)。有关由世纪互联运营的 Office 365 的信息，请参阅[由世纪互联运营的 Office 365 的 URL 和 IP 地址](https://go.microsoft.com/fwlink/?LinkID=733351&amp;clcid=0x409)。有关 Office 365 Germany，请参阅 [Office 365 Germany 终结点](https://support.office.com/en-us/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)。
+  
+> [!IMPORTANT]
+> 我们强烈建议您允许路由到上述文章中列出的根域名（如 \*.Outlook.com、\*.MicrosoftOnline.com 和 \*.SharePoint.com），而不是路由到特定的 IP 地址子网。如果依赖 IP 地址子网，则进行更改时您的用户会有中断风险。 
+  
+## <a name="bandwidth-requirements"></a>带宽要求
+
+有关带宽要求的信息，请参阅 [Internet 带宽规划](https://go.microsoft.com/fwlink/p/?LinkID=282467)。
+  
+## <a name="connecting-to-office-365"></a>连接到 Office 365
+
+已经通过公共 Internet 或专用的 Azure ExpressRoute 连接完成了与 Office 365 的所有连接，并根据需要采用 SSL 进行保护。Azure ExpressRoute 允许绕过 Internet 直接连接到 Microsoft 全球网络。Microsoft 网络合作伙伴提供了到 Microsoft 全球网络的连接。
+  
+有关 Azure ExpressRoute 的详细信息，请参阅[适用于 Office 365 的 Azure ExpressRoute](https://aka.ms/expressrouteoffice365)。
+  
+### <a name="wan-accelerators"></a>WAN 加速器
+
+Microsoft 不支持对 Office 365 使用客户拥有的 WAN 加速和缓存设备。如果决定使用 WAN 优化控制器在高延迟和低带宽的条件下改善性能，将需要在使用 Microsoft 解决服务请求问题时禁用此控制器，并与设备供应商合作以获取设备支持。有关详细信息，请参阅[对 Office 365 使用 WAN 加速和缓存设备](https://go.microsoft.com/fwlink/p/?LinkID=282468)。
+  
+## <a name="the-global-microsoft-network"></a>Microsoft 全球网络
+
+Office 365 网络基础结构由大型的全球组合产品组成，包括数据中心、服务器、内容分发网络、边缘计算节点和光纤网络，从而可以在全球范围内提供服务。尖端服务检测和监控在最深层级与每个组件集成，提供了数据中心、网络主干、Internet Exchange 和 Beyond 的可见性，以帮助发现、诊断和管理出现的中断原因。此网络致力于维持足够的功能，即使出现大规模网络中断，也不会降低性能。有关详细信息，请参阅 [Global Foundation Services](https://go.microsoft.com/fwlink/p/?LinkID=282622)。 
+  
+为了维护客户数据的机密性和完整性，Microsoft 将客户服务网络与 Office 365 网络区分开来。使用多种技术控制信息流，包括但不限于：
+  
+- 物理分离。通过配置为阻止特定通信模式的路由器在物理上分隔网络段。
+    
+- 逻辑分离。虚拟 LAN (VLAN) 技术用来进一步分隔通信。
+    
+- 防火墙。防火墙和其他网络安全实施点用于限制与对 Internet 公开的系统进行数据交换，并将这些系统与 Microsoft 管理的后台系统隔离开来。 
+    
+- 协议限制。
+    
+有关详细信息，请参阅 [Office 365 信任中心](https://go.microsoft.com/fwlink/p/?LinkID=282621)。 
+  
+## <a name="feature-availability"></a>功能可用性
+
+若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+  
+
