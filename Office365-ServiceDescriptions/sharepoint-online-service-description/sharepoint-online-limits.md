@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找 SharePoint Online 限制，Office 365 企业版计划和独立计划。
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035001"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359588"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -41,7 +41,7 @@ ms.locfileid: "24035001"
 ||||
 |:-----|:-----|:-----|
 |**功能** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |
-|存储<sup>1、 2</sup> <br/> |1 TB 每个组织以及每个许可证 0.5 GB 购买<sup>3</sup> <br/> |1 TB 每个组织以及每个许可证 0.5 GB 购买<sup>3</sup> <br/> |
+|存储<sup>1、 2</sup> <br/> |每个组织的 1 TB 加上 10 GB 每个许可证购买<sup>3</sup> <br/> |每个组织的 1 TB 加上 10 GB 每个许可证购买<sup>3</sup> <br/> |
 |存储区中的条款  <br/> |200,000  <br/> |200,000  <br/> |
 |网站集的存储  <br/> |设置到 25 TB / 网站集或组<sup>4</sup> <br/> |设置到 25 TB / 网站集或组<sup>4</sup> <br/> |
 |每个租户的网站集  <br/> |每组织<sup>5</sup> 500,000 个 <br/> |每组织<sup>5</sup> 500,000 个 <br/> |

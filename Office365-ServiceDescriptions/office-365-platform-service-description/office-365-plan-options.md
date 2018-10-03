@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 位于不同的计划为了最好地满足组织的需求。
-ms.openlocfilehash: fbfb6d712ca28f4f7839baef090a0786c4cb437a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
+ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035076"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25358649"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -56,7 +56,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |Yes<sup>6</sup> <br/> |是<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
-|Skype for Business Online  <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
+|Skype for Business 联机<sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 应用程序  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |没有<sup>1</sup> <br/> |否  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |没有<sup>1</sup> <br/> |
@@ -71,6 +71,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
 <br/><sup>9</sup>包括 Exchange Online Kiosk。 > 
 <br/><sup>10</sup>包括有基本客户端限制的 Skype for Business Online 计划 2。 > <br/><sup>11</sup>包括没有任何客户端限制的 Skype for Business Online 计划 2。 > <br/><sup>12</sup>包括 Skype for Business Online 计划 1 及补充功能。 > <br/><sup>13</sup>包括有语音支持而没有任何客户端限制的 Skype for Business Online 计划 2。 > 
 <br/><sup>14</sup>包括 Skype for Business Online 计划 1。 
+<br><sup>15</sup>的 Microsoft 团队是现在主客户端的消息、 会议和 Office 365 中调用。启动 10 月 1 2018年 500 座位或更少的新 Office 365 客户将向 Microsoft 工作组 onboarded，并将无法访问 Skype 业务 online。已使用 Skype 的业务联机都将能够继续进行的租户直至其切换到 Microsoft 团队 （包括设置新的用户） 是。
   
 #### <a name="basic-client-limitations"></a>基本客户端限制
 
