@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 在美国公共部门的唯一和发展要求的响应，Microsoft 创建 Office 365 美国政府计划 (orOffice 365 美国政府)。本节提供特定于 Office 365 美国政府的功能的概述。建议您阅读本节补充旁 Office 365 服务说明。
-ms.openlocfilehash: 8d91e3d43cddb1c0b0edbd6b76a36ab222b7e179
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035071"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362907"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -174,7 +174,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 服务** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府 G5** <br/> |**Office 365 美国政府 F1** <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 ProPlus  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |否  <br/> |
+|Office 365 ProPlus  <br/> |否 <br/> |是 <br/> |是 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online Protection  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -342,7 +342,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|ITPro_R4_Stub_79  <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |
+|Outlook 开发 iOS 和 Android<sup>5</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企业价值** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府 G5** <br/> |**Office 365 美国政府 F1** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -377,6 +377,6 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
    
 > <sup>1</sup> azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理 (IRM) 功能。某些 Azure 信息保护功能需要订阅 Office 365 ProPlus，这是不包含在 Office 365 美国政府版 G1 或 Office 365 美国政府 F1。<br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须在单独购买并管理以启用支持的 IRM 功能。 
 <br/><sup>3</sup>的业务基本 Skype 是可用于所有客户。业务桌面客户端的 Skype 是为 Office 365 计划，其中包括 Skype 业务 online 提供状态、 即时消息和会议功能的本地安装应用程序。Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，包括其他功能，如高级的电话支持、 存档和合规性功能。必须为每个用户分配业务 Online 许可 Skype。Lync 基本功能的详细信息，请参阅[Skype 的业务联机客户端比较表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。<br/><sup>4</sup>尚未提供 GCC 高或 DoD 环境，但即将提供。
-<br/><sup>5</sup>尚未提供 Office 365 美国政府，但即将提供。 
+<br/><sup>5</sup>的详细信息，请参阅[使用 Outlook 中的 iOS 和政府社区云 Android](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
   
 [如何使用本服务说明部分](office-365-us-government.md#how-to-use-this-service-description-section)

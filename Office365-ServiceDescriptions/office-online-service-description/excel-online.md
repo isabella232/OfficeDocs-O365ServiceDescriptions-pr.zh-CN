@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (以前称为 Excel Web App) Microsoft Excel 将您体验扩展到 web 浏览器，其中可以使用工作簿直接在存储工作簿的网站上。所有 Office 365 客户可以查看和宽松编辑使用 Office Online 的 Office 文件。
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035053"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362897"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ Excel Online (以前称为 Excel Web App) Microsoft Excel 将您体验扩展到 
 ## <a name="apply-data-validation-to-cells"></a>向单元格应用数据有效性
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-在 Excel Online 中不可用。高级功能（例如数据有效性）仅在 Excel 桌面应用程序中提供。但是，你可以查看已在 Excel Online 中启用验证的数据并与其交互。了解有关[在 Excel 2013 中向单元格应用数据验证](https://go.microsoft.com/fwlink/p/?LinkId=282328)的详细信息。
+此功能是 Excel Online 中可用。其他高级的功能才可用 Excel 桌面应用程序中。
   
 ## <a name="apply-smartrecommended-formatting"></a>应用智能/推荐的格式
 <a name="bkmk_Applysmartformatting"> </a>

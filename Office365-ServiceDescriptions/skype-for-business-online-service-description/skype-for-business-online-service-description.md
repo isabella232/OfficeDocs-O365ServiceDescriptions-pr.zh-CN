@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 了解哪些许可证，您需要购买，以获取某些 Skype 业务功能吗？请参阅 for Business 许可概述 Skype。
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035060"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362927"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
+
+> [!NOTE]
+> 现在，Microsoft 团队是消息、 会议和 Office 365 中调用的主要客户端。启动 10 月 1 2018年 500 座位或更少的新 Office 365 客户将向 Microsoft 工作组 onboarded，并将无法访问 Skype 业务 online。已使用 Skype 的业务联机都将能够继续进行的租户直至其切换到 Microsoft 团队 （包括设置新的用户） 是。
+
+> [!NOTE]
+> 业务 Online 计划 1 的 Skype 即将弃用截止年 10 月 10 出售。这意味着，您将不再能够获取 Skype 的业务 Online 计划 1，即时消息、 状态和对等语音和视频。这些功能将继续支持中包括团队的所有 Office 365 提供，包括 Office 365 F1。当您计划在您当前的术语的末尾到期时，才能可持续访问这些功能，您将需要切换到不同的计划。我们建议您评估当前分配业务 Online 计划 1 具有 Skype 的用户的 Office 365 F1 计划。 
 
  **了解哪些许可证，您需要购买，以获取某些 Skype 业务功能吗？请参阅[Skype for Business 许可概述](https://go.microsoft.com/fwlink/?LinkID=799524)。**
   

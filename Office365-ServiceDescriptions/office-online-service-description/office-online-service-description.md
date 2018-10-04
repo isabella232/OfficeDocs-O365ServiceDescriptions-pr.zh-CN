@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 Excel、 OneNote 和 PowerPoint 文档。Office Online 可更轻松地工作和共享从任何位置的 Office 文件具有 Internet 连接，从几乎任何设备。与 Word、 Excel、 OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以查看、 创建和编辑在文件。
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035199"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362867"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
@@ -123,7 +123,7 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[高级时间筛选（时间线切片器）](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |否  <br/> |是  <br/> |
 |[对齐方式](excel-online.md#alignment) <br/> |是  <br/> |是  <br/> |
 |[应用条件格式](excel-online.md#apply-conditional-formatting) <br/> |否  <br/> |是  <br/> |
-|[向单元格应用数据有效性](excel-online.md#apply-data-validation-to-cells) <br/> |否  <br/> |是  <br/> |
+|[向单元格应用数据有效性](excel-online.md#apply-data-validation-to-cells) <br/> |是  <br/> |是  <br/> |
 |[应用智能/推荐的格式](excel-online.md#apply-smartrecommended-formatting) <br/> |否  <br/> |是  <br/> |
 |[音频笔记录音](onenote-online.md#audio-notes-recording) <br/> |否  <br/> |是  <br/> |
 |[自动完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |

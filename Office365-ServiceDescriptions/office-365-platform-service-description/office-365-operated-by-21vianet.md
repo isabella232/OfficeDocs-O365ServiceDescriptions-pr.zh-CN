@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 2e8342ddbc1601fabffd6713f30bd341b2097ef2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035159"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362947"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -46,12 +46,12 @@ Microsoft 本身并不运营此服务。世纪互联负责运营、提供和管�
 |Office 365 平台<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
 |Skype for Business Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 ProPlus  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Project Online<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Power BI  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Power BI  <br/> |否 <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |否 <br/> |否 <br/> |
 |Visio Online<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Yammer Enterprise  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Azure 信息保护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -689,7 +689,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 |[筛选器搜索](../sharepoint-online-service-description/insights.md#filter-search) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[PerformancePoint 服务](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PerformancePoint 服务 (PPS) 仪表板迁移 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Power BI  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SharePoint 中适用于 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SharePoint 中适用于 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[快速浏览](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |

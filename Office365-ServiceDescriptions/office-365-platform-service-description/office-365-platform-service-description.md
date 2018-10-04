@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 位于不同的计划为了最好地满足组织的需求。如果您正在寻找 Office 365 计划，包括 Exchange Online 计划之间的差异本文将显示在每个包括了哪些功能。
-ms.openlocfilehash: afde2b08f7df511b961e607ce2727f74e30697f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035068"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362857"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -105,7 +105,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Stream  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>18</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |
 |Office Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |

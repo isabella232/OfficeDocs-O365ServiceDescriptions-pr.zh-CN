@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 业务 online 中的限制分为以下类别：
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035046"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362877"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -127,11 +127,11 @@ Skype 业务 online 中的限制分为以下类别：
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F1** <br/> |
-|会议内容保留期：单次会议  <br/> |可配置<sup>1</sup> <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |不适用  <br/> |
-|会议内容保留期：定期会议  <br/> |可配置<sup>1</sup> <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |15 天  <br/> |不适用  <br/> |
+|会议内容保留期：单次会议  <br/> |可配置<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
+|会议内容保留期：定期会议  <br/> |可配置<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
 |会议内容保留期：立即碰头会议  <br/> |可配置<sup>1</sup> <br/> |8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |不适用  <br/> |
 |会议过期：单次会议  <br/> |结束日期以及 365 天<sup>2</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
-|会议过期：定期会议  <br/> |结束日期： 结束日期以及 365 天<sup>2</sup> <br/> 无结束日期： 上次会议加上 6 个月<sup>3</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
+|会议过期：定期会议  <br/> |结束日期： 结束日期以及 365 天<sup>2</sup> <br/> 无结束日期： 始终可访问如果更新 1/3<sup>3</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
 |会议过期：立即碰头会议  <br/> |8 小时  <br/> | 8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |不适用  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Skype 业务 online 中的限制分为以下类别：
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
-|会议内容保留期：单次会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |15 天  <br/> |
-|会议内容保留期：定期会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |15 天  <br/> |
+|会议内容保留期：单次会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |14 天  <br/> |
+|会议内容保留期：定期会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |14 天  <br/> |
 |会议内容保留期：立即碰头会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |8 小时  <br/> |
 |会议过期：单次会议  <br/> |结束日期以及 365 天<sup>2</sup> <br/> |不适用  <br/> |14 天  <br/> |
-|会议过期：定期会议  <br/> |结束日期： 结束日期以及 365 天<sup>2</sup> <br/> 无结束日期： 上次会议加上 6 个月<sup>3</sup> <br/> |不适用  <br/> |14 天  <br/> |
+|会议过期：定期会议  <br/> |结束日期： 结束日期以及 365 天<sup>2</sup> <br/> 无结束日期： 始终可访问如果更新 1/3<sup>3</sup> <br/> |不适用  <br/> |14 天  <br/> |
 |会议过期：立即碰头会议  <br/> |8 小时  <br/> |不适用  <br/> |8 小时  <br/> |
    
 > [!NOTE]

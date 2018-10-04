@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国欧洲的是已可用的 Office 365 服务从一个区分的选项。它有助于中心德国和欧盟 （欧盟），通过从德语数据提供数字工作，我们业界领先的生产力服务欧洲自由贸易关联 (EFTA) 中的最监管客户的需求，与数据住所的地址在德国和严格的数据访问和控制通过唯一数据受信任项模型的度量值调控德语起诉。
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035140"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362957"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 德国欧洲的是已可用的 Office 365 服务从一个区分的选
   
 数据被信任方 T-Systems International 是一家独立的德国公司，同时也是德国电信的子公司，负责控制对客户数据的物理和逻辑访问。德国法律规定，未经数据被信任方的批准或监督，不能访问客户数据。 
   
-鉴于 Office 365 Germany 的独特性质，某些功能尚未启用。随着时间的推移，此服务会逐步启用所有功能，届时将达到与全球服务相等的水平。若要概览内含哪些功能以及如何获得支持，请参阅[了解 Office 365 Germany](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)。
+根据此演变中客户的需求，德国我们云策略将重点关注的新云区域德国符合我们全局云传递提供。与此会议状态中心，我们将无法再接受新客户或部署从当前可用的 Microsoft 云德国任何新的服务。现有客户可以继续使用的当前云服务目前，我们将使用所需的安全性更新维护。[了解 Office 365 德国](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)。
   
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
@@ -85,7 +85,7 @@ Office 365 德国符合 Office 365 云安全性和遵从性标准。Office 365 �
 |Microsoft StaffHub<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Sway<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Teams  <br/> |没有<sup>9</sup> <br/> |否  <br/> |没有<sup>9</sup> <br/> |否  <br/> |没有<sup>9</sup> <br/> |没有<sup>9</sup> <br/> |没有<sup>9</sup> <br/> |否  <br/> |
-|Office Delve<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Office Delve<sup></sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Office 365 组  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 视频  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |**[用户帐户管理](user-account-management.md)** <br/> |**Office 365 Germany 商业协作版** <br/> |**Office 365 Germany 商业版** <br/> |**Office 365 Germany 商业高级版** <br/> |**Office 365 Germany 教育版 A1** <br/> |**Office 365 Germany 企业版 E1** <br/> |**Office 365 Germany 企业版 E3** <br/> |**Office 365 Germany 企业版 E4** <br/> |**Office 365 Germany 企业版 K1** <br/> |
@@ -265,7 +265,8 @@ Office 365 德国符合 Office 365 云安全性和遵从性标准。Office 365 �
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Outlook for Android<sup>11</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**企业价值** <br/> |**Office 专业增强版 2013** <br/> |**Office 专业增强版 2016** <br/> |**Office 365 专业增强版** <br/> |
+|**企业价值** <br/> |**Office 专业增强版 2013** <br/> |**Office 专业增强版 2016** <br/> |
+  **Office 365 专业增强版** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |是  <br/> |是<sup>8</sup> <br/> |
 |自动化用户帐户配置  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |多语言用户界面  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -799,7 +800,7 @@ Office 365 德国符合 Office 365 云安全性和遵从性标准。Office 365 �
 |[反恶意软件保护](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[基于声明的身份验证支持](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |配置向导 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|数据丢失预防 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|数据丢失防护 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |延迟网站集升级 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[数据丢失预防](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[静态加密](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
