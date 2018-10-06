@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 在美国公共部门的唯一和发展要求的响应，Microsoft 创建 Office 365 美国政府计划 (orOffice 365 美国政府)。本节提供特定于 Office 365 美国政府的功能的概述。建议您阅读本节补充旁 Office 365 服务说明。
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362907"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435830"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -213,7 +213,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Microsoft StaffHub  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
 |Microsoft Stream  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |否  <br/> |
 |Microsoft Sway  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
+|Microsoft Teams  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |
 |Office Delve  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是  <br/> |是<sup>9，15</sup> <br/> |
 |Office 365 组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 视频  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |否  <br/> |
@@ -317,6 +317,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 <br/><sup>11</sup>尚未提供在 Office 365 美国政府版产品，但即将提供。 ><br/><sup>12</sup>不包含，但可以作为 GCC 在单独的附加项进行购买。 
 <br/>不支持 Office 365 美国政府版产品<sup>13</sup> 。 
 <br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)。需要管理员权限。有关详细信息，请参阅[介绍 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=836894)。<br/><sup>15</sup> DoD 环境中，但即将推出中尚未提供。 
+<br><sup>16</sup>不可用 GCC 高或 DoD 中。
   
 [如何使用本服务说明部分](office-365-us-government.md#how-to-use-this-service-description-section)
   

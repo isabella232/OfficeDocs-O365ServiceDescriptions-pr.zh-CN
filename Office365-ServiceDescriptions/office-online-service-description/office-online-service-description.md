@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 Excel、 OneNote 和 PowerPoint 文档。Office Online 可更轻松地工作和共享从任何位置的 Office 文件具有 Internet 连接，从几乎任何设备。与 Word、 Excel、 OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以查看、 创建和编辑在文件。
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362867"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435820"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
@@ -119,24 +119,22 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 ||||
 |:-----|:-----|:-----|
 |**应用程序功能** <br/> |**Excel Online** <br/> |**Excel 桌面应用** <br/> |
+|[辅助功能检查器](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[添加超链接](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[高级时间筛选（时间线切片器）](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |否  <br/> |是  <br/> |
 |[对齐方式](excel-online.md#alignment) <br/> |是  <br/> |是  <br/> |
-|[应用条件格式](excel-online.md#apply-conditional-formatting) <br/> |否  <br/> |是  <br/> |
-|[向单元格应用数据有效性](excel-online.md#apply-data-validation-to-cells) <br/> |是  <br/> |是  <br/> |
+|[应用条件格式](excel-online.md#apply-conditional-formatting) <br/> |是  <br/> |是  <br/> |
 |[应用智能/推荐的格式](excel-online.md#apply-smartrecommended-formatting) <br/> |否  <br/> |是  <br/> |
 |[音频笔记录音](onenote-online.md#audio-notes-recording) <br/> |否  <br/> |是  <br/> |
 |[自动完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
 |[自动求和](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[计算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
-|[图表和表格，包括数据透视图和数据透视表](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |是<sup>1、2</sup> <br/> |是  <br/> |
-|[适应新数据的图表动画](excel-online.md#chart-animations-adapt-to-new-data) <br/> |否  <br/> |是  <br/> |
 |[创建批注](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[复制和粘贴](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
-|[创建外部数据连接](excel-online.md#create-external-data-connections) <br/> |没有<sup>3</sup> <br/> |是  <br/> |
+|[创建外部数据连接<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |没有<sup>3</sup> <br/> |是  <br/> |
 |[创建表格](excel-online.md#create-tables) <br/> |是  <br/> |是  <br/> |
 |[创建高级分析视图（Power View、Power Pivot、切片器）](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |否  <br/> |是  <br/> |
-|[数据验证](excel-online.md#data-validation) <br/> |是<sup>4</sup> <br/> |是  <br/> |
+|[数据验证](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放单元格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[在 Web 或博客页面上嵌入工作簿 (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
@@ -146,17 +144,20 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[字体和单元格格式](excel-online.md#font-and-cell-formatting) <br/> |是  <br/> |是  <br/> |
 |[编辑栏](excel-online.md#formula-bar) <br/> |是  <br/> |是  <br/> |
 |[公式工具 - 高级](excel-online.md#formula-tools--advanced) <br/> |否  <br/> |是  <br/> |
-|[冻结窗格](excel-online.md#freeze-panes) <br/> |没有<sup>6</sup> <br/> |是  <br/> |
+|[冻结窗格](excel-online.md#freeze-panes) <br/> |是 <br/> |是  <br/> |
 |[全保真阅读视图](excel-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[函数](excel-online.md#functions) <br/> |是  <br/> |是  <br/> |
 |[转到](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
 |[隐藏/取消隐藏行、列和表格](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
+|[插入形状/图片](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入图表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/删除行和列](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
 |[合并单元格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
 |[数值格式](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
-|[Office 外接程序](excel-online.md#office-add-ins) <br/> |是<sup>7</sup> <br/> |是  <br/> |
+|[Office 外接程序](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
 |[脱机查看和创作](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
+|[数据透视图](excel-online.md#post-to-social-network-and-present-online) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
+|[数据透视表](excel-online.md#post-to-social-network-and-present-online) <br/> |是  <br/> |是  <br/> |
 |[发布到社交网络并联机演示](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |是  <br/> |
 |[Power Pivot 查看](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
 |[Power View 查看](excel-online.md#power-view-viewing) <br/> |是  <br/> |是  <br/> |
@@ -176,14 +177,15 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[电子表格审核和合规性](excel-online.md#spreadsheet-audit-and-compliance) <br/> |否  <br/> |是  <br/> |
 |[状态栏聚合](excel-online.md#status-bar-aggregates) <br/> |是  <br/> |是  <br/> |
 |[调查](excel-online.md#surveys) <br/> |是  <br/> |否  <br/> |
-|[告诉我](excel-online.md#tell-me) <br/> |是  <br/> |否  <br/> |
+|[告诉我](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[撤消和恢复](excel-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
-|[VBA 和宏脚本](excel-online.md#vba-and-macro-scripting) <br/> |是  <br/> |是  <br/> |
+|[VBA 和宏脚本](excel-online.md#vba-and-macro-scripting) <br/> |是<sup>3</sup>  <br/> |是  <br/> |
 |[查看 3D 图表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
-> <sup>1</sup> 虽然无法创建数据透视图或数据透视表，但可以在查看器中查看它们。 
- <br/><sup>2</sup>在大多数情况下图中，表、 数据透视图报表和数据透视表报告显示了桌面版中一样。例外情况包括图表的图表、 依赖于外部引用的图表和使用不支持在浏览器中查看工作簿的数据源的图表组的一部分。 <br/><sup>3</sup>具体取决于您的环境的配置方式，某些类型的数据连接受支持在 Excel Online 中显示工作簿。有关详细信息，请参阅[在浏览器窗口中的工作簿中刷新数据](https://go.microsoft.com/fwlink/?linkid=847468)。 <br/><sup>4</sup> 虽然可以在 Excel Online 中编辑使用数据验证的工作簿，但不能在 Excel Online 中设置数据验证。 
+> <sup>1</sup>不能创建数据透视图仅查看。
+ <br/><sup>2</sup>具体取决于您的环境的配置方式，某些类型的数据连接受支持在 Excel Online 中显示工作簿。有关详细信息，请参阅在浏览器窗口中的工作簿中刷新数据。 <br/><sup>3</sup>您无法使用在 Excel Online 中的 VBA 创建宏，但您可以打开并编辑启用 VBA 的电子表格，而无需删除 （或破坏） 文件中包含的 VBA。
+ <br/><sup>4</sup> 虽然可以在 Excel Online 中编辑使用数据验证的工作簿，但不能在 Excel Online 中设置数据验证。 
  <br/><sup>5</sup> 在 Excel Online 中，最后一个已知的引用值在浏览器窗口中显示，但必须使用 Excel 桌面版进行更新。 
  <br/><sup>6</sup> 虽然可以查看使用 Excel 桌面应用程序创建的冻结窗格，但无法在 Excel Online 中创建冻结窗格。 
  <br/><sup>7</sup> 某些（并非所有）Office 外接程序可用。 
