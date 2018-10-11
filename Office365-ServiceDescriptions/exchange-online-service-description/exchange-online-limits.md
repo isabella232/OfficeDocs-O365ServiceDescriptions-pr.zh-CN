@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: f6b47ddbbba3eeb40c564bbcfa5ace25671ade9e
-ms.sourcegitcommit: 451688016111b1ccae37b9b84d7cf53d844acdbc
+ms.openlocfilehash: 26fc2f55bc678103b92607978d3a5c746d5df8cc
+ms.sourcegitcommit: 0b61418567c542fe1f22da3174627b427218e18d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/08/2018
-ms.locfileid: "25450574"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25492792"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -112,7 +112,7 @@ Microsoft Exchange Online 中的限制分为以下类别之一：
 |组邮箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>每个用户最初在存档邮箱中接收 100 GB 的存储。自动扩展存档打开时，达到 100 GB 存储容量时，会自动添加额外的存储空间。有关详细信息，请参阅[Overview of Office 365 中的无限制存档](https://go.microsoft.com/fwlink/?linkid=844060)。请参阅[Office 365 路线图](http://go.microsoft.com/fwlink/?LinkId=509914)有关可用性的详细信息。<br/>  <sup>2</sup>访问共享的邮箱，用户必须拥有 Exchange Online 许可。共享的邮箱不需要单独的许可证。但是，没有许可证，共享的邮箱被限制为 50 GB。若要增加的邮箱大小，必须分配一个 E3 或 E5 许可证。这将增加到 100 GB 的邮箱。如果您想要启用存档邮箱或置于诉讼保留共享邮箱，然后 Exchange Online 计划 2 许可证或 Exchange Online 计划 1 与 Exchange Online Archiving 许可证则需要。如果您启用存档邮箱和共享邮箱的自动扩展存档，达到存档邮箱的 100 GB 存储容量时，会自动添加额外的存储空间。<br/>  <sup>3</sup>资源邮箱不需要许可证。但是，没有许可证，共享的邮箱被限制为 50 GB。若要增加的邮箱大小，必须分配一个 E3 或 E5 许可证。这将增加到 100 GB 的邮箱。<br/>  <sup>4</sup>存档邮箱不包括在 Exchange Online 网亭中。但是，他们可以通过 Exchange Online Archiving 作为购买。有关详细信息，请参阅[Exchange Online 存档 Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。<br/>  站点邮箱的创建和管理 SharePoint Online 中的<sup>5</sup> 。有关详细信息，请参阅[使用 Office 365 中的站点邮箱的准备](http://go.microsoft.com/fwlink/p/?LinkId=299131)。<br/>  仅限于 1000 个公用文件夹邮箱的<sup>6</sup>和所有公用文件夹邮箱的最大总大小为 50 TB。<br/>  <sup>7</sup>存档邮箱可以仅用于存档的已应用许可证为单个用户或实体 （如共享邮箱） 的邮件。作为一种存储来自多个用户或实体的邮件使用存档邮箱已被禁止。例如，IT 管理员不能创建共享的邮箱，并让用户将其用于存档的显式目的 （通过抄送或密件抄送字段中，或通过传输规则） 复制。请注意多个联系人使用共享的邮箱不实际存储这些单个用户的电子邮件。多个用户具有访问权限，并为共享邮箱发送电子邮件。因此，仅存储在共享邮箱的电子邮件那些发送到或来自它，*为*共享邮箱。<br/>  <sup>8</sup>如果您已在 Exchange Online 中创建保留策略，消息将自动移动到用户的存档邮箱仅当用户的主邮箱已超过 10 MB。小于 10 MB 的邮箱，将保留策略将不会自动运行。<br/>  <sup>9</sup>共享和资源邮箱不需要许可证。但是，没有许可证，共享的邮箱被限制为 50 GB。若要增加的邮箱大小，必须分配一个 E3 或 E5 许可证。这将增加到 100 GB 的邮箱。 
+> <sup>1</sup>每个用户最初在存档邮箱中接收 100 GB 的存储。自动扩展存档打开时，达到 100 GB 存储容量时，会自动添加额外的存储空间。有关详细信息，请参阅[Overview of Office 365 中的无限制存档](https://go.microsoft.com/fwlink/?linkid=844060)。请参阅[Office 365 路线图](http://go.microsoft.com/fwlink/?LinkId=509914)有关可用性的详细信息。<br/>  <sup>2</sup>访问共享的邮箱，用户必须拥有 Exchange Online 许可。共享的邮箱不需要单独的许可证。但是，没有许可证，共享的邮箱被限制为 50 GB。若要增加的邮箱大小，必须分配一个 E3 或 E5 许可证。这将增加到 100 GB 的邮箱。如果您想要启用存档邮箱或置于诉讼保留共享邮箱，然后 Exchange Online 计划 2 许可证或 Exchange Online 计划 1 与 Exchange Online Archiving 许可证则需要。如果您启用存档邮箱和共享邮箱的自动扩展存档，达到存档邮箱的 100 GB 存储容量时，会自动添加额外的存储空间。<br/>  <sup>3</sup>资源邮箱不需要许可证。但是，没有许可证，共享的邮箱被限制为 50 GB。若要增加的邮箱大小，必须分配一个 E3 或 E5 许可证。这将增加到 100 GB 的邮箱。<br/>  <sup>4</sup>存档邮箱不包括在 Exchange Online 网亭中。但是，他们可以通过 Exchange Online Archiving 作为购买。有关详细信息，请参阅[Exchange Online 存档 Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。<br/>  站点邮箱的创建和管理 SharePoint Online 中的<sup>5</sup> 。有关详细信息，请参阅[使用 Office 365 中的站点邮箱的准备](http://go.microsoft.com/fwlink/p/?LinkId=299131)。<br/>  仅限于 1000 个公用文件夹邮箱的<sup>6</sup>和所有公用文件夹邮箱的最大总大小为 50 TB。层次结构提供邮箱被限制为 100 个公用文件夹邮箱。<br/>  <sup>7</sup>存档邮箱可以仅用于存档的已应用许可证为单个用户或实体 （如共享邮箱） 的邮件。作为一种存储来自多个用户或实体的邮件使用存档邮箱已被禁止。例如，IT 管理员不能创建共享的邮箱，并让用户将其用于存档的显式目的 （通过抄送或密件抄送字段中，或通过传输规则） 复制。请注意多个联系人使用共享的邮箱不实际存储这些单个用户的电子邮件。多个用户具有访问权限，并为共享邮箱发送电子邮件。因此，仅存储在共享邮箱的电子邮件那些发送到或来自它，*为*共享邮箱。<br/>  <sup>8</sup>如果您已在 Exchange Online 中创建保留策略，消息将自动移动到用户的存档邮箱仅当用户的主邮箱已超过 10 MB。小于 10 MB 的邮箱，将保留策略将不会自动运行。<br/>  <sup>9</sup>共享和资源邮箱不需要许可证。但是，没有许可证，共享的邮箱被限制为 50 GB。若要增加的邮箱大小，必须分配一个 E3 或 E5 许可证。这将增加到 100 GB 的邮箱。 
   
 ### <a name="storage-limits-across-standalone-plans"></a>跨独立计划的存储限制
 
