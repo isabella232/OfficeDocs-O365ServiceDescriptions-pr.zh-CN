@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国欧洲的是已可用的 Office 365 服务从一个区分的选项。它有助于中心德国和欧盟 （欧盟），通过从德语数据提供数字工作，我们业界领先的生产力服务欧洲自由贸易关联 (EFTA) 中的最监管客户的需求，与数据住所的地址在德国和严格的数据访问和控制通过唯一数据受信任项模型的度量值调控德语起诉。
-ms.openlocfilehash: 1b3de84245762fafed85ed1e37fc03207e51766d
-ms.sourcegitcommit: 88bc607a51846db46509c4453c3438406f3f2f54
+ms.openlocfilehash: 1e51cfe53876e848519f154384611fef06847607
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "25407685"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435840"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -74,7 +74,7 @@ Office 365 德国符合 Office 365 云安全性和遵从性标准。Office 365 �
 |**功能** <br/> |**Office 365 Germany 商业协作版** <br/> |**Office 365 Germany 商业版** <br/> |**Office 365 Germany 商业高级版** <br/> |**Office 365 Germany 教育版 A1** <br/> |**Office 365 Germany 企业版 E1** <br/> |**Office 365 Germany 企业版 E3** <br/> |**Office 365 Germany 企业版 E4** <br/> |**Office 365 Germany 企业版 K1** <br/> |
 |**[Office 365 管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> |||||||||
 |使用 Office 365 管理中心 或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 信息保护保护内容  <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>9</sup> <br/> |没有<sup>9</sup> <br/> |没有<sup>2</sup> <br/> |
+|使用 Azure 信息保护保护内容  <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |否 <br/> |否 <br/> |没有<sup>2</sup> <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 Germany 商业协作版** <br/> |**Office 365 Germany 商业版** <br/> |**Office 365 Germany 商业高级版** <br/> |**Office 365 Germany 教育版 A1** <br/> |**Office 365 Germany 企业版 E1** <br/> |**Office 365 Germany 企业版 E3** <br/> |**Office 365 Germany 企业版 E4** <br/> |**Office 365 Germany 企业版 K1** <br/> |
 |Microsoft 预订  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -161,7 +161,7 @@ Office 365 德国符合 Office 365 云安全性和遵从性标准。Office 365 �
 |客户锁箱  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Office 365 高级电子数据展示  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |安全分数 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[合规性[ServiceDesc]](compliance-servicedesc.md)**<sup>10</sup> <br/> |||||||||
+|**[合规性 [ServiceDesc]](compliance-servicedesc.md)**<sup>9</sup>  <br/> |||||||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -180,7 +180,7 @@ Office 365 德国符合 Office 365 云安全性和遵从性标准。Office 365 �
 |**[产品使用权限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> office 365 德国不用于任何不受其制造商支持的操作系统提供支持。> <sup>2</sup> azure 信息保护不包括在内，但可以作为单独的附加项购买和将启用受支持的信息权限管理 (IRM) 功能。有些 Azure 信息保护功能需要订阅 Office 365 ProPlus，其中不包含在 Office 365 德国业务 Essentials、 Office 365 德国企业高级版、 Office 365 德国企业版 E1、 Office 365 德国教育 A1，或Office 365 德国企业版 K1。> <sup>3</sup>如果与本地 Active Directory 中使用目录同步，您必须删除帐户或更改密码使用本地 Active Directory，而不是 Office 365 门户或使用 Windows Azure Active Directory 模块PowerShell。> <sup>4</sup> ，以了解如何设置自助服务密码管理策略的用户，请参阅[管理 Azure AD 中的密码](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。> 术语折扣购的<sup>5</sup>减少座位可能受到早期终止费用。这不适用于按月付费的订阅。> <sup>6</sup> office 365 德国教育 A1 计划不支持从 Office 365 管理中心的许可证座位更改。> <sup>7</sup>包含一些 Office 365 德国计划使用客户端软件应用程序，例如 Office 365 ProPlus Office 2016 和 Office 2013 的权限。最终用户的设备上，而不是在德国的数据中心内，将运行客户端软件应用程序。为了您与 Microsoft 的协议，客户端软件应用程序不[德语联机服务](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)。客户端软件应用程序还可让最终用户能够访问不德语在线服务的联机服务。德语数据住所承诺和访问控制通过德国的数据的受信任项仅适用于德语联机服务。> <sup>8</sup>[现代身份验证](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)必须启用与 Office 365 德国一起使用。> <sup>9</sup>未来可用性规划 Office 365 德国。> <sup>10</sup> office 365 德国构建遵守云安全性和遵从性标准的 Office 365 中。Office 365 提供一组全面的认证，独立评估通过获得资格鉴定审核员 SOC、 ISO 和审查的一部分。认证包括 ISO 27001/27002，27017、 27018 和 SOC 1 &amp; 2 证书。在 Office 365 德国的其他数据受信任项控件将由独立 assessors 我们每年的 ISO 和 SOC 审核的一部分进行评估。 
+> <sup>1</sup> office 365 德国不用于任何不受其制造商支持的操作系统提供支持。> <sup>2</sup> azure 信息保护不包括在内，但可以作为单独的附加项购买和将启用受支持的信息权限管理 (IRM) 功能。有些 Azure 信息保护功能需要订阅 Office 365 ProPlus，其中不包含在 Office 365 德国业务 Essentials、 Office 365 德国企业高级版、 Office 365 德国企业版 E1、 Office 365 德国教育 A1，或Office 365 德国企业版 K1。> <sup>3</sup>如果与本地 Active Directory 中使用目录同步，您必须删除帐户或更改密码使用本地 Active Directory，而不是 Office 365 门户或使用 Windows Azure Active Directory 模块PowerShell。> <sup>4</sup> ，以了解如何设置自助服务密码管理策略的用户，请参阅[管理 Azure AD 中的密码](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。> 术语折扣购的<sup>5</sup>减少座位可能受到早期终止费用。这不适用于按月付费的订阅。> <sup>6</sup> office 365 德国教育 A1 计划不支持从 Office 365 管理中心的许可证座位更改。> <sup>7</sup>包含一些 Office 365 德国计划使用客户端软件应用程序，例如 Office 365 ProPlus Office 2016 和 Office 2013 的权限。最终用户的设备上，而不是在德国的数据中心内，将运行客户端软件应用程序。为了您与 Microsoft 的协议，客户端软件应用程序不[德语联机服务](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)。客户端软件应用程序还可让最终用户能够访问不德语在线服务的联机服务。德语数据住所承诺和访问控制通过德国的数据的受信任项仅适用于德语联机服务。> <sup>8</sup>[现代身份验证](https://support.office.com/en-us/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)必须启用与 Office 365 德国一起使用。> <sup>9</sup> office 365 德国构建遵守云安全性和遵从性标准的 Office 365 中。Office 365 提供一组全面的认证，独立评估通过获得资格鉴定审核员 SOC、 ISO 和审查的一部分。认证包括 ISO 27001/27002，27017、 27018 和 SOC 1 &amp; 2 证书。在 Office 365 德国的其他数据受信任项控件将由独立 assessors 我们每年的 ISO 和 SOC 审核的一部分进行评估。 
   
 ## <a name="office-application-features"></a>Office 应用程序功能
 <a name="BM1_Platform"> </a>
