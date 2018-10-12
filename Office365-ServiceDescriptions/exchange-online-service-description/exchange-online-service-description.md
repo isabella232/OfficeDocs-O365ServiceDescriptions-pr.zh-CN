@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否在寻找包括 Exchange Online 的 Office 365 订阅的功能比较？如果是这样，Exchange Online 服务说明，本文即是您需要哪种产品。您还将了解有关系统要求，以及存储和收件人的要求。
-ms.openlocfilehash: cf3d329ffa05998113e8e2c075cbc236b99fb413
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f0213330dbafe58a3f9b2a8164aab46d83ca9dfb
+ms.sourcegitcommit: 0588f7b5bcbebea9a4494025a4322f68afdd4271
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035220"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498048"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -158,7 +158,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |OWA 和 Outlook 中的 Skype for Business 状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint 互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 连接性支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|EWS 连接性支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |SMTP 中继支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |Microsoft Office 365 门户访问  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
