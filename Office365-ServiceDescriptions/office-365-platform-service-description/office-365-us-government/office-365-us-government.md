@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 在美国公共部门的唯一和发展要求的响应，Microsoft 创建 Office 365 美国政府计划 (orOffice 365 美国政府)。本节提供特定于 Office 365 美国政府的功能的概述。建议您阅读本节补充旁 Office 365 服务说明。
-ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
+ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435830"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "25696137"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -286,7 +286,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |高级数据治理  <br/> |没有<sup>12、 15</sup> <br/> |没有<sup>12、 15</sup> <br/> |是<sup>15</sup> <br/> |没有<sup>12、 15</sup> <br/> |
 |云应用程序安全性  <br/> |没有<sup>11、 12</sup> <br/> |没有<sup>11、 12</sup> <br/> |是<sup>11</sup> <br/> |没有<sup>11、 12</sup> <br/> |
 |高级威胁防护  <br/> |没有<sup>12</sup> <br/> |没有<sup>12</sup> <br/> |是  <br/> |没有<sup>12</sup> <br/> |
-|客户锁箱  <br/> |没有<sup>9，12，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |是<sup>9，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |
+|客户密码箱  <br/> |没有<sup>9，12，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |是<sup>9，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |
 |Office 365 高级电子数据展示  <br/> |没有<sup>12、 15</sup> <br/> |没有<sup>12、 15</sup> <br/> |是  <br/> |没有<sup>9、 15</sup> <br/> |
 |安全功能分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |否  <br/> |
@@ -343,7 +343,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
-|Outlook 开发 iOS 和 Android<sup>5</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
+|Outlook 开发 iOS 和 Android<sup>5、 4</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |**企业价值** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府 G5** <br/> |**Office 365 美国政府 F1** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
