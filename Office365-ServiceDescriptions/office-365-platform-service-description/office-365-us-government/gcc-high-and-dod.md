@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Microsoft 提供受到国际流量在 Arm 法规 (ITAR)，或以满足美国防御部门以及承包商的唯一和发展要求按住或处理 DoD 控制未分类的信息 (CUI)GCC 高和 DoD 环境。可通过批量许可，感的组织经过验证过程以确保资格建立环境之前。Trials 此时不可用。
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035158"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719066"
 ---
 # <a name="gcc-high-and-dod"></a>GCC 高和 DoD
 
@@ -76,7 +76,7 @@ GCC 高和 DoD 环境中的 office 365 订阅包括核心 Exchange Online、 Sha
     
 4. 特定的某个人
     
-使用 SharePoint Online 和 OneDrive for GCC 高或 DoD 环境中的业务可以保留文档专用客户 （首选项），与任何人共享其组织中 （第二个选项），与任何人都指向该文档的链接共享 （第三个选项），和与内部 GCC 高的特定人员共享和 DoD 环境 （第四个选项）;当然，这些选项可以限制基于以及租户级访问控制。
+使用 SharePoint Online 和 OneDrive for GCC 高或 DoD 环境中的业务可以保留文档专用客户 （首选项），与任何人共享其组织中 （第二个选项），与任何人都指向该文档的链接共享 （第三个选项），和共享与 GCC 高和 DoD 环境中特定的用户 （第四个选项）;当然，这些选项可以限制基于以及租户级访问控制。
   
 GCC 高租户可以仅与其他 GCC 高租户共享。例如：
   
