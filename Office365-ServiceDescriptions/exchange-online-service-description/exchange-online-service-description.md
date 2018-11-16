@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否在寻找包括 Exchange Online 的 Office 365 订阅的功能比较？如果是这样，Exchange Online 服务说明，本文即是您需要哪种产品。您还将了解有关系统要求，以及存储和收件人的要求。
-ms.openlocfilehash: f0213330dbafe58a3f9b2a8164aab46d83ca9dfb
-ms.sourcegitcommit: 0588f7b5bcbebea9a4494025a4322f68afdd4271
+ms.openlocfilehash: 6432d0e983f3e26bb8ee4f9691cfa60900aed377
+ms.sourcegitcommit: 7934820e33c704647cc50b2e00f15741add2d274
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "25498048"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "26544073"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -88,7 +88,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |就地电子数据展示  <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是  <br/> |
 |传输规则  <br/> |是 <sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |数据丢失防护  <br/> |是<sup>5、14</sup> <br/> |是<sup>5、14</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日记  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |内置反垃圾邮件保护  <br/> |是 <sup>6</sup> <br/> |是 <sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义反垃圾邮件策略  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>7</sup> <br/> |
@@ -107,7 +107,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |容量报警  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |混乱邮件  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |邮件提示  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|委派访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|委派访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |没有<sup>24</sup>  <br/> |
 |收件箱规则  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |已连接帐户  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |
 |非活动邮箱  <br/> |否  <br/> |否  <br/> |没有<sup>9</sup> <br/> |没有<sup>9</sup> <br/> |没有<sup>9</sup> <br/> |是  <br/> |是  <br/> |否 <sup>9</sup> <br/> |
@@ -171,7 +171,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |Outlook 外接程序和 Outlook MAPI  <br/> |是<sup>19</sup> <br/> |是  <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |否  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>的每个内部部署邮箱用户具有的基于云的存档需要 Exchange Online Archiving (EOA) 订阅。 <br/> <sup>2</sup> azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理 (IRM) 功能。某些 Azure 信息保护功能需要订阅 Office 365 ProPlus，后者不包含 Office 365 业务 Essentials、 Office 365 企业高级版、 Office 365 企业版 E1、 Office 365 教育或 Office 365 企业 F1。 <br/> <sup>3</sup> Windows Server AD RMS 是一款本地服务器，必须购买并管理单独，以便启用支持的 IRM 功能。 <br/> <sup>4</sup>传输规则组成的灵活的条件，使您能够定义条件和例外和操作执行基于条件。可用条件和操作 Exchange Online 和 Microsoft Exchange Server 2013 之间的不同。有关可用条件和操作的列表，请参阅的对应条件和每个产品的操作主题。 <br/> <sup>5</sup>的 Exchange 2013 DLP 需要 Exchange 企业客户端访问许可证 (CAL)。有关 Cal 和服务器授权的详细信息，请参阅[Exchange 服务器授权](https://go.microsoft.com/fwlink/p/?LinkId=299133)。 <br/> <sup>6</sup> Exchange Server 2013 中的大部分 Exchange Server 2010 相同的内置反垃圾邮件功能。承载的 Exchange 垃圾邮件筛选通过内部部署产品的优点的信息，请参阅[Exchange Online Protection 通过 Exchange Server 2013 中的反垃圾邮件功能的好处](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 <br/> <sup>7</sup>仅可通过直接访问 Exchange 管理中心 (eac) 管理界面。 <br/><sup>8</sup> Exchange Server 2013 使用只有 Microsoft 反恶意软件引擎。Exchange Online 使用多个反恶意软件引擎来扫描入站、 出站和内部邮件的恶意软件。 <br/><sup>9</sup> EOA 订阅可以单独购买需要非活动邮箱功能的每个邮箱。 <br/> <sup>10</sup> SharePoint 必须部署在内部部署 Exchange 组织。 <br/> <sup>11</sup> SharePoint Online 必须包含在 Office 365 订阅计划。 <br/> <sup>12</sup>支持 POP，但 IMAP 不是。 <br/> 购买 Azure 信息保护 Exchange Server 2013 内部部署客户的<sup>13</sup>支持。Office 365 邮件加密的电子邮件过滤，使用 Exchange Online Protection 或通过建立混合邮件流需要通过 Exchange Online 路由电子邮件的本地客户。 <br/>Exchange Server 2013 客户需要下载并安装 SP1 才能访问文档指纹和策略提示 OWA 和 OWA for Devices 中<sup>14</sup> 。 <br/> <sup>15</sup> for Exchange Server 2013 支持 BitLocker 驱动器加密，但管理员需要启用功能。 <br/> <sup>16</sup> office 365 业务 Essentials、 Office 365 企业高级版，和 Office 365 企业 F1 不提供访问权限与本地服务器的工时利用率。以符合，客户必须购买或先前已购买相应 Cal 或升级到企业 SKU 提供这些访问权限。 <br/><sup>17</sup>已连接的帐户支持 POP &amp; IMAP 帐户，但禁用 Outlook.com (Hotmail)。 <br/> <sup>18</sup> 不支持使用 cmdlet 来使用地址列表和全局地址列表。<br/><sup>19</sup>一些第三方 web 部件和加载项可能不可用。 <br/><sup>20</sup>电子数据展示，您需要在本地与云的一个单独的查询。 <br/><sup>21</sup>表指示客户端处理关联的计划。并不表示客户端一定要包括在这些计划购买。 <br/><sup>22</sup>的详细信息，请参阅[控制您使用客户密钥的 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 <br/> <sup>23</sup> Exchange Online UM 支持第三方 PBX 系统通过直接从客户的客户 Sbc 连接将在 4 月 2019年结束。请参阅 Exchange 团队博客[终止的会话边界控制器在 Exchange Online 统一消息支持](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)的详细信息。 
+> <sup>1</sup>的每个内部部署邮箱用户具有的基于云的存档需要 Exchange Online Archiving (EOA) 订阅。 <br/> <sup>2</sup> azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理 (IRM) 功能。某些 Azure 信息保护功能需要订阅 Office 365 ProPlus，后者不包含 Office 365 业务 Essentials、 Office 365 企业高级版、 Office 365 企业版 E1、 Office 365 教育或 Office 365 企业 F1。 <br/> <sup>3</sup> Windows Server AD RMS 是一款本地服务器，必须购买并管理单独，以便启用支持的 IRM 功能。 <br/> <sup>4</sup>传输规则组成的灵活的条件，使您能够定义条件和例外和操作执行基于条件。可用条件和操作 Exchange Online 和 Microsoft Exchange Server 2013 之间的不同。有关可用条件和操作的列表，请参阅的对应条件和每个产品的操作主题。 <br/> <sup>5</sup>的 Exchange 2013 DLP 需要 Exchange 企业客户端访问许可证 (CAL)。有关 Cal 和服务器授权的详细信息，请参阅[Exchange 服务器授权](https://go.microsoft.com/fwlink/p/?LinkId=299133)。 <br/> <sup>6</sup> Exchange Server 2013 中的大部分 Exchange Server 2010 相同的内置反垃圾邮件功能。承载的 Exchange 垃圾邮件筛选通过内部部署产品的优点的信息，请参阅[Exchange Online Protection 通过 Exchange Server 2013 中的反垃圾邮件功能的好处](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 <br/> <sup>7</sup>仅可通过直接访问 Exchange 管理中心 (eac) 管理界面。 <br/><sup>8</sup> Exchange Server 2013 使用只有 Microsoft 反恶意软件引擎。Exchange Online 使用多个反恶意软件引擎来扫描入站、 出站和内部邮件的恶意软件。 <br/><sup>9</sup> EOA 订阅可以单独购买需要非活动邮箱功能的每个邮箱。 <br/> <sup>10</sup> SharePoint 必须部署在内部部署 Exchange 组织。 <br/> <sup>11</sup> SharePoint Online 必须包含在 Office 365 订阅计划。 <br/> <sup>12</sup>支持 POP，但 IMAP 不是。 <br/> 购买 Azure 信息保护 Exchange Server 2013 内部部署客户的<sup>13</sup>支持。Office 365 邮件加密的电子邮件过滤，使用 Exchange Online Protection 或通过建立混合邮件流需要通过 Exchange Online 路由电子邮件的本地客户。 <br/>Exchange Server 2013 客户需要下载并安装 SP1 才能访问文档指纹和策略提示 OWA 和 OWA for Devices 中<sup>14</sup> 。 <br/> <sup>15</sup> for Exchange Server 2013 支持 BitLocker 驱动器加密，但管理员需要启用功能。 <br/> <sup>16</sup> office 365 业务 Essentials、 Office 365 企业高级版，和 Office 365 企业 F1 不提供访问权限与本地服务器的工时利用率。以符合，客户必须购买或先前已购买相应 Cal 或升级到企业 SKU 提供这些访问权限。 <br/><sup>17</sup>已连接的帐户支持 POP &amp; IMAP 帐户，但禁用 Outlook.com (Hotmail)。 <br/> <sup>18</sup> 不支持使用 cmdlet 来使用地址列表和全局地址列表。<br/><sup>19</sup>一些第三方 web 部件和加载项可能不可用。 <br/><sup>20</sup>电子数据展示，您需要在本地与云的一个单独的查询。 <br/><sup>21</sup>表指示客户端处理关联的计划。并不表示客户端一定要包括在这些计划购买。 <br/><sup>22</sup>的详细信息，请参阅[控制您使用客户密钥的 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 <br/> <sup>23</sup> Exchange Online UM 支持第三方 PBX 系统通过直接从客户的客户 Sbc 连接将在 4 月 2019年结束。请参阅 Exchange 团队博客[终止的会话边界控制器在 Exchange Online 统一消息支持](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)的详细信息。<br><sup>24</sup> F1 用户不能将代理人添加到其自己的邮箱，但他们可以访问 （包括共享的邮箱） 的另一个邮箱并执行已委派给他们的任何操作。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>跨 Exchange Online 独立计划的功能可用性
 
@@ -200,7 +200,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |就地电子数据展示  <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |
 |传输规则  <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |
 |数据丢失防护  <br/> |是<sup>10、14</sup> <br/> |是<sup>10、14</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
-|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日记  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
 |内置反垃圾邮件保护  <br/> |是 <sup>2</sup> <br/> |是 <sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义反垃圾邮件策略  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |

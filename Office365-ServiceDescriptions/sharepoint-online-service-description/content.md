@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是基于 Web 的工具和技术，帮助组织存储、 共享和管理数字信息的集合。构建在 Microsoft SharePoint Server 2013，此托管的服务非常适合处理项目、 在一个中心位置中存储数据和文档和与其他人共享信息。以下内容功能轻松企业内容管理 (ECM) 的每个人。它是传统内容管理、 社交功能和强大的搜索的组合。
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035133"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215377"
 ---
 # <a name="content"></a>内容
 
@@ -39,7 +39,7 @@ SharePoint Online 是基于 Web 的工具和技术，帮助组织存储、 共�
 ## <a name="auditing"></a>审核
 <a name="bkmk_Auditing"> </a>
 
-SharePoint Online 网站集管理员可以使用审核功能跟踪用户对网站集的网站、内容类型、列表、库、列表项和库文件执行的操作。详细了解如何[配置网站集的审核设置](https://go.microsoft.com/fwlink/?LinkId=270950)。
+SharePoint Online 网站集管理员可以使用审核功能来跟踪哪些用户拥有网站、 内容类型、 列表、 库、 列表项和库文件的网站集执行的操作。了解有关[配置审核设置的网站集](https://go.microsoft.com/fwlink/?LinkId=270950)。
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>审核&amp;报告（例如，文档编辑、策略编辑、删除）
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ SharePoint 用户拥有一个存储已删除内容的回收站。如果需要，
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM：搜索引擎优化 (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-优化公共网站搜索对于获取新老客户非常重要。SharePoint Online 内置 SEO 功能（如可自定义的 robots.txt 和页面级元标记），因此组织可以轻松调整网站以优化搜索结果。详细了解如何[优化网站搜索](https://go.microsoft.com/fwlink/?LinkId=270932)。
+优化搜索的公共网站是非常重要与新的和返回客户连接。SharePoint Online 包括内置 SEO 功能，如可自定义 robots.txt 和页级别 metatagging 使组织可以轻松地调整更好的搜索结果的网站。
   
 ## <a name="word-automation-services"></a>Word 自动化服务
 <a name="bkmk_WordAutomationServices"> </a>

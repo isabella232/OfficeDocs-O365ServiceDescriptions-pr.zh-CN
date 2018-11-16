@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 业务 online 中的限制分为以下类别：
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362877"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296862"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -119,41 +119,20 @@ Skype 业务 online 中的限制分为以下类别：
     
 - **会议有效期** 在会议结束后，用户可访问该会议的时间。 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Office 365 各选项中的会议保留限制
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 选项和独立计划会议保留限制
 
 > [!NOTE]
 > 每个人可以随时在数据库中有 1000年会议的最大值。 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F1** <br/> |
-|会议内容保留期：单次会议  <br/> |可配置<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
-|会议内容保留期：定期会议  <br/> |可配置<sup>1</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
-|会议内容保留期：立即碰头会议  <br/> |可配置<sup>1</sup> <br/> |8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |不适用  <br/> |
-|会议过期：单次会议  <br/> |结束日期以及 365 天<sup>2</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
-|会议过期：定期会议  <br/> |结束日期： 结束日期以及 365 天<sup>2</sup> <br/> 无结束日期： 始终可访问如果更新 1/3<sup>3</sup> <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |不适用  <br/> |
-|会议过期：立即碰头会议  <br/> |8 小时  <br/> | 8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |8 小时  <br/> |不适用  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> 本地部署的 Skype for Business Server 2015 中的会议内容保留期可通过 Skype for Business Server 2015 存档功能进行配置。请参阅 Skype for Business Server 2015 TechNet 库中的 [规划存档](https://go.microsoft.com/fwlink/p/?LinkId=398299)。<br/> <sup>2</sup>一旦被激活会议，此到期日期已为扩展其他 365 天。<br/><sup>3</sup>一旦被激活会议，此到期日期已为扩展其他 6 个月。 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>各独立选项中的邮件保留限制
+|**会议类型** <br/> |**说明** <br/> 
+|一次性会议| 14 天后端、 最后一个会议激活或上一次会议更新-无论哪个都最新。
+|结束日期的定期会议| 会议都可以访问至少直到最后一个会议事件，或上次会议激活，或上次会议更新的计划的结束时间后 14 天，无论哪个都最新。
+|无结束日期的定期会议| 提供有新的会议加入 （激活） 或计划每年的至少一次更新都可以访问会议
+|     现在开会|至少 8 小时将可以访问会议。
 
-> [!NOTE]
-> 每个人可以随时在数据库中有 1000年会议的最大值。 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
-|会议内容保留期：单次会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |14 天  <br/> |
-|会议内容保留期：定期会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |14 天  <br/> |
-|会议内容保留期：立即碰头会议  <br/> |可配置<sup>1</sup> <br/> |不适用  <br/> |8 小时  <br/> |
-|会议过期：单次会议  <br/> |结束日期以及 365 天<sup>2</sup> <br/> |不适用  <br/> |14 天  <br/> |
-|会议过期：定期会议  <br/> |结束日期： 结束日期以及 365 天<sup>2</sup> <br/> 无结束日期： 始终可访问如果更新 1/3<sup>3</sup> <br/> |不适用  <br/> |14 天  <br/> |
-|会议过期：立即碰头会议  <br/> |8 小时  <br/> |不适用  <br/> |8 小时  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> 本地部署的 Skype for Business Server 2015 中的会议内容保留期可通过 Skype for Business Server 2015 存档功能进行配置。请参阅 Skype for Business Server 2015 TechNet 库中的 [规划存档](https://go.microsoft.com/fwlink/p/?LinkId=398299)。<br/><sup>2</sup>一旦被激活会议，此到期日期已为扩展其他 365 天。<br/><sup>3</sup>一旦被激活会议，此到期日期已为扩展其他 6 个月。 
+
   
 ## <a name="minute-limits"></a>分钟限制
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>

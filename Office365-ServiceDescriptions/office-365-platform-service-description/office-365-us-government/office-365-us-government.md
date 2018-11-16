@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 在美国公共部门的唯一和发展要求的响应，Microsoft 创建 Office 365 美国政府计划 (orOffice 365 美国政府)。本节提供特定于 Office 365 美国政府的功能的概述。建议您阅读本节补充旁 Office 365 服务说明。
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696137"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293513"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -185,8 +185,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Project Online  <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |没有<sup>4</sup> <br/> |没有<sup>4</sup> <br/> |没有<sup>4</sup> <br/> |没有<sup>4</sup> <br/> |
    
-> <sup>1</sup>是可用于所有客户的业务基本 Skype。业务桌面客户端的 Skype 是为 Office 365 计划，其中包括 Skype 业务 online 提供状态、 即时消息和会议功能的本地安装应用程序。Office 365 ProPlus、 G3 和 G5 包含完整的 Skype 应用程序，包括其他功能，如高级的电话支持、 存档和合规性功能。必须为每个用户分配业务 Online 许可 Skype。<br/><sup>2</sup>不包含但可以作为单独的附加项进行购买。 
-<br/> <sup>3</sup> GCC 高或 DoD 计划，但即将推出中尚未提供。 
+> <sup>1</sup>是可用于所有客户的业务基本 Skype。业务桌面客户端的 Skype 是为 Office 365 计划，其中包括 Skype 业务 online 提供状态、 即时消息和会议功能的本地安装应用程序。Office 365 ProPlus、 G3 和 G5 包含完整的 Skype 应用程序，包括其他功能，如高级的电话支持、 存档和合规性功能。必须为每个用户分配业务 Online 许可 Skype。<br/><sup>2</sup>不包含但可以作为单独的附加项进行购买。Project Online 包括 Project Online Desktop Client 作为订阅的一部分。<br/> <sup>3</sup> GCC 高或 DoD 计划，但即将推出中尚未提供。 
 <br/><sup>4</sup> yammer Enterprise 不是 Office 365 美国政府的组件，但可能获取免费的每个用户的独立报价许可 for Office 365 中 GCC。此服务是当前仅限于购买 Office 365 GCC 下企业协议和企业订阅协议的客户。Yammer GCC 高或 DoD 中不可用。<br/><sup>5</sup>调用规划是加载项。 
   
 ## <a name="platform-features"></a>平台功能
@@ -284,7 +283,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |**信任** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府 G5** <br/> |**Office 365 美国政府 F1** <br/> |
 |**[隐私、安全性和透明度](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |高级数据治理  <br/> |没有<sup>12、 15</sup> <br/> |没有<sup>12、 15</sup> <br/> |是<sup>15</sup> <br/> |没有<sup>12、 15</sup> <br/> |
-|云应用程序安全性  <br/> |没有<sup>11、 12</sup> <br/> |没有<sup>11、 12</sup> <br/> |是<sup>11</sup> <br/> |没有<sup>11、 12</sup> <br/> |
+|云应用安全  <br/> |没有<sup>11、 12</sup> <br/> |没有<sup>11、 12</sup> <br/> |是<sup>11</sup> <br/> |没有<sup>11、 12</sup> <br/> |
 |高级威胁防护  <br/> |没有<sup>12</sup> <br/> |没有<sup>12</sup> <br/> |是  <br/> |没有<sup>12</sup> <br/> |
 |客户密码箱  <br/> |没有<sup>9，12，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |是<sup>9，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |
 |Office 365 高级电子数据展示  <br/> |没有<sup>12、 15</sup> <br/> |没有<sup>12、 15</sup> <br/> |是  <br/> |没有<sup>9、 15</sup> <br/> |

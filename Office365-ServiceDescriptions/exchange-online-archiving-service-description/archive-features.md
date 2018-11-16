@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 以下各节介绍了 Microsoft Exchange Online Archiving 的存档功能。
-ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035107"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215347"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
@@ -37,7 +37,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>将邮件移动到 Exchange Online Archiving
 
-用户可以将邮件从 .pst 文件拖放到存档中，以便于联机访问。用户还可以使用存档策略自动将电子邮件项从主邮箱移到存档邮箱中，从而降低主邮箱的大小，并提升主邮箱的性能。尽管此行为与 Exchange Hosted Archive 为存档中的每封邮件创建辅助副本的行为不同，但两种行为均可达到保留要求。若要详细了解将邮件移到存档的其他方法，请参阅 [Archive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421)（Exchange Online 中的存档邮箱）。
+用户可以拖放邮件从.pst 文件到存档，以便于联机访问。用户还可以移动电子邮件项从主邮箱到存档邮箱自动使用存档策略，以减小大小和提高性能的主邮箱。此行为不同于 Exchange 托管存档，将创建存档中的每封邮件的辅助副本，它时，可以在任一方案中实现保留要求。 
   
 ### <a name="import-data-to-the-archive"></a>将数据导入到存档
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 位于不同的计划为了最好地满足组织的需求。如果您正在寻找 Office 365 教育版计划之间的差异，本文将显示在每个包括了哪些功能。Office 365 与基于云的版本的 Microsoft 的下一代通信和协作服务结合使用熟悉的 Microsoft Office 桌面套件 — 包括 Microsoft Exchange Online、 Microsoft SharePoint Online、 Office Online 和Microsoft Skype 业务 online — 可帮助用户从任意虚拟地点通过 Internet 工作效率。
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035120"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215397"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -197,7 +197,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
 |[数据丢失预防](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据管理](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据管理](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[搜索与调查](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[搜索和调查]<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示导出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级电子数据展示](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -314,7 +314,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
 |就地电子数据展示  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
 |传输规则  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |数据丢失防护  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日记  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[反垃圾邮件和反恶意软件保护](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |内置反垃圾邮件保护  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义反垃圾邮件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -823,7 +823,7 @@ SharePoint Online 中包含的 OneDrive for Business。若要了解有关 ShareP
 |[沙盒解决方案](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
 |[SharePoint 设计管理器](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SharePoint Store <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint 应用商店 <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint 2010 工作流 (.NET 3.5) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 2010 工作流（现成）](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 2013 和 SharePoint 2016 工作流](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |

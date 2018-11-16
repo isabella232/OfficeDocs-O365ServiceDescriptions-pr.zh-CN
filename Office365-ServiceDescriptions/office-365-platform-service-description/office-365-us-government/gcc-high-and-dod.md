@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Microsoft 提供受到国际流量在 Arm 法规 (ITAR)，或以满足美国防御部门以及承包商的唯一和发展要求按住或处理 DoD 控制未分类的信息 (CUI)GCC 高和 DoD 环境。可通过批量许可，感的组织经过验证过程以确保资格建立环境之前。Trials 此时不可用。
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719066"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215367"
 ---
 # <a name="gcc-high-and-dod"></a>GCC 高和 DoD
 
@@ -104,6 +104,6 @@ GCC 高租户可以仅与其他 GCC 高租户共享。例如：
   
 ### <a name="yammer"></a>Yammer
 
-Yammer 不可用 GCC 高和 DoD 环境中。
+Yammer Enterprise 中不可用 GCC 高和 DoD 环境。
   
 
