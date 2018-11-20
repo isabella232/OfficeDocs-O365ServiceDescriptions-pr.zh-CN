@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business 是公司提供给员工个人的在线云存储空间。使用它，可以存储和保护工作文件，同时还能跨多个设备轻松访问工作文件。此外，还能根据需要与同事共享文件，并使用最新 Office 桌面、Web 和移动应用与他人实时协作处理 Office 文档。使用 OneDrive for Business 同步客户端，可以将文件同步到本地计算机。
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035026"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215357"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 
@@ -101,7 +101,7 @@ OneDrive for Business 包含在 SharePoint Online 中，也可作为独立计划
     
 对于包含不到 5 个用户的订阅，每用户 1TB 个人云存储空间。 
   
-最初，客户在 OneDrive for Business 中预配到的存储空间大小为，每用户 1TB 个人云存储空间。通过 Office 365 管理员的帮助，最多可以[将默认 OneDrive for Business 存储空间增加](https://go.microsoft.com/fwlink/?linkid=838024)到每用户 5TB。 
+最初，客户在 OneDrive for Business 中预配到的存储空间大小为，每用户 1TB 个人云存储空间。1TB 配额达到 90% 的使用率后，通过 Office 365 管理员的帮助，最多可以[将默认 OneDrive for Business 存储空间增加](https://go.microsoft.com/fwlink/?linkid=838024)到每用户 5TB。 
   
 > [!NOTE]
 > 必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。 
