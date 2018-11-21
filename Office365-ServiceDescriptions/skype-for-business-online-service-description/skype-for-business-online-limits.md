@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 业务 online 中的限制分为以下类别：
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296862"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625887"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -127,7 +127,7 @@ Skype 业务 online 中的限制分为以下类别：
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**会议类型** <br/> |**说明** <br/> 
-|一次性会议| 14 天后端、 最后一个会议激活或上一次会议更新-无论哪个都最新。
+|一次性会议| 会议都可以访问至少计划的时间，或者上次会议激活，或上次会议更新后 14 天之前，无论哪个都最新。
 |结束日期的定期会议| 会议都可以访问至少直到最后一个会议事件，或上次会议激活，或上次会议更新的计划的结束时间后 14 天，无论哪个都最新。
 |无结束日期的定期会议| 提供有新的会议加入 （激活） 或计划每年的至少一次更新都可以访问会议
 |     现在开会|至少 8 小时将可以访问会议。
