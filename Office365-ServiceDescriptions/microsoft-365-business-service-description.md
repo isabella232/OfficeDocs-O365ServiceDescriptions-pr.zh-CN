@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 业务是组合在一起的 Office 365 同类的工作效率具有高级安全性和设备管理功能来帮助保护您的业务集成的解决方案。.此服务说明介绍的规划选项和功能。有关 Office 365 的详细信息，请参阅 Office 365 服务说明。
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857310"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674219"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -117,8 +117,7 @@ Microsoft 365 业务是组合在一起的 Office 365 同类的工作效率具有
 |||||
 |:-----|:-----|:-----|:-----|
 |**标识和访问管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动套件** <br/> |
-|为单一登录 (SSO) \> 10 应用程序  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|多重身份验证 (MFA)  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office 365 多因素身份验证 (MFA)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |管理单位  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |云应用程序发现  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |动态组  <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -127,7 +126,7 @@ Microsoft 365 业务是组合在一起的 Office 365 同类的工作效率具有
 |设备对象的本地目录和 Azure AD （设备写回） 之间的双向同步  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |条件 （基于组、 位置、 设备状态、 登录，或用户风险） 的访问  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |公司品牌 （登录页/访问面板自定义  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|应用程序策略  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|应用程序代理  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Microsoft Identity Manager (MIM) 用户 CAL  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |连接运行状况  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
