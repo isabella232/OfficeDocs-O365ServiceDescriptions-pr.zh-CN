@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全性&amp;合规性中心旨在帮助您管理跨 Office 365 组织的合规性功能。指向现有 SharePoint 和 Exchange 合规性功能聚集跨 Office 365 的起来的合规性功能。
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035146"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988553"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 安全与合规中心
 
@@ -61,7 +61,7 @@ ms.locfileid: "24035146"
 |如客户密码箱和威胁网络钓鱼市场活动的 explorer[高级威胁管理](https://go.microsoft.com/fwlink/?linkid=846673)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[移动设备管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|[数据管理](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[数据管理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据管理](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[搜索与调查](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |

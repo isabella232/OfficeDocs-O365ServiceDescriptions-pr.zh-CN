@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 位于不同的计划为了最好地满足组织的需求。如果您正在寻找 Office 365 教育版计划之间的差异，本文将显示在每个包括了哪些功能。Office 365 与基于云的版本的 Microsoft 的下一代通信和协作服务结合使用熟悉的 Microsoft Office 桌面套件 — 包括 Microsoft Exchange Online、 Microsoft SharePoint Online、 Office Online 和Microsoft Skype 业务 online — 可帮助用户从任意虚拟地点通过 Internet 工作效率。
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215397"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988573"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -195,7 +195,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
 |如客户密码箱和威胁 explorer 针对网络钓鱼市场活动<sup>5</sup> [高级威胁管理](https://go.microsoft.com/fwlink/?linkid=846673) <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[移动设备管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[数据管理](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[数据管理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据管理](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[搜索和调查]<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -524,7 +524,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|每个邮箱文件夹的邮件的最大数量  <br/> |1 百万  <br/> |1 百万  <br/> |1 百万  <br/> |
+|每个邮箱文件夹的邮件的最大数量  <br/> |1 百万  <br/> |100 万  <br/> |1 百万  <br/> |
 |每个邮箱文件夹的邮件数量的警告  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |"可恢复邮件"文件夹中的每个文件夹的邮件最大数量  <br/> |3 百万  <br/> |3 百万  <br/> |3 百万  <br/> |
 |主邮箱（未处于保留状态）中"可恢复的项目"文件夹的存储配额  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
@@ -861,7 +861,7 @@ SharePoint Online 中包含的 OneDrive for Business。若要了解有关 ShareP
 |Shredded Storage <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[网站集合规性策略](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网站集运行状况检查 <br/> |是  <br/> |是  <br/> |是  <br/> |
-|状态服务 <br/> |否  <br/> |否  <br/> |否  <br/> |
+|State Service <br/> |否  <br/> |否  <br/> |否  <br/> |
 |简化中央管理 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |系统状态通知 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |未连接内容数据库的恢复 <br/> |否  <br/> |否  <br/> |否  <br/> |
