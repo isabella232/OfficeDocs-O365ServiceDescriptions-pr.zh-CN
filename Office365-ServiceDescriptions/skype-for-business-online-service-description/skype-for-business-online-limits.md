@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype 业务 online 中的限制分为以下类别：
-ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
-ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
+ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2018
-ms.locfileid: "26625887"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213889"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -137,5 +137,5 @@ Skype 业务 online 中的限制分为以下类别：
 ## <a name="minute-limits"></a>分钟限制
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-有关 Office 365 国内调用规划或 Office 365 国际呼叫规划中的分钟限制的信息，请单击[此处](https://support.office.com/en-us/article/Skype-for-Business-Online-PSTN-services-use-terms-dc6e95cd-51e8-49ca-bcd3-78dc9dae486a?ui=en-US&amp;rs=en-US&amp;ad=US)。
+有关 Office 365 国内调用规划或 Office 365 国际呼叫规划中的分钟限制的信息，请单击[此处](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   
