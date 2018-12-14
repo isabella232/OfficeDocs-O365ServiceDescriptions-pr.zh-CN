@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看的服务的状态，并了解维护计划。服务运行状况的信息可以在任何时候通过登录到 Office 365。
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035176"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258734"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -29,7 +29,7 @@ Microsoft Office 365 管理员可以查看的服务的状态，并了解维护�
   
 ## <a name="view-status-of-services"></a>查看服务状态
 
-Office 365 服务运行状况部分显示的服务和服务中断和中断的详细信息的当前状态。消息中心上提供了计划内的维护信息。有关详细信息，请参阅[查看您的服务的状态](https://go.microsoft.com/fwlink/p/?LinkID=270178)。 
+Office 365 服务运行状况部分显示的服务和服务中断和中断的详细信息的当前状态。消息中心上提供了计划内的维护信息。有关详细信息，请参阅[查看您的服务的状态](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
   
 ## <a name="service-incidents"></a>服务事件
 
@@ -49,7 +49,7 @@ Office 365 服务运行状况部分显示的服务和服务中断和中断的详
 
 ### <a name="office-365-admin-app"></a>Office 365 Admin App
 
-管理应用程序的 Office 365 租户管理员为您提供了连接与在贵组织的 Office 365 服务状态的能力。Office 365 租户管理员将能够查看服务运行状况信息和维护从其移动设备的状态更新。有关详细信息，请访问[管理应用程序的常见问题](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx)。
+管理应用程序的 Office 365 租户管理员为您提供了连接与在贵组织的 Office 365 服务状态的能力。Office 365 租户管理员将能够查看服务运行状况信息和维护从其移动设备的状态更新。有关详细信息，请访问[管理应用程序的常见问题](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
