@@ -1,0 +1,13 @@
+<!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
+
+
+
+
+## <a name="week-of-december-24-2018"></a>2018 年 12 月 24，这一周
+
+
+| 发布时间 |主题标题 | 更改 |
+|------|------------|--------|
+| 12/27/2018 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改时间 |
+| 12/27/2018 | [Office 365 美国政府版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改时间 |
+| 12/28/2018 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改时间 |
