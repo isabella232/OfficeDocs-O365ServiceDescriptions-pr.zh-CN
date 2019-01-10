@@ -8,6 +8,17 @@
 
 | 发布时间 |主题标题 | 更改 |
 |------|------------|--------|
-| 12/27/2018 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改时间 |
-| 12/27/2018 | [Office 365 美国政府版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改时间 |
-| 12/28/2018 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改时间 |
+| 12/27/2018 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 已修改 |
+| 12/27/2018 | [Office 365 美国政府版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 已修改 |
+| 12/28/2018 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 已修改 |
+
+
+## <a name="week-of-december-31-2018"></a>2018 年 12 月 31，这一周
+
+
+| 发布时间 |主题标题 | 更改 |
+|------|------------|--------|
+| 1/2/2019 | Office 365 工程直接服务说明 | 添加 |
+| 1/2/2019 | [Office 365 工程直接服务说明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 重命名 |
+| 1/2/2019 | [Office 365 工程直接服务说明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 已修改 |
+| 1/2/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 已修改 |

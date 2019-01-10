@@ -3,7 +3,7 @@ title: Office 365 高级威胁防护服务说明
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,22 +13,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁保护 (ATP) 是基于云的电子邮件筛选服务，可帮助保护您的组织免受未知的恶意软件和病毒通过提供强大的零时差保护，并包括功能来保护您从实时有害链接的组织。ATP 具有丰富报告和 URL 跟踪功能，为管理员提供深入的组织中发生的攻击的类型。
-ms.openlocfilehash: 6c7ce44932312b82293b19d85ebac07137716617
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035109"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784864"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
 Microsoft Office 365 高级威胁保护 (ATP) 是基于云的电子邮件筛选服务，可帮助保护您的组织免受未知的恶意软件和病毒通过提供强大的零时差保护，并包括功能来保护您从实时有害链接的组织。ATP 具有丰富报告和 URL 跟踪功能，为管理员提供深入的组织中发生的攻击的类型。
   
-以下是您可以使用 ATP 进行邮件保护的主要方式：
+您可以使用 ATP 邮件保护的主要方式如下：
   
 - 在 Office 365 ATP 仅筛选方案中，ATP 提供的基于云的电子邮件保护您的内部部署 Exchange Server 2013 环境、 旧版 Exchange Server 或其他任何本地 SMTP 电子邮件解决方案。
     
-- Office 365 ATP 可以启用保护云承载的 Exchange Online 邮箱。若要了解有关 Exchange Online 的详细信息，请参阅[Exchange Online Service Description](https://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx)。
+- Office 365 ATP 可以启用保护云承载的 Exchange Online 邮箱。若要了解有关 Exchange Online 的详细信息，请参阅[Exchange Online Service Description](exchange-online-service-description/exchange-online-service-description.md)。
     
 - 在混合部署中，可以配置 ATP 为保护您的邮件环境并控制邮件路由时具有的内部部署混合和云邮箱与 Exchange Online Protection 入站电子邮件筛选。
     
@@ -51,7 +51,7 @@ ATP 包含在 Office 365 企业 E5、 Office 365 教育版 A5 和 Microsoft 365 
     
 - Office 365 商业协作版
     
-- Help and training
+- Office 365 商业高级版
     
 - Office 365 企业版 E1
     
@@ -69,7 +69,7 @@ ATP 包含在 Office 365 企业 E5、 Office 365 教育版 A5 和 Microsoft 365 
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>What's new 在 Office 365 高级威胁保护 (ATP)
 
-有关 ATP 中的新功能的信息，请参阅[Office 365 中的 ATP 安全链接](https://go.microsoft.com/fwlink/?linkid=846016)。
+有关 ATP 中的新功能的信息，请参阅[ATP 中的新功能](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp)。
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 的高级的威胁保护 (ATP) 的要求
 

@@ -3,7 +3,7 @@ title: 隐私、安全性和透明度
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035099"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784854"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
@@ -55,7 +55,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 ## <a name="advanced-threat-protection"></a>高级威胁防护
 
-Exchange Online 高级威胁防护是基于云的电子邮件筛选服务，可帮助保护您的组织免受恶意软件和病毒的攻击。ATP 包括"安全链接"和"安全附件"功能。"安全链接"通过在用户每次单击链接时提供保护措施，从而主动保护您的用户免遭邮件中恶意超链接的攻击。"安全附件"通过将不携带已知病毒/恶意软件签名的所有邮件和附件路由到 ATP 可以检测恶意企图的特殊环境中，从而防止遭受未知恶意软件和病毒的攻击。有关 ATP 的详细信息，请参阅 [Exchange Online 高级威胁防护服务说明](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx)。
+Office 365 高级威胁保护帮助保护您的组织免受恶意软件和病毒。ATP 包括[安全链接](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[防钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺骗智能](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。安全链接主动防止用户在邮件中，恶意超链接提供保护，每次单击链接。安全附件可防止未知的恶意软件和病毒，其中 ATP 可以检测到恶意路由所有邮件和附件没有特殊环境的已知的病毒/恶意软件签名。有关 ATP 的详细信息，请参阅[Office 365 高级威胁 Protection Service Description](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 
