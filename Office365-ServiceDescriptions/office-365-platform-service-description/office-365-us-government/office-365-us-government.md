@@ -1,9 +1,9 @@
 ---
 title: Office 365 美国政府版
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 7/6/2018
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 在美国公共部门的唯一和发展要求的响应，Microsoft 创建 Office 365 美国政府计划 (orOffice 365 美国政府)。本节提供特定于 Office 365 美国政府的功能的概述。建议您阅读本节补充旁 Office 365 服务说明。
-ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784904"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694676"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -209,9 +209,9 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Microsoft MyAnalytics  <br/> |没有<sup>9，12，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |是<sup>9，15</sup> <br/> |没有<sup>9，12，15</sup> <br/> |
 |Microsoft Planner  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |
+|Microsoft StaffHub  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |Microsoft Stream  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |否  <br/> |
-|Microsoft Sway  <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |
+|Microsoft Sway  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |Microsoft Teams  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office Delve  <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是  <br/> |是<sup>17</sup> <br/> |
 |Office 365 组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

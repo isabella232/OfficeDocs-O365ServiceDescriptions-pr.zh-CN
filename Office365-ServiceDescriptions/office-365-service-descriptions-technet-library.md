@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是一种基于云的服务，旨在帮助满足您组织需求的可靠的安全性、 可靠性和用户工作效率。
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034996"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694656"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
@@ -33,7 +33,7 @@ Microsoft Office 365 是一种基于云的服务，旨在帮助满足您组织�
 > [!NOTE]
 > 如果你正在查找服务说明比较电子表格，此内容已停用。已对每个"服务说明"页面的产品功能可用性表进行了更新，以更好地帮助你选择适合你需求的 Office 365 版本。 
   
-Microsoft 为资格条件计划中符合条件的服务提供 Office 365 初始启用权益。初始启用权益可让您与 Microsoft 专家一起远程对您的 Office 365 环境进行设置，以便开始使用。有关详细信息，请参阅[Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx)。
+Microsoft FastTrack 中心好处 for Office 365 提供合格的服务合格计划中。好处，可以远程处理 Microsoft 专员交谈，以获取 Office 365 环境准备就绪。有关详细信息，请参阅[FastTrack 中心 for Office 365 的优点](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
