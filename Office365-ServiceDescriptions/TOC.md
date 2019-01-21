@@ -1,8 +1,15 @@
+---
+ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
+ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28728666"
+---
 
   
 
 # [Office 365 服务说明](office-365-service-descriptions-technet-library.md)
-## [最近服务说明更改](recent-service-descriptions-changes.md)
 ## [Microsoft 365 商业版服务说明](microsoft-365-business-service-description.md)
 ## [Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
