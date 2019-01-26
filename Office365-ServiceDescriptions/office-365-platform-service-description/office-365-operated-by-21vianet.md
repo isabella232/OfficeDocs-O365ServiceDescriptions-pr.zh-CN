@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 83369f8c0b4da4557b2b49e247a405d137db5f85
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362947"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506686"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -228,7 +228,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 |[适用于 Office 365 的 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |没有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Android 版的 office Mobile]<sup>15</sup>(../ office-applications-service-description/office-applications.md#office-mobile-for-android） <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |没有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |没有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Outlook for Android  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |没有<sup>5</sup> <br/> |否  <br/> |是  <br/> |否  <br/> |
@@ -269,6 +269,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 <br/><sup>3</sup>如果有 Office Professional Plus 2013 或独立版 Excel 2013，可以不受支持的外接程序的形式下载并使用 [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)。 
  <br/><sup>4</sup>是可用于所有客户的业务基本 Skype。业务桌面客户端的 Skype 是为 Office 365 计划，其中包括 Skype 业务 online 提供状态、 即时消息和会议功能的本地安装应用程序。Office 365 ProPlus 和 Office 365 企业版 E3 包括完整 Skype 的应用程序，其中包括其他功能，包括高级的电话支持、 存档和合规性功能。必须为每个用户分配业务 Online 许可 Skype。Lync 基本功能的详细信息，请参阅[Skype 的业务联机客户端比较表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。<br/><sup>5</sup>一些学校有资格教育以及，其中包括 Office 365 ProPlus，并允许学生和教职员工和其他移动设备，包括 Windows 平板电脑最多五台 PC 或 Mac 计算机上安装 Office 的最新版本和iPad。学校限定 Office 365 教育版以及这些许可 Office 机构范围内用于通过注册教育解决方案、 打开价值订阅教育的解决方案，或学校合同教职员工时。请注意，访问和 Publisher 在 Pc 上可用仅。用于 Mac 的 OneNote 位于单独下载 Mac 应用程序存储中。<br/><sup>6</sup>可以安装但不可激活 Office 2011 for Mac。 
 <br/>Office 365 ProPlus 支持<sup>7</sup>用户专用虚拟桌面基础结构 (VDI)。Office 365 ProPlus 仅支持远程桌面服务 (RDS) 时通过批量许可计划购买。<br/><sup>8</sup> Office 365 企业版 E3 和 Office 365 ProPlus 的批量激活是限制为 Windows Server 2008 R2 上安装和更高版本的启用的 RDS 角色或 Windows 转安装。在任一情况下，访问这些安装的用户必须是 Office 365 企业版 E3 或 Office 365 ProPlus 的授权的用户。<br/><sup>9</sup> access 是当前可用，如果您在当前通道或推迟通道的目标版本。如果您已推迟通道上，Access 将年 6 月 2017年中可用。有关详细信息，请参阅[访问包含作为 Office 365 企业版和企业高级版的一部分](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)。<br/><sup>10</sup> Visio 联机当前正在由 21Vianet 的 Office 365 的预览。有关 Visio Online 的详细信息，请参阅[Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md)。<br/><sup>11</sup>即将在由世纪互联运营的 Office 365 中推出。 
+<br/><sup>15</sup> Google 服务 （包括播放存储） 不可访问中国内。有几个主要电话制造商或用户可以安装中的移动应用程序的搜索引擎公司由维护的应用程序存储。
   
 ## <a name="office-online-features"></a>Office Online 功能
 <a name="BM4_OfficeOnline"> </a>
@@ -322,7 +323,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 |就地电子数据展示  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是  <br/> |
 |传输规则  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |数据丢失防护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日记  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[反垃圾邮件和反恶意软件保护](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**Office 365 企业 F1 由 21Vianet** <br/> |
 |内置反垃圾邮件保护  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义反垃圾邮件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>4</sup> <br/> |
@@ -405,7 +406,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 <br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。 
 <br/><sup>3</sup>传输规则组成的灵活的条件，使您能够定义条件和例外和操作执行基于条件。可用条件和操作 Exchange Online 和 Microsoft Exchange Server 2013 之间的不同。有关可用条件和操作的列表，请参阅的对应条件和每个产品的操作主题。<br/><sup>4</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。 
 <br/><sup>5</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。<br/><sup>6</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 
-<<br/>sup > 7</sup>电子数据展示，您需要在本地与云的一个单独的查询。 
+<<br/>sup>7</sup>电子数据展示，您需要在本地与云的一个单独的查询。 
 <br/><sup>8</sup>支持 POP，但不支持 IMAP。 
 <br/><sup>9</sup> office 365 业务 Essentials 和企业高级版不提供访问权限与本地服务器的工时利用率。若要兼容，客户必须购买或先前已购买的适当的 Cal 或升级到企业 SKU，从而提高了对这些访问权限。><br/><sup>10</sup>混合配置向导可用于 Exchange 2013 CU5 和更高版本的本地部署。但是，一些混合功能具有限制，有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。<br/><sup>11</sup>由世纪互联运营的 Office 365 对 LinkedIn 可用，对 Facebook 不可用。 > 
 <br/><sup>12</sup>混合部署安装程序可通过混合配置向导用于 Exchange 2013 CU5，如果你拥有 Exchange 2013 SP1 也可以手动进行设置。有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。<br/><sup>13</sup>已连接的帐户支持 POP &amp; IMAP 帐户，但禁用 Outlook.com (Hotmail)。 
@@ -580,7 +581,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 |[沙盒解决方案](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |没有<sup>10</sup> <br/> |没有<sup>10</sup> <br/> |没有<sup>10</sup> <br/> |没有<sup>10</sup> <br/> |没有<sup>10</sup> <br/> |
 |[SharePoint 设计管理器](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SharePoint Store <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|SharePoint 应用商店 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |SharePoint 2010 工作流 (.NET 3.5) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SharePoint 2010 工作流 （开箱）](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SharePoint 2013 和 SharePoint 2016 工作流](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |是  <br/> |否  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |
@@ -617,7 +618,7 @@ Office 365 安全性&amp;合规性中心不是在 Office 365 21Vianet 由任何�
 |Shredded Storage <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[网站集合规性策略](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网站集运行状况检查 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|状态服务 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|State Service <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |简化中央管理 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |系统状态通知 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |未连接内容数据库的恢复 <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |

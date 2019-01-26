@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 了解哪些许可证，您需要购买，以获取某些 Skype 业务功能吗？请参阅 for Business 许可概述 Skype。
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362927"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506656"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
 
@@ -123,7 +123,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |呼叫允许控制  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |呼叫应答/启动  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫委派  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|呼叫转接和同步拨打  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|呼叫转接和同步拨打  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |呼叫历史记录  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |呼叫保留/检索  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |呼叫寄存  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -299,11 +299,11 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |||
 |:-----|:-----|
 |**Office 365 计划** <br/> |**Skype for Business Online 功能** <br/> |
-|Skype for Business Online 独立计划 2  <br/> | Skype 会议直播  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  Skype for Business Online 独立计划 2 或任何包含计划 2 的 Office 365 套件均可使用以下附加设备：  <br/>  音频会议 （有限的国家/地区中提供）。  <br/>  电话系统。  <br/> > [!NOTE]> 时购买本身不调用计划的情况下，电话系统可以使仅混合语音功能。混合语音需要在本地客户混合语音部署启用 PSTN 电话使用您现有 PSTN 服务提供程序。下面的电话系统加载项是一些可用于启用 PSTN 服务提供商以使用 Microsoft 的入站和出站 PSTN 呼叫： > 国内调用规划 （可在有限的国家/地区） > 国际呼叫规划 （可在有限的国家/地区）           |
+|Skype for Business Online 独立计划 2  <br/> | Skype 会议直播  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  Skype for Business Online 独立计划 2 或任何包含计划 2 的 Office 365 套件均可使用以下附加设备：  <br/>  音频会议 （有限的国家/地区中提供）。  <br/>  电话系统。  <br/> > [!NOTE]> 时购买本身不调用计划，电话系统的情况下启用仅混合语音功能。混合语音需要在本地客户混合语音部署启用 PSTN 电话使用您现有 PSTN 服务提供程序。以下电话系统加载项是一些可用于启用 PSTN 服务提供商以使用 Microsoft 的入站和出站 PSTN 呼叫： 调用规划国际 > 国内调用规划 （可在有限的国家/地区） > （可在有限的国家/地区）           |
 |Skype for Business Online 独立计划 3  <br/> |Skype for Business Online 独立计划 3。  <br/> > [!NOTE]> 此计划仅用于第三方语音服务提供商并执行*不*提供任何呼叫服务，例如音频会议、 电话系统、 计划调用国内，或计划国际呼叫。           |
 |Office 365 商业高级版  <br/> | Skype 会议直播：  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  音频会议 (国家/地区如果可用)。  <br/> |
 |Office 365 企业版 E1  <br/> |Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/> |
 |Office 365 企业版 E3  <br/> |Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/> |
-|Office 365 企业 E5 与音频会议  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）  <br/>  包含音频会议。  <br/>  包含电话系统。  <br/> > [!NOTE]> 时购买本身不调用计划的情况下，电话系统可以使仅混合语音功能。混合语音需要客户内部部署混合语音部署，才能启用 PSTN 电话使用您现有 PSTN 服务提供程序。下面的电话系统加载项是一些可用于启用 PSTN 服务提供商以使用 Microsoft 的入站和出站 PSTN 呼叫： > 国内调用计划 （有限的国家/地区中提供）。> （可在有限的国家/地区） 的国际呼叫计划。           |
-|Office 365 企业 E5 没有音频会议  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/>  包含电话系统。  <br/> > [!NOTE]> 时购买本身不调用计划的情况下，电话系统可以使仅混合语音功能。混合语音需要启用 PSTN 电话使用您现有 PSTN 服务提供程序的本地客户混合语音部署。下面的电话系统加载项是一些可用于启用 PSTN 服务提供商以使用 Microsoft 的入站和出站 PSTN 呼叫： > 国内调用计划 （有限的国家/地区中提供）。> （可在有限的国家/地区） 的国际呼叫计划。           |
+|Office 365 企业 E5 与音频会议  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）  <br/>  包含音频会议。  <br/>  包含电话系统。  <br/> > [!NOTE]> 时购买本身不调用计划，电话系统的情况下启用仅混合语音功能。混合语音需要客户内部部署混合语音部署，才能启用 PSTN 电话使用您现有 PSTN 服务提供程序。下面的电话系统加载项是一些可用于启用 PSTN 服务提供商以使用 Microsoft 的入站和出站 PSTN 呼叫： > 国内调用计划 （有限的国家/地区中提供）。> 国际呼叫计划 （有限的国家/地区中提供）。           |
+|Office 365 企业 E5 没有音频会议  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/>  包含电话系统。  <br/> > [!NOTE]> 时购买本身不调用计划，电话系统的情况下启用仅混合语音功能。混合语音需要启用 PSTN 电话使用您现有 PSTN 服务提供程序的本地客户混合语音部署。下面的电话系统加载项是一些可用于启用 PSTN 服务提供商以使用 Microsoft 的入站和出站 PSTN 呼叫： > 国内调用计划 （有限的国家/地区中提供）。> 国际呼叫计划 （有限的国家/地区中提供）。           |
    
