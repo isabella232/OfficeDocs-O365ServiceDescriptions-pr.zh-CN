@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 Excel、 OneNote 和 PowerPoint 文档。Office Online 可更轻松地工作和共享从任何位置的 Office 文件具有 Internet 连接，从几乎任何设备。与 Word、 Excel、 OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以查看、 创建和编辑在文件。
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435820"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612765"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
@@ -204,6 +204,9 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[共同创作](onenote-online.md#co-authoring) <br/> |是  <br/> |是  <br/> |
 |[创建和管理页面和分区](onenote-online.md#create-and-manage-pages-and-sections) <br/> |是  <br/> |是  <br/> |
 |[下载嵌入式 Office 文件的副本](onenote-online.md#download-copy-of-embedded-office-files) <br/> |是  <br/> |是<sup>4</sup> <br/> |
+|[页面拖放] <br/> |是  <br/> |是 <br/> |
+|[将拖放部分] <br/> |是  <br/> |是 <br/> |
+|[将拖放分区组] <br/> |否  <br/> |是 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[编辑嵌入的文件](onenote-online.md#EmbeddedFileEdit) <br/> |否  <br/> |是  <br/> |
 |[方程](onenote-online.md#equations) <br/> |是  <br/> |是  <br/> |

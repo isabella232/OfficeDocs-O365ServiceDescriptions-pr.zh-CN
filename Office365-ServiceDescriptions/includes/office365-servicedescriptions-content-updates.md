@@ -42,4 +42,13 @@
 |------|------------|--------|
 | 2019 年 1/17 | [Office 365 美国政府版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改时间 |
 | 2019 年 1/17 | [Office 365 服务说明](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 修改时间 |
-| 2019 年 1/18 | [最近服务说明更改](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | 已修改 |
+| 2019 年 1/18 | [最近服务说明更改](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | 修改时间 |
+
+
+## <a name="week-of-january-21-2019"></a>2019 年 1 月 21，这一周
+
+
+| 发布时间 |主题标题 | 更改 |
+|------|------------|--------|
+| 1/24/2019 | [Skype for Business Online 服务说明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改时间 |
+| 1/24/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改时间 |

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 OneNote 联机 (以前称为 OneNote Web App) 可从任意位置添加到和轻松地与其他人共享的 OneNote 笔记本中做笔记联机。所有 Office 365 客户可以查看和宽松编辑使用 Office Online 的 Office 文件。
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035105"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612745"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>笔记本管理：跨分区/笔记本页面归档、分区重新排序、创建/删除分区组
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-在 OneNote Online 中不可用。高级管理功能（例如分区重新排序、创建和删除分区组以及拖放页面归档）仅在 OneNote 桌面应用程序中可用。 
+使用 OneNote Online，您可以将拖放重新排序页面和分区。  
+高级管理功能，如创建、 删除和重新排序分区组才可用 OneNote 桌面应用程序中。
   
 ## <a name="offline-viewing-and-authoring"></a>脱机查看和创作
 <a name="bkmk_Offlineviewing"> </a>
