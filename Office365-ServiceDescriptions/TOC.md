@@ -1,3 +1,6 @@
+
+  
+
 # [Office 365 服务说明](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365 商业版服务说明](microsoft-365-business-service-description.md)
 ## [Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
@@ -8,6 +11,7 @@
 ### [Office 365 美国政府版](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High 和 DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Microsoft 365 政府版购买方式](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [由世纪互联运营的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 德国版](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 教育版](office-365-platform-service-description/office-365-education.md)
