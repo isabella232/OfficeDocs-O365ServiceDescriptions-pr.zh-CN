@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728666"
----
 
   
 
@@ -19,6 +11,7 @@ ms.locfileid: "28728666"
 ### [Office 365 美国政府版](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High 和 DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Microsoft 365 政府版购买方式](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [由世纪互联运营的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 德国版](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 教育版](office-365-platform-service-description/office-365-education.md)
