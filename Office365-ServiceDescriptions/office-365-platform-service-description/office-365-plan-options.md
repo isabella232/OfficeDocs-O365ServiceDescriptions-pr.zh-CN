@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 位于不同的计划为了最好地满足组织的需求。
-ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
-ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
+ms.openlocfilehash: d775e3bef016989bd43708272ec45fe5a2df6b3a
+ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2018
-ms.locfileid: "25358649"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "26984795"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -51,17 +51,17 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>** <br/> |**Office 365 企业版 F1** <br/> |
+|**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业 E5<sup>4</sup>，<sup>16</sup>** <br/> |**Office 365 企业版 F1** <br/> |
 |Office 365 平台  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |Yes<sup>6</sup> <br/> |是<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
+|SharePoint Online  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
+|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |是<sup>5</sup> <br/> |
 |Skype for Business 联机<sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 应用程序  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Office 应用程序  <br/> |否  <br/> |是  <br/> |支持  <br/> |否  <br/> |是  <br/> |支持  <br/> |否  <br/> |
 |Project Online  <br/> |没有<sup>1</sup> <br/> |否  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |没有<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Yammer Enterprise  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Yammer Enterprise  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
 |Azure 信息保护<sup>3</sup> <br/> |没有<sup>2</sup> <br/> |否  <br/> |否<sup>2</sup> <br/> |没有<sup>2</sup> <br/> |是  <br/> |是  <br/> |没有<sup>2</sup> <br/> |
    
 > <sup>1</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 教育版计划中。 > 
@@ -71,7 +71,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
 <br/><sup>9</sup>包括 Exchange Online Kiosk。 > 
 <br/><sup>10</sup>包括有基本客户端限制的 Skype for Business Online 计划 2。 > <br/><sup>11</sup>包括没有任何客户端限制的 Skype for Business Online 计划 2。 > <br/><sup>12</sup>包括 Skype for Business Online 计划 1 及补充功能。 > <br/><sup>13</sup>包括有语音支持而没有任何客户端限制的 Skype for Business Online 计划 2。 > 
 <br/><sup>14</sup>包括 Skype for Business Online 计划 1。 
-<br><sup>15</sup>的 Microsoft 团队是现在主客户端的消息、 会议和 Office 365 中调用。启动 10 月 1 2018年 500 座位或更少的新 Office 365 客户将向 Microsoft 工作组 onboarded，并将无法访问 Skype 业务 online。已使用 Skype 的业务联机都将能够继续进行的租户直至其切换到 Microsoft 团队 （包括设置新的用户） 是。
+<br><sup>15</sup>的 Microsoft 团队是现在主客户端的消息、 会议和 Office 365 中调用。启动 10 月 1 2018年 500 座位或更少的新 Office 365 客户将向 Microsoft 工作组 onboarded，并将无法访问 Skype 业务 online。已使用 Skype 的业务联机都将能够继续进行的租户直至其切换到 Microsoft 团队 （包括设置新的用户） 是。<br><sup>16</sup>包括高级合规性，它提供高级数据调控、 高级电子数据展示、 客户密码箱、 客户键、 特权访问管理，和长期审核日志保留功能。
   
 #### <a name="basic-client-limitations"></a>基本客户端限制
 
@@ -114,7 +114,7 @@ Microsoft Office 365 位于不同的计划为了最好地满足组织的需求�
   
 |**服务**|**计划**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online 高级威胁保护](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|Exchange Online  <br/> |[Exchange Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online 高级威胁防护](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business 计划 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business 计划 2](https://onedrive.live.com/about/en-us/business/) <br/> |
 |Skype for Business Online  <br/> |[Skype for Business Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
