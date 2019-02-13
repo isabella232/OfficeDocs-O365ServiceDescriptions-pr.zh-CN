@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解最新发布的或即将发布的 Office 365 功能，请参阅 Office 365 路线图。
 ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035017"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29966216"
 ---
 # <a name="service-updates"></a>服务更新
 
@@ -30,7 +30,7 @@ ms.locfileid: "24035017"
 > [!NOTE]
 > 更新和升级的推出根据多个因素，如 geography、 语言、 数据中心和订阅的客户。这意味着立即向现有客户提供了不是所有的更新。 
   
-## <a name="targeted-release"></a>目标发行版
+## <a name="targeted-release"></a>定向发布
 
 目标版本中，您的组织或一组用户收到选定的一组服务更新大约一周，我们开始我们标准发布过程。若要了解详细信息，请参阅[Office 365 版本程序](https://go.microsoft.com/fwlink/p/?LinkId=509823)。 
   
