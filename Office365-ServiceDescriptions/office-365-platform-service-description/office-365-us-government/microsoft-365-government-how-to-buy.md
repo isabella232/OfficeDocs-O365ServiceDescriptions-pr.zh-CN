@@ -9,154 +9,154 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 3fd2b91c7bd77c20ad429f0e2d61cce4b9106e6d
-ms.sourcegitcommit: 087c02907ef8bee6debe438c087469287a11ef07
+ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
+ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/31/2019
-ms.locfileid: "29673995"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "30052527"
 ---
 ---
 
-# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府-如何购买
+# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
-在美国公共部门的唯一和发展要求的响应，Microsoft 具有为我们公共扇区客户创建特定的 Microsoft 365 政府环境。本节提供环境和详细信息的概述如何购买。建议您阅读本节补充旁[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)。
+为了响应美国公共事业部门的独特和不断发展的需求, microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。本节概述了环境以及如何购买的详细信息。建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
   
-## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府版？
+## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府？
 <a name="TopOfPage"> </a>
 
-Microsoft 365 政府版是一套生产效率、 安全性和移动云软件功能专门针对我们政府机构和承包商赞助保存受控、 未分类的信息。传递到达到最严格的合规性要求的唯一环境，Microsoft 365 政府版是云的美国政府客户相匹配为紧密尽可能的特性和功能的 Microsoft 商业云企业产品。 
+Microsoft 365 政府是一组工作效率、安全性和移动性云软件功能, 专门为美国政府机构和合同工提供了受控制的未分类信息的赞助商。通过在满足最严格的合规性要求的独特环境中进行传递, Microsoft 365 政府是为美国政府客户提供的云, 与 Microsoft 商业云的特性和功能尽可能密切匹配企业服务。 
   
-## <a name="whats-the-value-of-microsoft-365-government"></a>什么是 Microsoft 365 政府版的值？
+## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府的价值是什么？
 <a name="BM1_About"> </a>
 
-Microsoft 365 政府版帮助美国政府主持人工作者高效任意虚拟地点随时随地通过启用移动生产力和安全协作具有通过有效地帮助机构的合规性管理法规数据要求。下表提供了关键政府角色的示例。
+通过帮助机构有效管理法规数据合规性, Microsoft 365 政府可随时帮助我们的政府领导人和工作人员通过合规性实现工作效率和安全协作满足.下表提供了主要政府角色的示例。
 
  
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|政府主持人可以... <br/> | 政府员工可以... <br/> |现场人员可以... <br/>  |||||
-|通过改善了的沟通和透明度增加公共信任  <br/> |提高公民服务通过更好的协作 <br/> | 提高通过对信息的字段人员需求，移动访问的服务质量，它们在需要时  |
-|改善访问可帮助形状策略和预算决策的见解  <br/> |增强跨机构通信。  <br/> |启用协作和共享标识和快速解决问题的知识  <br/> |
-|及时了解与人员和市民，在办公室还是在旅途中连接  <br/> |使用公务员以帮助提高员工保留率创建更深入地介绍工作效率  <br/> | 机构位置之间建立一种更强社区  <br/> |
-|确保有助于降低成本和提高灵活性美国符合政府 – 解决方案  <br/> | <br/> |
+|政府领导人可以 .。。 <br/> | 政府员工可以 .。。 <br/> |现场人员可以 .。。 <br/>  |||||
+|通过改进的通信和透明度提高公共信任  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动访问信息字段工作人员需求 (如果需要) 来改进服务质量  |
+|改进对可帮助整形策略和预算决策的见解的访问  <br/> |增强跨机构通信。  <br/> |启用协作和知识共享以快速发现和解决问题  <br/> |
+|在办公室或旅途中随时了解员工和公民的联系并与他们联系  <br/> |创建更深入的与民事 servants 的接洽以帮助改进员工留存率  <br/> | 跨代理位置构建更强的社区感知  <br/> |
+|确保与美国政府兼容的解决方案可帮助降低成本和提高灵活性  <br/> | <br/> |
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-enterprise-offerings"></a>什么使 Microsoft 365 政府不同 Microsoft 365 enterprise 的产品？
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-enterprise-offerings"></a>microsoft 365 企业版提供了什么使 microsoft 365 政府不同？
 <a name="BM1_About"> </a>
   
 
-Microsoft 365 政府唯一旨在解决我们政府机构中四个主要领域的合规性要求：
+Microsoft 365 政府专为满足美国政府机构在四个关键领域的合规性要求提供了独特的设计:
 
-**独占社区。** 政府数据中心按仅供政府机构或部门 — 或商业公司已授权保留和代表美国政府过程控制的信息。
+**独占社区。** 政府数据中心仅适用于政府机构或部门, 或已获得授权以代表美国政府持有和处理控制信息的商业公司。
 
-**屏蔽人员。** 贵组织的客户内容的访问仅限于屏蔽 Microsoft 人员是美国公民且已通过所需的背景检查。第三方审核。所有的基础结构进行审核由认证的第三方审核员提供安全评估报表或审计字母联邦机构用于颁发授权运行 (ATO)。 
+**屏蔽人员。** 对组织的客户内容的访问受限制为美国公民的 Microsoft 人事, 并且已通过所需的背景检查。第三方审核。所有基础结构都由经过认证的第三方审计员审核, 该审计员提供联邦机构使用的一种安全评估报告或证明信函, 以颁发授权操作 (ATO)。 
 
-**内容存储。** 数据存储大陆美国的电话与符合基础结构中。下表总结了美国政府环境和承诺的 Microsoft 365。
+**内容存储。** 数据存储在具有合规性基础结构的大陆国家/地区。下表汇总了适用于美国政府环境和承诺的 Microsoft 365。
 
 |||
 |:----------|:----------------------------------|:---------|
-|**产品** <br/> |**承诺 ** <br/> |
-|Microsoft 365 政府 GCC  <br/> |FedRamp 适度，CJIS，IRS 1075，DISA SRG L2  <br/> |是  <br/> |
-|Microsoft 365 政府 GCC 高  <br/> |FedRamp 高，ITAR，DFARS，DOD SRG 第 4 控件 <br/> |是  <br/> |
+|**扩大** <br/> |**承诺 ** <br/> |
+|Microsoft 365 政府版 GCC  <br/> |FedRamp 中等、CJIS、IRS 1075、DISA SRG L2  <br/> |是  <br/> |
+|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |是  <br/> |
 |Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |是  <br/> |
 
-有关 Microsoft 安全性和遵从性评审机制的详细信息，请访问[Microsoft 信任中心](https://www.microsoft.com/en-us/trustcenter/default.aspx)  
+有关 microsoft 安全性和合规性资格鉴定的详细信息, 请访问[microsoft 信任中心](https://www.microsoft.com/en-us/trustcenter/default.aspx)  
     
-## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>Microsoft 365 美国政府资格和验证
+## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>适用于美国政府资格和验证的 Microsoft 365
 <a name="BM2-customer"> </a>
 
-美国政府 Microsoft 365 可供合格政府客户和非政府机构赞助保留或处理受控的信息。Microsoft 政府云跨以下两种类别的客户的资格条件是一致的。
+美国政府版的 Microsoft 365 可供符合条件的政府客户和非政府组织赞助, 以保留或处理控制的信息。这两类客户的资格条件在 Microsoft 政府群中是一致的。
 
-GCC 和 GCC 高产品可供 Microsoft 政府云，符合条件的任何客户和 DoD 环境适用于美国防御部门独占使用。服务可用性和价格不同，和 GCC 保持为不保留 FedRAMP 高的所有客户生运动或 DoD 控制未分类的信息 (CUI)。
+gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使用, 而 DoD 环境专门用于美国国防部。服务可用性和价格不同, 并且 GCC 仍为所有不包含 FedRAMP 高或 DoD 控制未分类信息 (CUI) 的客户提供了英雄活动。
 
-合格的政府客户定义的一个以下：
+符合条件的政府客户由以下项定义:
 
--   联邦机构，定义为局、 office、 代理人、 部门或美国政府其他实体
--   状态/本地实体，定义为以下项之一：
-    1. 任何状态或在美国的当地政府机构
+-   一家联邦机构, 定义为美国政府的部门、办公室、机构、部门或其他实体
+-   state/local 实体, 定义为以下项之一:
+    1. 州或地方政府在美国的任何机构
     
-    2. 任何美国县、 区、 联邦、 城市、 上级主管机构、 城镇、 市镇、 特殊用途地区或其他相似类型的政府 instrumentality 建立的法律的客户的状态，并且位于客户的状态区域中和地理边界
-    3. 哥伦比亚，联邦波多黎哥、 关岛，美属萨摩亚、 美国维尔京群岛和北马里亚纳群岛
--   群体实体，作为印度群体意识，或者，阿拉斯加、 本机村庄或阿拉斯加区域本机 corporation 中定义作为联邦识别群体合格的资金和从美国部门的内部源于其状态的服务实体
+    2. 任何美国县、borough、英联邦、城市、municipality、城镇、township、特殊用途地区或其他类似类型的政府 instrumentality 由客户状态的法律建立, 位于客户的 state's 辖区内和地理边界
+    3. 哥伦比亚地区, 波多黎各、关岛、美洲萨摩亚、美国维尔京群岛和北马里亚纳群岛的马萨诸塞州
+-   一个部落实体, 定义为 federally 公认的部落实体, 其状态为 "印度 tribe", 或者在阿拉斯加中, 在阿拉斯加本地村庄或阿拉斯加地区的本地公司中提供资金和服务的资格。
 
-Microsoft 政府云验证流程的限定保留以下类型的数据时，可提供列出的证明的非政府组织：
+拥有以下类型数据的非政府组织, 可以为 Microsoft 政府云验证流程提供列出的证明资格:
 
-具有受法规的数据的商业专用实体。接受的政府数据类型包括： 
-- 国际流量 Arm (ITAR)
-- 控制未分类的信息 (CUI)
-- 部门的防御 (DoD) 未分类控制核信息 (UCNI)
-- 部门的能源 (DoE) UCNI
+包含受法规约束的数据的商业专用实体。接受的政府数据类型包括: 
+- arm 中的国际流量 (ITAR)
+- 受控制的未分类信息 (CUI)
+- 美国国防部 (DoD) 未分类的受分类的核信息 (UCNI)
+- 能源部门 (DoE) UCNI
 - 刑事审判信息 (CJI)
-- 部门的防御影响级别数据
-- 其他类型的需要 Microsoft 365 政府版的数据
+- 国防部影响级别的数据
+- 需要 Microsoft 365 政府的其他类型的数据
 
-国际商业实体可能成为合格，尽管可能需要购买服务通过其美国子公司监管的数据。
+国际商业实体可能会有资格, 但可能需要管控数据通过其美国子公司购买服务。
 
-需要访问 Microsoft 365 政府版产品中的某个上面列出的组的成员身份证明。
+若要访问 Microsoft 365 政府产品, 必须使用上面列出的其中一个组中的成员身份证明。
 
 
-## <a name="what-services-are-available-in-microsoft-365-government"></a>哪些服务是 Microsoft 365 政府部门中可用的？
+## <a name="what-services-are-available-in-microsoft-365-government"></a>哪些服务在 Microsoft 365 政府版中可用？
 <a name="BM3-withinUSA"> </a>
 
-若要了解有关 Microsoft 365 政府版中可用的服务的详细信息，请查看[Office 365 服务说明](http://aka.ms/o365usgovservicedescription)、[企业移动 + 美国政府服务说明的安全性 (EMS)](http://aka.ms/emsusgovservicedescription) 、 和[Windows 10 企业 IT 专业人员中心](https://www.microsoft.com/en-us/itpro/windows-10)
+若要了解有关 Microsoft 365 政府中提供的服务的详细信息, 请参阅[Office 365 服务说明](http://aka.ms/o365usgovservicedescription)、[企业移动性 + 安全性 (EMS) for 美国政府服务说明](http://aka.ms/emsusgovservicedescription)和[Windows 10 企业 IT 专业中心](https://www.microsoft.com/en-us/itpro/windows-10)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>哪些销售渠道供 Microsoft 365 政府版？
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>哪些销售渠道适用于 Microsoft 365 政府？
 <a name="BM3-withinUSA"> </a>
 
-下表显示可容纳每段的需要的选项。 
+下表显示了可满足每个部分的需求的选项。 
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 | <br/> |**GCC** <br/> | <br/> |**GCC 高** <br/> |**DoD** <br/> |
-|**SKU** <br/> |政府版，商业的 GOVCON Gov||GCC 高|DOD| 
-|**频道**   <br/> |EA (LSP)、 AOS G、 MPSA，Web 直接，CSP <br/> |  |EA (LSP) AOS G     <br/> |EA <br/> |
+|**SKU** <br/> |.gov 政府版, GOVCON 商业版||GCC-高|DOD| 
+|**频道**   <br/> |EA (LSP)、AOS-G、MPSA、Web Direct、CSP <br/> |  |EA (LSP)、AOS-G     <br/> |EA <br/> |
 
 ## <a name="how-to-buy-microsoft-365-government"></a>如何购买 Microsoft 365 政府版？
 <a name="BM3-withinUSA"> </a>
 
-请按照下列步骤以购买 Microsoft 365 政府许可证：
-1.   [完成并提交表单](https://aka.ms/m365usgoveligibility/)来验证您的组织资格。 
-2.  使用 Microsoft 帐户团队或以提交订单的限定的合作伙伴。客户可以通过选择合作伙伴仅美国政府许可证购买 Microsoft 365。
+请按照以下步骤购买 Microsoft 365 政府版许可证:
+1.   [完成并提交表单](https://products.office.com/en-us/government/eligibility-validation)以验证组织的资格。 
+2.  与 Microsoft 帐户团队或符合条件的合作伙伴合作, 以下订单。客户只能通过 "选择合作伙伴" 购买 Microsoft 365 for 美国政府版许可证。
 
-**Lsp GCC 和 GCC 高 （+ 500 座位）** 
+**lsp GCC 和 gcc 高 (+ 500 座位)** 
 - CDW
-- 连接 （以前称为 PC 连接）
-- Dell
-- 组 Hewlett Packard
-- 洞察力
-- PCM （还拥有 En Pointe 技术）
-- 市
+- 连接 (以前称为 PC 连接)
+- 戴尔
+- Hewlett Packard
+- 视角
+- PCM (也拥有 En Pointe 技术)
+- SHI
 - SoftwareOne
 - Softchoice
 - 区域国际
 
-**AOS G 合作伙伴 GCC 和 GCC 高 （下 500 座位）**
+**AOS-G 合作伙伴 gcc 和 gcc 高 (低于500个座位)**
 
-- C3 集成的解决方案
-- KTL 解决方案，inc.
-- 允许升离 LLC
-- 地球技术
-- 峰会 7 系统
+- C3 集成解决方案
+- KTL 解决方案, inc.。
+- LiftOff、LLC
+- 行星技术
+- 7个系统的峰会
 
-**注意：** 所有 Microsoft 许可解决方案提供商 (Lsp) 上述列表中的可以都 transact GCC 兼 GCC 高企业协议 (EA) 通过创建客户价格工作表 (CPS)。EA 不符合组织可以购买通过列出的 AOS G 合作伙伴或 CSP 合作伙伴计划 GCC 许可证。
+**注意:** 上述列表中的所有 Microsoft 许可解决方案提供商 (lsp) 都可以通过企业协议 (EA) 使用 gcc 和 gcc High (EA) 来创建客户价格表 (CPS)。不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
 
-**如果您使用 CSP 合作伙伴请与他们联系或[查找 CSP。](https://www.microsoft.com/en-us/solution-providers/home)**
+**如果您使用 CSP 合作伙伴, 请与他们联系或[查找 CSP。](https://www.microsoft.com/en-us/solution-providers/home)**
 
-## <a name="what-trials-are-available"></a>提供了哪些试用版？
+## <a name="what-trials-are-available"></a>有哪些试用版？
 <a name="BM3-withinUSA"> </a>
 
 
-- [EMS。](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security)客户可以选择要在 Office 商务门户中，将它们发送到 Azure Active Directory (AAD) 门户上经过封闭注册过程的 EMS 页面的右上角的尝试立即按钮。
--  [Office 365。](https://aka.ms/gcctrial)  免费的一个月试用以独占方式适用于美国政府机构，这是仅 GCC 和排除政府承包商。  
-- Microsoft 不提供试用版的 Office 365 GCC 商业客户和 GCC 高或 DoD 没有试用软件
+- [EMS。](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security)客户可以在 EMS 页面的右上方选择 "立即试用" 按钮, 在 Office commerce 门户上执行封闭注册过程, 该过程会将它们路由到 Azure Active Directory (AAD) 门户。
+-  [Office 365。](https://aka.ms/gcctrial)  免费的一个月试用版仅适用于美国政府组织, 这仅适用于 GCC, 并不包括政府承包商。  
+- Microsoft 不会将试用版 Office 365 gcc 提供给商业客户, 并且不会进行 GCC 高或 DoD 的试验
 
 ## <a name="where-can-i-learn-more"></a>在哪儿可以了解更多信息？
 <a name="BM3-withinUSA"> </a>
 
-使用以下资源来了解有关 Microsoft 365 政府版的详细信息。
+使用以下资源了解有关 Microsoft 365 政府的详细信息。
 
--  [Office 365 美国政府服务说明](http://aka.ms/o365usgovservicedescription) 
-- [EMS for 美国政府服务说明](http://aka.ms/emsusgovservicedescription)
-- [Microsoft 365 美国政府版](https://microsoft.com/microsoft-365/government)
-- [宣布 Microsoft 365 for 美国政府](http://aka.ms/m365usgovannouncement) 
+-  [Office 365 美国政府版服务说明](http://aka.ms/o365usgovservicedescription) 
+- [美国政府服务说明的 EMS](http://aka.ms/emsusgovservicedescription)
+- [适用于美国政府的 Microsoft 365](https://microsoft.com/microsoft-365/government)
+- [宣布推出适用于美国政府的 Microsoft 365](http://aka.ms/m365usgovannouncement) 
 
