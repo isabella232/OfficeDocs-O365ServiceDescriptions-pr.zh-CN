@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。其中包括提供 Exchange Online Protection 的计划列表以及所有计划的功能比较。
-ms.openlocfilehash: 6e7ffd6a2248acfc763a71e35ce0daba0f9b0308
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 749a4a8e1b9e8e93397f39a998e5bac6e1c0c745
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035094"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210265"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -28,7 +28,7 @@ Microsoft Exchange Online Protection (EOP) 是基于云的电子邮件筛选服�
   
 以下是您可以使用 EOP 进行邮件保护的主要方式：
   
-- **在独立方案**EOP 提供基于云的电子邮件保护为您的本地 Exchange Server 2013 环境、 旧版 Exchange Server，或任何其他内部部署 SMTP 电子邮件解决方案。 
+- **在独立方案中**EOP 为您的内部部署 exchange server 2013 环境、旧版 exchange server 版本或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。 
     
 - **作为 Microsoft Exchange Online 的一部分** 默认情况下，EOP 保护 Exchange Online 云托管的邮箱。若要了解有关 Exchange Online 的详细信息，请参阅 [Exchange Online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)。
     
@@ -87,35 +87,35 @@ EOP 可与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server 2013）
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**独立 EOP** <br/> |**Exchange Online 中的 EOP 功能** <br/> |**Exchange 企业版 CAL 带服务** <br/> |
-|[邮件收件人](recipient-domain-and-company-management.md#mail-recipients) <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是  <br/> |
-|[管理员角色组权限](recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
+|[邮件收件人](recipient-domain-and-company-management.md#mail-recipients) <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |可访问  <br/> |
+|[管理员角色组权限](recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |是<sup>2</sup> <br/> |是  <br/> |可访问  <br/> |
 |[域管理](recipient-domain-and-company-management.md#domain-management) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|[匹配子域](recipient-domain-and-company-management.md#match-subdomains) <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[基于目录的边缘阻止 (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[匹配子域](recipient-domain-and-company-management.md#match-subdomains) <br/> |是  <br/> |支持  <br/> |否  <br/> |
+|[基于目录的边缘阻止 (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |是  <br/> |支持  <br/> |可访问  <br/> |
 |[传输规则](messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |是<sup>3、4、14</sup> <br/> |是<sup>3、4、14</sup> <br/> |是  <br/> |
-|[审核日志记录](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |
-|[数据丢失防护 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |否  <br/> |是  <br/> |是<sup>6</sup> <br/> |
-|[Office 365 邮件加密](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |是<sup>12</sup> <br/> |是  <br/> |是<sup>12</sup> <br/> |
-|[反垃圾邮件保护](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)（内置）  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[自定义反垃圾邮件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |是<sup>7</sup> <br/> |是  <br/> |是  <br/> |
-|[反恶意软件保护](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)（内置）  <br/> |是<sup>13</sup> <br/> |是  <br/> |是  <br/> |
-|[自定义反恶意软件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Microsoft Office Outlook 的垃圾邮件报告加载项](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Outlook Web App 中的垃圾电子邮件报告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |是<sup>8</sup> <br/> |没有<sup>8</sup> <br/> |没有<sup>8</sup> <br/> |
-|[在 Office 365 和自己的电子邮件服务器之间路由电子邮件](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[与受信任合作伙伴的安全邮件](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[有条件的邮件路由](mail-flow-eop.md#conditional-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[混合邮件路由](mail-flow-eop.md#hybrid-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office 365 管理中心报告](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>9、10</sup> <br/> |
-|[Excel 下载应用程序报告](reporting-and-message-trace.md#excel-download-application-reports) <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
-|[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[邮件跟踪](reporting-and-message-trace.md#message-trace) <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |
-|[对 Office 365 管理中心的访问权限](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[对 Exchange 管理中心的访问权限](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[远程 Windows PowerShell 访问](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
+|[审核日志记录](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |是<sup>5</sup> <br/> |是  <br/> |可访问  <br/> |
+|[数据丢失防护 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |否  <br/> |可访问  <br/> |是<sup>6</sup> <br/> |
+|[Office 365 邮件加密](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |是<sup>12</sup> <br/> |可访问  <br/> |是<sup>12</sup> <br/> |
+|[反垃圾邮件保护](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)（内置）  <br/> |是  <br/> |支持  <br/> |可访问  <br/> |
+|[自定义反垃圾邮件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |是<sup>7</sup> <br/> |是  <br/> |可访问  <br/> |
+|[反恶意软件保护](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)（内置）  <br/> |是<sup>13</sup> <br/> |是  <br/> |可访问  <br/> |
+|[自定义反恶意软件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |是  <br/> |支持  <br/> |可访问  <br/> |
+|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理  <br/> |是  <br/> |支持  <br/> |可访问  <br/> |
+|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理  <br/> |是  <br/> |支持  <br/> |可访问  <br/> |
+|[Microsoft Office Outlook 的垃圾邮件报告加载项](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[Outlook Web App 中的垃圾电子邮件报告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |是<sup>8</sup> <br/> |无<sup>8</sup> <br/> |无<sup>8</sup> <br/> |
+|[在 Office 365 和自己的电子邮件服务器之间路由电子邮件](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[与受信任合作伙伴的安全邮件](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[有条件的邮件路由](mail-flow-eop.md#conditional-mail-routing) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[混合邮件路由](mail-flow-eop.md#hybrid-mail-routing) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[Microsoft 365 管理中心报告](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>9、10</sup> <br/> |
+|[Excel 下载应用程序报告](reporting-and-message-trace.md#excel-download-application-reports) <br/> |可访问  <br/> |可访问  <br/> |是<sup>11</sup> <br/> |
+|[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|[邮件跟踪](reporting-and-message-trace.md#message-trace) <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |可访问  <br/> |
+|[访问 Microsoft 365 管理中心](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[对 Exchange 管理中心的访问权限](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |可访问  <br/> |支持  <br/> |可访问  <br/> |
+|[远程 Windows PowerShell 访问](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>邮件用户被定义为"邮箱"，，并且可以添加外部邮件联系人一起，删除，并或直接管理 Exchange 管理员中心 (EAC)。 <br/><sup>2</sup>无 RBAC 自定义。管理员角色。 <br/> <sup>3</sup>的情况下可以查看托管域，可以在 EAC 中编辑域类型。Office 365 管理中心中，必须完成所有其他域管理。 <br/><sup>4</sup> ，提供灵活的条件和操作不同 EOP 和 Exchange Online 之间。有关可用条件和操作在 EOP 中的列表，请参阅[传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320392)和[Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320393)。有关可用条件和操作 Exchange Online 中的列表，请参阅[传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320394)和[Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395)。 <br/><sup>5</sup> EOP 审核报告是不包括邮箱信息的 Exchange Online 审核报告的子集。 <br/> <sup>6</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。<br/><sup>7</sup>的默认内容筛选器操作是将垃圾邮件移动到收件人的垃圾邮件文件夹。为此使用内部部署邮箱，您还必须配置这两种 Exchange 传输规则来检测垃圾邮件邮件头由 EOP 添加您的本地服务器上。有关详细信息，请参阅[确保垃圾邮件被路由到每个用户的垃圾邮件文件夹](https://go.microsoft.com/fwlink/p/?LinkId=320396)。 <br/><sup>8</sup>是适用于 Exchange Server 2013 Service Pack 1 (SP1) 客户其邮箱作为筛选依据 EOP，并且很快将适用于 Exchange Online 客户此功能。 <br/><sup>9</sup> EOP 报告是不包括邮箱信息的 Exchange Online 报告的子集。 <br/><sup>10</sup>包括 DLP 报告。 <br/><sup>11</sup> Exchange Enterprise CAL with Services 客户应该通过选择**Exchange Online**服务，而不是**Exchange Online Protection**服务安装工作簿。 <br/>本地客户购买 Azure 信息保护并使用 Exchange Online Protection 路由通过 Exchange Online 电子邮件的<sup>12</sup>支持。 <br/> <sup>13</sup>扫描入站和出站邮件，但不扫描从组织中的发件人发送到您的组织中的收件人的内部邮件。 <br/>EOP 和 Exchange Online 之间不同<sup>14</sup>可用谓词和操作。 <br/> <sup>15</sup> 混合安装程序不能通过混合向导使用，但是，如果你拥有 Exchange SP1，则可以手动进行设置。 
+> <sup>1</sup>邮件用户被定义为 "邮箱", 并且可以在 Exchange 管理中心 (EAC) 中直接在 Exchange 管理中心 (EAC) 中添加和删除外部邮件联系人, 以及对其进行其他管理。 <br/><sup>2</sup>无 RBAC 自定义。仅管理角色。 <br/> <sup>3</sup>可以在 EAC 中查看托管域, 并且可以编辑域类型。所有其他域管理都必须在 Microsoft 365 管理中心完成。 <br/><sup>4</sup> EOP 和 Exchange Online 的可用灵活条件和操作不同。有关 EOP 中的可用条件和操作的列表, 请参阅[传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320392)和[传输规则操作](https://go.microsoft.com/fwlink/p/?LinkId=320393)。有关 Exchange Online 中的可用条件和操作的列表, 请参阅[传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320394)和[传输规则操作](https://go.microsoft.com/fwlink/p/?LinkId=320395)。 <br/><sup>5</sup> EOP 审核报告是不包括邮箱信息的 Exchange Online 审核报告的子集。 <br/> <sup>6</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。<br/><sup>7</sup>默认内容筛选器操作是将垃圾邮件移到收件人的 "垃圾邮件" 文件夹。若要使用本地邮箱, 您还必须在本地服务器上配置两个 Exchange 传输规则, 以检测由 EOP 添加的垃圾邮件头。有关详细信息, 请参阅[确保垃圾邮件已路由到每个用户的 "垃圾邮件" 文件夹](https://go.microsoft.com/fwlink/p/?LinkId=320396)。 <br/><sup>8</sup>此功能适用于通过 EOP 筛选其邮箱的 exchange Server 2013 Service Pack 1 (SP1) 客户, 并且很快将提供给 exchange Online 客户。 <br/><sup>9</sup> EOP 报告是不包括邮箱信息的 Exchange Online 报告的子集。 <br/><sup>10</sup>包括 DLP 报告。 <br/><sup>11</sup> exchange Enterprise CAL with Services 客户应该通过选择**exchange online**服务 (而不是**exchange online Protection**服务) 来安装工作簿。 <br/><sup>12</sup>支持购买 Azure 信息保护的本地客户, 并使用 exchange online Protection 通过 exchange online 路由电子邮件。 <br/> <sup>13</sup>扫描入站和出站邮件, 但不扫描从组织中的发件人发送给组织中的收件人的内部邮件。 <br/><sup>14</sup> EOP 和 Exchange Online 的可用谓词和操作不同。 <br/> <sup>15</sup> 混合安装程序不能通过混合向导使用，但是，如果你拥有 Exchange SP1，则可以手动进行设置。 

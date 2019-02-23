@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: 本节介绍可用于 Microsoft Exchange Online Protection (EOP) 管理员的管理界面。
-ms.openlocfilehash: 67a8051b2b3b7136a981f8c8b1203f74a7c018f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 本节介绍了可用于 Microsoft Exchange Online Protection (EOP) 管理员的管理界面。
+ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035083"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210155"
 ---
 # <a name="administration-and-managementeop"></a>管理 [EOP]
 
-本节介绍可用于 Microsoft Exchange Online Protection (EOP) 管理员的管理界面。
+本节介绍了可用于 Microsoft Exchange Online Protection (EOP) 管理员的管理界面。
   
 想了解 EOP 的所有功能？请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
-## <a name="access-to-the-office-365-admin-center"></a>对 Office 365 管理中心的访问权限
+## <a name="access-to-the-microsoft-365-admin-center"></a>访问 Microsoft 365 管理中心
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Microsoft Office 365 管理中心是一个网络门户；通过它，每个公司的服务管理员都可以管理他们订阅的每项 Office 365 服务的用户帐户和设置。从 Office 365 管理中心内部，管理员可以跟踪 EAC 的链接，在其中可以管理特定于 EOP 的设置。
+Microsoft 365 管理中心是一个 web 门户, 其中每个公司的服务管理员都可以管理他们订阅的每个 Office 365 服务的用户帐户和设置。在 Microsoft 365 管理中心内, 管理员可以跟踪 EAC 的链接, 在这里, 他们可以管理特定于 EOP 的设置。
   
 ## <a name="access-to-the-exchange-admin-center"></a>对 Exchange 管理中心的访问权限
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>

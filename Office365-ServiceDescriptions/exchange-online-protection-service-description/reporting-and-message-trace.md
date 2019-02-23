@@ -12,31 +12,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Microsoft Exchange Online Protection (EOP) 提供了许多不同的报表，可帮助您确定的总体状态和组织的运行状况。某些报告可在 Microsoft Office 365 管理中心时其他人可在 Exchange 管理中心 (EAC)。
-ms.openlocfilehash: ead40ff8932d6f10ca91bd871e34ef9070c6b2db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) 提供了许多不同的报告, 可帮助您确定组织的总体状态和运行状况。Microsoft 365 管理中心提供了一些报告, 而其他报告在 Exchange 管理中心 (EAC) 中可用。
+ms.openlocfilehash: b52e1e33a8eec0694143c3dc277481fff79bf918
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035160"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210205"
 ---
 # <a name="reporting-and-message-trace"></a>报告和邮件跟踪
 
-Microsoft Exchange Online Protection (EOP) 提供了许多不同的报表，可帮助您确定的总体状态和组织的运行状况。某些报告可在 Microsoft Office 365 管理中心时其他人可在 Exchange 管理中心 (EAC)。
+Microsoft Exchange Online Protection (EOP) 提供了许多不同的报告, 可帮助您确定组织的总体状态和运行状况。Microsoft 365 管理中心提供了一些报告, 而其他报告在 Exchange 管理中心 (EAC) 中可用。
   
 想了解 EOP 的所有功能？请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
-## <a name="office-365-admin-center-reports"></a>Office 365 管理中心报告
+## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 管理中心报告
 <a name="BKMK_office365admincenterreports"> </a>
 
-Office 365 管理中心中的"报告"页面提供受 Exchange 传输规则或数据丢失保护 (DLP) 策略影响的有关邮件通信、垃圾邮件和恶意软件检测以及邮件的信息。有关保护、规则和 DLP 的增强报告为 EOP 管理员提供了交互式报告体验。这些报告提供了摘要数据，以及深入了解各个邮件详细信息的功能。
+Microsoft 365 管理中心中的 "报告" 页提供有关邮件流量、垃圾邮件和恶意软件检测以及受 Exchange 传输规则或数据丢失防护 (DLP) 策略影响的邮件的信息。针对保护、规则和 DLP 的增强报告为 EOP 管理员提供了交互式报告体验。这些报告提供了摘要数据, 并能够深入了解各个邮件的详细信息。
   
 有关这些报告的详细信息，请参阅[使用 Office 365 中的邮件保护报告查看关于恶意软件、垃圾邮件和规则检测的数据](https://go.microsoft.com/fwlink/p/?LinkID=401102)。
   
 ## <a name="excel-download-application-reports"></a>Excel 下载应用程序报告
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-Excel 2013 报告工作簿中还提供邮件保护报告，为摘要报告提供了深入了解功能。但是，我们建议改用增强的 Office 365 管理中心报告。Excel 2013 报告工作簿计划将在未来弃用。 
+"Excel 2013 报告" 工作簿中也提供了电子邮件保护报告, 它提供了包含深入查看功能的摘要报告。但是, 我们建议改为使用增强型 Microsoft 365 管理中心报告。Excel 2013 报告工作簿计划在将来弃用。 
   
 有关下载并安装工作簿的更多概述信息和链接，请参阅 [Mail Protection Reports for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776)。若要了解如何使用工作簿，请参阅 [Mail Protection Reports Using the Excel Reporting Workbook](https://go.microsoft.com/fwlink/p/?LinkId=285211)（使用 Excel 报告工作簿的邮件保护报告）。
   
