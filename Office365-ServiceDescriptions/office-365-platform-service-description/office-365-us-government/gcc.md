@@ -1,9 +1,9 @@
 ---
-title: GCC
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 9/26/2017
+title: Office 365 GCC
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: '为满足美国联邦、州、地方和部族政府以及代表美国政府保留或处理数据的承包商的不断变化的独特要求，Microsoft 提供Office 365 美国政府社区版 (GCC) 服务。为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。目前，仅限美国政府版实体试用。 '
-ms.openlocfilehash: 75fcb85c4c79506b15e382d5482ab81938f978db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035013"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379024"
 ---
-# <a name="gcc"></a>GCC
+# <a name="office-365-gcc"></a>Office 365 GCC
 
 为满足美国联邦、州、地方和部族政府以及代表美国政府保留或处理数据的承包商的不断变化的独特要求，Microsoft 提供Office 365 美国政府社区版 (GCC) 服务。为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。目前，仅限美国政府版实体试用。  
   
@@ -42,7 +42,7 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
   
 |||
 |:-----|:-----|
-|**Microsoft 人员筛查和背景调查** <br/> |**说明** <br/> |
+|**Microsoft 人员筛选和背景检查**<sup>1</sup> <br/> |**说明** <br/> |
 |美国公民身份  <br/> |核实美国公民身份  <br/> |
 |工作经历调查  <br/> |核实七 (7) 年的工作经历  <br/> |
 |核实教育背景  <br/> |核实最高学历  <br/> |
@@ -53,7 +53,8 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
 |国防贸易管制办公室 (DDTC) 禁止人员名单  <br/> |核实是否被归入美国国务院发布的禁止从事与国防工业有关的出口活动的个人和实体名单  <br/> |
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
 |CJIS 背景筛查  <br/> |在每个已加入 Microsoft CJIS IA 计划的州内，由州 CSA 指定的机构调查州审判的联邦和州级犯罪记录  <br/> |
-   
+
+<sup>1</sup>仅适用于具有对 Office 365 美国政府社区云 (GCC) 中托管的客户内容的临时或有权访问权限的人员  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 美国政府版社区和 Yammer
 
 虽然 Yammer Enterprise 不是 Office 365 美国政府版 的组件，但是 Office 365 美国政府版 E1 和 E3 计划许可的每个用户都可以将其作为独立产品免费获取。根据企业协议和企业订阅协议购买 Office 365 美国政府版 的客户当前不能享有此项优惠。 
@@ -66,4 +67,9 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
 
 MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和运行，但尚未经 3PAO 进行 Office 365 年度 FedRAMP 审核。如有必要，请先咨询合规性主管，然后再为组织中的用户启用 MyAnalytics 服务。 
   
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云 (GCC) 客户支持
 
+office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+)相同的条款和条件提供, 包括无支持代理物理位置或公民保证。Office 365 GCC 与 Azure 公有云结合运行, 在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
+
+Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分, 直到您确认他们的授权能够查看或访问此类数据。Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement )Office 365 GCC 客户支持不包含在服务资格鉴定边界中, 不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。

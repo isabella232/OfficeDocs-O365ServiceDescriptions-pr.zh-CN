@@ -3,7 +3,7 @@ title: Office 365 美国政府版
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 1/9/2019
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 创建了 Office 365 美国政府版计划 (orOffice 365 美国政府版)。本节提供特定于 Office 365 美国政府版的功能的概述。建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 271cc53cdf87553d60c14c793a72509e014cc739
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210435"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379054"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -89,25 +89,8 @@ Office 365 可以将第三方应用程序集成到 SharePoint Online 站点、Sk
 ## <a name="restricted-data-access-by-administrators"></a>管理员受限数据访问
 <a name="BM5-Restricted"> </a>
 
-Microsoft 管理员对 Office 365 美国政府版客户内容的访问权限仅限于美国公民。这些人员根据相关的政府标准进行背景调查。
-  
-||||
-|:-----|:-----|:-----|
-|**背景筛查** <br/> |**GCC** <br/> |**GCC 高和 Dod** <br/> |
-|核实美国公民身份  <br/> |可访问  <br/> |可访问  <br/> |
-|工作经历调查  <br/> |可访问  <br/> |可访问  <br/> |
-|核实教育背景  <br/> |可访问  <br/> |可访问  <br/> |
-|搜索社会安全号码 (SSN)  <br/> |可访问  <br/> |可访问  <br/> |
-|犯罪记录调查（7 年）  <br/> |可访问  <br/> |可访问  <br/> |
-|海外资产控制办公室 (OFAC) 名单  <br/> |可访问  <br/> |可访问  <br/> |
-|工业安全局 (BIS) 名单  <br/> |可访问  <br/> |可访问  <br/> |
-|根据 FBI 犯罪数据库调查指纹  <br/> |可访问  <br/> |可访问  <br/> |
-|本地状态 CJIS 刑事背景检查  <br/> |是<sup>1</sup>   <br/> |否  <br/> |
-|基于 OPM 第 3 层调查的 DOD IT-2  <br/> |否  <br/> |仅限 DOD SRG L5 租户  <br/> |
+Microsoft 管理员对 Office 365 美国政府客户内容的访问权限仅限于被筛选人员。有关筛选级别的详细信息, 请参阅每个各自的环境的 "服务说明" 页面 (GCC 或 gcc 高和 DoD)。 
 
-对于在 MSFT Govt Cloud CJIS 程序中注册的那些状态, 为<sup>1</sup>
-   
-[如何使用本服务说明部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack Center 载入帮助
 <a name="BM5-Restricted"> </a>
@@ -136,11 +119,11 @@ Microsoft 管理员对 Office 365 美国政府版客户内容的访问权限仅�
 ||||
 |:-----|:-----|:-----|
 |**背景筛查** <br/> |**GCC** <br/> |**GCC High 和 DoD** <br/> |
-|核实美国公民身份  <br/> |可访问  <br/> |可访问  <br/> |
-|工作经历调查  <br/> |可访问  <br/> |可访问  <br/> |
-|核实教育背景  <br/> |可访问  <br/> |可访问  <br/> |
-|社会安全号码 (SSN) 搜索  <br/> |可访问  <br/> |可访问  <br/> |
-|犯罪记录调查（7 年）  <br/> |可访问  <br/> |可访问  <br/> |
+|核实美国公民身份  <br/> |是  <br/> |可访问  <br/> |
+|工作经历调查  <br/> |是  <br/> |可访问  <br/> |
+|核实教育背景  <br/> |是  <br/> |可访问  <br/> |
+|社会安全号码 (SSN) 搜索  <br/> |是  <br/> |可访问  <br/> |
+|犯罪记录调查（7 年）  <br/> |是  <br/> |可访问  <br/> |
    
 [如何使用本服务说明部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -179,9 +162,9 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Office 365 ProPlus  <br/> |否 <br/> |是 <br/> |支持 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |支持  <br/> |支持  <br/> |可访问  <br/> |
 |Exchange Online Protection  <br/> |是  <br/> |支持  <br/> |支持  <br/> |可访问  <br/> |
-|SharePoint Online  <br/> |是  <br/> |支持  <br/> |支持  <br/> |可访问  <br/> |
-|OneDrive for Business  <br/> |是  <br/> |支持  <br/> |支持  <br/> |可访问  <br/> |
-|Skype for business (即时消息&amp;状态)  <br/> |是<sup>1</sup> <br/> |是  <br/> |可访问  <br/> |是<sup>1</sup> <br/> |
+|SharePoint Online  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|OneDrive for Business  <br/> |是  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Skype for business (即时消息&amp;状态)  <br/> |是<sup>1</sup> <br/> |可访问  <br/> |可访问  <br/> |是<sup>1</sup> <br/> |
 | 语音电话系统、音频会议  <br/> |否<sup>2、3</sup> <br/> |否<sup>2、3</sup> <br/> |是<sup>3, 5</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |可访问  <br/> |无<sup>2</sup> <br/> |
 |Project Online  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
@@ -199,9 +182,9 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府版 G5** <br/> |**Office 365 美国政府版 F1** <br/> |
 |**Office 365 管理** <br/> |||||
-|使用 Microsoft 365 管理中心管理 Office 365  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是  <br/> |是<sup>16</sup> <br/> |
-|从 Office 365 中管理核心服务设置  <br/> |是  <br/> |支持  <br/> |支持  <br/> |可访问  <br/> |
-|使用 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |支持  <br/> |支持  <br/> |可访问  <br/> |
+|使用 Microsoft 365 管理中心管理 Office 365  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |可访问  <br/> |是<sup>16</sup> <br/> |
+|从 Office 365 中管理核心服务设置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|使用 Windows PowerShell 管理 Office 365  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |无<sup>1</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup>  <br/> |无<sup>1</sup> <br/> |
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府版 G5** <br/> |**Office 365 美国政府版 F1** <br/> |
 |Microsoft 预订  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |

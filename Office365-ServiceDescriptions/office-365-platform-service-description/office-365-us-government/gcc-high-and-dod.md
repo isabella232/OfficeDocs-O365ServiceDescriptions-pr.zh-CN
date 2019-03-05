@@ -1,26 +1,26 @@
 ---
-title: GCC 高和 DoD
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 5/23/2018
+title: Office 365 GCC 高和 DoD
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: Microsoft 提供受到国际流量在 Arm 法规 (ITAR)，或以满足美国防御部门以及承包商的唯一和发展要求按住或处理 DoD 控制未分类的信息 (CUI)GCC 高和 DoD 环境。可通过批量许可，感的组织经过验证过程以确保资格建立环境之前。Trials 此时不可用。
-ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。通过批量许可提供的相关组织通过验证流程, 以确保在建立环境之前的资格。此时不提供试用版。
+ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215367"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379034"
 ---
-# <a name="gcc-high-and-dod"></a>GCC 高和 DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
-Microsoft 提供受到国际流量在 Arm 法规 (ITAR)，或以满足美国防御部门以及承包商的唯一和发展要求按住或处理 DoD 控制未分类的信息 (CUI)GCC 高和 DoD 环境。可通过批量许可，感的组织经过验证过程以确保资格建立环境之前。Trials 此时不可用。 
+为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。通过批量许可提供的相关组织通过验证流程, 以确保在建立环境之前的资格。此时不提供试用版。 
   
 若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。
   
@@ -30,21 +30,21 @@ Office 365 美国政府版 服务说明旨在作为常规 Office 365 服务说�
   
 ## <a name="compliance"></a>合规性
 
-GCC 高和 DoD 满足以下认证和资格鉴定的合规性要求： 
+GCC High and DoD 满足以下认证和资格鉴定的合规性要求: 
   
 - 符合 Moderate 基准（FedRAMP Moderate）的联邦风险和授权管理计划，其中包括美国国家标准技术研究院 (NIST) 特种出版物 800-53 中所述的这些安全控制和增强控制。
     
 - 高至影响级别 5 (L5) 的信息的美国国防部云计算安全要求指南 (SRG) 的安全控制和增强控制。
     
-部门的防御到 Office 365 的订阅者将收到来自 DOD 独占环境符合 DOD SRG L5 提供服务。非-部防御订阅者将收到来自评估在 L5，但使用第 4 细分的美国政府国防环境的服务。
+Office 365 的国防部订阅者将从符合 dod SRG L5 的 DOD 独家环境中接收服务。非防御部门订阅者将接收来自美国政府防御环境的服务, 这些服务在 L5 进行评估, 但使用 L4 分段。
   
-## <a name="background-screening"></a>背景筛选
+## <a name="background-screening"></a>后台筛选
 
-Office 365 人员没有位置访问 GCC 高和 DoD 生产。任何员工他们请求临时权限提升的会授予对客户内容的访问权限必须首先过去的以下背景检查。
+Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。任何请求临时权限提升的人员都必须先通过以下背景检查, 才能授予对客户内容的访问权限。
   
 |||
 |:-----|:-----|
-|**Microsoft 人员筛查和背景调查** <br/> |**说明** <br/> |
+|**Microsoft 人员筛选和背景检查**<sup>1</sup> <br/> |**说明** <br/> |
 |美国公民身份  <br/> |核实美国公民身份  <br/> |
 |工作经历调查  <br/> |核实七 (7) 年的工作经历  <br/> |
 |核实教育背景  <br/> |核实最高学历  <br/> |
@@ -55,48 +55,49 @@ Office 365 人员没有位置访问 GCC 高和 DoD 生产。任何员工他们�
 |国防贸易管制办公室 (DDTC) 禁止人员名单  <br/> |核实是否被归入美国国务院发布的禁止从事与国防工业有关的出口活动的个人和实体名单  <br/> |
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
 |国防部 IT-2  <br/> |请求对客户数据提升的权限或对国防部 SRG L5 服务功能的特权管理访问权限的员工必须通过国防部 IT-2 裁定，该裁定基于成功的 OPM 第 3 层调查。  <br/> |
-   
-## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>功能细微基于符合云体系结构
 
-GCC 高和 DoD 环境中的 office 365 订阅包括核心 Exchange Online、 SharePoint Online 和 Skype 业务功能。在给定所增加的证书和基础结构的评审机制，有一些常规商业 Office 365 产品和可用之间 GCC 高和 DoD 中的功能差异。
+<sup>1</sup>仅适用于具有对 Office 365 美国 GCC 中托管的客户内容的临时或具有访问权限的人员, 或使用 DOD 云
+## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>基于符合性云体系结构的功能细微
+
+在 GCC 高和 DoD 环境中的 Office 365 订阅包括核心 Exchange Online、SharePoint online 和 Skype for business 功能。如果基础结构的认证和资格鉴定增多, 则一般商业版 Office 365 产品与 GCC 高和 DoD 中提供的功能之间存在一些功能差异。
   
 ### <a name="exchange-online"></a>Exchange Online
 
- **Exchange Online 统一消息支持的本地 IP-PBX** -与 Exchange Online 统一消息集成的本地 IP PBX 系统的支持不支持在高 GCC 和 DoD 订阅。 
+ **适用于本地 ip-pbx 的 Exchange Online 统一消息支持**-支持将本地 ip-pbx 系统与 Exchange Online 统一消息集成在 GCC 高级和 DoD 订阅中不受支持。 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 
- **文档共享**-SharePoint Online 和 OneDrive for Business 启用无缝信息共享和用户和团队之间的协作。文档所有者可以将其他用户提供访问其文档通过 web 界面或在 Outlook 中的现代附件。共享文档，当有多个选项可用于管理权限： 
+ **文档共享**-SharePoint Online 和 OneDrive for business 实现了用户和团队之间的无缝信息共享和协作。文档所有者可以通过 web 界面或 Outlook 中的新式附件向其他用户提供对其文档的访问权限。共享文档时, 有多个选项可用于管理权限: 
   
-1. 只有我
+1. 仅我
     
 2. 公司内的任何人
     
-3. 与此链接的任何人
+3. 具有此链接的任何人
     
-4. 特定的某个人
+4. 特定人员
     
-使用 SharePoint Online 和 OneDrive for GCC 高或 DoD 环境中的业务可以保留文档专用客户 （首选项），与任何人共享其组织中 （第二个选项），与任何人都指向该文档的链接共享 （第三个选项），和共享与 GCC 高和 DoD 环境中特定的用户 （第四个选项）;当然，这些选项可以限制基于以及租户级访问控制。
+在 GCC 高或 DoD 环境中使用 SharePoint Online 和 OneDrive for business 的客户可以让文档保持专用 (第一个选项), 与组织中的任何人共享 (第二个选项), 与任何有该文档链接的人共享 (第三个选项), 以及仅与 GCC 高和 DoD 环境中的特定人员共享 (第四个选项);当然, 也可以基于租户级别的访问控制来限制这些选项。
   
-GCC 高租户可以仅与其他 GCC 高租户共享。例如：
+gcc 高租户仅可与其他 GCC 高租户共享。例如:
   
-- GCC 高租户 A 可以分享 GCC 高租户 b。
+- gcc high 租户 A 可以与 GCC 高租户 B 共享。
     
-- 非 GCC 租户 C 可以共享与 GCC 高租户 A 或 b。
+- 非 gcc 租户 C 可以与 GCC 高租户 A 或 B 共享。
     
-- GCC 高租户 A 或 B 无法共享与非 GCC 高租户 c。
+- gcc high 租户 A 或 B 无法与非 GCC 高租户 C 共享。
     
-此外，附加到用户配置文件的非 GCC 高电子邮件地址不受支持，并且不允许发送的通知电子邮件。例如，在本地用户 A 是分配 Gmail 电子邮件地址，然后同步到 Azure GCC 高租户。用户 A 导航到库，并创建通知的任何更改。通知不会发送到 Gmail 地址。
+此外, 不支持附加到用户配置文件的非 GCC 高电子邮件地址, 也不允许发送警报电子邮件。例如, 在本地用户 a 分配了 Gmail 电子邮件地址, 然后同步到 Azure GCC High 租户。用户 A 导航到库并为任何更改创建警报。将不会向 Gmail 地址发送通知。
   
- **外部应用程序访问**-与的加载项等数据源的外部应用程序的连接仅限于位于 GCC 高和 DoD 所支持的系统安全范围内的源。 
+ **外部应用程序访问**-与外部应用程序 (如外接程序的数据源) 的连接仅限于位于 GCC High and DoD 支持的系统安全边界内的源。 
   
- **Business Connectivity Services** -BCS 功能支持在其中的数据源保持云服务对安全边界内可访问的连接性方案。 
+ **Business Connectivity Services** -BCS 功能受支持的连接方案, 其中数据源在云服务的安全边界内仍可访问。 
   
- **沙盒解决方案**-此功能已被弃用并且不可用。任何沙盒解决方案应迁移到[SharePoint 外接程序扩展性模型]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)。
+ **沙盒解决方案**-此功能已被弃用, 不可用。应将任何沙盒解决方案迁移到[SharePoint 加载项扩展性模型]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)。
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **PSTN 呼叫&amp;PSTN 会议**-由于公共公用电话交换网 (PSTN) 用于面向电话的服务，PSTN 呼叫的要求&amp;PSTN 会议服务将当前不可用 GCC 高和 DoD 中。 
+ **pstn 呼叫&amp; pstn 会议**-由于需要使用面向电话服务的公用电话交换网 (PSTN), 因此在 GCC 高和 DoD 中, pstn &amp;呼叫 pstn 会议服务目前不可用。 
   
 ### <a name="identity"></a>身份
 
@@ -104,6 +105,6 @@ GCC 高租户可以仅与其他 GCC 高租户共享。例如：
   
 ### <a name="yammer"></a>Yammer
 
-Yammer Enterprise 中不可用 GCC 高和 DoD 环境。
+Yammer Enterprise 在 GCC 高和 DoD 环境中不可用。
   
 

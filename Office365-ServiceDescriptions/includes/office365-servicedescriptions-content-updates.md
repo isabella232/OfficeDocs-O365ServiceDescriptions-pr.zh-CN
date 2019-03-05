@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>2019年1月21日一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 1/24/2019 | [Skype for Business Online 服务说明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改时间 |
-| 1/24/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改时间 |
-
-
 ## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日所在周
 
 
@@ -64,3 +55,11 @@
 | 2/22/2019 | [用户帐户管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 修改时间 |
 | 2/22/2019 | [Skype for Business Online 功能](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | 修改时间 |
 | 2/22/2019 | [Skype for Business Online 服务说明](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | 修改时间 |
+
+
+## <a name="week-of-february-25-2019"></a>2019年2月25日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 2/27/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改时间 |
