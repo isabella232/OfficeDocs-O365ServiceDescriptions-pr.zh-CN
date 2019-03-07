@@ -1,7 +1,7 @@
 ---
 title: 共享和协作
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035049"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466919"
 ---
 # <a name="sharing-and-collaboration"></a>共享和协作
 
@@ -43,7 +43,7 @@ ms.locfileid: "24035049"
   
 ## <a name="public-folders"></a>公用文件夹
 
-Exchange Online 中的公用文件夹具有已得到改进利用现有高可用性和存储技术的邮箱数据库。公用文件夹体系结构使用专门设计的邮箱存储层次结构和公用文件夹内容。这意味着不再存在一个单独的公用文件夹数据库。公用文件夹复制现在使用连续复制模型。由数据库可用性组 (DAG) 中的数据中心提供高可用性的层次结构和内容的邮箱。在 Exchange Online 中，您仅限于 1000年公用文件夹邮箱。每个公用文件夹邮箱还具有最大存储大小。有关详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)中的"邮箱文件夹限制"部分。公用文件夹邮箱有相同的邮件、 收件人和容量警报限制为正则邮箱。有关详细信息，请参阅[Recipients](recipients.md)。 
+Exchange Online 中的公用文件夹已进行了改进，可利用邮箱数据库现有的高可用性和存储技术。 公用文件夹体系结构使用专门设计的邮箱来存储层次结构和公用文件夹内容。 这也意味着单独的公用文件夹数据库已不存在。 公用文件夹复制现在使用连续复制模型。 层次结构和内容邮箱的高可用性由数据中心的数据库可用性组 (DAG) 提供。 在 Exchange Online 中, 限制为1000公用文件夹邮箱。 每个公用文件夹邮箱还具有最大存储大小。 有关详细信息，请参阅 [Exchange Online 限制](exchange-online-limits.md) 中的"邮箱文件夹限制"一节。 公用文件夹邮箱的邮件、收件人和容量警报限制与普通邮箱相同。 有关详细信息，请参阅 [收件人](recipients.md)。 
   
 有关公用文件夹的详细信息，请参阅[公用文件夹](https://go.microsoft.com/fwlink/p/?LinkId=271790)。
   

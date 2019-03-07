@@ -1,7 +1,7 @@
 ---
 title: Yammer 中的组功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: 以下组功能在 Yammer 中可用。
-ms.openlocfilehash: 52415e7ce37aad1fd88e8078b34f0752c6e6b35c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035090"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467539"
 ---
 # <a name="group-features-in-yammer"></a>Yammer 中的组功能
 
@@ -34,7 +34,7 @@ ms.locfileid: "24035090"
 
 您可以添加与您已加入的组相关的组并设置其优先级，以便同事可以发现更多相关人员、内容和对话。
   
-## <a name="announcements"></a>通知
+## <a name="announcements"></a>公告
 <a name="bkmk_Announcements"> </a>
 
 与组共享通知以即时通知成员重要更新。管理员可以将通知固定到组，以便轻松发现。

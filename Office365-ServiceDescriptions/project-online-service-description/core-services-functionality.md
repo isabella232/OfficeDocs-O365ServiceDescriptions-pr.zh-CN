@@ -1,7 +1,7 @@
 ---
 title: 核心服务功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
 ms.audience: ITPro
@@ -10,26 +10,26 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Project Online 中提供了以下的核心服务功能功能。
-ms.openlocfilehash: b244c29c0858b1334dee7cc6841c12a2e4b1a45c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Project Online 中提供了以下 core services 功能功能。
+ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035022"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468049"
 ---
 # <a name="core-services-functionality"></a>核心服务功能
 
-Project Online 中提供了以下的核心服务功能功能。
+Project Online 中提供了以下 core services 功能功能。
   
-寻找有关所有 Project Online 功能的信息？请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
-## <a name="active-directory-integration"></a>Active Directory 集成
+## <a name="active-directory-integration"></a>Active Directory integration
 <a name="bkmk_AD_Integration"> </a>
 
 Active Directory 提供了一个中心位置，供管理员管理用户凭据和权限。Active Directory 与 Project 集成意味着 Active Directory 中的用户和组在 Project Online 或 Project Server 2013 中进行了同步。请参阅[在 Project Server 2013 中管理安全组与 Active Directory 的同步](https://go.microsoft.com/fwlink/p/?LinkId=402631)。
   
-## <a name="administration-deployment-and-extensibility"></a>管理、部署和扩展性
+## <a name="administration-deployment-and-extensibility"></a>Administration, Deployment, and Extensibility
 <a name="bkmk_AdministrationDeploymentExtensibility"> </a>
 
 Project Online 和 Project Server 2013 为管理员提供了计划、安装、配置、维护和扩展 Project 的功能。请参阅 [Project Server 2013 中面向 IT 专业人员的新增功能](https://go.microsoft.com/fwlink/p/?LinkId=272017)。
@@ -44,7 +44,7 @@ Project Online 入门内容现已发布。请参阅 [Project Online 入门](http
 
 Project Online 和 Project Server 2013 包括防止、发现和减少与业务或项目相关的潜在风险与问题的功能。若要了解详细信息，请参阅[管理 Project Web App 中的问题、风险和文档](https://go.microsoft.com/fwlink/?LinkId=402634)。
   
-## <a name="office-365-trust-center"></a>Office 365 信任中心
+## <a name="office-365-trust-center"></a>Office 365 Trust Center
 <a name="bkmk_Office365TrustCenter"> </a>
 
 你的数据由你自行处理。我们负责保护你的数据和隐私安全。请参阅 [Office 365 信任中心](https://go.microsoft.com/fwlink/?LinkId=402637)。
@@ -54,12 +54,12 @@ Project Online 和 Project Server 2013 包括防止、发现和减少与业务�
 
 Microsoft PPM 解决方案已得到数百个 Microsoft 合作伙伴的支持，这些合作伙伴均已赢得 PPM 资格，并在全球 80 多个国家/地区通过相关测试且完成大量部署。如果需要获得有关评估、构想、部署或培训的帮助，并准备好与专业服务组织交流，请[联系当地的 PPM 合作伙伴](https://go.microsoft.com/fwlink/p/?LinkId=272646)。
   
-## <a name="service-reliability"></a>服务可靠性
+## <a name="service-reliability"></a>Service reliability
 <a name="bkmk_ServiceReliability"> </a>
 
 借助行业领先的财务担保，我们承诺为 Office 365 客户提供 99.9% 的正常运行时间。请参阅[服务连续性](https://go.microsoft.com/fwlink/?LinkId=402653)。
   
-## <a name="service-updates"></a>服务更新
+## <a name="service-updates"></a>Service updates
 <a name="bkmk_Serviceupdates"> </a>
 
 我们会定期为 Office 365 服务更新新特性和功能。请参阅[服务更新](../office-365-platform-service-description/service-updates.md)。

@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving 中的合规性功能和安全功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: c54ec8f37c6f881dc934307f7784f79d01c7a878
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035043"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467789"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能和安全功能
 
@@ -93,7 +93,7 @@ Exchange 管理中心和远程 Windows PowerShell 可用于在就地电子数据
 
 以下部分介绍了 Microsoft Exchange Online Archiving 的安全功能。
   
-### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>在内部部署服务器和 Exchange Online Archiving 之间加密
+### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>在本地服务器和 Exchange Online Archiving 之间加密
 
 TLS 用于加密电子邮件服务器之间的连接，以帮助阻止电子诈骗并为传送中的邮件提供保密性。TLS 还可以用来确保到 Exchange Online Archiving 的 Office 365 数据中心的内部部署邮件服务器通信安全。
   

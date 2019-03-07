@@ -1,7 +1,7 @@
 ---
 title: Office 365 高级威胁防护服务说明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 02/20/2019
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
-ms.openlocfilehash: bf16c3593ba7ff8cb5ecc9c57b170d5ce153d77e
-ms.sourcegitcommit: 0779536e4b9dc4bed4fb3c7f0767314b9a63d397
+description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
+ms.openlocfilehash: 4bdd657ba517db072cf73a5e313d93ce2805b7b3
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "30178341"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468039"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
-Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
+Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
   
 以下是您可以使用 ATP 进行邮件保护的主要方式:
   
 - 在 Office 365 ATP 仅筛选方案中, ATP 为本地 Exchange Server 环境或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
     
-- 可以启用 Office 365 ATP 来保护 Exchange Online 云托管的邮箱。若要了解有关 Exchange online 的详细信息, 请参阅[exchange online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以启用 Office 365 ATP 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅 [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
     
 - 在混合部署中, 如果您将本地和云邮箱与入站电子邮件筛选的 Exchange Online 保护结合在一起, 则可以将 ATP 配置为保护您的邮件环境并控制邮件路由。
     
@@ -66,13 +66,13 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护 (ATP) 的新增功能
 
-我们正在继续向 Office 365 ATP 添加新功能。下面列出了几个新功能, 其中一些是用于检查和更新 ATP 策略的。若要了解有关即将 ATP (或常规 microsoft 365) 的新功能的详细信息, 请访问[Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)。
+我们正在继续向 Office 365 ATP 添加新功能。 下面列出了几个新功能, 其中一些是用于检查和更新 ATP 策略的。 若要了解有关即将 ATP (或常规 microsoft 365) 的新功能的详细信息, 请访问[Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)。
 
 |功能更新  |交办事项  |
 |---------|---------|
 |从2019年2月开始, 在接下来的几个月中推出, 将[威胁智能](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)功能添加到 ATP。 <br>如果您的组织当前没有 ATP, 则需要考虑新的选项, 包括 atp 计划1和 atp 计划2。 <br>若要了解详细信息, 请参阅[跨高级威胁防护 (ATP) 计划](#feature-availability-across-advanced-threat-protection-atp-plans)(本文中) 和[Office 365 高级威胁防护计划和定价](https://products.office.com/exchange/advance-threat-protection)的功能可用性。 |查看组织的订阅, 如果需要, 请[购买或编辑加载](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)项。  |
-|从10月2018开始, 在接下来的几个月中开始, 当用户使用 outlook 或 Outlook Web 应用程序 (OWA) 时, [ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)将呈现原始 url, 而不是重写的 url。(我们称之为本机链接呈现。)<br>当您的组织提供本机链接呈现时, 此功能将在 Outlook 365 (即点即用) 和 OWA 中运行。|无         |
-|从9月2018日起开始, [Office 365 ATP 警告页面](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages)可提供新的配色方案、更多详细信息和继续转到网站的功能, 尽管有警告和建议。 |无         |
+|从10月2018开始, 在接下来的几个月中开始, 当用户使用 outlook 或 Outlook Web 应用程序 (OWA) 时, [ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)将呈现原始 url, 而不是重写的 url。 (我们称之为本机链接呈现。)<br>当您的组织提供本机链接呈现时, 此功能将在 Outlook 365 (即点即用) 和 OWA 中运行。|None         |
+|从9月2018日起开始, [Office 365 ATP 警告页面](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages)可提供新的配色方案、更多详细信息和继续转到网站的功能, 尽管有警告和建议。 |None         |
 |从2018的下半年开始, 将[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于 office Online (Word Online、Excel Online、PowerPoint online 和 OneNote online) 中的 url 和 Mac 上的 office 365 专业增强版。   |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
 |从后期开始可能为 2018, 安全&amp;合规中心中的隔离功能将扩展到[SharePoint Online、OneDrive for business 和 Microsoft 团队的 ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)。 |[查看和编辑 ATP 安全附件策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
 |从2018年3月起, 将对[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护进行扩展, 以应用于在组织内的人员之间发送的电子邮件。 |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
@@ -81,7 +81,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护 (ATP) 的要求
 
-ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一起使用。有关 ATP 支持的操作系统、web 浏览器和语言的信息, 请参阅 exchange [Online Protection 中 exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)的 "支持的浏览器" 和 "支持的语言" 部分。
+ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一起使用。 若要了解 ATP 支持的操作系统、Web 浏览器和语言，请参阅 [Exchange Online Protection 中的 Exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)的"支持的浏览器"和"支持的语言"部分。
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>跨高级威胁防护 (ATP) 计划的功能可用性
 
@@ -90,32 +90,32 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
 |**功能**|**ATP 计划1**<br>(以前的 ATP 独立)|**ATP 计划2**<br>(以前称为威胁智能 <br>独立主机 | Office 365 企业版 E5| 
 |:-----|:-----|:-----|:-----|
 | *配置、保护和检测* | 
-|安全附件 |是|支持 |可访问|
-|安全链接 |是|支持 |可访问 | 
-|反网络钓鱼策略 |是 |支持 |可访问 |
-|SharePoint、OneDrive 和 Microsoft 团队的 ATP |是 |支持 |可访问|
-|团队中的安全链接 |是|支持 |可访问 |
-|实时报告 |是 |支持 |可访问|
+|安全附件 |是|是 |是|
+|安全链接 |是|是 |是 | 
+|反网络钓鱼策略 |是 |是 |是 |
+|SharePoint、OneDrive 和 Microsoft 团队的 ATP |是 |是 |是|
+|团队中的安全链接 |是|是 |是 |
+|实时报告 |是 |是 |是|
 |*自动化、调查、修正和教育* |
-|威胁跟踪器 |否 |是 |可访问 |
-|资源管理器 (高级威胁调查) |否 |是 |可访问 |
-|自动化调查和响应  |否 |是 |可访问 |
-|攻击模拟器 |否 |是 |可访问 |
+|威胁跟踪器 |否 |是 |是 |
+|资源管理器 (高级威胁调查) |否 |是 |是 |
+|自动化调查和响应  |否 |是 |是 |
+|攻击模拟器 |否 |是 |是 |
 
    
 ## <a name="advanced-threat-protection-atp-capabilities"></a>高级威胁防护 (ATP) 功能
 
 ### <a name="safe-attachments"></a>安全附件
 
-[ATP 安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)针对未知恶意软件和病毒提供保护, 并提供为期零天的保护, 以保护您的邮件系统。所有不包含已知病毒/恶意软件签名的邮件和附件都将被路由到一个特殊的环境, 其中 ATP 使用各种机器学习和分析技术来检测恶意意图。如果未检测到可疑活动, 则将释放邮件以传递到邮箱。 
+[ATP 安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)针对未知恶意软件和病毒提供保护, 并提供为期零天的保护, 以保护您的邮件系统。 所有不带有已知的病毒/恶意软件签名的邮件和附件都被路由到一个特殊的环境中，ATP 将在其中使用多种机器学习和分析技术来检测恶意企图。 如果没有检测到可疑的活动，会发布邮件并传递到邮箱中。 
 
 ### <a name="safe-links"></a>安全链接
 
-[ATP 安全链接](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。每次单击该链接时, 都会保持保护状态, 因为在可以访问正确的链接时, 会动态阻止恶意链接。
+[ATP 安全链接](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次单击链接时，将继续提供保护，因为会在访问良好的链接时动态地阻挡恶意链接。
 
 ### <a name="anti-phishing-policies"></a>反网络钓鱼策略
 
-[ATP 反网络钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)检查传入的邮件, 以指示邮件可能是网络钓鱼尝试。当 ATP 策略 (安全附件、安全链接或反网络钓鱼) 覆盖了用户时, 将通过分析邮件的多个机器学习模型来评估传入的邮件, 并根据配置的策略采取相应的操作。
+[ATP 反网络钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)检查传入的邮件, 以指示邮件可能是网络钓鱼尝试。 当 ATP 策略 (安全附件、安全链接或反网络钓鱼) 覆盖了用户时, 将通过分析邮件的多个机器学习模型来评估传入的邮件, 并根据配置的策略采取相应的操作。
   
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>适用于 SharePoint、OneDrive 和 Microsoft Teams 的 ATP
 
@@ -123,16 +123,16 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
 
 ### <a name="real-time-reports"></a>实时报告
 
-Office 365 Security & 合规中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp), 使您的安全和合规性管理员能够重点关注高优先级问题, 如安全攻击或增加了可疑活动。除了突出显示问题区域之外, 智能报告和见解还包括用于查看和浏览数据的建议和链接, 同时还采取快速操作。 
+Office 365 Security & 合规中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp), 使您的安全和合规性管理员能够重点关注高优先级问题, 如安全攻击或增加了可疑活动。 除了突出显示问题区域之外, 智能报告和见解还包括用于查看和浏览数据的建议和链接, 同时还采取快速操作。 
   
 ### <a name="threat-trackers"></a>威胁跟踪器
 
 [威胁跟踪](https://docs.microsoft.com/office365/securitycompliance/threat-trackers)程序是信息小组件和视图, 为授权用户提供了可能会影响您的组织的 cybersecurity 问题的智能。
 
-### <a name="explorer"></a>资源
+### <a name="explorer"></a>Explorer
 
-[浏览器](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)(也称为 "威胁资源管理器") 是一种实时报告, 它使授权用户能够识别和分析最新的威胁。默认情况下, 此报告显示过去7天的数据;但是, 可以对视图进行修改, 以显示过去30天的数据。 
+[浏览器](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)(也称为 "威胁资源管理器") 是一种实时报告, 它使授权用户能够识别和分析最新的威胁。 默认情况下, 此报告显示过去7天的数据;但是, 可以对视图进行修改, 以显示过去30天的数据。 
 
 ### <a name="attack-simulator"></a>攻击模拟器
   
-利用[攻击模拟器](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator), 授权用户可以在您的组织中运行实际的攻击方案。有几种不同类型的攻击可供使用, 其中包括显示名称 spear 网络钓鱼攻击、密码喷涂攻击和强力密码攻击。
+利用[攻击模拟器](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator), 授权用户可以在您的组织中运行实际的攻击方案。 有几种不同类型的攻击可供使用, 其中包括显示名称 spear 网络钓鱼攻击、密码喷涂攻击和强力密码攻击。

@@ -1,7 +1,7 @@
 ---
 title: Yammer 中的管理和安全功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,20 +13,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: 以下管理和安全功能在 Yammer 中可用。
-ms.openlocfilehash: 78aa673b4bb5da2bd5aca57bba6e532f9521a2bb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035165"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466739"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的管理和安全功能
 
 以下管理和安全功能在 Yammer 中可用。
   
-有关详细的说明和过程，请参阅[Yammer 管理中心](https://go.microsoft.com/fwlink/?LinkId=869688)。
+有关详细的说明和过程, 请参阅[Yammer 管理中心](https://go.microsoft.com/fwlink/?LinkId=869688)。
   
-## <a name="custom-network-branding"></a>自定义网络品牌
+## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
 
 将公司的外观和样式引入 Yammer 网络。网络管理员可以上载公司徽标和图像以创建自定义刊头设计。
@@ -36,17 +36,17 @@ ms.locfileid: "24035165"
 
 轻松管理对公司网络的访问。Yammer 可使您与已使用的目录同步、单个或批量添加或删除用户、邀请来宾加入您的网络并指定其他管理员。
   
-## <a name="admin-private-content-mode"></a>管理员专用内容模式
+## <a name="admin-private-content-mode"></a>Admin Private Content Mode
 <a name="bkmk_AdminPrivate"> </a>
 
 Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。验证管理员只有在为了调查问题而临时授予自己访问私人内容的权限时，才能查看私人内容。有关详细信息，请参阅 [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479)（监视 Yammer 中的私人内容（验证管理员））。
   
-## <a name="single-identity"></a>单一标识
+## <a name="single-identity"></a>Single Identity
 <a name="bkmk_o365_user_mapping"> </a>
 
 如果选择 Yammer 作为组织的 Office 365 中的默认社交体验，则会将员工映射到其现有的 Yammer 帐户。这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。员工访问 Yammer 时（无论是从 Office 365、Yammer 移动应用程序访问，还是通过浏览 Yammer.com 访问），都会基于现有组织凭据自动登录。
   
-## <a name="directory-synchronization"></a>目录同步
+## <a name="directory-synchronization"></a>Directory Synchronization
 <a name="bkmk_DirectorySynchronization"> </a>
 
 跨多个系统的标准化用户配置文件数据。可以从现有公司目录自动同步用户的添加操作、删除操作和配置文件信息。
@@ -77,7 +77,7 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 ## <a name="company-resources"></a>公司资源
 <a name="bkmk_CompanyResources"> </a>
 
-添加重要文件和链接以使员工快速访问公司资源，例如 HR 策略、 福利信息或假期日历。
+添加重要的文件和链接, 以使员工能够快速访问公司资源, 如 HR 策略、福利信息或假日日历。
   
 ## <a name="password-policies"></a>密码策略
 <a name="bkmk_PasswordPolicies"> </a>

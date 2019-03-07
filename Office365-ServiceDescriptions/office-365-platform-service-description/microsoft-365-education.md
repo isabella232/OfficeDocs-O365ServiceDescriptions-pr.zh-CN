@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 教育版
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: article
@@ -9,23 +9,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 位于不同的计划为了最好地满足组织的需求。如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将显示在每个包括了哪些功能。
-ms.openlocfilehash: 6a341e00fff5bde4b0727fccb091e44a43ec628d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。
+ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035136"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468169"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
-Microsoft 365 位于不同的计划为了最好地满足组织的需求。如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将显示在每个包括了哪些功能。 
+Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。 
   
-Microsoft 365 提供了一个完整的系统，包括 Office 365、 Windows 10 和企业移动性和安全性。下表列出了 Office 365 教育版 A1，A3 和 A5 功能以及相应的 Microsoft 365 教育版 A3 和 A5 功能。来比较 Office 365 功能跨业务和企业计划，请参阅[业务计划比较 Office 365](https://go.microsoft.com/fwlink/?linkid=799177)，或者，功能的更详细列表，请参阅[Office 365 服务说明](https://go.microsoft.com/fwlink/?linkid=839510)在相关服务说明。若要搜索的支持文章和信息，请参阅[Office 帮助和培训](https://support.office.com/)。
+Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 a5 功能的 Office 365, 以及相应的 Microsoft 365 教育版 A3 和 a5 功能。 若要跨企业和企业计划比较 office 365 功能, 请参阅[比较 office 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177), 或者, 有关更详细的功能列表, 请参阅[Office 365 服务说明](https://go.microsoft.com/fwlink/?linkid=839510)中的相关服务说明。 若要搜索支持文章和信息, 请参阅[Office 帮助和培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
-每个 Microsoft 365 教育版计划包括大量的单个服务，例如 Exchange Online 和 SharePoint Online。下表显示了在每个 Office 365 与 Microsoft 365 中可用的服务计划，以便您可以选择最能满足您需求的解决方案。若要查看 Office 365 服务和功能在更高版本的详细信息，请参阅[Office 365 教育版](https://technet.microsoft.com/EN-US/library/mt844095.aspx)服务说明。 
+每个 Microsoft 365 教育版计划都包含许多单独的服务, 例如 Exchange online 和 SharePoint online。 下表显示了每个 Office 365 和 Microsoft 365 计划中提供的服务, 以便您可以选择最能满足您的需求的解决方案。 若要更详细地查看 office 365 服务和功能, 请参阅[office 365 教育](https://technet.microsoft.com/EN-US/library/mt844095.aspx)服务说明。 
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -38,20 +38,20 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、 Windows 10 �
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |没有<sup>5</sup> <br/> |
-|Yammer Academic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Project Online  <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |
+|Yammer 学院  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**课堂工具** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
-|课堂体验中的 Microsoft 团队  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 团队中的课堂体验  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneNote 课堂笔记本  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |学习工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |辅助功能检查器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office Lens  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用代码生成器 Minecraft 教育版  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|充分的测试应用程序  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|设置学校 Pc 应用程序  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|**语音、 视频和会议** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5**<sup>6</sup> <br/> |
+|包含代码生成器的 Minecraft 教育版  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|获取测试应用程序  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|设置学校电脑应用程序  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|**语音、视频和会议** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5**<sup>6</sup> <br/> |
 |Skype 会议直播  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 预订  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 音频会议  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
@@ -59,44 +59,44 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、 Windows 10 �
 |**分析** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Power BI Pro  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|我分析  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|我的分析  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |**Azure Active Directory**<sup>11</sup> <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Azure Active Directory Basic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure Active Directory 计划 1  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|Azure Active Directory 计划 2  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Azure Active Directory 计划1  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|Azure Active Directory 计划2  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**合规性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Office 365 权限管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 信息保护计划 1<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |Azure 信息保护计划 2<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |诉讼保留  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|电子数据展示搜索  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|电子数据展示导出  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|eDiscovery Search  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|eDiscovery Export  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级电子数据展示  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |数据丢失防护  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 邮件加密  <br/> |是<sup>12</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |客户锁箱  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |高级数据治理  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|**管理和安全性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
+|**管理和安全** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |学校数据同步  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级安全管理  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Intune 教育<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Intune for 教育版<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |高级威胁分析  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows Defender 防病毒  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|设备 Guard  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|**高级的安全** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
+|Device Guard  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|**高级安全** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |
-|云应用程序安全性  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|云应用安全  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |Windows Defender 高级威胁防护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|**服务器和 CAL 好处** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
+|**服务器和 CAL 的好处** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Exchange<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |SharePoint<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
-|Skype 业务<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
+|Skype for business<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |System Center Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|系统中心终结点保护  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>包括 Exchange Online 计划 1 以及补充的功能。> <sup>2</sup>包括 Exchange Online 计划 2。> <sup>3</sup>包括 SharePoint Online 计划 1 以及补充的功能。> <sup>4</sup>包含 SharePoint Online 计划 2。> <sup>5</sup> project Online Essentials 不包含但可以免费添加到 Office 365 培训计划。> <sup>6</sup> Microsoft 365 教育版 A5 包含电话系统、 音频会议和调用规划功能。若要实现调用计划需要其他计划购买 （国内调用计划或国际呼叫计划）。> <sup>7</sup>以了解更多有关哪些 Azure 信息保护功能是包含在 Office 365 计划，请参阅[Azure 信息保护](https://go.microsoft.com/fwlink/?linkid=838357)。> <sup>8</sup>包含 Intune。> <sup>9</sup>服务器和 Cal 可供 Exchange、 SharePoint 和 Skype 的业务。> <sup>10</sup> ECAL 或核心 CAL，具体取决于的版 A3 购买的 — 与 A5，ECAL 权限包括在内。> <sup>11</sup> Azure Active Directory，有关详细信息，请参阅[什么是 Active Directory？](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)。> <sup>12</sup> office Pro Plus，则需要才能应用保护并从 Outlook 桌面发送受保护的电子邮件。 
+> <sup>1</sup>包括 Exchange Online 计划1和补充功能。 > <sup>2</sup>包括 Exchange Online 计划2。 > <sup>3</sup>包括 SharePoint Online 计划1和补充功能。 > <sup>4</sup>包括 SharePoint Online 计划2。 > <sup>5</sup> Project Online Essentials 不包括在内, 但可以免费添加到 Office 365 教育版计划中。 > <sup>6</sup> Microsoft 365 教育版 A5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐, 需要购买额外的计划 (国内通话套餐或国际通话套餐)。 > <sup>7</sup>若要详细了解 Office 365 计划中包含哪些 Azure 信息保护功能, 请参阅[Azure 信息保护](https://go.microsoft.com/fwlink/?linkid=838357)。 > <sup>8</sup>包括 Intune。 > Exchange、SharePoint 和 Skype for business 中包含<sup>9</sup>台服务器和 cal。 > <sup>10</sup> ECAL 或 Core CAL (具体取决于所购买的 A3 版本) 和 A5, 包括 ECAL 权限。 > <sup>11</sup>有关 Azure Active directory 的详细信息, 请参阅[什么是 Active Directory？](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)。 > 需要<sup>12</sup>个 Office Pro Plus, 才能通过 Outlook 桌面应用保护和发送受保护的电子邮件。 
   
 

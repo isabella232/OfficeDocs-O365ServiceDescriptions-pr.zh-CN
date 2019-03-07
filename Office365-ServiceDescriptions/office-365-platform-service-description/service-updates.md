@@ -1,7 +1,7 @@
 ---
 title: 服务更新
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解最新发布的或即将发布的 Office 365 功能，请参阅 Office 365 路线图。
-ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
+ms.openlocfilehash: b2ba1896f3c1acd616c62a82e7a8a1f25744d26f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29966216"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467759"
 ---
 # <a name="service-updates"></a>服务更新
 
@@ -28,11 +28,11 @@ ms.locfileid: "29966216"
 若要了解最新发布的或即将发布的 Office 365 功能，请参阅 [Office 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
 > [!NOTE]
-> 更新和升级的推出根据多个因素，如 geography、 语言、 数据中心和订阅的客户。这意味着立即向现有客户提供了不是所有的更新。 
+> 根据许多因素 (如地理位置、语言、数据中心和订阅) 向客户推出更新和升级。 也就是说，不是所有更新都可供 现有用户立即使用。 
   
 ## <a name="targeted-release"></a>定向发布
 
-目标版本中，您的组织或一组用户收到选定的一组服务更新大约一周，我们开始我们标准发布过程。若要了解详细信息，请参阅[Office 365 版本程序](https://go.microsoft.com/fwlink/p/?LinkId=509823)。 
+在目标版本中, 您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 有关详细信息，请参阅 [Office 365 发布计划](https://go.microsoft.com/fwlink/p/?LinkId=509823)。 
   
 ## <a name="update-notifications"></a>更新通知
 

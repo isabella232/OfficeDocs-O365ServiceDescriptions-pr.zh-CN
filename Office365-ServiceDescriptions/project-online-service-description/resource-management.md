@@ -1,7 +1,7 @@
 ---
-title: Resource management
-ms.author: pebaum
-author: pebaum
+title: 资源管理
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Project Online 中提供了下面的资源管理功能。
-ms.openlocfilehash: 9cccd229602d43fb1cfc4cfd90dca4a5ed91e446
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 以下资源管理功能在 Project Online 中可用。
+ms.openlocfilehash: 11d6689b5089ad6cb374364b021c3dad74a3856f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035082"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466589"
 ---
 # <a name="resource-management"></a>资源管理
 
-Project Online 中提供了下面的资源管理功能。
+以下资源管理功能在 Project Online 中可用。
   
-## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>批准/拒绝/修改传入的资源预订请求
+## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>批准/拒绝/修改传入资源预订请求
 <a name="bkmk_ApproveRejectModify"> </a>
 
 可以根据整个资源视图接受、拒绝或修改传入的资源请求。有关详细信息，请参阅[接受或拒绝预订请求](http://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409)。

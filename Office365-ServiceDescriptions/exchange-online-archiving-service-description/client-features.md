@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving 中的客户端功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online Archiving 使用户能够从设备和平台的各种连接到其存档邮箱。用户的存档的所有网络连接都发生通过 Internet，并且不需要虚拟专用网络 (VPN) 连接。组织可以发布以允许用户访问而无需 VPN 连接使用 Outlook Anywhere，其主邮箱的本地客户端访问服务器。如果 VPN 访问需要访问位于内部部署服务器的用户的主邮箱，则不会更改此要求。
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online 存档使用户能够从各种设备和平台连接到其存档邮箱。 连接到用户存档的所有网络连接都通过 Internet 发生，无需虚拟专用网 (VPN) 连接。 组织可以发布一个本地客户端访问服务器，通过此服务器，用户可以使用 Outlook 无处不在 （而无需通过 VPN 连接）访问其主邮箱。 如果需要 VPN 接入以访问位于本地服务器上的用户主邮箱，此要求不会更改。
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24034997"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467179"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的客户端功能
 
-Microsoft Exchange Online Archiving 使用户能够从设备和平台的各种连接到其存档邮箱。用户的存档的所有网络连接都发生通过 Internet，并且不需要虚拟专用网络 (VPN) 连接。组织可以发布以允许用户访问而无需 VPN 连接使用 Outlook Anywhere，其主邮箱的本地客户端访问服务器。如果 VPN 访问需要访问位于内部部署服务器的用户的主邮箱，则不会更改此要求。
+Microsoft Exchange Online 存档使用户能够从各种设备和平台连接到其存档邮箱。 连接到用户存档的所有网络连接都通过 Internet 发生，无需虚拟专用网 (VPN) 连接。 组织可以发布一个本地客户端访问服务器，通过此服务器，用户可以使用 Outlook 无处不在 （而无需通过 VPN 连接）访问其主邮箱。 如果需要 VPN 接入以访问位于本地服务器上的用户主邮箱，此要求不会更改。
   
 > [!IMPORTANT]
 > Microsoft 保留阻止或限制从任何会对 Exchange Online Archiving 服务的运行状况带来负面影响的客户端软件连接的权利。 
@@ -52,13 +52,13 @@ Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性�
 |Outlook 2007  <br/> |支持与 Exchange Online Archiving 结合使用。<sup>1、2</sup> <br/> |
 |Outlook 2003  <br/> |不支持  <br/> |
 |Outlook for Mac 2011  <br/> |不支持  <br/> |
-|Outlook for Mac  <br/> |支持用于 Exchange Online Archiving。<sup>3</sup> <br/> |
+|Outlook for Mac  <br/> |支持与 Exchange Online 存档配合使用。<sup>3</sup> <br/> |
 |Microsoft Office Entourage 2008 Web Services Edition  <br/> |不支持  <br/> |
 |IMAP 和 POP  <br/> |不支持  <br/> |
 |Exchange ActiveSync（移动设备）  <br/> |不支持  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>不支持 outlook 包含与 Microsoft Office Standard。若要了解详细信息，请参阅[个人存档和保留策略的许可证要求](https://go.microsoft.com/fwlink/?LinkId=389396)。> <sup>2</sup>需要更新，若要启用存档支持。Outlook 2007 用户无法查看或应用保留或存档策略以其存档邮箱; 中的项目它们必须依赖管理员设置策略。此外，Outlook 2007 用户无法搜索内部部署邮箱和同时存档。> <sup>3</sup>无法使用 Outlook 2016 Mac 或 Outlook for Mac 移动或复制文件夹、 日历项、 联系人、 任务或说明您存档或查看它们在存档邮箱中，如果使用任何其他版本的 Outlook （以前存在移动项目如 Outlook 2016 windows)。有关详细信息，请参阅[使用与 Outlook for Mac 的 2016年您联机存档](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)。 
+> <sup>1</sup> 不支持 Microsoft Office Standard 随附的 Outlook。 若要了解详细信息，请参阅 [License requirements for Personal Archive and retention policies](https://go.microsoft.com/fwlink/?LinkId=389396)（个人存档和保留策略的许可证要求）。 > <sup>2</sup> 必须更新才能启用存档支持。 Outlook 2007 用户无法查看保留或存档策略，也无法将其应用于存档邮箱中的项，而必须依赖管理员预配的策略。 此外，Outlook 2007 用户无法同时搜索本地邮箱和存档。 > <sup>3</sup>不能使用 outlook 2016 for mac 或 outlook for mac 将文件夹、日历项目、联系人、任务或笔记移动或复制到存档中, 或在存档邮箱中查看这些项目 (如果以前使用任何其他版本的 Outlook 将其移动到该位置) (如适用于 Windows 的 Outlook 2016)。 有关详细信息, 请参阅[使用适用于 Mac 的 Outlook 2016 的在线存档](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238)。 
   
 ## <a name="outlook-web-app"></a>Outlook Web App
 

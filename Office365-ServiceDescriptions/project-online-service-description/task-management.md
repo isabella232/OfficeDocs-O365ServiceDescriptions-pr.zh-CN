@@ -1,7 +1,7 @@
 ---
 title: 任务管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Project Online 中提供了下面的任务管理功能。
-ms.openlocfilehash: e646577d086d0d1a024d4f6705bc54c8b4f1fcdd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 以下任务管理功能在 Project Online 中可用。
+ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035012"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468189"
 ---
 # <a name="task-management"></a>任务管理
 
-Project Online 中提供了下面的任务管理功能。
+以下任务管理功能在 Project Online 中可用。
   
-寻找有关所有 Project Online 功能的信息？请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
-## <a name="active-and-inactive-tasks"></a>活动和不活动任务
+## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 <a name="bkmk_ActiveInactiveTasks"> </a>
 
 停用任务后，任务仍会保留在项目计划中，但不会影响资源可用性、项目日程安排或其他任务的日程安排。详细了解如何[停用任务](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
@@ -41,7 +41,7 @@ Project Online 中提供了下面的任务管理功能。
 
 使用"自动计划"模式自动安排任务。详细了解 [Project 如何安排任务](https://go.microsoft.com/fwlink/p/?LinkId=271331)。 
   
-## <a name="calendar-date-extended-to-2149"></a>日历日期已延长至 2149 年
+## <a name="calendar-date-extended-to-2149"></a>Calendar date extended to 2149
 <a name="bkmk_Calendardatextended"> </a>
 
 现在，项目任务可以使用长达至 2149 年的日历日期。 
@@ -61,12 +61,12 @@ Project Online 中提供了下面的任务管理功能。
 
 通过突出显示任务在整个项目中的路径，查看一个任务与其他任务的关联。详细了解如何[突出显示任务之间的关联](https://go.microsoft.com/fwlink/p/?LinkId=271345)。
   
-## <a name="top-down-summary-tasks"></a>自上而下摘要任务
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 <a name="bkmk_Topdownsummarytasks"> </a>
 
 为摘要任务创建资源分配。详细了解[自上而下计划](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
   
-## <a name="update-progress"></a>更新进度
+## <a name="update-progress"></a>Update progress
 <a name="bkmk_Updateprogress"> </a>
 
 更新任务进度，显示任务完成的百分比。

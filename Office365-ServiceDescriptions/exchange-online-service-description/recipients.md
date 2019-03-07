@@ -1,7 +1,7 @@
 ---
 title: 收件人
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,15 +12,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
-description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035044"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467409"
 ---
-# <a name="recipients"></a>收件人
+# <a name="recipients"></a>Recipients
 
 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。这包括电子邮件、联系人、通讯组、日历和日程安排功能。
   
@@ -146,7 +146,7 @@ Exchange Online 包括资源预订助理 (RBA)，这将自动计划会议室和�
   
 管理员必须通过远程 Windows PowerShell 定义和管理 RBA 设置。
   
-### <a name="out-of-office-replies"></a>"外出"回复
+### <a name="out-of-office-replies"></a>“外出”回复
 
 外出邮件是 Exchange Online 代表用户发送的入站邮件的自动回复。用户可以使用特定开始和结束时间提前计划外出邮件，并为内部和外部收件人单独配置外出邮件。它们还可以从支持该 Exchange ActiveSync 功能的移动设备设置外出邮件。Exchange Online 内的垃圾邮件和邮件列表意识防止用户发送外部外出邮件到扩展邮件列表和潜在垃圾邮件发送者。管理员还可以使用远程 Windows PowerShell 防止用户发送外出邮件给外部用户。
   

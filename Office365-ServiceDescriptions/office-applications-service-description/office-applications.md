@@ -1,7 +1,7 @@
 ---
 title: Office 应用程序
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035030"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467689"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
@@ -71,7 +71,7 @@ Skype for Business 是一款即时消息客户端和统一通信应用程序。�
 
 Microsoft InfoPath 是一个程序，可让您设计、散布、完成和提交电子表格。您可选择将 InfoPath 表单 Web 部件添加至 SharePoint Online 站点。有关更多信息，请参阅 [InfoPath 表单 Web 部件](http://go.microsoft.com/fwlink/p/?LinkId=271687).
   
-## <a name="windows-8-apps"></a>Windows 8 应用程序
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 某些 Office 应用程序（例如 Excel 和 Word），默认具有贴在 Windows 8 和 Windows RT 设备"开始"屏幕的上的图块。有关更多信息，请参阅[在 Windows 8 或 Windows 8 RT 中查找和启动 Office 应用程序](http://go.microsoft.com/fwlink/p/?LinkId=271688)。
@@ -101,7 +101,7 @@ Office Mobile for Windows Phone 包括 Word for Windows Phone、Excel for Window
   
 - [Office Mobile for Windows Phone](https://support.office.com/en-us/article/Office-Mobile-for-Windows-Phone-011b83c4-0d5f-4ea8-bbbe-2ed0d76dc69c?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-10-tablets"></a>适用于 Windows 10 平板电脑的 Office Mobile
+## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile for Windows 10 tablets
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 适用于 Windows 10 平板电脑的 Office Mobile 包括 Word Mobile、Excel Mobile 和 PowerPoint Mobile。您可从 Windows 应用商店免费下载这些应用。了解有关[适用于 Windows 10 的 Office Mobile 应用](https://blogs.office.com/2015/07/29/office-mobile-apps-for-windows-10-are-here/)的详细信息。

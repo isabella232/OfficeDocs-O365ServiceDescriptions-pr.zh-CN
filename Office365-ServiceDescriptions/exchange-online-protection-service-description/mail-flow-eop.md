@@ -1,7 +1,7 @@
 ---
 title: 邮件流[EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: 使用 Office 365 的大多数组织而言，我们将承载您的邮箱和邮件流的。它是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。但是，某些组织具有业务需要保留其上部署的所有邮箱。Exchange Online Protection (EOP)，您可以执行的并提供防病毒和反垃圾邮件处理在云中的邮件。有关详细信息，以及若要购买 EOP，请转到 Exchange Online Protection。
-ms.openlocfilehash: 6c43d308db3c4f62e4c6891cb87263560d9478a7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。 这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 借助 Exchange Online Protection (EOP)，可以实现上述功能，并在云中提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 Exchange Online Protection。
+ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035024"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467569"
 ---
 # <a name="mail-floweop"></a>邮件流[EOP]
 
-使用 Office 365 的大多数组织而言，我们将承载您的邮箱和邮件流的。它是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。但是，某些组织具有业务需要保留其上部署的所有邮箱。Exchange Online Protection (EOP)，您可以执行的并提供防病毒和反垃圾邮件处理在云中的邮件。有关详细信息，以及若要购买 EOP，请转到[Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection)。
+对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。 这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 借助 Exchange Online Protection (EOP)，可以实现上述功能，并在云中提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 [Exchange Online Protection](https://products.office.com/en-us/exchange/exchange-email-security-spam-protection)。
   
 正在查找关于域管理或基于目录的边缘阻止 (DBEB) 的信息？请参阅[收件人、域和公司管理](recipient-domain-and-company-management.md)。有关所有 EOP 功能的详细信息，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
@@ -48,7 +48,7 @@ ms.locfileid: "24035024"
 
 可以使用传输规则配置连接器，以便根据条件将邮件路由到特定的站点。有关详细信息，请参阅[Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx)。
   
-## <a name="hybrid-mail-routing"></a>混合邮件路由
+## <a name="hybrid-mail-routing"></a>Hybrid mail routing
 <a name="BKMK_hybridmailrouting"> </a>
 
 混合表示将一部分邮箱托管于本地上，而另一部分托管于云 (Exchange Online) 中。可以从独立（本地）部署移动到混合部署。

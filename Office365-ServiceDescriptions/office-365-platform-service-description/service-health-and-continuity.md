@@ -1,7 +1,7 @@
 ---
 title: 服务运行状况和连续性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,48 +12,48 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365 管理员可以查看的服务的状态，并了解维护计划。服务运行状况的信息可以在任何时候通过登录到 Office 365。
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258734"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466949"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
-Microsoft Office 365 管理员可以查看的服务的状态，并了解维护计划。服务运行状况的信息可以在任何时候通过登录到 Office 365。
+Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
   
 > [!NOTE]
-> 如果正在使用由世纪互联运营的 Office 365，则下面的某些信息可能不适用。请转为参阅[世纪互联服务级别协议](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+> 如果正在使用由世纪互联运营的 Office 365，则下面的某些信息可能不适用。 请转为参阅[世纪互联服务级别协议](http://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="view-status-of-services"></a>查看服务状态
 
-Office 365 服务运行状况部分显示的服务和服务中断和中断的详细信息的当前状态。消息中心上提供了计划内的维护信息。有关详细信息，请参阅[查看您的服务的状态](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
+Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及有关服务中断和中断的详细信息。 计划的维护信息在邮件中心提供。 有关详细信息，请参阅[查看服务状态](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
   
 ## <a name="service-incidents"></a>服务事件
 
-服务事件是一个影响服务的传送的事件。服务事件可能是由在 Microsoft 数据中心中，出错的网络连接客户与 Microsoft 或主要数据中心挑战，如火灾、 淹没或地区灾难之间的硬件或软件故障导致的。大多数服务事件可以用 Microsoft 技术和流程解决方案寻址和短时间内解析。但是，某些服务事件是更严重，并且可能会导致更长时间术语中断。
+服务事件是影响服务交付的事件。 服务事件可能是由 Microsoft 数据中心中的硬件或软件故障、客户与 Microsoft 之间的故障网络连接或主要的数据中心挑战 (如火灾、洪水或区域灾难) 引起的。 可以使用 Microsoft 技术和流程解决方案，在很短时间内解决大部分服务事件。 然而，一些服务事件更加严重，并会导致长期中断。
   
-有两种类型的通知有关时服务可能不可用的时间：
+有两种类型的通知关于服务可能不可用的次数:
   
-- **计划维护事件：** 计划内的维护是常规 Microsoft 启动的服务基础结构和软件应用程序更新。计划内的维护通知告知可能会影响 Office 365 服务的功能的服务工作的客户。通过在 Office 365 管理门户上的邮件中心的所有计划内维护前五天内通知客户。通常，Microsoft 在当服务使用情况过去最低的基于区域时区的时间计划维护。 
+- **计划的维护事件:** 计划内维护是对基础结构和软件应用程序的定期 Microsoft 启动的服务更新。 计划内维护通知通知客户可能会影响 Office 365 服务功能的服务工作。 通过 Office 365 管理门户上的消息中心在所有计划维护之前的时间内, 客户收到的通知不会超过五天。 Microsoft 通常会在服务使用情况在其基于区域时间区域的最低阶段时规划维护时间。 
     
 - **非计划的停机时间：** 当 Office 365 套件中的一项服务不可用或不响应时，发生非计划的服务事件。 
     
 ## <a name="notification-policy"></a>通知策略
 
-服务事件发生时，Microsoft 识别及时、 目标，且准确通信很重要的客户。Microsoft 通知通过更新租户特定服务运行状况仪表板 (SHD) 在 Office 365 管理门户上的 Office 365 管理员。每小时节奏上提供了事件的服务更新，或者，如果不同步调是必需的它将为所述 SHD 通信发布。 
+当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新 office 365 管理门户上特定于租户的服务运行状况仪表板 (SHD) 来通知 office 365 管理员。 服务事件更新在每小时节奏上提供, 如果需要不同的节奏, 则会在 SHD 通信发布中进行说明。 
   
 ## <a name="service-health-communication-channels"></a>服务运行状况的通信通道
 
 ### <a name="office-365-admin-app"></a>Office 365 Admin App
 
-管理应用程序的 Office 365 租户管理员为您提供了连接与在贵组织的 Office 365 服务状态的能力。Office 365 租户管理员将能够查看服务运行状况信息和维护从其移动设备的状态更新。有关详细信息，请访问[管理应用程序的常见问题](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
+Office 365 租户管理员的管理员应用程序使你能够在旅途中与组织的 Office 365 服务状态进行连接。 Office 365 租户管理员将能够从其移动设备查看服务运行状况信息和维护状态更新。 有关详细信息，请参阅 [Admin App FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)（管理应用程序 FAQ）。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
-Microsoft System Center 是帮助您管理数据中心、 客户端设备和混合云 IT 环境集成的管理平台。现在使用 System Center office 365 管理员可以选择要导入 Office 365 管理包，这就使用户可以查看在 System Center Operations Manager 中的所有服务通信。使用此工具可以访问您的订阅的服务、 活动和解决服务事件和消息中心通信的状态。有关详细信息，请访问[新的 Office 365 管理员工具](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)博客文章。 
+Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 office 365 管理包, 这使他们能够在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 
@@ -71,19 +71,19 @@ Microsoft System Center 是帮助您管理数据中心、 客户端设备和混�
 
 Microsoft 致力于持续改进，包括分析影响客户的计划外服务事件，以最大限度地减少此类事件的再发生次数。 
   
-计划外的服务事件被指我们服务的 Sla，由定义影响服务使用情况并在服务运行状况主控板上的此类声明的多租户服务中断。
+计划外服务事件定义为影响服务使用者定义的服务使用情况的多租户服务中断, 并已在服务运行状况仪表板中声明为这样。
   
- 计划外影响客户的服务事件顺序出现广泛和显著影响整个组织的大量的初步后事件审阅 (PIR) 将传递通过服务运行状况主控板的事件的 48 小时内五业务天内跟最终 PIR 分辨率。详细的 PIR 报告包括： 
+ 对于在大量组织中有广泛且显著影响的未计划客户影响的服务事件, 在事件的48小时内, 将通过您的服务运行状况仪表板提供初步的后期事件检查 (PIR)。解决办法, 后跟最终 PIR 在五个工作日内。 详细的 PIR 报告包括: 
   
 - 用户体验和客户影响
     
 - 事件开始日期和结束日期/时间
     
-- 详细的时间线的影响和解决方案的度量值
+- 影响和解决方法的详细日程表
     
 - 根本原因分析以及为持续改进采取的操作
     
-对于所有其他服务事件，服务运行状况主控板将提供事件关闭摘要包括最后一个摘要事件、 初步根本原因、 开始和结束时间和伴随后续步骤的信息。服务事件此类别，将不会生成 PIR。 
+对于所有其他服务事件, 服务运行状况仪表板将提供事件结束摘要, 包括事件的最终摘要、初步根源、开始和结束时间以及详细介绍后续步骤的信息。 对于此类服务事件，不会生成 PIR。 
   
 ## <a name="service-continuity"></a>服务连续性
 

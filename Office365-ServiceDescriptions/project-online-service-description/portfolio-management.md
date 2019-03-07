@@ -1,7 +1,7 @@
 ---
 title: 项目组合管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,21 +10,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: 以下项目组合管理功能是 Project Online 中可用。
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Project Online 中提供了以下项目组合管理功能。
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035097"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466619"
 ---
 # <a name="portfolio-management"></a>项目组合管理
 
-以下项目组合管理功能是 Project Online 中可用。
+Project Online 中提供了以下项目组合管理功能。
   
-寻找有关所有 Project Online 功能的信息？请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
-## <a name="analyze-projects-and-optimize-portfolio"></a>分析项目和优化项目组合
+## <a name="analyze-projects-and-optimize-portfolio"></a>对项目进行分析和优化产品组合
 <a name="bkmk_AnalyzeProjects"> </a>
 
 让你能够分析项目，确定其中哪些可以在预算和资源方面取得最大投资回报率。我们将此过程称为"项目组合分析"。有关详细信息，请参阅 [Use the portfolio analysis scatter chart](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)（使用项目组合分析散点图）。
@@ -54,7 +54,7 @@ ms.locfileid: "24035097"
 
 有效发现、选择并交付与组织的业务战略最为一致且能最大限度地提高投资回报率 (ROI) 的项目组合。若要了解详细信息，请参阅[项目组合管理解决方案指南（白皮书）](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
   
-## <a name="program-management"></a>计划管理
+## <a name="program-management"></a>方案管理
 <a name="bkmk_ProgramManagement"> </a>
 
 计划管理中的每个项目均有自身的一组目标。如果将这些目标结合在一起，则可实现整个计划的预期收益。若要了解详细信息，请参阅[项目组合管理解决方案指南（白皮书）](https://go.microsoft.com/fwlink/p/?LinkId=402633)。

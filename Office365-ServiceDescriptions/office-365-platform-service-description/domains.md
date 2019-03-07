@@ -1,7 +1,7 @@
 ---
 title: 域
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/10/2017
 ms.audience: ITPro
@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: 当您添加域时, 分步向导可帮助您添加用户并将 Office 365 电子邮件地址和其他服务转换为您的业务名称。完成该向导后, 您的业务电子邮件将开始转到 Office 365, 而不会转到当前的电子邮件提供商。若要了解详细信息, 请参阅将用户和域添加到 Office 365。如果使用由世纪互联运营的 Office 365, 请参阅验证您的域。
-ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: 当您添加一个域时，分步向导可帮助您添加用户并将您的 Office 365 电子邮件地址和其他服务转换为您的公司名称。 完成该向导后，您的业务电子邮件将转到 Office 365，而不转到您当前的电子邮件提供商。 若要了解详细信息，请参阅将用户和域添加到 Office 365。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
+ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210235"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466369"
 ---
 # <a name="domains"></a>域
 
-当您添加域时, 分步向导可帮助您添加用户并将 Office 365 电子邮件地址和其他服务转换为您的业务名称。完成该向导后, 您的业务电子邮件将开始转到 Office 365, 而不会转到当前的电子邮件提供商。若要了解详细信息, 请参阅[将用户和域添加到 Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。如果使用由世纪互联运营的 Office 365, 请参阅[验证您的域](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)。
+当您添加一个域时，分步向导可帮助您添加用户并将您的 Office 365 电子邮件地址和其他服务转换为您的公司名称。 完成该向导后，您的业务电子邮件将转到 Office 365，而不转到您当前的电子邮件提供商。 若要了解详细信息，请参阅[将用户和域添加到 Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 如果您使用由世纪互联运营的 Office 365，请参阅[验证您的域](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409)。
   
 ## <a name="custom-domains"></a>自定义域
 <a name="BKMK_CustomDomains"> </a>
 
-您最多可以向 Office 365 订阅添加900个域。但是, 不能将域添加到在其他 Microsoft 云服务中已在使用的 Office 365。这意味着您不能将同一个域添加到多个 Office 365 订阅中。有关详细信息, 请参阅[域 FAQ](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
+最多可以将 900 个域添加到 Office 365 订阅中。 不过，无法将域添加到已在另一个 Microsoft 云服务中使用的 Office 365 中。 也就是说，无法将同一个域添加到多个 Office 365 订阅中。 有关详细信息, 请参阅[域 FAQ](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
   
 ### <a name="second-and-third-level-domains"></a>第二级域和第三级域
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
@@ -47,14 +47,14 @@ ms.locfileid: "30210235"
   
 无论您将 DNS 记录托管在何处，您都可以设置 DNS 记录将您的域用于托管在 Office 365 或不同宿主提供商的公共网站的 URL。 
   
-Office 365 可主动检查您的 dns 记录, 以查找并帮助修复 dns 问题。如果你的 DNS 记录不符合我们的预期, 你将在 Microsoft 365 管理中心收到通知, 以及告诉你如何修复已确定的可能问题的信息。
+Office 365 预先检查您的 DNS 记录以查找并帮助解决 DNS 问题。 如果你的 DNS 记录不符合我们的预期, 你将在 Microsoft 365 管理中心收到通知, 以及告诉你如何修复已确定的可能问题的信息。
   
 有关详细信息，请参阅 [Office 365 如何管理 DNS 记录](https://go.microsoft.com/fwlink/p/?LinkID=270144)。或者，对于由世纪互联运营的 Office 365，请参阅[管理 DNS 记录时为 Office 365 创建 DNS 记录](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409)。
   
 ## <a name="sharing-a-domain"></a>共享域
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-您可以使用 office 365 上的某个域的某些电子邮件地址 (而不是以前的电子邮件提供商) 试点 office 365。建议仅在运行 office 365 的过程中使用此方法, 因为这需要额外的安装步骤, 并且对 office 365 服务有一些限制。有关详细信息, 请参阅:
+您可以试用 Office 365，将某个域的一些电子邮件地址放在 Office 365 上，另一些放在以前的电子邮件提供商处。 建议仅在运行 office 365 的过程中使用此方法, 因为这需要额外的安装步骤, 并且对 office 365 服务有一些限制。 有关详细信息，请参阅：
   
 - [试用 Office 365 小型企业版](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

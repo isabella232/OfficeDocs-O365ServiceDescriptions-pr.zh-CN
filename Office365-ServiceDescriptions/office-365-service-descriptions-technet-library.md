@@ -1,7 +1,7 @@
 ---
 title: 'Office 365 服务说明 '
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是一种基于云的服务，旨在帮助满足您组织需求的可靠的安全性、 可靠性和用户工作效率。
-ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
-ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
+description: Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
+ms.openlocfilehash: abf2ca2eb13bc5830bb5520836aebc66aa55bc1f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "28694656"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466689"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
-Microsoft Office 365 是一种基于云的服务，旨在帮助满足您组织需求的可靠的安全性、 可靠性和用户工作效率。 
+Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。 
   
 此库中的主题详细描述了可与 Office 365 结合使用的服务和功能。若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或以下列表中相关的服务描述。 
   
@@ -33,7 +33,7 @@ Microsoft Office 365 是一种基于云的服务，旨在帮助满足您组织�
 > [!NOTE]
 > 如果你正在查找服务说明比较电子表格，此内容已停用。已对每个"服务说明"页面的产品功能可用性表进行了更新，以更好地帮助你选择适合你需求的 Office 365 版本。 
   
-Microsoft FastTrack 中心好处 for Office 365 提供合格的服务合格计划中。好处，可以远程处理 Microsoft 专员交谈，以获取 Office 365 环境准备就绪。有关详细信息，请参阅[FastTrack 中心 for Office 365 的优点](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 的 FastTrack 中心权益。 通过此好处, 你可以与 Microsoft 专家远程合作, 让你的 Office 365 环境做好使用准备。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
@@ -67,12 +67,12 @@ Microsoft FastTrack 中心好处 for Office 365 提供合格的服务合格计�
     
 - [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 (online) 服务说明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> 包含 [uite features](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。 
   
 ## <a name="disclaimer"></a>免责声明
 
-© 2018 Microsoft Corporation。保留所有权利。Microsoft Office 365 和其他产品和服务的名称或可能注册的商标和/或在美国和/或其他国家/地区的商标。此处提供的信息仅用于提供信息和代表 Microsoft Corporation 的截止的最新出版物的当前视图或本文档的修订日期。它不能为服务合同，并不到任何功能、 功能或本文档所提及的职责提交 Microsoft 或客户。MICROSOFT 明示没有明确的、 暗示或法定的本文档中的信息。 
+© 2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 此信息不得视为服务约定，亦不得视为 Microsoft 或客户对本文提及的任何特性、功能或职责承担任何责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。 
   

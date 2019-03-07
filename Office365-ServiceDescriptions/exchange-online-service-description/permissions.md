@@ -1,7 +1,7 @@
 ---
 title: 权限
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支持组织管理员有效控制用户和 IT 员工可以在该服务中执行的操作。例如，如果合规专员负责处理邮箱搜索请求，则管理员可通过 RBAC 将此管理功能委派给该专员。Exchange Online 使用与 Microsoft Exchange Server 2013 相同的 RBAC 框架。
-ms.openlocfilehash: 037a92123c67e313f4db93835be6355bbd829efc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035095"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468129"
 ---
 # <a name="permissions"></a>权限
 
@@ -40,7 +40,7 @@ Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支�
     
 角色通过向已分配角色的用户提供 cmdlet 来授予管理员和用户执行任务的权限。由于 Exchange 管理中心 (EAC) 和 Exchange 命令行管理程序使用 cmdlet 管理 Exchange Online，因此授予对 cmdlet 的访问权限将给予管理员或用户在每个 Exchange Online 管理界面中执行任务的权限。
   
-基于角色的 Microsoft Online Services 权限与 Exchange Online RBAC 权限通过以下两种方式重叠。首先，Microsoft Online 中的“全局管理员”或“服务管理员”用户将自动分配给 Exchange Online 中的“组织管理”角色组。其次，Microsoft Online 中的“技术支持管理员”用户将自动分配给 Exchange Online 中的“技术支持”角色组。否则，两种安全模型将分别单独管理。
+基于角色的 Microsoft Online Services 权限与 Exchange Online RBAC 权限通过以下两种方式重叠。首先，Microsoft Online 中的"全局管理员"或"服务管理员"用户将自动分配给 Exchange Online 中的"组织管理"角色组。其次，Microsoft Online 中的"技术支持管理员"用户将自动分配给 Exchange Online 中的"技术支持"角色组。否则，两种安全模型将分别单独管理。
   
 > [!IMPORTANT]
 > Microsoft Exchange Server 2013 内部部署版本中的某些角色在 Exchange Online 中可能不存在。 

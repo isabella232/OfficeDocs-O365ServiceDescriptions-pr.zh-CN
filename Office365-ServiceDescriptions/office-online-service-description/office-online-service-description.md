@@ -1,7 +1,7 @@
 ---
 title: Office Online 服务说明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 Excel、 OneNote 和 PowerPoint 文档。Office Online 可更轻松地工作和共享从任何位置的 Office 文件具有 Internet 连接，从几乎任何设备。与 Word、 Excel、 OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以查看、 创建和编辑在文件。
-ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
-ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
+description: Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
+ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "29612765"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467449"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
-Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 Excel、 OneNote 和 PowerPoint 文档。Office Online 可更轻松地工作和共享从任何位置的 Office 文件具有 Internet 连接，从几乎任何设备。与 Word、 Excel、 OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以查看、 创建和编辑在文件。 
+Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。 
   
 若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
@@ -54,11 +54,11 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[剪贴板](word-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
 |[协作 - 高级](word-online.md#collaboration--advanced) <br/> |否  <br/> |是  <br/> |
 |[内容控制](word-online.md#content-controls) <br/> |是  <br/> |是  <br/> |
-|[封面页](word-online.md#cover-pages) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
+|[封面页](word-online.md#cover-pages) <br/> |无<sup>1</sup> <br/> |是  <br/> |
 |[高级文档元素的创建](word-online.md#creation-of-advanced-document-elements) <br/> |否  <br/> |是  <br/> |
 |[文档部件和主题](word-online.md#document-parts-and-themes) <br/> |否  <br/> |是  <br/> |
 |[Dropbox](word-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
-|[公式](word-online.md#equations) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
+|[公式](word-online.md#equations) <br/> |无<sup>1</sup> <br/> |是  <br/> |
 |[查找和替换](word-online.md#find-and-replace) <br/> |是  <br/> |是  <br/> |
 |[字体格式](word-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
 |[脚注和尾注](word-online.md#footnotes-and-endnotes) <br/> |是  <br/> |是  <br/> |
@@ -66,7 +66,7 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[图形效果预设](word-online.md#graphic-effect-presets) <br/> |是  <br/> |是  <br/> |
 |[页眉和页脚](word-online.md#headers-and-footers) <br/> |是  <br/> |是  <br/> |
 |[超链接](word-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
-|[索引](word-online.md#index) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
+|[索引](word-online.md#index) <br/> |无<sup>1</sup> <br/> |是  <br/> |
 |[笔迹编辑器](word-online.md#ink-editor) <br/> |否  <br/> |是  <br/> |
 |[插入联机图片](word-online.md#insert-online-pictures) <br/> |是  <br/> |是  <br/> |
 |[IRM 和密码保护](word-online.md#irm-and-password-protection) <br/> |否  <br/> |是  <br/> |
@@ -97,16 +97,16 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[另存为 PDF](word-online.md#save-as-pdf) <br/> |是  <br/> |是  <br/> |
 |[共享](word-online.md#share) <br/> |是  <br/> |是  <br/> |
 |[简单表创建](word-online.md#simple-table-creation) <br/> |是  <br/> |是  <br/> |
-|[SmartArt](powerpoint-online.md#smartart) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
-|[引文目录](word-online.md#table-of-authority) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
-|[目录](word-online.md#table-of-contents) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
-|[点击](word-online.md#tap) <br/> |否  <br/> |是  <br/> |
+|[SmartArt](powerpoint-online.md#smartart) <br/> |无<sup>1</sup> <br/> |是  <br/> |
+|[引文目录](word-online.md#table-of-authority) <br/> |无<sup>1</sup> <br/> |是  <br/> |
+|[目录](word-online.md#table-of-contents) <br/> |无<sup>1</sup> <br/> |是  <br/> |
+|[即可](word-online.md#tap) <br/> |否  <br/> |是  <br/> |
 |[告诉我](word-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[转换服务](word-online.md#translation-service) <br/> |是  <br/> |是  <br/> |
 |[撤消和恢复](word-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
 |[VBA 和窗体脚本](word-online.md#vba-and-forms-scripts) <br/> |否  <br/> |是  <br/> |
 |[查看和添加注释](word-online.md#view-and-add-comments) <br/> |是  <br/> |是  <br/> |
-|[水印](word-online.md#watermarks) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
+|[水印](word-online.md#watermarks) <br/> |无<sup>1</sup> <br/> |是  <br/> |
 |[字数统计](word-online.md#word-count) <br/> |是  <br/> |是  <br/> |
 |[缩放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
@@ -127,18 +127,18 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[应用智能/推荐的格式](excel-online.md#apply-smartrecommended-formatting) <br/> |否  <br/> |是  <br/> |
 |[音频笔记录音](onenote-online.md#audio-notes-recording) <br/> |否  <br/> |是  <br/> |
 |[自动完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
-|[自动求和](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
-|[计算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
+|[AutoSum](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
+|[换算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
 |[创建批注](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[复制和粘贴](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
-|[创建外部数据连接<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |没有<sup>3</sup> <br/> |是  <br/> |
+|[创建外部数据连接<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |无<sup>3</sup> <br/> |是  <br/> |
 |[创建表格](excel-online.md#create-tables) <br/> |是  <br/> |是  <br/> |
 |[创建高级分析视图（Power View、Power Pivot、切片器）](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |否  <br/> |是  <br/> |
 |[数据验证](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放单元格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
-|[在 Web 或博客页面上嵌入工作簿 (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
-|[外部引用](excel-online.md#external-references-links) <br/> |没有<sup>5</sup> <br/> |是  <br/> |
+|[在 Web 或博客页面上嵌入工作簿 (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |可访问  <br/> |否  <br/> |
+|[外部引用](excel-online.md#external-references-links) <br/> |无<sup>5</sup> <br/> |是  <br/> |
 |[填充柄](excel-online.md#fill-handle) <br/> |是  <br/> |是  <br/> |
 |[查找](excel-online.md#find) <br/> |是  <br/> |是  <br/> |
 |[字体和单元格格式](excel-online.md#font-and-cell-formatting) <br/> |是  <br/> |是  <br/> |
@@ -147,14 +147,14 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[冻结窗格](excel-online.md#freeze-panes) <br/> |是 <br/> |是  <br/> |
 |[全保真阅读视图](excel-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[函数](excel-online.md#functions) <br/> |是  <br/> |是  <br/> |
-|[转到](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
+|[GoTo](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
 |[隐藏/取消隐藏行、列和表格](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
 |[插入形状/图片](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入图表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/删除行和列](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
 |[合并单元格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
 |[数值格式](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
-|[Office 外接程序](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
+|[Office Add-ins](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
 |[脱机查看和创作](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
 |[数据透视图](excel-online.md#post-to-social-network-and-present-online) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
 |[数据透视表](excel-online.md#post-to-social-network-and-present-online) <br/> |是  <br/> |是  <br/> |
@@ -166,7 +166,7 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[创建推荐的图表并使用格式控件进行编辑](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |否  <br/> |是  <br/> |
 |[刷新现有的数据连接](excel-online.md#refresh-existing-data-connections) <br/> |是  <br/> |是  <br/> |
 |[重命名和添加工作表](excel-online.md#rename-and-add-sheets) <br/> |是  <br/> |是  <br/> |
-|[工作簿打开时重命名文件](excel-online.md#rename-file-while-workbook-is-open) <br/> |是  <br/> |否  <br/> |
+|[工作簿打开时重命名文件](excel-online.md#rename-file-while-workbook-is-open) <br/> |可访问  <br/> |否  <br/> |
 |[替换](excel-online.md#replace) <br/> |是  <br/> |是  <br/> |
 |[权限管理：IRM 和密码安全](excel-online.md#bkmk_RightsManagement) <br/> |否  <br/> |是  <br/> |
 |[保存或下载副本](excel-online.md#save-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
@@ -176,15 +176,16 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[排序和筛选数据](excel-online.md#sort-and-filter-data) <br/> |是  <br/> |是  <br/> |
 |[电子表格审核和合规性](excel-online.md#spreadsheet-audit-and-compliance) <br/> |否  <br/> |是  <br/> |
 |[状态栏聚合](excel-online.md#status-bar-aggregates) <br/> |是  <br/> |是  <br/> |
-|[调查](excel-online.md#surveys) <br/> |是  <br/> |否  <br/> |
+|[调查](excel-online.md#surveys) <br/> |可访问  <br/> |否  <br/> |
 |[告诉我](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
 |[撤消和恢复](excel-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
 |[VBA 和宏脚本](excel-online.md#vba-and-macro-scripting) <br/> |是<sup>3</sup>  <br/> |是  <br/> |
 |[查看 3D 图表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
-> <sup>1</sup>不能创建数据透视图仅查看。
- <br/><sup>2</sup>具体取决于您的环境的配置方式，某些类型的数据连接受支持在 Excel Online 中显示工作簿。有关详细信息，请参阅在浏览器窗口中的工作簿中刷新数据。 <br/><sup>3</sup>您无法使用在 Excel Online 中的 VBA 创建宏，但您可以打开并编辑启用 VBA 的电子表格，而无需删除 （或破坏） 文件中包含的 VBA。
+> <sup>1</sup>无法创建数据透视图, 只能查看。
+ <br/><sup>2</sup>根据您的环境的配置方式, Excel Online 中显示的工作簿支持某些类型的数据连接。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
+ <br/><sup>3</sup>您不能在 Excel Online 中使用 VBA 创建宏, 但您可以打开和编辑启用 vba 的电子表格, 而无需删除 (或损坏) 文件中包含的 vba。
  <br/><sup>4</sup> 虽然可以在 Excel Online 中编辑使用数据验证的工作簿，但不能在 Excel Online 中设置数据验证。 
  <br/><sup>5</sup> 在 Excel Online 中，最后一个已知的引用值在浏览器窗口中显示，但必须使用 Excel 桌面版进行更新。 
  <br/><sup>6</sup> 虽然可以查看使用 Excel 桌面应用程序创建的冻结窗格，但无法在 Excel Online 中创建冻结窗格。 
@@ -204,9 +205,9 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[共同创作](onenote-online.md#co-authoring) <br/> |是  <br/> |是  <br/> |
 |[创建和管理页面和分区](onenote-online.md#create-and-manage-pages-and-sections) <br/> |是  <br/> |是  <br/> |
 |[下载嵌入式 Office 文件的副本](onenote-online.md#download-copy-of-embedded-office-files) <br/> |是  <br/> |是<sup>4</sup> <br/> |
-|[页面拖放] <br/> |是  <br/> |是 <br/> |
-|[将拖放部分] <br/> |是  <br/> |是 <br/> |
-|[将拖放分区组] <br/> |否  <br/> |是 <br/> |
+|[拖放页面] <br/> |是  <br/> |是 <br/> |
+|[拖放部分] <br/> |是  <br/> |是 <br/> |
+|[拖放分区组] <br/> |否  <br/> |是 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[编辑嵌入的文件](onenote-online.md#EmbeddedFileEdit) <br/> |否  <br/> |是  <br/> |
 |[方程](onenote-online.md#equations) <br/> |是  <br/> |是  <br/> |
@@ -222,7 +223,7 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[图片](onenote-online.md#pictures) <br/> |是  <br/> |是  <br/> |
 |[打印](onenote-online.md#print) <br/> |是  <br/> |是  <br/> |
 |[校对工具](onenote-online.md#proofing-tools) <br/> |是  <br/> |是  <br/> |
-|权限管理：IRM 和密码安全 <br/> |否  <br/> |是  <br/> |
+|Rights Management: IRM and password security <br/> |否  <br/> |是  <br/> |
 |[搜索条件：标记、标题、作者/日期、音频笔记](onenote-online.md#search-by-tag-title-authordate-audio-notes) <br/> |是<sup>3</sup> <br/> |是  <br/> |
 |[搜索（在页面上，在分区内）](onenote-online.md#search-on-page-within-sections) <br/> |是  <br/> |是  <br/> |
 |[共享](onenote-online.md#share) <br/> |是  <br/> |是  <br/> |
@@ -235,7 +236,10 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[查看以前的页面版本](onenote-online.md#view-previous-page-versions) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>在 OneNote Online，您可以移动笔记本和复制和粘贴页面中的各部分从一个部分到另一个。 <br/> <sup>2</sup>部分，而不是所有 Office 加载项是可用。 <br/><sup>3</sup>可以搜索页或部分中，但不是整个笔记本或跨笔记本 （如可以桌面版中）。 <br/><sup>4</sup> 在桌面版中，虽然没有"下载"选项，但可以使用"另存为"选项保存到其他位置上。 
+> <sup>1</sup> 在 OneNote Online 中，可以移动笔记本内的分区，并能将页面从一个分区复制并粘贴到另一个分区。 
+ <br/> <sup>2</sup> 某些（并非所有）Office 外接程序可用。 
+ <br/><sup>3</sup> 虽然可以在页面或分区上执行搜索，但不能搜索整个笔记本或跨笔记本搜索（就像在桌面版中一样）。 
+ <br/><sup>4</sup> 在桌面版中，虽然没有"下载"选项，但可以使用"另存为"选项保存到其他位置上。 
   
 ### <a name="powerpoint"></a>PowerPoint
 <a name="BKMK_PowerPointFeatures"> </a>
@@ -251,13 +255,13 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[广播幻灯片](powerpoint-online.md#broadcast-slide-show) <br/> |否  <br/> |是  <br/> |
 |[剪贴板](powerpoint-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
 |[创建和管理幻灯片](powerpoint-online.md#create-and-manage-slides) <br/> |是  <br/> |是  <br/> |
-|[创建自定义动画](powerpoint-online.md#create-custom-animation) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
+|[创建自定义动画](powerpoint-online.md#create-custom-animation) <br/> |无<sup>1</sup> <br/> |是  <br/> |
 |[设计工具 - 高级](powerpoint-online.md#design-tools--advanced) <br/> |否  <br/> |是  <br/> |
-|[在 Web 或博客页面上嵌入演示文稿](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |是  <br/> |否  <br/> |
+|[在 Web 或博客页面上嵌入演示文稿](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |可访问  <br/> |否  <br/> |
 |[字体格式](powerpoint-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
 |[全保真阅读视图](powerpoint-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[完全墨迹支持](powerpoint-online.md#full-ink-support) <br/> |否  <br/> |是<sup>2</sup> <br/> |
-|[完整的动画和切换选择](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |没有<sup>1</sup> <br/> |是  <br/> |
+|[完整的动画和切换选择](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |无<sup>1</sup> <br/> |是  <br/> |
 |[页眉和页脚](powerpoint-online.md#headers-and-footers) <br/> |否  <br/> |是  <br/> |
 |[超链接](powerpoint-online.md#hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[插入联机视频](powerpoint-online.md#insert-online-video) <br/> |是  <br/> |是  <br/> |
@@ -272,8 +276,8 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[打印为 PDF 格式](powerpoint-online.md#print-to-pdf) <br/> |是  <br/> |是  <br/> |
 |[校对工具](powerpoint-online.md#proofing-tools) <br/> |是  <br/> |是  <br/> |
 |[实时共同创作](powerpoint-online.md#real-time-co-authoring) <br/> |是  <br/> |是<sup>4</sup> <br/> |
-|[审阅工具-高级](powerpoint-online.md#reviewer-tools---advanced) <br/> |否  <br/> |是  <br/> |
-|权限管理：IRM 和密码安全 <br/> |否  <br/> |是  <br/> |
+|[审阅者工具-高级](powerpoint-online.md#reviewer-tools---advanced) <br/> |否  <br/> |是  <br/> |
+|Rights Management: IRM and password security <br/> |否  <br/> |是  <br/> |
 |[运行幻灯片](powerpoint-online.md#run-slide-show) <br/> |是  <br/> |是  <br/> |
 |[另存为或下载副本](powerpoint-online.md#save-as-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
 |[形状](powerpoint-online.md#shapes) <br/> |是  <br/> |是  <br/> |
@@ -287,7 +291,8 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |[查看和编辑幻灯片备注](powerpoint-online.md#view-and-edit-slide-notes) <br/> |是  <br/> |是  <br/> |
 |[WYSIWYG/所见即所得的查看](powerpoint-online.md#wysiwyg-viewing) <br/> |是  <br/> |是  <br/> |
    
-> <sup>1</sup> PowerPoint Online 支持八个切换和 37 动画库。较大的选定内容或创建自定义动画，请使用 PowerPoint 桌面应用程序。 <br/><sup>2</sup> 使用的设备需要支持墨迹。 
+> <sup>1</sup> PowerPoint Online 支持包含 8 种切换效果和 37 种动画的库。 若要扩大选择范围或创建自定义动画，请使用 PowerPoint 桌面应用程序。 
+ <br/><sup>2</sup> 使用的设备需要支持墨迹。 
  <br/> <sup>3</sup> 某些（并非所有）Office 外接程序可用。 
  <br/><sup>4</sup> 虽然无法创建数据透视图或数据透视表，但可以在查看器中查看它们。 
   
@@ -300,7 +305,7 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |Open XML (.docx)  <br/> |是  <br/> |是  <br/> |
 |二进制 (.doc)  <br/> |是  <br/> |转换到 .docx  <br/> |
 |宏 (.docm)  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
-|其他（.dotm, .dotx）  <br/> |是  <br/> |否  <br/> |
+|其他（.dotm, .dotx）  <br/> |可访问  <br/> |否  <br/> |
 |OpenDocument (.odt)  <br/> |是  <br/> |是  <br/> |
 |可移植文档格式 (.pdf)  <br/> |否  <br/> |否  <br/> |
 |**在 Excel 97 或更高版本中创建的 Excel 工作簿** <br/> |**查看模式** <br/> |**编辑模式** <br/> |
@@ -314,7 +319,7 @@ Office Online (以前称为 Office Web Apps) 打开 web 浏览器中的 Word、 
 |**在 PowerPoint 97 或更高版本中创建的 PowerPoint 演示文稿。** <br/> |**查看模式** <br/> |**编辑模式** <br/> |
 |Open XML（.pptx, .ppsx）  <br/> |是  <br/> |是  <br/> |
 |二进制（.ppt, .pps）  <br/> |是  <br/> |转换为 .pptx 或 .ppsx  <br/> |
-|模板（.pot, .potx）  <br/> |是  <br/> |否  <br/> |
+|模板（.pot, .potx）  <br/> |可访问  <br/> |否  <br/> |
 |宏（.pptm, .potm, .ppam, .potx, .ppsm）  <br/> |是<sup>1</sup> <br/> |否  <br/> |
 |外接程序（.ppa, .ppam）  <br/> |否  <br/> |否  <br/> |
 |OpenDocument (.odp)  <br/> |是  <br/> |是  <br/> |

@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -13,141 +13,141 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio 联机 Microsoft Visio 将您体验扩展到 web 浏览器，使您可以处理图表直接在存储图表的网站上。Microsoft Office 365 with Office Online 的客户可以查看和共享图表并插入在注释。
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 使用 Office Online 的 Microsoft Office 365 客户可以在旅途中查看和共享图表以及插入注释。
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035009"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467559"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio 联机 Microsoft Visio 将您体验扩展到 web 浏览器，使您可以处理图表直接在存储图表的网站上。Microsoft Office 365 with Office Online 的客户可以查看和共享图表并插入在注释。
+Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 使用 Office Online 的 Microsoft Office 365 客户可以在旅途中查看和共享图表以及插入注释。
   
-## <a name="apply-rich-formatting-to-text-and-shapes"></a>富格式应用于文本和形状
+## <a name="apply-rich-formatting-to-text-and-shapes"></a>对文本和形状应用多种格式
 <a name="BM_1"> </a>
 
-Visio Online 中不可用。编辑功能，如详细的颜色、 渐变、 效果和样式，供 Visio 桌面应用程序中。使用 Visio Online，可以添加一个文本框或从形状的库中选择并应用样式，定义填充、 轮廓和阴影效果。
+在 Visio Online 中不可用。 Visio 桌面应用程序中提供了编辑功能 (如更多颜色、渐变、效果和样式)。 使用 Visio Online, 可以添加文本框或从形状库中进行选择, 并应用定义填充、轮廓和阴影效果的样式。
   
 ## <a name="arrange-objects"></a>排列对象
 <a name="BM_2"> </a>
 
-不尚未 Visio Online 中可用。在 Visio 桌面应用程序，您可以移动、 调整大小、 旋转或顺序形状和文本框中，并且您可以取消组合形状，以分别使用它们。 
+在 Visio Online 中尚不可用。 在 Visio 桌面应用程序中, 您可以对形状和文本框进行移动、调整大小、旋转或排序, 也可以将形状取消组合以单独使用它们。 
   
-## <a name="build-mashup-solutions"></a>构建混合应用程序解决方案
+## <a name="build-mashup-solutions"></a>生成混合 Web 应用程序解决方案
 <a name="BM_3"> </a>
 
-Visio 联机 JavaScript 混合 API 允许开发人员访问和操作的 Visio web 图表、 其页面和其形状。有关详细信息，请参阅[Visio 联机常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
+visio Online JavaScript 混合 API 使开发人员能够访问和操作 Visio web 图表、其页面及其形状。 有关详细信息, 请参阅[Visio Online 常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
   
 ## <a name="create-diagrams"></a>创建关系图
 <a name="BM_4"> </a>
 
-您无法在 Visio 联机; 中创建图表但是，您可以 Visio 桌面应用程序中创建图表，然后将它们上载到 SharePoint 或 OneDrive for Business。您然后可以与其他人共享其。
+您无法在 Visio Online 中创建图表;但是, 您可以在 Visio 桌面应用程序中创建图表, 然后将它们上传到 SharePoint 或 OneDrive for business。 然后, 你可以与其他人共享它们。
   
 ## <a name="cut-copy-and-paste"></a>剪切、复制和粘贴
 <a name="BM_5"> </a>
 
-不尚未 Visio Online 中可用。您可以使用 Visio 桌面应用程序剪切、 复制和粘贴功能移动或删除形状和图表中的文本。
+在 Visio Online 中尚不可用。 您可以使用 Visio 桌面应用程序来剪切、复制和粘贴功能, 以移动或删除图表中的形状和文本。
   
 ## <a name="edit-diagrams"></a>编辑关系图
 <a name="BM_6"> </a>
 
-您不能对 Visio Online 中的图表进行更改。如果您需要对图表进行更改，请使用 Visio 桌面应用程序。
+无法对 Visio Online 中的图表进行更改。 如果需要对图表进行更改, 请使用 Visio 桌面应用程序。
   
-## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>在 SharePoint、 网站或博客页面中嵌入图表
+## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>在 SharePoint、Web 或博客页中嵌入关系图
 <a name="BM_7"> </a>
 
-您可以使用 Visio 联机插入 SharePoint、 web 或博客页面上的 Visio 图表 （在 Visio 桌面应用程序中创建）。有关详细信息，请参阅[Visio 联机常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
+您可以使用 visio Online 在 SharePoint、web 或博客页面上插入 visio 图表 (在 Visio 桌面应用程序中创建)。 有关详细信息, 请参阅[Visio Online 常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
   
 ## <a name="find"></a>查找
 <a name="BM_8"> </a>
 
-在 Visio Online 中，您可以通过单击省略号按钮 （...），然后选择查找搜索出现的单词、 号码或短语页上的所有 （或按 Ctrl + F）。图表旁边显示结果。Visio 将搜索中形状名称、 形状文本、 形状数据和用户定义的单元格。
+在 Visio Online 中, 您可以通过单击省略号按钮 (...), 然后选择 "查找" (或按 Ctrl + F), 在页面上搜索每个出现的单词、数字或短语。 结果显示在关系图的旁边。 Visio 将在 "形状名称"、"形状文本"、"形状数据" 和 "用户定义的单元格" 中搜索。
   
 ## <a name="font-formatting"></a>字体格式
 <a name="BM_9"> </a>
 
-不能更改字体、 字体大小或 Visio 联机中的其他字体外观属性 （如粗体、 斜体、 上标或下划线）。
+您不能在 Visio Online 中更改字体、字体大小或其他字体外观属性 (如粗体、斜体、上标或下划线)。
   
-## <a name="hyperlinks"></a>超链接
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
-在 Visio Online 中，您可以直接访问的超链接，通过单击形状上。
+在 Visio Online 中, 您可以通过单击形状直接访问超链接。
   
 ## <a name="navigation"></a>导航
 <a name="BM_11"> </a>
 
-在 Visio Online 中，您可以转到其他网页通过单击左下角中的选项卡。
+在 Visio Online 中, 您可以通过单击左下角的选项卡转到其他页面。
   
-## <a name="office-add-ins"></a>Office 加载项
+## <a name="office-add-ins"></a>Office 外接程序
 <a name="BM_12"> </a>
 
-Office 加载项不 Visio Online 中可用。
+Office 外接程序在 Visio Online 中不可用。
   
-## <a name="offline-viewing"></a>脱机查看
+## <a name="offline-viewing"></a>Office 查看
 <a name="BM_13"> </a>
 
-Visio Online 中不可用。Office Online 需要 Internet 连接和 Internet 浏览器。您需要查看和编辑时从 Internet 断开连接的图表在计算机上安装的 Visio 桌面应用程序或从组织的内部部署 Office Web Apps Server。如果您已安装的 Visio 桌面应用程序，您可以使用 Visio 的全部功能查看和编辑图表。保存时，所做的更改的更新联机图表。您还可以下载并保存图表、 脱机副本，但它不会与联机版本同步。了解有关[Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx)的详细信息。
+在 Visio Online 中不可用。 Office Online 需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Visio 桌面应用程序, 以便在断开 Internet 连接或从组织的本地 Office Web Apps 服务器断开连接时查看和编辑关系图。 如果安装了 visio 桌面应用程序, 则可以使用 Visio 的完整功能来查看和编辑您的关系图。 保存后, 将使用所做的更改更新联机关系图。 您还可以下载并保存图表的脱机副本, 但它不会与联机版本同步。 详细了解 [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx)。
   
 ## <a name="print-to-pdf"></a>打印为 PDF 格式
 <a name="BM_14"> </a>
 
-打印为 pdf 格式不是 Visio Online 中可用。
+"打印到 PDF" 在 Visio Online 中不可用。
   
 ## <a name="proofing-tools"></a>校对工具
 <a name="BM_15"> </a>
 
-校对工具，例如检查拼写、 转换和自定义词典不 Visio Online 中可用。
+校对工具 (如拼写检查、翻译和自定义词典) 在 Visio Online 中不可用。
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 <a name="BM_16"> </a>
 
-Visio Online 中不可用。高级的审阅功能，如合并冲突和比较关系图，才 Visio 桌面应用程序中可用。使用 Visio Online，您可以查看、 添加或删除的注释。
+在 Visio Online 中不可用。 高级审阅者功能 (如合并冲突和比较图表) 仅在 Visio 桌面应用程序中可用。 通过 Visio Online, 您可以查看、添加或删除注释。
   
 ## <a name="save-as-or-download-a-copy"></a>另存为或下载副本
 <a name="BM_17"> </a>
 
-Visio 联机使您能够使用另存为或下载副本的图表，但您必须具有 Microsoft Visio 桌面应用程序编辑的本地副本。
+Visio Online 允许您使用 "另存为" 或 "下载图表副本", 但您必须具有 Microsoft Visio 桌面应用程序才能编辑本地副本。
   
-## <a name="share-a-diagram"></a>共享一个关系图
+## <a name="share-a-diagram"></a>共享关系图
 <a name="BM_18"> </a>
 
-如果在 SharePoint 文档库或 OneDrive for Business 中保存图表，然后图表处于联机状态，并且可以共享其通过发送链接而不是电子邮件附件。具有适当权限的人可以查看其 web 浏览器或移动设备中。只需单击右上方**共享**。 
+如果您的图表保存在 SharePoint 文档库或 OneDrive for business 中, 则您的图表处于联机状态, 您可以通过发送链接 (而不是电子邮件附件) 进行共享。 具有适当权限的用户可以在 web 浏览器或移动设备中查看它。 只需单击右上角的 "**共享**" 即可。 
   
 ## <a name="smartart"></a>SmartArt
 <a name="BM_19"> </a>
 
-使用 Visio Online，不能向图表中添加 SmartArt。但是，如果 SmartArt 已添加使用 Visio 桌面应用程序，它将 Visio 联机中可见。
+通过 Visio Online, 您不能向图表中添加 SmartArt。 但是, 如果使用 visio 桌面应用程序添加了 SmartArt, 它将在 visio Online 中可见。
   
-## <a name="tell-me"></a>告诉我
+## <a name="tell-me"></a>操作说明搜索
 <a name="BM_20"> </a>
 
-告诉我功能不是 Visio Online 中可用。在 Visio 桌面应用程序，您可以使用告诉我搜索功能可快速查找与您要执行的任务的帮助。
+"通知我" 功能在 Visio Online 中不可用。 在 Visio 桌面应用程序中, 您可以使用 "告诉我" 搜索功能来快速查找有关要执行的任务的帮助。
   
 ## <a name="undo-and-redo"></a>撤消和恢复
 <a name="BM_21"> </a>
 
-撤消和恢复功能不 Visio Online 中可用。
+"撤消" 和 "恢复" 功能在 Visio Online 中不可用。
   
 ## <a name="view-and-add-comments"></a>查看和添加注释
 <a name="BM_22"> </a>
 
- 在 Visio Online 中，您可以与其他人合作通过查看、 添加，并响应在图表中的注释。 
+ 在 Visio Online 中, 您可以查看、添加和响应图表中的注释, 从而与他人进行协作。 
   
 ## <a name="view-shape-data"></a>查看形状数据
 <a name="BM_23"> </a>
 
-您可以使用 Visio 联机查看图表的元数据： 只需单击形状，然后单击**形状信息**。
+您可以使用 Visio Online 查看图表的元数据: 只需单击该形状, 然后单击 "**形状信息**"。
   
 ## <a name="view-visio-files-in-the-browser"></a>在浏览器中查看 Visio 文件
 <a name="BM_24"> </a>
 
-由于联机保存您的 Visio 图表，您可以向其发送的链接。人员然后可以查看它在任何浏览器中。他们不需要安装了 Visio 桌面应用程序。
+由于您的 Visio 图表已联机保存, 因此您可以向其发送链接。 然后, 用户可以在任何浏览器中查看它。 无需安装 Visio 桌面应用程序。
   
 ## <a name="zoom"></a>缩放
 <a name="BM_25"> </a>
 
-Visio Online 包括一个用于放大和缩小您滑块。此外，还可以使用平移&amp;要放大的图表区域的缩放功能。
+Visio Online 包含一个可让您放大和缩小的滑块。此外, 您还可以使用全景&amp;缩放功能放大图的某个区域。
   
 

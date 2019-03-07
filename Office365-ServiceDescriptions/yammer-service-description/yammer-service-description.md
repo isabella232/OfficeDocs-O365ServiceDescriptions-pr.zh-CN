@@ -1,7 +1,7 @@
 ---
 title: Yammer 服务说明
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer-一流，安全和专用企业社交网络。Yammer 使员工能够更提高工作效率成功使他们能够轻松地协作、 更快、 做出决策和自助组织到团队执行任何业务质询。它是工作的新的自然驱动器业务对齐方式和灵活性，可降低周期时间、 雇佣员工和与客户和合作伙伴提高关系方式。
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035038"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467149"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
-Yammer-一流，安全和专用企业社交网络。Yammer 使员工能够更提高工作效率成功使他们能够轻松地协作、 更快、 做出决策和自助组织到团队执行任何业务质询。它是工作的新的自然驱动器业务对齐方式和灵活性，可降低周期时间、 雇佣员工和与客户和合作伙伴提高关系方式。
+Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
   
 有关包含 Yammer 的 Office 365 计划的列表，请参阅 [Office 365 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
@@ -50,7 +50,7 @@ Yammer-一流，安全和专用企业社交网络。Yammer 使员工能够更提
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Enterprise 服务通信策略
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 是 Office 365 的一部分和符合[Office 365 变更管理策略](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不使用目标版本推出更新。 
+Yammer 是 office 365 的一部分并遵守[office 365 更改管理策略](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), 但不使用目标版本来推出更新。 
   
 所有 Yammer 用户都要进行 A/B 功能测试。这样，Microsoft 就可以跨多个环境和设备测试功能的稳定性、性能和体验改善。同一网络中的用户可能会有不同的测试体验。客户不能选择停用 A/B 测试。
   

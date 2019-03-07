@@ -1,7 +1,7 @@
 ---
 title: Exchange Online 设置和管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 本节介绍可用于自定义 Exchange online 设置并使组织的 exchange online 环境保持启动、运行和当前状态的管理控件和支持。其中包括有关可用于组织的自助服务管理工具和功能的信息;Microsoft 管理责任和绩效承诺;以及服务和产品升级。
-ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: 本节介绍可用于自定义 Exchange online 设置并使组织的 exchange online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
+ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210195"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467799"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 
-本节介绍可用于自定义 Exchange online 设置并使组织的 exchange online 环境保持启动、运行和当前状态的管理控件和支持。其中包括有关可用于组织的自助服务管理工具和功能的信息;Microsoft 管理责任和绩效承诺;以及服务和产品升级。
+本节介绍可用于自定义 Exchange online 设置并使组织的 exchange online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
   
 ## <a name="self-service-administration-tools"></a>自助服务管理工具
 
@@ -48,7 +48,7 @@ Microsoft Office 365 门户 ([https://portal.office.com](https://portal.office.c
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理中心
 <a name="BKMK_Office365admincenterl"> </a>
 
-Microsoft 365 管理中心是一个 web 门户, 其中每个公司的服务管理员都可以管理他们订阅的每个 Office 365 服务的用户帐户和设置。在 Microsoft 365 管理中心内, 管理员可以访问 exchange 管理中心 (EAC) 的链接, 在其中可以管理特定于 exchange Online 的设置。若要详细了解如何使用 Microsoft 365 管理中心启动和运行, 请参阅以下视频: [Office 365 企业版简介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 管理中心是一个 web 门户, 其中每个公司的服务管理员都可以管理他们订阅的每个 Office 365 服务的用户帐户和设置。 在 Microsoft 365 管理中心内, 管理员可以访问 exchange 管理中心 (EAC) 的链接, 在其中可以管理特定于 exchange Online 的设置。 若要详细了解如何使用 Microsoft 365 管理中心启动和运行, 请参阅以下视频: [Office 365 企业版简介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 管理中心
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

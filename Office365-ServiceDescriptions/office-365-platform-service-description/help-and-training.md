@@ -1,7 +1,7 @@
 ---
 title: 帮助和培训
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供以下帮助和培训资源。
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210285"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467079"
 ---
 # <a name="help-and-training"></a>帮助和培训
 
@@ -27,7 +27,7 @@ Microsoft Office 365 提供以下帮助和培训资源。
 ## <a name="online-help"></a>联机帮助
 <a name="BKMK_Online_Help"> </a>
 
-服务中的任何内联帮助链接都提供了帮助文章和视频, 其中包括 Office 365 门户和 Microsoft 365 管理中心的顶部导航栏中的 "帮助" 图标。您还可以在上[http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)搜索所有 Office 365 帮助。 
+服务中的任何内联帮助链接都提供了帮助文章和视频, 其中包括 Office 365 门户和 Microsoft 365 管理中心的顶部导航栏中的 "帮助" 图标。 还可以访问 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
   
 ## <a name="training"></a>培训
 <a name="BKMK_Online_Help"> </a>
@@ -121,35 +121,35 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
   
 |**语言**|**联机帮助文章**|**Wiki 和博客**|**论坛**|**技术中心**|**疑难解答工具**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|阿拉伯语  <br/> |否  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|阿拉伯语  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |保加利亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|简体中文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|繁体中文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
+|简体中文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|繁体中文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |捷克语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|丹麦语  <br/> |是  <br/> |支持  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|荷兰语  <br/> |是  <br/> |支持  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|丹麦语  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|荷兰语  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |爱沙尼亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |芬兰语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|法语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|德语  <br/> |是  <br/> |是  <br/> |是  <br/> |支持  <br/> |可访问  <br/> |
+|法语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|德语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |希腊语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |匈牙利语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|意大利语  <br/> |是  <br/> |是  <br/> |是  <br/> |支持  <br/> |支持  <br/> |
-|日语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|朝鲜语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|拉脱维亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |不支持  <br/> |
+|意大利语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|朝鲜语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|拉脱维亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |立陶宛语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|挪威语  <br/> |是  <br/> |支持  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|波兰语  <br/> |是  <br/> |是  <br/> |支持  <br/> |否  <br/> |可访问  <br/> |
+|挪威语  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|波兰语  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |
 |葡萄牙语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|葡萄牙语（巴西）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
+|葡萄牙语（巴西）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |罗马尼亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|俄语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
+|俄语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |塞尔维亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |斯洛伐克语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |斯洛文尼亚语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|西班牙语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|瑞典语  <br/> |是  <br/> |支持  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|西班牙语  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|瑞典语  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |泰语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |土耳其语  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |乌克兰语  <br/> |可访问  <br/> | 否  <br/> |否  <br/> |否  <br/> |否  <br/> |
