@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving 中的存档功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,69 +14,69 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: 以下各节介绍了 Microsoft Exchange Online Archiving 的存档功能。
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215347"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467199"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a><span data-ttu-id="30dd8-103">Exchange Online Archiving 中的存档功能</span><span class="sxs-lookup"><span data-stu-id="30dd8-103">Archive Features in Exchange Online Archiving</span></span>
+# <a name="archive-features-in-exchange-online-archiving"></a><span data-ttu-id="bf847-103">Exchange Online Archiving 中的存档功能</span><span class="sxs-lookup"><span data-stu-id="bf847-103">Archive Features in Exchange Online Archiving</span></span>
 
-<span data-ttu-id="30dd8-104">以下各节介绍了 Microsoft Exchange Online Archiving 的存档功能。</span><span class="sxs-lookup"><span data-stu-id="30dd8-104">The following sections describe the archive features of Microsoft Exchange Online Archiving.</span></span>
+<span data-ttu-id="bf847-104">以下部分介绍了 Microsoft Exchange Online 存档的存档功能。</span><span class="sxs-lookup"><span data-stu-id="bf847-104">The following sections describe the archive features of Microsoft Exchange Online Archiving.</span></span>
   
-## <a name="archive-mailbox"></a><span data-ttu-id="30dd8-105">存档邮箱</span><span class="sxs-lookup"><span data-stu-id="30dd8-105">Archive mailbox</span></span>
+## <a name="archive-mailbox"></a><span data-ttu-id="bf847-105">存档邮箱</span><span class="sxs-lookup"><span data-stu-id="bf847-105">Archive mailbox</span></span>
 
-<span data-ttu-id="30dd8-p101">Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。存档邮箱是一种特殊类型的邮箱，它会与用户主邮箱文件夹一同显示在 Outlook 和 Outlook Web App 中。用户可以像访问其主邮箱一样访问存档。此外，用户还可以搜索归档邮箱和主邮箱。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p101">Exchange Online Archiving offers users advanced archiving capabilities with the archive mailbox feature. An archive mailbox is a specialized mailbox that appears alongside the users' primary mailbox folders in Outlook or Outlook Web App. Users can access the archive in the same way that they access their primary mailboxes. In addition, they can search both their archives and primary mailboxes.</span></span>
+<span data-ttu-id="bf847-p101">Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。存档邮箱是一种特殊类型的邮箱，它会与用户主邮箱文件夹一同显示在 Outlook 和 Outlook Web App 中。用户可以像访问其主邮箱一样访问存档。此外，用户还可以搜索归档邮箱和主邮箱。</span><span class="sxs-lookup"><span data-stu-id="bf847-p101">Exchange Online Archiving offers users advanced archiving capabilities with the archive mailbox feature. An archive mailbox is a specialized mailbox that appears alongside the users' primary mailbox folders in Outlook or Outlook Web App. Users can access the archive in the same way that they access their primary mailboxes. In addition, they can search both their archives and primary mailboxes.</span></span>
   
-<span data-ttu-id="30dd8-p102">管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425)（在 Exchange Online 中启用或禁用存档邮箱）。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p102">Administrators can use the Exchange admin center (EAC) or remote Windows PowerShell to enable the archive feature for specific users. For more information, see [Enable or disable archive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425).</span></span>
+<span data-ttu-id="bf847-p102">管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425)（在 Exchange Online 中启用或禁用存档邮箱）。</span><span class="sxs-lookup"><span data-stu-id="bf847-p102">Administrators can use the Exchange admin center (EAC) or remote Windows PowerShell to enable the archive feature for specific users. For more information, see [Enable or disable archive mailboxes in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425).</span></span>
   
 > [!IMPORTANT]
->  <span data-ttu-id="30dd8-p103">不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 >  用户的存档邮箱只供该用户使用。Microsoft 保留拒绝在用户存档邮箱用于存储其他用户存档数据的情况下进行无限制存档的权利。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p103">Using journaling, transport rules, or auto-forwarding rules to copy messages to Exchange Online Archiving for the purposes of archiving is not permitted. >  A user's archive mailbox is intended for just that user. Microsoft reserves the right to deny unlimited archiving in instances where a user's archive mailbox is used to store archive data for other users.</span></span> 
+>  <span data-ttu-id="bf847-p103">不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 >  用户的存档邮箱只供该用户使用。Microsoft 保留拒绝在用户存档邮箱用于存储其他用户存档数据的情况下进行无限制存档的权利。</span><span class="sxs-lookup"><span data-stu-id="bf847-p103">Using journaling, transport rules, or auto-forwarding rules to copy messages to Exchange Online Archiving for the purposes of archiving is not permitted. >  A user's archive mailbox is intended for just that user. Microsoft reserves the right to deny unlimited archiving in instances where a user's archive mailbox is used to store archive data for other users.</span></span> 
   
-### <a name="move-messages-to-exchange-online-archiving"></a><span data-ttu-id="30dd8-115">将邮件移动到 Exchange Online Archiving</span><span class="sxs-lookup"><span data-stu-id="30dd8-115">Move messages to Exchange Online Archiving</span></span>
+### <a name="move-messages-to-exchange-online-archiving"></a><span data-ttu-id="bf847-115">将邮件移动到 Exchange Online Archiving</span><span class="sxs-lookup"><span data-stu-id="bf847-115">Move messages to Exchange Online Archiving</span></span>
 
-<span data-ttu-id="30dd8-p104">用户可以拖放邮件从.pst 文件到存档，以便于联机访问。用户还可以移动电子邮件项从主邮箱到存档邮箱自动使用存档策略，以减小大小和提高性能的主邮箱。此行为不同于 Exchange 托管存档，将创建存档中的每封邮件的辅助副本，它时，可以在任一方案中实现保留要求。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p104">Users can drag and drop messages from .pst files into the archive, for easy online access. Users can also move email items from the primary mailbox to the archive mailbox automatically, using Archive Polices, to reduce the size and improve the performance of the primary mailbox. While this behavior is different than Exchange Hosted Archive, which will create a secondary copy of each message in the archive, retention requirements can be achieved in either scenario.</span></span> 
+<span data-ttu-id="bf847-116">用户可以将邮件从 .pst 文件拖放到存档中，以便于联机访问。</span><span class="sxs-lookup"><span data-stu-id="bf847-116">Users can drag and drop messages from .pst files into the archive, for easy online access.</span></span> <span data-ttu-id="bf847-117">用户还可以使用存档策略自动将电子邮件项从主邮箱移到存档邮箱中，从而降低主邮箱的大小，并提升主邮箱的性能。</span><span class="sxs-lookup"><span data-stu-id="bf847-117">Users can also move email items from the primary mailbox to the archive mailbox automatically, using Archive Polices, to reduce the size and improve the performance of the primary mailbox.</span></span> <span data-ttu-id="bf847-118">尽管此行为与 Exchange Hosted Archive 为存档中的每封邮件创建辅助副本的行为不同，但两种行为均可达到保留要求。</span><span class="sxs-lookup"><span data-stu-id="bf847-118">While this behavior is different than Exchange Hosted Archive, which will create a secondary copy of each message in the archive, retention requirements can be achieved in either scenario.</span></span> 
   
-### <a name="import-data-to-the-archive"></a><span data-ttu-id="30dd8-119">将数据导入到存档</span><span class="sxs-lookup"><span data-stu-id="30dd8-119">Import data to the archive</span></span>
+### <a name="import-data-to-the-archive"></a><span data-ttu-id="bf847-119">将数据导入到存档</span><span class="sxs-lookup"><span data-stu-id="bf847-119">Import data to the archive</span></span>
 
-<span data-ttu-id="30dd8-120">用户可以通过以下方式将数据导入到存档：</span><span class="sxs-lookup"><span data-stu-id="30dd8-120">Users can import data to the archive in the following ways:</span></span>
+<span data-ttu-id="bf847-120">用户可以通过以下方式将数据导入到存档：</span><span class="sxs-lookup"><span data-stu-id="bf847-120">Users can import data to the archive in the following ways:</span></span>
   
-- <span data-ttu-id="30dd8-121">使用 Outlook 导入和导出向导从 .pst 文件导入数据。</span><span class="sxs-lookup"><span data-stu-id="30dd8-121">Import data from a .pst file using Outlook's Import and Export wizard.</span></span>
+- <span data-ttu-id="bf847-121">使用 Outlook 导入和导出向导从 .pst 文件导入数据。</span><span class="sxs-lookup"><span data-stu-id="bf847-121">Import data from a .pst file using Outlook's Import and Export wizard.</span></span>
     
-- <span data-ttu-id="30dd8-122">将电子邮件从 .pst 文件拖到存档中。</span><span class="sxs-lookup"><span data-stu-id="30dd8-122">Drag email messages from .pst files into the archive.</span></span>
+- <span data-ttu-id="bf847-122">将电子邮件从 .pst 文件拖到存档中。</span><span class="sxs-lookup"><span data-stu-id="bf847-122">Drag email messages from .pst files into the archive.</span></span>
     
-- <span data-ttu-id="30dd8-123">将电子邮件从主邮箱拖到存档中。</span><span class="sxs-lookup"><span data-stu-id="30dd8-123">Drag email messages from the primary mailbox into the archive.</span></span>
+- <span data-ttu-id="bf847-123">将电子邮件从主邮箱拖到存档中。</span><span class="sxs-lookup"><span data-stu-id="bf847-123">Drag email messages from the primary mailbox into the archive.</span></span>
     
-- <span data-ttu-id="30dd8-p105">让存档策略根据邮件的存在时间自动移动主邮箱中的电子邮件。有关详细信息，请参阅[保留标记和保留策略](https://go.microsoft.com/fwlink/p/?LinkId=314153)。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p105">Let archive policies automatically move email messages from the primary mailbox, based on the age of the messages. For more information, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkId=314153).</span></span>
+- <span data-ttu-id="bf847-p105">让存档策略根据邮件的存在时间自动移动主邮箱中的电子邮件。有关详细信息，请参阅[保留标记和保留策略](https://go.microsoft.com/fwlink/p/?LinkId=314153)。</span><span class="sxs-lookup"><span data-stu-id="bf847-p105">Let archive policies automatically move email messages from the primary mailbox, based on the age of the messages. For more information, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkId=314153).</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="30dd8-p106">管理员还可以使用 Office 365 导入服务将 .pst 文件导入用户的基于云的存档邮箱。有关详细信息，请参阅 [Use network upload to import PST files to Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074)（使用网络上载将 PST 文件导入 Office 365）。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p106">Administrators can also use Office 365 Import service to import .pst files to users' cloud-based archive mailboxes. For more information, see [Use network upload to import PST files to Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074).</span></span> 
+> <span data-ttu-id="bf847-p106">管理员还可以使用 Office 365 导入服务将 .pst 文件导入用户的基于云的存档邮箱。有关详细信息，请参阅 [Use network upload to import PST files to Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074)（使用网络上载将 PST 文件导入 Office 365）。</span><span class="sxs-lookup"><span data-stu-id="bf847-p106">Administrators can also use Office 365 Import service to import .pst files to users' cloud-based archive mailboxes. For more information, see [Use network upload to import PST files to Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074).</span></span> 
   
-## <a name="deleted-item-recovery"></a><span data-ttu-id="30dd8-128">恢复已删除邮件</span><span class="sxs-lookup"><span data-stu-id="30dd8-128">Deleted item recovery</span></span>
+## <a name="deleted-item-recovery"></a><span data-ttu-id="bf847-128">已删除邮件的恢复</span><span class="sxs-lookup"><span data-stu-id="bf847-128">Deleted item recovery</span></span>
 
-<span data-ttu-id="30dd8-p107">用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p107">Users can restore items they have deleted from any email folder in their archive. When an item is deleted, it is kept in the archive's Deleted Items folder. It remains there until it is manually removed by the user, or automatically removed by retention policies.</span></span>
+<span data-ttu-id="bf847-p107">用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。</span><span class="sxs-lookup"><span data-stu-id="bf847-p107">Users can restore items they have deleted from any email folder in their archive. When an item is deleted, it is kept in the archive's Deleted Items folder. It remains there until it is manually removed by the user, or automatically removed by retention policies.</span></span>
   
-<span data-ttu-id="30dd8-p108">已从存档已删除邮件文件夹中删除项目后，项目是保留存档的可恢复项目文件夹中永久删除之前其他 14 天。用户可以恢复使用在 Microsoft Outlook 或 Outlook Web App 中的**恢复已删除邮件**功能这些项目。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p108">After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. Users can recover these items using the **Recover Deleted Items** feature in Microsoft Outlook or Outlook Web App.</span></span> 
+<span data-ttu-id="bf847-p108">After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. Users can recover these items using the **Recover Deleted Items** feature in Microsoft Outlook or Outlook Web App.</span><span class="sxs-lookup"><span data-stu-id="bf847-p108">After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. Users can recover these items using the **Recover Deleted Items** feature in Microsoft Outlook or Outlook Web App.</span></span> 
   
-<span data-ttu-id="30dd8-p109">如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314155)（为邮箱启用或禁用"单个项目恢复"）。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p109">If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same 14 day window, through a feature called Single Item Recovery. This feature allows administrators to conduct a multi-mailbox search to find purged items and then use the  `Search-Mailbox` Windows PowerShell cmdlet to move the items from the discovery mailbox to users' mailboxes. For more information, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314155).</span></span>
+<span data-ttu-id="bf847-p109">如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314155)（为邮箱启用或禁用"单个项目恢复"）。</span><span class="sxs-lookup"><span data-stu-id="bf847-p109">If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same 14 day window, through a feature called Single Item Recovery. This feature allows administrators to conduct a multi-mailbox search to find purged items and then use the  `Search-Mailbox` Windows PowerShell cmdlet to move the items from the discovery mailbox to users' mailboxes. For more information, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314155).</span></span>
   
 > [!NOTE]
->  <span data-ttu-id="30dd8-p110">默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。 >  如果管理员已将用户邮箱置于就地保留或诉讼保留中，那么清除的邮件将无限期保留，14 天期限则不适用。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p110">The Single Item Recovery period is 14 days by default, but it can be customized in some circumstances. >  If an administrator has placed a user's mailbox on In-Place Hold or Litigation Hold, purged items are retained indefinitely and the 14-day window does not apply.</span></span> 
+>  <span data-ttu-id="bf847-p110">默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。 >  如果管理员已将用户邮箱置于就地保留或诉讼保留中，那么清除的邮件将无限期保留，14 天期限则不适用。</span><span class="sxs-lookup"><span data-stu-id="bf847-p110">The Single Item Recovery period is 14 days by default, but it can be customized in some circumstances. >  If an administrator has placed a user's mailbox on In-Place Hold or Litigation Hold, purged items are retained indefinitely and the 14-day window does not apply.</span></span> 
   
-## <a name="deleted-mailbox-recovery"></a><span data-ttu-id="30dd8-139">恢复已删除邮箱</span><span class="sxs-lookup"><span data-stu-id="30dd8-139">Deleted mailbox recovery</span></span>
+## <a name="deleted-mailbox-recovery"></a><span data-ttu-id="bf847-139">已删除邮箱的恢复</span><span class="sxs-lookup"><span data-stu-id="bf847-139">Deleted mailbox recovery</span></span>
 
-<span data-ttu-id="30dd8-p111">当管理员将用户从本地 Exchange Server 删除时，也将删除用户的存档。如果需要恢复已删除的存档邮箱，Office 365 支持团队可以执行此恢复。恢复的存档将包含删除时其中存储的所有邮件。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p111">When administrators delete users from the on-premises Exchange Server, the users' archives are also deleted. If the deleted archive mailboxes need to be recovered, the Office 365 support team can perform this recovery. A recovered archive will contain all of the mail stored in it at the time it was deleted.</span></span>
+<span data-ttu-id="bf847-p111">当管理员将用户从本地 Exchange Server 删除时，也将删除用户的存档。如果需要恢复已删除的存档邮箱，Office 365 支持团队可以执行此恢复。恢复的存档将包含删除时其中存储的所有邮件。</span><span class="sxs-lookup"><span data-stu-id="bf847-p111">When administrators delete users from the on-premises Exchange Server, the users' archives are also deleted. If the deleted archive mailboxes need to be recovered, the Office 365 support team can perform this recovery. A recovered archive will contain all of the mail stored in it at the time it was deleted.</span></span>
   
 > [!IMPORTANT]
-> <span data-ttu-id="30dd8-p112">用户邮箱删除后 30 天内，管理员可以请求恢复存档邮箱。30 天后，存档邮箱不可恢复。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p112">Administrators have 30 days from the time a user's mailbox is deleted to request an archive mailbox recovery. After 30 days, the archive mailbox is not recoverable.</span></span> 
+> <span data-ttu-id="bf847-p112">用户邮箱删除后 30 天内，管理员可以请求恢复存档邮箱。30 天后，存档邮箱不可恢复。</span><span class="sxs-lookup"><span data-stu-id="bf847-p112">Administrators have 30 days from the time a user's mailbox is deleted to request an archive mailbox recovery. After 30 days, the archive mailbox is not recoverable.</span></span> 
   
-## <a name="mailbox-service-redundancy"></a><span data-ttu-id="30dd8-145">邮箱服务冗余</span><span class="sxs-lookup"><span data-stu-id="30dd8-145">Mailbox service redundancy</span></span>
+## <a name="mailbox-service-redundancy"></a><span data-ttu-id="bf847-145">邮箱服务冗余</span><span class="sxs-lookup"><span data-stu-id="bf847-145">Mailbox service redundancy</span></span>
 
-<span data-ttu-id="30dd8-p113">Exchange Online Archiving 中的存档邮箱被复制到多个数据库副本，在地理上分散 Microsoft 数据中心，以提供数据会消息的基础结构发生故障时还原功能。大型失败次数，启动业务连续性管理。</span><span class="sxs-lookup"><span data-stu-id="30dd8-p113">Archive mailboxes in Exchange Online Archiving are replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a messaging infrastructure failure. For large-scale failures, business continuity management is initiated.</span></span> 
+<span data-ttu-id="bf847-146">Exchange Online Archiving 中的存档邮箱不断复制为多个数据库副本，存储在多个地理位置分散的 Microsoft 数据中心内，以便在邮件基础结构出现故障的情况下，能够为客户提供数据恢复功能。</span><span class="sxs-lookup"><span data-stu-id="bf847-146">Archive mailboxes in Exchange Online Archiving are replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a messaging infrastructure failure.</span></span> <span data-ttu-id="bf847-147">对于大规模故障，将会启动业务连续性管理。</span><span class="sxs-lookup"><span data-stu-id="bf847-147">For large-scale failures, business continuity management is initiated.</span></span> 
   
-## <a name="feature-availability"></a><span data-ttu-id="30dd8-148">功能可用性</span><span class="sxs-lookup"><span data-stu-id="30dd8-148">Feature Availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="bf847-148">功能可用性</span><span class="sxs-lookup"><span data-stu-id="bf847-148">Feature Availability</span></span>
 
-<span data-ttu-id="30dd8-149">若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online Archiving 服务说明](exchange-online-archiving-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="30dd8-149">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Exchange Online Archiving Service Description](exchange-online-archiving-service-description.md).</span></span>
+<span data-ttu-id="bf847-149">若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online Archiving 服务说明](exchange-online-archiving-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="bf847-149">To view feature availability across Office 365 plans, standalone options, and on-premise solutions, see [Exchange Online Archiving Service Description](exchange-online-archiving-service-description.md).</span></span>
   
