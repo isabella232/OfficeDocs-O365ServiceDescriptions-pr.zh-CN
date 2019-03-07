@@ -1,7 +1,7 @@
 ---
 title: Office 365 套件功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: 本主题中列出的功能是集合的基于 web 的工具，帮助您进行协作并传达安全地跨多个设备和多个 Office 365 服务。这些功能帮助贵组织中的新连接发起统一数字内容创建、 存储和管理与社交工具发现和用户之间共享信息。
-ms.openlocfilehash: cdc7803a1373f5442e768dc5c8a6b26dff9d5ab8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 本主题中列出的功能是基于 web 的工具的集合, 可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
+ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035000"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466939"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
-本主题中列出的功能是集合的基于 web 的工具，帮助您进行协作并传达安全地跨多个设备和多个 Office 365 服务。这些功能帮助贵组织中的新连接发起统一数字内容创建、 存储和管理与社交工具发现和用户之间共享信息。
+本主题中列出的功能是基于 web 的工具的集合, 可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
   
 ## <a name="microsoft-bookings"></a>Microsoft 预订
 <a name="BKMK_Bookings"> </a>
@@ -39,12 +39,12 @@ Microsoft Flow 允许自动执行跨应用程序的工作流。可以使用 Flow
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms 是允许您快速轻松地创建自定义测验、 调查、 问卷、 注册，和更多的 Office 365 教育版中的新位置。测验或窗体创建时，您可以邀请其他人对其使用任何 web 浏览器中，即使是在移动设备上做出响应。提交结果时，您可以使用内置分析评估响应的数目。表单数据，如测验结果，可以轻松地导出到 Excel 供进一步分析或分级。若要了解详细信息，请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
+Microsoft Forms 是 Office 365 教育的一个新部件, 可让你快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据 (如测验结果) 导出到 Excel, 以进行其他分析或评分。 若要了解详细信息, 请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 <a name="BKMK_Graph"> </a>
 
-使用 Microsoft Graph API 以快速构建应用程序连接到丰富的资源、 关系和智能，通过一个终结点： https://graph.microsoft.com。例如，您可以生成自定义仪表板、 工作流和检索组织中的数据的应用程序。有关详细信息，请参阅[Microsoft Graph 文档](https://go.microsoft.com/fwlink/?linkid=849595)。
+使用 Microsoft Graph API 快速构建通过单个终结点连接到大量资源、关系和智能的应用程序: https://graph.microsoft.com。 例如, 您可以生成自定义仪表板、工作流和应用程序, 以检索组织的数据。 有关详细信息, 请参阅[Microsoft Graph 文档](https://go.microsoft.com/fwlink/?linkid=849595)。
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
@@ -69,12 +69,12 @@ Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及�
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-Microsoft 流是企业视频服务，您的组织中的人员可以使用来上载、 查看和安全地共享视频。您可以共享类、 会议、 演示文稿、 培训会话或其他帮助您的团队协作的视频的录像。Microsoft 流还能方便共享评论注释和说明要引用特定点视频中的视频和标记时间代码。
+Microsoft Stream 是企业视频服务, 组织中的人员可以使用它来安全地上载、查看和共享视频。 您可以共享类、会议、演示文稿、培训会话或其他帮助您的团队协作的视频的唱片。 Microsoft Stream 还使您可以轻松地在注释和说明中共享视频和标记时间代码的注释, 以引用视频中的特定点。
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Microsoft Sway 是专业的数字讲述应用程序 for business 内可帮助您和您的同事 express 使用交互式、 基于 web 的画布的想法。Microsoft Sway 内置设计引擎可帮助您生成 professional、 引人注目的报告、 演示和不需要大量格式或其他培训的详细信息。您还可以修改要获取唯一外观所需的结果。Microsoft Sway 使您创建理想在任何屏幕上，所有浏览器中，它可以与同事和客户共享，通过只发送链接。Microsoft Sway 可帮助您查找和无需离开该应用程序，以便可以将拖放在到画布的您的图像、 文本、 视频和图表将汇聚在一起的各种类型的内容。若要了解详细信息，请参阅[Sway](https://sway.com)。Microsoft Sway 尚不可用在[Office 365 德国](office-365-germany.md)。
+Microsoft Sway 是一个专业的数字 storytelling 应用程序, 可帮助你和你的同事使用交互式的基于 web 的画布表达创意。 Microsoft Sway 的内置设计引擎可帮助您生成专业、视觉冲击力的报告、演示文稿等, 而无需进行大量的格式设置或其他培训。 还可以修改结果，以获得所需的独特外观。 Microsoft Sway 在任何屏幕上的任何浏览器中创建的外观都非常出色, 可以通过简单地发送链接将其与同事和客户共享。 Microsoft Sway 可帮助你查找和提取所有种类的内容, 而无需离开应用程序, 因此您可以将图像、文本、视频和图表直接拖放到画布上。 若要了解详细信息，请参阅 [Sway](https://sway.com)。 Microsoft Sway 在[Office 365 德国](office-365-germany.md)尚不可用。
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
@@ -99,7 +99,7 @@ Office 365 视频是全公司范围内的安全目标，可供跨设备上载、
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
 <a name="BKMK_Video"> </a>
 
-类笔记本一部分 OneNote 和适用于 Office 365 教育版和 Office 365 E5 教育。每个笔记本包括教师能够为每个学生共享课程内容，其中教师和学生可以一起使用，协作空格和专用笔记本的内容库。创建类笔记本后，教师和学生可用于 OneNote 应用程序从任何设备访问它。
+课堂笔记本是 OneNote 的一部分, 可用于 office 365 教育版和 office 365 E5 教育版。 每个笔记本都包含用于教师共享课程内容的内容库、教师和学生可以协同工作的协作空间, 以及每个学生的专用笔记本。 创建课堂笔记本后, 教师和学生可以使用 OneNote 应用从任何设备访问它。
   
 ## <a name="feature-availability"></a>功能可用性
 <a name="BKMK_Video"> </a>

@@ -1,7 +1,7 @@
 ---
 title: 支持
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: 每个 Microsoft Office 365 企业版、 业务、 教育和政府订阅与 Microsoft 支持提供全局的技术、 售前账单和订阅支持。支持同时联机通过 Office 365 门户和付费和试用版订阅的电话。有关详细信息，请参阅 Office 365 支持选项。
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Office 365 支持选项。
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035141"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467529"
 ---
 # <a name="support"></a>支持
 
 > [!NOTE]
-> 下面的支持选项都全球版本的 Office 365。对于所有 Office 365 21Vianet 在中国由支持，请参阅[数据的业务联系人 Office 365 支持的 Office 365 由 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。Office 365 德国，请参阅[数据的业务联系人 Office 365 支持的 Office 365 德国](https://go.microsoft.com/fwlink/?linkid=846979)。 
+> 以下支持选项均为 Office 365 的全球版本。 有关对中国世纪互联运营的 office 365 的所有支持, 请参阅[联系 office 365 以获取由世纪互联运营的 office 365 的商业支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。 有关 office 365 德国的信息, 请参阅[联系 office 365 以获取适用于 office 365 德国的商业支持](https://go.microsoft.com/fwlink/?linkid=846979)。 
   
-每个 Microsoft Office 365 企业版、 业务、 教育和政府订阅与 Microsoft 支持提供全局的技术、 售前账单和订阅支持。支持同时联机通过 Office 365 门户和付费和试用版订阅的电话。有关详细信息，请参阅[Office 365 支持选项](https://go.microsoft.com/fwlink/p/?LinkID=279810)。
+Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 [Office 365 支持选项](https://go.microsoft.com/fwlink/p/?LinkID=279810)。
   
 授权管理员可使用 Office 365 门户在线提交服务请求、访问支持电话号码并查看所有已开通和最近关闭的服务请求。在 Office 365 门户提交的服务请求可在关闭请求后的 14 天内再次开通。有关说明，请参阅[联系 Office 365 商业版支持人员](https://go.microsoft.com/fwlink/p/?LinkID=279815)。
   
@@ -90,13 +90,13 @@ Microsoft 会对问题的类型和对客户的影响进行评估，并据此在�
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**严重级别** <br/> |**Office 365 业务 Essentials<sup>1</sup>** <br/> **Office 365 业务<sup>1</sup>** <br/> **Office 365 企业版 Premium<sup>1</sup>** <br/> **Office 365 教育版<sup>1</sup>** <br/> |**Office 365 企业版 E1<sup>2</sup>** <br/> **Office 365 企业版 E3<sup>2</sup>** <br/> **Office 365 政府版 G2<sup>2</sup>** <br/> **Office 365 美国政府 E3<sup>2</sup>** <br/> |**Office 365 企业版 F1<sup>2</sup>** <br/> **Office 365 美国政府版 K1<sup>2</sup>** <br/> |**提升的支持选项<sup>3</sup>** <br/> |
+|**严重级别** <br/> |**Office 365 业务重点<sup>1</sup>** <br/> **Office 365 商业版<sup>1</sup>** <br/> **Office 365 商业高级版<sup>1</sup>** <br/> **Office 365 教育版<sup>1</sup>** <br/> |**Office 365 企业版 E1<sup>2</sup>** <br/> **Office 365 企业版 E3<sup>2</sup>** <br/> **Office 365 政府 G2<sup>2</sup>** <br/> **Office 365 美国政府版 E3<sup>2</sup>** <br/> |**Office 365 企业版 F1<sup>2</sup>** <br/> **Office 365 美国政府版 K1<sup>2</sup>** <br/> |**提升的支持选项<sup>3</sup>** <br/> |
 | 严重级别 A（关键）  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |
 |严重性 B（高）  <br/> |可用：工作时间  <br/> 响应时间：未承诺  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：次日  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：次日  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：2 小时  <br/> |
 |严重性（中）  <br/> |可用：工作时间  <br/> 响应时间：未承诺  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：未承诺  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：未承诺  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：4 小时  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>业务计划包括的所有非严重问题的营业时间支持和 24/7 电话支持 microsoft。> <sup>2</sup>企业计划包括解决所有问题，从 Microsoft 24/7 电话支持 > <sup>3</sup>的提升的支持选项的说明，请参阅[其他支持选项](support.md#additional-support-options)。> <sup>4</sup>呼叫和服务请求处理在大多数国家和地区的七天、 一天的 24 小时。 
+> <sup>1</sup> Business plans include business hours support for all non-critical issues and 24/7 phone support from Microsoft. > <sup>2</sup> Enterprise plans include 24/7 phone support from Microsoft for all issues, > <sup>3</sup> For descriptions of the elevated support options, see [Additional support options](support.md#additional-support-options). > <sup>4</sup> Calls and service requests are handled 24 hours a day, seven days a week in most countries and regions. 
   
 ### <a name="support-for-standalone-plans"></a>支持独立计划
 <a name="InitialResponse"> </a>
@@ -115,7 +115,7 @@ Microsoft 了解到及时从合格的专业人员获取技术支持是云服务�
   
 ### <a name="administrator-role-and-responsibilities"></a>管理员角色和职责
 
-与 Office 365 管理员角色的人员将授权访问 Office 365 门户的**管理员**部分并直接与 Microsoft Office 365 服务请求有关通信的客户的组织中是唯一的。 
+People with Office 365 administrator roles are the only ones in the customer's organization authorized to access the **Admin** section of the Office 365 portal and to communicate directly with Microsoft about Office 365 service requests. 
   
 可以使用 Office 365 企业版 和 Office 365 商业版 计划委派多个类型的管理员来行使不同的职能。此服务说明使用通用标题管理员表示所有类别的管理员。有关管理员角色类型的详细信息，请参阅[分配管理员角色](https://go.microsoft.com/fwlink/p/?LinkID=279812)。
   
@@ -187,7 +187,7 @@ Microsoft 了解到及时从合格的专业人员获取技术支持是云服务�
 
 可以选择一个 Microsoft 合作伙伴并委派管理职能，包括创建服务请求票据。有关详细信息，请参阅[合作伙伴](partners.md)服务说明和[添加、更改或删除订阅顾问合作伙伴](https://go.microsoft.com/fwlink/p/?LinkId=399156)。
   
-### <a name="developers"></a>开发人员
+### <a name="developers"></a>开发者
 <a name="Bkmk_Developers_Support"> </a>
 
 开发人员可在 [MSDN Microsoft 开发人员网络](https://go.microsoft.com/fwlink/p/?LinkID=279814)了解有关开发 Office 365 Office 和 SharePoint 应用程序的更多信息。可通过高级支持或合作伙伴支持资源，或者直接通过 Microsoft 从开发人员社区的在线博客和论坛获取开发人员支持。有关开发人员支持选项的链接，请参阅[支持资源](https://go.microsoft.com/fwlink/p/?LinkID=279819)。

@@ -1,7 +1,7 @@
 ---
 title: 用户帐户管理
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210275"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467739"
 ---
 # <a name="user-account-management"></a>用户帐户管理
 
@@ -33,7 +33,7 @@ Microsoft Office 365 支持以下用于创建、管理和对用户进行身份�
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>需要获取有关登录、安装/卸载或取消订阅方面的帮助吗？
 
-获取有关[登录 office 365](http://go.microsoft.com/fwlink/?LinkID=529144&amp;clcid=0x409) | 的帮助[安装或卸载 office](http://go.microsoft.com/fwlink/?LinkID=827202&amp;clcid=0x409) | [取消 office 365](https://support.office.com/en-us/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Get help with [signing into Office 365](http://go.microsoft.com/fwlink/?LinkID=529144&amp;clcid=0x409) | [Installing or uninstalling Office](http://go.microsoft.com/fwlink/?LinkID=827202&amp;clcid=0x409) | [Canceling Office 365](https://support.office.com/en-us/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 如果对 Office 365 有其他问题，请访问 [Microsoft 支持中心](https://go.microsoft.com/fwlink/?LinkID=808783)。若要获取由中国的世纪互联运营的 Office 365 的支持，请联系[世纪互联支持团队](https://support.office.com/en-US/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。对于 Office 365 Germany，请联系 [Office 365 Germany 支持团队](https://support.office.com/en-us/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
   
@@ -49,7 +49,7 @@ Office 365 具有两个可用于用户标识的系统：
   
 ### <a name="custom-domains-and-identity-options"></a>自定义域和身份选项
 
-当您创建新用户时, 用户的登录名和电子邮件地址将被分配给 Microsoft 365 管理中心中设置的默认域。若要了解详细信息, 请参阅[将用户和域添加到 Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
+当您创建新用户时, 用户的登录名和电子邮件地址将被分配给 Microsoft 365 管理中心中设置的默认域。 若要了解详细信息，请参阅[将用户和域添加到 Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
 默认情况下，Office 365 订阅使用通过此帐户创建的 \< _company name_\> **.onmicrosoft.com**域。\*你可以添加一个或多个自定义域给 Office 365，而不是保留 onmicrosoft.com 域，并可以分配用户以使用任何经过验证的域登录。每个用户的分配域是出现在已发送和已接收电子邮件消息中的电子邮件地址。 
   
@@ -77,7 +77,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>适用于 Office 365 的 Multi-Factor Authentication
 
-对于 Office 365\*的多重身份验证, 用户在正确输入密码后需要确认电话呼叫、短信或智能手机上的应用通知。只有在第二次身份验证后, 用户才可以登录。Office 365 管理员可以在 Microsoft 365 管理中心内为用户注册多重身份验证。了解有关[Office 365 的多重身份验证的](https://go.microsoft.com/fwlink/p/?LinkId=392429)详细信息。
+使用 Office 365 多重身份验证\*，用户必须在正确输入密码后确认智能电话上的电话联络、短信或应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Office 365 管理员可以在 Microsoft 365 管理中心内为用户注册多重身份验证。 详细了解 [Office 365 多重身份验证](https://go.microsoft.com/fwlink/p/?LinkId=392429)。
   
 ### <a name="rich-client-authentication"></a>富客户端身份验证
 
@@ -115,7 +115,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
   
 ## <a name="creating-user-accounts"></a>创建用户帐户
 
-有多种方法可以将用户添加到 Office 365。若要了解详细信息, 请参阅[在 Microsoft 365 管理中心预览版中](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)[单独或批量添加用户到 Office 365-管理员帮助](https://go.microsoft.com/fwlink/p/?linkid=860006)和添加、删除和管理用户。如果在中国使用由世纪互联运营的 office 365, 请参阅[在由世纪互联运营的 office 365 中创建或编辑用户帐户-管理员帮助](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)。
+有多种方法可以将用户添加到 Office 365。 若要了解详细信息, 请参阅[在 Microsoft 365 管理中心预览版中](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409)[单独或批量添加用户到 Office 365-管理员帮助](https://go.microsoft.com/fwlink/p/?linkid=860006)和添加、删除和管理用户。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409)。
   
 ## <a name="deleting-accounts"></a>删除帐户
 
@@ -139,17 +139,17 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
     
 - 为提高安全性，用户在首次访问 Office 365 服务时必须更改密码。由此，在用户能够访问 Office 365 服务之前，他们必须登录 Office 365 门户，其中将提示他们更改密码。
     
-- 管理员可以设置密码过期策略。有关详细信息, 请参阅[设置用户的密码过期策略](https://go.microsoft.com/fwlink/p/?LinkID=285381)。
+- 管理员可以设置密码过期策略。 有关详细信息, 请参阅[设置用户的密码过期策略](https://go.microsoft.com/fwlink/p/?LinkID=285381)。
     
 可通过以下几个工具为拥有云身份的用户重置密码：
   
 - **管理员重置密码** 如果用户丢失或忘记密码，管理员可以在 Office 365 门户或使用 Windows PowerShell 重置用户密码。只有在知道自己现有密码的情况下，用户才能更改密码。 
     
-    对于企业计划, 如果管理员丢失或忘记了密码, 则具有全局管理员角色的不同管理员可以在 Microsoft 365 管理中心或使用 Windows PowerShell 重置管理员密码。有关详细信息, 请参阅[重置管理员密码](https://go.microsoft.com/fwlink/p/?LinkID=270062)。如果您使用的是在中国由世纪互联运营的 office 365, 请参阅[更改或重置由世纪互联运营的 office 365 中的密码](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)。
+    对于企业计划, 如果管理员丢失或忘记了密码, 则具有全局管理员角色的不同管理员可以在 Microsoft 365 管理中心或使用 Windows PowerShell 重置管理员密码。 有关详细信息，请参阅[重置管理员密码](https://go.microsoft.com/fwlink/p/?LinkID=270062)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)。
     
 - **用户使用 Outlook Web App 更改密码** Outlook Web App 选项页面中包含"更改密码"超链接，可将用户重定向到" **更改密码**"页面。用户必须知道旧密码。有关详细信息，请参阅[更改密码](https://go.microsoft.com/fwlink/p/?LinkID=270063)。如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409)。
     
-- **基于角色的重置密码权限**对于企业版计划, 可以通过使用 Office 365 预定义或自定义角色 (而不是完全服务管理员) 将 "**重置密码**" 用户权限和权限更改密码的权限分配给支持人员 (如技术支持人员)。默认情况下, 在企业计划中, 具有全局管理员、密码管理员或用户管理管理员角色的管理员可以更改密码。有关详细信息, 请参阅[分配管理员角色](https://go.microsoft.com/fwlink/p/?LinkID=270061)。
+- **基于角色的重置密码权限** 对于企业版计划，可以向支持人员等授权用户分配" **重置密码**"用户权限，以及使用 Office 365 预定义或自定义角色更改密码的权限，而不必成为拥有完全管理权限的管理员。 默认情况下，在企业版计划中，具有"全局管理员"、"密码管理员"或"用户管理管理员"角色的管理员可以更改密码。 有关详细信息，请参阅[分配管理员角色](https://go.microsoft.com/fwlink/p/?LinkID=270061)。
     
 - **"使用 Windows PowerShell 重置密码"** 服务管理员可以使用 Windows PowerShell 重置密码。 
     
@@ -167,11 +167,11 @@ Office 365 帐务管理员可以更改订阅详细信息，如用户许可证数
   
 ## <a name="group-management"></a>组管理
 
-在 SharePoint Online 中使用安全组来控制对网站的访问。可以在 Microsoft 365 管理中心中创建安全组。有关安全组的详细信息, 请参阅[创建、编辑或删除安全组](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)。
+在 SharePoint Online 中使用安全组以控制对站点的访问权限。 可以在 Microsoft 365 管理中心中创建安全组。 有关安全组的详细信息，请参阅[创建、编辑或删除安全组](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409)。
   
 ## <a name="administrator-roles"></a>管理员角色
 
-Office 365 企业遵循基于角色的访问控制 (RBAC) 模型: 权限和功能由管理角色定义。注册其组织的 Office 365 的人员将自动成为全局管理员或顶级管理员。共有五个管理员角色: 全局管理员、帐单管理员、密码管理员、服务管理员和用户管理管理员。有关 Office 365 企业版中的管理员角色的详细信息, 包括如何将它们应用于 Exchange Online、SharePoint online 和 Skype for business Online 管理, 请参阅[分配管理员角色](https://go.microsoft.com/fwlink/p/?LinkID=282732)。如果您在中国使用由世纪互联运营的 Office 365, 请参阅[在 Office 365 for business 中分配管理员角色](https://go.microsoft.com/fwlink/p/?linkid=270061)。
+Office 365 企业版采用基于角色的访问控制 (RBAC) 模型：权限和功能由管理角色定义。 为其组织注册 Office 365 的用户自动成为全局管理员或顶级管理员。 有五种管理员角色：全局管理员、帐务管理员、密码管理员、服务管理员和用户管理管理员。 若要详细了解 Office 365 企业版中的管理员角色（包括如何将这些角色应用于 Exchange Online、SharePoint Online 和 Skype for Business Online 管理），请参阅[分配管理员角色](https://go.microsoft.com/fwlink/p/?LinkID=282732)。 如果您在中国使用由世纪互联运营的 Office 365, 请参阅[在 Office 365 for business 中分配管理员角色](https://go.microsoft.com/fwlink/p/?linkid=270061)。
   
 ## <a name="delegated-administration-and-support-for-partners"></a>合作伙伴的委派管理和支持
 

@@ -1,7 +1,7 @@
 ---
 title: Skype for Business Online 限制
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: Skype 业务 online 中的限制分为以下类别：
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: 'Skype for business Online 中的限制分为以下几类:'
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213889"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466959"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
-Skype 业务 online 中的限制分为以下类别：
+Skype for business Online 中的限制分为以下几类:
   
 - [对等限制](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -35,14 +35,14 @@ Skype 业务 online 中的限制分为以下类别：
 - [分钟限制](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> 应用于 Office 365 组织的限制会有所不同长组织已注册服务中。限制更改时在 Microsoft 数据中心，它可能需要一些时间，以将更改应用于所有现有客户。 
+> 应用于 Office 365 组织的限制可能因组织已在服务中登记的时间长度而异。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 
   
 ## <a name="peer-to-peer-limits"></a>对等限制
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
 - **文件传输限制** 在 Skype for Business Online IM 对话中可以传输的文件大小上限。若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](https://go.microsoft.com/fwlink/?LinkId=398280)的 Microsoft 支持文章。
     
-- **打开选项卡式对话限制** Skype for Business 用户一次可以打开的对话选项卡的数量上限。 
+- **打开选项卡式的对话限制** Skype for Business 用户一次可以打开的对话选项卡的最大数量。 
     
 ### <a name="peer-to-peer-limits-across-office-365-options"></a>Office 365 选项之间的对等限制
 
@@ -54,7 +54,7 @@ Skype 业务 online 中的限制分为以下类别：
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不适用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>客户端可以通过从开始聊天达 99 用户手动将其添加或从组或通讯组列表的上下文菜单中发送即时消息。有关即时消息 Skype 业务 online 的详细信息，请参阅[发送即时消息中的业务的 Skype](https://go.microsoft.com/fwlink/?linkid=533412)。 
+> <sup>1</sup>通过从组或通讯组列表的上下文菜单中手动添加或发送即时消息, 客户端可以启动最高为99个用户的聊天。 有关 skype for business Online 中的即时消息的详细信息, 请参阅[在 skype for business 中发送即时](https://go.microsoft.com/fwlink/?linkid=533412)消息。 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>独立选项之间的对等限制
 
@@ -66,7 +66,7 @@ Skype 业务 online 中的限制分为以下类别：
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>客户端可以通过从开始聊天达 99 用户手动将其添加或从组或通讯组列表的上下文菜单中发送即时消息。有关即时消息 Skype 业务 online 的详细信息，请参阅[发送即时消息中的业务的 Skype](https://go.microsoft.com/fwlink/?linkid=533412)。 
+> <sup>1</sup>通过从组或通讯组列表的上下文菜单中手动添加或发送即时消息, 客户端可以启动最高为99个用户的聊天。 有关 skype for business Online 中的即时消息的详细信息, 请参阅[在 skype for business 中发送即时](https://go.microsoft.com/fwlink/?linkid=533412)消息。 
   
 ## <a name="meeting-limits"></a>会议限制
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -89,15 +89,15 @@ Skype 业务 online 中的限制分为以下类别：
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F1** <br/> |
 |文件上载限制  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |不适用  <br/> |
-|参加 Skype for Business 会议<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不适用  <br/> |
+|参加 Skype for Business 会议<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
 |Skype for Business 会议中的演示者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
 |Skype for Business Web App 会议参与者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
-|Skype for Business Web App 匿名参与者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不适用  <br/> |
+|Skype for Business Web App 匿名参与者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
 |来宾通过电话加入  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |不适用  <br/> |
-|团队呼叫组中的人员  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |不适用  <br/> |
+|团队呼叫组中的人员  <br/> |word  <br/> |word  <br/> |word  <br/> |word  <br/> |word  <br/> |不适用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>如果 Skype 业务会议中的参与者数目超过 75 参与者，然后在会议名单中的参与者列表 （演示者和与会者） 将被截断，以使单个与会者看到只有演示者和个人与会者的名称。完整参与者列表保持向会议中演示者可见。此外，图库视图和 IM 错误是隐藏的与会者。 
+> <sup>1</sup>如果 Skype for business 会议中的参与者数量超过75个参与者, 则会议名单中的参与者列表 (演示者和与会者) 将被截断, 以便单个与会者仅看到演示者和个人与会者自己的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
   
 ### <a name="meeting-limits-across-standalone-options"></a>跨独立选项的邮件限制
 
@@ -105,12 +105,12 @@ Skype 业务 online 中的限制分为以下类别：
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |文件上载限制  <br/> |500 MB  <br/> |不适用  <br/> |500 MB  <br/> |
-|Skype for Business 会议中的参与者  <br/> |250  <br/> |不适用  <br/> |250  <br/> |
-|Skype for Business 会议中的演示者  <br/> |250  <br/> |不适用  <br/> |250  <br/> |
-|Skype for Business Web App 会议参与者  <br/> |250  <br/> |不适用  <br/> |250  <br/> |
-|Skype for Business Web App 匿名参与者  <br/> |250  <br/> |不适用  <br/> |250  <br/> |
-|来宾通过电话加入  <br/> |250  <br/> |不适用  <br/> |250  <br/> |
-|团队呼叫组中的人员  <br/> |25  <br/> |不适用  <br/> |25  <br/> |
+|Skype for Business 会议中的参与者  <br/> |250  <br/> |暂无  <br/> |250  <br/> |
+|Skype for Business 会议中的演示者  <br/> |250  <br/> |暂无  <br/> |250  <br/> |
+|Skype for Business Web App 会议参与者  <br/> |250  <br/> |暂无  <br/> |250  <br/> |
+|Skype for Business Web App 匿名参与者  <br/> |250  <br/> |暂无  <br/> |250  <br/> |
+|来宾通过电话加入  <br/> |250  <br/> |暂无  <br/> |250  <br/> |
+|团队呼叫组中的人员  <br/> |word  <br/> |不适用  <br/> |word  <br/> |
    
 ## <a name="meeting-retention-limits"></a>会议保留限制
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
@@ -122,20 +122,20 @@ Skype 业务 online 中的限制分为以下类别：
 ### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 选项和独立计划会议保留限制
 
 > [!NOTE]
-> 每个人可以随时在数据库中有 1000年会议的最大值。 
+> 每个人在数据库中最多可以有1000个会议。 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**会议类型** <br/> |**说明** <br/> 
-|一次性会议| 会议都可以访问至少计划的时间，或者上次会议激活，或上次会议更新后 14 天之前，无论哪个都最新。
-|结束日期的定期会议| 会议都可以访问至少直到最后一个会议事件，或上次会议激活，或上次会议更新的计划的结束时间后 14 天，无论哪个都最新。
-|无结束日期的定期会议| 提供有新的会议加入 （激活） 或计划每年的至少一次更新都可以访问会议
-|     现在开会|至少 8 小时将可以访问会议。
+|**会议类型** <br/> |**Description** <br/> 
+|一次性会议| 会议将至少在计划时间之后14天之后, 或最后一次会议激活或上次会议更新 (以最新的为准) 时才可访问。
+|带结束日期的定期会议| 至少在上次会议事件的计划结束时间之后的14天之后, 或上次会议激活或上次会议更新 (以最新的为准), 会议才可访问。
+|没有结束日期的定期会议| 只要有新的会议加入 (激活) 或每年至少安排一次更新, 会议将始终可访问。
+|现在开会|会议将至少在8小时内可供访问。
 
 
   
 ## <a name="minute-limits"></a>分钟限制
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-有关 Office 365 国内调用规划或 Office 365 国际呼叫规划中的分钟限制的信息，请单击[此处](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
+有关 office 365 国内通话套餐或 office 365 国际呼叫计划中的分钟限制的信息, 请单击[此处](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   

@@ -1,7 +1,7 @@
 ---
 title: 客户端和移动设备
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,20 +12,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: ad19845f7a06cfb01a74507fdb794813091c1c2b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035144"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467609"
 ---
-# <a name="clients-and-mobile-devices"></a>客户端和移动设备
+# <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook 是一个电子邮件程序，包括支持日历、 联系人、 任务和以下关键功能：
+Microsoft Outlook 是一个电子邮件程序, 其中包括对日历、联系人、任务和以下关键功能的支持:
   
-- **MAPI over HTTP**通过 HTTP 消息应用程序接口 (MAPI) 允许 Outlook 用户通过 Internet 从其组织的防火墙之外连接到 Exchange Online 邮箱。MAPI over HTTP，长期替换为 Outlook Anywhere。此连接方法提供了改进了的连接恢复能力、 更安全登录、 扩展性，以及增强 IT 和支持。若要了解详细信息，请参阅[RPC over HTTP 达到结束的 Office 365 中的支持](https://go.microsoft.com/fwlink/?linkid=863890)和[MAPI over HTTP](https://go.microsoft.com/fwlink/?linkid=393041)。
+- **MAPI over HTTP**通过 HTTP 的邮件应用程序接口 (MAPI) 允许 Outlook 用户从其组织的防火墙外部连接到 Internet 上的 Exchange Online 邮箱。 MAPI over HTTP, 适用于 Outlook 无处不在的长期替换。 此连接方法提供改进的连接弹性、更安全的登录、可扩展性以及 IT 和支持的增强功能。 若要了解详细信息, 请参阅[RPC over http 在 Office 365](https://go.microsoft.com/fwlink/?linkid=863890)和[MAPI over http](https://go.microsoft.com/fwlink/?linkid=393041)中达到支持的结尾。
     
 - **自动发现** 自动发现服务功能自动配置 Outlook 以用于 Exchange Online。首次使用电子邮件地址和密码登录时，Outlook 用户可以直接从 Exchange Online 收到他们的所需配置文件设置。这些设置可以使用创建和维护用户配置文件所需的信息自动更新 Outlook 客户端。使用自动发现服务需要 SSL 证书。此 SSL 证书仅限于单个主 SSL 域。 
     
@@ -38,7 +38,7 @@ Microsoft Outlook 是一个电子邮件程序，包括支持日历、 联系人�
 > [!IMPORTANT]
 >  Outlook 不作为 Exchange Online 订阅价格一部分提供。Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 >  如果使用 POP 连接到 Exchange Online 电子邮件帐户，会发现存在以下限制： >  无日历信息 >  无忙/闲信息 >  无全局地址列表 >  无电子邮件推送 >  当通过 POP 连接时，所有邮件将下载到客户端，同时多台计算机或设备之间没有任何同步（如笔记本电脑和电话之间）。 
   
-## <a name="outlook-on-the-web"></a>Web 上的 Outlook
+## <a name="outlook-on-the-web"></a>Outlook 网页版
 
 Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。使用它，用户可以在有 Internet 连接的地方，通过 Web 浏览器查看电子邮件、日历和联系人。若要了解支持的浏览器，请参阅 [Outlook 网页版支持的浏览器（适用于企业）](https://go.microsoft.com/fwlink/p/?LinkId=287032)。
   
@@ -52,74 +52,74 @@ Outlook 网页版还提供移动版本。有关详细信息，请参阅此[此�
   
 ## <a name="outlook-for-mac"></a>Outlook for Mac
 
-Exchange Online 支持 Microsoft Outlook for Mac，它提供电子邮件、 日历、 通讯簿、 任务列表和便笺列表。
+Exchange Online 支持 Microsoft Outlook for Mac, 它提供电子邮件、日历、通讯簿、任务列表和便笺列表。
   
-## <a name="outlook-for-ios-android-and-windows-phone"></a>IOS、 Android，和 Windows Phone 的 outlook
+## <a name="outlook-for-ios-android-and-windows-phone"></a>适用于 iOS、Android 和 Windows Phone 的 Outlook
 
-Exchange Online 适用于 Outlook 相关应用程序可用于 iOS、 Android 和 Windows Phone。在任何这些设备上使用应用程序商店找到 Outlook 应用程序。下面是通过移动 OS 细分。
+Exchange Online 适用于适用于 iOS、Android 和 Windows Phone 的 Outlook 应用程序。 在这些设备中的任何设备上, 使用应用商店查找 Outlook 应用程序。 以下是移动 OS 的细目分类。
   
 |||||
 |:-----|:-----|:-----|:-----|
 |设备  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook 移动应用程序可用性  <br/> |是  <br/> [获取 Outlook for Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
-|与 Exchange Online 兼容的内置电子邮件应用程序  <br/> |Gmail 应用程序/三星电子邮件应用程序  <br/> |iOS 邮件应用程序  <br/> |Outlook 邮件、 日历、 联系人  <br/> |
-|更多信息  <br/> |[Android 移动安装程序](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 的安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Outlook 移动应用可用性  <br/> |是  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
+|与 Exchange Online 兼容的内置电子邮件应用程序  <br/> |Gmail app/Samsung 电子邮件应用程序  <br/> |iOS 邮件应用程序  <br/> |Outlook 邮件、日历、联系人  <br/> |
+|更多信息  <br/> |[Android 手机设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
-还有设备，包括 Blackberry 使用 Exchange Online 的选项。
+此外, 还提供了有关将 Exchange Online 与设备 (包括 Blackberry) 结合使用的选项。
   
 ### <a name="feature-availability"></a>功能可用性
 
-Outlook 中，为用户提供快速、 直观电子邮件和日历体验，他们希望从现代的移动应用程序时要仅应用程序的 Office 365 的最佳功能提供支持。它是唯一电子邮件应用程序专门用于支持完整的 Office 365 体验，请为用户提供一致的体验从桌面到移动。Outlook 与 Intune、 企业移动性和安全性和 Exchange 控件，以保护数据和用户安全集成。
+Outlook 为用户提供了从新式移动应用程序获得的快速、直观的电子邮件和日历体验, 同时也是唯一为 Office 365 的最佳功能提供支持的应用程序。 它是唯一专为支持完整的 Office 365 体验而设计的电子邮件应用程序, 为用户提供桌面到移动的一致体验。 Outlook 与 Intune、企业移动性和安全性以及 Exchange 控件相集成, 以保持数据和用户安全。
   
-Outlook 使用户能够：
+Outlook 使用户能够:
   
-- 从移动设备管理其整个天。
+- 从移动设备管理其全天。
     
-- 连接到的应用程序和服务所需提高生产效率，同时保持其工作和个人信息单独和安全。
+- 连接到需要提高工作效率的应用程序和服务, 同时保持其工作和个人信息的安全。
     
-使用 Outlook 针对 iOS，for Android，Outlook 或 Outlook for Windows Phone，用户可以： 
+使用 outlook for iOS、outlook for Android 或 outlook for Windows Phone, 用户可以: 
   
 - 受益于重点收件箱的优先级重要电子邮件
     
-- 自定义向内轻扫手势匹配其唯一的电子邮件习惯
+- 自定义轻扫手势以适应其独特的电子邮件习惯
     
-- 创建可以添加直接到日历，提供快速的关键信息的旅行路线
+- 创建可直接添加到日历中的旅行路线, 并提供概览的关键信息
     
-- 从收件箱 RSVP 加入会议。
+- 从收件箱到会议的 RSVP。
     
-- 帮助他们快速处理信息的电子邮件和日历约会在使用直观的图标
+- 在电子邮件和日历约会中使用直观图标帮助他们快速处理信息
     
-- 在所有设备上使用一致和熟悉的 Outlook 体验
+- 在所有设备中使用一致和熟悉的 Outlook 体验
     
-- 轻松启动并加入 Skype 会议从日历
+- 轻松启动和加入日历中的 Skype 会议
     
-- 读取和响应 IRM 加密和受保护的电子邮件
+- 阅读和响应 IRM 加密和受保护的电子邮件
     
-- OneDrive for Business 中存储的共享文件
+- 共享 OneDrive for business 中存储的文件
     
-- 设置与点击的自动答复
+- 通过点击设置自动答复
     
-- 查看和管理共享和委派日历
+- 查看和管理共享和委派的日历
     
-- 搜索与几次点击其公司的全局地址列表
+- 通过几分路器搜索其公司的全球通讯簿
     
-- 查看同事的可用性和计划的会议时间的适用于所有人
+- 查看同事的可用性并安排适用于每个人的会议时间
     
-- 请参阅被邀请者暂定接受和拒绝状态
+- 请参阅被邀请者接受、暂定和拒绝状态
     
-- 共享日历直接从其电话
+- 从电话中共享日历
     
-- 开始和加入 Skype 会议右从日历
+- 从日历中启动和加入 Skype 会议
     
-- 访问工作和个人日历在一个位置，而无需切换应用程序
+- 在一个位置访问工作和个人日历, 而无需切换应用程序
     
 ## <a name="exchange-activesync"></a>Exchange ActiveSync
 
 Exchange Online 支持 Microsoft Exchange ActiveSync 协议，这将在移动设备和 Exchange Online 之间同步邮箱，以便用户可以随身访问他们的电子邮件、日历、联系人和任务。
   
-范围广泛的移动设备使用 Exchange ActiveSync，包括 Microsoft Windows Phone、 Apple iPhone 和 iPad 和 Android 电话和平板电脑中。除了移动电话和设备，在 Windows Phone 中的邮件应用程序使用 Exchange ActiveSync 连接到 Exchange Online。在 Exchange ActiveSync 许可站点位于当前 Exchange ActiveSync 许可证的完整列表。
+各种移动设备均使用 Exchange ActiveSync，包括 Microsoft Windows Phone、Apple iPhone 和 iPad 以及 Android 手机和平板电脑。 除了移动电话和设备, Windows Phone 中的邮件应用程序还使用 exchange ActiveSync 连接到 exchange Online。 有关当前 Exchange ActiveSync 被许可人的完整列表，请访问 Exchange ActiveSync 许可网站。
   
-有关 Exchange ActiveSync 的详细信息，请参阅[Exchange ActiveSync](https://go.microsoft.com/fwlink/p/?LinkId=271792)。
+有关 exchange activesync 的详细信息, 请参阅[exchange activesync](https://go.microsoft.com/fwlink/p/?LinkId=271792)。
   
 > [!IMPORTANT]
 > 每个邮箱的 Exchange ActiveSync 设备的最大数量为 100。 
@@ -147,13 +147,13 @@ Exchange Online 通过 POP3 和 IMAP4 协议支持邮箱访问。POP 和 IMAP �
 > [!IMPORTANT]
 > 授权源服务器的 IP 地址需要允许 SMTP 中继。当使用 SMTP 发送电子邮件时需要传输层安全性 (TLS) 加密和身份验证。 
   
-## <a name="blackberry-devices"></a>BlackBerry® 设备
+## <a name="blackberry-devices"></a>BlackBerry ®设备
 
-Office 365 电子邮件是通过 Exchange ActiveSync BlackBerry® 设备上可用。若要查找什么是您的选项，请参阅下列主题：
+可通过 Exchange ActiveSync 在 BlackBerry ®设备上提供 Office 365 电子邮件。 若要了解你的选项是什么, 请参阅以下主题:
   
-- [将 BlackBerry 设备上的电子邮件设置](https://go.microsoft.com/fwlink/?linkid=863394)
+- [在 BlackBerry 设备上设置电子邮件](https://go.microsoft.com/fwlink/?linkid=863394)
     
-- [BlackBerry 设备 7.1 上设置电子邮件 OS 和更早版本](https://go.microsoft.com/fwlink/?linkid=863403)
+- [在 BlackBerry 设备 7.1 OS 和更低版本上设置电子邮件](https://go.microsoft.com/fwlink/?linkid=863403)
     
 有关详细信息，请参阅 [BlackBerry](../office-365-platform-service-description/blackberry.md)。
   

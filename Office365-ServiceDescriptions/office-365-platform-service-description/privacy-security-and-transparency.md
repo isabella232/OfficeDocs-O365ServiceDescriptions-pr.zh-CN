@@ -1,7 +1,7 @@
 ---
 title: 隐私、安全性和透明度
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 01/02/2019
 ms.audience: ITPro
@@ -12,13 +12,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
-description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
+ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784854"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467579"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
@@ -47,15 +47,15 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
 
 电子发现（亦称为"电子数据展示"）是用于识别和传递可用作法律案件证据的电子信息的过程。Office 365 高级电子数据展示以 Office 365 中的现有电子数据展示功能为基础构建而成，它使您可以分析大型的非结构化数据集，并减少与法律案件相关的数据量。您可以使用 Office 365 合规性中心的搜索功能执行对组织中所有内容源的初始搜索，以标识并收集可能与特定的法律案件相关的数据。然后可以通过应用高级电子数据展示的文本分析、机器学习和相关性/预测编码功能来分析这些数据。有关详细信息，请参阅 [Office 365 高级电子数据展示](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)。
   
-## <a name="customer-lockbox"></a>客户锁箱
+## <a name="customer-lockbox"></a>客户密码箱
 
 作为 Office 365 管理员，您可以使用客户锁箱来控制 Microsoft 技术支持工程师在帮助会话期间访问您数据的方式。如果工程师需要访问您的数据以进行故障排除和解决问题，那么您可以使用客户锁箱批准或拒绝该访问请求。如果您批准访问请求，工程师就可以访问您的数据。每个请求都有过期时间，一旦问题得以解决，即关闭请求并吊销该访问权限。
   
 客户锁箱包含在 Office 365 Enterprise 5 计划中，或者您可以通过任何其他 Office 365 Enterprise 计划来购买单独的订阅。有关详细信息，请参阅 [Office 365 客户锁箱请求](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
   
-## <a name="advanced-threat-protection"></a>高级威胁防护
+## <a name="advanced-threat-protection"></a>高级强大的威胁保护
 
-Office 365 高级威胁保护帮助保护您的组织免受恶意软件和病毒。ATP 包括[安全链接](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[防钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺骗智能](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。安全链接主动防止用户在邮件中，恶意超链接提供保护，每次单击链接。安全附件可防止未知的恶意软件和病毒，其中 ATP 可以检测到恶意路由所有邮件和附件没有特殊环境的已知的病毒/恶意软件签名。有关 ATP 的详细信息，请参阅[Office 365 高级威胁 Protection Service Description](../office-365-advanced-threat-protection-service-description.md)。
+Office 365 高级威胁防护可帮助您的组织抵御恶意软件和病毒攻击。 ATP 包括[安全链接](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[反网络钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺骗智能](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。 "安全链接"通过在用户每次单击链接时提供保护措施，从而主动保护您的用户免遭邮件中恶意超链接的攻击。 "安全附件"通过将不携带已知病毒/恶意软件签名的所有邮件和附件路由到 ATP 可以检测恶意企图的特殊环境中，从而防止遭受未知恶意软件和病毒的攻击。 有关 ATP 的详细信息, 请参阅[Office 365 高级威胁防护服务说明](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

@@ -1,7 +1,7 @@
 ---
-title: 站点[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: 网站 [ServiceDesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online 是基于 Web 的工具和技术，帮助组织存储、 共享和管理数字信息的集合。构建在 Microsoft SharePoint Server 2013，此托管的服务非常适合处理项目、 在一个中心位置中存储数据和文档和与其他人共享信息。以下网站功能提供了一组完整的组织可用于创建任何类型的网站，以及单个基础结构，可简化网站管理的工具。若要查找更多详细信息，请参阅查找有关 SharePoint Online 内容。
-ms.openlocfilehash: c154bbd75accb312e3415b820b5ed1439f28e7b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下站点功能为您的组织提供整套工具，以便创建任何类型的站点，以及简化站点管理的单个基础结构。 若要查找更多详细信息，请参阅查找有关 SharePoint Online 的内容。
+ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035088"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467879"
 ---
 # <a name="sitesservicedesc"></a>网站 [ServiceDesc]
 
-Microsoft SharePoint Online 是基于 Web 的工具和技术，帮助组织存储、 共享和管理数字信息的集合。构建在 Microsoft SharePoint Server 2013，此托管的服务非常适合处理项目、 在一个中心位置中存储数据和文档和与其他人共享信息。以下网站功能提供了一组完整的组织可用于创建任何类型的网站，以及单个基础结构，可简化网站管理的工具。若要查找的详细的信息，请参阅[查找有关 SharePoint Online 的内容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。
+Microsoft SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下站点功能为您的组织提供整套工具，以便创建任何类型的站点，以及简化站点管理的单个基础结构。 若要查找更多详细信息，请参阅[查找有关 SharePoint Online 的内容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。
   
 ## <a name="cross-browser-support"></a>跨浏览器支持
 <a name="bkmk_CrossBrowserSupport"> </a>
@@ -41,7 +41,7 @@ SharePoint Online 支持几种常用的 Web 浏览器，包括 Internet Explorer
 
 使用站点文件夹，您可以轻松导航到所需内容。通过 OneDrive for Business 中的站点文件夹视图，您可以直接转到所关注 SharePoint 站点的文档库。 
   
-## <a name="governance"></a>控制
+## <a name="governance"></a>治理
 <a name="bkmk_Governance"> </a>
 
 任何站点中非常重要但经常不可见的部分是治理模式，即一组用于确定组成员如何使用 SharePoint 的策略、角色、责任和流程。详细了解 [Best practices for creating and managing team sites](https://go.microsoft.com/fwlink/?LinkId=271050)（有关创建和管理团队网站的最佳做法）。
@@ -86,12 +86,12 @@ SharePoint 权限可灵活配置，允许组织在所需的任何细节层面管
 
 在 SharePoint 中创建新站点时，可先选择站点依据的站点模板。站点模板包含列表、库、页面和其他可满足组织需求的元素或功能。详细了解[自定义团队网站](https://go.microsoft.com/fwlink/?LinkId=271058)。
   
-## <a name="site-themes-change-the-look"></a>网站主题 （更改外观）
+## <a name="site-themes-change-the-look"></a>网站主题 (更改外观)
 <a name="bkmk_Themes"> </a>
 
 您可以快速自定义您的团队站点，以便更加轻松使用和反映您的专业风格和品牌。主题是应用颜色和字体给站点的轻松快速的方式。
   
-## <a name="site-usage-page"></a>网站使用率页
+## <a name="site-usage-page"></a>网站使用情况页
 <a name="bkmk_UsageAnalytics"> </a>
 
 Web 分析报告是 SharePoint 中的预构建报告，使用使用情况数据来分析站点和网站集的各个方面。 
@@ -101,7 +101,7 @@ Web 分析报告是 SharePoint 中的预构建报告，使用使用情况数据�
 
 任务列表用于分层管理工作，在单个列表中显示摘要任务和子任务。任务不仅可以有开始日期和结束日期，还可以分配给组织中的人员，并能包含在示例日程表中。详细了解 [Adding tasks to your project](https://go.microsoft.com/fwlink/?LinkId=271230)（在项目中添加任务）。
   
-## <a name="team-notebook"></a>工作组笔记本
+## <a name="team-notebook"></a>团队笔记本
 <a name="bkmk_TeamSiteNotebook"> </a>
 
 当创建团队站点时，OneNote 2013 共享笔记本将作为站点一部分自动创建。您可以使用此笔记本捕获、编译和共享信息。（该功能仅在您已经使用包含 Office Online 支持的 Office 365 套件登录时可用。）

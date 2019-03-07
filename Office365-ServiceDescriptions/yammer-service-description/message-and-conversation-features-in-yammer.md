@@ -1,7 +1,7 @@
 ---
 title: Yammer 中的邮件和对话功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,23 +13,23 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: 以下邮件和对话功能在 Yammer 中可用。
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035035"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468159"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的邮件和对话功能
 
 以下邮件和对话功能在 Yammer 中可用。
   
-## <a name="publisher"></a>发布程序
+## <a name="publisher"></a>Publisher
 <a name="bkmk_Publisher"> </a>
 
 使用发布程序共享更新、添加文档、发布投票、赞扬某人或发布事件。
   
-## <a name="mention"></a>@ 提及
+## <a name="mention"></a>@Mention
 <a name="bkmk_AtMention"> </a>
 
 通知其他同事并通过 @ 提及他们的名称使其加入某个对话。

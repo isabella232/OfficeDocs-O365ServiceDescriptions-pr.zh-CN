@@ -1,7 +1,7 @@
 ---
 title: 高可用性和业务连续性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的保留和恢复支持。这包括数据中心的邮箱复制以及还原已删除的邮箱和已删除项目的能力。
-ms.openlocfilehash: ec9d598fe2c0af2cc9af9a879c91a99a78baf883
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的保留和恢复支持。 这包括数据中心的邮箱复制，以及恢复已删除邮箱和已删除的邮件。
+ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210225"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466509"
 ---
-# <a name="high-availability-and-business-continuity"></a>高可用性和业务连续性
+# <a name="high-availability-and-business-continuity"></a>High Availability and Business Continuity
 
-Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的保留和恢复支持。这包括数据中心的邮箱复制以及还原已删除的邮箱和已删除项目的能力。
+Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的保留和恢复支持。 这包括数据中心的邮箱复制，以及恢复已删除邮箱和已删除的邮件。
   
 ## <a name="mailbox-replication-at-data-centers"></a>数据中心的邮箱复制
 
@@ -32,7 +32,7 @@ Exchange Online 邮箱不断复制为多个数据库副本，存储在多个地�
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 
-管理员可以通过使用 Microsoft 365 管理中心删除相应的用户帐户或删除 exchange online 许可证, 或使用远程 Windows PowerShell 中的**移除邮箱**cmdlet 删除 exchange online 邮箱。邮箱删除后, 默认情况下, Exchange Online 会将邮箱及其内容保留30天。30天后, 邮箱不可恢复。恢复的邮箱包含在删除时存储在其中的所有数据。管理员可以使用 Microsoft 365 管理中心在保留期内恢复已删除的邮箱。若要恢复已删除的邮箱, 管理员必须还原相应的 Office 365 用户帐户或将 Exchange Online 许可证重新分配给该用户帐户。有关详细信息, 请参阅[Delete or Restore User 邮箱 in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992)。
+管理员可以通过使用 Microsoft 365 管理中心删除相应的用户帐户或删除 exchange online 许可证, 或使用远程 Windows PowerShell 中的**移除邮箱**cmdlet 删除 exchange online 邮箱。 默认情况下，邮箱删除之后，Exchange Online 仍将邮箱及其内容保留 30 天。 30 天后，邮箱不可恢复。 已恢复邮箱包含邮箱删除时存储在其中的所有数据。 管理员可以使用 Microsoft 365 管理中心在保留期内恢复已删除的邮箱。 若要恢复已删除邮箱，管理员必须还原相应的 Office 365 用户帐户，或者将 Exchange Online 许可证重新分配给用户帐户。 有关详细信息，请参阅 [在 Exchange Online 中删除或还原用户邮箱](https://go.microsoft.com/fwlink/p/?LinkId=286992)。
   
 ## <a name="deleted-item-recovery"></a>已删除邮件的恢复
 

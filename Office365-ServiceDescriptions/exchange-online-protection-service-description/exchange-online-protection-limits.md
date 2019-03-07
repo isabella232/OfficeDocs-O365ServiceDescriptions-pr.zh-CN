@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Protection 限制
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Exchange Online Protection 的当前存在以下限制。除非另外指定，是不可配置，这些限制。
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035172"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468139"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
-Exchange Online Protection 的当前存在以下限制。除非另外指定，是不可配置，这些限制。 
+Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。 
   
 > [!TIP]
 > 有关 Exchange Online 中的限制的详细信息，请参阅[Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。传输规则限制也适用于 EOP 独立客户。Exchange Online 的收件人比率和邮件比率限制不适用于 EOP 独立客户。 
@@ -50,7 +50,7 @@ Exchange Online Protection 的当前存在以下限制。除非另外指定，�
 |**功能**|****独立 EOP****|****EOP 功能Exchange Online****|****Exchange 企业版 CAL 带服务****|
 |:-----|:-----|:-----|:-----|
 |域限制  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|邮件大小限制（包括附件）  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|邮件大小限制（包括附件）  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |收件人限制  <br/> |请参阅以上"收件人限制"  <br/> |从托管的邮箱发送时含 500 个收件人；请参阅以上用于其他方案的"收件人限制''  <br/> |请参阅以上"收件人限制"  <br/> |
 |安全发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
 |阻止的发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||

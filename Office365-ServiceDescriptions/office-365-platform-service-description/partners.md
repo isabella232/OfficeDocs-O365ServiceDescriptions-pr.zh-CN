@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 作为授权的 Microsoft 合作伙伴，Microsoft Office 365 为您提供了扩大客户群和与这些客户建立长久业务关系的机会。您收取月费或年费后，您的客户可以使用基于云的服务，这样，他们就不必管理数据备份、服务器硬件和服务器更新。服务是否可用，具体取决于向您授权提供的服务类型。
-ms.openlocfilehash: de56f3f3f890c0015ae823bd78bc0185d065fe9c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035100"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467619"
 ---
 # <a name="partners"></a>合作伙伴
 
@@ -32,11 +32,11 @@ ms.locfileid: "24035100"
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>创建试用邀请和采购订单
 
-您可以创建并发送试用邀请您的客户，以便他们可以通过使用 Office 365 中的**合作伙伴概述**页中试用 Office 365。邀请可以包含一个或多个服务，具体取决于费。如果您正在认证提供委派的管理，您可以将选项添加到试用邀请，允许您管理代表您的客户的帐户。这便于您试用 Office 365 的客户。 
+You can create and send trial invitations to your customers so they can try Office 365 by using the **Partner overview** page in Office 365. The invitation can contain one or more services, depending on the offer. If you're certified to offer delegated administration, you can add an option to the trial invitation that allows you to administer the account on behalf of your customer. This makes it easier for your customer to try Office 365. 
   
 在您向客户发送 Office 365 的试用邀请后，您可以创建和发送为满足客户需求而自定义的采购服务信息，包括特定的服务和客户所需的许可证数量。如果您经过认证，可以提供委派管理功能，则您可以向采购服务中添加选项，以让您代表您的客户管理帐户。
   
-## <a name="provide-delegated-administration"></a>提供委派管理
+## <a name="provide-delegated-administration"></a>是
 
 委派管理功能可让合作伙伴拥有对所有客户服务和订阅的完全管理访问权限。这意味着您可以代表客户执行管理任务（包括设置邮箱、添加或删除用户和组、数据迁移和向 Microsoft 客户服务和支持部门提交服务请求）。委派管理功能专为在 Cloud Essentials、Cloud Accelerate 和 Cloud Deployment 程序中注册的合作伙伴提供。
   

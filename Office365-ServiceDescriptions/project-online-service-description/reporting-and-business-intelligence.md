@@ -1,7 +1,7 @@
 ---
 title: 报告和商务智能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: Project Online 中提供了以下报告和商业智能功能。
-ms.openlocfilehash: eee05d4f12af50e0df090cf21b8bc9f6c73ba7ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035087"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466479"
 ---
-# <a name="reporting-and-business-intelligence"></a>报表和商业智能
+# <a name="reporting-and-business-intelligence"></a>报告和商务智能
 
 Project Online 中提供了以下报告和商业智能功能。
   
@@ -30,7 +30,7 @@ OData 源启用 REST 查询和各种 OData 客户端库，对 Project Web App �
 ## <a name="out-of-the-box-portfolio-dashboards"></a>现成的项目组合仪表板
 <a name="bkmk_OutOfTheBoxPortfolioDashboards"> </a>
 
-丰富、 现成的报告旨在立即有用的许多客户和 web 应用程序还允许您的项目组合仪表板，以帮助满足特定的组织需要的自定义项。选择从多个项目、 任务中，基于资源的报表，包括问题/风险/可交付结果报告，以及多个筛选选项，其中包括按自定义域筛选。只需几次单击中，而不必离开应用程序可以自定义报告。 
+丰富的现成报表便于许多客户立即使用，Web 应用还允许自定义项目组合仪表板，有助于满足特定的组织需求。 可以从各种项目、任务、基于资源的报表（包括问题/风险/可交付结果报表）以及多个筛选选项（包括按自定义字段进行筛选）中进行选择。 不用离开应用，只需单击几下，即可自定义报表。 
   
 ## <a name="project-desktop-reporting"></a>项目桌面报表
 <a name="bkmk_ProjectDesktopReporting"> </a>

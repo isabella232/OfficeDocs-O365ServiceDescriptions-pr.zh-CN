@@ -1,7 +1,7 @@
 ---
 title: Office 365 系统要求
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,16 +14,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 089b3880-9094-4f18-8a56-d91915a2d2d9
-description: 有关 Office 365 的系统要求，每月的基于订阅服务，业务、 教育和政府机构，面向 Office 的系统要求请参阅 office.com 产品网站。
-ms.openlocfilehash: 540d873dc61f97ffb8016c09d8903eaef6fed4a8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 有关 office 365 的系统要求、商业、教育和政府组织的基于每月订阅的服务, 请参阅 office.com products 网站上的 office 系统要求。
+ms.openlocfilehash: c44a9980d00e82464cb3cff9563e7ed794f661f3
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035108"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467169"
 ---
 # <a name="office-365-system-requirements"></a>Office 365 系统要求
 
-有关 Office 365 的系统要求，每月的基于订阅服务，业务、 教育和政府机构，[面向 Office 的系统要求](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409)请参阅[office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)产品网站。 
+有关 office 365 的系统要求、商业、教育和政府组织的基于每月订阅的服务, 请参阅[office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409) products 网站上的[office 系统要求](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409)。 
   
 

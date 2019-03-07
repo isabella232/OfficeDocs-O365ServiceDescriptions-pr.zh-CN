@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Archiving 中的存档功能
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: 以下各节介绍了 Microsoft Exchange Online Archiving 的存档功能。
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215347"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467199"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
-以下各节介绍了 Microsoft Exchange Online Archiving 的存档功能。
+以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
   
 ## <a name="archive-mailbox"></a>存档邮箱
 
@@ -37,7 +37,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>将邮件移动到 Exchange Online Archiving
 
-用户可以拖放邮件从.pst 文件到存档，以便于联机访问。用户还可以移动电子邮件项从主邮箱到存档邮箱自动使用存档策略，以减小大小和提高性能的主邮箱。此行为不同于 Exchange 托管存档，将创建存档中的每封邮件的辅助副本，它时，可以在任一方案中实现保留要求。 
+用户可以将邮件从 .pst 文件拖放到存档中，以便于联机访问。 用户还可以使用存档策略自动将电子邮件项从主邮箱移到存档邮箱中，从而降低主邮箱的大小，并提升主邮箱的性能。 尽管此行为与 Exchange Hosted Archive 为存档中的每封邮件创建辅助副本的行为不同，但两种行为均可达到保留要求。 
   
 ### <a name="import-data-to-the-archive"></a>将数据导入到存档
 
@@ -54,18 +54,18 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
 > [!NOTE]
 > 管理员还可以使用 Office 365 导入服务将 .pst 文件导入用户的基于云的存档邮箱。有关详细信息，请参阅 [Use network upload to import PST files to Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074)（使用网络上载将 PST 文件导入 Office 365）。 
   
-## <a name="deleted-item-recovery"></a>恢复已删除邮件
+## <a name="deleted-item-recovery"></a>已删除邮件的恢复
 
 用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。
   
-已从存档已删除邮件文件夹中删除项目后，项目是保留存档的可恢复项目文件夹中永久删除之前其他 14 天。用户可以恢复使用在 Microsoft Outlook 或 Outlook Web App 中的**恢复已删除邮件**功能这些项目。 
+After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. Users can recover these items using the **Recover Deleted Items** feature in Microsoft Outlook or Outlook Web App. 
   
 如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314155)（为邮箱启用或禁用"单个项目恢复"）。
   
 > [!NOTE]
 >  默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。 >  如果管理员已将用户邮箱置于就地保留或诉讼保留中，那么清除的邮件将无限期保留，14 天期限则不适用。 
   
-## <a name="deleted-mailbox-recovery"></a>恢复已删除邮箱
+## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 
 当管理员将用户从本地 Exchange Server 删除时，也将删除用户的存档。如果需要恢复已删除的存档邮箱，Office 365 支持团队可以执行此恢复。恢复的存档将包含删除时其中存储的所有邮件。
   
@@ -74,7 +74,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
   
 ## <a name="mailbox-service-redundancy"></a>邮箱服务冗余
 
-Exchange Online Archiving 中的存档邮箱被复制到多个数据库副本，在地理上分散 Microsoft 数据中心，以提供数据会消息的基础结构发生故障时还原功能。大型失败次数，启动业务连续性管理。 
+Exchange Online Archiving 中的存档邮箱不断复制为多个数据库副本，存储在多个地理位置分散的 Microsoft 数据中心内，以便在邮件基础结构出现故障的情况下，能够为客户提供数据恢复功能。 对于大规模故障，将会启动业务连续性管理。 
   
 ## <a name="feature-availability"></a>功能可用性
 

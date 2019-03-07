@@ -1,7 +1,7 @@
 ---
 title: 加载项
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint 是基于 Web 的工具和技术，帮助组织存储、 共享和管理数字信息的集合。构建在 Microsoft SharePoint Server 2013，此托管的服务非常适合处理项目、 在一个中心位置中存储数据和文档和与其他人共享信息。Office 365 客户还可以购买 to SharePoint Online 相关联的其他加载项。
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint 是基于 Web 的工具和技术组合，帮助您的组织存储、分享和管理数字信息。 这一构建在 Microsoft SharePoint Server 2013 上的托管服务非常适合处理项目、在中心位置存储数据和文档并与其他人分享信息。 Office 365 客户还可以购买与 SharePoint Online 关联的额外加载项。
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035089"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466399"
 ---
 # <a name="add-ons"></a>加载项
 
-Microsoft SharePoint 是基于 Web 的工具和技术，帮助组织存储、 共享和管理数字信息的集合。构建在 Microsoft SharePoint Server 2013，此托管的服务非常适合处理项目、 在一个中心位置中存储数据和文档和与其他人共享信息。Office 365 客户还可以购买 to SharePoint Online 相关联的其他加载项。
+Microsoft SharePoint 是基于 Web 的工具和技术组合，帮助您的组织存储、分享和管理数字信息。 这一构建在 Microsoft SharePoint Server 2013 上的托管服务非常适合处理项目、在中心位置存储数据和文档并与其他人分享信息。 Office 365 客户还可以购买与 SharePoint Online 关联的额外加载项。
   
-## <a name="additional-storage"></a>其他存储
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 如果需要更多存储，可以以每月每千兆 (GB) 的价格获取。

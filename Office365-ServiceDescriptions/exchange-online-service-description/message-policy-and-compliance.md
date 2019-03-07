@@ -1,7 +1,7 @@
 ---
 title: 邮件策略和合规性
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: fd5062df19298720417566d91667f3c3b237b164
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035224"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467249"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -72,24 +72,24 @@ Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service P
   
 ## <a name="encryption-of-data-at-rest"></a>静态数据的加密
 
-加密的 Office 365 客户静态数据是由提供多个服务端技术，包括 BitLocker、 DKM、 Azure 存储服务加密和服务加密在 Exchange Online、 Skype for Business、 OneDrive for Business 和 SharePoint联机。Office 365 服务加密包括选项，可使用 Azure 键存储库中存储的客户管理加密密钥。此客户托管密钥选项，请调用[Office 365 客户参数](https://go.microsoft.com/fwlink/?linkid=863349)，仅供 Exchange Online、 SharePoint Online 和 OneDrive for Business。 
+Office 365 客户数据的加密由多个服务端技术提供, 其中包括 BitLocker、DKM、Azure 存储服务加密和 Exchange Online 中的服务加密、Skype for business、OneDrive for business 和 SharePoint隐私声明. Office 365 服务加密包含一个选项, 可使用存储在 Azure Key Vault 中的客户托管的加密密钥。 此客户管理的密钥选项称为[Office 365 customer key](https://go.microsoft.com/fwlink/?linkid=863349), 可用于 Exchange online、SharePoint online 和 OneDrive for business。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Office 365 服务器使用 BitLocker 加密磁盘驱动器包含客户数据在 rest 的音量级别。BitLocker 加密是一种 Windows 中内置的数据保护功能。BitLocker 是硬件的用于有停止其他进程或可能会导致物理磁盘包含客户数据访问某人的控件 （例如，访问控制或回收） 的情况下保护抵御威胁的技术之一。在这种情况下，BitLocker 消除数据盗窃或暴露可能由于丢失、 盗取或配置取消不当计算机和磁盘。 
+Office 365 服务器使用 BitLocker 在卷级别加密包含客户数据的磁盘驱动器。 BitLocker 加密是 Windows 中内置的数据保护功能。 BitLocker 是一种用于预防威胁的技术, 以防发生其他进程或控件 (例如, 对硬件的访问控制或回收) 发生时出现的情况, 从而导致某人能够物理访问包含客户数据的磁盘。 在这种情况下, BitLocker 可消除因丢失、被盗或取消授权不当的计算机和磁盘而导致数据失窃或泄露的可能性。 
   
 ### <a name="distributed-key-manager"></a>分布式密钥管理器
 
-除了 BitLocker，我们使用称为分布式密钥管理器 (DKM) 的技术。DKM 是使用一的机密密钥加密和解密信息的客户端的功能。只有在 Active Directory 域服务中的特定安全组的成员可以访问这些键来解密按 DKM 加密的数据。在 Exchange Online 中，某些 Exchange 进程所运行的服务帐户是该安全组的一部分。作为数据中心中的标准操作过程的一部分，没有人授予属于该安全组的凭据，因此没有人有权访问可以解密这些机密的键。
+除了 BitLocker 之外, 我们还使用一种称为 "分布式密钥管理器" (DKM) 的技术。 DKM 是一种客户端功能, 它使用一组密钥对信息进行加密和解密。 只有 Active Directory 域服务中特定安全组的成员才能访问这些密钥以解密由 DKM 加密的数据。 在 exchange Online 中, 仅在运行 exchange 进程的特定服务帐户是该安全组的一部分。 作为数据中心中的标准操作过程的一部分, 将不会向任何人提供属于此安全组的凭据, 因此没有人能够访问可以解密这些机密的密钥。
   
 ## <a name="customer-key"></a>客户密钥
 
-与客户参数，您将控制组织的加密密钥，然后配置 Office 365 使用它们在 Microsoft 数据中心中的 rest 数据进行加密。静态数据包括 Exchange Online 和 Skype for Business 内的邮箱和 SharePoint Online 中存储的文件中存储和 OneDrive for Business 中的数据。有关详细信息，请参阅[控制您使用客户密钥的 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=863349)和[服务与 Office 365 常见问题客户密钥的加密](https://go.microsoft.com/fwlink/?linkid=869438)。
+使用 "客户密钥", 可以控制组织的加密密钥, 然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange online 和 Skype for business 的数据, 这些数据存储在存储在 SharePoint online 和 OneDrive for business 中的邮箱和文件中。 有关详细信息, 请参阅[使用客户密钥和服务加密在 office 365 中控制您的数据](https://go.microsoft.com/fwlink/?linkid=863349),[了解 office 365 常见问题解答](https://go.microsoft.com/fwlink/?linkid=869438)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Office 365 邮件加密允许任何人发送加密的电子邮件的电子邮件用户。我们宣布 Office 邮件加密的利用中 Azure 信息加密的保护功能的新功能。这些新功能提供增强更加轻松地共享与协作受保护的邮件与任何人组织内外的最终用户体验。新 Office 邮件加密功能具有一些安装要求。请参阅 Set up 内置到 Azure 信息保护顶部的新 Office 365 邮件加密功能。在旧的 Office 365 邮件加密的客户不不关注上面提供的指南设置获得的新功能。请阅读[常见问题](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)的更多详细信息在新旧的 Office 365 邮件加密功能与包括的内容。 
+Office 365 邮件加密允许电子邮件用户将加密的电子邮件发送给任何人。 我们宣布了 Office 邮件加密中的新功能, 这些功能利用了 Azure 信息加密中的保护功能。 这些新功能提供了增强的最终用户体验, 使您可以更轻松地与组织内部或外部的任何人共享和协作处理受保护的邮件。 新的 Office 邮件加密功能具有一些设置要求。 请参阅设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能。 旧版 Office 365 邮件加密的客户不会获得上述新功能, 而无需遵循上面提供的指导。 请阅读[FAQ](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) , 了解新的与旧版本的 Office 365 邮件加密功能中包含的内容的详细信息。 
   
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>安全/多用途 Internet 邮件扩展 (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -156,7 +156,7 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 ## <a name="mail-flow-rules"></a>邮件流规则
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-邮件流规则可用于查找在通过您的组织和对其进行操作的消息的特定条件。邮件流规则，让您应用以电子邮件、 邮件安全、 保护消息系统和防止信息泄露的邮件策略。
+您可以使用邮件流规则来查找通过组织传递的邮件的特定条件并对其进行操作。 邮件流规则允许您对电子邮件应用邮件策略、保护邮件安全、保护邮件系统, 并防止信息泄露。
   
 当今，法律、法规或公司政策要求许多组织应用邮件策略，以便限制组织内部和外部的收件人和发件人之间的交互。除了对个人、组织内部的部门小组以及组织外部的实体之间的交互进行限制以外，某些组织还要满足下列邮件策略要求：
   
@@ -171,11 +171,11 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 - 对通过组织的邮件应用免责声明
     
 > [!IMPORTANT]
-> 需要使用之前的邮件流规则，安装相应 iFilter 后无法检查的第三方 Ifilter （如 Adobe.pdf) 的电子邮件服务器上安装的附件文件类型。有关支持的邮件流规则文件类型的详细信息，请参阅[Use 邮件流 rules to inspect message attachments 位于 Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748)。 
+> 需要在电子邮件服务器上安装第三方 ifilter 的附件文件类型 (如 Adobe .pdf) 无法使用邮件流规则进行检查, 直到安装了相应的 iFilter。 有关邮件流规则支持的文件类型的详细信息, 请参阅[使用邮件流规则检查 Office 365 中的邮件附件](https://go.microsoft.com/fwlink/p/?LinkId=271748)。 
   
-有关邮件流规则的详细信息，请参阅[邮件的流规则在 Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488)。
+有关邮件流规则的详细信息, 请参阅[Exchange 2016 中的邮件流规则](https://go.microsoft.com/fwlink/p/?LinkId=296488)。
   
-## <a name="data-loss-prevention"></a>数据丢失预防
+## <a name="data-loss-prevention"></a>数据丢失防护
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 防止数据丢失 (DLP) 功能可帮助您通过深入的内容分析标识、监控和保护您组织中的敏感信息。DLP 是一项对于企业邮件系统而言越来越重要的高级功能，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。Exchange Online 中的 DLP 功能可让您保护敏感数据，而不会影响工作人员的生产率。
@@ -190,7 +190,7 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
     
 - 整合您自己的自定义 DLP 策略模板和敏感的信息类型。
     
-- 检测邮件附件、 正文文本或主题行中的敏感信息，然后调整的 Exchange Online 操作的信任级别。
+- 检测邮件附件、正文文本或主题行中的敏感信息, 并调整 Exchange Online 的行为可信度。
     
 - 通过使用文档指纹检测敏感型数据。文档指纹可以帮助您基于文本形式（您可以用其定义传输规则和 DLP 策略）轻松地创建自定义敏感信息类型。
     
@@ -207,7 +207,7 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
   
 您可以使用 Exchange 管理中心或远程 Windows PowerShell 管理日记规则。您可以按用户和通讯组列表来配置日记，并选择仅记录内部邮件日记、仅记录外部邮件日记或这两者。日记邮件不仅包含原始邮件，还包含有关发件人、收件人、副本和密送副本的信息。
   
-若要确保成功和可靠的日记解决方案，您需要完成以下任务：
+若要确保成功且可靠的日记解决方案, 需要完成以下任务:
   
 - 请确保日记目标不是 Exchange Online 邮箱。
     
@@ -215,7 +215,7 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
     
 - 将第二个联系人对象创建为备用日记邮箱，用于在主日记邮箱不可用时捕获任何日记报告。
     
-- 维护正确管理、 冗余、 可用性、 性能和 SMTP 目标，以确保始终接收成功的邮件的功能级别。
+- 维护 SMTP 目标的正确管理、冗余、可用性、性能和功能级别, 以确保始终成功地接受邮件。
     
 - 提供与 Exchange Server 和 Exchange 传输的具体互操作性，包括邮件格式、发件人/收件人信息集成和正确的内容转换。
     
