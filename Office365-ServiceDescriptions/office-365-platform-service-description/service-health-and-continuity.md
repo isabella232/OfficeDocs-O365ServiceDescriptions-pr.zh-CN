@@ -3,7 +3,7 @@ title: 服务运行状况和连续性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466949"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574136"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -40,7 +40,25 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 - **计划的维护事件:** 计划内维护是对基础结构和软件应用程序的定期 Microsoft 启动的服务更新。 计划内维护通知通知客户可能会影响 Office 365 服务功能的服务工作。 通过 Office 365 管理门户上的消息中心在所有计划维护之前的时间内, 客户收到的通知不会超过五天。 Microsoft 通常会在服务使用情况在其基于区域时间区域的最低阶段时规划维护时间。 
     
 - **非计划的停机时间：** 当 Office 365 套件中的一项服务不可用或不响应时，发生非计划的服务事件。 
-    
+
+### <a name="recent-worldwide-uptimes"></a>最近的全球保障
+
+移动到云服务并不意味着能够知道即将发生的情况。 在 Office 365 中, 它不会。 我们在操作中的目标是透明的, 因此您可以监视服务的状态, 跟踪问题, 并提供可用性的历史视图。 下表显示了最近的全球正常运行时间数据。
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
+| 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
+| 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
 ## <a name="notification-policy"></a>通知策略
 
 当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新 office 365 管理门户上特定于租户的服务运行状况仪表板 (SHD) 来通知 office 365 管理员。 服务事件更新在每小时节奏上提供, 如果需要不同的节奏, 则会在 SHD 通信发布中进行说明。 
