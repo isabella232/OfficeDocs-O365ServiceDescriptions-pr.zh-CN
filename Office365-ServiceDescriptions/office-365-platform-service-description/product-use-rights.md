@@ -3,7 +3,7 @@ title: 产品使用权限
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +12,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: db1bb3de9f577b896f916b1055d3de24bc009b25
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467478"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30668967"
 ---
 # <a name="product-use-rights"></a>产品使用权限
 
 ## <a name="microsoft-online-services-use-rights"></a>Microsoft Online Services 使用权限
 
-如果遵守 Microsoft 在线订阅协议，可以使用 [Microsoft Online Services 使用权限](https://www.microsoft.com/licensing/products/products.aspx)下明确允许的联机服务和相关软件。
+如果遵守 Microsoft 在线订阅协议，可以使用 [Microsoft Online Services 使用权限](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)下明确允许的联机服务和相关软件。
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>由世纪互联运营的 Office 365 使用权限
 
