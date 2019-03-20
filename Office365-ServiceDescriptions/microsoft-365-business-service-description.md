@@ -3,7 +3,7 @@ title: Microsoft 365 业务服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 office 365 的详细信息, 请参阅 office 365 服务说明。
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467939"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641477"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 业务服务说明
 
@@ -85,7 +85,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |就地保留和诉讼保留  <br/> |否  <br/> |是  <br/> |
 |就地电子数据展示  <br/> |是  <br/> |是  <br/> |
 |传输规则  <br/> |是  <br/> |是  <br/> |
-|数据丢失预防  <br/> |否  <br/> |是 <br/> |
+|数据丢失预防  <br/> |否  <br/> |可访问 <br/> |
 |[隐私、安全性和透明度](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |
 |内置反垃圾邮件保护  <br/> |是  <br/> |是  <br/> |
 |内置反恶意软件保护  <br/> |是  <br/> |是  <br/> |
@@ -132,11 +132,11 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级威胁分析  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**设备和应用程序管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全 E3** <br/> |
-|移动设备管理 (MDM)<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|移动设备管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |移动设备管理 (MDM) 自动注册  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|适用于 Office 应用和 LOB 应用程序的移动应用管理 (MAM)<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
+|适用于 Office 应用和 LOB 应用程序的移动应用管理 (MAM)<sup>17</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows update management、Defender、防火墙策略<sup>15</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|数据保护-选择性擦除  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|数据保护-选择性擦除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |为策略设定的安全组 (SG)  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |在已注册的 Windows 10 设备上安装 Office 应用  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |Windows Defender 配置  <br/> |否  <br/> |是  <br/> |是  <br/> |
@@ -173,6 +173,8 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 <br/><sup>10</sup>减少随术语折扣购买的座位可能受提前终止费用的制约。 这不适用于按月支付的订阅。 
 <br/><sup>11</sup> Microsoft 365 商业版包括 Exchange Online 存档订阅。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=863320)（Office 365 中的无限制存档概述）。 
 <br/><sup>12</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=863349)。 
-<br/><sup>13</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=863490)。
-<br/><sup>15</sup>简化了 Windows 10 设备管理, 内置在 Microsoft 365 商业版控制台中。 适用于 iOS、Android、MacOS 和其他跨平台设备管理的完整 Intune 功能, 这些功能内置于 Azure 控制台中, 也可与 Microsoft 365 商业版配合使用。 可以在完整的 Intune 控制台中管理第三方应用和配置 (如 WiFi 配置文件、VPN 证书等) 的内容。 <br/>
-<sup>16</sup>此计划来自 Microsoft Stream plan 2, 其中包括视频门户、语音到文本对话、深度搜索和面孔检测。
+<br/><sup>13</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。
+<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=863490)。
+<br/><sup>15</sup>简化了 Windows 10 设备管理, 内置在 Microsoft 365 管理中心。 "设备管理" 管理中心中内置的 iOS、Android、macOS 和其他跨平台设备管理的 Intune 管理功能, 也授权用于 Microsoft 365 商业版。 此外, 还可以在设备管理管理中心内管理与 WiFi 配置文件和 VPN 证书等内容的第三方应用程序和配置。 
+<br/><sup>16</sup>此计划来自 Microsoft Stream plan 2, 其中包括视频门户、语音到文本对话、深度搜索和面孔检测。
+<br/><sup>17</sup>个简化的 Windows 10 设备管理和 Intune 应用保护策略内置在 Microsoft 365 管理中心中。

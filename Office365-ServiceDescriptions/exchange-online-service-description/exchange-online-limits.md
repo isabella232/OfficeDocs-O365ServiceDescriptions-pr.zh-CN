@@ -3,7 +3,7 @@ title: Exchange Online 限制
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/21/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467679"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641467"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -269,14 +269,14 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件大小限制 - Outlook  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
 |邮件大小限制 - OWA  <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |
 |邮件大小限制 - Outlook for Mac  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
-|邮件大小限制 - 迁移  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
-|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup> <br/> |150 MB   <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|邮件大小限制 - 迁移  <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |150 MB <sup>1、4</sup> <br/> |
+|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）<sup>5</sup> <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB   <br/> |25 MB  <br/> |
 |主题长度限制  <br/> |255 个字符  <br/> |255 个字符  <br/> |255 个字符  <br/> |255 个字符  <br/> |255 个字符  <br/> |255 个字符  <br/> |
 |文件附件限制  <br/> |250 个附件  <br/> |250 个附件  <br/> |250 个附件  <br/> |250 个附件  <br/> |250 个附件  <br/> |250 个附件  <br/> |
 |文件附件大小限制 - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |文件附件大小限制 - OWA<sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|文件附件大小限制 - Outlook for Mac  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|文件附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |多部分邮件限制  <br/> |250 个部分  <br/> |250 个部分  <br/> |250 个部分  <br/> |250 个部分  <br/> |250 个部分  <br/> |250 个部分  <br/> |
 |邮件嵌入深度限制  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |
    
@@ -416,8 +416,8 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
 |限制向大型通讯组发送邮件  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |
-|5000到100000个成员的通讯组的最大邮件大小  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
-|包含100000或更多成员的通讯组的最大邮件大小  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
+|5000到99999个成员的通讯组的最大邮件大小  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|包含100000个成员的通讯组的最大邮件大小  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
 |通讯组所有者的最大数量  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |用户可创建的组的最大数目  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
