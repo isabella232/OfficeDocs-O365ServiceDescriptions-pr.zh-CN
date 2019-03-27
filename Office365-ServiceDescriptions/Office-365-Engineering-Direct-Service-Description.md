@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 工程直销是一种企业级支持服务, 可为 Microsoft Premier 支持协议添加。 Office 365 工程直接服务说明包含有关提供的功能和实现要求的其他信息。
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467889"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867918"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直接服务说明
 
-Office 365 工程直销是一种企业级支持服务, 可为 Microsoft Premier 支持协议添加。 [Office 365 工程直接服务说明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf)包含有关提供的功能和实现要求的其他信息。
+Office 365 工程直销是一种企业级支持服务, 可为 Microsoft Premier 支持协议添加。 [Office 365 工程直接服务说明](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf)包含有关提供的功能和实现要求的其他信息。
 
 若要获取作为新客户的 Office 365 工程设计的直接服务, 您的组织必须订阅 Microsoft Premier Support 产品、满足 Office 365 服务的大型企业分类级别, 并执行支持合同附录。 将应用添加的服务套件的补充成本。 请联系你的 Microsoft 帐户团队代表以确认你的支持合同状态, 并启动任何合同更改以保护支持服务。 
 
