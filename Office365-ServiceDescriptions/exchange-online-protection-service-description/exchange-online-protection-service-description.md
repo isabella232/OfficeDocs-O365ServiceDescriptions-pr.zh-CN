@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。其中包括提供 Exchange Online Protection 的计划列表以及所有计划的功能比较。
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467669"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955761"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -90,11 +90,11 @@ EOP 可与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server 2013）
 |[邮件收件人](recipient-domain-and-company-management.md#mail-recipients) <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[管理员角色组权限](recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
 |[域管理](recipient-domain-and-company-management.md#domain-management) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|[匹配子域](recipient-domain-and-company-management.md#match-subdomains) <br/> |是  <br/> |可访问  <br/> |否  <br/> |
+|[匹配子域](recipient-domain-and-company-management.md#match-subdomains) <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[基于目录的边缘阻止 (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[传输规则](messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |是<sup>3、4、14</sup> <br/> |是<sup>3、4、14</sup> <br/> |是  <br/> |
 |[审核日志记录](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |
-|[数据丢失防护 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |否  <br/> |是  <br/> |是<sup>6</sup> <br/> |
+|[数据丢失防护 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |否  <br/> |可访问  <br/> |是<sup>6</sup> <br/> |
 |[Office 365 邮件加密](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |是<sup>12</sup> <br/> |是  <br/> |是<sup>12</sup> <br/> |
 |[反垃圾邮件保护](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)（内置）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[自定义反垃圾邮件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |是<sup>7</sup> <br/> |是  <br/> |是  <br/> |
@@ -109,11 +109,11 @@ EOP 可与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server 2013）
 |[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[有条件的邮件路由](mail-flow-eop.md#conditional-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[混合邮件路由](mail-flow-eop.md#hybrid-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Microsoft 365 管理中心报告](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>9、10</sup> <br/> |
+|[Microsoft 365 管理中心报告](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>9、10</sup> <br/> |
 |[Excel 下载应用程序报告](reporting-and-message-trace.md#excel-download-application-reports) <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
 |[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |是  <br/> |是  <br/> |
 |[邮件跟踪](reporting-and-message-trace.md#message-trace) <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |
-|[访问 Microsoft 365 管理中心](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[访问 Microsoft 365 管理中心](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[对 Exchange 管理中心的访问权限](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[远程 Windows PowerShell 访问](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
    

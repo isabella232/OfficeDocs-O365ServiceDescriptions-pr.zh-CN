@@ -3,7 +3,7 @@ title: Office 365 高级威胁防护服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/20/2019
+ms.date: 03/28/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
-ms.openlocfilehash: 4bdd657ba517db072cf73a5e313d93ce2805b7b3
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: e07691851cdad9bce3f2989e2e6f1665569ec2b5
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468039"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955751"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -70,13 +70,13 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 |功能更新  |交办事项  |
 |---------|---------|
-|从2019年2月开始, 在接下来的几个月中推出, 将[威胁智能](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)功能添加到 ATP。 <br>如果您的组织当前没有 ATP, 则需要考虑新的选项, 包括 atp 计划1和 atp 计划2。 <br>若要了解详细信息, 请参阅[跨高级威胁防护 (ATP) 计划](#feature-availability-across-advanced-threat-protection-atp-plans)(本文中) 和[Office 365 高级威胁防护计划和定价](https://products.office.com/exchange/advance-threat-protection)的功能可用性。 |查看组织的订阅, 如果需要, 请[购买或编辑加载](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)项。  |
-|从10月2018开始, 在接下来的几个月中开始, 当用户使用 outlook 或 Outlook Web 应用程序 (OWA) 时, [ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)将呈现原始 url, 而不是重写的 url。 (我们称之为本机链接呈现。)<br>当您的组织提供本机链接呈现时, 此功能将在 Outlook 365 (即点即用) 和 OWA 中运行。|None         |
-|从9月2018日起开始, [Office 365 ATP 警告页面](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages)可提供新的配色方案、更多详细信息和继续转到网站的功能, 尽管有警告和建议。 |None         |
-|从2018的下半年开始, 将[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于 office Online (Word Online、Excel Online、PowerPoint online 和 OneNote online) 中的 url 和 Mac 上的 office 365 专业增强版。   |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
-|从后期开始可能为 2018, 安全&amp;合规中心中的隔离功能将扩展到[SharePoint Online、OneDrive for business 和 Microsoft 团队的 ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)。 |[查看和编辑 ATP 安全附件策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
-|从2018年3月起, 将对[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护进行扩展, 以应用于在组织内的人员之间发送的电子邮件。 |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
-|2006年10月2017日开始, 将[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为应用于电子邮件中的 url 以及 office 365 专业增强版文档 (如 Word、Excel、PowerPoint 和 Visio on Windows) 中的 url, 以及 iOS 和 Android 设备上的 office 应用。  |确保您正在使用[Office 的新式验证](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
+|[Office 365 威胁智能](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(TI) 功能现已成为 ATP 计划2的一部分的威胁调查和响应功能。 推出了新功能, 如[自动调查和响应](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), 以及[威胁 Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)的增强功能。<br/>如果你的组织当前没有 atp, 或者如果你有 atp 而不是 TI, 则你现在有几个选项需要考虑, 并且 atp 计划1和 atp 计划2的可用性。 若要了解详细信息, 请参阅[跨高级威胁防护 (ATP) 计划](#feature-availability-across-advanced-threat-protection-atp-plans)(本文中) 和[Office 365 高级威胁防护计划和定价](https://products.office.com/exchange/advance-threat-protection)的功能可用性。 |查看组织的订阅, 如果需要, 请[购买或编辑加载](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)项。  |
+|当用户使用 outlook 或 outlook Web 应用程序 (OWA) 时, [ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)将呈现原始 url, 而不是重写的 url。 (我们称之为本机链接呈现。)<br>当您的组织提供本机链接呈现时, 此功能将在 Outlook 365 (即点即用)、OWA 以及 Windows 和 Mac OS 中运行。 |无         |
+|[Office 365 ATP 警告页面](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages)功能提供了新的配色方案、更多详细信息和继续转到网站的功能, 尽管有警告和建议。 |无         |
+|[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于 office Online (Word Online、Excel Online、PowerPoint online 和 OneNote online) 中的 url 和 Mac 上的 office 365 专业增强版。   |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
+|安全&amp;合规中心中的隔离功能扩展到[SharePoint Online、OneDrive for business 和 Microsoft 团队的 ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)。 |[查看和编辑 ATP 安全附件策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
+|[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于在组织内的人员之间发送的电子邮件。 |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
+|[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为应用于电子邮件中的 url 以及 office 365 专业增强版文档中的 url, 如 Word、Excel、PowerPoint 和 Visio on Windows, 以及 iOS 和 Android 设备上的 Office 应用程序。  |确保您正在使用[Office 的新式验证](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
 
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护 (ATP) 的要求
@@ -99,7 +99,7 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
 |*自动化、调查、修正和教育* |
 |威胁跟踪器 |否 |是 |是 |
 |资源管理器 (高级威胁调查) |否 |是 |是 |
-|自动化调查和响应  |否 |是 |是 |
+|自动调查和响应  |否 |是 |是 |
 |攻击模拟器 |否 |是 |是 |
 
    
