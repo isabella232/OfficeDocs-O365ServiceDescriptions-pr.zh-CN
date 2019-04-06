@@ -3,7 +3,7 @@ title: Office 365 高级威胁防护服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/28/2019
+ms.date: 04/04/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
-ms.openlocfilehash: e07691851cdad9bce3f2989e2e6f1665569ec2b5
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
+ms.sourcegitcommit: 5fabae12930bc8d815cdbb3af9d36af4be7c6c53
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955751"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31479740"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -62,7 +62,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
     
 若要购买 office 365 高级威胁防护, 请参阅[office 365 高级威胁防护](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨计划比较功能, 请参阅[比较 Office 365 for Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)和[发现适合你的 Microsoft 365 企业解决方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护 (ATP) 的新增功能
 
@@ -70,7 +70,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 |功能更新  |交办事项  |
 |---------|---------|
-|[Office 365 威胁智能](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(TI) 功能现已成为 ATP 计划2的一部分的威胁调查和响应功能。 推出了新功能, 如[自动调查和响应](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), 以及[威胁 Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)的增强功能。<br/>如果你的组织当前没有 atp, 或者如果你有 atp 而不是 TI, 则你现在有几个选项需要考虑, 并且 atp 计划1和 atp 计划2的可用性。 若要了解详细信息, 请参阅[跨高级威胁防护 (ATP) 计划](#feature-availability-across-advanced-threat-protection-atp-plans)(本文中) 和[Office 365 高级威胁防护计划和定价](https://products.office.com/exchange/advance-threat-protection)的功能可用性。 |查看组织的订阅, 如果需要, 请[购买或编辑加载](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)项。  |
+|[Office 365 威胁智能](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(TI) 功能现已成为 ATP 计划2的一部分的威胁调查和响应功能。 推出了新功能, 如[自动调查和响应](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), 以及[威胁 Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)的增强功能。<br/><br/>如果你的组织当前没有 atp, 或者如果你有 atp 而不是 TI, 则你现在有几个选项需要考虑, 并且 atp 计划1和 atp 计划2的可用性。 若要了解详细信息, 请参阅[跨高级威胁防护 (ATP) 计划](#feature-availability-across-advanced-threat-protection-atp-plans)(本文中) 和[Office 365 高级威胁防护计划和定价](https://products.office.com/exchange/advance-threat-protection)的功能可用性。 |查看组织的订阅, 如果需要, 请[购买或编辑加载](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)项。  |
 |当用户使用 outlook 或 outlook Web 应用程序 (OWA) 时, [ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)将呈现原始 url, 而不是重写的 url。 (我们称之为本机链接呈现。)<br>当您的组织提供本机链接呈现时, 此功能将在 Outlook 365 (即点即用)、OWA 以及 Windows 和 Mac OS 中运行。 |无         |
 |[Office 365 ATP 警告页面](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages)功能提供了新的配色方案、更多详细信息和继续转到网站的功能, 尽管有警告和建议。 |无         |
 |[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于 office Online (Word Online、Excel Online、PowerPoint online 和 OneNote online) 中的 url 和 Mac 上的 office 365 专业增强版。   |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
@@ -85,7 +85,7 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>跨高级威胁防护 (ATP) 计划的功能可用性
 
-下面列出了每个功能。当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。
+下面列出了每个功能。 当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。
   
 |**功能**|**ATP 计划1**<br>(以前的 ATP 独立)|**ATP 计划2**<br>(以前称为威胁智能 <br>独立主机 | Office 365 企业版 E5| 
 |:-----|:-----|:-----|:-----|
@@ -108,6 +108,9 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
 ### <a name="safe-attachments"></a>安全附件
 
 [ATP 安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)针对未知恶意软件和病毒提供保护, 并提供为期零天的保护, 以保护您的邮件系统。 所有不带有已知的病毒/恶意软件签名的邮件和附件都被路由到一个特殊的环境中，ATP 将在其中使用多种机器学习和分析技术来检测恶意企图。 如果没有检测到可疑的活动，会发布邮件并传递到邮箱中。 
+
+> [!NOTE]
+> ATP 安全附件扫描发生在 Office 365 数据所在的同一个区域中。 有关数据中心地理位置的详细信息, 请参阅[您的数据位于何处？](https://products.office.com/where-is-your-data-located?geo=All) 
 
 ### <a name="safe-links"></a>安全链接
 
