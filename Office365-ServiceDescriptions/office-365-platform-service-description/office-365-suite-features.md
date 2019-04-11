@@ -3,7 +3,7 @@ title: Office 365 套件功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合, 可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466939"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764830"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -97,12 +97,14 @@ Office 365 中的组将用户与同事、他们处理更多任务所需的信息
 Office 365 视频是全公司范围内的安全目标，可供跨设备上载、共享和发现视频，由 Microsoft Azure 媒体服务提供技术支持。Office 365 视频可帮助查看者参与其中且随时掌握最新资讯，从而广泛传播思想，并帮助组织保持一致。若要了解详细信息，请参阅 [Introducing Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/)（Office 365 视频简介）。
   
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
-<a name="BKMK_Video"> </a>
 
 课堂笔记本是 OneNote 的一部分, 可用于 office 365 教育版和 office 365 E5 教育版。 每个笔记本都包含用于教师共享课程内容的内容库、教师和学生可以协同工作的协作空间, 以及每个学生的专用笔记本。 创建课堂笔记本后, 教师和学生可以使用 OneNote 应用从任何设备访问它。
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+microsoft Kaizala 是一种简单且安全的移动工作管理应用程序, 它为 Microsoft 365 提供了独特的功能, 并能够在组织的目录内和外部的人员之间进行连接和接洽 (包括合同工作人员、供应商合作伙伴、供应商、客户和公民–使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的开放目录模型支持基于电话号码的标识, 以便于进行轻松加入, 并提供了简单的用户体验, 用于邮件和工作管理。 Kaizala 移动应用程序使用户能够发送即时消息和附件 (如图片、文档、视频、audios 等), 以及使用用于调查、投票、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) , 适用于 iPhone 和 Android。 若要了解详细信息, 请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
   
 ## <a name="feature-availability"></a>功能可用性
-<a name="BKMK_Video"> </a>
 
 若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
   

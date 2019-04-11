@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467739"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764850"
 ---
 # <a name="user-account-management"></a>用户帐户管理
 
@@ -55,7 +55,7 @@ Office 365 具有两个可用于用户标识的系统：
   
 您可以在 Office 365 中托管最多 900 个注册的 Internet 域，每个域均以不同的命名空间表示。 
   
-对于使用单点登录的组织，同一域中的所有用户都必须使用相同的身份系统：云身份或联合身份。例如，您的一个用户组可以仅需要一个云身份，因为他们无需访问内部部署系统，同时另一个用户组使用 Office 365 和内部部署系统。您可以向 Office 365 添加两个域（如 contractors.contoso.com 和 staff.contoso.com），并仅为其中一个域设置 SSO。整个域可以从云身份转换为联合身份，也可以从联合身份转换为云身份。
+对于使用单点登录的组织，同一域中的所有用户都必须使用相同的身份系统：云身份或联合身份。 例如，您的一个用户组可以仅需要一个云身份，因为他们无需访问内部部署系统，同时另一个用户组使用 Office 365 和内部部署系统。 将两个域添加到 Office 365, 如 contractors.contoso.com 和 staff.contoso.com, 并且只为其中一个域设置 SSO。 整个域可以从云身份转换为联合身份，也可以从联合身份转换为云身份。
   
 有关 Office 365 中的域的详细信息，请参阅[域](domains.md)服务说明。 
   
@@ -71,13 +71,13 @@ Office 365 具有两个可用于用户标识的系统：
     
 - **云身份身份验证** 具有云身份的用户将使用传统挑战/回复进行身份验证。Web 浏览器被重定向到 Office 365 登录服务，您需要键入工作或学校帐户的用户名和密码。登录服务将对您的凭据进行身份验证并生成服务令牌，以便 Web 浏览器发送到请求的服务并登录。 
     
-- **联合身份验证** 具有联合身份的用户将使用 Active Directory 联合身份验证服务 (AD FS) 2.0 或其他安全令牌服务进行身份验证。Web 浏览器重定向到 Office 365 登录服务，以便你可以在窗体中键入公司 ID 和用户主体名称（UPN；例如，isabel@contoso.com）。登录服务会确定你是否属于联盟域，并建议将你重定向到本地联合服务器进行身份验证。如果已登录桌面（域加入），则已经过身份验证（使用 Kerberos 或 NTLMv2），同时本地安全令牌服务会生成登录令牌，Web 浏览器会发布给 Office 365 登录服务。使用登录令牌，登录服务会生成 Web 浏览器发布给请求的服务的服务令牌，并将你登入。有关可用安全令牌服务的列表，请参阅 [单一登录路线图](https://go.microsoft.com/fwlink/p/?LinkID=270015)。
+- **联合身份验证** 具有联合身份的用户将使用 Active Directory 联合身份验证服务 (AD FS) 2.0 或其他安全令牌服务进行身份验证。 web 浏览器会重定向到 Office 365 登录服务, 在此服务中, 可在表单中键入用户主体名称 (UPN; 例如isabel@contoso.com) 形式的公司 ID。 登录服务会确定你是否属于联盟域，并建议将你重定向到本地联合服务器进行身份验证。 如果已登录桌面（域加入），则已经过身份验证（使用 Kerberos 或 NTLMv2），同时本地安全令牌服务会生成登录令牌，Web 浏览器会发布给 Office 365 登录服务。 使用登录令牌，登录服务会生成 Web 浏览器发布给请求的服务的服务令牌，并将你登入。 有关可用安全令牌服务的列表，请参阅 [单一登录路线图](https://go.microsoft.com/fwlink/p/?LinkID=270015)。
     
 Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 TLS/SSL 加密通过网络的身份验证流量。身份验证流量占用 Office 365 服务的可以忽略的带宽百分比。 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>适用于 Office 365 的 Multi-Factor Authentication
 
-使用 Office 365 多重身份验证\*，用户必须在正确输入密码后确认智能电话上的电话联络、短信或应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Office 365 管理员可以在 Microsoft 365 管理中心内为用户注册多重身份验证。 详细了解 [Office 365 多重身份验证](https://go.microsoft.com/fwlink/p/?LinkId=392429)。
+对于 Office 365 的多重身份验证, 用户在正确输入密码后需要确认电话呼叫、短信或智能手机上的应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Office 365 管理员可以在 Microsoft 365 管理中心内为用户注册多重身份验证。 详细了解 [Office 365 多重身份验证](https://go.microsoft.com/fwlink/p/?LinkId=392429)。
   
 ### <a name="rich-client-authentication"></a>富客户端身份验证
 
@@ -175,7 +175,7 @@ Office 365 企业版采用基于角色的访问控制 (RBAC) 模型：权限和�
   
 ## <a name="delegated-administration-and-support-for-partners"></a>合作伙伴的委派管理和支持
 
-可以授权合作伙伴代表客户管理帐户。当授予委派管理权限时，客户既不需要提供用户帐户给合作伙伴，也不需要使用 Office 365 许可证。合作伙伴可以向其组织内的用户分配完整或受限访问权限。受限访问权限包括重置密码、管理服务请求和监视服务运行状况。有关详细信息，请参阅 [Add or delete a delegated admin](https://go.microsoft.com/fwlink/p/?LinkID=270055)（添加或删除委派管理员）。
+可以授权合作伙伴代表客户管理帐户。 当授予委派管理权限时，客户既不需要提供用户帐户给合作伙伴，也不需要使用 Office 365 许可证。 合作伙伴可以向其组织内的用户分配完整或受限访问权限。 受限访问权限包括重置密码、管理服务请求和监视服务运行状况。 
   
 > [!NOTE]
 > 将合作伙伴用作或指定为委派管理员的功能因地区而异。 
