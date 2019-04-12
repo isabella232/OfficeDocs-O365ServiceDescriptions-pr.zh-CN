@@ -3,7 +3,7 @@ title: IT 专业人士
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467589"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825160"
 ---
 # <a name="it-professional"></a>IT 专业人士
 
@@ -45,9 +45,9 @@ SharePoint Online 为上载并保存到文档库的文件提供了反恶意软�
 不适用于 SharePoint Online 客户。对于支持 SharePoint Server 2013 服务器到服务器身份验证和应用身份验证的 Web 应用程序，SharePoint Server 2013 客户可以配置基于声明的身份验证。详细了解[基于声明的身份验证](https://go.microsoft.com/fwlink/p/?LinkId=270982)。
   
 ## <a name="data-loss-prevention"></a>数据丢失防护
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-数据丢失防护 (DLP) 可识别 SharePoint Online 中存储的敏感数据。识别敏感数据可帮助你减少组织面临的风险。可以使用电子数据展示中心在你的组织中搜索敏感信息类型。敏感内容检测会得到记录和存储，仅供电子数据展示中心内的批准用户查看，分类结果可以轻松导出。若要详细了解敏感数据类型，请参阅 [Sensitive information types inventory](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx)（敏感信息类型清单）。详细了解如何[使用 SharePoint Online 中的 DLP 识别网站上存储的敏感数据](https://technet.microsoft.com/library/dn798914.aspx)。
+数据丢失防护 (DLP) 可识别 SharePoint Online 中存储的敏感数据。识别敏感数据可帮助你减少组织面临的风险。可以使用电子数据展示中心在你的组织中搜索敏感信息类型。敏感内容检测会得到记录和存储，仅供电子数据展示中心内的批准用户查看，分类结果可以轻松导出。若要详细了解敏感数据类型，请参阅 [Sensitive information types inventory](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx)（敏感信息类型清单）。详细了解如何[使用 SharePoint Online 中的 DLP 识别网站上存储的敏感数据](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)。
   
 ## <a name="encryption-at-rest"></a>Encryption at rest
 <a name="bkmk_EncryptionAtRest"> </a>

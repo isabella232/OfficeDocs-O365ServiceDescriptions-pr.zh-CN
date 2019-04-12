@@ -1,9 +1,9 @@
 ---
-title: 网站 [ServiceDesc]
+title: 网站
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下站点功能为您的组织提供整套工具，以便创建任何类型的站点，以及简化站点管理的单个基础结构。 若要查找更多详细信息，请参阅查找有关 SharePoint Online 的内容。
-ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467879"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825170"
 ---
-# <a name="sitesservicedesc"></a>网站 [ServiceDesc]
+# <a name="sites"></a>网站
 
 Microsoft SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下站点功能为您的组织提供整套工具，以便创建任何类型的站点，以及简化站点管理的单个基础结构。 若要查找更多详细信息，请参阅[查找有关 SharePoint Online 的内容](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7)。
   

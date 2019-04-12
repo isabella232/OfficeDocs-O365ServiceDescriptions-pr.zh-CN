@@ -3,7 +3,7 @@ title: 客户端和移动设备
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467609"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825200"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -40,7 +40,7 @@ Microsoft Outlook 是一个电子邮件程序, 其中包括对日历、联系人
   
 ## <a name="outlook-on-the-web"></a>Outlook 网页版
 
-Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。使用它，用户可以在有 Internet 连接的地方，通过 Web 浏览器查看电子邮件、日历和联系人。若要了解支持的浏览器，请参阅 [Outlook 网页版支持的浏览器（适用于企业）](https://go.microsoft.com/fwlink/p/?LinkId=287032)。
+Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。使用它，用户可以在有 Internet 连接的地方，通过 Web 浏览器查看电子邮件、日历和联系人。若要了解支持的浏览器，请参阅 [Outlook 网页版支持的浏览器（适用于企业）](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)。
   
 Outlook 网页版具有两个客户端版本，这两个都可用于 Exchange Online：
   
@@ -61,7 +61,7 @@ Exchange Online 适用于适用于 iOS、Android 和 Windows Phone 的 Outlook �
 |||||
 |:-----|:-----|:-----|:-----|
 |设备  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook 移动应用可用性  <br/> |是  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
+|Outlook 移动应用可用性  <br/> |可访问  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可访问  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
 |与 Exchange Online 兼容的内置电子邮件应用程序  <br/> |Gmail app/Samsung 电子邮件应用程序  <br/> |iOS 邮件应用程序  <br/> |Outlook 邮件、日历、联系人  <br/> |
 |更多信息  <br/> |[Android 手机设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    

@@ -3,7 +3,7 @@ title: 隐私、安全性和透明度
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467579"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825209"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
@@ -33,13 +33,13 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 有关企业版、商业版、政府版和教育版管理员在配置 Office 365 隐私设置时可采取的特定步骤，请参阅 [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202)（适用于管理员的高级隐私选项）。
   
-若要了解其他 Microsoft 服务（包括 Office 365 ProPlus）的安全性和隐私保护，请参阅 [To which online services does the Trust Center apply?](https://go.microsoft.com/fwlink/p/?LinkID=281962)（信任中心适用于哪些联机服务？）
+若要了解其他 Microsoft 服务（包括 Office 365 ProPlus）的安全性和隐私保护，请参阅 [To which online services does the Trust Center apply?](https://www.microsoft.com/trustcenter/default.aspx)（信任中心适用于哪些联机服务？）
   
 ## <a name="security"></a>安全性
 
 若要了解 Microsoft 如何安全、可靠地提供 Office 365 服务，请参阅[安全性](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)。
   
-## <a name="transparency"></a>透明度
+## <a name="transparency"></a>Transparency
 
 作为 Office 365 客户，您可以了解您的数据所在的位置，Microsoft 的哪些人员可以访问该数据以及我们内部对该信息采取的措施。有关详细信息，请参阅[透明度](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)。
   
@@ -53,12 +53,12 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 客户锁箱包含在 Office 365 Enterprise 5 计划中，或者您可以通过任何其他 Office 365 Enterprise 计划来购买单独的订阅。有关详细信息，请参阅 [Office 365 客户锁箱请求](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
   
-## <a name="advanced-threat-protection"></a>高级强大的威胁保护
+## <a name="advanced-threat-protection"></a>高级威胁防护
 
 Office 365 高级威胁防护可帮助您的组织抵御恶意软件和病毒攻击。 ATP 包括[安全链接](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[反网络钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺骗智能](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。 "安全链接"通过在用户每次单击链接时提供保护措施，从而主动保护您的用户免遭邮件中恶意超链接的攻击。 "安全附件"通过将不携带已知病毒/恶意软件签名的所有邮件和附件路由到 ATP 可以检测恶意企图的特殊环境中，从而防止遭受未知恶意软件和病毒的攻击。 有关 ATP 的详细信息, 请参阅[Office 365 高级威胁防护服务说明](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)。
   
 

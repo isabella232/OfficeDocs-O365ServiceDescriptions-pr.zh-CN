@@ -1,9 +1,9 @@
 ---
-title: 合规性 [ServiceDesc]
+title: 合规性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 遵循行业标准和管理法规, 旨在帮助您满足企业的法规要求。 有关详细信息, 请参阅合规性服务。
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466879"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825140"
 ---
-# <a name="complianceservicedesc"></a>合规性 [ServiceDesc]
+# <a name="compliance"></a>合规性
 
 > [!NOTE]
 > 本文中的信息适用于 Office 365 的全球各种版本。如果使用的是 Office 365 国家/地区云实例（包括 Office 365 美国政府版、Office 365 Germany 和由世纪互联运营的 Office 365），请参阅 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)（Microsoft 国家/地区云）。 

@@ -1,9 +1,9 @@
 ---
-title: 邮件策略和合规性[ServiceDesc]
+title: 邮件策略和合规性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) 提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
-ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466969"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825180"
 ---
-# <a name="messaging-policy-and-complianceservicedesc"></a>邮件策略和合规性[ServiceDesc]
+# <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
 
 Microsoft Exchange Online Protection (EOP) 提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
   
@@ -36,7 +36,7 @@ Microsoft Exchange Online Protection (EOP) 提供了可帮助您管理电子邮�
 
 使用审核日志记录，可以跟踪管理员对组织做出的特定更改。这些报告可帮助你遵守法规、符合性和诉讼要求。有关详细信息，请参阅 [EOP 中的审核报告](https://go.microsoft.com/fwlink/p/?LinkId=314258)。
   
-## <a name="data-loss-prevention-dlp"></a>防止数据丢失 (DLP)
+## <a name="data-loss-prevention-dlp"></a>数据丢失防护 (DLP)
 <a name="BKMK_datalossprevention"> </a>
 
 对独立 EOP 客户不可用。数据丢失防护 (DLP) 可进行深入内容分析，帮助识别、监视和保护您组织中的敏感信息。DLP 对于企业邮件系统而言越来越重要，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。DLP 功能可让您保护敏感数据，而不会影响工作人员的生产率。
@@ -74,12 +74,15 @@ Office 365 邮件加密是 Azure 信息保护的一部分, 它是一种在线服
 
 |**功能**|**独立 EOP**|**Exchange Online 中的 EOP 功能**|**Exchange Enterprise CAL with Services**|
 |:-----|:-----|:-----|:-----|
-|传输规则  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是  <br/> |
-|审核日志记录  <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
+|传输规则  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |可访问  <br/> |
+|审核日志记录  <br/> |是<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |
 |数据丢失防护 (DLP)  <br/> |否  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |Office 365 邮件加密  <br/> |是<sup>4</sup> <br/> |是  <br/> |是<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> EOP 和 Exchange Online 的可用条件和操作不同。 若要获取 EOP 中可用条件和操作的列表，请参阅 [传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320392)和[传输规则操作](https://go.microsoft.com/fwlink/p/?LinkId=320393)。 若要获取 Exchange Online 中可用条件和操作的列表，请参阅[传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320394)和[传输规则操作](https://go.microsoft.com/fwlink/p/?LinkId=320395)。 > <sup>2</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。 > <sup>3</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。 > <sup>4</sup>支持购买 Azure 信息保护加载项并使用 exchange online Protection 通过 exchange online 路由电子邮件的本地客户。 对于桌面体验, 除了 Azure 信息保护加载项外, 还需要购买 Office 365 专业增强版。 
+> <sup>1</sup> EOP 和 Exchange Online 的可用条件和操作不同。 若要获取 EOP 中可用条件和操作的列表，请参阅 [传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320392)和[传输规则操作](https://go.microsoft.com/fwlink/p/?LinkId=320393)。 若要获取 Exchange Online 中可用条件和操作的列表，请参阅[传输规则条件](https://go.microsoft.com/fwlink/p/?LinkId=320394)和[传输规则操作](https://go.microsoft.com/fwlink/p/?LinkId=320395)。 <br/>
+> <sup>2</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。 <br/>
+> <sup>3</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。 <br/>
+> <sup>4</sup>支持购买 Azure 信息保护加载项并使用 exchange online Protection 通过 exchange online 路由电子邮件的本地客户。 对于桌面体验, 除了 Azure 信息保护加载项外, 还需要购买 Office 365 专业增强版。 <br/>
   
 
