@@ -3,7 +3,7 @@ title: Exchange Online Archiving 中的存档功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467199"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833836"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
@@ -37,7 +37,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>将邮件移动到 Exchange Online Archiving
 
-用户可以将邮件从 .pst 文件拖放到存档中，以便于联机访问。 用户还可以使用存档策略自动将电子邮件项从主邮箱移到存档邮箱中，从而降低主邮箱的大小，并提升主邮箱的性能。 尽管此行为与 Exchange Hosted Archive 为存档中的每封邮件创建辅助副本的行为不同，但两种行为均可达到保留要求。 
+用户可以将邮件从 .pst 文件拖放到存档中，以便于联机访问。 用户还可以使用存档策略自动将电子邮件项从主邮箱移到存档邮箱中，从而降低主邮箱的大小，并提升主邮箱的性能。 
   
 ### <a name="import-data-to-the-archive"></a>将数据导入到存档
 

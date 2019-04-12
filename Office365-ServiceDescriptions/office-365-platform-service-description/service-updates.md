@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解刚发布或即将发布的 Office 365 功能, 请查看 Microsoft 365 路线图。
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825150"
+ms.locfileid: "31833835"
 ---
 # <a name="service-updates"></a>服务更新
 
@@ -32,7 +32,7 @@ ms.locfileid: "31825150"
   
 ## <a name="targeted-release"></a>定向发布
 
-在目标版本中, 您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 有关详细信息，请参阅 [Office 365 发布计划](https://go.microsoft.com/fwlink/p/?LinkId=509823)。 
+在目标版本中, 您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 若要了解详细信息, 请参阅[Office 365 发布选项](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)。 
   
 ## <a name="update-notifications"></a>更新通知
 
