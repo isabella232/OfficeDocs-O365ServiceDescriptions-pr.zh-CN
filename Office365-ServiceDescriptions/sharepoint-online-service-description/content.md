@@ -3,7 +3,7 @@ title: 内容
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下内容功能让每个人都可轻松使用企业内容管理 (ECM)。 它是传统内容管理、社交功能和强大搜索的组合。
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467509"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981676"
 ---
 # <a name="content"></a>内容
 
@@ -29,7 +29,7 @@ SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组�
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
 
-根据设计，链接、表单控件和按钮等大部分 SharePoint 用户界面 (UI) 元素均使用 Microsoft Active Accessibility (MSAA)。借助 MSA，残障人士可以使用屏幕阅读器等辅助技术与内容进行交互。详细了解[辅助功能](https://go.microsoft.com/fwlink/?LinkId=270947)。
+根据设计，链接、表单控件和按钮等大部分 SharePoint 用户界面 (UI) 元素均使用 Microsoft Active Accessibility (MSAA)。借助 MSA，残障人士可以使用屏幕阅读器等辅助技术与内容进行交互。详细了解[辅助功能](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2)。
   
 ## <a name="asset-library-enhancementsvideo-support"></a>Asset Library Enhancements/Video Support
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -46,7 +46,7 @@ SharePoint Online 网站集管理员可以使用审核功能跟踪哪些用户�
 
 SharePoint Online 网站集管理员可以使用审核功能跟踪用户对网站集的网站、内容类型、列表、库、列表项执行的操作。详细了解如何[配置网站集的审核设置](https://go.microsoft.com/fwlink/?LinkId=270950)。
   
-## <a name="catalog"></a>目录
+## <a name="catalog"></a>Catalog
 <a name="bkmk_WCMCatalog"> </a>
 
 仅适用于专用网站集。目录是跨其他网站和网站集共享的库或列表。了解如何[将库或列表启用为目录](https://go.microsoft.com/fwlink/p/?LinkId=330809)。
@@ -84,17 +84,17 @@ SharePoint Online 网站集管理员可以使用审核功能跟踪用户对网�
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
 
-使用电子数据展示搜索，用户可以搜索以电子方式存储的信息 (ESI)，此类信息可作为合规性和诉讼支持的证据。可搜索内容包括文档和列表项等结构化内容，以及博客、Wiki、新闻源和 Exchange 邮箱内容。为了让内容能够被发现，必须通过搜索对其编制索引。有关详细信息，请参阅 [Create and run eDiscovery queries](https://go.microsoft.com/fwlink/?LinkId=402985)（创建和运行电子数据展示查询）。
+使用电子数据展示搜索，用户可以搜索以电子方式存储的信息 (ESI)，此类信息可作为合规性和诉讼支持的证据。可搜索内容包括文档和列表项等结构化内容，以及博客、Wiki、新闻源和 Exchange 邮箱内容。为了让内容能够被发现，必须通过搜索对其编制索引。有关详细信息，请参阅 [Create and run eDiscovery queries](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center)（创建和运行电子数据展示查询）。
   
 ## <a name="ediscovery-hold"></a>eDiscovery Hold
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-应用保留意味着保留原始内容的副本，以防被用户修改或删除。可将 SharePoint 网站（包括 OneDrive for Business 网站）和 Exchange 邮箱中的内容（包括存档的 Skype for Business 对话）置于保留状态。保留功能用于在应用保留时，保留内容的原始格式。当用户对网站或邮箱应用保留时，其内容将就地保留在其原始位置。有关详细信息，请参阅 [Add content to an eDiscovery case and place sources on hold](https://go.microsoft.com/fwlink/?LinkId=270964)（将内容添加到电子数据展示事例并保留源）。
+应用保留意味着保留原始内容的副本，以防被用户修改或删除。可将 SharePoint 网站（包括 OneDrive for Business 网站）和 Exchange 邮箱中的内容（包括存档的 Skype for Business 对话）置于保留状态。保留功能用于在应用保留时，保留内容的原始格式。当用户对网站或邮箱应用保留时，其内容将就地保留在其原始位置。有关详细信息，请参阅 [Add content to an eDiscovery case and place sources on hold](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center)（将内容添加到电子数据展示事例并保留源）。
   
 ## <a name="ediscovery-export"></a>eDiscovery Export
 <a name="bkmk_eDiscovery_export"> </a>
 
-当用户准备好将电子数据展示内容发送到某个机构，或想要通过其他合法程序处理该内容时，可以将其从电子数据展示中心中导出。导出的内容采用标准 EDRM 格式，适用于其他电子数据展示程序。搜索结果随附的电子发现参考模型 XML 清单可导出项的元数据。有关详细信息，请参阅 [Export eDiscovery content and create reports](https://go.microsoft.com/fwlink/?LinkId=402986)（导出电子数据展示内容和生成报告）。
+当用户准备好将电子数据展示内容发送到某个机构，或想要通过其他合法程序处理该内容时，可以将其从电子数据展示中心中导出。导出的内容采用标准 EDRM 格式，适用于其他电子数据展示程序。搜索结果随附的电子发现参考模型 XML 清单可导出项的元数据。有关详细信息，请参阅 [Export eDiscovery content and create reports](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery)（导出电子数据展示内容和生成报告）。
   
 ## <a name="external-sharing-external-access"></a>External Sharing: External Access
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ SharePoint Online 网站集管理员可以使用审核功能跟踪用户对网�
 ## <a name="information-rights-management-irm"></a>信息权限管理 (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-SharePoint Online IRM 使用 Azure 信息保护, 即 Office 365 中的一种信息保护技术。 IRM 保护适用于 SharePoint 列表和库级别的文件。 详细了解 [SharePoint Online 中的 IRM](https://go.microsoft.com/fwlink/?LinkId=270963)。
+SharePoint Online IRM 使用 Azure 信息保护, 即 Office 365 中的一种信息保护技术。 IRM 保护适用于 SharePoint 列表和库级别的文件。 详细了解 [SharePoint Online 中的 IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
   
 ## <a name="managed-metadata-service"></a>托管的元数据服务
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ SharePoint Online IRM 使用 Azure 信息保护, 即 Office 365 中的一种信�
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-不适用于 SharePoint Online 客户。在 SharePoint Server 2010 中，Office Web Apps 是一款 SharePoint 服务应用程序。对于 SharePoint Server 2013，引入了全新的 Office 服务器产品，即 Office Web Apps Server。一个 Office Web Apps Server 场可以支持用户通过 SharePoint Server 2013、Exchange Server 2013、共享文件夹和网站访问 Office 文件。这样一来，你便可以在本地环境中部署和管理 Office 的联机版本。详细了解 [Office Web Apps Server 集成](https://go.microsoft.com/fwlink/?LinkId=270911)。
+不适用于 SharePoint Online 客户。在 SharePoint Server 2010 中，Office Web Apps 是一款 SharePoint 服务应用程序。对于 SharePoint Server 2013，引入了全新的 Office 服务器产品，即 Office Web Apps Server。一个 Office Web Apps Server 场可以支持用户通过 SharePoint Server 2013、Exchange Server 2013、共享文件夹和网站访问 Office 文件。这样一来，你便可以在本地环境中部署和管理 Office 的联机版本。详细了解 [Office Web Apps Server 集成](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server)。
   
 ## <a name="preservation-hold-library"></a>Preservation hold library
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ SharePoint Online IRM 使用 Azure 信息保护, 即 Office 365 中的一种信�
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Recycle Bin (SharePoint admin center)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-SharePoint Online 管理员可以使用 SharePoint 管理中心还原已删除的网站集。若要了解详细信息，请参阅[还原已删除的网站集](https://go.microsoft.com/fwlink/p/?LinkId=286114)。 
+SharePoint Online 管理员可以使用 SharePoint 管理中心还原已删除的网站集。若要了解详细信息，请参阅[还原已删除的网站集](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections)。 
   
 ## <a name="recycle-bin-site-collection"></a>Recycle Bin (site collection)
 <a name="bkmk_RecycleBinSC"> </a>
