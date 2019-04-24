@@ -1,27 +1,13 @@
 ---
-title: Exchange Online 限制
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
-ms.date: 03/18/2019
-ms.audience: ITPro
-ms.topic: reference
-f1_keywords:
-- exchange-online-limits
-ms.service: o365-administration
-localization_priority: Normal
-ms.custom:
+title: "Exchange Online Limits" ms.author: sharik author: skjerland manager: mnirkhe <<<<<<< HEAD ms.date: 04/15/2019 ======= ms.date: 04/18/2019
+>>>>>>> master ms.audience: ITPro ms.topic: reference f1_keywords:
+- 'exchange-online-limits' ms.service: o365-administration localization_priority: Normal ms.custom:
 - Adm_ServiceDesc
-- Adm_ServiceDesc_top
-ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
-description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641467"
+- Adm_ServiceDesc_top ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
+
+<a name="description-find-the-exchange-online-limits-for-a-variety-of-service-areas-including-address-book-limits-mailbox-storage-limits-and-reporting-and-message-trace-limits-to-name-just-a-few"></a>描述：“查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。”
 ---
+
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
@@ -241,7 +227,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 下列限制适用于每封电子邮件。
   
-- **邮件大小限制** 需要邮件大小限制以防止大型邮件阻止送达其他邮件，并影响所有用户的服务性能。这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。若要了解详细信息，请参阅 [Office 365 现在支持更大的电子邮件](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
+- **邮件大小限制** 需要邮件大小限制以防止大型邮件阻止送达其他邮件，并影响所有用户的服务性能。这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。若要了解详细信息，请参阅 [Office 365 现在支持更大的电子邮件](https://www.microsoft.com/zh-CN/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
     
     > [!NOTE]
     > 特别电子邮件客户端可能具有更小的邮件大小限制，或者可能限制单个文件附件的大小为小于 Exchange Online 邮件大小限制的值。 
@@ -281,7 +267,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件嵌入深度限制  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 邮箱的默认最大邮件大小为 25 MB。 Office 365 管理员可以指定范围为 1 MB 到 150 MB 的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关自定义组织允许的邮件最大大小的更多信息，请参阅 [Office 365 现在支持更大的电子邮件](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 你可以在 Office 365 用户（其中，邮件从不会离开 Office 365 数据中心）之间发送和接收不超过 150 MB 的邮件。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 <br/> <sup>3</sup> OWA 帐户已考虑到邮件可能需要额外增加 33% 的编码的可能性，并将你可发送的邮件大小限制为低于配置设置的 25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> <sup>4</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法（直接转换、暂存、IMAP、PST）和其他第三方工具具有常规邮件大小限制。 <br/> 
+> <sup>1</sup> Office 365 邮箱的默认最大邮件大小为 25 MB。 Office 365 管理员可以指定范围为 1 MB 到 150 MB 的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关自定义组织允许的邮件最大大小的更多信息，请参阅 [Office 365 现在支持更大的电子邮件](https://www.microsoft.com/zh-CN/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 你可以在 Office 365 用户（其中，邮件从不会离开 Office 365 数据中心）之间发送和接收不超过 150 MB 的邮件。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 <br/> <sup>3</sup> OWA 帐户已考虑到邮件可能需要额外增加 33% 的编码的可能性，并将你可发送的邮件大小限制为低于配置设置的 25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> <sup>4</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法（直接转换、暂存、IMAP、PST）和其他第三方工具具有常规邮件大小限制。 <br/> 
   <sup>5</sup> 有关 OME 及新功能的信息，请参阅[设置构建于 Azure 信息保护之上的新 Office 365 邮件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 <br/> <sup>6</sup> 无法附加超过 35 MB 的单个文件。 此外，还无法附加总大小超过 35MB 的文件。 例如，如果附加了一个 34MB 的文件，只能另外附加一个 1MB 的文件。 
   
 ### <a name="message-limits-across-standalone-options"></a>跨独立选项的邮件限制
@@ -304,7 +290,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件嵌入深度限制  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 管理员可以指定范围为 1 MB 到 150 MB 的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关自定义组织允许的邮件最大大小的更多信息，请参阅 [Office 365 现在支持更大的电子邮件](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 你可以在 Office 365 用户（其中，邮件从不会离开 Office 365 数据中心）之间发送和接收不超过 150 MB 的邮件。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 <br/> <sup>3</sup> OWA 帐户已考虑到邮件可能需要额外增加 33% 的编码的可能性，并将你可发送的邮件大小限制为低于配置设置的 25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> <sup>4</sup> 这是 Exchange Server 2013 组织的默认限制。 管理员可以为其组织更改此值。 <br/> <sup>5</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的项目大小。 <br/> 
+> <sup>1</sup> Office 365 管理员可以指定范围为 1 MB 到 150 MB 的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关自定义组织允许的邮件最大大小的更多信息，请参阅 [Office 365 现在支持更大的电子邮件](https://www.microsoft.com/zh-CN/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 你可以在 Office 365 用户（其中，邮件从不会离开 Office 365 数据中心）之间发送和接收不超过 150 MB 的邮件。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 <br/> <sup>3</sup> OWA 帐户已考虑到邮件可能需要额外增加 33% 的编码的可能性，并将你可发送的邮件大小限制为低于配置设置的 25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> <sup>4</sup> 这是 Exchange Server 2013 组织的默认限制。 管理员可以为其组织更改此值。 <br/> <sup>5</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的项目大小。 <br/> 
   <sup>6</sup> 有关 OME 及新功能的信息，请参阅[设置构建于 Azure 信息保护之上的新 Office 365 邮件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
   
 ## <a name="receiving-and-sending-limits"></a>接收和发送限制
@@ -359,7 +345,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |收件人代理服务器地址限制  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。 管理员可以为其组织更改此值。 
+> <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。管理员可以为其组织更改此值。 
   
 ## <a name="reporting-and-message-trace-limits"></a>报告和邮件跟踪限制
 <a name="bkmk_Reporting_Message_Trace_Limits"> </a>
@@ -387,7 +373,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |“垃圾邮件”文件夹保留期  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 这是默认限制。管理员可以为其组织更改此值。 
+> <sup>1</sup> 这是 Office 365 组织的默认值。 管理员可以将其组织中的邮箱的此值更改为最大 30 天。
   
 ### <a name="retention-limits-across-standalone-options"></a>跨独立选项的保留限制
 
@@ -470,7 +456,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |所有传输规则中使用的所有正则表达式的字符限制  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
 |附件内容的扫描限制  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |所有传输规则添加到邮件的收件人的最大数目  <br/> |100 位收件人  <br/> |100 位收件人  <br/> |100 位收件人  <br/> |100 位收件人  <br/> |100 位收件人  <br/> |100 位收件人  <br/> |
-|转发邮件的收件人限制  <br/> |10 位收件人  <br/> |10 位收件人  <br/> |10 位收件人  <br/> |10 位收件人  <br/> |10 位收件人  <br/> |10 个收件人  <br/> |
+|转发邮件的收件人限制  <br/> |10 位收件人  <br/> |10 个收件人  <br/> |10 个收件人  <br/> |10 个收件人  <br/> |10 个收件人  <br/> |10 个收件人  <br/> |
 |重定向邮件的次数  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |
    
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>跨独立选项的日记、传输和收件箱规则限制
