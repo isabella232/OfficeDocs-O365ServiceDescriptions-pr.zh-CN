@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 onenote online (以前称为 onenote Web App) 在 OneNote 笔记本中进行联机笔记, 可以从任意位置添加这些笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467019"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247178"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -36,7 +36,7 @@ ms.locfileid: "30467019"
 
 通过 OneNote Online，可以对笔记应用各种标记，以便轻松进行整理和跟进。例如，将笔记标记为问题、待办事项或联系信息。详细了解如何[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="office-add-ins"></a>Office 外接程序
+## <a name="office-add-ins"></a>Office 加载项
 <a name="bkmk_AppsforOffice"> </a>
 
 OneNote Online 仅支持 Office 的内容外接程序。内容外接程序会将基于 Web 的功能集成为可配合文档显示的内容。详细了解 [Office 外接程序类型](https://go.microsoft.com/fwlink/p/?LinkId=282310)。
@@ -147,7 +147,7 @@ OneNote Online 不支持与 Microsoft Outlook（例如电子邮件页面、Outlo
 
 通过 OneNote Online，可以通过文件或必应图像插入图片。还可以调整图片大小并添加可选文字。若要使用更多高级图片功能（如屏幕剪辑、扫描图像或联机图片），需要使用 OneNote 桌面应用程序。详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="print"></a>印刷品
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 您可以在 OneNote Online 中打印备注。
@@ -187,7 +187,7 @@ OneNote Online 显示受信息权限管理 (IRM) 保护的笔记本。但是，�
 
 通过 OneNote Online，可以轻松应用文本样式，以便快速设置格式。详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="tables"></a>表格
+## <a name="tables"></a>Tables
 <a name="bkmk_Tables"> </a>
 
 通过 OneNote Online，可以插入表格、编辑表格文本并轻松编辑基本表格结构，例如添加或删除行和列。若要使用更多高级表格功能（如将表格转换成 Excel 电子表格，或在表格单元格中使用单元格底纹、标题行和数据排序），需要使用 OneNote 桌面应用程序。详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。

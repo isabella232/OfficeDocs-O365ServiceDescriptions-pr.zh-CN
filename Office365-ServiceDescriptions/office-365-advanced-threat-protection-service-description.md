@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
 ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
-ms.sourcegitcommit: 5fabae12930bc8d815cdbb3af9d36af4be7c6c53
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31479740"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246257"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -85,7 +85,7 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>跨高级威胁防护 (ATP) 计划的功能可用性
 
-下面列出了每个功能。 当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。
+下面列出了每个功能。当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。
   
 |**功能**|**ATP 计划1**<br>(以前的 ATP 独立)|**ATP 计划2**<br>(以前称为威胁智能 <br>独立主机 | Office 365 企业版 E5| 
 |:-----|:-----|:-----|:-----|
@@ -97,10 +97,10 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
 |团队中的安全链接 |是|是 |是 |
 |实时报告 |是 |是 |是|
 |*自动化、调查、修正和教育* |
-|威胁跟踪器 |否 |是 |是 |
-|资源管理器 (高级威胁调查) |否 |是 |是 |
-|自动调查和响应  |否 |是 |是 |
-|攻击模拟器 |否 |是 |是 |
+|威胁跟踪器 |否 |可访问 |是 |
+|资源管理器 (高级威胁调查) |否 |可访问 |是 |
+|自动调查和响应  |否 |可访问 |是 |
+|攻击模拟器 |否 |可访问 |是 |
 
    
 ## <a name="advanced-threat-protection-atp-capabilities"></a>高级威胁防护 (ATP) 功能

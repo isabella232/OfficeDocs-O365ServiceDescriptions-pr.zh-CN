@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下功能可为要构建应用和解决方案的开发人员扩展 SharePoint 功能提供支持。
 ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467709"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246718"
 ---
 # <a name="developer"></a>开发人员
 
@@ -106,12 +106,12 @@ SharePoint Online 客户无法使用此功能。SharePoint Server 2013 客户可
 
 窗体服务根据 InfoPath 中设计的窗体模板，在 SharePoint 中提供 Web 浏览器窗体填充体验。详细了解 [InfoPath Forms Services](https://go.microsoft.com/fwlink/?LinkId=271288)。
   
-## <a name="javascript-object-model"></a>JavaScript Object Model
+## <a name="javascript-object-model"></a>JavaScript 对象模型
 <a name="bkmk_JavaScriptObjectModel"> </a>
 
 SharePoint 提供了用于内联脚本或各个 .js 文件的 JavaScript 对象模型。它包括与 .NET Framework 和 Silverlight 客户端对象模型一样的所有功能。JavaScript 对象模型是在应用程序中包含自定义 SharePoint 代码的有效方法。借助此模型，Web 开发者还可以利用掌握的现有 JavaScript 技能创建 SharePoint 应用程序，尽可能缩短学习曲线。详细了解 [SharePoint 2013 JavaScript API 参考](https://go.microsoft.com/fwlink/?LinkId=271289)。
   
-## <a name="remote-event-receiver"></a>Remote Event Receiver
+## <a name="remote-event-receiver"></a>远程事件接收器
 <a name="bkmk_RemoteEventReceiver"> </a>
 
 若要处理 SharePoint 相关应用程序中的事件，开发者可创建远程事件接收器和应用程序事件接收器。远程事件接收器可处理应用程序中某个项目（如列表、列表项或 Web）发生的事件。详细了解如何[处理 SharePoint 相关应用程序中的事件](https://go.microsoft.com/fwlink/?LinkId=271735)。 

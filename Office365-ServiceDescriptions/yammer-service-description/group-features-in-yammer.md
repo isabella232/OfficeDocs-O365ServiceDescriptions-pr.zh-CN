@@ -14,17 +14,17 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: 以下组功能在 Yammer 中可用。
 ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467539"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246448"
 ---
 # <a name="group-features-in-yammer"></a>Yammer 中的组功能
 
 以下组功能在 Yammer 中可用。
   
-## <a name="groups"></a>组
+## <a name="groups"></a>Groups
 <a name="bkmk_Groups"> </a>
 
 从部门通信到下一个活动启动或公司事件，只需几秒即可为任何团队、项目或关注内容设置组。

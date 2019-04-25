@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint 是基于 Web 的工具和技术组合，帮助您的组织存储、分享和管理数字信息。 这一构建在 Microsoft SharePoint Server 2013 上的托管服务非常适合处理项目、在中心位置存储数据和文档并与其他人分享信息。 Office 365 客户还可以购买与 SharePoint Online 关联的额外加载项。
 ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466399"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246638"
 ---
 # <a name="add-ons"></a>加载项
 

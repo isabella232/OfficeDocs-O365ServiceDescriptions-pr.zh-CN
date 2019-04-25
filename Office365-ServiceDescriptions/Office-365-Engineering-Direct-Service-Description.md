@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 工程直销是一种企业级支持服务, 可为 Microsoft Premier 支持协议添加。 Office 365 工程直接服务说明包含有关提供的功能和实现要求的其他信息。
 ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
-ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30867918"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245008"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直接服务说明
 

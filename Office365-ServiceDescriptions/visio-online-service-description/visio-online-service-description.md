@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 通过 Visio Online, 您可以在 web 上查看、编辑和共享 visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint online 或 OneDrive for business online 的文件中插入注释来查看和协作。
 ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466499"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246828"
 ---
 # <a name="visio-online-service-description"></a>Visio Online 服务说明
 
@@ -39,21 +39,21 @@ ms.locfileid: "30466499"
 |[创建关系图](visio-online.md#BM_4) <br/> |是  <br/> |是  <br/> |
 |[剪切、复制和粘贴](visio-online.md#BM_5) <br/> |是  <br/> |是  <br/> |
 |[编辑关系图](visio-online.md#BM_6) <br/> |是  <br/> |是  <br/> |
-|[在 SharePoint、 网站或博客页面中嵌入图表](visio-online.md#BM_7) <br/> |可访问  <br/> |否  <br/> |
+|[在 SharePoint、 网站或博客页面中嵌入图表](visio-online.md#BM_7) <br/> |是  <br/> |否  <br/> |
 |[查找](visio-online.md#BM_8) <br/> |是  <br/> |是  <br/> |
 |[字体格式](visio-online.md#BM_9) <br/> |是  <br/> |是  <br/> |
 |[超链接](visio-online.md#BM_10)<sup>1</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |
 |[导航](visio-online.md#BM_11) <br/> |是  <br/> |是  <br/> |
-|[Office 加载项](visio-online.md#BM_12) <br/> |否  <br/> |是  <br/> |
-|[脱机查看](visio-online.md#BM_13) <br/> |否  <br/> |是  <br/> |
+|[Office 加载项](visio-online.md#BM_12) <br/> |否  <br/> |可访问  <br/> |
+|[脱机查看](visio-online.md#BM_13) <br/> |否  <br/> |可访问  <br/> |
 |[打印为 PDF 格式](visio-online.md#BM_14) <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|[校对工具](visio-online.md#BM_15) <br/> |否  <br/> |是  <br/> |
-|[实时共同创作](visio-online.md#BM_16) <br/> |否  <br/> |是  <br/> |
+|[校对工具](visio-online.md#BM_15) <br/> |否  <br/> |可访问  <br/> |
+|[实时共同创作](visio-online.md#BM_16) <br/> |否  <br/> |可访问  <br/> |
 |[另存为或下载副本](visio-online.md#BM_17) <br/> |是  <br/> |是  <br/> |
 |[共享一个关系图](visio-online.md#BM_18)<sup>2</sup> <br/> |是  <br/> |是  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |否  <br/> |是  <br/> |
-|[告诉我](visio-online.md#BM_20) <br/> |否  <br/> |是  <br/> |
-|[撤消和恢复](visio-online.md#BM_21) <br/> |否  <br/> |是  <br/> |
+|[SmartArt](visio-online.md#BM_19) <br/> |否  <br/> |可访问  <br/> |
+|[告诉我](visio-online.md#BM_20) <br/> |否  <br/> |可访问  <br/> |
+|[撤消和恢复](visio-online.md#BM_21) <br/> |否  <br/> |可访问  <br/> |
 |[查看和添加注释](visio-online.md#BM_22) <br/> |是<sup>5</sup> <br/> |是  <br/> |
 |[查看形状数据](visio-online.md#BM_23) <br/> |是<sup>3</sup> <br/> |是  <br/> |
 |[在浏览器中查看 Visio 文件](visio-online.md#BM_24) <br/> |是  <br/> |是  <br/> |

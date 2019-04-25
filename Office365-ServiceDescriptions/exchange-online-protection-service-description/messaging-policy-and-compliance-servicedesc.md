@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) 提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
 ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825180"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246118"
 ---
 # <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
 
@@ -74,9 +74,9 @@ Office 365 邮件加密是 Azure 信息保护的一部分, 它是一种在线服
 
 |**功能**|**独立 EOP**|**Exchange Online 中的 EOP 功能**|**Exchange Enterprise CAL with Services**|
 |:-----|:-----|:-----|:-----|
-|传输规则  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |可访问  <br/> |
-|审核日志记录  <br/> |是<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|数据丢失防护 (DLP)  <br/> |否  <br/> |是  <br/> |是<sup>3</sup> <br/> |
+|传输规则  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是  <br/> |
+|审核日志记录  <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
+|数据丢失防护 (DLP)  <br/> |否  <br/> |可访问  <br/> |是<sup>3</sup> <br/> |
 |Office 365 邮件加密  <br/> |是<sup>4</sup> <br/> |是  <br/> |是<sup>4</sup> <br/> |
    
 > [!NOTE]

@@ -10,27 +10,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30052527"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247168"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
-为了响应美国公共事业部门的独特和不断发展的需求, microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。本节概述了环境以及如何购买的详细信息。建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
+为了响应美国公共事业部门的独特和不断发展的需求, microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。 本节概述了环境以及如何购买的详细信息。 建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
   
 ## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府？
 <a name="TopOfPage"> </a>
 
-Microsoft 365 政府是一组工作效率、安全性和移动性云软件功能, 专门为美国政府机构和合同工提供了受控制的未分类信息的赞助商。通过在满足最严格的合规性要求的独特环境中进行传递, Microsoft 365 政府是为美国政府客户提供的云, 与 Microsoft 商业云的特性和功能尽可能密切匹配企业服务。 
+Microsoft 365 政府是一组工作效率、安全性和移动性云软件功能, 专门为美国政府机构和合同工提供了受控制的未分类信息的赞助商。 通过在满足最严格的合规性要求的独特环境中进行传递, Microsoft 365 政府是为美国政府客户提供的云, 与 Microsoft 商业云的特性和功能尽可能密切匹配企业服务。 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府的价值是什么？
 <a name="BM1_About"> </a>
 
-通过帮助机构有效管理法规数据合规性, Microsoft 365 政府可随时帮助我们的政府领导人和工作人员通过合规性实现工作效率和安全协作满足.下表提供了主要政府角色的示例。
+通过帮助机构有效管理法规数据合规性, Microsoft 365 政府可随时帮助我们的政府领导人和工作人员通过合规性实现工作效率和安全协作满足. 下表提供了主要政府角色的示例。
 
  
 ||||||
@@ -49,13 +49,14 @@ Microsoft 365 政府专为满足美国政府机构在四个关键领域的合规
 
 **独占社区。** 政府数据中心仅适用于政府机构或部门, 或已获得授权以代表美国政府持有和处理控制信息的商业公司。
 
-**屏蔽人员。** 对组织的客户内容的访问受限制为美国公民的 Microsoft 人事, 并且已通过所需的背景检查。第三方审核。所有基础结构都由经过认证的第三方审计员审核, 该审计员提供联邦机构使用的一种安全评估报告或证明信函, 以颁发授权操作 (ATO)。 
+**屏蔽人员。** 对组织的客户内容的访问受限制为美国公民的 Microsoft 人事, 并且已通过所需的背景检查。
+第三方审核。 所有基础结构都由经过认证的第三方审计员审核, 该审计员提供联邦机构使用的一种安全评估报告或证明信函, 以颁发授权操作 (ATO)。 
 
-**内容存储。** 数据存储在具有合规性基础结构的大陆国家/地区。下表汇总了适用于美国政府环境和承诺的 Microsoft 365。
+**内容存储。** 数据存储在具有合规性基础结构的大陆国家/地区。 下表汇总了适用于美国政府环境和承诺的 Microsoft 365。
 
 |||
 |:----------|:----------------------------------|:---------|
-|**扩大** <br/> |**承诺 ** <br/> |
+|**扩大** <br/> |**承诺** <br/> |
 |Microsoft 365 政府版 GCC  <br/> |FedRamp 中等、CJIS、IRS 1075、DISA SRG L2  <br/> |是  <br/> |
 |Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |是  <br/> |
 |Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |是  <br/> |
@@ -65,9 +66,9 @@ Microsoft 365 政府专为满足美国政府机构在四个关键领域的合规
 ## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>适用于美国政府资格和验证的 Microsoft 365
 <a name="BM2-customer"> </a>
 
-美国政府版的 Microsoft 365 可供符合条件的政府客户和非政府组织赞助, 以保留或处理控制的信息。这两类客户的资格条件在 Microsoft 政府群中是一致的。
+美国政府版的 Microsoft 365 可供符合条件的政府客户和非政府组织赞助, 以保留或处理控制的信息。 这两类客户的资格条件在 Microsoft 政府群中是一致的。
 
-gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使用, 而 DoD 环境专门用于美国国防部。服务可用性和价格不同, 并且 GCC 仍为所有不包含 FedRAMP 高或 DoD 控制未分类信息 (CUI) 的客户提供了英雄活动。
+gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使用, 而 DoD 环境专门用于美国国防部。 服务可用性和价格不同, 并且 GCC 仍为所有不包含 FedRAMP 高或 DoD 控制未分类信息 (CUI) 的客户提供了英雄活动。
 
 符合条件的政府客户由以下项定义:
 
@@ -81,7 +82,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 
 拥有以下类型数据的非政府组织, 可以为 Microsoft 政府云验证流程提供列出的证明资格:
 
-包含受法规约束的数据的商业专用实体。接受的政府数据类型包括: 
+包含受法规约束的数据的商业专用实体。 接受的政府数据类型包括: 
 - arm 中的国际流量 (ITAR)
 - 受控制的未分类信息 (CUI)
 - 美国国防部 (DoD) 未分类的受分类的核信息 (UCNI)
@@ -116,7 +117,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 
 请按照以下步骤购买 Microsoft 365 政府版许可证:
 1.   [完成并提交表单](https://products.office.com/en-us/government/eligibility-validation)以验证组织的资格。 
-2.  与 Microsoft 帐户团队或符合条件的合作伙伴合作, 以下订单。客户只能通过 "选择合作伙伴" 购买 Microsoft 365 for 美国政府版许可证。
+2.  与 Microsoft 帐户团队或符合条件的合作伙伴合作, 以下订单。 客户只能通过 "选择合作伙伴" 购买 Microsoft 365 for 美国政府版许可证。
 
 **lsp GCC 和 gcc 高 (+ 500 座位)** 
 - CDW
@@ -138,7 +139,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 - 行星技术
 - 7个系统的峰会
 
-**注意:** 上述列表中的所有 Microsoft 许可解决方案提供商 (lsp) 都可以通过企业协议 (EA) 使用 gcc 和 gcc High (EA) 来创建客户价格表 (CPS)。不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
+**注意:** 上述列表中的所有 Microsoft 许可解决方案提供商 (lsp) 都可以通过企业协议 (EA) 使用 gcc 和 gcc High (EA) 来创建客户价格表 (CPS)。 不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
 
 **如果您使用 CSP 合作伙伴, 请与他们联系或[查找 CSP。](https://www.microsoft.com/en-us/solution-providers/home)**
 
@@ -146,8 +147,8 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 <a name="BM3-withinUSA"> </a>
 
 
-- [EMS。](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security)客户可以在 EMS 页面的右上方选择 "立即试用" 按钮, 在 Office commerce 门户上执行封闭注册过程, 该过程会将它们路由到 Azure Active Directory (AAD) 门户。
--  [Office 365。](https://aka.ms/gcctrial)  免费的一个月试用版仅适用于美国政府组织, 这仅适用于 GCC, 并不包括政府承包商。  
+- [EMS.](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security) 客户可以在 EMS 页面的右上方选择 "立即试用" 按钮, 在 Office commerce 门户上执行封闭注册过程, 该过程会将它们路由到 Azure Active Directory (AAD) 门户。
+-  [Office 365。](https://aka.ms/gcctrial)   免费的一个月试用版仅适用于美国政府组织, 这仅适用于 GCC, 并不包括政府承包商。  
 - Microsoft 不会将试用版 Office 365 gcc 提供给商业客户, 并且不会进行 GCC 高或 DoD 的试验
 
 ## <a name="where-can-i-learn-more"></a>在哪儿可以了解更多信息？

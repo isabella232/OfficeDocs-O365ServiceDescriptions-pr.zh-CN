@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: microsoft exchange Online 存档是 microsoft Office 365 基于云的企业级存档解决方案, 适用于已部署 microsoft exchange server 2016、microsoft exchange server 2013、microsoft exchange server 2010 (SP2 及更高版本) 的组织。), 或订阅特定的 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
 ms.openlocfilehash: 20c22a644e43377c6a8b28011412ff78f802f742
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467089"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246148"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -52,7 +52,7 @@ microsoft exchange Online 存档是 microsoft Office 365 基于云的企业级�
   
 寻找有关所有 Office 365 计划的信息？Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-## <a name="requirements"></a>要求
+## <a name="requirements"></a>Requirements
 <a name="bkmk_EOA_Plans"> </a>
 
 为了对 exchange server 使用 exchange Online 存档, 用户邮箱必须驻留在 exchange server 2016、exchange server 2013 或 exchange server 2010 (SP2 或更高版本) 上。

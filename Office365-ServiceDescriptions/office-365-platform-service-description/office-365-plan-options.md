@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764810"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247228"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -35,11 +35,11 @@ ms.locfileid: "31764810"
   
 |**Office 365 服务系列**|**计划**|
 |:-----|:-----|
-|**中型企业版（最多 300 名用户）** <br/> |[Office 365 商业协作版](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 商业版](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 商业高级版](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
+|**中型企业版（最多 300 名用户）** <br/> |[Office 365 商业协作版](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 Business](https://go.microsoft.com/fwlink/?linkid=625101)（Office 365 商业版） <br/> [Office 365 商业高级版](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |**企业版（不受限制的用户数）** <br/> |[Office 365 企业版 E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 企业版 E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 企业版 E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 企业版 F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**教育版（用户数量不限）** <br/> |[Office 365 教育版](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 教育版 E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**政府版（用户数量不限）** <br/> |[查看所有可用的业务计划](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**由世纪互联运营的 Office 365** <br/> |[查看所有可用的业务计划](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**由世纪互联运营的 Office 365** <br/> |[查看所有可用的企业版计划](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[查看所有可用的业务计划](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每个 Office 365 计划中的服务可用性
@@ -51,19 +51,19 @@ ms.locfileid: "31764810"
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F1** <br/> |
-|Office 365 平台  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
+|**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F1** <br/> |
+|Office 365 平台  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |是<sup>5</sup> <br/> |
+|SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
 |Skype for business Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|Office 应用程序  <br/> |否  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
+|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |否  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
-|Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |否  <br/> |
-|Yammer Enterprise  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |
-|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |可访问  <br/> |无<sup>2</sup> <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |可访问 <br/> |否  <br/> |是 <br/> |是 <br/> |是  <br/> |是  <br/> |可访问 <br/> |
+|Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
+|Yammer Enterprise  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |是 <br/> |否  <br/> |可访问 <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
    
 > <sup>1</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 教育版计划中。  
 <br/><sup>2</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 
@@ -120,17 +120,17 @@ ms.locfileid: "31764810"
   
 |**服务**|**计划**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Exchange Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online 高级威胁防护](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|Exchange Online  <br/> |[Exchange Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Exchange Online 高级威胁保护](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Exchange Online Archiving](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Exchange Online Kiosk](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business 计划 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business 计划 2](https://onedrive.live.com/about/en-us/business/) <br/> |
 |Skype for Business Online  <br/> |[Skype for Business Online 计划 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online 计划 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
-|Office 应用程序  <br/> |[Office 365 专业增强版](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 商业版](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 商业高级版](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
+|Office 应用程序  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 商业版](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 商业高级版](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |项目组合管理  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
-|组织见解  <br/> |[工作区分析](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
+|组织见解  <br/> |[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |
 |业务智能服务  <br/> |[Power BI](https://products.office.com/en-us/business/analytics-and-intelligence/home) <br/> |
-|联机图表软件  <br/> |[用于 Office 365 的 Visio Pro](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |
-|信息权限管理  <br/> |[Azure 信息保护](https://go.microsoft.com/fwlink/p/?LinkId=397530) <br/> |
+|联机图表软件  <br/> |[Visio Pro for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=317348) <br/> |
+|信息权限管理  <br/> |[Azure Information Protection](https://go.microsoft.com/fwlink/p/?LinkId=397530)（Azure 信息保护） <br/> |
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>功能可用性

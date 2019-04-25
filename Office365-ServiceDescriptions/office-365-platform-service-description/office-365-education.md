@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务（其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online 以及 Microsoft Skype for Business Online）的云版本结合使用，帮助用户通过 Internet 随时随地提高工作效率。
 ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467989"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247288"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -39,9 +39,9 @@ ms.locfileid: "30467989"
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>7</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 应用程序  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
-|Power BI  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Power BI  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Yammer 学院  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 信息保护<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
    
@@ -67,11 +67,11 @@ ms.locfileid: "30467989"
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft 预订  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Microsoft 预订  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Microsoft Flow  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft StaffHub  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -151,12 +151,12 @@ ms.locfileid: "30467989"
 |IPv4 和 IPv6 协议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**信任** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[隐私、安全性和透明度](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
-|高级安全管理  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|客户锁箱  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|Office 365 高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|高级安全管理  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|客户锁箱  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|Office 365 高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|威胁智能  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[合规性 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -190,17 +190,17 @@ ms.locfileid: "30467989"
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[对安全&amp;合规中心的访问权限](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级安全管理](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[高级安全管理](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |邮件筛选和反恶意软件等[威胁管理](https://go.microsoft.com/fwlink/?linkid=845550)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|针对网络钓鱼活动的[高级威胁管理](https://go.microsoft.com/fwlink/?linkid=846673)(如客户密码箱和威胁浏览器) <sup>5</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|针对网络钓鱼活动的[高级威胁管理](https://go.microsoft.com/fwlink/?linkid=846673)(如客户密码箱和威胁浏览器) <sup>5</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[移动设备管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据治理](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级数据治理](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[高级数据治理](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[搜索和调查]<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示导出](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级电子数据展示](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[高级电子数据展示](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |电子数据展示保留 (包括基于查询的电子数据展示保留)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[存档](https://go.microsoft.com/fwlink/?linkid=844060)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |手动保留/删除策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -236,32 +236,32 @@ ms.locfileid: "30467989"
 |**企业价值** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多语言用户界面  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|客户端推送部署  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|内部部署 Exchange 的客户端支持  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|控制软件更新  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|数据库比较  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|桌面虚拟化  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Excel 电子表格比较  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Excel 电子表格查询  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|多语言用户界面  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|客户端推送部署  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|内部部署 Exchange 的客户端支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|控制软件更新  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|数据库比较  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|桌面虚拟化  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Excel 电子表格比较  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Excel 电子表格查询  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|组策略支持  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|组策略支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |使用 Azure 信息保护的信息权限管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
-|Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Office 遥测  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|客户端应用程序的脱机支持  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Power Map for Excel  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Power Pivot for Excel  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Power Query for Excel  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|Power View for Excel  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|漫游设置  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|共享计算机激活  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|支持阻止基于云的文件存储  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|点击可查找并重复使用内容  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|版本升级  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Office 遥测  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|客户端应用程序的脱机支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Map for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Pivot for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Query for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power View for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|漫游设置  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|共享计算机激活  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|支持阻止基于云的文件存储  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|点击可查找并重复使用内容  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|版本升级  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |批量激活 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
@@ -277,7 +277,7 @@ ms.locfileid: "30467989"
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**链接到详细的功能比较** <br/> |
+|**应用程序** <br/> |**Office Online** <br/> |**链接到详细的功能比较** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -322,7 +322,7 @@ ms.locfileid: "30467989"
 |自定义反恶意软件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔离 - 管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔离 - 最终用户自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[邮件流](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |出站邮件的自定义路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |与受信任合作伙伴的安全邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -356,7 +356,7 @@ ms.locfileid: "30467989"
 |Web 服务报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |邮件跟踪  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |审核报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|统一消息报告  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|统一消息报告  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |**[共享和协作](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |联合共享（包括日历发布）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |站点邮箱  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
@@ -372,8 +372,8 @@ ms.locfileid: "30467989"
 |SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |EWS 应用程序支持  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[语音消息服务](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|语音邮件  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|语音邮件与第三方传真的集成  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|语音邮件  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|语音邮件与第三方传真的集成  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |第三方语音邮件互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business 集成  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[高可用性和业务连续性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -414,13 +414,13 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
     
 - [容量报警](office-365-education.md#capacity-alerts)
     
-- [邮箱文件夹限制](office-365-education.md#mailbox-folder-limits)
+- [Mailbox folder limits](office-365-education.md#mailbox-folder-limits)
     
 - [邮件限制](office-365-education.md#message-limits)
     
 - [接收和发送限制](office-365-education.md#receiving-and-sending-limits)
     
-- [报告和邮件跟踪限制](office-365-education.md#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](office-365-education.md#reporting-and-message-trace-limits)
     
 - [保留限制](office-365-education.md#retention-limits)
     
@@ -466,7 +466,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |用户邮箱  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|存档邮箱<sup>6、7</sup> <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |
+|存档邮箱<sup>6、7</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |共享邮箱  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |资源邮箱  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |站点邮箱<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
@@ -474,7 +474,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 |组邮箱  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 每个用户最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 Overview of unlimited archiving in Office 365（Office 365 中的无限制存档概述）。 有关可用性的详细信息，请参阅 Office 365 路线图。 > <sup>2</sup> 用户必须具有 Exchange Online 许可证才能访问共享邮箱。 共享邮箱不需要单独的许可证。 不过，如果要在共享邮箱上启用就地存档、就地保留或诉讼保留，必须具有 Exchange Online 计划 2 许可证或 Exchange Online 计划 1 和 Exchange Online Archiving 许可证。 如果为共享邮箱启用就地存档和自动扩展存档，那么在达到存档邮箱的 100 GB 存储容量时就会自动添加额外存储空间。 > <sup>3</sup> 资源邮箱不需要许可证。 > <sup>4</sup>在 SharePoint Online 中创建和管理网站邮箱。 有关详细信息，请参阅 Prepare for using site mailboxes in Office 365（为在 Office 365 中使用网站邮箱做好准备）。 > <sup>5</sup>限制为1000公用文件夹邮箱, 所有公用文件夹邮箱的最大总大小为 50 TB。 > <sup>6</sup>就地存档仅可用于存档已对其应用了许可证的单个用户或实体 (如共享邮箱) 的邮件。 禁止使用就地存档存储多个用户或实体的邮件。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，并以共享邮箱的名义发送电子邮件。 因此, 共享邮箱中仅存储的电子邮件是作为共享邮箱发送或接收的。 > <sup>7</sup>如果已在 Exchange Online 中创建了保留策略, 则只有当用户的主邮箱大于 10 MB 时, 才会自动将邮件移动到用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 
+> <sup>1</sup> 每个用户最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 Overview of unlimited archiving in Office 365（Office 365 中的无限制存档概述）。 有关可用性的详细信息，请参阅 Office 365 路线图。 > <sup>2</sup> 用户必须具有 Exchange Online 许可证才能访问共享邮箱。 共享邮箱不需要单独的许可证。 不过，如果要在共享邮箱上启用就地存档、就地保留或诉讼保留，必须具有 Exchange Online 计划 2 许可证或 Exchange Online 计划 1 和 Exchange Online Archiving 许可证。 如果为共享邮箱启用就地存档和自动扩展存档，那么在达到存档邮箱的 100 GB 存储容量时就会自动添加额外存储空间。 > <sup>3</sup> 资源邮箱不需要许可证。 > <sup>4</sup>在 SharePoint Online 中创建和管理网站邮箱。 有关详细信息，请参阅准备在 Office 365 中使用网站邮箱。 > <sup>5</sup>限制为1000公用文件夹邮箱, 所有公用文件夹邮箱的最大总大小为 50 TB。 > <sup>6</sup>就地存档仅可用于存档已对其应用了许可证的单个用户或实体 (如共享邮箱) 的邮件。 禁止使用就地存档存储多个用户或实体的邮件。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此, 共享邮箱中仅存储的电子邮件是作为共享邮箱发送或接收的。 > <sup>7</sup>如果已在 Exchange Online 中创建了保留策略, 则只有当用户的主邮箱大于 10 MB 时, 才会自动将邮件移动到用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 
   
 #### <a name="capacity-alerts"></a>容量报警
 <a name="CapacityAlerts"> </a>
@@ -524,14 +524,14 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|每个邮箱文件夹的邮件的最大数量  <br/> |100 万  <br/> |100 万  <br/> |1 百万  <br/> |
+|每个邮箱文件夹的邮件的最大数量  <br/> |1 百万  <br/> |1 百万  <br/> |1 百万  <br/> |
 |每个邮箱文件夹的邮件数量的警告  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
-|"可恢复邮件"文件夹中的每个文件夹的邮件最大数量  <br/> |3 百万  <br/> |3 百万  <br/> |3 百万  <br/> |
-|主邮箱（未处于保留状态）中"可恢复的项目"文件夹的存储配额  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|主邮箱（处于保留状态）中"可恢复的项目"文件夹的存储配额  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|存档邮箱（未处于保留状态）中"可恢复的项目"文件夹的存储配额  <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |
-|存档邮箱（处于保留状态）中"可恢复的项目"文件夹的存储配额  <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |
-|"可恢复邮件"文件夹中的每个文件夹的邮件数量警告  <br/> |2.75 百万  <br/> |2.75 百万  <br/> |2.75 百万  <br/> |
+|“可恢复邮件”文件夹中的每个文件夹的邮件最大数量  <br/> |3 百万  <br/> |3 百万  <br/> |3 百万  <br/> |
+|主邮箱（未处于保留状态）中“可恢复的项目”文件夹的存储配额  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
+|主邮箱（处于保留状态）中“可恢复的项目”文件夹的存储配额  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|存档邮箱（未处于保留状态）中“可恢复的项目”文件夹的存储配额  <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|存档邮箱（处于保留状态）中“可恢复的项目”文件夹的存储配额  <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|“可恢复邮件”文件夹中的每个文件夹的邮件数量警告  <br/> |2.75 百万  <br/> |2.75 百万  <br/> |2.75 百万  <br/> |
 |每个邮箱文件夹的子文件夹的最大数量  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
 |每个邮箱文件夹的子文件夹数量的警告  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |最大文件夹层次结构深度  <br/> |300  <br/> |300  <br/> |300  <br/> |
@@ -541,7 +541,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |每个公用文件夹的子文件夹数量的警告  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>您可以在 office 365 用户之间发送和接收最高 150 MB 的邮件 (邮件永远不会离开 office 365 数据中心)。 在 Office 365 数据中心之外路由的邮件可能会增加 33% 转换编码, 在这种情况下, 最大邮件大小为 112 MB。 
+> <sup>1</sup>您可以在 office 365 用户之间发送和接收最高 150 MB 的邮件 (邮件永远不会离开 office 365 数据中心)。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 
   
 #### <a name="message-limits"></a>邮件限制
 <a name="MessageLimits"> </a>
@@ -567,22 +567,22 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|邮件大小限制 - Outlook  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
-|邮件大小限制 - OWA  <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |
+|邮件大小限制 - Outlook  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
+|邮件大小限制 - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |112 MB<sup>1、3</sup> <br/> |
 |邮件大小限制 - Outlook for Mac  <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |150 MB<sup>1、2</sup> <br/> |
 |邮件大小限制 - 迁移  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
 |加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）  <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |主题长度限制  <br/> |255 个字符  <br/> |255 个字符  <br/> |255 个字符  <br/> |
 |文件附件限制  <br/> |250 个附件  <br/> |250 个附件  <br/> |250 个附件  <br/> |
-|文件附件大小限制 - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|文件附件大小限制 - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |文件附件大小限制 - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
 |文件附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |多部分邮件限制  <br/> |250 个部分  <br/> |250 个部分  <br/> |250 个部分  <br/> |
 |邮件嵌入深度限制  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 管理员可以指定介于 1 MB 和 150 MB 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息, 请参阅[Office 365 现在支持更大的电子邮件](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 > <sup>2</sup>您可以在 office 365 用户之间发送和接收最高 150 MB 的邮件 (邮件永远不会离开 office 365 数据中心)。 在 Office 365 数据中心之外路由的邮件可能会增加 33% 转换编码, 在这种情况下, 最大邮件大小为 112 MB。 > <sup>3</sup> OWA 帐户可能会导致您的邮件受到 33% 编码的增加, 并将邮件大小限制为低于配置的设置的 25%。 例如, 如果您自定义 100 mb 最大邮件大小的设置, 您可以发送不大于 75 mb 的邮件。 > <sup>4</sup>要移动到 exchange online 中的邮件的大小由 Exchange online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法 (转换、暂存、IMAP、PST) 和其他第三方工具受常规邮件大小限制的限制。 > <sup>5</sup>有关具有新功能的 OME 的信息, 请参阅[设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+> <sup>1</sup> Office 365 管理员可以指定范围为 1 MB 到 150 MB 的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关自定义组织允许的邮件最大大小的更多信息，请参阅 [Office 365 现在支持更大的电子邮件](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 > <sup>2</sup>您可以在 office 365 用户之间发送和接收最高 150 MB 的邮件 (邮件永远不会离开 office 365 数据中心)。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 > <sup>3</sup> OWA 帐户可能会导致您的邮件受到 33% 编码的增加, 并将邮件大小限制为低于配置的设置的 25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 > <sup>4</sup>要移动到 exchange online 中的邮件的大小由 Exchange online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法 (转换、暂存、IMAP、PST) 和其他第三方工具受常规邮件大小限制的限制。 > <sup>5</sup>有关具有新功能的 OME 的信息, 请参阅[设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
   
 #### <a name="receiving-and-sending-limits"></a>接收和发送限制
 <a name="RecipientLimits"> </a>
@@ -603,7 +603,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 发送限制应用于收件人数、邮件数和用户可以从其 Exchange Online 帐户发送的每封邮件的收件人数。
   
 > [!NOTE]
-> 对于存储在组织的通讯簿中的通讯组，这类组计数为一个收件人。对于存储在邮箱的"联系人"文件夹中的通讯组，单独计数组的各个成员。 
+> 对于存储在组织的通讯簿中的通讯组，这类组计数为一个收件人。对于存储在邮箱的“联系人”文件夹中的通讯组，单独计数组的各个成员。 
   
 - **收件人速率限制** 为了阻止送达未经请求的批量邮件，Exchange Online 提供收件人限制以防止用户和应用程序发送大量电子邮件。这些限制适用于每个用户的所有出站和内部邮件。 
     
@@ -644,9 +644,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|"已删除邮件"文件夹保留期  <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |
-|从"已删除邮件"文件夹中删除的邮件的保留期  <br/> |14天<sup>1</sup> <br/> |14天<sup>1</sup> <br/> |14天<sup>1</sup> <br/> |
-|"垃圾邮件"文件夹保留期  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |
+|“已删除邮件”文件夹保留期  <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |无限制<sup>1</sup> <br/> |
+|从“已删除邮件”文件夹中删除的邮件的保留期  <br/> |14 天<sup>1</sup> <br/> |14 天<sup>1</sup> <br/> |14 天<sup>1</sup> <br/> |
+|“垃圾邮件”文件夹保留期  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> 这是默认限制。管理员可以为其组织更改此值。 
@@ -665,10 +665,10 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
+|通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
 |限制向大型通讯组发送邮件  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |
 |大型通讯组的最大邮件大小  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|通讯组所有者的最大数量  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|通讯组所有者的最大数量  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |用户可创建的组的最大数目  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -703,9 +703,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |单个传输规则的最大大小  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |所有传输规则中使用的所有正则表达式的字符限制  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
 |附件内容的扫描限制  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
-|所有传输规则添加到邮件的收件人的最大数目  <br/> |100 个收件人  <br/> |100 个收件人  <br/> |100 个收件人  <br/> |
+|所有传输规则添加到邮件的收件人的最大数目  <br/> |100 个收件人  <br/> |100 位收件人  <br/> |100 位收件人  <br/> |
 |转发邮件的收件人限制  <br/> |10 个收件人  <br/> |10 个收件人  <br/> |10 个收件人  <br/> |
-|重定向邮件的次数  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |
+|重定向邮件的次数  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |1 次重定向  <br/> |
    
 #### <a name="moderation-limits"></a>审阅限制
 <a name="ModerationLimits"> </a>
@@ -726,7 +726,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |仲裁邮箱的最大大小  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
-|审阅人的最大数目  <br/> |10 个审阅人  <br/> |10 个审阅人  <br/> |10 个审阅人  <br/> |
+|审阅人的最大数目  <br/> |10 个审阅人  <br/> |10 个审阅人  <br/> |10 个审阅人  <br/> |
 |等待审阅的邮件的过期时间  <br/> |2 天  <br/> |2 天  <br/> |2 天  <br/> |
 |过期的审阅通知邮件的最大速率  <br/> |每小时 300 个过期通知  <br/> |每小时 300 个过期通知  <br/> |每小时 300 个过期通知  <br/> |
    
@@ -746,7 +746,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync 设备限制  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync 设备删除限制  <br/> |20  <br/> |20  <br/> |20  <br/> |
-|Exchange ActiveSync 文件附件限制  <br/> |25 MB  <br/> |25 MB   <br/> |25 MB   <br/> |
+|Exchange ActiveSync 文件附件限制  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business 功能
 <a name="OfcOnline"> </a>
@@ -893,7 +893,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office Online（创建/编辑）](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office Online（视图）](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office ProPlus (Osub)  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Office ProPlus (Osub)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[Office Web Apps 服务器集成](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[保存保留库](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -909,7 +909,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[唯一文档 ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[视频搜索](../sharepoint-online-service-description/content.md#video-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[发布分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[目录](../sharepoint-online-service-description/content.md#catalog) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[类别页面和目录项页面](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[搜索 web 部件](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[跨网站发布](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -923,7 +923,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[WCM：搜索引擎优化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Word 自动化服务](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**洞察力功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[商业智能中心](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[商业智能中心](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[计算度量值和成员](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据连接库](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[分离的 PivotTable 和 PivotChart](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -932,7 +932,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[筛选器搜索](../sharepoint-online-service-description/insights.md#filter-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[PerformancePoint 服务](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PerformancePoint Services (PPS) Dashboard Migration <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Power BI Web 部件](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[Power BI Web 部件](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[SharePoint 中适用于 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 中适用于 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[快速浏览](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1061,7 +1061,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online：客户端、移动应用和会议室设备](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype for business Full  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Skype for business Full  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Skype for business 基本  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
 |Lync 2013 Basic  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
 |Skype for Business Windows 应用商店应用  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1102,7 +1102,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |参与者选定的视图  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneNote 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |即席 Web 会议和计划 Web 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通过音频会议（第一方）拨入 Skype for Business 会议  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|通过音频会议（第一方）拨入 Skype for Business 会议  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |通过经认证的音频会议提供商 (ACP) 实现 Skype for Business 会议拨入  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PowerPoint 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |文件传输  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1112,7 +1112,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |客户端录制和播放  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |服务器端录制和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |会议厅  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Skype 会议直播  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|Skype 会议直播  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |使用 Skype for Business Web 应用以来宾身份访问 Skype 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |代表他人（委派）在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1121,12 +1121,12 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |通过 Outlook 委派安排会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |从 Outlook 创建具有静态会议 ID 的公开会议  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**语音呼叫** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|自动助理  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|自动助理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |忙选项  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |分支机构可恢复性  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |呼叫允许控制  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |呼叫应答/启动  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|呼叫委派  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|呼叫委派  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |呼叫转接和同步拨打  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫历史记录  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫保留/检索  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1137,28 +1137,28 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |占线  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PC、Mac 和移动客户端  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |设备切换  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|优雅响铃  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|优雅响铃  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |防干扰路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|紧急呼叫 - 静态位置  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|紧急呼叫 - 静态位置  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |紧急呼叫 - 动态位置  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |企业日历呼叫路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |分机拨号  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |群呼代接  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|智能寻线/呼叫队列和处理  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|集成式拨号盘  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|智能寻线/呼叫队列和处理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|集成式拨号盘  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |基于位置的路由  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |等待音乐  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |出站 DID 操作  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |专线  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|限定的 IP 座机  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|限定的 IP 座机  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |共享线路外观  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Skype 和联合呼叫  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|团队呼叫  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|团队呼叫  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |视频呼叫监视器  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Voicemail  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Voicemail  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |
-|[消耗学分](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[消耗学分](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Skype for Business 语音  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1166,7 +1166,7 @@ OneDrive for business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |客户端版本控制  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |IM 内容存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |会议内容存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|应用程序共享存档和桌面共享存档  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|应用程序共享存档和桌面共享存档  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |用户级存档配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |登录跟踪文件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[交换和 SharePoint 的互操作性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
 ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467149"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246768"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -73,7 +73,7 @@ Yammer 是 office 365 的一部分并遵守[office 365 更改管理策略](https
 |:-----|:-----|:-----|
 |[组](group-features-in-yammer.md#groups) <br/> | 是  <br/> |是  <br/> |
 |[相关组](group-features-in-yammer.md#related-groups) <br/> |是  <br/> |是  <br/> |
-|[通知](group-features-in-yammer.md#announcements) <br/> |否  <br/> |是  <br/> |
+|[通知](group-features-in-yammer.md#announcements) <br/> |否  <br/> |可访问  <br/> |
 |[用户配置文件](profile-features-in-yammer.md#user-profiles) <br/> |是  <br/> |是  <br/> |
 |[专业技能](profile-features-in-yammer.md#expertise) <br/> |是  <br/> |是  <br/> |
 |[成员目录](profile-features-in-yammer.md#member-directory) <br/> |是  <br/> |是  <br/> |
@@ -90,13 +90,13 @@ Yammer 是 office 365 的一部分并遵守[office 365 更改管理策略](https
 |[投票](message-and-conversation-features-in-yammer.md#polls) <br/> |是  <br/> |是  <br/> |
 |[文件](document-collaboration-features-in-yammer.md#files) <br/> |是  <br/> |是  <br/> |
 |[最近更改](document-collaboration-features-in-yammer.md#recent-changes) <br/> |是  <br/> |是  <br/> |
-|[官方内容](document-collaboration-features-in-yammer.md#official-content) <br/> |否  <br/> |是  <br/> |
+|[官方内容](document-collaboration-features-in-yammer.md#official-content) <br/> |否  <br/> |可访问  <br/> |
 |[收件箱](inbox-features-in-yammer.md#inbox) <br/> |是  <br/> |是  <br/> |
 |[收件箱搜索](inbox-features-in-yammer.md#inbox-search) <br/> |是  <br/> |是  <br/> |
 |[新闻复制](discovery-features-in-yammer.md#feeds) <br/> |是  <br/> |是  <br/> |
 |[Ticker](discovery-features-in-yammer.md#ticker) <br/> |是  <br/> |是  <br/> |
 |[主题](discovery-features-in-yammer.md#topics) <br/> |是  <br/> |是  <br/> |
-|[通用搜索](discovery-features-in-yammer.md#universal-search) <br/> |否  <br/> |是  <br/> |
+|[通用搜索](discovery-features-in-yammer.md#universal-search) <br/> |否  <br/> |可访问  <br/> |
 |[即时提前键入](discovery-features-in-yammer.md#instant-type-ahead) <br/> |是  <br/> |是  <br/> |
 |[外部网络](external-network-features-in-yammer.md#external-networks) <br/> |是  <br/> |是  <br/> |
 |[快速切换网络](external-network-features-in-yammer.md#fast-network-switching) <br/> |是  <br/> |是  <br/> |
@@ -105,21 +105,21 @@ Yammer 是 office 365 的一部分并遵守[office 365 更改管理策略](https
 |["赞"和"关注"按钮](yammer-platform-features.md#like-and-follow-buttons) <br/> |是  <br/> |是  <br/> |
 |[浏览器扩展](yammer-platform-features.md#browser-extension) <br/> |是  <br/> |是  <br/> |
 |[活动流 API](yammer-platform-features.md#activity-stream-api) <br/> |是  <br/> |是  <br/> |
-|[自定义网络品牌](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |否  <br/> |是  <br/> |
-|[用户管理](administration-and-security-features-in-yammer.md#user-management) <br/> |否  <br/> |是  <br/> |
+|[自定义网络品牌](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |否  <br/> |可访问  <br/> |
+|[用户管理](administration-and-security-features-in-yammer.md#user-management) <br/> |否  <br/> |可访问  <br/> |
 |[单一标识](administration-and-security-features-in-yammer.md#single-identity) <br/> |是  <br/> |是  <br/> |
-|[目录同步](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |否  <br/> |是  <br/> |
-|[数据导出](administration-and-security-features-in-yammer.md#data-export) <br/> |否  <br/> |是  <br/> |
-|[关键字监视](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |否  <br/> |是  <br/> |
-|[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |否  <br/> |是  <br/> |
+|[目录同步](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |否  <br/> |可访问  <br/> |
+|[数据导出](administration-and-security-features-in-yammer.md#data-export) <br/> |否  <br/> |可访问  <br/> |
+|[关键字监视](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |否  <br/> |可访问  <br/> |
+|[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |否  <br/> |可访问  <br/> |
 |[公司资源](administration-and-security-features-in-yammer.md#company-resources) <br/> |是  <br/> |是  <br/> |
-|[密码策略](administration-and-security-features-in-yammer.md#password-policies) <br/> |否  <br/> |是  <br/> |
-|[会话管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |是  <br/> |
-|[逻辑防火墙](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |否  <br/> |是  <br/> |
-|[使用策略](administration-and-security-features-in-yammer.md#usage-policy) <br/> |否  <br/> |是  <br/> |
-|[FastTrack 中心](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |是  <br/> |
+|[密码策略](administration-and-security-features-in-yammer.md#password-policies) <br/> |否  <br/> |可访问  <br/> |
+|[会话管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |可访问  <br/> |
+|[逻辑防火墙](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |否  <br/> |可访问  <br/> |
+|[使用策略](administration-and-security-features-in-yammer.md#usage-policy) <br/> |否  <br/> |可访问  <br/> |
+|[FastTrack 中心](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
 |[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
-|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |是  <br/> |
+|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |可访问  <br/> |
 |[管理员专用内容模式](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |否  <br/> |是  <br/> |
    
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: 以下支持功能在 Yammer 中可用。
 ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467369"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247348"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支持功能
 
@@ -71,7 +71,7 @@ Yammer Enterprise 管理员负责帐户维护，并有权直接与 Microsoft 支
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
-|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |是  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
 |[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
 |[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |是  <br/> |
    

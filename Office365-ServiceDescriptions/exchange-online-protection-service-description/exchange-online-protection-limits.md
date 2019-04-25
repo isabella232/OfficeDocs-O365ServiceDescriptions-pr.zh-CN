@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468139"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245628"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -50,7 +50,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
 |**功能**|****独立 EOP****|****EOP 功能Exchange Online****|****Exchange 企业版 CAL 带服务****|
 |:-----|:-----|:-----|:-----|
 |域限制  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|邮件大小限制（包括附件）  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
+|邮件大小限制（包括附件）  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |收件人限制  <br/> |请参阅以上"收件人限制"  <br/> |从托管的邮箱发送时含 500 个收件人；请参阅以上用于其他方案的"收件人限制''  <br/> |请参阅以上"收件人限制"  <br/> |
 |安全发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
 |阻止的发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||

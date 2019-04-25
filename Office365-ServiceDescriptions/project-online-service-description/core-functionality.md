@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供了以下核心功能功能。
 ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467461"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246898"
 ---
 # <a name="core-functionality"></a>核心功能
 
@@ -96,7 +96,7 @@ Click **File** to use features in the Backstage, where you can manage your proje
 
 如果无法确定项目的所有详细信息，可以使用占位符文本，如可对资源、开始日期、结束日期等使用"TBD"。有关详细信息，请参阅[自上而下的规划](https://go.microsoft.com/fwlink/p/?LinkId=271333)。
   
-## <a name="project-templates"></a>Project templates
+## <a name="project-templates"></a>项目模板
 <a name="bkmk_ProjectTemplates"> </a>
 
 将旧项目用作模板，可以在创建项目时节省大量时间。请参阅[从其他项目或模板创建新项目](https://go.microsoft.com/fwlink/p/?LinkId=271328)。

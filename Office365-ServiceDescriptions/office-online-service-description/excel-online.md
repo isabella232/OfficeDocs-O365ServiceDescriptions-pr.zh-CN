@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: excel Online (以前称为 excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467379"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246978"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -64,7 +64,7 @@ excel Online (以前称为 excel Web App) 将您的 Microsoft Excel 体验扩展
 
 在 Excel Online 中不可用。在 Excel 2013 桌面应用程序中，推荐的图表可让你从最适合显示你的数据的各种图表中进行选择。了解有关[如何在 Excel 2013 中使用图表建议](https://go.microsoft.com/fwlink/p/?LinkId=282335)的详细信息。
   
-## <a name="office-add-ins"></a>Office 外接程序
+## <a name="office-add-ins"></a>Office 加载项
 <a name="bkmk_AppsOfficeIntegration"> </a>
 
  某些（并非所有）Office 外接程序在 Excel Online 中可用。可以从 Office 应用商店获取适用于 Excel 的外接程序。了解有关 [如何获取 Excel 外接程序](https://go.microsoft.com/fwlink/p/?LinkId=271667)的详细信息。
@@ -184,7 +184,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 
 在 Excel Online 中，您可以在公式中使用 Excel 超过 400 个工作表函数中的大多数函数。
   
-## <a name="goto"></a>语句
+## <a name="goto"></a>GoTo
 <a name="BKMK_GoTo_Excel"> </a>
 
 使用 GoTo 功能快速导航电子表格。键入单元格参考并跳转到电子表格中的此位置。了解有关 [Excel Online 中的键盘快捷方式](https://go.microsoft.com/fwlink/p/?LinkID=272943)的详细信息。
@@ -234,7 +234,7 @@ Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Ex
 
 你可以在工作簿中查看 Power View 表并对其进行操作，但是不能使用 Excel Online 创建 Power View。只能使用桌面应用程序进行 Power View 创建。Power View 允许你在可进行展示的交互式视图中创建、共享和探索数据。查看在一个工作表中彼此相链接的交互式地图、图表和表中的信息。了解有关 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674) 的详细信息。
   
-## <a name="print"></a>印刷品
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 使用 Excel Online 中的打印命令向打印机发送整个工作表或当前所选内容。了解有关[如何在 Excel Online 中进行打印](https://go.microsoft.com/fwlink/p/?LinkId=271676)的详细信息。
@@ -264,7 +264,7 @@ Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Ex
 
 在 Excel Online 中，您无需关闭工作簿文件即可进行重命名，只需单击标题中的文件名并键入新的名称。若要使用 Excel 桌面应用程序重命名文件，则关闭文件、导航至文件在您设备上的位置，然后重命名文件。
   
-## <a name="replace"></a>替换
+## <a name="replace"></a>Replace
 <a name="bkmk_Replace"> </a>
 
 在 Excel Online 中不可用。如果你在计算机上安装了 Excel 桌面应用程序，则可以使用 Excel 查找并替换文档中的内容。了解有关[在 Excel 2013 中使用查找和替换](https://go.microsoft.com/fwlink/p/?LinkId=282333)的详细信息。

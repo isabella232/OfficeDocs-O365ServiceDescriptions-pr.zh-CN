@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: 以下文档协作功能在 Yammer 中可用。
 ms.openlocfilehash: aff27c7638975044c76aa6328cd3939230afd2b8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466309"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246508"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer 中的文档协作功能
 

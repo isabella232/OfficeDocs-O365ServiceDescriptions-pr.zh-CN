@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: powerpoint Online (以前称为 powerpoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器, 您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office Online 的 Microsoft Office 365 客户可以随时查看、创建和编辑文件。
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467339"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246938"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -52,7 +52,7 @@ The PowerPoint Editor is a web front-end component that creates a browser-based 
 
 向演示文稿添加新幻灯片时，请从内置主题和变体库中进行选择。不受 PowerPoint Online 支持的主题保留在演示文稿中，但无法在 PowerPoint Online 中进行修改。详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
-## <a name="office-add-ins"></a>Office 外接程序
+## <a name="office-add-ins"></a>Office 加载项
 <a name="bkmk_AppsOffice"> </a>
 
 PowerPoint Online 仅支持 Office 的内容外接程序。 内容外接程序将基于 web 的功能集成为可在演示文稿中显示的内容。 详细了解 [Office 外接程序类型](https://go.microsoft.com/fwlink/p/?LinkId=282310)。

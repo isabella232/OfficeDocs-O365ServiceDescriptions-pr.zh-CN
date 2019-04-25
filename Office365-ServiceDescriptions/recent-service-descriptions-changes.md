@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出了最近对服务说明内容所做的更改。
 ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467439"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246628"
 ---
 # <a name="recent-service-descriptions-changes"></a>服务说明近期变化
 
@@ -32,7 +32,7 @@ ms.locfileid: "30467439"
 ||[Office 365 教育版](office-365-platform-service-description/office-365-education.md) <br/> |更新了教育版安全与合规中心和 Exchange Online 部分中的诉讼保留引用。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md) <br/> |更新了 Office 365 商业版中的可用性。  <br/> |
 |Office 应用程序  <br/> |[Office Applications 服务说明](office-applications-service-description/office-applications-service-description.md) <br/> |跨移动平台更新了可用性。  <br/> |
-|工作区分析  <br/> |[工作场所分析服务说明](workplace-analytics-service-description.md) <br/> |更新了许可证座位限制, 添加了指向入门文章、更新的先决条件的链接。  <br/> |
+|工作区分析  <br/> |[工作区分析服务说明](workplace-analytics-service-description.md) <br/> |更新了许可证座位限制, 添加了指向入门文章、更新的先决条件的链接。  <br/> |
 |Project Online  <br/> |[Project Online 服务说明](project-online-service-description/project-online-service-description.md) <br/> |阐明了许可。  <br/> |
 |Visio Online  <br/> |[Visio Online 服务说明](visio-online-service-description/visio-online-service-description.md) <br/> |更新后的功能表, 以显示现在在 Visio Online 中可用的其他功能。  <br/> |
    
@@ -165,7 +165,7 @@ ms.locfileid: "30467439"
 |Office 365 高级威胁防护  <br/> |[Office 365 高级威胁防护服务说明](office-365-advanced-threat-protection-service-description.md) <br/> |添加了功能详细信息和可用性信息。  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |进行了更新以包括 Office 2016 应用程序。  <br/> |
 ||[SharePoint Online 限制](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |添加了本主题。  <br/> |
-|Skype for Business  <br/> |[Skype for business Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |更正了文件传输限制。  <br/> |
+|Skype for Business  <br/> |[Skype for Business Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |更正了文件传输限制。  <br/> |
    
 ## <a name="july-2017"></a>2017 年 7 月
 
@@ -185,7 +185,7 @@ ms.locfileid: "30467439"
 |Office Online  <br/> |[Office Online 服务说明](office-online-service-description/office-online-service-description.md) <br/> |添加了 Visio。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md) <br/> |将 "保留标记和保留策略" 更改为 "邮件记录管理 (MRM) 保留标记和保留策略"。  <br/> |
 ||[语音消息服务](exchange-online-service-description/voice-message-services.md) <br/> |通过 SBC 更新以包括 Exchange Online 统一消息的生命周期结束通知。  <br/> |
-| 工作区分析  <br/> |[工作场所分析服务说明](workplace-analytics-service-description.md) <br/> |添加了新的服务说明  <br/> |
+| 工作区分析  <br/> |[工作区分析服务说明](workplace-analytics-service-description.md) <br/> |添加了新的服务说明  <br/> |
 |多个  <br/> |多个  <br/> |azure RMS 重命名了 azure 信息保护 (AIP)。  <br/> |
 |多个  <br/> |多个  <br/> |从由世纪互联运营的 office 365 德国和 office 365 中删除了 office Online 与 office 桌面比较详细信息。 添加了指向 Office Online 服务说明页面上的相同内容的指针。  <br/> |
    

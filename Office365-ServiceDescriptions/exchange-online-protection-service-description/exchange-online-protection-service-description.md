@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。其中包括提供 Exchange Online Protection 的计划列表以及所有计划的功能比较。
 ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955761"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246108"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -111,7 +111,7 @@ EOP 可与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server 2013）
 |[混合邮件路由](mail-flow-eop.md#hybrid-mail-routing) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Microsoft 365 管理中心报告](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |是<sup>9</sup> <br/> |是<sup>10</sup> <br/> |是<sup>9、10</sup> <br/> |
 |[Excel 下载应用程序报告](reporting-and-message-trace.md#excel-download-application-reports) <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
-|[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[邮件跟踪](reporting-and-message-trace.md#message-trace) <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |
 |[访问 Microsoft 365 管理中心](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[对 Exchange 管理中心的访问权限](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |是  <br/> |

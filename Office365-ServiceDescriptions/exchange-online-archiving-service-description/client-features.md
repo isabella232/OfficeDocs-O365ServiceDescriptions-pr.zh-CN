@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online 存档使用户能够从各种设备和平台连接到其存档邮箱。 连接到用户存档的所有网络连接都通过 Internet 发生，无需虚拟专用网 (VPN) 连接。 组织可以发布一个本地客户端访问服务器，通过此服务器，用户可以使用 Outlook 无处不在 （而无需通过 VPN 连接）访问其主邮箱。 如果需要 VPN 接入以访问位于本地服务器上的用户主邮箱，此要求不会更改。
 ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467179"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245058"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的客户端功能
 

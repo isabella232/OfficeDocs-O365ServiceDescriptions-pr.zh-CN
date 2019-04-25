@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 当您添加一个域时，分步向导可帮助您添加用户并将您的 Office 365 电子邮件地址和其他服务转换为您的公司名称。 完成该向导后，您的业务电子邮件将转到 Office 365，而不转到您当前的电子邮件提供商。 若要了解详细信息，请参阅将用户和域添加到 Office 365。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
 ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466369"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247278"
 ---
 # <a name="domains"></a>域
 

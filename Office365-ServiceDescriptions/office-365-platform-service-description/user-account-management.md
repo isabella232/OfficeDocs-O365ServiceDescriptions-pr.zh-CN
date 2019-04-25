@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764850"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247198"
 ---
 # <a name="user-account-management"></a>用户帐户管理
 
@@ -71,7 +71,7 @@ Office 365 具有两个可用于用户标识的系统：
     
 - **云身份身份验证** 具有云身份的用户将使用传统挑战/回复进行身份验证。Web 浏览器被重定向到 Office 365 登录服务，您需要键入工作或学校帐户的用户名和密码。登录服务将对您的凭据进行身份验证并生成服务令牌，以便 Web 浏览器发送到请求的服务并登录。 
     
-- **联合身份验证** 具有联合身份的用户将使用 Active Directory 联合身份验证服务 (AD FS) 2.0 或其他安全令牌服务进行身份验证。 web 浏览器会重定向到 Office 365 登录服务, 在此服务中, 可在表单中键入用户主体名称 (UPN; 例如isabel@contoso.com) 形式的公司 ID。 登录服务会确定你是否属于联盟域，并建议将你重定向到本地联合服务器进行身份验证。 如果已登录桌面（域加入），则已经过身份验证（使用 Kerberos 或 NTLMv2），同时本地安全令牌服务会生成登录令牌，Web 浏览器会发布给 Office 365 登录服务。 使用登录令牌，登录服务会生成 Web 浏览器发布给请求的服务的服务令牌，并将你登入。 有关可用安全令牌服务的列表，请参阅 [单一登录路线图](https://go.microsoft.com/fwlink/p/?LinkID=270015)。
+- **联合身份验证** 具有联合身份的用户将使用 Active Directory 联合身份验证服务 (AD FS) 2.0 或其他安全令牌服务进行身份验证。Web 浏览器重定向到 Office 365 登录服务，以便你可以在窗体中键入公司 ID 和用户主体名称（UPN；例如，isabel@contoso.com）。登录服务会确定你是否属于联盟域，并建议将你重定向到本地联合服务器进行身份验证。如果已登录桌面（域加入），则已经过身份验证（使用 Kerberos 或 NTLMv2），同时本地安全令牌服务会生成登录令牌，Web 浏览器会发布给 Office 365 登录服务。使用登录令牌，登录服务会生成 Web 浏览器发布给请求的服务的服务令牌，并将你登入。有关可用安全令牌服务的列表，请参阅 [单一登录路线图](https://go.microsoft.com/fwlink/p/?LinkID=270015)。
     
 Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 TLS/SSL 加密通过网络的身份验证流量。身份验证流量占用 Office 365 服务的可以忽略的带宽百分比。 
   

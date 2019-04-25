@@ -33,7 +33,7 @@
 | 3/28/2019 | [Exchange Online Protection 服务说明](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 修改内容 |
 | 3/28/2019 | [Exchange Online 设置和管理](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | 修改内容 |
 | 3/28/2019 | [Office 365 高级威胁防护服务说明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改内容 |
-| 3/28/2019 | [Office 365 德国版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 修改内容 |
+| 3/28/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | 修改内容 |
 | 3/28/2019 | [由世纪互联运营的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改内容 |
 | 3/28/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改内容 |
 

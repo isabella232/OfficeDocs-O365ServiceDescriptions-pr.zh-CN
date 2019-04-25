@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: '为满足美国联邦、州、地方和部族政府以及代表美国政府保留或处理数据的承包商的不断变化的独特要求，Microsoft 提供Office 365 美国政府社区版 (GCC) 服务。为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。目前，仅限美国政府版实体试用。 '
+description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求, 以及代表美国政府持有或处理数据的承包商, Microsoft 提供了 Office 365 美国政府社区 (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379024"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247128"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-为满足美国联邦、州、地方和部族政府以及代表美国政府保留或处理数据的承包商的不断变化的独特要求，Microsoft 提供Office 365 美国政府社区版 (GCC) 服务。为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。目前，仅限美国政府版实体试用。  
+为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求, 以及代表美国政府持有或处理数据的承包商, Microsoft 提供了 Office 365 美国政府社区 (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。 
   
 若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/en-us/government/compare-office-365-government-plans)页面。 
   
 ## <a name="how-to-use-this-service-description-section"></a>如何使用本服务说明部分
 
-Office 365 美国政府服务说明旨在作为常规 Office 365 服务说明的整体进行说明。它定义了唯一承诺以及与 Office 365 企业版产品的差异。
+Office 365 美国政府版 服务说明旨在作为常规 Office 365 服务说明的整体进行说明。它定义了唯一承诺以及与 Office 365 企业版产品的差异。
   
 ## <a name="us-government-community-compliance"></a>美国政府社区版合规性
 
@@ -70,6 +70,6 @@ MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和�
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云 (GCC) 客户支持
 
 office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-)相同的条款和条件提供, 包括无支持代理物理位置或公民保证。Office 365 GCC 与 Azure 公有云结合运行, 在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
+)相同的条款和条件提供, 包括无支持代理物理位置或公民保证。 Office 365 GCC 与 Azure 公有云结合运行, 在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
 
-Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分, 直到您确认他们的授权能够查看或访问此类数据。Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement )Office 365 GCC 客户支持不包含在服务资格鉴定边界中, 不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。
+Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分, 直到您确认他们的授权能够查看或访问此类数据。 Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客户支持不包含在服务资格鉴定边界中, 不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。

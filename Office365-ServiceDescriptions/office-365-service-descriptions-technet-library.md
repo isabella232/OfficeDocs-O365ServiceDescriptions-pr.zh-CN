@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641437"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246788"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
@@ -57,7 +57,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
     
 - [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
-- [工作场所分析服务说明](workplace-analytics-service-description.md)
+- [工作区分析服务说明](workplace-analytics-service-description.md)
 
 - [MyAnalytics 服务说明](mya-service-description.md)
     
@@ -69,7 +69,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
     
 - [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
     
-- [Microsoft Dynamics 365 (online) 服务说明](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> 包含 [uite features](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。 
