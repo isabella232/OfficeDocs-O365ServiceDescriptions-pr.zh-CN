@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft Office 365 的管理员可以查看显示组织如何使用 Office 365 服务的报告。 可以使用这些报告来确定问题、筛选数据并将数据下载到 Microsoft Excel 中。 还可以使用 Office 365 报告 Web 服务创建你自己的报告。 Exchange Online 和 Exchange Online Protection (EOP) 管理员可以使用 Office 365 中的邮件保护报告来查看关于恶意软件、垃圾邮件和规则检测的数据。
 ms.openlocfilehash: 0ad1389e9c3bb7c400368389739f62abed62b275
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466629"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247048"
 ---
 # <a name="reports"></a>报表
 

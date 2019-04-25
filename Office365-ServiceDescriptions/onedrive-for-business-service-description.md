@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business 是公司提供给员工个人的在线云存储空间。使用它，可以存储和保护工作文件，同时还能跨多个设备轻松访问工作文件。此外，还能根据需要与同事共享文件，并使用最新 Office 桌面、Web 和移动应用与他人实时协作处理 Office 文档。使用 OneDrive for Business 同步客户端，可以将文件同步到本地计算机。
 ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467189"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246918"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 

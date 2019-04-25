@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Office 365 支持选项。
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467529"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246998"
 ---
 # <a name="support"></a>支持
 
@@ -41,12 +41,12 @@ O365 技术支持团队仅解决与 Office 365 相关的问题。源自客户网
 
 Office 365 售前支持提供有关订阅功能和优势、计划比较、定价和许可方面的帮助，可帮助确定满足你业务需求的合适解决方案。此外，售前支持还可帮助你寻找合作伙伴、购买和注册试用版。你可以在星期一至星期五的本地营业时间内拨打电话。可使用与技术支持相同的电话号码访问售前支持。可在 Office 365 门户上找到免费试用的支持电话号码。有关说明，请参阅[联系 Office 365 商业版支持人员](https://go.microsoft.com/fwlink/p/?LinkID=279815)。
   
-## <a name="billing-and-subscription-management-support"></a>账单和订阅管理支持
+## <a name="billing-and-subscription-management-support"></a>帐单和订阅管理支持
 <a name="BillingSupport"> </a>
 
 可在线或在本地营业时间（周一到周五）通过电话获取有关账单和订阅管理问题的帮助。可使用与技术支持相同的电话号码和在线服务请求过程访问账单和订阅管理支持。可在 Office 365 门户上找到支持电话号码。有关说明，请参阅[联系 Office 365 商业版支持人员](https://go.microsoft.com/fwlink/p/?LinkID=279815)。
   
-以下是账单和订阅管理问题的一些示例：
+以下是一些帐单和订阅管理问题示例：
   
 - 注册试用版或购买订阅
     
@@ -79,9 +79,9 @@ Microsoft 会对问题的类型和对客户的影响进行评估，并据此在�
   
 |**严重级别**|**操作和支持说明**|**示例**|
 |:-----|:-----|:-----|
-|严重性 A（很严重）  <br/> |一个或多个服务不能访问或不可用。生产、经营或部署期限受到严重影响，或对生产或盈利造成严重影响。多个用户或服务受到影响。  <br/> | 收发邮件普遍存在问题。  <br/>  SharePoint 网站停用。  <br/>  所有用户均无法发送即时消息、加入或安排 Skype for Business 会议或拨打 Skype for Business 电话。  <br/> |
-|严重性 B（高）  <br/> |服务可用，但性能受损。这种情况对业务产生的影响不太严重，可在营业时间进行处理。单个用户、客户或服务部分受影响。  <br/> | Outlook 中的"发送"按钮出现乱码。  <br/>  不可能从 EAC（Exchange 管理中心）中进行设置，但可以在 PowerShell 中进行设置。  <br/> |
-|严重性（非关键）  <br/> |这种情况对业务的影响很小。此问题很重要，但不会对客户的当前服务或生产率产生严重影响。单个用户遇到部分中断，但存在可接受的解决方法。  <br/> | 如何设置永不过期的用户密码。  <br/>  用户不能在 Exchange Online 中删除联系人信息。  <br/> |
+|严重级别 A（关键）  <br/> |一个或多个服务不能访问或不可用。生产、经营或部署期限受到严重影响，或对生产或盈利造成严重影响。多个用户或服务受到影响。  <br/> | 收发邮件普遍存在问题。  <br/>  SharePoint 网站停用。  <br/>  所有用户均无法发送即时消息、加入或安排 Skype for Business 会议或拨打 Skype for Business 电话。  <br/> |
+|严重性 B（高）  <br/> |服务可用，但性能受损。这种情况对业务产生的影响不太严重，可在营业时间进行处理。单个用户、客户或服务部分受影响。  <br/> | Outlook 中的“发送”按钮出现乱码。  <br/>  不可能从 EAC（Exchange 管理中心）中进行设置，但可以在 PowerShell 中进行设置。  <br/> |
+|严重级别 C（非关键）  <br/> |这种情况对业务的影响很小。此问题很重要，但不会对客户的当前服务或生产率产生严重影响。单个用户遇到部分中断，但存在可接受的解决方法。  <br/> | 如何设置永不过期的用户密码。  <br/>  用户不能在 Exchange Online 中删除联系人信息。  <br/> |
    
 ### <a name="technical-support-initial-response-times"></a>技术支持初始响应时间
 <a name="InitialResponse"> </a>
@@ -108,7 +108,7 @@ Microsoft 会对问题的类型和对客户的影响进行评估，并据此在�
 
 支持工程师可在大多数地区的营业时间为你提供帮助，在某些情况下可 24 小时为你提供帮助，具体取决于位置和语言。有关详细信息，请参阅[国际电话号码](https://go.microsoft.com/fwlink/p/?LinkID=270873)和 [Office 365 支持选项](https://go.microsoft.com/fwlink/p/?LinkID=279810)。如果需要其他翻译协助，支持工程师可以保持在线状态并安排翻译人员加入通话。 
   
-## <a name="shared-support-responsibilities"></a>共享的支持职责
+## <a name="shared-support-responsibilities"></a>共同承担支持责任
 <a name="TechnicalSupport"> </a>
 
 Microsoft 了解到及时从合格的专业人员获取技术支持是云服务的一个关键方面。客户的 IT 部门在其用户支持方面同样发挥着重要作用。
@@ -127,7 +127,7 @@ People with Office 365 administrator roles are the only ones in the customer's o
     
 - 具有向 Microsoft 提交服务请求的授权。
     
-管理员角色负责：
+管理员角色的职责是：
   
 - 提供用户帐户设置和配置以允许用户访问服务。
     
@@ -143,7 +143,7 @@ People with Office 365 administrator roles are the only ones in the customer's o
 
  Microsoft 支持角色负责： 
   
-- 对客户问题和上报进行故障排除并提供技术指南。
+- 对客户问题和上报进行疑难解答并提供技术指导。
     
 - 收集并验证与特定服务请求相关的信息。
     
@@ -155,7 +155,7 @@ People with Office 365 administrator roles are the only ones in the customer's o
     
 - 提供有关采购和试用查询方面的帮助。
     
-- 经常通过调查收集有关如何改善服务的客户反馈。
+- 不断通过调查收集有关如何改善服务的客户反馈。
     
 ## <a name="additional-support-options"></a>其他支持选项
 <a name="AdditionalSupport"> </a>

@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: word Online (以前称为 word Web App) 将您的 Microsoft Word 体验扩展到 Web 浏览器, 您可以直接在存储文档的网站上处理文档。
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467299"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246948"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -36,12 +36,12 @@ word Online (以前称为 word Web App) 将您的 Microsoft Word 体验扩展到
 
 文档中保存的段落和字符样式可以应用到 Word Online 中的文本。详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
-## <a name="office-add-ins"></a>Office 外接程序
+## <a name="office-add-ins"></a>Office 加载项
 <a name="bkmk_AppsforOffice"> </a>
 
 可以从 Office 应用商店获取 Word 外接程序。Office 外接程序只能在 Word 桌面应用程序中运行，在 Word Online 中不可用。了解如何[获取 Word 外接程序](https://go.microsoft.com/fwlink/?LinkId=391443)。
   
-## <a name="autosave"></a>自动保存
+## <a name="autosave"></a>保存
 <a name="bkmk_Save"> </a>
 
 当您进行更改时，Word Online 将自动保存您的文档。

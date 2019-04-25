@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下搜索功能帮助人们找到完成工作所需的信息。 搜索是相关性、精化和人员的组合。
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467629"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246618"
 ---
 # <a name="search"></a>搜索
 
@@ -49,12 +49,12 @@ SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组�
 
 使用全新的图形精简条件，可以更直观地筛选搜索结果。详细了解如何[配置"精化"Web 部件](https://go.microsoft.com/fwlink/?LinkId=271017)。
   
-## <a name="hybrid-search"></a>Hybrid search
+## <a name="hybrid-search"></a>混合搜索
 <a name="bkmk_HybridSearch"> </a>
 
 在 SharePoint 混合部署中，搜索结果内容可源自 SharePoint Online 和 SharePoint Server 2013 本地网站。若要详细了解混合 SharePoint 环境，请参阅 [SharePoint Server 2013 的混合](https://go.microsoft.com/fwlink/?LinkId=275765)。
   
-## <a name="manage-search-schema"></a>Manage search schema
+## <a name="manage-search-schema"></a>管理搜索架构
 <a name="bkmk_manage_search_schema"> </a>
 
 当有人在 SharePoint 网站上搜索内容时，搜索索引决定了他们的搜索结果。搜索索引包含网站上所有文档和页面的信息，通过对 SharePoint 网站上的内容进行爬网而生成。搜索架构有助于爬网程序决定要选取的内容和元数据，以及如何编制索引。你可以通过更改搜索架构来为用户提供自定义的搜索体验。详细了解如何[在 SharePoint Online 中管理搜索架构](https://go.microsoft.com/fwlink/p/?LinkId=392427)。

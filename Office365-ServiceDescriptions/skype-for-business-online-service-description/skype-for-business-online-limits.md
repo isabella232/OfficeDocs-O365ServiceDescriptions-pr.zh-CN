@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Skype for business Online 中的限制分为以下几类:'
 ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466959"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246458"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -126,7 +126,7 @@ Skype for business Online 中的限制分为以下几类:
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**会议类型** <br/> |**Description** <br/> 
+|**会议类型** <br/> |**说明** <br/> 
 |一次性会议| 会议将至少在计划时间之后14天之后, 或最后一次会议激活或上次会议更新 (以最新的为准) 时才可访问。
 |带结束日期的定期会议| 至少在上次会议事件的计划结束时间之后的14天之后, 或上次会议激活或上次会议更新 (以最新的为准), 会议才可访问。
 |没有结束日期的定期会议| 只要有新的会议加入 (激活) 或每年至少安排一次更新, 会议将始终可访问。

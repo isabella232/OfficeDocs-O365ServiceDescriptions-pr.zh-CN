@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 (online) 服务说明
+title: Microsoft Dynamics 365（在线版）服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 自2016年12月12日的 dynamics 365 (联机和本地) 更新后, dynamics CRM 功能现在作为 dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467209"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246518"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (online) 服务说明
+# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365（在线版）服务说明
 
 自2016年12月12日的 dynamics 365 (联机和本地) 更新后, dynamics CRM 功能现在作为 dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。 
   
@@ -52,14 +52,14 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**应用** <br/> |**企业计划1** <br/> |**企业计划2** <br/> |**面向工作组的企业版使用<sup>1</sup>** <br/> |**商业版, 完全使用<sup>2</sup>** <br/> |**适用于团队成员的商业版<sup>3</sup>** <br/> |
-|[Dynamics 365 for Sales](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_sales) <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[Dynamics 365 for Customer Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_customerservice) <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_fieldservice) <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[Dynamics 365 for Project Service Automation](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_projservautomation) <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[适用于操作的 Dynamics 365](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_operations)<sup>4</sup> <br/> |否  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|**应用程序** <br/> |**企业计划1** <br/> |**企业计划2** <br/> |**面向工作组的企业版使用<sup>1</sup>** <br/> |**商业版, 完全使用<sup>2</sup>** <br/> |**适用于团队成员的商业版<sup>3</sup>** <br/> |
+|[Dynamics 365 for Sales](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_sales) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[Dynamics 365 for Customer Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_customerservice) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_fieldservice) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[Dynamics 365 for Project Service Automation](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_projservautomation) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[适用于操作的 Dynamics 365](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_operations)<sup>4</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[Microsoft PowerApps with Flow](https://ms.flow.microsoft.com/documentation/connection-dynamics365/) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Dynamics 365 金融](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_financials) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[Dynamics 365 金融](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_financials) <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
    
 > <br/><sup>1</sup>浅色: 在所有企业版的所有企业版365应用中包括读取访问权限和对选择轻型任务的一些写访问权限。 
 <br/><sup>2</sup>每个完全使用许可证包括一个外部会计专业许可证, 以通过云安全地与会计进行联系。
@@ -85,7 +85,7 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
 |**仅限门户: 自助服务案例提交和聊天 initiations 作为 supportee (不是代理)** <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |
 |**仅限门户, 非员工: 更新工作订单, 创建和更新商机** <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup> <br/> |全<sup>3</sup>`  <br/> |
 |**用户报告、仪表板和图表** <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**配置系统报告、系统图表、系统仪表板** <br/> |None  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
+|**配置系统报告、系统图表、系统仪表板** <br/> |无  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**潜在客户、商机、目标、合同、报价单、订单、发票、竞争对手** <br/> |只读  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**销售活动、快速市场活动、市场营销列表、价格表、产品列表** <br/> |只读  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**统一服务桌面** <br/> |只读  <br/> |完整  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
@@ -93,8 +93,8 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
 |**工作订单、安排和派遣计划板、服务协议、字段服务发票和采购订单、客户资产、库存、维修和退货** <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |只读  <br/> |完整  <br/> |
 |**项目、项目支出和估计、资源可用性视图和计划管理、项目价格列表/合同/发票、批准项目交易记录、Microsoft project Online 高级版** <br/> |只读  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |完整  <br/> |
 |**PowerApps** <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |完整  <br/> |
-|**Microsoft 社交活动、客户语音、移动脱机、Gamification 播放器和管理员** <br/> |None  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
-|**在应用程序中包含的多个实体之间创建工作流、批量数据导入和自定义** <br/> |None  <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |完整  <br/> |
+|**Microsoft 社交活动、客户语音、移动脱机、Gamification 播放器和管理员** <br/> |无  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
+|**在应用程序中包含的多个实体之间创建工作流、批量数据导入和自定义** <br/> |无  <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |完整  <br/> |
    
  **full** = 完全访问权限 
   
@@ -116,7 +116,7 @@ Dynamics 365 服务的停机时间窗口定义如下:
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Category** <br/> |**影响/停机时间** <br/> |**通知** <br/> |**运营水平协议\*** <br/> |
+|**类别** <br/> |**影响/停机时间** <br/> |**通知** <br/> |**运营水平协议\*** <br/> |
 |每周  <br/> |无影响/无停机  <br/> |消息中心  <br/> |48小时  <br/> |
 |每月  <br/> |无影响/无停机  <br/> |消息中心  <br/> |48小时  <br/> |
 |更新汇总  <br/> |无影响/无停机  <br/> |消息中心  <br/> |48小时  <br/> |

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
 ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30574136"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247038"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -47,14 +47,14 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 
 <br/>
 
-|**2018** <br/>||||
+|**2018 年** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
 | 99.99% <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
 
 <br/>
 
-|**2017** <br/> ||||
+|**2017 年** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
 | 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |

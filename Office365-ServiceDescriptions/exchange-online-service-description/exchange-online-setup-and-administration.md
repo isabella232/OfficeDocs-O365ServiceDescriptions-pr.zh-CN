@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本节介绍可用于自定义 Exchange online 设置并使组织的 exchange online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
 ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955741"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246298"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 

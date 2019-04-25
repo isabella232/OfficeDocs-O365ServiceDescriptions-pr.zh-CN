@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
 ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467409"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246328"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>收件人
 
 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。这包括电子邮件、联系人、通讯组、日历和日程安排功能。
   
@@ -41,7 +41,7 @@ ms.locfileid: "30467409"
 
 邮件提示是当用户正在撰写或定址邮件时自动显示在"收件人:"行上方的参考信息。旨在帮助防止意外发送、违反政策或生成不必要的未送达报告 (NDR)。例如，如果发件人尝试向超大组、包含外部收件人的组或被审阅或限制的通讯组发送邮件，邮件提示可以生成警报。有关详细信息，请参阅 [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472)（邮件提示）。
   
-### <a name="delegate-access"></a>委派访问
+### <a name="delegate-access"></a>委托访问
 
 Exchange Online 支持委派访问用户允许其他用户管理他们的电子邮件和日历的能力。委派访问通常用于经理和助理之间，其中助理可以处理经理的入站电子邮件消息并协调经理的计划。代理访问可由 Outlook 或 Outlook Web App 中的 Exchange Online 用户启用，或由 Exchange 管理中心中的管理员启用。 
   

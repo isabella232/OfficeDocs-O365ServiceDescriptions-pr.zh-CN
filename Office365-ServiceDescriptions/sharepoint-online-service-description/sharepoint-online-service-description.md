@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外, SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。 有关快速概述, 请参阅什么是 SharePoint？
 ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467909"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246598"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -28,7 +28,7 @@ Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工�
   
 若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
-## <a name="whats-new"></a>新增功能
+## <a name="whats-new"></a>最近更新
 
 有关 SharePoint Online 中新增功能的信息，请参阅 [SharePoint Online 的新增功能](https://go.microsoft.com/fwlink/?LinkId=271744)。
   
@@ -69,22 +69,22 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**开发人员功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[访问服务](developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |
+|[访问服务](developer.md#access-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |[应用程序目录 (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[应用程序部署：云托管的应用程序](developer.md#app-deployment-cloud-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[应用程序部署：SharePoint 托管的应用程序](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[应用程序管理服务](developer.md#app-management-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[BCS：应用程序范围内的外部内容类型 (ECT)](developer.md#bcs-app-scoped-external-content-types-ects) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[BCS: 业务数据 Web 部件](developer.md#bcs-business-data-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[BCS：外部列表](developer.md#bcs-external-list) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[BCS：OData 连接器](developer.md#bcs-odata-connector) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[BCS：富客户端集成](developer.md#bcs-rich-client-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[BCS：应用程序范围内的外部内容类型 (ECT)](developer.md#bcs-app-scoped-external-content-types-ects) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[BCS: 业务数据 Web 部件](developer.md#bcs-business-data-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[BCS：外部列表](developer.md#bcs-external-list) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[BCS：OData 连接器](developer.md#bcs-odata-connector) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[BCS：富客户端集成](developer.md#bcs-rich-client-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[客户端对象模型 (OM)](developer.md#client-object-model-om) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[自定义站点设置页面](developer.md#custom-site-provisioning-page) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[开发人员站点](developer.md#developer-site) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|[自定义站点设置页面](developer.md#custom-site-provisioning-page) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[开发人员站点](developer.md#developer-site) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[基于表单的应用程序](developer.md#infopath-forms-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[完全信任的解决方案](developer.md#full-trust-solutions) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是<sup>17</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[完全信任的解决方案](developer.md#full-trust-solutions) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |是<sup>17</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[JavaScript 对象模型](developer.md#javascript-object-model) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[远程事件接收器](developer.md#remote-event-receiver) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[REST api](developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -96,24 +96,24 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[SharePoint 2013 和 SharePoint 2016 工作流](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**IT 专业人员功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Active Directory 同步](it-professional.md#active-directory-synchronization) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[备用访问映射 (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[反恶意软件保护](it-professional.md#anti-malware-protection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[基于声明的身份验证支持](it-professional.md#claims-based-authentication-support) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[备用访问映射 (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[反恶意软件保护](it-professional.md#anti-malware-protection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[基于声明的身份验证支持](it-professional.md#claims-based-authentication-support) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[Office 365 的客户密钥](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |无<sup>20</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[数据丢失预防](it-professional.md#data-loss-prevention) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[静态加密](it-professional.md#encryption-at-rest) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|传输中的加密  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[主机标头网站集](it-professional.md#host-header-site-collections) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[Office 365 移动设备管理](it-professional.md#mobile-device-management-for-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|[数据丢失预防](it-professional.md#data-loss-prevention) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[静态加密](it-professional.md#encryption-at-rest) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|传输中的加密  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[主机标头网站集](it-professional.md#host-header-site-collections) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[Office 365 移动设备管理](it-professional.md#mobile-device-management-for-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是  <br/> |是  <br/> |
 |[修补程序管理](it-professional.md#patch-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[配额模板](it-professional.md#quota-templates) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[配额模板](it-professional.md#quota-templates) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[只读数据库支持](it-professional.md#read-only-database-support) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[远程 BLOB 存储](it-professional.md#remote-blob-storage) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[请求管理](it-professional.md#request-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[资源限制](it-professional.md#resource-throttling) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[服务应用程序平台](it-professional.md#service-application-platform) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 运行状况分析器](it-professional.md#sharepoint-health-analyzer) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 运行状况分析器](it-professional.md#sharepoint-health-analyzer) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[SharePoint 管理中心 (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>4</sup> <br/> |N/A  <br/> |不适用  <br/> |
 |SharePoint 管理中心  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[网站集合规性策略](it-professional.md#site-collection-compliance-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -124,19 +124,19 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[资产库增强/视频支持](content.md#asset-library-enhancementsvideo-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[审核](content.md#auditing) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[审核&amp;报告（例如，文档编辑、策略编辑、删除）](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[目录](content.md#catalog) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[类别页面和目录项页面](content.md#category-page-and-catalog-item-page) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[Catalog](content.md#catalog) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[类别页面和目录项页面](content.md#category-page-and-catalog-item-page) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[内容管理器](content.md#content-organizer) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[跨网站发布](content.md#cross-site-publishing) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[跨网站发布](content.md#cross-site-publishing) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[设计管理器](content.md#design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[文档集](content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Word Online 中的文档翻译](content.md#document-translation-in-word-online) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](content.md#ediscovery-search) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是  <br/> |是  <br/> |
-|[电子数据展示保留](content.md#ediscovery-hold) <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是  <br/> |
-|[电子数据展示导出](content.md#ediscovery-export) <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是  <br/> |
+|[电子数据展示保留](content.md#ediscovery-hold) <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |可访问  <br/> |
+|[电子数据展示导出](content.md#ediscovery-export) <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |可访问  <br/> |
 |[外部共享：外部访问](content.md#external-sharing-external-access) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |可配置 extranet  <br/> |可配置 extranet  <br/> |
 |[外部共享：来宾链接](content.md#external-sharing-guest-link) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |否  <br/> |否  <br/> |
-|[分面导航](content.md#faceted-navigation) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[分面导航](content.md#faceted-navigation) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[文件夹同步](content.md#folder-sync) <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>1</sup> <br/> |是  <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
 |混合审核  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>19</sup> <br/> |是  <br/> |是  <br/> |
 |混合分类和内容类型  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>19</sup> <br/> |是  <br/> |是  <br/> |
@@ -145,26 +145,26 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[托管元数据服务](content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[元数据驱动的导航](content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[多级布置](content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（创建/编辑）](content.md#office-online-createedit) <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
+|[Office Online（创建/编辑）](content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
 |[Office Online（视图）](content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 专业增强版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Office 专业增强版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Office Web Apps 服务器集成](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |是  <br/> |是  <br/> |
-|[保存保留库](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[保存保留库](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[发布分析](content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[快速编辑](content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[快速编辑](content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[记录管理](content.md#records-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[回收站（SharePoint 管理中心）](content.md#recycle-bin-sharepoint-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[回收站（网站集）](content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[搜索 web 部件](content.md#search-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[回收站（SharePoint 管理中心）](content.md#recycle-bin-sharepoint-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|[回收站（网站集）](content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[搜索 web 部件](content.md#search-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[共享的内容类型](content.md#shared-content-types) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 翻译服务](content.md#sharepoint-translation-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[唯一文档 ID](content.md#unique-document-ids) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[视频搜索](content.md#video-search) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[视频搜索](content.md#video-search) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[WCM：搜索引擎优化 (SEO)](content.md#wcm-search-engine-optimizations-seo) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Word 自动化服务](content.md#word-automation-services) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**洞察力功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[商业智能中心](insights.md#business-intelligence-center) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[计算度量值和成员](insights.md#calculated-measures-and-members) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[商业智能中心](insights.md#business-intelligence-center) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[计算度量值和成员](insights.md#calculated-measures-and-members) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[数据连接库](insights.md#data-connection-library) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[分离的 PivotTable 和 PivotChart](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[Field list and Field Support](insights.md#field-list-and-field-support) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -175,24 +175,24 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[SharePoint 中适用于 Excel 的 Power View](insights.md#power-pivot-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[SharePoint 中适用于 Excel 的 Power Pivot](insights.md#power-view-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[快速浏览](insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[SQL Server Reporting Services (SSRS) 集成的模式](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[时间线切片器](insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
-|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>18</sup> <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |
-|[Visio Services](insights.md#visio-services)<sup>18</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[SQL Server Reporting Services (SSRS) 集成的模式](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[时间线切片器](insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>18</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Visio Services](insights.md#visio-services)<sup>18</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**搜索功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[连续爬网](search.md#continuous-crawls) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[深度链接](search.md#deep-links) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[基于事件的相关性](search.md#event-based-relevancy) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[专业知识搜索](search.md#expertise-search) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[图形精简程序](search.md#graphical-refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|突出显示的内容 (Web 部件)  <br/> |是  <br/> |是  <br/> |||是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|突出显示的内容 (Web 部件)  <br/> |是  <br/> |是  <br/> |||是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[混合搜索](search.md#hybrid-search) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|智能搜索 (Microsoft Graph)  <br/> |是  <br/> |是  <br/> |||是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|智能搜索 (Microsoft Graph)  <br/> |是  <br/> |是  <br/> |||是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[管理搜索架构](search.md#manage-search-schema) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|人员卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|人员卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[拼音名称匹配](search.md#phonetic-name-matching) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[查询规则添加已升级结果](search.md#query-rulesadd-promoted-results) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[查询规则高级操作](search.md#query-rulesadvanced-actions) <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|[查询规则高级操作](search.md#query-rulesadvanced-actions) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[查询拼写更正](search.md#query-spelling-correction) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[查询建议](search.md#query-suggestions) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[悬停预览](search.md#on-hover-preview) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -200,14 +200,14 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[精简程序](search.md#refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[RESTful 查询 API/查询 OM](search.md#restful-query-apiquery-om) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[搜索结果排序](search.md#search-results-sorting) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|搜索 Web 部件  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|搜索 Web 部件  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |["此列表"搜索](search.md#this-list-searches) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**站点功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|通信网站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|[社区](social.md#community) <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |否  <br/> |是  <br/> |是  <br/> |
-|[公司源](social.md#company-feed) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|通信网站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[社区](social.md#community) <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[公司源](social.md#company-feed) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[跨浏览器支持](sites-servicedesc.md#cross-browser-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[自定义托管路径](sites-servicedesc.md#custom-managed-paths) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[自定义托管路径](sites-servicedesc.md#custom-managed-paths) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |文档库  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[控制](sites-servicedesc.md#governance) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |中心网站  <br/> |无<sup>21</sup> <br/> |无<sup>21</sup> <br/> |无<sup>21</sup> <br/> |无<sup>21</sup> <br/> |无<sup>21</sup> <br/> |无<sup>21</sup> <br/> |无<sup>21</sup> <br/> |否  <br/> |否  <br/> |
@@ -224,18 +224,18 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |SharePoint Ribbon <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[网站设计](sites-servicedesc.md#site-designs) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[网站主题 (更改外观)](sites-servicedesc.md#site-themes-change-the-look) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[网站使用情况页](sites-servicedesc.md#site-usage-page) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |
+|[网站使用情况页](sites-servicedesc.md#site-usage-page) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |[任务列表](sites-servicedesc.md#task-list) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[团队笔记本](sites-servicedesc.md#team-notebook) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |工作组网站 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[变体](sites-servicedesc.md#variations) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |是  <br/> |是  <br/> |
+|[变体](sites-servicedesc.md#variations) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |网站源 (使用 sharepoint social 的经典团队网站 (使用 sharepoint 社交的经典团队网站)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Wiki](social.md#wikis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Yammer 集成  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |||
+|Yammer 集成  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |||
 |**附加设备** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[其他存储](add-ons.md#additional-storage) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Azure 设置的应用程序：访问服务](add-ons.md#azure-provisioned-apps-access-services) <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |否  <br/> |否  <br/> |
-|[Azure 设置的应用程序：Azure 轻型 Web 角色中的自定义代码 (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|[Azure 设置的应用程序：Azure 轻型 Web 角色中的自定义代码 (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
    
 > <sup>1</sup> To use folder sync, you must have Office 2013 or later (Standard or Professional edition) or an Office 365 subscription that includes Office applications. Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans. 
 <br/><sup>2</sup> Firstline 工作者具有有限的 OneDrive for business 功能。 Firstline 工作人员接收2gb 存储空间, 并且缺少桌面同步功能。 Firstline 帐户不包括 onedrive for business 个人网站, 因此它们不会从具有 1 tb 或 5 tb 的联机存储的 OneDrive for business 个人库中受益。
