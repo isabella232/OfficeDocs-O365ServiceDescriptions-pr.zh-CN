@@ -3,7 +3,7 @@ title: 服务运行状况和连续性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247038"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368385"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -47,6 +47,13 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 
 <br/>
 
+|**2019 年** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
+| 99.97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018 年** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
@@ -58,6 +65,8 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
 | 99.99% <br/> | 99.97% <br/> | 99.98% <br/> | 99.99% <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>通知策略
 
@@ -147,4 +156,3 @@ Office 365 开发和运营团队由专门的 Office 365 支持组织提供补充
 
 若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
   
-
