@@ -3,7 +3,7 @@ title: 由世纪互联运营的 Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 04/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2fb0b7e9c83753e757d1efa87795047ffc403f4f
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247300"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544899"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -98,7 +98,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office Delve  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Office 365 组  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 视频  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是<sup>2</sup> <br/> |
-|OneNote 课堂笔记本  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|OneNote 课堂笔记本  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>15<sup>  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[用户帐户管理](user-account-management.md)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |云标识、联合身份或多重身份验证<sup>14</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 桌面设置  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -159,7 +159,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |**[服务更新](service-updates.md)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |向所有客户提供的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |当需要执行操作时发送到邮件中心的通知、解决问题、部署功能或服务更改  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|针对某些服务更新的 Roadmap.office.com  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|用于某些服务更新的[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目标发布的启用选项  <br/> |否  <br/> |--  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
 |**[帮助和培训](help-and-training.md)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |联机帮助  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -209,7 +209,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup>中国互联网合规性策略要求获取某个公共网站的 Internet 内容提供商 (ICP) 编号。 有关详细信息，请参阅相应的 ICP 主题。 
 <br/><sup>12</sup>某些 TechNet 内容可能不适用于由世纪互联运营的 Office 365。 
 <br/><sup>13</sup>降低体验质量。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
-<br/><sup>14</sup>在 Outlook mobile (IOS 和 Android) 中目前不支持多重身份验证。 
+<br/><sup>14</sup>在 Outlook MOBILE (IOS 和 Android) 中目前不支持多重身份验证。 
+<br/><sup>15</sup>通过世纪提供 Onenote 课堂笔记本, 但 Onenote 课堂笔记本工具栏不适用于 Windows 10 应用、IPad 或 OneNote Online。
   
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能 
 <a name="BM3_OfficeApp"> </a>
@@ -233,7 +234,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft Visio Pro<sup>10</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |是<sup>4</sup> <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |无<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Windows 8 应用程序](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[适用于 Office 365 的 Office for Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |无<sup>5</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -276,7 +277,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > <sup>1</sup>此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。 
 <br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。 
 <br/><sup>3</sup>如果有 Office Professional Plus 2013 或独立版 Excel 2013，可以不受支持的外接程序的形式下载并使用 [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)。 
- <br/><sup>4</sup>适用于所有客户的 "Skype for business 基本版"。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+ <br/><sup>4</sup>适用于所有客户的 "Skype For business 基本版"。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
 <br/><sup>5</sup>一些学校有资格享受教育增强版（其中包括 Office 365 ProPlus），并允许学生和教职员工在最多五台 PC 或 Mac 计算机上和其他移动设备（其中包括 Windows 平板电脑和 iPad）上安装最新版 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 
 <br/><sup>6</sup>可以安装但不可激活 Office 2011 for Mac。 
 <br/><sup>7</sup> Office 365 专业增强版在用户专用的虚拟桌面基础结构 (VDI) 上受支持。 只有当通过批量许可计划购买时，Office 365 ProPlus 才支持远程桌面服务 (RDS)。 
@@ -419,15 +420,15 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
    
 > <sup>1</sup>某些第三方 web 部件和外接程序可能不可用。 
 <br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。 
-<br/><sup>3</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 以及基于条件要采取的操作。 exchange Online 和 Microsoft exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 
+<br/><sup>3</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 以及基于条件要采取的操作。 Exchange Online 和 Microsoft Exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 
 <br/><sup>4</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。 
 <br/><sup>5</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 
 <br/><sup>6</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 
 <<br/>sup>7</sup>对于电子数据展示, 您需要单独查询内部部署和云。 
 <br/><sup>8</sup>支持 POP, 但不支持 IMAP。 
-<br/><sup>9</sup> Office 365 business Essentials 和 business Premium 不提供使用本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 > <br/><sup>10</sup> "混合配置" 向导可用于 Exchange 2013 CU5 和更大的本地部署。 但是，一些混合功能具有限制，有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。 
+<br/><sup>9</sup> Office 365 business Essentials 和 business Premium 不提供使用本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 > <br/><sup>10</sup> "混合配置" 向导可用于 EXCHANGE 2013 CU5 和更大的本地部署。 但是，一些混合功能具有限制，有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。 
 <br/><sup>11</sup>由世纪互联运营的 Office 365, LinkedIn 可用, 但不支持 Facebook。 > 
-<br/><sup>12</sup>可以通过 exchange 2013 CU5 的混合配置向导使用混合部署设置, 如果你有 exchange 2013 SP1, 则可以手动进行设置。 有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。 
+<br/><sup>12</sup>可以通过 EXCHANGE 2013 CU5 的混合配置向导使用混合部署设置, 如果你有 EXCHANGE 2013 SP1, 则可以手动进行设置。 有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。 
 <br/><sup>13</sup>已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。 
 <br/><sup>14</sup>不支持使用 cmdlet 来使用地址列表和全局地址列表。 
   
@@ -462,7 +463,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > - 应用于 Microsoft Office 365 组织的限制可能因组织已在服务中登记的时间长度而异。 当某个限制在 Microsoft 数据中心中更改时，可能需要一段时间才能将更改应用于所有现有客户。 
 > - 虽然您无法修改其中大多数限制，但您和您的用户应了解它们。 
 > - 这些限制适用于内部收件人和外部收件人。 
-> - 默认情况下, exchange online Protection (EOP) 保护 exchange online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
+> - 默认情况下, Exchange Online Protection (EOP) 保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
   
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 功能
 <a name="BM6_EOP"> </a>
@@ -600,7 +601,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[JavaScript 对象模型](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |List and Library APIs <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[远程事件接收器](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[REST api](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[沙盒解决方案](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |无<sup>10</sup> <br/> |无<sup>10</sup> <br/> |无<sup>10</sup> <br/> |无<sup>10</sup> <br/> |无<sup>10</sup> <br/> |
 |[SharePoint 设计管理器](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -689,7 +690,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[唯一文档 ID](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[视频搜索](../sharepoint-online-service-description/content.md#video-search) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[发布分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
+|[目录](../sharepoint-online-service-description/content.md#catalog) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[类别页面和目录项页面](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[搜索 web 部件](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[跨网站发布](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
@@ -964,9 +965,9 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft 365 管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Skype for Business 管理中心  <br/> |是  <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Microsoft 365 管理中心中的 Skype for business Online 报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. office 365 专业增强版和 office 365 企业版 E3 包括完整的 Skype for business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[Skype for business Online 客户端比较表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[Skype For Business Online 客户端比较表](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)。 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/> <sup>3</sup> Only accessible through the Skype for Business admin center management interface. 
 <br/> <sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus. 
@@ -1068,7 +1069,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Microsoft 365 管理中心  <br/> |是  <br/> |是  <br/> |
 |Skype for Business 管理中心  <br/> |是  <br/> |是  <br/> |
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |
-|Microsoft 365 管理中心中的 Skype for business Online 报告  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
+|Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
 
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).

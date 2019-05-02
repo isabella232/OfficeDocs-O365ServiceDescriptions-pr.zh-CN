@@ -3,7 +3,7 @@ title: Office Online 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246958"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544959"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
-Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。 
+Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。 
   
 若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
@@ -120,6 +120,7 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 |:-----|:-----|:-----|
 |**应用程序功能** <br/> |**Excel Online** <br/> |**Excel 桌面应用** <br/> |
 |[辅助功能检查器](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
+|[向工作表选项卡添加背景色](excel-online.md#add-background-color-to-sheet-tabs) <br/> |是  <br/> |是  <br/> |
 |[添加超链接](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[高级时间筛选（时间线切片器）](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |否  <br/> |可访问  <br/> |
 |[对齐方式](excel-online.md#alignment) <br/> |是  <br/> |是  <br/> |
@@ -129,6 +130,7 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 |[自动完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[换算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
+|[公式中的调用引用](excel-online.md#call-reference-in-formulas) <br/> |是  <br/> |是  <br/> |
 |[创建批注](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[复制和粘贴](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
 |[创建外部数据连接<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |无<sup>3</sup> <br/> |是  <br/> |
@@ -136,9 +138,10 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 |[创建高级分析视图（Power View、Power Pivot、切片器）](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |否  <br/> |可访问  <br/> |
 |[数据验证](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放单元格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/>|
+|[复制 (复制) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
 |[在 Web 或博客页面上嵌入工作簿 (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
-|[外部引用](excel-online.md#external-references-links) <br/> |无<sup>5</sup> <br/> |是  <br/> |
+|[外部引用](excel-online.md#external-references-links) <br/> |无<sup>4</sup> <br/> |是  <br/> |
 |[填充柄](excel-online.md#fill-handle) <br/> |是  <br/> |是  <br/> |
 |[查找](excel-online.md#find) <br/> |是  <br/> |是  <br/> |
 |[字体和单元格格式](excel-online.md#font-and-cell-formatting) <br/> |是  <br/> |是  <br/> |
@@ -148,16 +151,20 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 |[全保真阅读视图](excel-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[函数](excel-online.md#functions) <br/> |是  <br/> |是  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
+|[组数据](excel-online.md#group-data) <br/> |是  <br/> |是  <br/> |
 |[隐藏/取消隐藏行、列和表格](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
-|[插入形状/图片](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
+|[想法](excel-online.md#ideas) <br/> |是  <br/> |是  <br/> |
 |[插入图表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/删除行和列](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
+|[插入图片](excel-online.md#insert-pictures) <br/> |是  <br/> |是  <br/> |
+|[插入形状](excel-online.md#insert-shapes) <br/> |是  <br/> |是  <br/> |
 |[合并单元格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
+|[命名区域](excel-online.md#named-ranges) <br/> |是  <br/> |是  <br/> |
 |[数值格式](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
 |[Office Add-ins](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
 |[脱机查看和创作](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |可访问  <br/> |
-|[数据透视图](excel-online.md#post-to-social-network-and-present-online) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
-|[数据透视表](excel-online.md#post-to-social-network-and-present-online) <br/> |是  <br/> |是  <br/> |
+|[数据透视图](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
+|[数据透视表](excel-online.md#pivot-tables) <br/> |是  <br/> |是  <br/> |
 |[发布到社交网络并联机演示](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |可访问  <br/> |
 |[Power Pivot 查看](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
 |[Power View 查看](excel-online.md#power-view-viewing) <br/> |是  <br/> |是  <br/> |
@@ -165,6 +172,7 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 |[实时共同创作](excel-online.md#real-time-co-authoring) <br/> |是  <br/> |是  <br/> |
 |[创建推荐的图表并使用格式控件进行编辑](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |否  <br/> |可访问  <br/> |
 |[刷新现有的数据连接](excel-online.md#refresh-existing-data-connections) <br/> |是  <br/> |是  <br/> |
+|[删除重复值](excel-online.md#remove-duplicate-values) <br/> |是  <br/> |是  <br/> |
 |[重命名和添加工作表](excel-online.md#rename-and-add-sheets) <br/> |是  <br/> |是  <br/> |
 |[工作簿打开时重命名文件](excel-online.md#rename-file-while-workbook-is-open) <br/> |是  <br/> |否  <br/> |
 |[替换](excel-online.md#replace) <br/> |是  <br/> |是  <br/> |
@@ -177,7 +185,9 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 |[电子表格审核和合规性](excel-online.md#spreadsheet-audit-and-compliance) <br/> |否  <br/> |可访问  <br/> |
 |[状态栏聚合](excel-online.md#status-bar-aggregates) <br/> |是  <br/> |是  <br/> |
 |[调查](excel-online.md#surveys) <br/> |是  <br/> |否  <br/> |
-|[告诉我](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/> |
+|[告诉我](excel-online.md#tell-me) <br/> |是  <br/> |是  <br/>|
+|[文本格式](excel-online.md#text-formatting) <br/> |是  <br/> |是  <br/>|
+|[总数据](excel-online.md#total-data) <br/> |是  <br/> |是  <br/>|
 |[撤消和恢复](excel-online.md#undo-and-redo) <br/> |是  <br/> |是  <br/> |
 |[VBA 和宏脚本](excel-online.md#vba-and-macro-scripting) <br/> |是<sup>3</sup>  <br/> |是  <br/> |
 |[查看 3D 图表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
@@ -186,10 +196,8 @@ Office Online (以前称为 office Web Apps) 在 Web 浏览器中打开 Word、E
 > <sup>1</sup>无法创建数据透视图, 只能查看。
  <br/><sup>2</sup>根据您的环境的配置方式, Excel Online 中显示的工作簿支持某些类型的数据连接。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
  <br/><sup>3</sup>您不能在 Excel Online 中使用 VBA 创建宏, 但您可以打开和编辑启用 vba 的电子表格, 而无需删除 (或损坏) 文件中包含的 vba。
- <br/><sup>4</sup> 虽然可以在 Excel Online 中编辑使用数据验证的工作簿，但不能在 Excel Online 中设置数据验证。 
- <br/><sup>5</sup> 在 Excel Online 中，最后一个已知的引用值在浏览器窗口中显示，但必须使用 Excel 桌面版进行更新。 
- <br/><sup>6</sup> 虽然可以查看使用 Excel 桌面应用程序创建的冻结窗格，但无法在 Excel Online 中创建冻结窗格。 
- <br/><sup>7</sup> 某些（并非所有）Office 外接程序可用。 
+ <br/><sup>4</sup>在 Excel Online 中, 最后一个已知的引用值显示在浏览器窗口中;但是, 必须使用 Excel 桌面应用程序对其进行更新。 
+ <br/><sup>5</sup> 某些（并非所有）Office 外接程序可用。 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>

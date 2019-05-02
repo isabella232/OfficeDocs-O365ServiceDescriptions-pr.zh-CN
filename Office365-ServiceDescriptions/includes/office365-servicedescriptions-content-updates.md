@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>2019 年 3 月 18 日所在周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 3/18/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
-| 3/18/2019 | [产品使用权限](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | 修改内容 |
-
-
 ## <a name="week-of-march-25-2019"></a>2019 年 3 月 25 日所在周
 
 
@@ -67,4 +58,16 @@
 | 4/18/2019 | [客户端和移动设备](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | 修改内容 |
 | 4/18/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
 | 4/18/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
-| 4/18/2019 | [内容](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 修改内容 |
+| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | 修改内容 |
+
+
+## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日所在周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 4/24/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
+| 4/26/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
+| 4/26/2019 | [服务运行状况和连续性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 修改内容 |
+| 4/26/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
+| 4/26/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改时间 |

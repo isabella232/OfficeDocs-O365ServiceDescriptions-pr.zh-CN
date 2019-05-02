@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,45 +14,48 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: excel Online (以前称为 excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
-ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
+ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246978"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544940"
 ---
 # <a name="excel-online"></a>Excel Online
 
-excel Online (以前称为 excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
+Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
   
 > [!NOTE]
-> 在 Microsoft SharePoint online 中, 不能在 Excel online 中查看超过 30 mb 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
+> 在 Microsoft SharePoint Online 中, 不能在 Excel Online 中查看超过 30 mb 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
   
 > [!NOTE]
-> 为帮助您比较提供的服务，本文中所列的高级功能包括只在 Office 套件中提供的 Excel 桌面应用程序功能（例如 Office Professional Plus、Office Standard 或 Office 365 ProPlus）。有关 Office Online 的所有功能（比如 Word Online 和 PowerPoint Online）的列表，请参阅 [跨 Office Online 计划的功能可用性](office-online-service-description.md#feature-availability-across-office-online-plans)
+> 为帮助您比较提供的服务，本文中所列的高级功能包括只在 Office 套件中提供的 Excel 桌面应用程序功能（例如 Office Professional Plus、Office Standard 或 Office 365 ProPlus）。 有关所有 Office Online 功能 (如 Word Online 和 PowerPoint Online) 的列表, 请参阅[跨 Office Online 计划的功能可用性](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。 
+
+若要查看 Excel Online 支持哪种文件类型，请参阅 [Office Online 的受支持文件类型](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。要详细了解 Excel Online 和 Excel 桌面应用程序之间的差异，请参阅 [Differences between using a workbook in the browser and in Excel](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)（浏览器和 Excel 中工作簿的用法区别）。 
   
-若要查看 Excel Online 支持哪种文件类型，请参阅 [Office Online 的受支持文件类型](office-online-service-description.md#supported-file-types-for-office-online)。要详细了解 Excel Online 和 Excel 桌面应用程序之间的差异，请参阅 [Differences between using a workbook in the browser and in Excel](https://go.microsoft.com/fwlink/?linkid=390875)（浏览器和 Excel 中工作簿的用法区别）。
-  
+## <a name="add-background-color-to-sheet-tabs"></a>向工作表选项卡添加背景色 
+<a name="bkmk_Addbackgroundcolor"></a>将背景填充颜色添加到工作表中的工作表标签以使其突出放置。有关详细信息, 请参阅[向工作表选项卡添加背景颜色](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59)。 
+
 ## <a name="add-hyperlinks"></a>Add hyperlinks
 <a name="bkmk_Addhyperlinks"> </a>
 
-通过在单元格中添加超链接，链接到网页或打开 Web 上的文件。您可以在单元格中直接键入 Web 地址，也可以使用"插入超链接"命令。
+通过在单元格中添加超链接，链接到网页或打开 Web 上的文件。您可以在单元格中直接键入 Web 地址，也可以使用"插入超链接"命令。 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>高级时间筛选（时间线切片器）
 <a name="bkmk_Advancedtimefiltering"> </a>
 
-时间线控制让你能够筛选模型化的数据。利用它可以通过可视方式查看和更改连续的日期范围，并筛选基于透视的对象（例如，数据透视表和数据透视图）。 
+时间线控制让你能够筛选模型化的数据。利用它可以通过可视方式查看和更改连续的日期范围，并筛选基于透视的对象（例如，数据透视表和数据透视图）。  
   
 ## <a name="alignment"></a>Alignment
 <a name="bkmk_Alignment"> </a>
 
-使用"主页"选项卡上的"对齐方式"按钮可更改文本的对齐方式。 
+使用"主页"选项卡上的"对齐方式"按钮可更改文本的对齐方式。  
   
 ## <a name="apply-conditional-formatting"></a>应用条件格式
 <a name="bkmk_Applyconditionalformatting"> </a>
 
-条件格式可以查看，但是不应用在 Excel Online 中。Excel 桌面应用程序允许完整使用此功能以及其他高级功能。了解更多有关[如何在 Excel 2013 中使用条件格式](https://go.microsoft.com/fwlink/p/?LinkId=282326)的信息。 
+使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何在 Excel Online 中使用条件格式的详细信息。 [在 Excel 2013 中使用条件格式](https://go.microsoft.com/fwlink/p/?LinkId=282326)。 
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
@@ -62,7 +65,7 @@ excel Online (以前称为 excel Web App) 将您的 Microsoft Excel 体验扩展
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-在 Excel Online 中不可用。在 Excel 2013 桌面应用程序中，推荐的图表可让你从最适合显示你的数据的各种图表中进行选择。了解有关[如何在 Excel 2013 中使用图表建议](https://go.microsoft.com/fwlink/p/?LinkId=282335)的详细信息。
+在 Excel Online 中不可用。 在 Excel 桌面应用程序中, 推荐的图表允许您从最适合呈现数据的各种图表中进行选择。 了解有关[如何在 Excel 中使用图表建议的](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)详细信息。
   
 ## <a name="office-add-ins"></a>Office 加载项
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -83,6 +86,9 @@ Excel Online 可以填写您键入到单元格中的内容，如果存在多个�
 <a name="BKMK_Calculations"> </a>
 
 可以使用 Excel 执行各种自动、手动和迭代计算。Excel 使用函数来执行这些计算。有关详细信息，请参阅 [Excel 函数（按类别）](https://go.microsoft.com/fwlink/?linkid=847459)。
+
+## <a name="call-reference-in-formulas"></a>公式中的呼叫引用
+<a name="bkmk_Callreferenceinformulas"></a>您可以在公式中使用单元格引用。 当引用公式中的单元格或区域时, 被引用的单元格或区域将突出显示为一种颜色。 有关详细信息, 请参阅[在公式中使用单元格引用](https://support.office.com/en-us/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
@@ -90,7 +96,7 @@ Excel Online 可以填写您键入到单元格中的内容，如果存在多个�
 仅 Microsoft Excel 桌面应用程序支持高级图表功能。了解有关 [how to animate a SmartArt graphic](https://go.microsoft.com/fwlink/p/?LinkId=271668)（如何将 SmartArt 图形制作成动画）的详细信息。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>图表和表格，包括数据透视图报表和数据透视表
-<a name="BKMK_ChartsAndTables"> </a>
+<a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
 Excel 图表和表格使你可以轻松地设置数据格式并管理信息。若要了解详细信息，请参阅 [Create or delete an Excel table](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)（创建或删除 Excel 表格）和 [Overview of PivotTable and PivotChart reports](https://go.microsoft.com/fwlink/?linkid=55417)（数据透视表和数据透视图报表概述）。
   
@@ -107,7 +113,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。�
 ## <a name="create-external-data-connections"></a>Create external data connections
 <a name="bkmk_Createexternaldataconnections"> </a>
 
-你可以使用 Excel Online 查看数据连接，但不能使用 Excel Online 创建外部数据连接。要使用外部数据，你需要使用 Excel 2013 桌面应用程序。了解有关[在 Excel Services 中使用外部数据](https://go.microsoft.com/fwlink/p/?LinkId=282330)的详细信息。 
+你可以使用 Excel Online 查看数据连接，但不能使用 Excel Online 创建外部数据连接。 您需要 Excel 桌面应用程序来处理外部数据。 了解有关[在 Excel Services 中使用外部数据](https://go.microsoft.com/fwlink/p/?LinkId=282330)的详细信息。 
   
 ## <a name="create-tables"></a>Create tables
 <a name="bkmk_CreateTables"> </a>
@@ -134,7 +140,10 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。�
 
 Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的服务的文件。
   
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在 Web 或博客页面上嵌入工作簿 (OneDrive)
+## <a name="duplicate-copy-worksheets"></a>复制 (复制) 工作表
+您可以在工作簿或 Excel Online 中的其他工作簿中复制 (或复制) 工作表。 了解有关[在 Excel Online 中复制工作表的](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)详细信息。 
+
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
 
 如果你将 Excel 工作簿存储在 OneDrive.com 上，则可以直接将其嵌入博客或网站中。你的读者可以在那里排序、筛选和计算数据，如果你在 OneDrive 中更新工作簿，他们下次刷新页面时将会看到最新更改。了解有关 [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673)（在博客中嵌入 Excel 工作簿）的详细信息。
@@ -157,9 +166,9 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
 ## <a name="font-and-cell-formatting"></a>字体和单元格格式
 <a name="bkmk_FontCellFormatting"> </a>
 
-自定义您的数据，使其具有您所需的确切外观。从各种字形或颜色中进行选择，或更改文本的大小和颜色。 
+自定义您的数据，使其具有您所需的确切外观。 从各种字形或颜色中进行选择，或更改文本的大小和颜色。 此外, 还可以绘制单元格边框和选取边框颜色。
   
-## <a name="formula-bar"></a>编辑栏
+## <a name="formula-bar"></a>Formula bar
 <a name="bkmk_FormulaBar"> </a>
 
 请参阅编辑栏中单元格结果后面的公式。您可以在浏览器中添加、更改和删除部分公式，就像在 Excel 桌面应用程序中操作一样。
@@ -172,7 +181,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 ## <a name="freeze-panes"></a>Freeze panes
 <a name="bkmk_FreezePanes"> </a>
 
-"冻结窗格" 功能在 Excel Online 功能区中可用。 了解有关[冻结窗格在 excel 2013 桌面应用程序中的工作方式](https://go.microsoft.com/fwlink/p/?LinkId=282331)的详细信息, 并[查看 excel Online 提示](https://go.microsoft.com/fwlink/?linkid=869873)。
+"冻结窗格" 功能在 Excel Online 功能区中可用。 了解有关[冻结窗格在 excel 中的工作方式](https://go.microsoft.com/fwlink/p/?LinkId=282331)的详细信息, 并[查看 excel Online 提示](https://go.microsoft.com/fwlink/?linkid=869873)。
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 <a name="bkmk_FullFidelityReadingView"> </a>
@@ -188,12 +197,21 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 <a name="BKMK_GoTo_Excel"> </a>
 
 使用 GoTo 功能快速导航电子表格。键入单元格参考并跳转到电子表格中的此位置。了解有关 [Excel Online 中的键盘快捷方式](https://go.microsoft.com/fwlink/p/?LinkID=272943)的详细信息。
-  
+ 
+## <a name="group-data"></a>组数据
+<a name="Group data"></a>您可以在 Excel Online 电子表格中对行和列进行分组或分级显示。 了解有关在 Excel Online 中对数据进行分组的详细信息。
+ 
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
 
 您可以在 Excel Online 中隐藏和取消隐藏工作簿中的行、列和表。
-  
+ 
+## <a name="ideas"></a>想法
+<a name="Ideas"> </a>
+
+通过创意, 你可以通过高级可视化摘要、趋势和模式了解你的数据。 只需单击数据区域中的某个单元格, 然后单击 "开始" 选项卡上的 "想法" 按钮。了解有关[想法](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)的详细信息。
+
+ 
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -203,12 +221,22 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 <a name="bkmk_Insertdeleterowscolumns"> </a>
 
 选择一个或多个行，然后单击"主页"选项卡上的"插入"或"删除"，在工作表中一次添加或删除一个或多个行或列。
+
+## <a name="insert-pictures"></a>插入图片
+<a name="bkmk_insertpicture"></a>通过在电子表格中插入图片来添加一些视觉意义。 了解有关[在 Excel Online 中插入图片的](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)详细信息。
+
+## <a name="insert-shapes"></a>插入形状
+<a name="bkmk_insertshapes"></a>在 Excel Online 电子表格中添加和设置形状 (如方框、圆形、线条、连接符或箭头) 的格式。 了解有关[添加形状](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)的详细信息。
   
-## <a name="merge-cells"></a>合并单元格
+## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
-  
+ 
+## <a name="named-ranges"></a>命名区域
+<a name="bkmk_Namedranges"></a>您不能在 excel online 中创建命名区域, 但可以在 excel online 中使用在电子表格的 excel desktop 中创建的命名区域。
+
+ 
 ## <a name="number-formatting"></a>Number formatting
 <a name="bkmk_Numberformatting"> </a>
 
@@ -218,6 +246,10 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
 Excel Online 从 Internet 浏览器启动，并依赖 Internet 连接。要脱机访问电子表格，必须在计算机上安装 Microsoft Excel 桌面应用程序，用于查看和编辑 Excel 工作表。
+
+## <a name="pivot-tables"></a>数据透视表
+<a name="bkmk_Pivottables"></a>您可以在 Excel Online 电子表格中插入数据透视表, 并计算、汇总和分析数据。 了解有关如何[在 Excel Online 中插入数据透视表](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)的详细信息。
+
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
 <a name="bkmk_posttosocialnetwork"> </a>
@@ -225,9 +257,9 @@ Excel Online 从 Internet 浏览器启动，并依赖 Internet 连接。要脱�
 通过在社交网络页面、Skype for Business 对话或会议中嵌入电子表格的选定部分，在 Web 上进行共享。Excel Online 不支持这些功能。 
   
 ## <a name="power-pivot-viewing"></a>Power Pivot 查看
-<a name="bkmki_PowerPivotinteractivity"> </a>
+<a name="bkmk_PowerPivotinteractivity"> </a>
 
-Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Excel 2013 桌面应用程序来创建 Power Pivot 数据模型。
+Excel Online 允许您查看 Power Pivot 表和图表, 但您需要 Excel 桌面应用程序来创建 Power Pivot 数据模型。
   
 ## <a name="power-view-viewing"></a>Power View viewing
 <a name="bkmk_powerviewinteractivity"> </a>
@@ -253,6 +285,10 @@ Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Ex
 <a name="bkmk_refreshdata"> </a>
 
 如果您的工作簿中的数据连接到外部源（例如，数据库、网页或分析多维数据集），您可以使用 Excel Online 刷新该数据。
+
+## <a name="remove-duplicate-values"></a>删除重复值
+<a name="bkmk_Removeduplicatevalues"></a>您可以删除区域或表中的重复值。 有关详细信息, 请参阅筛选唯一值或[删除重复值](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
+
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>
@@ -267,7 +303,7 @@ Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Ex
 ## <a name="replace"></a>Replace
 <a name="bkmk_Replace"> </a>
 
-在 Excel Online 中不可用。如果你在计算机上安装了 Excel 桌面应用程序，则可以使用 Excel 查找并替换文档中的内容。了解有关[在 Excel 2013 中使用查找和替换](https://go.microsoft.com/fwlink/p/?LinkId=282333)的详细信息。
+在 Excel Online 中不可用。 如果你在计算机上安装了 Excel 桌面应用程序，则可以使用 Excel 查找并替换文档中的内容。 了解有关[在 Excel 中使用查找和替换的](https://go.microsoft.com/fwlink/p/?LinkId=282333)详细信息。
   
 ## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
 <a name="bkmk_RightsManagement"> </a>
@@ -279,7 +315,7 @@ Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Ex
 
 是否想要自己的工作簿副本？使用"文件"选项卡上的"另存为"命令，或右键单击其文件夹中的工作簿名称，使用"下载"命令将副本发送到您的计算机。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 <a name="bkmk_Share"> </a>
 
 单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。了解有关[使用 Office Online 在 Office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)的详细信息。
@@ -318,6 +354,13 @@ Excel Online 使您可以查看 Power Pivot 表和图表，但您需要使用 Ex
 <a name="bkmk_Tell_Me_Excel"> </a>
 
 当您需要在 Excel Online 中完成一些处理事项，但又不知道该如何操作时，即可使用"告诉我"搜索功能来快速找到您寻找的答案。"告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
+
+## <a name="text-formatting"></a>文本格式
+<a name="bkmk_Textformatting"></a>您可以应用各种文本格式选项, 包括删除线、增加/减小 Excel Online 中的缩进量。
+
+## <a name="total-data"></a>总数据
+<a name="bkmk_Toaldata"></a>您可以通过单击 "开始" 选项卡中 "格式为表格" 下的 "切换汇总行" 来快速汇总表中的数据。 
+
   
 ## <a name="undo-and-redo"></a>撤消和恢复
 <a name="bkmk_UndoRedo"> </a>
