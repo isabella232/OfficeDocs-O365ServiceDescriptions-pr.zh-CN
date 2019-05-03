@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544839"
+ms.locfileid: "33553481"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -456,6 +456,8 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     
 - **重定向邮件的次数** 将根据收件箱规则自动重定向、转发或答复邮件的次数。 例如，用户 A 有一个根据发件人将邮件重定向到用户 B 的收件箱规则。 用户 B 有一个根据主题行中的关键字将邮件转发到用户 C 的收件箱规则。 如果某邮件同时满足这两个条件，则由于仅允许一次重定向，该邮件仅发送到用户 B，不会转发到用户 C。 在这种情况下, 邮件将被丢弃, 而不会向用户 B 发送未送达报告 (NDR), 这表明该邮件未传递到用户 C。我们使用了 X MS--"收件箱" 规则-循环标头来确定邮件被重定向的次数。 此标头还会跨 Exchange 组织边界保留。
 
+- **传输规则重定向邮件的次数**按照传输规则重定向邮件的次数。 例如, Exchange 组织 Tailspin 玩具有一个传输规则, 用于将发送给用户 A 的每封邮件重定向到位于 Exchange 组织 Contoso 中的用户 B。 在 Exchange 组织 Contoso 中, 有一个传输规则, 用于将发送给用户 B 的每封邮件重定向到位于 Exchange 组织 A Datum Corporation 的用户 C。 在这种情况下, 邮件将被丢弃, 并带有状态代码的未送达报告 (NDR), 并拒绝邮件*550 5.7.128 传输。原则.RejectMessage超过了传输规则循环计数, 邮件被拒绝*将发送给用户 A。我们使用了 X MS 交换-Rules-Loop 标头来确定传输规则重定向邮件的次数。 此标头还会跨 Exchange 组织边界保留。
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>跨 Office 365 选项的日记、传输和收件箱规则限制
 
 ||||||||
@@ -468,7 +470,8 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |附件内容的扫描限制|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |所有传输规则添加到邮件的收件人的最大数目|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 位收件人|
 |转发邮件的收件人限制|10 个收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|
-|重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|传输规则重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>跨独立选项的日记、传输和收件箱规则限制
 
@@ -481,7 +484,8 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |所有传输规则中使用的所有正则表达式的字符限制|无限制|20 KB|20 KB|20 KB|
 |所有传输规则添加到邮件的收件人的最大数目|无限制|100 位收件人|100 个收件人|100 位收件人|
 |转发邮件的收件人限制|无限制|10 个收件人|10 位收件人|10 位收件人|
-|重定向邮件的次数|3 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|重定向邮件的次数|3 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|传输规则重定向邮件的次数|无限制|1 次重定向|1 次重定向|1 次重定向|
 
 ## <a name="moderation-limits"></a>审阅限制
 <a name="ModerationLimits"> </a>
@@ -539,7 +543,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |Exchange ActiveSync 设备限制|100|100|100|100|100|100|
 |Exchange ActiveSync 设备删除限制|20|20|20|20|20|20|
-|Exchange ActiveSync 文件附件限制|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
+|Exchange ActiveSync 文件附件限制|25 MB|25 MB |25 MB |25 MB |25 MB |25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>独立选项中的 Exchange ActiveSync 限制
 
@@ -548,4 +552,4 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync 设备限制|100|100|100|100|
 |Exchange ActiveSync 设备删除限制|20|20|20|20|
-|Exchange ActiveSync 文件附件限制|25 MB|25 MB|25 MB|25 MB|
+|Exchange ActiveSync 文件附件限制|25 MB|25 MB |25 MB |25 MB|
