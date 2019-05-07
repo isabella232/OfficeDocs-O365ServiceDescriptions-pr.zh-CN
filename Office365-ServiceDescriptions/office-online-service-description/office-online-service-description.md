@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544959"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621862"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
@@ -130,7 +130,7 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[自动完成](excel-online.md#autocomplete) <br/> |是  <br/> |是  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |是  <br/> |是  <br/> |
 |[换算](excel-online.md#calculations) <br/> |是  <br/> |是  <br/> |
-|[公式中的调用引用](excel-online.md#call-reference-in-formulas) <br/> |是  <br/> |是  <br/> |
+|[公式中的单元格引用](excel-online.md#cell-references-in-formulas) <br/> |是  <br/> |是  <br/> |
 |[创建批注](excel-online.md#comment-creation) <br/> |是  <br/> |是  <br/> |
 |[复制和粘贴](excel-online.md#copy-and-paste) <br/> |是  <br/> |是  <br/> |
 |[创建外部数据连接<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |无<sup>3</sup> <br/> |是  <br/> |
@@ -161,10 +161,10 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[合并单元格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
 |[命名区域](excel-online.md#named-ranges) <br/> |是  <br/> |是  <br/> |
 |[数值格式](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
-|[Office Add-ins](excel-online.md#office-add-ins) <br/> |是 <br/> |是  <br/> |
+|[Office 外接程序](excel-online.md#office-add-ins) <br/> |是<sup>5</sup>  <br/> |是  <br/> |
 |[脱机查看和创作](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |可访问  <br/> |
 |[数据透视图](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
-|[数据透视表](excel-online.md#pivot-tables) <br/> |是  <br/> |是  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |是  <br/> |是  <br/> |
 |[发布到社交网络并联机演示](excel-online.md#post-to-social-network-and-present-online) <br/> |否  <br/> |可访问  <br/> |
 |[Power Pivot 查看](excel-online.md#power-pivot-viewing) <br/> |是  <br/> |是  <br/> |
 |[Power View 查看](excel-online.md#power-view-viewing) <br/> |是  <br/> |是  <br/> |

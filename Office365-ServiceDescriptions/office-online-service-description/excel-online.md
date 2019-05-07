@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
-ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544940"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621822"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -32,7 +32,7 @@ Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展
 > [!NOTE]
 > 为帮助您比较提供的服务，本文中所列的高级功能包括只在 Office 套件中提供的 Excel 桌面应用程序功能（例如 Office Professional Plus、Office Standard 或 Office 365 ProPlus）。 有关所有 Office Online 功能 (如 Word Online 和 PowerPoint Online) 的列表, 请参阅[跨 Office Online 计划的功能可用性](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。 
 
-若要查看 Excel Online 支持哪种文件类型，请参阅 [Office Online 的受支持文件类型](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。要详细了解 Excel Online 和 Excel 桌面应用程序之间的差异，请参阅 [Differences between using a workbook in the browser and in Excel](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)（浏览器和 Excel 中工作簿的用法区别）。 
+若要查看 Excel Online 支持哪种文件类型，请参阅 [Office Online 的受支持文件类型](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)。要详细了解 Excel Online 和 Excel 桌面应用程序之间的差异，请参阅 [Differences between using a workbook in the browser and in Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US)（浏览器和 Excel 中工作簿的用法区别）。 
   
 ## <a name="add-background-color-to-sheet-tabs"></a>向工作表选项卡添加背景色 
 <a name="bkmk_Addbackgroundcolor"></a>将背景填充颜色添加到工作表中的工作表标签以使其突出放置。有关详细信息, 请参阅[向工作表选项卡添加背景颜色](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59)。 
@@ -53,9 +53,7 @@ Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展
 使用"主页"选项卡上的"对齐方式"按钮可更改文本的对齐方式。  
   
 ## <a name="apply-conditional-formatting"></a>应用条件格式
-<a name="bkmk_Applyconditionalformatting"> </a>
-
-使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何在 Excel Online 中使用条件格式的详细信息。 [在 Excel 2013 中使用条件格式](https://go.microsoft.com/fwlink/p/?LinkId=282326)。 
+<a name="bkmk_Applyconditionalformatting"></a>使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何[在 Excel Online 中使用条件格式的](https://go.microsoft.com/fwlink/p/?LinkId=282326)详细信息。
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
@@ -65,7 +63,7 @@ Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-在 Excel Online 中不可用。 在 Excel 桌面应用程序中, 推荐的图表允许您从最适合呈现数据的各种图表中进行选择。 了解有关[如何在 Excel 中使用图表建议的](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)详细信息。
+在 Excel Online 中不可用。 在 Excel 桌面应用程序中, 推荐的图表允许您从最适合呈现数据的各种图表中进行选择。 了解有关[如何在 Excel 中使用图表建议的](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0)详细信息。
   
 ## <a name="office-add-ins"></a>Office 加载项
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -87,8 +85,8 @@ Excel Online 可以填写您键入到单元格中的内容，如果存在多个�
 
 可以使用 Excel 执行各种自动、手动和迭代计算。Excel 使用函数来执行这些计算。有关详细信息，请参阅 [Excel 函数（按类别）](https://go.microsoft.com/fwlink/?linkid=847459)。
 
-## <a name="call-reference-in-formulas"></a>公式中的呼叫引用
-<a name="bkmk_Callreferenceinformulas"></a>您可以在公式中使用单元格引用。 当引用公式中的单元格或区域时, 被引用的单元格或区域将突出显示为一种颜色。 有关详细信息, 请参阅[在公式中使用单元格引用](https://support.office.com/en-us/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)。
+## <a name="cell-references-in-formulas"></a>公式中的单元格引用
+<a name="bkmk_Cellreferenceinformulas"></a>您可以在公式中使用单元格引用。 当引用公式中的单元格或区域时, 被引用的单元格或区域将突出显示为一种颜色。 有关详细信息, 请参阅[在公式中使用单元格引用](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
@@ -98,7 +96,7 @@ Excel Online 可以填写您键入到单元格中的内容，如果存在多个�
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>图表和表格，包括数据透视图报表和数据透视表
 <a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
-Excel 图表和表格使你可以轻松地设置数据格式并管理信息。若要了解详细信息，请参阅 [Create or delete an Excel table](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)（创建或删除 Excel 表格）和 [Overview of PivotTable and PivotChart reports](https://go.microsoft.com/fwlink/?linkid=55417)（数据透视表和数据透视图报表概述）。
+Excel 图表和表格使你可以轻松地设置数据格式并管理信息。若要了解详细信息，请参阅 [Create or delete an Excel table](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664)（创建或删除 Excel 表格）和 [Overview of PivotTable and PivotChart reports](https://go.microsoft.com/fwlink/?linkid=55417)（数据透视表和数据透视图报表概述）。
   
 ## <a name="comment-creation"></a>Comment creation
 <a name="bkmk_Commentcreation"> </a>
@@ -141,7 +139,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。�
 Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的服务的文件。
   
 ## <a name="duplicate-copy-worksheets"></a>复制 (复制) 工作表
-您可以在工作簿或 Excel Online 中的其他工作簿中复制 (或复制) 工作表。 了解有关[在 Excel Online 中复制工作表的](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)详细信息。 
+您可以在工作簿或 Excel Online 中的其他工作簿中复制 (或复制) 工作表。 了解有关[在 Excel Online 中复制工作表的](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)详细信息。 
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
@@ -199,7 +197,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 使用 GoTo 功能快速导航电子表格。键入单元格参考并跳转到电子表格中的此位置。了解有关 [Excel Online 中的键盘快捷方式](https://go.microsoft.com/fwlink/p/?LinkID=272943)的详细信息。
  
 ## <a name="group-data"></a>组数据
-<a name="Group data"></a>您可以在 Excel Online 电子表格中对行和列进行分组或分级显示。 了解有关在 Excel Online 中对数据进行分组的详细信息。
+<a name="Group data"></a>您可以在 Excel Online 电子表格中对行和列进行分组或分级显示。 了解有关[在 Excel Online 中对数据进行分组的](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)详细信息。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
@@ -209,7 +207,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 ## <a name="ideas"></a>想法
 <a name="Ideas"> </a>
 
-通过创意, 你可以通过高级可视化摘要、趋势和模式了解你的数据。 只需单击数据区域中的某个单元格, 然后单击 "开始" 选项卡上的 "想法" 按钮。了解有关[想法](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)的详细信息。
+通过创意, 你可以通过高级可视化摘要、趋势和模式了解你的数据。 只需单击数据区域中的某个单元格, 然后单击 "开始" 选项卡上的 "想法" 按钮。了解有关[想法](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)的详细信息。
 
  
 ## <a name="insert-charts"></a>Insert charts
@@ -223,10 +221,10 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 选择一个或多个行，然后单击"主页"选项卡上的"插入"或"删除"，在工作表中一次添加或删除一个或多个行或列。
 
 ## <a name="insert-pictures"></a>插入图片
-<a name="bkmk_insertpicture"></a>通过在电子表格中插入图片来添加一些视觉意义。 了解有关[在 Excel Online 中插入图片的](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)详细信息。
+<a name="bkmk_insertpicture"></a>通过在电子表格中插入图片来添加一些视觉意义。 了解有关[在 Excel Online 中插入图片的](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3)详细信息。
 
 ## <a name="insert-shapes"></a>插入形状
-<a name="bkmk_insertshapes"></a>在 Excel Online 电子表格中添加和设置形状 (如方框、圆形、线条、连接符或箭头) 的格式。 了解有关[添加形状](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)的详细信息。
+<a name="bkmk_insertshapes"></a>在 Excel Online 电子表格中添加和设置形状 (如方框、圆形、线条、连接符或箭头) 的格式。 了解有关[添加形状](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)的详细信息。
   
 ## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
@@ -247,8 +245,8 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 Excel Online 从 Internet 浏览器启动，并依赖 Internet 连接。要脱机访问电子表格，必须在计算机上安装 Microsoft Excel 桌面应用程序，用于查看和编辑 Excel 工作表。
 
-## <a name="pivot-tables"></a>数据透视表
-<a name="bkmk_Pivottables"></a>您可以在 Excel Online 电子表格中插入数据透视表, 并计算、汇总和分析数据。 了解有关如何[在 Excel Online 中插入数据透视表](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)的详细信息。
+## <a name="pivottables"></a>PivotTables
+<a name="bkmk_Pivottables"></a>您可以在 Excel Online 电子表格中插入数据透视表, 并计算、汇总和分析数据。 了解有关如何[在 Excel Online 中插入数据透视表](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online)的详细信息。
 
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
@@ -287,8 +285,7 @@ Excel Online 允许您查看 Power Pivot 表和图表, 但您需要 Excel 桌面
 如果您的工作簿中的数据连接到外部源（例如，数据库、网页或分析多维数据集），您可以使用 Excel Online 刷新该数据。
 
 ## <a name="remove-duplicate-values"></a>删除重复值
-<a name="bkmk_Removeduplicatevalues"></a>您可以删除区域或表中的重复值。 有关详细信息, 请参阅筛选唯一值或[删除重复值](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
-
+<a name="bkmk_Removeduplicatevalues"></a>您可以删除区域或表中的重复值。 有关详细信息, 请参阅[筛选唯一值或删除重复值](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>

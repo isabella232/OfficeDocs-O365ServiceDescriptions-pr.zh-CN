@@ -3,7 +3,7 @@ title: 邮件策略和合规性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246538"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621872"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -72,7 +72,7 @@ Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service P
   
 ## <a name="encryption-of-data-at-rest"></a>静态数据的加密
 
-Office 365 客户数据的加密由多个服务端技术提供, 其中包括 BitLocker、DKM、Azure 存储服务加密和 Exchange Online 中的服务加密、Skype for business、OneDrive for business 和 SharePoint隐私声明. Office 365 服务加密包含一个选项, 可使用存储在 Azure Key Vault 中的客户托管的加密密钥。 此客户管理的密钥选项称为[Office 365 customer key](https://go.microsoft.com/fwlink/?linkid=863349), 可用于 Exchange online、SharePoint online 和 OneDrive for business。 
+Office 365 客户数据的加密由多个服务端技术提供, 其中包括 BitLocker、DKM、Azure 存储服务加密和 Exchange Online 中的服务加密、Skype for business、OneDrive for business 和 SharePoint隐私声明. Office 365 服务加密包含一个选项, 可使用存储在 Azure Key Vault 中的客户托管的加密密钥。 此客户管理的密钥选项称为[Office 365 Customer key](https://go.microsoft.com/fwlink/?linkid=863349), 可用于 Exchange Online、SharePoint Online 和 OneDrive for business。 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -80,17 +80,19 @@ Office 365 服务器使用 BitLocker 在卷级别加密包含客户数据的磁�
   
 ### <a name="distributed-key-manager"></a>分布式密钥管理器
 
-除了 BitLocker 之外, 我们还使用一种称为 "分布式密钥管理器" (DKM) 的技术。 DKM 是一种客户端功能, 它使用一组密钥对信息进行加密和解密。 只有 Active Directory 域服务中特定安全组的成员才能访问这些密钥以解密由 DKM 加密的数据。 在 exchange Online 中, 仅在运行 exchange 进程的特定服务帐户是该安全组的一部分。 作为数据中心中的标准操作过程的一部分, 将不会向任何人提供属于此安全组的凭据, 因此没有人能够访问可以解密这些机密的密钥。
+除了 BitLocker 之外, 我们还使用一种称为 "分布式密钥管理器" (DKM) 的技术。 DKM 是一种客户端功能, 它使用一组密钥对信息进行加密和解密。 只有 Active Directory 域服务中特定安全组的成员才能访问这些密钥以解密由 DKM 加密的数据。 在 Exchange Online 中, 仅在运行 Exchange 进程的特定服务帐户是该安全组的一部分。 作为数据中心中的标准操作过程的一部分, 将不会向任何人提供属于此安全组的凭据, 因此没有人能够访问可以解密这些机密的密钥。
   
 ## <a name="customer-key"></a>客户密钥
 
-使用 "客户密钥", 可以控制组织的加密密钥, 然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange online 和 Skype for business 的数据, 这些数据存储在存储在 SharePoint online 和 OneDrive for business 中的邮箱和文件中。 有关详细信息, 请参阅[使用客户密钥和服务加密在 office 365 中控制您的数据](https://go.microsoft.com/fwlink/?linkid=863349),[了解 office 365 常见问题解答](https://go.microsoft.com/fwlink/?linkid=869438)。
+使用 "客户密钥", 可以控制组织的加密密钥, 然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据, 这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 有关详细信息, 请参阅[使用客户密钥和服务加密在 office 365 中控制您的数据](https://go.microsoft.com/fwlink/?linkid=863349),[了解 office 365 常见问题解答](https://go.microsoft.com/fwlink/?linkid=869438)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 邮件加密允许电子邮件用户将加密的电子邮件发送给任何人。 我们宣布了 Office 邮件加密中的新功能, 这些功能利用了 Azure 信息加密中的保护功能。 这些新功能提供了增强的最终用户体验, 使您可以更轻松地与组织内部或外部的任何人共享和协作处理受保护的邮件。 新的 Office 邮件加密功能具有一些设置要求。 请参阅设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能。 旧版 Office 365 邮件加密的客户不会获得上述新功能, 而无需遵循上面提供的指导。 请阅读[FAQ](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) , 了解新的与旧版本的 Office 365 邮件加密功能中包含的内容的详细信息。 
-  
+
+Office 365 高级邮件加密通过允许邮件过期和吊销来提供额外的保护。  您还可以为来自您的组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非盈利员工定价)、Office 365 企业版 E5 (非盈利员工定价) 或 Office 365 教育版 A5 中。 如果您的组织拥有不包含 Office 365 高级邮件加密的 Office 365 订阅, 您可以购买 Microsoft 365 E5 或 Office 365 高级合规性 SKU 作为加载项。
+
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>安全/多用途 Internet 邮件扩展 (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 
@@ -171,7 +173,7 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 - 对通过组织的邮件应用免责声明
     
 > [!IMPORTANT]
-> 需要在电子邮件服务器上安装第三方 ifilter 的附件文件类型 (如 Adobe .pdf) 无法使用邮件流规则进行检查, 直到安装了相应的 iFilter。 有关邮件流规则支持的文件类型的详细信息, 请参阅[使用邮件流规则检查 Office 365 中的邮件附件](https://go.microsoft.com/fwlink/p/?LinkId=271748)。 
+> 需要在电子邮件服务器上安装第三方 Ifilter 的附件文件类型 (如 Adobe .pdf) 无法使用邮件流规则进行检查, 直到安装了相应的 iFilter。 有关邮件流规则支持的文件类型的详细信息, 请参阅[使用邮件流规则检查 Office 365 中的邮件附件](https://go.microsoft.com/fwlink/p/?LinkId=271748)。 
   
 有关邮件流规则的详细信息, 请参阅[Exchange 2016 中的邮件流规则](https://go.microsoft.com/fwlink/p/?LinkId=296488)。
   

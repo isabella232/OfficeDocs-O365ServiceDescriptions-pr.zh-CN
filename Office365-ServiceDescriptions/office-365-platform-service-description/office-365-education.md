@@ -3,7 +3,7 @@ title: Office 365 教育版
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务（其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online 以及 Microsoft Skype for Business Online）的云版本结合使用，帮助用户通过 Internet 随时随地提高工作效率。
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544969"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621922"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -277,7 +277,7 @@ ms.locfileid: "33544969"
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**链接到详细的功能比较** <br/> |
+|**应用程序** <br/> |**Office Online** <br/> |**链接到详细的功能比较** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -698,7 +698,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|日记规则的最大数目  <br/> |10 条规则  <br/> |10 条规则  <br/> |10 条规则  <br/> |
+|日记规则的最大数目  <br/> |50规则  <br/> |50规则  <br/> |50规则  <br/> |
 |传输规则的最大数目  <br/> |300 条规则  <br/> |300 条规则  <br/> |300 条规则  <br/> |
 |单个传输规则的最大大小  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |所有传输规则中使用的所有正则表达式的字符限制  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |

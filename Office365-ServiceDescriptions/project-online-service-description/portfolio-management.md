@@ -3,7 +3,7 @@ title: 项目组合管理
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 中提供了以下项目组合管理功能。
-ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50db84a3a8251b577e51680f1b8b88e002f79c98
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247028"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621812"
 ---
 # <a name="portfolio-management"></a>项目组合管理
 
@@ -59,4 +59,6 @@ Project Online 中提供了以下项目组合管理功能。
 
 计划管理中的每个项目均有自身的一组目标。如果将这些目标结合在一起，则可实现整个计划的预期收益。若要了解详细信息，请参阅[项目组合管理解决方案指南（白皮书）](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
   
+## <a name="roadmap"></a>路线图
+路线图将来自多个瀑布和敏捷项目的信息组合在一起, 以提供高度直观、聚合的日程表视图。 若要了解详细信息, 请参阅[欢迎使用路线图](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a)。
 
