@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621822"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641618"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 <a name="bkmk_HideUnhide"> </a>
 
 您可以在 Excel Online 中隐藏和取消隐藏工作簿中的行、列和表。
- 
-## <a name="ideas"></a>想法
-<a name="Ideas"> </a>
-
-通过创意, 你可以通过高级可视化摘要、趋势和模式了解你的数据。 只需单击数据区域中的某个单元格, 然后单击 "开始" 选项卡上的 "想法" 按钮。了解有关[想法](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US)的详细信息。
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Microsoft Excel 桌面应用程序是一款极其强大的工具，可用于操�
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Office Online 服务说明](office-online-service-description.md)。 
-
+若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Office Online 服务说明](office-online-service-description.md)。

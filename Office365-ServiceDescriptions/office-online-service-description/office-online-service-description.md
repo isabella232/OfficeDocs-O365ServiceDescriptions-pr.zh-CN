@@ -3,7 +3,7 @@ title: Office Online 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621862"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641628"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
@@ -111,7 +111,8 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[缩放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 虽然这些可以在查看器中呈现，但无法在 Office Online 中创建或编辑它们。 > <sup>2</sup> 某些（并非所有）Office 外接程序可用。 
+> <sup>1</sup> 虽然这些可以在查看器中呈现，但无法在 Office Online 中创建或编辑它们。<br/>
+> <sup>2</sup> 某些（并非所有）Office 外接程序可用。 <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[GoTo](excel-online.md#goto) <br/> |是  <br/> |是  <br/> |
 |[组数据](excel-online.md#group-data) <br/> |是  <br/> |是  <br/> |
 |[隐藏/取消隐藏行、列和表格](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |是  <br/> |是  <br/> |
-|[想法](excel-online.md#ideas) <br/> |是  <br/> |是  <br/> |
 |[插入图表](excel-online.md#insert-charts) <br/> |是  <br/> |是  <br/> |
 |[插入/删除行和列](excel-online.md#insertdelete-rows-and-columns) <br/> |是  <br/> |是  <br/> |
 |[插入图片](excel-online.md#insert-pictures) <br/> |是  <br/> |是  <br/> |
@@ -193,6 +193,7 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[查看 3D 图表](excel-online.md#view-3d-charts) <br/> |是  <br/> |是  <br/> |
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |可访问  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup>无法创建数据透视图, 只能查看。
  <br/><sup>2</sup>根据您的环境的配置方式, Excel Online 中显示的工作簿支持某些类型的数据连接。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
  <br/><sup>3</sup>您不能在 Excel Online 中使用 VBA 创建宏, 但您可以打开和编辑启用 vba 的电子表格, 而无需删除 (或损坏) 文件中包含的 vba。
@@ -298,7 +299,8 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[查看和添加注释](powerpoint-online.md#view-and-add-comments) <br/> |是  <br/> |是  <br/> |
 |[查看和编辑幻灯片备注](powerpoint-online.md#view-and-edit-slide-notes) <br/> |是  <br/> |是  <br/> |
 |[WYSIWYG/所见即所得的查看](powerpoint-online.md#wysiwyg-viewing) <br/> |是  <br/> |是  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online 支持包含 8 种切换效果和 37 种动画的库。 若要扩大选择范围或创建自定义动画，请使用 PowerPoint 桌面应用程序。 
  <br/><sup>2</sup> 使用的设备需要支持墨迹。 
  <br/> <sup>3</sup> 某些（并非所有）Office 外接程序可用。 
@@ -333,7 +335,8 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |OpenDocument (.odp)  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 无法运行或更改宏。 > <sup>2</sup> 如果存在宏，系统会提示用户创建一个删除了宏的文件副本。 
+> <sup>1</sup> 无法运行或更改宏。<br/>
+> <sup>2</sup> 如果存在宏，系统会提示用户创建一个删除了宏的文件副本。<br/> 
   
 > [!NOTE]
 > 可以在具有兼容包的 Office 2016、2013、2010、2007 或 Office 2000 及更高版本中创建较新的文件格式（如 .docx, .xlsl 和 .pptx）。 
