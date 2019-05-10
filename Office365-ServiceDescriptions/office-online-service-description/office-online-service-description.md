@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
+ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641628"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663286"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
@@ -336,7 +336,7 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
    
 > [!NOTE]
 > <sup>1</sup> 无法运行或更改宏。<br/>
-> <sup>2</sup> 如果存在宏，系统会提示用户创建一个删除了宏的文件副本。<br/> 
+> <sup>2</sup>如果存在宏, 则系统会提示用户保存删除了宏的文件副本。<br/> 
   
 > [!NOTE]
 > 可以在具有兼容包的 Office 2016、2013、2010、2007 或 Office 2000 及更高版本中创建较新的文件格式（如 .docx, .xlsl 和 .pptx）。 

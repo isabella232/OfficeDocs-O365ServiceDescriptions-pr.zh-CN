@@ -15,19 +15,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否在寻找包括 Exchange Online 在内的 Office 365 订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 5f30525e37aa4cf71815fcd8670bc2965a62ab4b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
+ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246248"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33659671"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
 您是否在寻找包括 Exchange Online 在内的 Office 365 订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
   
 > [!NOTE]
->  如果需要有关任务方面的协助，或者如果正在对某个问题进行故障排除，以下文章可能会很有帮助： > [电子邮件](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)帮助创建和发送电子邮件。 > [Office 365 商业版中的电子邮件 - 管理员帮助](https://go.microsoft.com/fwlink/?linkid=529722)> [使用 Microsoft Office 365 支持和恢复助手修复 Outlook 和 Office 365 的问题](https://diagnostics.office.com/)> [Office 365 中的电子邮件未送达报告](https://go.microsoft.com/fwlink/?linkid=526653)> [Exchange Online 帮助](https://go.microsoft.com/fwlink/?linkid=825607)
+> 如果需要有关任务方面的协助，或者如果正在对某个问题进行故障排除，以下文章可能会很有帮助： > [电子邮件](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US)帮助创建和发送电子邮件。 > [Office 365 商业版中的电子邮件 - 管理员帮助](https://go.microsoft.com/fwlink/?linkid=529722)> [使用 Microsoft Office 365 支持和恢复助手修复 Outlook 和 Office 365 的问题](https://diagnostics.office.com/)> [Office 365 中的电子邮件未送达报告](https://go.microsoft.com/fwlink/?linkid=526653)> [Exchange Online 帮助](https://go.microsoft.com/fwlink/?linkid=825607)
   
 Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基于云的服务提供的托管消息传递解决方案。它支持用户从电脑、Web 和移动设备访问电子邮件、日历、联系人和任务。它与 Active Directory 全面集成，支持管理员使用组策略以及其他管理工具来管理整个环境中的 Exchange Online 功能。
   
@@ -60,267 +60,268 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="feature-availability-across-office-365-plans"></a>跨 Office 365 计划的功能可用性
 
-如果你的组织当前已订阅 office 365 小型企业版、office 365 小型企业高级版或 office 365 中型企业版, 请访问 Microsoft 365 管理中心中的消息中心, 或咨询 office 365 提供商, 了解有关如何操作的详细信息新的 Office 365 商业版计划会影响你。 若要详细了解新的 Office 365 商业版计划系列，请参阅 [面向中小型企业的新 Office 365 计划](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
+如果你的组织当前已订阅 Office 365 小型企业版、Office 365 小型企业高级版或 Office 365 中型企业版, 请访问 Microsoft 365 管理中心中的消息中心, 或咨询 Office 365 提供商, 了解有关如何操作的详细信息新的 Office 365 商业版计划会影响你。 若要详细了解新的 Office 365 商业版计划系列，请参阅 [面向中小型企业的新 Office 365 计划](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
   
-||||||||||
+|**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|**[规划和部署](planning-and-deployment.md)** <br/> |||||||||
-|支持的混合部署  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
-|支持的 IMAP 迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|支持的直接转换迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|支持的暂存迁移  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[权限](permissions.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|基于角色的权限  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|角色组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|角色分配策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[邮件策略和合规性](message-policy-and-compliance.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|存档基于 Exchange Online 的邮箱  <br/> | 否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|本地邮箱的基于云的存档  <br/> |是 <sup>1</sup> <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|邮件传递记录管理 (MRM) 保留标记和保留策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|静态状态时的数据加密 (BitLocker)  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 信息保护的 IRM  <br/> |否  <br/> |可访问  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
-|使用 Windows Server AD RMS 的 IRM  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|Office 365 邮件加密  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
-|Office 365 的客户密钥<sup>22</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> ||
-|S/MIME  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> ||
-|就地保留和诉讼保留  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|就地电子数据展示  <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是  <br/> |
-|传输规则  <br/> |是 <sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|数据丢失防护  <br/> |是<sup>5、14</sup> <br/> |是<sup>5、14</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|内置反垃圾邮件保护  <br/> |是 <sup>6</sup> <br/> |是 <sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|自定义反垃圾邮件策略  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>7</sup> <br/> |
-|内置反恶意软件保护  <br/> |是 <sup>8</sup> <br/> |是 <sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
-|自定义反恶意软件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>7</sup> <br/> |
-|隔离 - 管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>7</sup> <br/> |
-|隔离 - 最终用户自我管理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|**[邮件流](mail-flow.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|出站邮件的自定义路由  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|与受信任合作伙伴的安全邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|有条件的邮件路由  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|向入站安全列表添加合作伙伴  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|混合电子邮件路由  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[收件人](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|容量报警  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|混乱邮件  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|邮件提示  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|委派访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>24</sup>  <br/> |
-|收件箱规则  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|已连接帐户  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |
-|非活动邮箱  <br/> |否  <br/> |否  <br/> |无<sup>9</sup> <br/> |无<sup>9</sup> <br/> |无<sup>9</sup> <br/> |是  <br/> |是  <br/> |否 <sup>9</sup> <br/> |
-|脱机通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通讯簿策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|分层通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|地址列表和全局地址列表  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>18</sup> <br/> |是<sup>18</sup> <br/> |是<sup>18</sup> <br/> |是<sup>18</sup> <br/> |
-|Office 365 组  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通讯组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|外部联系人（全局）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通用联系人卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|社交网络的联系人链接  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|资源邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|会议室管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|"外出"回复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|日历共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|Microsoft 365 管理中心报告  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Excel 报告工作簿  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Web 服务报告  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|邮件跟踪  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|审核报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>3</sup> <br/> |
-|统一消息报告  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|**[共享和协作](sharing-and-collaboration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|联合共享（包括日历发布）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|站点邮箱  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
-|公用文件夹  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[客户端和移动设备](clients-and-mobile-devices.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-| Outlook for Windows <sup>21</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> | 否  <br/> |
-|Outlook 网页版<sup>21</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Outlook for Mac<sup>21</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> | 否  <br/> |
-|Outlook for iOS 和 Outlook for Android<sup>21</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange ActiveSync  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 移动设备管理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|POP 和 IMAP  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>12</sup> <br/> |
-|SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 应用程序支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[语音消息服务](voice-message-services.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|语音邮件<sup>23</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|语音邮件和第三方传真<sup>23</sup>之间的集成 <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|第三方语音邮件互操作性<sup>23</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Skype for Business 集成  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[高可用性和业务连续性](high-availability-and-business-continuity.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|数据中心的邮箱复制  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|已删除邮箱的恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|已删除邮件的恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|单个项目恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> ||
-|**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|OWA 和 Outlook 中的 Skype for Business 状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SharePoint 互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 连接性支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|SMTP 中继支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|Microsoft Office 365 门户访问  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 365 管理中心访问  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange 管理中心访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|远程 Windows PowerShell 访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|移动设备的 ActiveSync 策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用情况报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|Outlook 外接程序和 Outlook MAPI  <br/> |是<sup>19</sup> <br/> |是  <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |否  <br/> |
-   
+|**[规划和部署](planning-and-deployment.md)**|||||||||
+|支持的混合部署|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是<sup>16</sup>|
+|支持的 IMAP 迁移|是|是|是|是|是|是|是|是|
+|支持的直接转换迁移|是|是|是|是|是|是|是|是|
+|支持的暂存迁移|否|否|可访问|是|是|是|是|是|
+|**[权限](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|基于角色的权限|是|是|是|是|是|是|是|否|
+|角色组|是|是|是|是|是|是|是|否|
+|角色分配策略|是|是|是|是|是|是|是|否|
+|**[邮件策略和合规性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|存档基于 Exchange Online 的邮箱| 否|否|可访问|是|是|是|是|否|
+|本地邮箱的基于云的存档|是 <sup>1</sup>|是<sup>1</sup>|否|否|可访问|是|是|否|
+|邮件传递记录管理 (MRM) 保留标记和保留策略|是|是|是|是|是|是|是|是|
+|静态状态时的数据加密 (BitLocker)|是<sup>15</sup>|是<sup>15</sup>|是|是|是|是|是|是|
+|使用 Azure 信息保护的 IRM|否|可访问|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|是|是|无<sup>2</sup>|
+|使用 Windows Server AD RMS 的 IRM|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
+|Office 365 邮件加密|是<sup>13</sup>|是<sup>13</sup>|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|是|是|无<sup>2</sup>|
+|Office 365 的客户密钥<sup>22</sup>|否|否|否|否|否|否|必需|否||
+|S/MIME|是<sup>15</sup>|是<sup>15</sup>|是|是|是|是|是|是||
+|就地保留和诉讼保留|是|是|否|否|否|可访问|是|否|
+|就地电子数据展示|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是|
+|传输规则|是 <sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
+|数据丢失防护|是<sup>5、14</sup>|是<sup>5、14</sup>|否|否|否|可访问|是|否|
+|日记功能|是|是|是|是|是|是|是|是|
+|**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|内置反垃圾邮件保护|是 <sup>6</sup>|是 <sup>6</sup>|是|是|是|是|是|是|
+|自定义反垃圾邮件策略|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|是|是|是|是|是|是 <sup>7</sup>|
+|内置反恶意软件保护|是 <sup>8</sup>|是 <sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|
+|自定义反恶意软件策略|是|是|是|是|是|是|是|是 <sup>7</sup>|
+|隔离 - 管理员管理|是|是|是|是|是|是|是|是 <sup>7</sup>|
+|隔离 - 最终用户自我管理|否|否|可访问|是|是|是|是|是|
+|高级强大的威胁保护|否|必需|否|否|否|否|必需|否|
+|**[邮件流](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|出站邮件的自定义路由|是|是|是|是|是|是|是|是|
+|与受信任合作伙伴的安全邮件|是|是|是|是|是|是|是|是|
+|有条件的邮件路由|否|否|可访问|是|是|是|是|是|
+|向入站安全列表添加合作伙伴|否|否|可访问|是|是|是|是|是|
+|混合电子邮件路由|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是|
+|**[收件人](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|容量报警|是|是|是|是|是|是|是|是|
+|混乱邮件|是|否|可访问|是|是|是|是|是|
+|邮件提示|是|是|是|是|是|是|是|是|
+|委派访问|是|是|是|是|是|是|是|无<sup>24</sup>|
+|收件箱规则|是|是|是|是|是|是|是|否|
+|已连接帐户|是|是|是|是|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|
+|非活动邮箱|否|否|无<sup>9</sup>|无<sup>9</sup>|无<sup>9</sup>|是|是|否 <sup>9</sup>|
+|脱机通讯簿|是|是|是|是|是|是|是|是|
+|通讯簿策略|是|是|是|是|是|是|是|是|
+|分层通讯簿|是|是|是|是|是|是|是|否|
+|地址列表和全局地址列表|是|是|是|是|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|
+|Office 365 组|否|否|可访问|是|是|是|是|是|
+|通讯组|是|是|是|是|是|是|是|是|
+|外部联系人（全局）|是|是|是|是|是|是|是|是|
+|通用联系人卡片|是|是|是|是|是|是|是|是|
+|社交网络的联系人链接|是|是|是|是|是|是|是|是|
+|资源邮箱|是|是|是|是|是|是|是|是|
+|会议室管理|是|是|是|是|是|是|是|是|
+|"外出"回复|是|是|是|是|是|是|是|是|
+|日历共享|是|是|是|是|是|是|是|是|
+|**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|Microsoft 365 管理中心报告|否|否|可访问|是|是|是|是|是|
+|Excel 报告工作簿|否|否|可访问|是|是|是|是|是|
+|Web 服务报告|否|否|可访问|是|是|是|是|是|
+|邮件跟踪|否|可访问|是|是|是|是|是|是|
+|审核报告|是|是|是|是|是|是|是|是 <sup>3</sup>|
+|统一消息报告|是|是|否|否|否|可访问|是|否|
+|**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|联合共享（包括日历发布）|是|是|是|是|是|是|是|是|
+|站点邮箱|是<sup>10</sup>|是<sup>10</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|
+|公用文件夹|是|是|是|是|是|是|是|否|
+|**[客户端和移动设备](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+| Outlook for Windows <sup>21</sup>|是|是|是|是|是|是|是| 否|
+|Outlook 网页版<sup>21</sup>|是|是|是|是|是|是|是|是|
+|Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|是| 否|
+|Outlook for iOS 和 Outlook for Android<sup>21</sup>|是|是|是|是|是|是|是|是|
+|Exchange ActiveSync|是|是|是|是|是|是|是|是|
+|Office 365 移动设备管理|否|否|可访问|是|是|是|是|是|
+|POP 和 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
+|SMTP|是|是|是|是|是|是|是|是|
+|EWS 应用程序支持|是|是|是|是|是|是|是|否|
+|**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|语音邮件<sup>23</sup>|是|是|否|否|否|可访问|是|否|
+|语音邮件和第三方传真<sup>23</sup>之间的集成|是|是|否|否|否|可访问|是|否|
+|第三方语音邮件互操作性<sup>23</sup>|是|是|是|是|是|是|是|是|
+|Skype for Business 集成|是|是|是|是|是|是|是|是|
+|**[高可用性和业务连续性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|数据中心的邮箱复制|否|否|可访问|是|是|是|是|是|
+|已删除邮箱的恢复|是|是|是|是|是|是|是|是|
+|已删除邮件的恢复|是|是|是|是|是|是|是|是|
+|单个项目恢复|是|是|是|是|是|是|是|否||
+|**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|是|是|是|
+|SharePoint 互操作性|是|是|是|是|是|是|是|是|
+|EWS 连接性支持|是|是|是|是|是|是|是|否|
+|SMTP 中继支持|是|是|是|是|是|是|是|是|
+|**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|Microsoft Office 365 门户访问|否|否|可访问|是|是|是|是|是|
+|Microsoft 365 管理中心访问|否|否|可访问|是|是|是|是|是|
+|Exchange 管理中心访问|是|是|是|是|是|是|是|是|
+|远程 Windows PowerShell 访问|是|是|是|是|是|是|是|是|
+|移动设备的 ActiveSync 策略|是|是|是|是|是|是|是|是|
+|使用情况报告|是|是|是|是|是|是|是|是|
+|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|Outlook 外接程序和 Outlook MAPI|是<sup>19</sup>|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|否|
+
 > [!NOTE]
-> <sup>1</sup>对于具有基于云的存档的每个内部部署邮箱用户, 需要一个 Exchange Online 存档 (EOA) 订阅。 
- <br/> <sup>2</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 
- <br/> <sup>3</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，以便启用支持的 IRM 功能。 
- <br/> <sup>4</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 并根据条件进行操作。 exchange Online 和 Microsoft exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 
- <br/> <sup>5</sup>对于 exchange 2013, DLP 要求使用 exchange 企业客户端访问许可证 (CAL)。 有关 CAL 和服务器授权的详细信息，请参阅 [Exchange Server Licensing](https://go.microsoft.com/fwlink/p/?LinkId=299133)（Exchange Server 授权）。 
- <br/> <sup>6</sup> exchange server 2013 与 exchange server 2010 具有相同的内置反垃圾邮件功能。 有关 exchange 托管垃圾邮件筛选对本地产品的好处的信息, 请参阅 exchange [Online Protection 中的反垃圾邮件功能与 exchange Server 2013 的优势](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 
- <br/> <sup>7</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。 
- <br/><sup>8</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 
- <br/><sup>9</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 
- <br/> <sup>10</sup>必须在本地 Exchange 组织中部署 SharePoint。 
- <br/> <sup>11</sup> SharePoint Online 必须包含在 Office 365 订阅计划中。 
- <br/> <sup>12</sup>支持 POP, 但不支持 IMAP。 
- <br/> <sup>13</sup>支持购买 Azure 信息保护的 Exchange Server 2013 本地客户。 Office 365 邮件加密要求内部部署客户通过 exchange online 路由电子邮件, 方法是使用 exchange online Protection 进行电子邮件筛选, 或者建立混合邮件流。 
- <br/><sup>14</sup> Exchange Server 2013 客户需要下载并安装 SP1, 才能访问 OWA 和适用于设备的 owa 中的文档指纹和策略提示。 
- <br/> <sup>15</sup>支持 Exchange Server 2013 的 BitLocker 驱动器加密, 但管理员需要启用此功能。 
- <br/> <sup>16 个</sup>Office 365 business Essentials、Office 365 商业高级版和 Office 365 企业版 F1 不提供使用本地服务器的使用访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。
- <br/><sup>17</sup>个已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。 
- <br/> <sup>18</sup>不支持使用 cmdlet 来使用地址列表和全局地址列表。  <br/><sup>19</sup>某些第三方 web 部件和外接程序可能不可用。 
- <br/><sup>20</sup>对于电子数据展示, 您需要对本地和云的单独查询。 
- <br/><sup>21</sup>表指示客户端是否在关联的计划中运行。 这并不意味着购买这些计划时必须包括客户端。 
- <br/><sup>22</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 
- <br/> <sup>23</sup>对第三方 PBX 系统的 Exchange Online UM 支持通过从客户操作的直接连接到2019年4月结束。 有关详细信息, 请参阅 exchange team 博客[终止支持 exchange Online 统一消息中的会话边界控制器](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)。 
-<br><sup>24</sup> F1 用户无法将代理添加到其自己的邮箱, 但可以访问其他邮箱 (包括共享邮箱), 并执行已委派给它们的任何操作。
+> <sup>1</sup>对于具有基于云的存档的每个内部部署邮箱用户, 需要一个 Exchange Online 存档 (EOA) 订阅。 <br/>
+<sup>2</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 <br/>
+<sup>3</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，以便启用支持的 IRM 功能。 <br/>
+<sup>4</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 并根据条件进行操作。 Exchange Online 和 Microsoft Exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 <br/>
+<sup>5</sup>对于 exchange 2013, DLP 要求使用 Exchange 企业客户端访问许可证 (CAL)。 有关 CAL 和服务器授权的详细信息，请参阅 [Exchange Server Licensing](https://go.microsoft.com/fwlink/p/?LinkId=299133)（Exchange Server 授权）。 <br/>
+<sup>6</sup> exchange server 2013 与 exchange server 2010 具有相同的内置反垃圾邮件功能。 有关 Exchange 托管垃圾邮件筛选对本地产品的好处的信息, 请参阅 exchange [Online Protection 中的反垃圾邮件功能与 Exchange Server 2013 的优势](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 <br/>
+<sup>7</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。 <br/>
+<sup>8</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 <br/>
+<sup>9</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。  <br/>
+<sup>10</sup>必须在本地 Exchange 组织中部署 SharePoint。 <br/>
+<sup>11</sup> SharePoint Online 必须包含在 Office 365 订阅计划中。 <br/>
+<sup>12</sup>支持 POP, 但不支持 IMAP。 <br/>
+<sup>13</sup>支持购买 Azure 信息保护的 Exchange Server 2013 本地客户。 Office 365 邮件加密要求内部部署客户通过 Exchange Online 路由电子邮件, 方法是使用 Exchange Online Protection 进行电子邮件筛选, 或者建立混合邮件流。 <br/>
+<sup>14</sup> Exchange Server 2013 客户需要下载并安装 SP1, 才能访问 OWA 和适用于设备的 owa 中的文档指纹和策略提示。 <br/>
+<sup>15</sup>支持 Exchange Server 2013 的 BitLocker 驱动器加密, 但管理员需要启用此功能。 <br/>
+<sup>16 个</sup>Office 365 business Essentials、Office 365 商业高级版和 Office 365 企业版 F1 不提供使用本地服务器的使用访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 <br/>
+<sup>17</sup>个已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。 <br/>
+<sup>18</sup>使用 Exchange Online PowerShell 中的 cmdlet 自定义默认地址列表, 不支持默认全局地址列表 (GAL)。 <br/>
+<sup>19</sup>某些第三方 web 部件和外接程序可能不可用。 <br/>
+<sup>20</sup>对于电子数据展示, 您需要对本地和云的单独查询。 <br/>
+<sup>21</sup>该表指示客户端是否与关联的计划一起使用。 这并不意味着购买这些计划时必须包括客户端。 <br/>
+<sup>22</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 <br/>
+<sup>23</sup>对第三方 PBX 系统的 EXCHANGE Online UM 支持通过从客户操作的直接连接到2019年4月结束。 有关详细信息, 请参阅 exchange team 博客[终止支持 Exchange Online 统一消息中的会话边界控制器](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)。 <br/>
+<sup>24</sup> F1 用户无法将代理添加到其自己的邮箱, 但可以访问其他邮箱 (包括共享邮箱), 并执行已委派给它们的任何操作。
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>跨 Exchange Online 独立计划的功能可用性
 
-|||||||
+|**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|**[规划和部署](planning-and-deployment.md)** <br/> ||||||
-|支持的混合部署  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>23</sup> <br/> |
-|支持的 IMAP 迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|支持的直接转换迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|支持的暂存迁移  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|**[权限](permissions.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|基于角色的权限  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|角色组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|角色分配策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[邮件策略和合规性](message-policy-and-compliance.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|存档基于 Exchange Online 的邮箱  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|本地邮箱的基于云的存档  <br/> |是<sup>5</sup> <br/> |是 <sup>5</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|邮件传递记录管理 (MRM) 保留标记和保留策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|静态状态时的数据加密 (BitLocker)  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 信息保护的 IRM  <br/> |否  <br/> |可访问  <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |
-|使用 Windows Server AD RMS 的 IRM  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
-|Office 365 邮件加密  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |
-|S/MIME  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|就地保留和诉讼保留  <br/> |是  <br/> |是  <br/> |无<sup>17</sup> <br/> |是  <br/> |否  <br/> |
-|就地电子数据展示  <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |是<sup>22</sup> <br/> |
-|传输规则  <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |是 <sup>1</sup> <br/> |
-|数据丢失防护  <br/> |是<sup>10、14</sup> <br/> |是<sup>10、14</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|内置反垃圾邮件保护  <br/> |是 <sup>2</sup> <br/> |是 <sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|自定义反垃圾邮件策略  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是，但仅限通过 PowerShell 自定义  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |
-|内置反恶意软件保护  <br/> |是 <sup>7</sup> <br/> |是 <sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
-|自定义反恶意软件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |
-|隔离 - 管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |
-|隔离 - 最终用户自我管理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|**[邮件流](mail-flow.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|出站邮件的自定义路由  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|与受信任合作伙伴的安全邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|有条件的邮件路由  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|向入站安全列表添加合作伙伴  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|混合电子邮件路由  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[收件人](recipients.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|容量报警  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|混乱邮件  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|邮件提示  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|委派访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|收件箱规则  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|已连接帐户  <br/> |是  <br/> |是  <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |是<sup>19</sup> <br/> |
-|非活动邮箱  <br/> |否  <br/> |否  <br/> |否<sup>6</sup> <br/> |是  <br/> |否 <sup>6</sup> <br/> |
-|脱机通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通讯簿策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|分层通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|地址列表和全局地址列表  <br/> |是  <br/> |是  <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |是<sup>20</sup> <br/> |
-|Office 365 组  <br/> |否  <br/> |否  <br/> |是<sup>24</sup> <br/> |是<sup>24</sup> <br/> |否  <br/> |
-|通讯组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|外部联系人（全局）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通用联系人卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|社交网络的联系人链接  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|资源邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|会议室管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|"外出"回复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|日历共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>18</sup> <br/> |
-|**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft 365 管理中心报告  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|Excel 报告工作簿  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|Web 服务报告  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|邮件跟踪  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |
-|审核报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |
-|统一消息报告  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|**[共享和协作](sharing-and-collaboration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|联合共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|站点邮箱  <br/> |是<sup>3</sup> <br/> |是 <sup>3</sup> <br/> |是<sup>4</sup> <br/> |是 <sup>4</sup> <br/> |是 <sup>4</sup> <br/> |
-|公用文件夹  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[客户端和移动设备](clients-and-mobile-devices.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft Outlook  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Outlook Web App  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Exchange ActiveSync  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|POP 和 IMAP  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>9</sup> <br/> |
-|SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 应用程序支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Outlook for Mac  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[语音消息服务](voice-message-services.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|语音邮件  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|第三方语音邮件互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Skype for Business 集成  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[高可用性和业务连续性](high-availability-and-business-continuity.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|数据中心的邮箱复制  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|已删除邮箱的恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|已删除邮件的恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|单个项目恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|OWA 和 Outlook 中的 Skype for Business 状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SharePoint 互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|EWS 连接性支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SMTP 中继支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Microsoft Office 365 门户访问  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|Microsoft 365 管理中心访问  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |
-|Exchange 管理中心访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <sup>8</sup> <br/> |
-|远程 Windows PowerShell 访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|移动设备的 ActiveSync 策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用情况报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Exchange Server 2013** <br/> |**Exchange Server 2016** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Outlook Web App Web 部件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Outlook 外接程序和 Outlook MAPI  <br/> |是  <br/> |是  <br/> |是<sup>21</sup> <br/> |是<sup>21</sup> <br/> |否  <br/> |
-   
+|**[规划和部署](planning-and-deployment.md)**||||||
+|支持的混合部署|是|是|是|是|是<sup>23</sup>|
+|支持的 IMAP 迁移|是|是|是|是|是|
+|支持的直接转换迁移|是|是|是|是|是|
+|支持的暂存迁移|否|否|可访问|是|是|
+|**[权限](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|基于角色的权限|是|是|是|是|否|
+|角色组|是|是|是|是|否|
+|角色分配策略|是|是|是|是|否|
+|**[邮件策略和合规性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|存档基于 Exchange Online 的邮箱|是|否|可访问|是|否|
+|本地邮箱的基于云的存档|是<sup>5</sup>|是 <sup>5</sup>|否|必需|否|
+|邮件传递记录管理 (MRM) 保留标记和保留策略|是|是|是|是|是|
+|静态状态时的数据加密 (BitLocker)|是<sup>16</sup>|是<sup>16</sup>|是|是|是|
+|使用 Azure 信息保护的 IRM|否|可访问|无<sup>11</sup>|无<sup>11</sup>|无<sup>11</sup>|
+|使用 Windows Server AD RMS 的 IRM|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
+|Office 365 邮件加密|是<sup>13</sup>|是<sup>13</sup>|无<sup>11</sup>|无<sup>11</sup>|无<sup>11</sup>|
+|S/MIME|是<sup>15</sup>|是<sup>15</sup>|是|是|是|
+|就地保留和诉讼保留|是|是|无<sup>17</sup>|是|否|
+|就地电子数据展示|是<sup>22</sup>|是<sup>22</sup>|是<sup>22</sup>|是<sup>22</sup>|是<sup>22</sup>|
+|传输规则|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|
+|数据丢失防护|是<sup>10、14</sup>|是<sup>10、14</sup>|否|必需|否|
+|日记功能|是|是|是|是|是|
+|**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|内置反垃圾邮件保护|是 <sup>2</sup>|是 <sup>2</sup>|是|是|是|
+|自定义反垃圾邮件策略|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|是|是|是 <sup>8</sup>|
+|内置反恶意软件保护|是 <sup>7</sup>|是 <sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|
+|自定义反恶意软件策略|是|是|是|是|是 <sup>8</sup>|
+|隔离 - 管理员管理|是|是|是|是|是 <sup>8</sup>|
+|隔离 - 最终用户自我管理|否|否|可访问|是|是|
+|**[邮件流](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|出站邮件的自定义路由|是|是|是|是|是|
+|与受信任合作伙伴的安全邮件|是|是|是|是|是|
+|有条件的邮件路由|否|否|可访问|是|是|
+|向入站安全列表添加合作伙伴|否|否|可访问|是|是|
+|混合电子邮件路由|是|是|是|是|是|
+|**[收件人](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|容量报警|是|是|是|是|是|
+|混乱邮件|否|否|可访问|是|是|
+|邮件提示|是|是|是|是|是|
+|委派访问|是|是|是\|"是|否|
+|收件箱规则|是|是|是|是|否|
+|已连接帐户|是|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|
+|非活动邮箱|否|否|否<sup>6</sup>|是|否 <sup>6</sup>|
+|脱机通讯簿|是|是|是|是|是|
+|通讯簿策略|是|是|是|是|是|
+|分层通讯簿|是|是|是|是|否|
+|地址列表和全局地址列表|是|是|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|
+|Office 365 组|否|否|是<sup>24</sup>|是<sup>24</sup>|否|
+|通讯组|是|是|是|是|是|
+|外部联系人（全局）|是|是|是|是|是|
+|通用联系人卡片|是|是|是|是|是|
+|社交网络的联系人链接|是|是|是|是|是|
+|资源邮箱|是|是|是|是|是|
+|会议室管理|是|是|是|是|是|
+|"外出"回复|是|是|是|是|是|
+|日历共享|是|是|是|是|是<sup>18</sup>|
+|**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|Microsoft 365 管理中心报告|否|否|可访问|是|是|
+|Excel 报告工作簿|否|否|可访问|是|是|
+|Web 服务报告|否|否|可访问|是|是|
+|邮件跟踪|否|可访问|是|是|是 <sup>8</sup>|
+|审核报告|是|是|是|是|是 <sup>8</sup>|
+|统一消息报告|是|是|否|必需|否|
+|**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|联合共享|是|是|是|是|是|
+|站点邮箱|是<sup>3</sup>|是 <sup>3</sup>|是<sup>4</sup>|是 <sup>4</sup>|是 <sup>4</sup>|
+|公用文件夹|是|是|是|是|否|
+|**[客户端和移动设备](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|Microsoft Outlook|是|是|是|是|否|
+|Outlook Web App|是|是|是|是|是|
+|Exchange ActiveSync|是|是|是|是|是|
+|POP 和 IMAP|是|是|是|是|是 <sup>9</sup>|
+|SMTP|是|是|是|是|是|
+|EWS 应用程序支持|是|是|是|是|否|
+|Outlook for Mac|是|是|是|是|否|
+|**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|语音邮件|是|是|否|必需|否|
+|第三方语音邮件互操作性|是|是|是|是|是|
+|Skype for Business 集成|是|是|是|是|是|
+|**[高可用性和业务连续性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|数据中心的邮箱复制|否|否|可访问|是|是|
+|已删除邮箱的恢复|是|是|是|是|是|
+|已删除邮件的恢复|是|是|是|是|是|
+|单个项目恢复|是|是|是|是|否|
+|**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|
+|SharePoint 互操作性|是|是|是|是|是|
+|EWS 连接性支持|是|是|是|是|是|
+|SMTP 中继支持|是|是|是|是|是|
+|**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|Microsoft Office 365 门户访问|否|否|可访问|是|是|
+|Microsoft 365 管理中心访问|否|否|可访问|是|是|
+|Exchange 管理中心访问|是|是|是|是|是 <sup>8</sup>|
+|远程 Windows PowerShell 访问|是|是|是|是|是|
+|移动设备的 ActiveSync 策略|是|是|是|是|是|
+|使用情况报告|是|是|是|是|是|
+|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|Outlook Web App Web 部件|是|是|是|是|是|
+|Outlook 外接程序和 Outlook MAPI|是|是|是<sup>21</sup>|是<sup>21</sup>|否|
 
-> <sup>1</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 并根据条件进行操作。 exchange Online 和 Microsoft exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。
- <br/><sup>2</sup>有关对本地产品的 exchange 托管垃圾邮件筛选的好处的信息, 请参阅 exchange [Online Protection 中的反垃圾邮件功能与 exchange Server 2013 的优势](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 
- <br/><sup>3</sup> SharePoint 必须部署在内部部署 Exchange 组织中。
- <br/><sup>4</sup> SharePoint Online 必须包含在 Office 365 订阅计划中。 
- <br/><sup>5</sup>对于每个具有基于云的存档的本地邮箱用户, 都需要一个 Exchange Online 存档 (EOA) 订阅。
- <br/><sup>6</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 
- <br/><sup>7</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 
- <br/><sup>8</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。
-<br/><sup>9</sup>不支持 IMAP。 
- <br/><sup>10</sup>对于 exchange 2013 或更高版本, DLP 需要 exchange Enterprise 客户端访问许可证 (CAL)。 有关 CAL 和服务器授权的详细信息，请参阅 [Exchange Server Licensing](https://go.microsoft.com/fwlink/p/?LinkId=299133)（Exchange Server 授权）。 
- <br/><sup>11</sup>不包含 Azure 信息保护, 但可作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 Office 365 邮件加密取决于 Azure 信息保护。 
- <br/><sup>12</sup> Windows Server AD RMS 是一台本地服务器, 必须单独购买并管理, 以便启用支持的 IRM 功能。 
- <br/><sup>13</sup>支持运行 Exchange Server 2013 或更高版本 (购买 Azure 信息保护) 的客户。 Office 365 邮件加密要求内部部署客户通过 exchange online 路由电子邮件, 方法是使用 exchange online Protection 进行电子邮件筛选, 或者建立混合邮件流。 
- <br/><sup>14</sup>个运行 Exchange Server 2013 或更高版本的客户需要下载并安装最新的累积更新 (CU) 或直接以前的 CU, 以访问 OWA 和适用于设备的 owa 中的文档指纹和策略提示。 
- <br/><sup>15</sup>适用于运行 Exchange Server 2013 或更高版本的客户。 
- <br/><sup>16</sup>支持 Exchange Server 2013 的 BitLocker 驱动器加密, 但管理员需要启用此功能。 > <sup>17</sup> Exchange Online 计划1的[邮箱和存档大小限制](https://go.microsoft.com/fwlink/?LinkId=330039)。 exchange online 存档 for exchange online 加载项添加了无限制的基于云的存档和[就地保留](https://technet.microsoft.com/en-us/library/7482322a-39fe-4a99-b29c-63cb1bc3cf1f#BKMK_In_placehold)。 
- <br/><sup>18</sup>只能通过 OWA 访问或共享 Exchange Online Kiosk 日历。 
- <br/><sup>19</sup>已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。 
- <br/><sup>20</sup>不支持使用 cmdlet 来使用地址列表和全局地址列表。  <br/><sup>21</sup>某些第三方 web 部件和外接程序可能不可用。 
- <br/><sup>22</sup>对于电子数据展示, 您需要单独查询内部部署和云。 
- <br/><sup>23</sup> Exchange Online 展台不提供对本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 
- <br/><sup>24</sup>个 Office 365 组可提供更少的功能。 
+> [!NOTE]
+> <sup>1</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 并根据条件进行操作。 Exchange Online 和 Microsoft Exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 <br/>
+<sup>2</sup>有关对本地产品的 exchange 托管垃圾邮件筛选的好处的信息, 请参阅 Exchange [Online Protection 中的反垃圾邮件功能与 exchange Server 2013 的优势](https://go.microsoft.com/fwlink/p/?LinkId=271726)。 <br/>
+<sup>3</sup> SharePoint 必须部署在内部部署 Exchange 组织中。 <br/>
+<sup>4</sup> SharePoint Online 必须包含在 Office 365 订阅计划中。 <br/>
+<sup>5</sup>对于每个具有基于云的存档的本地邮箱用户, 都需要一个 Exchange Online 存档 (EOA) 订阅。 <br/>
+<sup>6</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 <br/>
+<sup>7</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 <br/>
+<sup>8</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。 <br/>
+<sup>9</sup>不支持 IMAP。 <br/>
+<sup>10</sup>对于 exchange 2013 或更高版本, DLP 需要 Exchange Enterprise 客户端访问许可证 (CAL)。 有关 CAL 和服务器授权的详细信息，请参阅 [Exchange Server Licensing](https://go.microsoft.com/fwlink/p/?LinkId=299133)（Exchange Server 授权）。 <br/>
+<sup>11</sup>不包含 Azure 信息保护, 但可作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 Office 365 邮件加密取决于 Azure 信息保护。 <br/>
+<sup>12</sup> WINDOWS SERVER AD RMS 是一台本地服务器, 必须单独购买并管理, 以便启用支持的 IRM 功能。 <br/>
+<sup>13</sup>支持运行 Exchange Server 2013 或更高版本 (购买 Azure 信息保护) 的客户。 Office 365 邮件加密要求内部部署客户通过 Exchange Online 路由电子邮件, 方法是使用 Exchange Online Protection 进行电子邮件筛选, 或者建立混合邮件流。 <br/>
+<sup>14</sup>个运行 Exchange Server 2013 或更高版本的客户需要下载并安装最新的累积更新 (CU) 或直接以前的 CU, 以访问 OWA 和适用于设备的 owa 中的文档指纹和策略提示。 <br/>
+<sup>15</sup>适用于运行 Exchange Server 2013 或更高版本的客户。 <br/>
+<sup>16</sup>支持 Exchange Server 2013 的 BitLocker 驱动器加密, 但管理员需要启用此功能。 <br/>
+<sup>17</sup> Exchange Online 计划1的[邮箱和存档大小限制](https://go.microsoft.com/fwlink/?LinkId=330039)。 Exchange Online 存档 for Exchange Online 加载项添加了无限制的基于云的存档和[就地保留](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)。 <br/>
+<sup>18</sup>只能通过 OWA 访问或共享 Exchange Online Kiosk 日历。 <br/>
+<sup>19</sup>已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。 <br/>
+<sup>20</sup>使用 Exchange Online PowerShell 中的 cmdlet 自定义默认地址列表, 不支持默认全局地址列表 (GAL)。 <br/>
+<sup>21</sup>某些第三方 web 部件和外接程序可能不可用。 <br/>
+<sup>22</sup>对于电子数据展示, 您需要单独查询内部部署和云。 <br/>
+<sup>23</sup> Exchange Online 展台不提供对本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 <br/>
+<sup>24</sup>个 Office 365 组可提供更少的功能。
