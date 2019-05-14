@@ -3,30 +3,30 @@ title: Microsoft 365 商业版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/08/2019
+ms.date: 05/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
-description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 office 365 的详细信息, 请参阅 office 365 服务说明。
-ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
+ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
+ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246409"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33973350"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
-Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 此服务说明介绍了计划选项和功能。 有关 office 365 的详细信息, 请参阅[office 365 服务说明](office-365-service-descriptions-technet-library.md)。
+Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅[office 365 服务说明](office-365-service-descriptions-technet-library.md)。
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>跨 Office 365 商业高级版和 Microsoft 365 商业版计划的功能可用性
 
 下表列出了 Office 365 商业高级版和 Microsoft 365 商业版计划的平台功能。
   
-若要查看跨 office 365 计划的功能可用性, 请参阅[office 365 Platform 服务说明](office-365-platform-service-description/office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性, 请参阅[office 365 Platform 服务说明](office-365-platform-service-description/office-365-platform-service-description.md)。
   
 ||||
 |:-----|:-----|:-----|
@@ -43,7 +43,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |
 |Azure 信息保护  <br/> |否  <br/> |是<sup>4</sup> <br/> |
 |[Office 365 套件功能](office-365-platform-service-description/office-365-suite-features.md) <br/> |||
-|Microsoft 预订  <br/> |是  <br/> |是  <br/> |
+|Microsoft Bookings  <br/> |是  <br/> |是  <br/> |
 |Microsoft Flow  <br/> |是  <br/> |是  <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |
@@ -62,6 +62,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |[Office 365 管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |无<sup>6</sup> <br/> |是  <br/> |
+|共享计算机激活 <br/> |否 <br/> |可访问  <br/> |
 |[用户帐户管理](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |
 |Office 365 桌面设置  <br/> |是  <br/> |是  <br/> |
 |使用 .csv 文件批量上载  <br/> |是  <br/> |是  <br/> |
@@ -163,12 +164,12 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |帮助保护电脑上的文件和文件夹不受 Bitlocker 的未经授权的访问 <br/> |是  <br/> |
    
 > <sup>1</sup>包括 Exchange Online 计划1。
-<br/><sup>2</sup>包括具有基本客户端限制的 Skype for business Online 计划2。
+<br/><sup>2</sup>包括具有基本客户端限制的 Skype For Business Online 计划2。
 <br/><sup>3</sup> Project Online 不包括在内, 但可以作为单独的附加服务进行购买, 也可以免费添加到 Office 教育版计划中。 
 <br/><sup>4</sup> Azure 信息保护 (AIP) 启用受支持的信息权限管理 (IRM) 功能。 AIP Plan 1 包含在 Microsoft 365 业务中。 
-<br/><sup>5</sup> microsoft 团队在 microsoft 365 商业版、office 365 业务重点、office 365 商业高级版和 office 365 企业版 (E1、E3、E5、F1) 中可用。 它尚不可用于 Office 365 教育版计划。 
+<br/><sup>5</sup> microsoft 团队在 Microsoft 365 商业版、Office 365 业务重点、Office 365 商业高级版和 Office 365 企业版 (E1、E3、E5、F1) 中可用。 它尚不可用于 Office 365 教育版计划。 
 <br/><sup>6</sup> Azure 信息保护 (AIP) 启用受支持的信息权限管理 (IRM) 功能。 AIP Plan 1 包含在 Microsoft 365 业务中。 
-<br/><sup>7</sup> Office 365 商业高级版支持用于启用目录同步的 Azure AD Connect 工具, 该工具是 Microsoft 365 商业版的一个组件。 但是, 当为 Microsoft 365 商业版启用 Windows 管理组件时, 需要使用 Azure AD 加入。 如果你具有本地 Active Directory 环境, 并且想要将加入域的设备加入 azure ad, 则可以通过[配置混合 Azure ad 已加入设备](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)来实现此目的。 
+<br/><sup>7</sup> Office 365 商业高级版支持用于启用目录同步的 Azure AD Connect 工具, 该工具是 Microsoft 365 商业版的一个组件。 但是, 当为 Microsoft 365 商业版启用 Windows 管理组件时, 需要使用 Azure AD 加入。 如果你具有本地 Active Directory 环境, 并且想要将加入域的设备加入 Azure AD, 则可以通过[配置混合 AZURE ad 已加入设备](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)来实现此目的。 
 <br/><sup>8</sup>如果对本地 active directory 使用目录同步, 您必须使用本地 active directory 而不是 Office 365 门户或使用 Windows PowerShell 的 Azure Active directory 模块来删除帐户或更改密码。 
 <br/>仅<sup>9</sup>个云标识。 请参阅[让用户在 Office 365 中重置自己的密码](https://go.microsoft.com/fwlink/?linkid=852917)。 
 <br/><sup>10</sup>减少随术语折扣购买的座位可能受提前终止费用的制约。 这不适用于按月支付的订阅。 
@@ -179,4 +180,4 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 <br/><sup>15</sup>简化了 Windows 10 设备管理, 内置在 Microsoft 365 管理中心。 "设备管理" 管理中心中内置的 iOS、Android、macOS 和其他跨平台设备管理的 Intune 管理功能, 也授权用于 Microsoft 365 商业版。 此外, 还可以在设备管理管理中心内管理与 WiFi 配置文件和 VPN 证书等内容的第三方应用程序和配置。 
 <br/><sup>16</sup>此计划来自 Microsoft Stream plan 2, 其中包括视频门户、语音到文本对话、深度搜索和面孔检测。
 <br/><sup>17</sup>个简化的 Windows 10 设备管理和 Intune 应用保护策略内置在 Microsoft 365 管理中心中。
-<br/><sup>18</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 sku 中。 
+<br/><sup>18</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。 

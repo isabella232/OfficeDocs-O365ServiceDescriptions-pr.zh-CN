@@ -3,7 +3,7 @@ title: Project Online 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/13/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理 (PPM) 和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
+ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621912"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33970066"
 ---
 # <a name="project-online-service-description"></a>Project Online 服务说明
 
@@ -65,7 +65,7 @@ Project Online 网站上的任何交互都需要 Project Online 许可证。
   
 ## <a name="project-online-plans"></a>Project Online 计划
 
-以下 Project Online 计划可用。 若要了解有关 Project Online 的详细信息, 请参阅[Project Online 入门](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
+以下 Project Online 计划可用。 若要了解有关 Project Online 的详细信息, 请参阅[Project Online 入门](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
   
 ||||
 |:-----|:-----|:-----|
