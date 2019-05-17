@@ -3,7 +3,6 @@ title: OneDrive for Business 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,36 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: OneDrive for Business 是公司提供给员工个人的在线云存储空间。使用它，可以存储和保护工作文件，同时还能跨多个设备轻松访问工作文件。此外，还能根据需要与同事共享文件，并使用最新 Office 桌面、Web 和移动应用与他人实时协作处理 Office 文档。使用 OneDrive for Business 同步客户端，可以将文件同步到本地计算机。
-ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 了解每个订阅计划提供的 OneDrive 存储空间。
+ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
+ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246918"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34080463"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 
-OneDrive for Business 是公司提供给员工个人的在线云存储空间。使用它，可以存储和保护工作文件，同时还能跨多个设备轻松访问工作文件。此外，还能根据需要与同事共享文件，并使用最新 Office 桌面、Web 和移动应用与他人实时协作处理 Office 文档。使用 OneDrive for Business 同步客户端，可以将文件同步到本地计算机。
+OneDrive 是为组织中的单个许可用户提供的云中的联机存储空间。 使用它帮助保护工作文件并在多台设备上访问这些文件。 通过 OneDrive，你可以共享文件和协作使用文档，并将文件同步至计算机。 [详细了解 OneDrive 特性、功能和价格](https://go.microsoft.com/fwlink/?linkid=850345) 
   
-OneDrive for Business 包含在 SharePoint Online 中，也可作为独立计划购买，或与 Office 365 计划一起购买。 
-  
-若要详细了解 OneDrive for Business 特性和功能，请转到 [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345)。
-  
-## <a name="subscription-plans"></a>订阅计划
-
-可通过以下计划使用 OneDrive for Business。
-  
-||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服务** <br/> |**Office 365 商业版** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 专业增强版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|包含 OneDrive for Business 计划  <br/> |计划 1  <br/> |计划 1  <br/> |计划 1  <br/> |计划 1  <br/> |计划 1  <br/> |计划 2  <br/> |计划 2  <br/> |计划 F（旧称为“计划 K”）  <br/> |
-   
-||||
-|:-----|:-----|:-----|
-|**服务** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |
-|OneDrive for Business  <br/> |是  <br/> |是  <br/> |
-   
+OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 计划中，也可以作为单独计划购买。 
+    
 若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/zh-CN/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
@@ -51,81 +34,80 @@ OneDrive for Business 包含在 SharePoint Online 中，也可作为独立计划
   
 ## <a name="system-requirements"></a>系统要求
 
-有关系统要求，请访问此[页面](https://go.microsoft.com/fwlink/?linkid=837584)。
+若要查看 OneDrive 同步客户端和移动应用的要求，请参阅 [OneDrive 系统要求](https://go.microsoft.com/fwlink/?linkid=837584)。
   
 ## <a name="about-sync"></a>关于同步
 
-如果没有安装最新 OneDrive for Business 同步客户端，请参阅[如何安装 OneDrive for Business 同步客户端](https://support.microsoft.com/zh-CN/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl)。不确定要使用哪个版本的同步客户端？请参阅[正在使用哪个版本的 OneDrive？](https://go.microsoft.com/fwlink/?linkid=846624)
+若要安装最新同步客户端，请转至 [OneDrive 下载页面](https://onedrive.live.com/about/download/)。 
   
-## <a name="unlimited-cloud-storage-details"></a>无限云存储空间的详细信息
+## <a name="storage-space-per-user"></a>每个用户的存储空间
 
-以下计划为包含不少于 5 个用户的订阅提供无限个人云存储空间。
-  
-- OneDrive for Business 计划 2
-    
-- SharePoint Online 计划 2
-    
+**2 GB**
+
+- Office 365 企业版 F1
+
+**1 TB**
+
+- Office 365 商业协作版
+- Office 365 商业版
+- Office 365 商业高级版
+- Office 365 专业增强版
+- Office 365 企业版 E1
+- Office 365 政府版 G1
+- Office 365 非盈利商业协作版
+- Office 365 非盈利商业高级版
+- Office 365 非营利版 E1
+- OneDrive for Business 计划 1
+- SharePoint Online 计划 1
+
+**超过 1 TB，至不受限制**
+ 
+对于少于 5 个用户的订阅，每个用户 1 TB。 对于不少于 5 个用户的订阅，Microsoft 最开始将为每个用户提供 1 TB 存储空间，管理员可以将每个用户的存储空间提高至 5 TB。 （[了解操作方法](/onedrive/set-default-storage-space)）若要请求额外的存储空间，管理员必须联系 Microsoft 支持。 
+
 - Office 365 企业版 E3
-    
 - Office 365 企业版 E5
-    
+- OneDrive for Business 计划 2
+- SharePoint Online 计划 2
+- Office 365 企业版 E3
+- Office 365 企业版 E5
 - Office 365 A1
-    
 - Office 365 A3
-    
 - Office 365 A5
-    
 - Office 365 美国政府版 G3
-    
 - Office 365 美国政府版 G5
-    
-- Office 365 非营利组织版 E3
-    
-- Office 365 非营利组织版 E5
-    
+- Office 365 非营利版 E3 
+- Office 365 非赢利组织版 E5 
 - Microsoft 365 企业版 E3
-    
 - Microsoft 365 企业版 E5
-    
 - Microsoft 365 A3
-    
 - Microsoft 365 A5
-    
 - Microsoft 365 美国政府版 G3
-    
 - Microsoft 365 美国政府版 G5
-    
 - Microsoft 365 非营利组织版 E3
-    
 - Microsoft 365 非营利组织版 E5
-    
-对于包含不到 5 个用户的订阅，每用户 1TB 个人云存储空间。 
-  
-最初，客户在 OneDrive for Business 中预配到的存储空间大小为，每用户 1TB 个人云存储空间。1TB 配额达到 90% 的使用率后，通过 Office 365 管理员的帮助，最多可以[将默认 OneDrive for Business 存储空间增加](https://go.microsoft.com/fwlink/?linkid=838024)到每用户 5TB。 
+
   
 > [!NOTE]
 > 必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。 
   
-只要需要超过最初 5TB 的云存储空间时，就可以[通过联系 Microsoft 技术支持人员来开启案例](https://go.microsoft.com/fwlink/?linkid=869559)，从而发出请求。额外云存储空间的授予方式如下： 
+如果需要为用户提供超过初始 5 TB 的云存储空间，管理员可以[通过 Microsoft 技术支持打开事例](https://go.microsoft.com/fwlink/?linkid=869559)以申请额外的存储空间。 额外云存储空间的授予方式如下： 
   
-- 如果用户已使用 5TB OneDrive for Business 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive for Business 中的默认存储空间增加到每用户 25TB（如有需要，管理员可以设置更低的每用户存储空间限制）。 
+- 如果用户已使用 5TB 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive 中的默认存储空间增加到每用户 25 TB（如有需要，管理员可以设置更低的每用户存储空间限制）。 
     
-- 对于已使用 25TB OneDrive for Business 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。此额外存储空间以额度方式提供给租户。
+- 对于已使用 25 TB OneDrive 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。 此额外存储空间以额度方式提供给组织。
     
-若要查看所使用的个人云存储空间容量，Office 365 管理员可以转到 OneDrive 管理中心，以管理用户的个人云存储空间。 
-  
-请参阅 [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)（使用 PowerShell 更改用户的 OneDrive 存储空间），以详细了解 Office 365 管理员如何在 OneDrive for Business 中管理用户存储空间。 
-  
+若要查看单个用户的存储空间和使用情况，请转至 OneDrive 同步客户端中的“[管理存储空间](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)”。 若要查看组织中的用户使用的存储空间，请转至 Microsoft 365 管理中心的 [OneDrive 使用情况报表](/office365/admin/activity-reports/onedrive-for-business-usage)。 
+   
 ## <a name="supported-uses"></a>支持的用途
 
-借助 OneDrive for Business，每个人都可以在个人的在线云存储空间中轻松存储、访问和共享工作文件。OneDrive for Business 存储空间是以每用户为单位进行预配，旨在满足各个用户的需求。
+OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个用户的需求。
   
-不支持存储除各个用户的个人工作文件以外的其他数据（包括系统备份以及部门和组织级别数据），也不支持将每用户许可证分配给机器人、部门或其他非人为实体。若要执行更高级的内容管理和协作（包括跨团队或组织存储和管理文件、通信和 Intranet 网站），SharePoint 是最佳解决方案。
+不支持存储除各个用户的工作文件以外的其他数据（包括系统备份以及部门和组织级别数据），也不支持将每用户许可证分配给机器人、部门或其他非人为实体。 若要执行更高级的内容管理和协作（包括跨团队或组织存储和管理文件、通信和 Intranet 网站），SharePoint 是最佳解决方案。
   
-## <a name="onedrive-for-business-limitations"></a>OneDrive for Business 限制
+## <a name="onedrive-limits"></a>OneDrive 限制
 
-SharePoint Online 随附 OneDrive for Business。若要详细了解文件上传限制和网站集配额等限制，请参阅 [SharePoint Online 限制](https://go.microsoft.com/fwlink/?linkid=829156)和[同步文件和文件夹时的限制和局限](https://support.microsoft.com/zh-CN/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders)。
+若要了解文件和同步限制，请参阅 [SharePoint Online 限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)和[无效的文件名称和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
   
-对于包含无限个人云存储空间的计划，请注意，非存储功能可能会有限制。 
+对于单个用户包含无限云存储空间的计划，请注意，非存储功能可能会有限制。 
   
 
