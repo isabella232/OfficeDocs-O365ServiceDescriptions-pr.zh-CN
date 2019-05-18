@@ -3,7 +3,7 @@ title: Office Applications 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一种订阅服务, 提供了您已熟悉的最新版本的 Office 桌面应用程序, 例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: 341f5818ba89fe100218a333d13c045f26c45e3c
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
+ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973360"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34158910"
 ---
 # <a name="office-applications-service-description"></a>Office Applications 服务说明
 
@@ -54,9 +54,9 @@ Office 应用程序有 32 位和 64 位版本。
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |是  <br/> |是<sup>12</sup> <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Windows 10 应用](office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |否  <br/>|可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |[适用于 Office 365 的 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |否  <br/> |否  <br/>|否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup>13</sup> <br/>|是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup>  <br/>|是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|[Office Mobile for Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/>|是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Office Mobile for iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup>13</sup> <br/>|是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |
+|[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup>  <br/>|是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |
+|[Office Mobile for Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/>|是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |
 |Outlook for Android  <br/> |否  <br/> |否  <br/> |否  <br/>|可访问  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |**企业价值** <br/> |**Office 专业增强版 2013** <br/> |**Office 专业增强版 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 商业版** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |否  <br/>| 否  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
@@ -106,6 +106,7 @@ Office 应用程序有 32 位和 64 位版本。
 <sup>11</sup>如果您在当前频道或目标版本上使用延期频道, 则 Access 当前可用。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅 [Access included as part of Office 365 Business and Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)（Access 包括在 Office 365 商业版和商业高级版中）。<br/> 
 <sup>12</sup> Infopath 2013 仍受支持, 并随附于 Office Professional Plus 2016 的安装, 但没有适用于 office 2016 的新版本。<br/> 
 <sup>13</sup>仅支持基本编辑功能。<br/> 
+<sup>14</sup>仅限于具有集成屏幕的设备, 可测量10.1 英寸或更小的对角线。<br/> 
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Office 365 计划中的 Office for Mac 的 Office 应用程序可用性
 <a name="bkmk_Officefeaturesolutions"> </a>
 
