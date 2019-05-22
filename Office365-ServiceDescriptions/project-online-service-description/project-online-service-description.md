@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/13/2019
-ms.audience: End User
+audience: End User
 ms.topic: reference
 f1_keywords:
 - project-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理 (PPM) 和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
-ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
+ms.openlocfilehash: ec194d758c50b4da0544605c85b0beb0b81ec79e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33970066"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343721"
 ---
 # <a name="project-online-service-description"></a>Project Online 服务说明
 

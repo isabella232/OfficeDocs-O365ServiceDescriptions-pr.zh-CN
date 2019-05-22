@@ -3,29 +3,29 @@ title: Microsoft 365 教育版
 ms.author: sharik
 author: skjerland
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247248"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343601"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。 
   
-Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 a5 功能的 Office 365, 以及相应的 Microsoft 365 教育版 A3 和 a5 功能。 若要跨企业和企业计划比较 office 365 功能, 请参阅[比较 office 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177), 或者, 有关更详细的功能列表, 请参阅[Office 365 服务说明](https://go.microsoft.com/fwlink/?linkid=839510)中的相关服务说明。 若要搜索支持文章和信息, 请参阅[Office 帮助和培训](https://support.office.com/)。
+Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365, 以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较 Office 365 功能, 请参阅[比较 office 365 For business 计划](https://go.microsoft.com/fwlink/?linkid=799177), 或者, 有关更详细的功能列表, 请参阅[Office 365 服务说明](https://go.microsoft.com/fwlink/?linkid=839510)中的相关服务说明。 若要搜索支持文章和信息, 请参阅[Office 帮助和培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
-每个 Microsoft 365 教育版计划都包含许多单独的服务, 例如 Exchange online 和 SharePoint online。 下表显示了每个 Office 365 和 Microsoft 365 计划中提供的服务, 以便您可以选择最能满足您的需求的解决方案。 若要更详细地查看 office 365 服务和功能, 请参阅[office 365 教育](https://technet.microsoft.com/EN-US/library/mt844095.aspx)服务说明。 
+每个 Microsoft 365 教育版计划都包含许多单独的服务, 例如 Exchange Online 和 SharePoint Online。 下表显示了每个 Office 365 和 Microsoft 365 计划中提供的服务, 以便您可以选择最能满足您的需求的解决方案。 若要更详细地查看 Office 365 服务和功能, 请参阅[office 365 教育](https://technet.microsoft.com/EN-US/library/mt844095.aspx)服务说明。 
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -64,7 +64,7 @@ Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和
 |Azure Active Directory Basic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure Active Directory 计划1  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Azure Active Directory 计划2  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**合规性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
+|**Compliance** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Office 365 权限管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 信息保护计划 1<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Azure 信息保护计划 2<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
@@ -91,7 +91,7 @@ Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和
 |**服务器和 CAL 的好处** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Exchange<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |SharePoint<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
-|Skype for business<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
+|Skype for Business<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |System Center Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |

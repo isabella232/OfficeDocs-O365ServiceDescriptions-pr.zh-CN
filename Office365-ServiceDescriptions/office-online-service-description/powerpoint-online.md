@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: powerpoint Online (以前称为 powerpoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器, 您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office Online 的 Microsoft Office 365 客户可以随时查看、创建和编辑文件。
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: PowerPoint Online (以前称为 PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器, 您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office Online 的 Microsoft Office 365 客户可以随时查看、创建和编辑文件。
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246938"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343741"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-powerpoint Online (以前称为 powerpoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器, 您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office Online 的 Microsoft Office 365 客户可以随时查看、创建和编辑文件。
+PowerPoint Online (以前称为 PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器, 您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office Online 的 Microsoft Office 365 客户可以随时查看、创建和编辑文件。
   
 The PowerPoint Editor is a web front-end component that creates a browser-based editing surface, which enables users to work on documents without losing fidelity.
   
-如果单击 powerpoint Online 工具栏上的 "**在 powerpoint 中打开**" 按钮, 演示文稿将在 powerpoint 桌面应用程序中打开 (如果计算机上安装了 Microsoft PowerPoint 2010 或更高版本)。 
+如果单击 PowerPoint Online 工具栏上的 "**在 powerpoint 中打开**" 按钮, 演示文稿将在 powerpoint 桌面应用程序中打开 (如果计算机上安装了 Microsoft PowerPoint 2010 或更高版本)。 
   
 了解如何[使用 Office 365 商业版从电脑下载和安装 Office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
   
@@ -40,7 +40,7 @@ The PowerPoint Editor is a web front-end component that creates a browser-based 
 ## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 <a name="bkmk_Applybasictransitions"> </a>
 
-从动画和切换效果库中进行选择。 PowerPoint Online 支持8个转换和37个动画。 powerpoint online 不支持的其他动画和转换将保留在演示文稿中并显示在幻灯片放映中, 但不能在 PowerPoint Online 中进行修改。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+从动画和切换效果库中进行选择。 PowerPoint Online 支持8个转换和37个动画。 PowerPoint Online 不支持的其他动画和转换将保留在演示文稿中并显示在幻灯片放映中, 但不能在 PowerPoint Online 中进行修改。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 <a name="bkmk_Applyrichformatting"> </a>
@@ -180,7 +180,7 @@ PowerPoint Online 从 Web 浏览器启动并且要依靠 Internet 连接。要�
 ## <a name="real-time-co-authoring"></a>实时共同创作
 <a name="bkmk_Coauthoring"> </a>
 
-多个作者可以同时在 powerpoint Online 和 PowerPoint 2016 中工作。 实时状态可帮助您查看共同创作者在演示文稿中的编辑位置，从而不会在编辑时产生冲突，并且您可以在发生更改时进行查看。 PowerPoint 2013 支持同时编辑，但没有状态指示，并且在保存文档之前多个作者无法看到更改。 有关 powerpoint 中的实时共同创作的详细信息, 请参阅[在 powerpoint 演示文稿](https://go.microsoft.com/fwlink/?linkid=844014)中协同工作。
+多个作者可以同时在 PowerPoint Online 和 PowerPoint 2016 中工作。 实时状态可帮助您查看共同创作者在演示文稿中的编辑位置，从而不会在编辑时产生冲突，并且您可以在发生更改时进行查看。 PowerPoint 2013 支持同时编辑，但没有状态指示，并且在保存文档之前多个作者无法看到更改。 有关 PowerPoint 中的实时共同创作的详细信息, 请参阅[在 powerpoint 演示文稿](https://go.microsoft.com/fwlink/?linkid=844014)中协同工作。
   
 ## <a name="reviewer-tools---advanced"></a>审阅者工具-高级
 <a name="bkmk_AdvancedReviewerTools"> </a>
@@ -207,7 +207,7 @@ PowerPoint Online 从 Web 浏览器启动并且要依靠 Internet 连接。要�
 
 艺术字和图表都无法插入到 PowerPoint Online 中，但 PowerPoint Online 会按照预期方式显示它们。在"编辑"视图中，编辑文本并设置其格式。如果您希望将文本效果应用于艺术字，则需要使用 Microsoft PowerPoint 桌面应用程序。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 <a name="bkmk_Share"> </a>
 
 如果将演示文稿保存在 SharePoint 文档库中，演示文稿会处于联机状态，可以通过发送链接（而非电子邮件附件）进行共享。拥有适当权限的人员可以在其 Web 浏览器或移动设备上查看演示文稿。详细了解如何[共享演示文稿](https://go.microsoft.com/fwlink/?LinkId=272776)。
@@ -225,7 +225,7 @@ PowerPoint Online 在全屏窗口中播放幻灯片放映。按下空格键可�
 ## <a name="table-creationediting-and-formatting"></a>Table creation/editing and formatting
 <a name="bkmk_Tablecreation"> </a>
 
-可以在 PowerPoint Online 中创建和编辑表格, powerpoint online 支持大多数表格功能。 对于高级功能 (如合并和拆分单元格), 请使用 PowerPoint 桌面应用程序。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+可以在 PowerPoint Online 中创建和编辑表格, PowerPoint Online 支持大多数表格功能。 对于高级功能 (如合并和拆分单元格), 请使用 PowerPoint 桌面应用程序。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="tell-me"></a>操作说明搜索
 <a name="Bkmk_TellMe_PPT"> </a>
@@ -240,7 +240,7 @@ PowerPoint Online 在全屏窗口中播放幻灯片放映。按下空格键可�
 ## <a name="view-and-add-comments"></a>查看和添加注释
 <a name="bkmk_Viewaddcomments"> </a>
 
-如果您的文件存储在 SharePoint Online 或 OneDrive for business 上, 您可以添加、编辑或删除注释。 
+如果您的文件存储在 SharePoint Online 或 OneDrive for Business 上, 您可以添加、编辑或删除注释。 
   
 如果您的文件存储在 OneDrive 上, 则可以在 "编辑" 视图中添加、编辑或删除注释, 还可以在阅读视图中查看和更新注释。
   

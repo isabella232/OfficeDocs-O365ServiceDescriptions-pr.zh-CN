@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-compliance
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 遵循行业标准和管理法规, 旨在帮助您满足企业的法规要求。 有关详细信息, 请参阅合规性服务。
-ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d7ad8180aa56c6fbe483986f31fce8bc65d64b32
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246758"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343641"
 ---
 # <a name="compliance"></a>合规性
 
@@ -48,7 +48,7 @@ Microsoft Office 365 遵循行业标准和管理法规, 旨在帮助您满足企
     
 - 欧盟模式条款
     
-- FDA 21 CFR part 11
+- FDA 21 CFR Part 11
     
 - FedRAMP
     
@@ -96,9 +96,9 @@ Microsoft Office 365 遵循行业标准和管理法规, 旨在帮助您满足企
   
 - **我的组织是否可以使用 Office 365 且仍符合 PCI DSS 标准？**
     
-  - 支付卡行业数据安全标准 (PCI-DSS) 是一种全局信息安全标准, 旨在通过增强对信用卡数据的控制来防止欺诈行为。 pci-DSS 由 pci 安全标准委员会编写, 用于为任何组织处理信用卡和借记卡创建一组安全标准。
+  - 支付卡行业数据安全标准 (PCI-DSS) 是一种全局信息安全标准, 旨在通过增强对信用卡数据的控制来防止欺诈行为。 PCI-DSS 由 PCI 安全标准委员会编写, 用于为任何组织处理信用卡和借记卡创建一组安全标准。
     
-  - 客户可以使用信用卡在线订购和支付 office 365 服务, 因为客户可通过其购买 office 365 订阅的商业系统实现了 PCI-DSS 等级1合规性。 独立的第三方审计员确定 Microsoft Online 商业平台 (OCP) 已达到 PCI-DSS 版本1.2 的要求。 如下所述, 组织可以使用 Office 365 服务来帮助他们符合 PCI DSS 要求。
+  - 客户可以使用信用卡在线订购和支付 Office 365 服务, 因为客户可通过其购买 Office 365 订阅的商业系统实现了 PCI-DSS 等级1合规性。 独立的第三方审计员确定 Microsoft Online 商业平台 (OCP) 已达到 PCI-DSS 版本1.2 的要求。 如下所述, 组织可以使用 Office 365 服务来帮助他们符合 PCI DSS 要求。
     
 - **Office 365 如何帮助我的组织使用 PCI-DSS？**
     

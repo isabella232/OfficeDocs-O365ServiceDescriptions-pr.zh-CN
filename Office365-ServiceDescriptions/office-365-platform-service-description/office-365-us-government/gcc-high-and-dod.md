@@ -4,23 +4,23 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 Arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247108"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343251"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
-为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。 
+为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 Arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。 
   
 若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。
   
@@ -36,7 +36,7 @@ GCC High and DoD 满足以下认证和资格鉴定的合规性要求:
     
 - 高至影响级别 5 (L5) 的信息的美国国防部云计算安全要求指南 (SRG) 的安全控制和增强控制。
     
-Office 365 的国防部订阅者将从符合 dod SRG L5 的 DOD 独家环境中接收服务。 非防御部门订阅者将接收来自美国政府防御环境的服务, 这些服务在 L5 进行评估, 但使用 L4 分段。
+Office 365 的国防部订阅者将从符合 DOD SRG L5 的 DOD 独家环境中接收服务。 非防御部门订阅者将接收来自美国政府防御环境的服务, 这些服务在 L5 进行评估, 但使用 L4 分段。
   
 ## <a name="background-screening"></a>后台筛选
 
@@ -56,14 +56,14 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
 |国防部 IT-2  <br/> |请求对客户数据提升的权限或对国防部 SRG L5 服务功能的特权管理访问权限的员工必须通过国防部 IT-2 裁定，该裁定基于成功的 OPM 第 3 层调查。  <br/> |
 
-<sup>1</sup>仅适用于具有对 Office 365 美国 GCC 中托管的客户内容的临时或具有访问权限的人员, 或使用 DOD 云
+<sup>1</sup>仅适用于具有对 OFFICE 365 美国 GCC 中托管的客户内容的临时或具有访问权限的人员, 或使用 DOD 云
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>基于符合性云体系结构的功能细微
 
-在 GCC 高和 DoD 环境中的 Office 365 订阅包括核心 Exchange Online、SharePoint online 和 Skype for business 功能。 如果基础结构的认证和资格鉴定增多, 则一般商业版 Office 365 产品与 GCC 高和 DoD 中提供的功能之间存在一些功能差异。
+在 GCC 高和 DoD 环境中的 Office 365 订阅包括核心 Exchange Online、SharePoint Online 和 Skype for Business 功能。 如果基础结构的认证和资格鉴定增多, 则一般商业版 Office 365 产品与 GCC 高和 DoD 中提供的功能之间存在一些功能差异。
   
 ### <a name="exchange-online"></a>Exchange Online
 
- **适用于本地 ip-pbx 的 Exchange Online 统一消息支持**-支持将本地 ip-pbx 系统与 Exchange Online 统一消息集成在 GCC 高级和 DoD 订阅中不受支持。 
+ **适用于本地 ip-pbx 的 Exchange Online 统一消息支持**-支持将本地 IP-pbx 系统与 Exchange Online 统一消息集成在 GCC 高级和 DoD 订阅中不受支持。 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 
@@ -79,15 +79,15 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
     
 在 GCC 高或 DoD 环境中使用 SharePoint Online 和 OneDrive for business 的客户可以让文档保持专用 (第一个选项), 与组织中的任何人共享 (第二个选项), 与任何有该文档链接的人共享 (第三个选项), 以及仅与 GCC 高和 DoD 环境中的特定人员共享 (第四个选项);当然, 也可以基于租户级别的访问控制来限制这些选项。
   
-gcc 高租户仅可与其他 GCC 高租户共享。 例如：
+GCC 高租户仅可与其他 GCC 高租户共享。 例如：
   
-- gcc high 租户 A 可以与 GCC 高租户 B 共享。
+- GCC High 租户 A 可以与 GCC 高租户 B 共享。
     
-- 非 gcc 租户 C 可以与 GCC 高租户 A 或 B 共享。
+- 非 GCC 租户 C 可以与 GCC 高租户 A 或 B 共享。
     
-- gcc high 租户 A 或 B 无法与非 GCC 高租户 C 共享。
+- GCC High 租户 A 或 B 无法与非 GCC 高租户 C 共享。
     
-此外, 不支持附加到用户配置文件的非 GCC 高电子邮件地址, 也不允许发送警报电子邮件。 例如, 在本地用户 a 分配了 Gmail 电子邮件地址, 然后同步到 Azure GCC High 租户。 用户 A 导航到库并为任何更改创建警报。 将不会向 Gmail 地址发送通知。
+此外, 不支持附加到用户配置文件的非 GCC 高电子邮件地址, 也不允许发送警报电子邮件。 例如, 在本地用户 A 分配了 Gmail 电子邮件地址, 然后同步到 Azure GCC High 租户。 用户 A 导航到库并为任何更改创建警报。 将不会向 Gmail 地址发送通知。
   
  **外部应用程序访问**-与外部应用程序 (如外接程序的数据源) 的连接仅限于位于 GCC High and DoD 支持的系统安全边界内的源。 
   
@@ -97,7 +97,7 @@ gcc 高租户仅可与其他 GCC 高租户共享。 例如：
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **pstn 呼叫&amp; pstn 会议**-由于需要使用面向电话服务的公用电话交换网 (PSTN), 因此在 GCC 高和 DoD 中, pstn &amp;呼叫 pstn 会议服务目前不可用。 
+ **PSTN 呼叫&amp; pstn 会议**-由于需要使用面向电话服务的公用电话交换网 (PSTN), 因此在 GCC 高和 DOD 中, Pstn &amp;呼叫 pstn 会议服务目前不可用。 
   
 ### <a name="identity"></a>标识
 

@@ -4,23 +4,23 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+ms.openlocfilehash: a7cb37e0cf8202281f65ffcc6b233bf254619c20
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247208"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343261"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
-[office 365 安全&amp;合规中心](https://go.microsoft.com/fwlink/?LinkID=824876)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[Office 365 安全&amp;合规中心](https://go.microsoft.com/fwlink/?LinkID=824876)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -35,7 +35,7 @@ ms.locfileid: "33247208"
 |邮件筛选和反恶意软件等[威胁管理](https://go.microsoft.com/fwlink/?linkid=845550)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网络仿冒活动的[高级威胁管理](https://go.microsoft.com/fwlink/?linkid=846673)(如客户密码箱和威胁浏览器) <sup>6</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[移动设备管理](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Exchange Online、SharePoint Online 和 OneDrive for business 的数据丢失防护](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Microsoft 团队聊天和频道对话的数据丢失防护](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[数据治理](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
@@ -51,7 +51,7 @@ ms.locfileid: "33247208"
 <br/><sup>2</sup>高级数据管理允许您保留重要信息, 并根据保留或删除策略或这两者来分类信息, 从而删除不重要的信息。 它包括智能/自动化操作, 如推荐策略、自动将标签应用于数据、应用基于敏感数据类型或查询的标签、对智能导入筛选器的使用、处置评审和使用。 它还包括用于出于安全和合规目的检查员工通信的监督功能。
 <br/><sup>3</sup> 50 GB 限制。 
 <br/><sup>4</sup>无限制。 
-<br/><sup>5</sup>美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br/><sup>6</sup> office 365 企业版 E5 中提供了高级威胁防护, 作为 office 365 企业版 E1 和 office 365 企业版 E3 的独立服务。 
+<br/><sup>5</sup>美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br/><sup>6</sup> office 365 企业版 E5 中提供了高级威胁防护, 作为 Office 365 企业版 E1 和 Office 365 企业版 E3 的独立服务。 
   
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立&amp;计划的安全合规性中心可用性
 
@@ -86,6 +86,6 @@ ms.locfileid: "33247208"
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-安全 & 合规性中心适用于 Office 365 德国。 有关 office 365 德国的信息, 请参阅[office 365 德国](office-365-germany.md)。
+安全 & 合规性中心适用于 Office 365 德国。 有关 Office 365 德国的信息, 请参阅[office 365 德国](office-365-germany.md)。
   
 

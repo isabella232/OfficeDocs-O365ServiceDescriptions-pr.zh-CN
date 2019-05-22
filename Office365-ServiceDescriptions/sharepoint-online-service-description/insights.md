@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-insights-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下"洞察力"功能可让组织使用数据库、报表和业务应用程序中的信息来解决具体的业务需求。
-ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246728"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342501"
 ---
 # <a name="insights"></a>见解
 
@@ -132,7 +132,7 @@ Excel 工作簿有时包含 Power Pivot 数据模型，你可以进行功能强�
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Visio Services 是方便用户共享和查看 Microsoft Visio Drawing (\*.vsdx) 和 Visio 2010 Web 绘图 (\*.vdw) 文件的服务应用程序。 Visio Services 不再在 SharePoint Online 中可用。 Visio Services 将继续在 sharepoint server 2010、sharepoint server 2013 和 sharepoint server 2016 中提供。 详细了解 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)。
+Visio Services 是方便用户共享和查看 Microsoft Visio Drawing (\*.vsdx) 和 Visio 2010 Web 绘图 (\*.vdw) 文件的服务应用程序。 Visio Services 不再在 SharePoint Online 中可用。 Visio Services 将继续在 SharePoint Server 2010、SharePoint Server 2013 和 SharePoint Server 2016 中提供。 详细了解 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)。
   
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_VisioServices"> </a>

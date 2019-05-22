@@ -4,23 +4,23 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 创建了 Office 365 美国政府版计划 (orOffice 365 美国政府版)。 此部分提供了特定于 Office 365 美国政府版 的功能的概述。 建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247078"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343211"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
-为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 创建了 Office 365 美国政府版计划 (或 "office 365 美国政府版")。 此部分提供了特定于 Office 365 美国政府版 的功能的概述。 建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
+为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 创建了 Office 365 美国政府版计划 (或 "Office 365 美国政府版")。 此部分提供了特定于 Office 365 美国政府版 的功能的概述。 建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
   
 ## <a name="how-to-use-this-service-description-section"></a>如何使用本服务说明部分
 <a name="TopOfPage"> </a>
@@ -89,17 +89,17 @@ Office 365 可以将第三方应用程序集成到 SharePoint Online 站点、Sk
 ## <a name="restricted-data-access-by-administrators"></a>管理员受限数据访问
 <a name="BM5-Restricted"> </a>
 
-Microsoft 管理员对 Office 365 美国政府客户内容的访问权限仅限于被筛选人员。 有关筛选级别的详细信息, 请参阅每个各自的环境的 "服务说明" 页面 (GCC 或 gcc 高和 DoD)。 
+Microsoft 管理员对 Office 365 美国政府客户内容的访问权限仅限于被筛选人员。 有关筛选级别的详细信息, 请参阅每个各自的环境的 "服务说明" 页面 (GCC 或 GCC 高和 DoD)。 
 
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack Center 载入帮助
 <a name="BM5-Restricted"> </a>
 
-使用适用于 office 365<sup>1</sup>的 FastTrack 中心权益, 您可以与 FastTrack 专家远程合作, 让您的 Office 365 环境准备就绪, 并在您的组织内规划部署和使用情况。 FastTrack 流程提供了载入和用户采用服务。 
+使用适用于 Office 365<sup>1</sup>的 FastTrack 中心权益, 您可以与 FastTrack 专家远程合作, 让您的 Office 365 环境准备就绪, 并在您的组织内规划部署和使用情况。 FastTrack 流程提供了载入和用户采用服务。 
   
 载入包括：
   
-- 核心载入-这些是租户配置和与 azure Active Directory (Azure AD) 集成所需的任务 (如果需要)。 核心载入还为载入其他符合条件的服务提供了基线。
+- 核心载入-这些是租户配置和与 Azure Active Directory (Azure AD) 集成所需的任务 (如果需要)。 核心载入还为载入其他符合条件的服务提供了基线。
     
 - 服务载入和迁移-服务载入任务可在租户中启用方案。 数据迁移中介绍了数据迁移 (包括电子邮件[](https://aka.ms/whatcanmigrate)和文件)。<sup>2</sup>
     
@@ -171,12 +171,12 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Visio Online  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
-> <sup>1</sup> Skype for business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版、G3 和 G5 包括完整的 Skype 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user.
-<br/><sup>2</sup>不包括在内, 但可以作为单独的附加项购买。 project online 包括 project online 桌面客户端作为订阅的一部分。
+> <sup>1</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版、G3 和 G5 包括完整的 Skype 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user.
+<br/><sup>2</sup>不包括在内, 但可以作为单独的附加项购买。 Project Online 包括 Project Online 桌面客户端作为订阅的一部分。
 <br/> <sup>3</sup>尚不可用于 GCC 高或 DoD 计划, 但即将推出。 
-<br/><sup>4</sup> Yammer 企业不是 Office 365 美国政府的一个组件, 但可以免费获得, 作为在 GCC 中为 Office 365 许可的每个用户提供的独立服务。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 中不可用。
+<br/><sup>4</sup> Yammer 企业不是 OFFICE 365 美国政府的一个组件, 但可以免费获得, 作为在 GCC 中为 Office 365 许可的每个用户提供的独立服务。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 中不可用。
 <br/><sup>5</sup>通话套餐是一个附加项。 
-<br/><sup>6</sup>不包括在内, 但可以作为单独的附加项购买。 visio online 包括 visio online 桌面客户端作为订阅的一部分。  
+<br/><sup>6</sup>不包括在内, 但可以作为单独的附加项购买。 Visio Online 包括 Visio Online 桌面客户端作为订阅的一部分。  
 ## <a name="platform-features"></a>平台功能 
 <a name="BM7-Platform"> </a>
 
@@ -298,19 +298,19 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |**[服务级别协议](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[产品使用权限](../../office-365-platform-service-description/product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
-> <sup>1</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 office 365 专业增强版, 该订阅不包含在 office 365 美国政府版 G1 或 office 365 美国政府 F1 中。 > 
+> <sup>1</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版, 该订阅不包含在 Office 365 美国政府版 G1 或 Office 365 美国政府 F1 中。 > 
 <br/><sup>2</sup> 现有的 BBCS 和 BIS 客户可继续使用服务。 不接受新客户。 
 <br/><sup>3</sup> 如果使用目录同步，您必须使用 Active Directory（而不是 Office 365 门户）或使用 Windows PowerShell 的 Azure Active Directory 模块来删除帐户或更改密码。 
 <br/><sup>4</sup> 如果使用密码同步，用户必须更改本地 Active Directory 中的密码。 
 <br/><sup>5</sup> 若要了解如何为用户设置自助服务密码管理策略，请参阅 [管理 Azure AD 中的密码](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。 <br/><sup>6</sup> Office 365 只能有一个公共网站，除非你已升级旧版 Office 365。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 若要详细了解如何处理商业版订阅的两个网站，请参阅 [处理两个 Office 365 公共网站](https://go.microsoft.com/fwlink/p/?LinkID=271589)。 如果有其他订阅，请参阅[在 Office 365 中了解合作伙伴网站托管和公共网站](https://go.microsoft.com/fwlink/p/?LinkID=325009)，详细了解公共网站。 
 <br/><sup>7</sup> 减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
-<br/><sup>8</sup>以下计划不支持来自 Microsoft 365 管理中心的许可证座位更改: > office 365 美国政府版 G1 > Office 365 美国政府版 > Office 365 美国政府版 K1 <br/><sup>9</sup>在 GCC 高版中尚不可用, 但即将推出。
-<br/><sup>10</sup>个 For Office 365 US 政府 G1、G3 和 F1、目标版本和 Office 365 For business 路线图适用;但是, 由于[合规性要求](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263), 特定服务更新可能会存在一些差异或延迟。
-<br/><sup>11</sup>尚不可用于 Office 365 美国政府版产品, 但即将推出。 ><br/><sup>12</sup>不包括在内, 但可以作为单独的附加项在 GCC 中购买。 
-<br/><sup>13</sup>不支持 Office 365 美国政府版产品。 
+<br/><sup>8</sup>以下计划不支持来自 Microsoft 365 管理中心的许可证座位更改: > OFFICE 365 美国政府版 G1 > OFFICE 365 美国政府版 > OFFICE 365 美国政府版 K1 <br/><sup>9</sup>在 GCC 高版中尚不可用, 但即将推出。
+<br/><sup>10</sup>个 For OFFICE 365 US 政府 G1、G3 和 F1、目标版本和 Office 365 For business 路线图适用;但是, 由于[合规性要求](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263), 特定服务更新可能会存在一些差异或延迟。
+<br/><sup>11</sup>尚不可用于 OFFICE 365 美国政府版产品, 但即将推出。 ><br/><sup>12</sup>不包括在内, 但可以作为单独的附加项在 GCC 中购买。 
+<br/><sup>13</sup>不支持 OFFICE 365 美国政府版产品。 
 <br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=836894)。 
 <br/><sup>15</sup>在 DoD 环境中尚不可用, 但即将推出。 
-<br><sup>16</sup> Admin Center 不包括 DoD 或 GCC 高级环境中的使用情况分析
+<br><sup>16</sup> Admin Center 不包括 DOD 或 GCC 高级环境中的使用情况分析
 <br><sup>17</sup>不支持 GCC 高或 DoD 环境
   
 ["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
@@ -370,10 +370,10 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |版本升级  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |批量激活 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
-> <sup>1</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 office 365 专业增强版, 该订阅不包含在 office 365 美国政府版 G1 或 office 365 美国政府 F1 中。 
-<br/><sup>2</sup> Windows Server AD RMS 是一台本地服务器, 必须单独购买并管理, 才能启用受支持的 IRM 功能。 
-<br/><sup>3</sup> Skype for business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 office 365 专业增强版和 office 365 企业版 E3 包括完整的 Skype 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+> <sup>1</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版, 该订阅不包含在 Office 365 美国政府版 G1 或 Office 365 美国政府 F1 中。 
+<br/><sup>2</sup> WINDOWS SERVER AD RMS 是一台本地服务器, 必须单独购买并管理, 才能启用受支持的 IRM 功能。 
+<br/><sup>3</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
 <br/><sup>4</sup>在 GCC 高或 DoD 环境中尚不可用, 但即将推出。
-<br/><sup>5</sup>有关更多详细信息, 请参阅[在政府社区云中使用 Outlook for iOS 和 Outlook for Android](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
+<br/><sup>5</sup>有关更多详细信息, 请参阅[在政府社区云中使用 Outlook For iOS 和 Outlook for Android](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
   <br/><sup>6</sup>在 Office 365 DoD 环境中尚不可用, 但即将推出。
 <br/><br/>["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - recipient-domain-and-company-management-features-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) 提供了几种管理您的收件人、域和公司信息的方法。 作为管理员, 您可以在 Exchange 管理中心 (EAC) 内执行某些管理任务, 并验证在 Microsoft 365 管理中心中执行的其他管理任务。
-ms.openlocfilehash: ff773ca3e19c9f9419ad907ed102f6af8a3567c2
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1608c388daae472d0200d6ef0b2f8b434d4e125c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246268"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342561"
 ---
 # <a name="recipient-domain-and-company-management"></a>收件人、域和公司管理
 
@@ -29,7 +29,7 @@ Microsoft Exchange Online Protection (EOP) 提供了几种管理您的收件人�
 ## <a name="mail-recipients"></a>Mail recipients
 <a name="BKMK_mailrecipients"> </a>
 
-邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 仅在 Microsoft 365 管理中心内管理的用户无法在 eac 中查看, 但可以在 eac 的管理员角色组中的成员身份添加或删除它们。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](https://go.microsoft.com/fwlink/p/?LinkId=280011)。
+邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 仅在 Microsoft 365 管理中心内管理的用户无法在 EAC 中查看, 但可以在 EAC 的管理员角色组中的成员身份添加或删除它们。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](https://go.microsoft.com/fwlink/p/?LinkId=280011)。
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 <a name="BKMK_adminrolegrouppermissions"> </a>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
-description: 自2016年12月12日的 dynamics 365 (联机和本地) 更新后, dynamics CRM 功能现在作为 dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 自2016年12月12日的 Dynamics 365 (联机和本地) 更新后, Dynamics CRM 功能现在作为 Dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246518"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342961"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365（在线版）服务说明
 
-自2016年12月12日的 dynamics 365 (联机和本地) 更新后, dynamics CRM 功能现在作为 dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。 
+自2016年12月12日的 Dynamics 365 (联机和本地) 更新后, Dynamics CRM 功能现在作为 Dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。 
   
 这些应用程序包括：
   
@@ -52,7 +52,7 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**应用程序** <br/> |**企业计划1** <br/> |**企业计划2** <br/> |**面向工作组的企业版使用<sup>1</sup>** <br/> |**商业版, 完全使用<sup>2</sup>** <br/> |**适用于团队成员的商业版<sup>3</sup>** <br/> |
+|**应用** <br/> |**企业计划1** <br/> |**企业计划2** <br/> |**面向工作组的企业版使用<sup>1</sup>** <br/> |**商业版, 完全使用<sup>2</sup>** <br/> |**适用于团队成员的商业版<sup>3</sup>** <br/> |
 |[Dynamics 365 for Sales](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_sales) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[Dynamics 365 for Customer Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_customerservice) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/#pivot=solutions&amp;panel=solutions_fieldservice) <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
@@ -66,7 +66,7 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
  <br/><sup>3</sup>浅色使用: 在所有商业版的 Dynamics 365 应用中包括读取访问权限以及选择轻型任务的一些写访问权限。 
 <br/><sup>4</sup>包括制造和供应链、零售和商务以及财务。 
   
-## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>对 Sales、Customer service、Field service 和 Project service Automation 的 Dynamics 365 的订阅许可证比较
+## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>对 Sales、Customer Service、Field Service 和 Project Service Automation 的 Dynamics 365 的订阅许可证比较
 
 下面提供了与五个用户服务级别相关联的使用权限的高级别摘要。 有关详细的比较, 请参阅下载: [Dynamics 365 许可指南](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)中的**附录 B** 。
   
@@ -88,15 +88,15 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
 |**配置系统报告、系统图表、系统仪表板** <br/> |无  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**潜在客户、商机、目标、合同、报价单、订单、发票、竞争对手** <br/> |只读  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**销售活动、快速市场活动、市场营销列表、价格表、产品列表** <br/> |只读  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
-|**统一服务桌面** <br/> |只读  <br/> |完整  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
+|**统一服务中心** <br/> |只读  <br/> |完整  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**完整的案例管理、服务、资源 (不是 bookable)、工作时间、设施、设备、文章** <br/> |只读  <br/> |只读  <br/> |完整  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |
 |**工作订单、安排和派遣计划板、服务协议、字段服务发票和采购订单、客户资产、库存、维修和退货** <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |只读  <br/> |完整  <br/> |
-|**项目、项目支出和估计、资源可用性视图和计划管理、项目价格列表/合同/发票、批准项目交易记录、Microsoft project Online 高级版** <br/> |只读  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |完整  <br/> |
+|**项目、项目支出和估计、资源可用性视图和计划管理、项目价格列表/合同/发票、批准项目交易记录、Microsoft Project Online 高级版** <br/> |只读  <br/> |只读  <br/> |只读  <br/> |只读  <br/> |完整  <br/> |完整  <br/> |
 |**PowerApps** <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |完整  <br/> |
 |**Microsoft 社交活动、客户语音、移动脱机、Gamification 播放器和管理员** <br/> |无  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |完整  <br/> |
 |**在应用程序中包含的多个实体之间创建工作流、批量数据导入和自定义** <br/> |无  <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |只读的<sup>4</sup> <br/> |完整  <br/> |
    
- **full** = 完全访问权限 
+ **Full** = 完全访问权限 
   
  **只读的**= 只读/有限的访问权限 
   

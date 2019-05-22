@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Skype for business Online 中的限制分为以下几类:'
-ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 'Skype for Business Online 中的限制分为以下几类:'
+ms.openlocfilehash: 2c45009ce112334485b8caacb4f9f221b208c678
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246458"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342401"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
-Skype for business Online 中的限制分为以下几类:
+Skype for Business Online 中的限制分为以下几类:
   
 - [对等限制](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -54,7 +54,7 @@ Skype for business Online 中的限制分为以下几类:
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不适用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>通过从组或通讯组列表的上下文菜单中手动添加或发送即时消息, 客户端可以启动最高为99个用户的聊天。 有关 skype for business Online 中的即时消息的详细信息, 请参阅[在 skype for business 中发送即时](https://go.microsoft.com/fwlink/?linkid=533412)消息。 
+> <sup>1</sup>通过从组或通讯组列表的上下文菜单中手动添加或发送即时消息, 客户端可以启动最高为99个用户的聊天。 有关 Skype for business Online 中的即时消息的详细信息, 请参阅[在 skype For business 中发送即时](https://go.microsoft.com/fwlink/?linkid=533412)消息。 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>独立选项之间的对等限制
 
@@ -66,7 +66,7 @@ Skype for business Online 中的限制分为以下几类:
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>通过从组或通讯组列表的上下文菜单中手动添加或发送即时消息, 客户端可以启动最高为99个用户的聊天。 有关 skype for business Online 中的即时消息的详细信息, 请参阅[在 skype for business 中发送即时](https://go.microsoft.com/fwlink/?linkid=533412)消息。 
+> <sup>1</sup>通过从组或通讯组列表的上下文菜单中手动添加或发送即时消息, 客户端可以启动最高为99个用户的聊天。 有关 Skype for business Online 中的即时消息的详细信息, 请参阅[在 skype For business 中发送即时](https://go.microsoft.com/fwlink/?linkid=533412)消息。 
   
 ## <a name="meeting-limits"></a>会议限制
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -137,5 +137,5 @@ Skype for business Online 中的限制分为以下几类:
 ## <a name="minute-limits"></a>分钟限制
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-有关 office 365 国内通话套餐或 office 365 国际呼叫计划中的分钟限制的信息, 请单击[此处](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
+有关 Office 365 国内通话套餐或 Office 365 国际呼叫计划中的分钟限制的信息, 请单击[此处](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   

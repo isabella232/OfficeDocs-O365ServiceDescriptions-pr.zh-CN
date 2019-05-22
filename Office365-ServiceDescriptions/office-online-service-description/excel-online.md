@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/06/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - excel-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (以前称为 Excel Web App) 将您的 Microsoft Excel 体验扩展到 Web 浏览器, 您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
-ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: f84df58c744384690d83b2db11ce96fc644ae7af
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641618"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343771"
 ---
 # <a name="excel-online"></a>Excel Online
 

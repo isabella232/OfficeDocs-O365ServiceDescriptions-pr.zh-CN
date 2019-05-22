@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/07/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-support
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Office 365 支持选项。
-ms.openlocfilehash: 99d815aae9708951e1012658db52eab1b5f11f98
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+ms.openlocfilehash: 42fd0a816f55f988cab77c2e1b883b4c8902dbae
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663296"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343131"
 ---
 # <a name="support"></a>支持
 

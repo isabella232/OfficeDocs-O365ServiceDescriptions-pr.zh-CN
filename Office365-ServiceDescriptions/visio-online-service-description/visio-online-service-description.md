@@ -4,31 +4,31 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: 通过 Visio Online, 您可以在 web 上查看、编辑和共享 visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint online 或 OneDrive for business online 的文件中插入注释来查看和协作。
-ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 通过 Visio Online, 您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
+ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246828"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342381"
 ---
 # <a name="visio-online-service-description"></a>Visio Online 服务说明
 
-通过 Visio Online, 您可以在 web 上查看、编辑和共享 visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint online 或 OneDrive for business online 的文件中插入注释来查看和协作。
+通过 Visio Online, 您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
   
 有关详细信息并开始入门, 请参阅[Visio Online](https://products.office.com/en-US/visio/visio-online)。
   
-若要获取有关使用 visio online 的帮助, 请参阅[Visio online 帮助](https://go.microsoft.com/fwlink/?linkid=855982)。
+若要获取有关使用 Visio Online 的帮助, 请参阅[Visio online 帮助](https://go.microsoft.com/fwlink/?linkid=855982)。
   
 ## <a name="feature-availability-and-comparison"></a>功能可用性和比较
 
-下表将 visio Online 功能功能与功能丰富的 Visio 桌面应用程序进行比较。 使用表发现 Visio Online 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 您可能会发现组织中的某些人需要 visio 桌面应用程序的高级功能, 而其他人只需要使用 visio Online 查看和轻轻松地编辑 visio 图表。 
+下表将 Visio Online 功能功能与功能丰富的 Visio 桌面应用程序进行比较。 使用表发现 Visio Online 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 您可能会发现组织中的某些人需要 Visio 桌面应用程序的高级功能, 而其他人只需要使用 Visio Online 查看和轻轻松地编辑 Visio 图表。 
   
 ||||
 |:-----|:-----|:-----|

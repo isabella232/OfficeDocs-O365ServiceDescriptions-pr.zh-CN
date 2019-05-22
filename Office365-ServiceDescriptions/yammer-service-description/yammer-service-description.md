@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
-ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246768"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342090"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -50,7 +50,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Enterprise 服务通信策略
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 是 office 365 的一部分并遵守[office 365 更改管理策略](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), 但不使用目标版本来推出更新。 
+Yammer 是 Office 365 的一部分并遵守[office 365 更改管理策略](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), 但不使用目标版本来推出更新。 
   
 所有 Yammer 用户都要进行 A/B 功能测试。这样，Microsoft 就可以跨多个环境和设备测试功能的稳定性、性能和体验改善。同一网络中的用户可能会有不同的测试体验。客户不能选择停用 A/B 测试。
   

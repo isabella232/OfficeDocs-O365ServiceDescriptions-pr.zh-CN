@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-suite-features
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合, 可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247188"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343281"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -98,11 +98,11 @@ Office 365 视频是全公司范围内的安全目标，可供跨设备上载、
   
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
 
-课堂笔记本是 OneNote 的一部分, 可用于 office 365 教育版和 office 365 E5 教育版。 每个笔记本都包含用于教师共享课程内容的内容库、教师和学生可以协同工作的协作空间, 以及每个学生的专用笔记本。 创建课堂笔记本后, 教师和学生可以使用 OneNote 应用从任何设备访问它。
+课堂笔记本是 OneNote 的一部分, 可用于 Office 365 教育版和 Office 365 E5 教育版。 每个笔记本都包含用于教师共享课程内容的内容库、教师和学生可以协同工作的协作空间, 以及每个学生的专用笔记本。 创建课堂笔记本后, 教师和学生可以使用 OneNote 应用从任何设备访问它。
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-microsoft Kaizala 是一种简单且安全的移动工作管理应用程序, 它为 Microsoft 365 提供了独特的功能, 并能够在组织的目录内和外部的人员之间进行连接和接洽 (包括合同工作人员、供应商合作伙伴、供应商、客户和公民–使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的开放目录模型支持基于电话号码的标识, 以便于进行轻松加入, 并提供了简单的用户体验, 用于邮件和工作管理。 Kaizala 移动应用程序使用户能够发送即时消息和附件 (如图片、文档、视频、audios 等), 以及使用用于调查、投票、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) , 适用于 iPhone 和 Android。 若要了解详细信息, 请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
+Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序, 它为 Microsoft 365 提供了独特的功能, 并能够在组织的目录内和外部的人员之间进行连接和接洽 (包括合同工作人员、供应商合作伙伴、供应商、客户和公民–使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的开放目录模型支持基于电话号码的标识, 以便于进行轻松加入, 并提供了简单的用户体验, 用于邮件和工作管理。 Kaizala 移动应用程序使用户能够发送即时消息和附件 (如图片、文档、视频、audios 等), 以及使用用于调查、投票、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) , 适用于 IPhone 和 Android。 若要了解详细信息, 请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
   
 ## <a name="feature-availability"></a>功能可用性
 

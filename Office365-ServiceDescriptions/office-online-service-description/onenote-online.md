@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: 使用 onenote online (以前称为 onenote Web App) 在 OneNote 笔记本中进行联机笔记, 可以从任意位置添加这些笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 使用 OneNote Online (以前称为 OneNote Web App) 在 OneNote 笔记本中进行联机笔记, 可以从任意位置添加这些笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247178"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343751"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-使用 onenote online (以前称为 onenote Web App) 在 OneNote 笔记本中进行联机笔记, 可以从任意位置添加这些笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。 
+使用 OneNote Online (以前称为 OneNote Web App) 在 OneNote 笔记本中进行联机笔记, 可以从任意位置添加这些笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office Online 查看并简单编辑 Office 文件。 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 <a name="bkmk_AdvancedCollaboration"> </a>
@@ -172,7 +172,7 @@ OneNote Online 显示受信息权限管理 (IRM) 保护的笔记本。但是，�
 
 在 OneNote Online 中不可用。高级搜索功能（例如按标记、标题、作者/日期和音频文件搜索）仅在 OneNote 桌面应用程序中可用。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 <a name="bkmk_Share"> </a>
 
 如果已将 OneNote 笔记本保存到 SharePoint 文档库，则 OneNote 笔记本处于联机状态。也就是说，可以通过发送链接进行共享，而无需使用电子邮件附件。通过单击此链接，用户可在其 Web 浏览器中阅读你的笔记。详细了解如何[联机共享 OneNote 笔记](https://go.microsoft.com/fwlink/p/?LinkID=272945)。

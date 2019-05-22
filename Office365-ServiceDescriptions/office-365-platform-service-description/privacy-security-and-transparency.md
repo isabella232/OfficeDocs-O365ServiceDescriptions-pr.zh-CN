@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-privacy-security-transparency
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 3dc0f70265eea5bd4919e412a6be260b95683285
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247058"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343191"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
@@ -39,7 +39,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
 
 若要了解 Microsoft 如何安全、可靠地提供 Office 365 服务，请参阅[安全性](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)。
   
-## <a name="transparency"></a>透明度
+## <a name="transparency"></a>Transparency
 
 作为 Office 365 客户，您可以了解您的数据所在的位置，Microsoft 的哪些人员可以访问该数据以及我们内部对该信息采取的措施。有关详细信息，请参阅[透明度](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)。
   

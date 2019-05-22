@@ -3,7 +3,7 @@ title: Visio Online
 ms.author: sharik
 author: skjerland
 ms.date: 6/28/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 使用 Office Online 的 Microsoft Office 365 客户可以在旅途中查看和共享图表以及插入注释。
-ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246558"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342341"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -38,12 +38,12 @@ Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接�
 ## <a name="build-mashup-solutions"></a>生成混合 Web 应用程序解决方案
 <a name="BM_3"> </a>
 
-visio Online JavaScript 混合 API 使开发人员能够访问和操作 Visio web 图表、其页面及其形状。 有关详细信息, 请参阅[Visio Online 常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
+Visio Online JavaScript 混合 API 使开发人员能够访问和操作 Visio web 图表、其页面及其形状。 有关详细信息, 请参阅[Visio Online 常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
   
 ## <a name="create-diagrams"></a>创建关系图
 <a name="BM_4"> </a>
 
-您无法在 Visio Online 中创建图表;但是, 您可以在 Visio 桌面应用程序中创建图表, 然后将它们上传到 SharePoint 或 OneDrive for business。 然后, 你可以与其他人共享它们。
+您无法在 Visio Online 中创建图表;但是, 您可以在 Visio 桌面应用程序中创建图表, 然后将它们上传到 SharePoint 或 OneDrive for Business。 然后, 你可以与其他人共享它们。
   
 ## <a name="cut-copy-and-paste"></a>剪切、复制和粘贴
 <a name="BM_5"> </a>
@@ -58,7 +58,7 @@ visio Online JavaScript 混合 API 使开发人员能够访问和操作 Visio we
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>在 SharePoint、Web 或博客页中嵌入关系图
 <a name="BM_7"> </a>
 
-您可以使用 visio Online 在 SharePoint、web 或博客页面上插入 visio 图表 (在 Visio 桌面应用程序中创建)。 有关详细信息, 请参阅[Visio Online 常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
+您可以使用 Visio Online 在 SharePoint、web 或博客页面上插入 Visio 图表 (在 Visio 桌面应用程序中创建)。 有关详细信息, 请参阅[Visio Online 常见问题](https://go.microsoft.com/fwlink/?linkid=825706)。
   
 ## <a name="find"></a>查找
 <a name="BM_8"> </a>
@@ -88,7 +88,7 @@ Office 外接程序在 Visio Online 中不可用。
 ## <a name="offline-viewing"></a>Office 查看
 <a name="BM_13"> </a>
 
-在 Visio Online 中不可用。 Office Online 需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Visio 桌面应用程序, 以便在断开 Internet 连接或从组织的本地 Office Web Apps 服务器断开连接时查看和编辑关系图。 如果安装了 visio 桌面应用程序, 则可以使用 Visio 的完整功能来查看和编辑您的关系图。 保存后, 将使用所做的更改更新联机关系图。 您还可以下载并保存图表的脱机副本, 但它不会与联机版本同步。 详细了解 [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx)。
+在 Visio Online 中不可用。 Office Online 需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Visio 桌面应用程序, 以便在断开 Internet 连接或从组织的本地 Office Web Apps 服务器断开连接时查看和编辑关系图。 如果安装了 Visio 桌面应用程序, 则可以使用 Visio 的完整功能来查看和编辑您的关系图。 保存后, 将使用所做的更改更新联机关系图。 您还可以下载并保存图表的脱机副本, 但它不会与联机版本同步。 详细了解 [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx)。
   
 ## <a name="print-to-pdf"></a>打印为 PDF 格式
 <a name="BM_14"> </a>
@@ -113,12 +113,12 @@ Visio Online 允许您使用 "另存为" 或 "下载图表副本", 但您必须�
 ## <a name="share-a-diagram"></a>共享关系图
 <a name="BM_18"> </a>
 
-如果您的图表保存在 SharePoint 文档库或 OneDrive for business 中, 则您的图表处于联机状态, 您可以通过发送链接 (而不是电子邮件附件) 进行共享。 具有适当权限的用户可以在 web 浏览器或移动设备中查看它。 只需单击右上角的 "**共享**" 即可。 
+如果您的图表保存在 SharePoint 文档库或 OneDrive for Business 中, 则您的图表处于联机状态, 您可以通过发送链接 (而不是电子邮件附件) 进行共享。 具有适当权限的用户可以在 web 浏览器或移动设备中查看它。 只需单击右上角的 "**共享**" 即可。 
   
 ## <a name="smartart"></a>SmartArt
 <a name="BM_19"> </a>
 
-通过 Visio Online, 您不能向图表中添加 SmartArt。 但是, 如果使用 visio 桌面应用程序添加了 SmartArt, 它将在 visio Online 中可见。
+通过 Visio Online, 您不能向图表中添加 SmartArt。 但是, 如果使用 Visio 桌面应用程序添加了 SmartArt, 它将在 Visio Online 中可见。
   
 ## <a name="tell-me"></a>操作说明搜索
 <a name="BM_20"> </a>

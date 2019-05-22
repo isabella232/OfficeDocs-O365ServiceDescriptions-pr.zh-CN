@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: word Online (以前称为 word Web App) 将您的 Microsoft Word 体验扩展到 Web 浏览器, 您可以直接在存储文档的网站上处理文档。
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Word Online (以前称为 Word Web App) 将您的 Microsoft Word 体验扩展到 Web 浏览器, 您可以直接在存储文档的网站上处理文档。
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246948"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343791"
 ---
 # <a name="word-online"></a>Word Online
 
-word Online (以前称为 word Web App) 将您的 Microsoft Word 体验扩展到 Web 浏览器, 您可以直接在存储文档的网站上处理文档。 
+Word Online (以前称为 Word Web App) 将您的 Microsoft Word 体验扩展到 Web 浏览器, 您可以直接在存储文档的网站上处理文档。 
   
 ## <a name="alignment-guides-and-live-layout"></a>Alignment guides and live layout
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -293,7 +293,7 @@ Word Online 可在键入时自动检查拼写，并在拼写错误的文本下�
 
 你可以使用 Word Online 将文件保存或转换为 PDF，以便可以使用商业打印机共享或打印文件。该过程不需要任何其他软件或外接程序。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 <a name="bkmk_Share"> </a>
 
 通过 Word Online，单击一次即可发送链接，其他人可以使用链接查看或编辑文档。详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。

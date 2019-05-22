@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/01/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: f8b3a1a04956a94eb9dccd7b14078fd5b926ec03
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544942"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342991"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
@@ -74,7 +74,7 @@ Office Mobile for iPad 和 iPhone 包括您喜爱的 Office 应用程序, 如 Wo
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-适用于 Android 的 Office Mobile 包括您喜爱的 Office 应用程序, 如 Word for Android、Excel for Android 和 PowerPoint for Android。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Android 设备上创建和编辑文档。 有关详细信息, 请参阅[在 Android 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)。
+适用于 Android 的 office Mobile 包括您喜爱的 Office 应用程序, 如 Word for Android、Excel for Android 和 PowerPoint for Android。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Android 设备上创建和编辑文档。 有关详细信息, 请参阅[在 Android 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 

@@ -2,23 +2,23 @@
 title: SharePoint Online 限制
 ms.author: sharik
 author: skjerland
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 5c89f7fa92a91a780be9350e16be87e537370586
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368365"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342531"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
-查找适用于 Office 365 计划和 sharepoint Online 独立计划的 SharePoint 限制。
+查找适用于 Office 365 计划和 SharePoint Online 独立计划的 SharePoint 限制。
   
 ## <a name="limits-by-plan"></a>按计划限制
 
@@ -45,11 +45,11 @@ ms.locfileid: "33368365"
 
 - 列表**和库中的项**-列表最多可包含30000000个项, 库最多可以包含30000000个文件和文件夹。 100、00个项目添加到列表、库或文件夹中, 无法更改列表、库或文件夹的权限继承。 若要详细了解查看大型列表的其他限制，请参阅[管理大型列表和库在 Office 365 中](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 有关在文件名中不能使用的字符的信息, 请参阅[file 和 folder names 中的无效字符](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
-- **文件大小和文件路径长度**-15 GB。 若要了解有关使用新的 OneDrive 同步客户端 (OneDrive) 时的限制和限制的详细信息, 请参阅[onedrive、onedrive for business 和 SharePoint 中的无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **文件大小和文件路径长度**-15 GB。 若要了解有关使用新的 OneDrive 同步客户端 (OneDrive) 时的限制和限制的详细信息, 请参阅[onedrive、onedrive For business 和 SharePoint 中的无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
-- **跨网站集移动和复制**–每个操作 100 GB。 web 浏览器必须保持打开状态。
+- **跨网站集移动和复制**–每个操作 100 GB。 Web 浏览器必须保持打开状态。
 
-- **同步**-若要获得最佳性能, 建议在单个 OneDrive 或工作组网站库中存储不超过300000个文件。 尽管 SharePoint Online 可以将30000000文档存储在每个库中, 但为了获得最佳性能, 建议在所有文档库中同步不超过300000个文件。 此外, 如果要同步的所有库中有300000个或更多的项目, 也可能会出现相同的性能问题, 即使您不同步这些库中的所有项目。 如果使用以前的 OneDrive for business 同步客户端 (Groove), 则每个库的同步限制为20000个项目 (包括每个团队网站的5000个项目)。
+- **同步**-若要获得最佳性能, 建议在单个 OneDrive 或工作组网站库中存储不超过300000个文件。 尽管 SharePoint Online 可以将30000000文档存储在每个库中, 但为了获得最佳性能, 建议在所有文档库中同步不超过300000个文件。 此外, 如果要同步的所有库中有300000个或更多的项目, 也可能会出现相同的性能问题, 即使您不同步这些库中的所有项目。 如果使用以前的 OneDrive for Business 同步客户端 (Groove), 则每个库的同步限制为20000个项目 (包括每个团队网站的5000个项目)。
 
 - **版本**-50000 主要版本和511次要版本。
 

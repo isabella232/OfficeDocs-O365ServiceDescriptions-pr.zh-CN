@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/11/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
@@ -14,23 +14,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
-description: 您想知道需要购买哪些许可证才能获取特定的 Skype for business 功能吗？ 请参阅 Skype for business 许可概述。
-ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？ 请参阅 Skype for Business 许可概述。
+ms.openlocfilehash: ba3e2f87f4bc6b6e66e06aa1a7ded86787324a8f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246858"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342391"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
 
 > [!NOTE]
-> Microsoft 团队现在是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 从10月1日起, 2018, 将向 Microsoft 团队载入的新 Office 365 客户将被到 Microsoft 团队, 并且将无法访问 Skype for business Online。 已在使用 Skype for business Online 的租户将能够继续执行此操作 (包括预配新用户), 直到他们完成向 Microsoft 团队的过渡。
+> Microsoft 团队现在是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 从10月1日起, 2018, 将向 Microsoft 团队载入500的新 Office 365 客户将被到 Microsoft 团队, 并且将无法访问 Skype for business Online。 已在使用 Skype for Business Online 的租户将能够继续执行此操作 (包括预配新用户), 直到他们完成向 Microsoft 团队的过渡。
 
 > [!NOTE]
-> 从2019年7月1日起, Skype for business Online 计划2将从销售中停用。 这意味着, 您将无法再获取 Skype for business Online 计划2以用于即时消息、状态、会议和对等语音和视频。 这些功能将继续在所有 office 365 提供中受到支持, 其中包括团队, 包括 Office 365 套件。 当计划在当前术语结束时过期时, 为了能够继续访问这些功能, 您必须切换到其他计划。 我们建议您为当前已分配 Skype for business Online 计划2的用户评估 office 365 业务重点、商业高级版或任何其他 office 套件。 
+> 从2019年7月1日起, Skype for Business Online 计划2将从销售中停用。 这意味着, 您将无法再获取 Skype for Business Online 计划2以用于即时消息、状态、会议和对等语音和视频。 这些功能将继续在所有 Office 365 提供中受到支持, 其中包括团队, 包括 Office 365 套件。 当计划在当前术语结束时过期时, 为了能够继续访问这些功能, 您必须切换到其他计划。 我们建议您为当前已分配 Skype for business Online 计划2的用户评估 Office 365 业务重点、商业高级版或任何其他 Office 套件。 
 
- **您想知道需要购买哪些许可证才能获取特定的 Skype for business 功能吗？请参阅[Skype for business 许可概述](https://go.microsoft.com/fwlink/?LinkID=799524)。**
+ **您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？请参阅[Skype For business 许可概述](https://go.microsoft.com/fwlink/?LinkID=799524)。**
   
 Skype for Business Online 是一款通信服务，支持你随时随地与参加会议和通话的人员联系。它支持用户访问出席信息，并支持即时消息、音频和视频呼叫、丰富的在线会议和一系列 Web 会议功能。 
   
@@ -45,7 +45,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>跨 Office 365 计划比较 Skype for Business Online 功能
 
-建议使用我们简单的比较页面来选择 Skype for business Online 的版本。 请参阅[比较 Skype 会议计划](https://go.microsoft.com/fwlink/?linkid=798291)。 如果需要更深入的比较，请查看下列功能表。 如果需要此方面的其他帮助，请致电[支持人员](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 可以从下拉列表中选择区域设置，获取本地号码。
+建议使用我们简单的比较页面来选择 Skype for Business Online 的版本。 请参阅[比较 Skype 会议计划](https://go.microsoft.com/fwlink/?linkid=798291)。 如果需要更深入的比较，请查看下列功能表。 如果需要此方面的其他帮助，请致电[支持人员](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 可以从下拉列表中选择区域设置，获取本地号码。
   
 若要查看所有 Office 365 计划，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。请参阅 [Office 365 计划选项](https://go.microsoft.com/fwlink/?linkid=846972)，了解详细的比较信息。
   
@@ -57,8 +57,8 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |**[Skype for Business Online：客户端、移动应用和会议室设备](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
-|Skype for business Full  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|Skype for business 基本  <br/> |否  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |是<sup>1</sup> <br/> |
+|Skype for Business Full  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|Skype for Business 基本  <br/> |否  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |是<sup>1</sup> <br/> |
 |Lync 2013 Basic  <br/> |否  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |是<sup>1</sup> <br/> |
 |Skype for Business Windows 应用商店应用  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Lync for Mac 2011  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -181,20 +181,20 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |Microsoft 365 管理中心  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business 管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 365 管理中心中的 Skype for business Online 报告  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. office 365 专业增强版和 office 365 企业版 E3 包括完整的 Skype for business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>3</sup>您必须为要拥有语音邮件的用户分配一个 Exchange Online (计划 2) 计划。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
-<br/><sup>4</sup>如果受 Skype for business Online 计划2或企业计划用户的邀请, Office 365 企业级 F1 用户可能会参与共享会话。 
-<br/> <sup>5</sup>可以将音频会议添加到 office 365 商业高级版、office 365 企业版 E1 和 office 365 企业版 E3 订阅计划作为加载项。 
+<br/><sup>4</sup>如果受 Skype For Business Online 计划2或企业计划用户的邀请, Office 365 企业级 F1 用户可能会参与共享会话。 
+<br/> <sup>5</sup>可以将音频会议添加到 Office 365 商业高级版、Office 365 企业版 E1 和 Office 365 企业版 E3 订阅计划作为加载项。 
 <br/> <sup>6</sup>可以将通信点数添加到 Office 365 商业高级订阅计划中, 作为仅支持音频会议的加载项。 
 <br/><sup>7</sup>在 Mac 和移动客户端上, 紧急呼叫不可用。 
-<br/> <sup>8</sup>客户密钥使您能够控制组织的加密密钥, 然后将 Office 365 配置为使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange online 和 Skype for business 的数据, 这些数据存储在存储在 SharePoint online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务, 因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 
+<br/> <sup>8</sup>客户密钥使您能够控制组织的加密密钥, 然后将 Office 365 配置为使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据, 这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务, 因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>跨 Skype for Business Online 独立计划的功能可用性
 
-下表列出了各个独立计划可用的 Skype for Business Online 功能。 有关这些功能的说明, 请转到[Skype for business Online 功能](skype-for-business-online-features.md)。
+下表列出了各个独立计划可用的 Skype for Business Online 功能。 有关这些功能的说明, 请转到[Skype For Business Online 功能](skype-for-business-online-features.md)。
   
 > [!NOTE]
 > Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)。 
@@ -203,8 +203,8 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |**[Skype for Business Online：客户端、移动应用和会议室设备](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype for business Full  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Skype for business 基本  <br/> |否  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
+|Skype for Business Full  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Skype for Business 基本  <br/> |否  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |Lync 2013 Basic  <br/> |否  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |Skype for Business Windows 应用商店应用  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Lync for Mac 2011  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -286,10 +286,10 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |Microsoft 365 管理中心  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Skype for Business 管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 365 管理中心中的 Skype for business Online 报告  <br/> |否  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
+|Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |否  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[适用于 Skype for business Online 的客户端](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> 
-<br/><sup>2</sup>如果 skype for business online 计划2用户邀请了用户, 则 skype for business online 计划1用户可能会参与共享会话。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[适用于 Skype for Business Online 的客户端](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> 
+<br/><sup>2</sup>如果 skype For Business online 计划2用户邀请了用户, 则 Skype For Business online 计划1用户可能会参与共享会话。 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan. 
@@ -301,7 +301,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |||
 |:-----|:-----|
 |**Office 365 计划** <br/> |**Skype for Business Online 功能** <br/> |
-|Skype for Business Online 独立计划 2  <br/> | Skype 会议直播  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  Skype for Business Online 独立计划 2 或任何包含计划 2 的 Office 365 套件均可使用以下附加设备：  <br/>  音频会议 (适用于有限的国家/地区)。  <br/>  电话系统。  <br/> > [!NOTE]> 如果单独购买时没有通话套餐, 则电话系统仅启用混合语音功能。 混合语音需要本地客户混合语音部署, 以使用现有的 pstn 服务提供商启用 pstn 呼叫。 以下电话系统加载项可用于使用 Microsoft 作为您的 PSTN 服务提供商来启用入站和出站 PSTN 呼叫: > 国内呼叫计划 (适用于有限的国家/地区) > 国际呼叫计划 (适用于有限)           |
+|Skype for Business Online 独立计划 2  <br/> | Skype 会议直播  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  Skype for Business Online 独立计划 2 或任何包含计划 2 的 Office 365 套件均可使用以下附加设备：  <br/>  音频会议 (适用于有限的国家/地区)。  <br/>  电话系统。  <br/> > [!NOTE]> 如果单独购买时没有通话套餐, 则电话系统仅启用混合语音功能。 混合语音需要本地客户混合语音部署, 以使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于使用 Microsoft 作为您的 PSTN 服务提供商来启用入站和出站 PSTN 呼叫: > 国内呼叫计划 (适用于有限的国家/地区) > 国际呼叫计划 (适用于有限)           |
 |Skype for Business Online 独立计划 3  <br/> |Skype for Business Online 独立计划 3。  <br/> > [!NOTE]> 此计划仅用于第三方语音服务提供商, 并且不** 提供任何呼叫服务, 如音频会议、电话系统、国内通话套餐或国际呼叫计划。           |
 |Office 365 商业高级版  <br/> | Skype 会议直播：  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  音频会议 (在可用的国家/地区)。  <br/> |
 |Office 365 企业版 E1  <br/> |Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/> |

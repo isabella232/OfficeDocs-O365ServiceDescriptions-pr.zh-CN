@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求, 以及代表美国政府持有或处理数据的承包商, Microsoft 提供了 Office 365 美国政府社区 (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247128"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343241"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -54,7 +54,7 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
 |CJIS 背景筛查  <br/> |在每个已加入 Microsoft CJIS IA 计划的州内，由州 CSA 指定的机构调查州审判的联邦和州级犯罪记录  <br/> |
 
-<sup>1</sup>仅适用于具有对 Office 365 美国政府社区云 (GCC) 中托管的客户内容的临时或有权访问权限的人员  
+<sup>1</sup>仅适用于具有对 OFFICE 365 美国政府社区云 (GCC) 中托管的客户内容的临时或有权访问权限的人员  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 美国政府版社区和 Yammer
 
 虽然 Yammer Enterprise 不是 Office 365 美国政府版 的组件，但是 Office 365 美国政府版 E1 和 E3 计划许可的每个用户都可以将其作为独立产品免费获取。根据企业协议和企业订阅协议购买 Office 365 美国政府版 的客户当前不能享有此项优惠。 
@@ -69,7 +69,7 @@ MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和�
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云 (GCC) 客户支持
 
-office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+Office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
 )相同的条款和条件提供, 包括无支持代理物理位置或公民保证。 Office 365 GCC 与 Azure 公有云结合运行, 在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
 
 Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分, 直到您确认他们的授权能够查看或访问此类数据。 Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客户支持不包含在服务资格鉴定边界中, 不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。

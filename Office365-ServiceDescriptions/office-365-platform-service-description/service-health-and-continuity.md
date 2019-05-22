@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/25/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-health
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368385"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343151"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -70,7 +70,7 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 
 ## <a name="notification-policy"></a>通知策略
 
-当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新 office 365 管理门户上特定于租户的服务运行状况仪表板 (SHD) 来通知 office 365 管理员。 服务事件更新在每小时节奏上提供, 如果需要不同的节奏, 则会在 SHD 通信发布中进行说明。 
+当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新 Office 365 管理门户上特定于租户的服务运行状况仪表板 (SHD) 来通知 Office 365 管理员。 服务事件更新在每小时节奏上提供, 如果需要不同的节奏, 则会在 SHD 通信发布中进行说明。 
   
 ## <a name="service-health-communication-channels"></a>服务运行状况的通信通道
 
@@ -80,7 +80,7 @@ Office 365 租户管理员的管理员应用程序使你能够在旅途中与组
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
-Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 office 365 管理包, 这使他们能够在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
+Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 Office 365 管理包, 这使他们能够在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 

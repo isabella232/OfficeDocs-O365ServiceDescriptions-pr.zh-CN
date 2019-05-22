@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - project-planning
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: 以下项目计划功能在 project Online 中可用。
-ms.openlocfilehash: 059fff81c541cb378688f25d7d09180a8a9d8419
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: 以下项目计划功能在 Project Online 中可用。
+ms.openlocfilehash: 52922c7ebf757351cd4f46214a484d7c1a18ba86
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246848"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343701"
 ---
 # <a name="project-planning"></a>项目计划
 
-以下项目计划功能在 project Online 中可用。
+以下项目计划功能在 Project Online 中可用。
   
 寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   

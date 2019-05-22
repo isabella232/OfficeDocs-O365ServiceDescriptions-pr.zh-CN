@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/10/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-domains
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 当您添加一个域时，分步向导可帮助您添加用户并将您的 Office 365 电子邮件地址和其他服务转换为您的公司名称。 完成该向导后，您的业务电子邮件将转到 Office 365，而不转到您当前的电子邮件提供商。 若要了解详细信息，请参阅将用户和域添加到 Office 365。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
-ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: febc87051ec9b4e6853cadfc43a0d0c272dd1b04
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247278"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343731"
 ---
 # <a name="domains"></a>域
 
@@ -54,7 +54,7 @@ Office 365 预先检查您的 DNS 记录以查找并帮助解决 DNS 问题。 �
 ## <a name="sharing-a-domain"></a>共享域
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-您可以试用 Office 365，将某个域的一些电子邮件地址放在 Office 365 上，另一些放在以前的电子邮件提供商处。 建议仅在运行 office 365 的过程中使用此方法, 因为这需要额外的安装步骤, 并且对 office 365 服务有一些限制。 有关详细信息，请参阅：
+您可以试用 Office 365，将某个域的一些电子邮件地址放在 Office 365 上，另一些放在以前的电子邮件提供商处。 建议仅在运行 Office 365 的过程中使用此方法, 因为这需要额外的安装步骤, 并且对 Office 365 服务有一些限制。 有关详细信息，请参阅：
   
 - [试用 Office 365 小型企业版](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

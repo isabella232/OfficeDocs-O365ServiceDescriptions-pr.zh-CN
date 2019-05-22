@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。其中包括提供 Exchange Online Protection 的计划列表以及所有计划的功能比较。
-ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 22116d6771ccafe421cf1a3fc1abc87ab4af1d43
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246108"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342081"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -28,7 +28,7 @@ Microsoft Exchange Online Protection (EOP) 是基于云的电子邮件筛选服�
   
 以下是您可以使用 EOP 进行邮件保护的主要方式：
   
-- **在独立方案中**EOP 为您的内部部署 exchange server 2013 环境、旧版 exchange server 版本或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。 
+- **在独立方案中**EOP 为您的内部部署 Exchange Server 2013 环境、旧版 Exchange Server 版本或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。 
     
 - **作为 Microsoft Exchange Online 的一部分** 默认情况下，EOP 保护 Exchange Online 云托管的邮箱。若要了解有关 Exchange Online 的详细信息，请参阅 [Exchange Online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)。
     
@@ -128,7 +128,7 @@ EOP 可与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server 2013）
  <br/><sup>9</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。
  <br/><sup>10</sup> 包括 DLP 报告。 
  <br/><sup>11</sup> Exchange Enterprise CAL with Services 客户应该通过选择 **Exchange Online** 服务（而不是 **Exchange Online Protection** 服务）来安装工作簿。 
- <br/><sup>12</sup>支持购买 Azure 信息保护的本地客户, 并使用 exchange online Protection 通过 exchange online 路由电子邮件。 
+ <br/><sup>12</sup>支持购买 Azure 信息保护的本地客户, 并使用 Exchange online Protection 通过 exchange online 路由电子邮件。 
  <br/> <sup>13</sup> 扫描入站和出站邮件，但不扫描从组织中的发件人发送给组织中的收件人的内部邮件。 
  <br/><sup>14</sup> EOP 和 Exchange Online 的可用谓词和操作不同。 
  <br/> <sup>15</sup> 混合安装程序不能通过混合向导使用，但是，如果你拥有 Exchange SP1，则可以手动进行设置。 

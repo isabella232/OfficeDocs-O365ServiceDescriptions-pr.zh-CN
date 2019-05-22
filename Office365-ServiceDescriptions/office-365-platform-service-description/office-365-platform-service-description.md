@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247218"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343301"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -28,7 +28,7 @@ ms.locfileid: "33247218"
   
 Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务（其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online 以及 Microsoft Skype for Business Online）的云版本结合使用，帮助用户通过 Internet 随时随地提高工作效率。
   
-若要跨计划比较功能, 请参阅[比较 Office 365 for Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409), 或者有关更详细的功能列表, 请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
+若要跨计划比较功能, 请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409), 或者有关更详细的功能列表, 请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -66,7 +66,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 中的多地理位置功能
 
-多地理位置使单个 office 365 租户可以跨多个 office 365 数据中心地理位置, 并使您能够在所选地理位置以每用户的方式存储 Exchange Online 和 OneDrive for business、rest 上的 Office 365 数据。 
+多地理位置使单个 Office 365 租户可以跨多个 Office 365 数据中心地理位置, 并使您能够在所选地理位置以每用户的方式存储 Exchange Online 和 OneDrive for business、rest 上的 Office 365 数据。 
   
 可用信息: 亚太地区、澳大利亚、加拿大、欧洲联合、印度、日本、韩国、英国、美国。 
   
@@ -215,12 +215,12 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <br/><sup>7</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=836894)。 
 <br/><sup>8</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 
 <br/><sup>9</sup>降低了体验。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
-<br/><sup>10 个</sup>Microsoft 团队在 office 365 business Essentials、office 365 商业高级版、office 365 企业版 (E1、E3、E5、F1) 和 office 365 教育版计划中均可用。 
-<br/><sup>11</sup>在 office 365 企业版 F1 中, office 365 视频仅限于查看 (无发布或共享)。 
-<br/><sup>12</sup> office 365 Enterprise F1, 支持一对一音频/视频呼叫。 只提供“加入”这种会议权限（不得创建或发起会议）。 
+<br/><sup>10 个</sup>Microsoft 团队在 Office 365 business Essentials、Office 365 商业高级版、Office 365 企业版 (E1、E3、E5、F1) 和 Office 365 教育版计划中均可用。 
+<br/><sup>11</sup>在 Office 365 企业版 F1 中, Office 365 视频仅限于查看 (无发布或共享)。 
+<br/><sup>12</sup> Office 365 Enterprise F1, 支持一对一音频/视频呼叫。 只提供“加入”这种会议权限（不得创建或发起会议）。 
 <br/><sup>13</sup>在 Office 365 Enterprise F1 中, PowerApps 仅限于消耗量 (不发布或共享)。 
 <br/><sup>14</sup>在 Office 365 Enterprise F1 中, 流仅限于使用, 每个用户每个月限制运行数为750。 
-<br/><sup>15</sup>仅适用于 office 365 教育版计划, 包括 office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
+<br/><sup>15</sup>仅适用于 Office 365 教育版计划, 包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
 <br/><sup>16</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
 <br/><sup>17</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。g <br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量: 不发布或共享。
-<br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 sku 中。   
+<br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。   

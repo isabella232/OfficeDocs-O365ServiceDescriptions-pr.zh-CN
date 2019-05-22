@@ -4,23 +4,23 @@ ms.author: danarl
 author: danarl
 manager: mnirkhe
 ms.date: 1/28/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c01d790b6c484aa618bc98b8def3bfa0c098a16c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247168"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343231"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
-为了响应美国公共事业部门的独特和不断发展的需求, microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。 本节概述了环境以及如何购买的详细信息。 建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
+为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。 本节概述了环境以及如何购买的详细信息。 建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
   
 ## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府？
 <a name="TopOfPage"> </a>
@@ -41,7 +41,7 @@ Microsoft 365 政府是一组工作效率、安全性和移动性云软件功能
 |在办公室或旅途中随时了解员工和公民的联系并与他们联系  <br/> |创建更深入的与民事 servants 的接洽以帮助改进员工留存率  <br/> | 跨代理位置构建更强的社区感知  <br/> |
 |确保与美国政府兼容的解决方案可帮助降低成本和提高灵活性  <br/> | <br/> |
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-enterprise-offerings"></a>microsoft 365 企业版提供了什么使 microsoft 365 政府不同？
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-enterprise-offerings"></a>Microsoft 365 企业版提供了什么使 Microsoft 365 政府不同？
 <a name="BM1_About"> </a>
   
 
@@ -61,19 +61,19 @@ Microsoft 365 政府专为满足美国政府机构在四个关键领域的合规
 |Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |是  <br/> |
 |Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |是  <br/> |
 
-有关 microsoft 安全性和合规性资格鉴定的详细信息, 请访问[microsoft 信任中心](https://www.microsoft.com/en-us/trustcenter/default.aspx)  
+有关 Microsoft 安全性和合规性资格鉴定的详细信息, 请访问[Microsoft 信任中心](https://www.microsoft.com/en-us/trustcenter/default.aspx)  
     
 ## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>适用于美国政府资格和验证的 Microsoft 365
 <a name="BM2-customer"> </a>
 
 美国政府版的 Microsoft 365 可供符合条件的政府客户和非政府组织赞助, 以保留或处理控制的信息。 这两类客户的资格条件在 Microsoft 政府群中是一致的。
 
-gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使用, 而 DoD 环境专门用于美国国防部。 服务可用性和价格不同, 并且 GCC 仍为所有不包含 FedRAMP 高或 DoD 控制未分类信息 (CUI) 的客户提供了英雄活动。
+GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使用, 而 DoD 环境专门用于美国国防部。 服务可用性和价格不同, 并且 GCC 仍为所有不包含 FedRAMP 高或 DoD 控制未分类信息 (CUI) 的客户提供了英雄活动。
 
 符合条件的政府客户由以下项定义:
 
 -   一家联邦机构, 定义为美国政府的部门、办公室、机构、部门或其他实体
--   state/local 实体, 定义为以下项之一:
+-   State/local 实体, 定义为以下项之一:
     1. 州或地方政府在美国的任何机构
     
     2. 任何美国县、borough、英联邦、城市、municipality、城镇、township、特殊用途地区或其他类似类型的政府 instrumentality 由客户状态的法律建立, 位于客户的 state's 辖区内和地理边界
@@ -83,7 +83,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 拥有以下类型数据的非政府组织, 可以为 Microsoft 政府云验证流程提供列出的证明资格:
 
 包含受法规约束的数据的商业专用实体。 接受的政府数据类型包括: 
-- arm 中的国际流量 (ITAR)
+- Arm 中的国际流量 (ITAR)
 - 受控制的未分类信息 (CUI)
 - 美国国防部 (DoD) 未分类的受分类的核信息 (UCNI)
 - 能源部门 (DoE) UCNI
@@ -109,7 +109,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 | <br/> |**GCC** <br/> | <br/> |**GCC 高** <br/> |**DoD** <br/> |
-|**SKU** <br/> |.gov 政府版, GOVCON 商业版||GCC-高|DOD| 
+|**SKU** <br/> |.Gov 政府版, GOVCON 商业版||GCC-高|DOD| 
 |**频道**   <br/> |EA (LSP)、AOS-G、MPSA、Web Direct、CSP <br/> |  |EA (LSP)、AOS-G     <br/> |EA <br/> |
 
 ## <a name="how-to-buy-microsoft-365-government"></a>如何购买 Microsoft 365 政府版？
@@ -119,7 +119,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 1.   [完成并提交表单](https://products.office.com/en-us/government/eligibility-validation)以验证组织的资格。 
 2.  与 Microsoft 帐户团队或符合条件的合作伙伴合作, 以下订单。 客户只能通过 "选择合作伙伴" 购买 Microsoft 365 for 美国政府版许可证。
 
-**lsp GCC 和 gcc 高 (+ 500 座位)** 
+**Lsp GCC 和 GCC 高 (+ 500 座位)** 
 - CDW
 - 连接 (以前称为 PC 连接)
 - 戴尔
@@ -131,15 +131,15 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 - Softchoice
 - 区域国际
 
-**AOS-G 合作伙伴 gcc 和 gcc 高 (低于500个座位)**
+**AOS-G 合作伙伴 GCC 和 GCC 高 (低于500个座位)**
 
 - C3 集成解决方案
-- KTL 解决方案, inc.。
+- KTL 解决方案, Inc.。
 - LiftOff、LLC
 - 行星技术
 - 7个系统的峰会
 
-**注意:** 上述列表中的所有 Microsoft 许可解决方案提供商 (lsp) 都可以通过企业协议 (EA) 使用 gcc 和 gcc High (EA) 来创建客户价格表 (CPS)。 不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
+**注意:** 上述列表中的所有 Microsoft 许可解决方案提供商 (Lsp) 都可以通过企业协议 (EA) 使用 GCC 和 GCC High (EA) 来创建客户价格表 (CPS)。 不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
 
 **如果您使用 CSP 合作伙伴, 请与他们联系或[查找 CSP。](https://www.microsoft.com/en-us/solution-providers/home)**
 
@@ -149,7 +149,7 @@ gcc 和 gcc 的高产品版均可供任何符合 Microsoft 政府云的客户使
 
 - [EMS.](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security) 客户可以在 EMS 页面的右上方选择 "立即试用" 按钮, 在 Office commerce 门户上执行封闭注册过程, 该过程会将它们路由到 Azure Active Directory (AAD) 门户。
 -  [Office 365。](https://aka.ms/gcctrial)   免费的一个月试用版仅适用于美国政府组织, 这仅适用于 GCC, 并不包括政府承包商。  
-- Microsoft 不会将试用版 Office 365 gcc 提供给商业客户, 并且不会进行 GCC 高或 DoD 的试验
+- Microsoft 不会将试用版 Office 365 GCC 提供给商业客户, 并且不会进行 GCC 高或 DoD 的试验
 
 ## <a name="where-can-i-learn-more"></a>在哪儿可以了解更多信息？
 <a name="BM3-withinUSA"> </a>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-add-on-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint 是基于 Web 的工具和技术组合，帮助您的组织存储、分享和管理数字信息。 这一构建在 Microsoft SharePoint Server 2013 上的托管服务非常适合处理项目、在中心位置存储数据和文档并与其他人分享信息。 Office 365 客户还可以购买与 SharePoint Online 关联的额外加载项。
-ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 6eddaa64b0d5c3406bee6cfd2bc57d693330543d
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246638"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343561"
 ---
 # <a name="add-ons"></a>加载项
 
