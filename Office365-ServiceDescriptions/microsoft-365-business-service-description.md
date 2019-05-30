@@ -3,7 +3,7 @@ title: Microsoft 365 商业版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/29/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
-ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
+ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342971"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34493490"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -119,7 +119,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |||||
 |:-----|:-----|:-----|:-----|
 |**标识和访问管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全性 E5** <br/> |
-|Office 365 多重身份验证 (MFA)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure 多因素身份验证 (MFA)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |管理单元  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |云应用发现  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |动态组  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
@@ -133,6 +133,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |Connect Health  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级威胁分析  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|条件访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |**设备和应用程序管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全 E3** <br/> |
 |移动设备管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |移动设备管理 (MDM) 自动注册  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
@@ -169,14 +170,14 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 <br/><sup>4</sup> Azure 信息保护 (AIP) 启用受支持的信息权限管理 (IRM) 功能。 AIP Plan 1 包含在 Microsoft 365 业务中。 
 <br/><sup>5</sup> microsoft 团队在 Microsoft 365 商业版、Office 365 业务重点、Office 365 商业高级版和 Office 365 企业版 (E1、E3、E5、F1) 中可用。 它尚不可用于 Office 365 教育版计划。 
 <br/><sup>6</sup> Azure 信息保护 (AIP) 启用受支持的信息权限管理 (IRM) 功能。 AIP Plan 1 包含在 Microsoft 365 业务中。 
-<br/><sup>7</sup> Office 365 商业高级版支持用于启用目录同步的 Azure AD Connect 工具, 该工具是 Microsoft 365 商业版的一个组件。 但是, 当为 Microsoft 365 商业版启用 Windows 管理组件时, 需要使用 Azure AD 加入。 如果你具有本地 Active Directory 环境, 并且想要将加入域的设备加入 Azure AD, 则可以通过[配置混合 AZURE ad 已加入设备](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)来实现此目的。 
+<br/><sup>7</sup> Office 365 商业高级版支持用于启用目录同步的 Azure AD Connect 工具, 该工具是 Microsoft 365 商业版的一个组件。 但是, 当为 Microsoft 365 商业版启用 Windows 管理组件时, 需要使用 Azure AD 加入。 如果你具有本地 Active Directory 环境, 并且想要将加入域的设备加入 Azure AD, 则可以通过[配置混合 AZURE ad 已加入设备](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup)来实现此目的。 
 <br/><sup>8</sup>如果对本地 active directory 使用目录同步, 您必须使用本地 active directory 而不是 Office 365 门户或使用 Windows PowerShell 的 Azure Active directory 模块来删除帐户或更改密码。 
-<br/>仅<sup>9</sup>个云标识。 请参阅[让用户在 Office 365 中重置自己的密码](https://go.microsoft.com/fwlink/?linkid=852917)。 
+<br/>仅<sup>9</sup>个云标识。 请参阅[让用户在 Office 365 中重置自己的密码](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords)。 
 <br/><sup>10</sup>减少随术语折扣购买的座位可能受提前终止费用的制约。 这不适用于按月支付的订阅。 
-<br/><sup>11</sup> Microsoft 365 商业版包括 Exchange Online 存档订阅。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=863320)（Office 365 中的无限制存档概述）。 
-<br/><sup>12</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=863349)。 
+<br/><sup>11</sup> Microsoft 365 商业版包括 Exchange Online 存档订阅。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)（Office 365 中的无限制存档概述）。 
+<br/><sup>12</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 
 <br/><sup>13</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。
-<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=863490)。
+<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。
 <br/><sup>15</sup>简化了 Windows 10 设备管理, 内置在 Microsoft 365 管理中心。 "设备管理" 管理中心中内置的 iOS、Android、macOS 和其他跨平台设备管理的 Intune 管理功能, 也授权用于 Microsoft 365 商业版。 此外, 还可以在设备管理管理中心内管理与 WiFi 配置文件和 VPN 证书等内容的第三方应用程序和配置。 
 <br/><sup>16</sup>此计划来自 Microsoft Stream plan 2, 其中包括视频门户、语音到文本对话、深度搜索和面孔检测。
 <br/><sup>17</sup>个简化的 Windows 10 设备管理和 Intune 应用保护策略内置在 Microsoft 365 管理中心中。
