@@ -3,7 +3,7 @@ title: Microsoft 365 商业版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493490"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742101"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -26,8 +26,8 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 
 下表列出了 Office 365 商业高级版和 Microsoft 365 商业版计划的平台功能。
   
-若要查看跨 Office 365 计划的功能可用性, 请参阅[office 365 Platform 服务说明](office-365-platform-service-description/office-365-platform-service-description.md)。
-  
+若要查看跨 Office 365 计划的功能可用性, 请参阅[office 365 Platform 服务说明](office-365-platform-service-description/office-365-platform-service-description.md)。<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**计划选项** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |
@@ -149,7 +149,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
    
 |||
 |:-----|:-----|
-|**Windows 10 管理功能**-Microsoft 365 商业版可轻松管理设备。 设置 Microsoft 365 商业租户时, 请选择 "应用保护" 和 "设备配置" 设置。 这些设置决定了在设备加入 Azure Active Directory 时自动应用于设备的策略。 Windows 10 专业版管理功能包括:  <br/> |**Microsoft 365 商业版** <br/> |
+|**Windows 10 管理功能**-Microsoft 365 商业版可轻松管理设备。 设置 Microsoft 365 商业租户时, 请选择 "应用保护" 和 "设备配置" 设置。 这些设置决定了在设备加入 Azure Active Directory 时自动应用于设备的策略。 Windows 10 专业版管理功能包括: <br/>|**Microsoft 365 商业版** <br/> |
 |使用 Windows AutoPilot 进行简化部署  <br/> |是  <br/> |
 |订阅激活  <br/> |是  <br/> |
 |空闲时设备屏幕的组织控制  <br/> |是  <br/> |
@@ -162,9 +162,9 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |在 Microsoft Edge 中保护电脑免受基于 web 的威胁  <br/> |是  <br/> |
 |使用减少设备攻击面的规则 <br/> |是  <br/> |
 |保护文件夹免受勒索软件等威胁 <br/> |是  <br/> |
-|帮助保护电脑上的文件和文件夹不受 Bitlocker 的未经授权的访问 <br/> |是  <br/> |
-   
-> <sup>1</sup>包括 Exchange Online 计划1。
+|帮助保护电脑上的文件和文件夹不受 Bitlocker 的未经授权的访问 <br/> |是  <br/> |   
+
+<sup>1</sup>包括 Exchange Online 计划1。
 <br/><sup>2</sup>包括具有基本客户端限制的 Skype For Business Online 计划2。
 <br/><sup>3</sup> Project Online 不包括在内, 但可以作为单独的附加服务进行购买, 也可以免费添加到 Office 教育版计划中。 
 <br/><sup>4</sup> Azure 信息保护 (AIP) 启用受支持的信息权限管理 (IRM) 功能。 AIP Plan 1 包含在 Microsoft 365 业务中。 

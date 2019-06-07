@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-april-22-2019"></a>2019 年 4 月 22 日所在周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 4/24/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
-| 4/26/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
-| 4/26/2019 | [服务运行状况和连续性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 修改内容 |
-| 4/26/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
-| 4/26/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |
-
-
 ## <a name="week-of-april-29-2019"></a>2019年4月29日一周
 
 
@@ -176,3 +164,12 @@
 | 5/21/2019 | [Yammer 中的支持功能](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | 修改内容 |
 | 5/21/2019 | [Yammer 平台功能](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | 修改内容 |
 | 5/21/2019 | [Yammer 服务说明](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | 修改内容 |
+
+
+## <a name="week-of-may-27-2019"></a>5月27日一周, 2019
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 5/28/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改内容 |
+| 5/31/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |

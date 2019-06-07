@@ -9,35 +9,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
-ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
+ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2019
-ms.locfileid: "34669681"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742151"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 限制
+# <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
 查找适用于 Office 365 计划和 SharePoint Online 独立计划的 SharePoint 限制。
   
-## <a name="limits-by-plan"></a>按计划限制
+## <a name="limits-by-plan"></a>按计划限制 
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 业务重点或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint Online 计划1或2** <br/> | **Office 365 企业版 F1** <br/> |
-|存储<sup>1、2</sup> <br/> |每个组织 1 TB 加上购买的每个许可证 10 GB  <br/> |每个组织 1 TB 加上购买了 10 GB 的许可证<sup>3</sup> <br/> |每个组织 1 TB <sup>3</sup> <br/> |
-|网站集的存储  <br/> |每个网站集或组<sup>4</sup>最高 25 TB <br/> |每个网站集或组<sup>4</sup>最高 25 TB <br/> |每个网站集或组<sup>5</sup>最高 25 TB <br/> |
-|每个组织的网站集  <br/> |500000<sup>6</sup> <br/> |500000<sup>6</sup> <br/> |500,000<br/> |
+|每个组织的总存储量<sup>1、2</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|每个网站集4的最大存储量<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
+|每个组织的网站集  <br/> |1000000<sup>6</sup> <br/> |1000000<sup>6</sup> <br/> |100 万<br/> |
 |用户数  <br/> |最高为300  <br/> |1-500000<sup>7</sup> <br/> |1-500000<sup>7</sup> <br/> |
    
-> [!NOTE]
-> <sup>1</sup>您可以购买无限制的额外 SharePoint Online 存储空间。 请参阅[更改订阅的存储空间](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)。 
-<br/><sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 The storage space it uses is part of the organization's total file storage limit. 
+<sup>1</sup>您可以购买不受限制的额外 SharePoint 存储空间。 请参阅[更改订阅的存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
+<br/><sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 它使用的存储空间是组织总存储限制的一部分。 
 <br/> <sup>3</sup>当你具有 Office 365 订阅和 SharePoint Online 独立计划时, 将添加存储量。 
-<br/><sup>4</sup> SharePoint Online 管理员可以设置网站集和网站的存储限制。
-<br/> <sup>5</sup>展台工作线程无法管理 SharePoint Online 网站集。 您至少需要一个企业用户许可证来管理展台网站集。 
-<br/> <sup>6</sup>不包含为每个许可的用户创建的 OneDrive for business 网站集。 
-<br/><sup>7</sup>如果用户数超过 500000, 请与 Microsoft 代表联系。 
+<br/> <sup>4</sup>这是单个网站集的存储限制, 而不是为每个网站集提供的存储量。 此限制适用于所有类型的网站集, 包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以[手动设置较低的存储限制](/sharepoint/manage-site-collection-storage-limits)。 
+<br/> <sup>5</sup> Firstline 工作线程无法管理 SharePoint 网站集。 
+<br/> <sup>6</sup>不包含为每个许可的用户创建的 OneDrive。 
+<br/> <sup>7</sup>如果用户数超过 500000, 请与 Microsoft 代表联系。 
   
 
   
@@ -49,7 +48,10 @@ ms.locfileid: "34669681"
 
 - **跨网站集移动和复制**–每个操作 100 GB。 Web 浏览器必须保持打开状态。
 
-- **同步**-若要获得最佳性能, 建议在单个 OneDrive 或工作组网站库中存储不超过300000个文件。 尽管 SharePoint Online 可以将30000000文档存储在每个库中, 但为了获得最佳性能, 建议在所有文档库中同步不超过300000个文件。 此外, 如果要同步的所有库中有300000个或更多的项目, 也可能会出现相同的性能问题, 即使您不同步这些库中的所有项目。 如果使用以前的 OneDrive for Business 同步客户端 (Groove), 则每个库的同步限制为20000个项目 (包括每个团队网站的5000个项目)。
+- **同步**-为了获得最佳性能, 建议在所有同步的文档库中存储不超过300000个文件, 即使您按需使用文件或仅选择库中的某些文件夹进行同步也是如此。如果使用以前的 OneDrive for Business 同步客户端 (Groove), 则每个库的同步限制为20000个项目 (包括每个团队网站的5000个项目)。
+
+    > [!NOTE]
+    > 如果用户需要同步具有成百上千个文件的文档库中的文件, 则可以通过将文件夹的权限级别设置为 "限制读取" 来从同步客户端中 "隐藏" 文件夹。 
 
 - **版本**-50000 主要版本和511次要版本。
 
@@ -57,7 +59,7 @@ ms.locfileid: "34669681"
 
 - **托管元数据**-200000 术语在术语库中, 1000 全局术语集, 1000 组。
 
-- **子网站**-每个网站集最高为2000。
+- **子网站**-每个网站集2000。
 
 - **SharePoint 承载的应用程序**-每个组织的20000实例。
 
@@ -66,7 +68,7 @@ ms.locfileid: "34669681"
 - **用户**-每个网站集2000000。
 
 > [!NOTE]
-> [!注意] 可邀请加入 SharePoint Online 网站集的外部用户数量不受限制。有关详细信息，请参阅[管理您的 SharePoint Online 环境的外部共享](/sharepoint/external-sharing-overview)。
+> 您可以邀请到 SharePoint 网站集的来宾数没有限制。 有关外部共享的详细信息, 请参阅[external 共享概述](/sharepoint/external-sharing-overview)。
 
 ## <a name="see-also"></a>另请参阅
 

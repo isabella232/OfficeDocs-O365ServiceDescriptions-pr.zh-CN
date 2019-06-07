@@ -3,7 +3,7 @@ title: 由世纪互联运营的 Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 0ae5794a14a82293926df93ce3b9d5858b06aa88
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343651"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742141"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/> 
   
 Microsoft 本身并不运营此服务。世纪互联负责运营、提供和管理此服务的交付。世纪互联是中国最大的运营商中立 Internet 数据中心服务提供商，提供托管、托管网络服务及云计算基础结构服务。通过授权的 Microsoft 技术，世纪互联运营本地 Office 365 数据中心，让用户能够使用 Office 365 服务，同时将数据保留在中国。世纪互联还提供[订阅、计费服务和支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone)。
   
-> [!NOTE]
-> 这些服务受到中国法律的制约。 
+>[!NOTE]
+> 这些服务受到中国法律的制约。<br/> 
   
-鉴于中国服务的独特性（由来自中国境内的数据中心合作伙伴运营），还有一些功能尚未启用。随着时间的推移，客户将能使用功能越来越完整的服务。有关功能差异，请参阅服务说明脚注。有关功能差异的简要概述，请参阅[了解由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?redirectSourcePath=%252fen-US%252farticle%252fLearn-about-Office-365-operated-by-21Vianet-A8AB5061-3346-4DA0-BB7C-5260822B53AE&view=o365-21vianet)。
+鉴于中国服务的独特性（由来自中国境内的数据中心合作伙伴运营），还有一些功能尚未启用。随着时间的推移，客户将能使用功能越来越完整的服务。有关功能差异，请参阅服务说明脚注。有关功能差异的简要概述，请参阅[了解由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
   
 ## <a name="service-availability-within-each-plan"></a>每个计划中的服务可用性
 
 由世纪互联运营的每个 Office 365 计划都包括许多单个服务，例如 Exchange Online 和 SharePoint Online。下表显示了每个 Office 365 计划中可用的服务。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/>
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -54,14 +54,14 @@ Microsoft 本身并不运营此服务。世纪互联负责运营、提供和管�
 |Visio Online<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Yammer Enterprise  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Azure 信息保护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-> [!NOTE]
-> <sup>1</sup>包括 Office 365 管理、Office 365 套件应用程序、用户帐户管理、域、服务运行状况和连续性、报告、服务更新、帮助和培训、网络等功能。 有关详细信息，请参阅[平台功能](office-365-operated-by-21vianet.md#platform-features)表。
-<br/> <sup>2</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 A1 计划中。 
+   
+<sup>1</sup>包括 Office 365 管理、Office 365 套件应用程序、用户帐户管理、域、服务运行状况和连续性、报告、服务更新、帮助和培训、网络等功能。 有关详细信息，请参阅[平台功能](office-365-operated-by-21vianet.md#platform-features)表。
+<br/><sup>2</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 A1 计划中。 
 <br/><sup>3</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
   
 ## <a name="system-requirements"></a>系统要求
 
-有关 Office 365 的系统要求，请参阅 [office.com](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 产品网站上的 [Office 的系统要求](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。 
+有关 Office 365 的系统要求，请参阅 [office.com](https://products.office.com/office-system-requirements/#Office365forBEG) 产品网站上的 [Office 的系统要求](https://www.office.com)。 
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 <a name="BKMK_Security"> </a>
@@ -73,13 +73,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 下表列出了由世纪互联运营的 Office 365 平台的所有功能。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
-  
+>[!NOTE]
+> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/>
+
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
-|**[Office 365 管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
+|**[Office 365 管理功能](https://docs.microsoft.com/previous-versions//jj819272(v=technet.10))** <br/> ||||||||
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |通过机器翻译手动转换邮件中心帖子  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -194,30 +194,31 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[服务级别协议](service-level-agreement.md)**<sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[产品使用权限](product-use-rights.md)**<sup>10</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-> [!NOTE]   
-> 由世纪互联运营的<sup>1</sup>个 office 365 和 office 365 不提供对其制造商不支持的任何操作系统的支持。 
-<br/><sup>2</sup>在 由世纪互联运营的 Office 365 企业版 K1 中，只能观看 Office 365 视频（不得发布或共享）。 
-<br/><sup>3</sup>如果要将目录同步用于本地 active directory, 则必须使用本地 active directory (而不是 Office 365 门户或使用 Windows Azure Active directory 模块) 删除帐户或更改密码。PowerShell. 
-<br/><sup>4</sup>在由世纪互联运营的 Office 365 中尚不可用，但即将可用。 
-<br/><sup>5</sup>Office 365 只能有一个公共网站，除非已升级旧版 Office 365。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 若要详细了解如何处理商业版订阅的两个网站，请参阅[处理你的两个 Office 365 公共网站](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5)。 如果有其他订阅，请参阅 [Office 365 公共网站帮助](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5)，详细了解公共网站。 
-<br/><sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 <br/>
+
+由世纪互联运营的<sup>1</sup>个 office 365 和 office 365 不提供对其制造商不支持的任何操作系统的支持。<br/>
+<sup>2</sup>在 由世纪互联运营的 Office 365 企业版 K1 中，只能观看 Office 365 视频（不得发布或共享）。 <br/>
+<sup>3</sup>如果要将目录同步用于本地 active directory, 则必须使用本地 active directory (而不是 Office 365 门户或使用 Windows Azure Active directory 模块) 删除帐户或更改密码。PowerShell. <br/>
+<sup>4</sup>在由世纪互联运营的 Office 365 中尚不可用，但即将可用。 <br/>
+<sup>5</sup>Office 365 只能有一个公共网站，除非已升级旧版 Office 365。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 若要详细了解如何处理商业版订阅的两个网站，请参阅[处理你的两个 Office 365 公共网站](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5)。 如果有其他订阅，请参阅 [Office 365 公共网站帮助](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5)，详细了解公共网站。<br/>
+<sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。<br/>
 <sup>7</sup> Office 365 教育版计划不支持来自 Microsoft 365 管理中心的许可证座位更改。<br/>
-<sup>8</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 
-<br/><sup>9</sup>有关由世纪互联运营的 Office 365 的信息，请参阅[此处](http://www.21vbluecloud.com/office365/O365-SLA/)的服务级别协议。<br/>
+<sup>8</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 <br/>
+<sup>9</sup>有关由世纪互联运营的 Office 365 的信息，请参阅[此处](http://www.21vbluecloud.com/office365/O365-SLA/)的服务级别协议。<br/>
 <sup>10</sup>有关由世纪互联运营的 Office 365 的信息，请参阅世纪互联运营的 [Office 365 在线服务标准协议](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)。 
-<br/><sup>11</sup>中国互联网合规性策略要求获取某个公共网站的 Internet 内容提供商 (ICP) 编号。 有关详细信息，请参阅相应的 ICP 主题。 
-<br/><sup>12</sup>某些 TechNet 内容可能不适用于由世纪互联运营的 Office 365。 
-<br/><sup>13</sup>降低体验质量。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
-<br/><sup>14</sup>在 Outlook MOBILE (IOS 和 Android) 中目前不支持多重身份验证。 
-<br/><sup>15</sup>通过世纪提供 Onenote 课堂笔记本, 但 Onenote 课堂笔记本工具栏不适用于 Windows 10 应用、IPad 或 OneNote Online。
+<br/>
+<sup>11</sup>中国互联网合规性策略要求获取某个公共网站的 Internet 内容提供商 (ICP) 编号。 有关详细信息，请参阅相应的 ICP 主题。 <br/>
+<sup>12</sup>某些 TechNet 内容可能不适用于由世纪互联运营的 Office 365。<br/>
+<sup>13</sup>降低体验质量。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 <br/>
+<sup>14</sup>在 Outlook MOBILE (IOS 和 Android) 中目前不支持多重身份验证。 <br/>
+<sup>15</sup>通过世纪提供 Onenote 课堂笔记本, 但 Onenote 课堂笔记本工具栏不适用于 Windows 10 应用、IPad 或 OneNote Online。
   
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能 
 <a name="BM3_OfficeApp"> </a>
 
 下表显示由世纪互联计划运营的 Office 365 中所提供的 Office 365 应用程序功能。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/>
   
 ||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -271,11 +272,12 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |共享计算机激活  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |支持阻止基于云的文件存储  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |版本升级  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|批量激活 (KMS/MAK)  <br/> |是  <br/> |是  <br/> |无<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-> [!NOTE]  
-> <sup>1</sup>此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。<br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。 
-<br/><sup>3</sup>如果有 Office Professional Plus 2013 或独立版 Excel 2013，可以不受支持的外接程序的形式下载并使用 [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)。 
- <br/><sup>4</sup>适用于所有客户的 "Skype For business 基本版"。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 
+|批量激活 (KMS/MAK)  <br/> |是  <br/> |是  <br/> |无<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/>
+
+<sup>1</sup>此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。 
+<br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。 
+<br/><sup>3</sup>如果有 Office Professional Plus 2013 或独立版 Excel 2013，可以不受支持的外接程序的形式下载并使用 [Power Map Preview for Excel 2013](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409)。 
+<br/><sup>4</sup>适用于所有客户的 "Skype For business 基本版"。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 
 <br/><sup>5</sup>一些学校有资格享受教育增强版（其中包括 Office 365 ProPlus），并允许学生和教职员工在最多五台 PC 或 Mac 计算机上和其他移动设备（其中包括 Windows 平板电脑和 iPad）上安装最新版 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 
 <br/><sup>6</sup>可以安装但不可激活 Office 2011 for Mac。 
 <br/><sup>7</sup> Office 365 专业增强版在用户专用的虚拟桌面基础结构 (VDI) 上受支持。 只有当通过批量许可计划购买时，Office 365 ProPlus 才支持远程桌面服务 (RDS)。 
@@ -287,16 +289,14 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
   
 ## <a name="office-online-features"></a>Office Online 功能
 <a name="BM4_OfficeOnline"> </a>
-
 > [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/>
   
 下表中的链接比较了 Office Online 的功能和 Microsoft Office 桌面应用程序的丰富功能。通过比较，可以了解 Office Online 的功能。然后，可以单击功能名称，阅读有关相应功能工作原理的简短说明。
-  
 > [!NOTE]
->  - 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。此比较表并未列出全部 Microsoft Office 功能。 
->  - Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 
->  - Microsoft Office Web Apps Server 2013 本地客户获取 Office Online 编辑许可证 (如果他们购买了 Office 桌面套件许可证 (如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证)。 
+>- 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。此比较表并未列出全部 Microsoft Office 功能。 
+>- Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 
+>- Microsoft Office Web Apps Server 2013 本地客户获取 Office Online 编辑许可证 (如果他们购买了 Office 桌面套件许可证 (如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证)。<br/>
 
 ||||
 |:-----|:-----|:-----|
@@ -311,8 +311,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 下表列出了由世纪互联计划运营的 Office 365 中所提供的 Exchange Online 服务。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计 
+>[!NOTE]
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计 <br/>
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -415,23 +415,23 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |远程 Windows PowerShell 访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |移动设备的 ActiveSync 策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用情况报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |Outlook 外接程序和 Outlook MAPI  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |否  <br/> |
-> [!NOTE]   
-> <sup>1</sup>某些第三方 web 部件和外接程序可能不可用。 <br/>
-<sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。<br/>
-<sup>3</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 以及基于条件要采取的操作。 Exchange Online 和 Microsoft Exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。<br/>
-<sup>4</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。<br/>
-<sup>5</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。<br/>
-<sup>6</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 <br/>
-<sup>7</sup>对于电子数据展示, 您需要对本地和云的单独查询。<br/>
-<sup>8</sup>支持 POP, 但不支持 IMAP。<br/>
-<sup>9</sup> Office 365 business Essentials 和 business Premium 不提供使用本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。<br/>
-<sup>10</sup> "混合配置" 向导可用于 EXCHANGE 2013 CU5 和更大的本地部署。 但是，一些混合功能具有限制，有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。<br/>
-<sup>11</sup>由世纪互联运营的 Office 365, LinkedIn 可用, 但不支持 Facebook。 <br/>
-<sup>12</sup>可以通过 EXCHANGE 2013 CU5 的混合配置向导使用混合部署设置, 如果你有 EXCHANGE 2013 SP1, 则可以手动进行设置。 有关更多详细信息，请参阅帮助主题“了解由世纪互联运营的 Office 365”。<br/>
-<sup>13</sup>已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。<br/>
-<sup>14</sup>不支持使用 cmdlet 来使用地址列表和全局地址列表。 
+   
+<sup>1</sup>某些第三方 web 部件和外接程序可能不可用。 
+<br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。 
+<br/><sup>3</sup>传输规则由灵活的条件组成, 使您可以定义条件和例外, 以及基于条件要采取的操作。 Exchange Online 和 Microsoft Exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 
+<br/><sup>4</sup>只能通过直接访问 Exchange 管理中心 (EAC) 管理界面来访问。 
+<br/><sup>5</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 
+<br/><sup>6</sup>可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 
+<br/><sup>7</sup>对于电子数据展示, 您需要对本地和云的单独查询。 
+<br/><sup>8</sup>支持 POP, 但不支持 IMAP。 
+<br/><sup>9</sup> Office 365 business Essentials 和 business Premium 不提供使用本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 
+<br/><sup>10</sup> "混合配置" 向导可用于 EXCHANGE 2013 CU5 和更大的本地部署。 但是, 一些混合功能有限制-请参阅帮助主题。 有关详细信息, 请参阅[由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet)。 
+<br/><sup>11</sup>由世纪互联运营的 Office 365, LinkedIn 可用, 但不支持 Facebook。 
+<br/><sup>12</sup>可以通过 EXCHANGE 2013 CU5 的混合配置向导使用混合部署设置, 如果你有 EXCHANGE 2013 SP1, 则可以手动进行设置。 有关详细信息, 请参阅帮助主题。请参阅[由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet)。 
+<br/><sup>13</sup>已连接帐户受 POP &amp; IMAP 帐户支持, 但对 Outlook.com (Hotmail) 禁用。 
+<br/><sup>14</sup>不支持使用 cmdlet 来使用地址列表和全局地址列表。 
   
 ### <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -472,7 +472,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 下表列出了由世纪互联计划运营的 Office 365 中所提供的 Exchange Online Protection (EOP) 功能。有关 EOP 功能的更多详细信息，请单击下表中的链接。
   
 > [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 <br/>
   
 ||||
 |:-----|:-----|:-----|
@@ -505,32 +505,32 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[邮件跟踪](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
 |[访问 Microsoft 365 管理中心](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |是  <br/> |是  <br/> |
 |[对 Exchange 管理中心的访问权限](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |是  <br/> |是  <br/> |
-|[远程 Windows PowerShell 访问](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |
-> [!NOTE]   
-> <sup>1</sup> 邮件用户被定义为"邮箱"，并且可以在 Exchange 管理中心 (EAC) 中与外部邮件联系人一起进行添加、删除或直接管理。<br/> <sup>2</sup> 没有 RBAC 自定义项。 只有管理员角色。 
-<br/> <sup>3</sup> 可以在 EAC 中查看托管域和编辑域类型。 所有其他域管理都必须在 Microsoft 365 管理中心完成。 
-<br/> <sup>4</sup> EOP 和 Exchange Online 的可用灵活条件和操作不同。 若要获取 EOP 中可用条件和操作的列表，请参阅 [传输规则条件](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)和[传输规则操作](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 若要获取 Exchange Online 中可用条件和操作的列表，请参阅[传输规则条件](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和[传输规则操作](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 <br/>
-<sup>5</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。 
-<br/> <sup>6</sup>默认内容筛选器操作旨在将垃圾邮件移到收件人的"垃圾邮件"文件夹中。 若要将此筛选器与本地邮箱结合使用，还必须在本地服务器上配置两个 Exchange 传输规则，用于检测 EOP 添加的垃圾邮件头。 有关详细信息，请参阅 [确保垃圾邮件已路由到每个用户的"垃圾邮件"文件夹](https://docs.microsoft.com/office365/SecurityCompliance/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 
-<br/> <sup>7</sup>此功能适用于将通过 EOP 筛选其邮箱的 Exchange Server 2013 Service Pack 1 (SP1) 客户，并且很快将提供给 Exchange Online 客户。 
-<br/> <sup>8</sup> EOP 报告是不包括邮箱信息的 Exchange Online 报告的子集。 
-<br/> <sup>9</sup>包括 DLP 报告。 
-<br/> <sup>10</sup>扫描入站和出站邮件，但不扫描从组织中的发件人发送给组织中的收件人的内部邮件。 
-<br/> <sup>11</sup>EOP 和 Exchange Online 的可用谓词和操作不同。 <br/> 
+|[远程 Windows PowerShell 访问](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |是<sup>2</sup> <br/> |是  <br/> |   
+
+<sup>1</sup> 邮件用户被定义为"邮箱"，并且可以在 Exchange 管理中心 (EAC) 中与外部邮件联系人一起进行添加、删除或直接管理。 <br/> 
+<sup>2</sup> 没有 RBAC 自定义项。 只有管理员角色。 <br/>
+<sup>3</sup> 可以在 EAC 中查看托管域和编辑域类型。 所有其他域管理都必须在 Microsoft 365 管理中心完成。 <br/> 
+<sup>4</sup> EOP 和 Exchange Online 的可用灵活条件和操作不同。 若要获取 EOP 中可用条件和操作的列表，请参阅 [传输规则条件](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc)和[传输规则操作](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/actions?view=exchserver-2019)。 若要获取 Exchange Online 中可用条件和操作的列表，请参阅[传输规则条件](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和[传输规则操作](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 <br/> 
+<sup>5</sup> EOP 审核报告是不包括邮箱信息的 Exchange Online 审核报告的子集。<br/> 
+<sup>6</sup>默认内容筛选器操作旨在将垃圾邮件移到收件人的"垃圾邮件"文件夹中。 若要将此筛选器与本地邮箱结合使用，还必须在本地服务器上配置两个 Exchange 传输规则，用于检测 EOP 添加的垃圾邮件头。 有关详细信息，请参阅[确保垃圾邮件已路由到每个用户的"垃圾邮件"文件夹](https://docs.microsoft.com/office365/SecurityCompliance/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。<br/> 
+<sup>7</sup>此功能适用于将通过 EOP 筛选其邮箱的 Exchange Server 2013 Service Pack 1 (SP1) 客户，并且很快将提供给 Exchange Online 客户。 <br/> 
+<sup>8</sup> EOP 报告是不包括邮箱信息的 Exchange Online 报告的子集。 <br/>
+<sup>9</sup>包括 DLP 报告。 <br/> 
+<sup>10</sup>扫描入站和出站邮件，但不扫描从组织中的发件人发送给组织中的收件人的内部邮件。 <br/>
+<sup>11</sup>EOP 和 Exchange Online 的可用谓词和操作不同。 <br/> 
 <sup>12</sup>混合安装程序不能通过混合向导使用，但是，如果你拥有 Exchange SP1，则可以手动进行设置。 
   
 ## <a name="exchange-online-archiving-features"></a>Exchange Online Archiving 功能
 <a name="BM7_EOArchiving"> </a>
 
-可通过以下计划使用 Exchange Online Archiving。
-  
+可通过以下计划使用 Exchange Online Archiving。  
 > [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/> 
   
 |**计划**|**说明**|
 |:-----|:-----|
-|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server** <br/> |基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx)。  <br/> |
-|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online** <br/> | 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。 <br/> |
+|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server** <br/> |基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  <br/> |
+|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online** <br/> | 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。  <br/> |
    
 下表显示由世纪互联运营的 Office 365 中可用的 Exchange Online Archiving 功能。
   
@@ -556,28 +556,28 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |加密：S/MIME 和 PGP  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护的 IRM  <br/> |否  <br/> |否  <br/> |
 |使用 Windows Server AD RMS 的 IRM  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|审核  <br/> |是  <br/> |是  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> 用户邮箱必须位于 Exchange 2010 SP2 或更高版本上。<br/> 
+|审核  <br/> |是  <br/> |是  <br/> |   
+
+<sup>1</sup> 用户邮箱必须位于 Exchange 2010 SP2 或更高版本上。 <br/>
 <sup>2</sup> 就地存档仅可用于为单个用户存档邮件或为应用了许可证的实体存档邮件。 禁止使用就地存档作为存储多个用户或实体的邮件的方法。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/> 
-<sup>3</sup>有关受支持的 Microsoft Outlook 版本的列表，请参阅 [Exchange Online Archiving 中的客户端功能](../exchange-online-archiving-service-description/client-features.md)。<br/> 
-<sup>4</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。<br/> 
+<sup>3</sup>有关受支持的 Microsoft Outlook 版本的列表，请参阅 [Exchange Online Archiving 中的客户端功能](../exchange-online-archiving-service-description/client-features.md)。 <br/> 
+<sup>4</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。 <br/> 
 <sup>5</sup>将邮箱置于就地保留或诉讼保留时，主邮箱和存档邮箱都会被置于相应的保留。 
+  
 ## <a name="sharepoint-online-features"></a>SharePoint Online 功能
 <a name="BM8_SPOnline"> </a>
 
 所有 Office 365 计划都包括 SharePoint Online 服务，但并非所有计划均支持所有 SharePoint 功能。下表显示了功能在计划中是否可用。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 <br/>
   
 ****
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**开发人员功能** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
-[应用程序目录 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[应用程序目录 (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[应用程序部署：云托管的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[应用程序部署：SharePoint 托管的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[应用程序管理服务](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -717,12 +717,12 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SharePoint 中适用于 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SharePoint 中适用于 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[快速浏览](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|[快速浏览](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Scorecards & Dashboards <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SQL Server Reporting Services (SSRS) 集成的模式](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[时间线切片器](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[使用含有数据模型的 Excel 工作簿并与之进行交互](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx)<sup>14、15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Visio Online](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14、15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>14</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**搜索功能** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |Advanced Content Processing <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -762,7 +762,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |混合应用启动器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>15</sup> <br/> |
 |混合 OneDrive for Business 和网站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>15</sup> <br/> |
 |[大型列表可扩展性和管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[移动连接性](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |否  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
+|[移动连接性](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
 |[多语言用户界面](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |My Tasks <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[OOTB Web 部件](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -811,33 +811,33 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[其他存储](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Azure 设置的应用程序：访问服务](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Azure 设置的应用程序：Azure 轻型 Web 角色中的自定义代码 (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-> [!NOTE]   
-><sup>1</sup> To use folder sync, you must have Office 2013 or later (Standard or Professional edition) or an Office 365 subscription that includes Office applications. Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans. <br/> 
-<sup>2</sup> Kiosk accounts have limited OneDrive for Business functionality. Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB of online storage. <br/> 
-<sup>3</sup> Access 2010 is not supported.<br/> 
-<sup>4</sup> Because Kiosk users can't be administrators, tenants with Kiosk users need at least one Enterprise user to access the admin center.<br/> 
-<sup>5</sup> SharePoint Online 客户需要下载并安装免费的排名模型调整应用, 才能创建和自定义排名模型。 <br/> 
-<sup>6</sup> When you use eDiscovery features, the licensing requirement for a plan that permits that feature applies to all end users that are part of the eDiscovery action (Search, Hold, Export).<br/> 
-<sup>7</sup> Authenticated SharePoint Online users can access private site collections with faceted navigation.<br/>
-<sup>8</sup> Kiosk users cannot create Office documents using live tiles. To create a document, kiosk users must do so from a SharePoint Online site by clicking **New** and then selecting a file type - Word document, Excel workbook, PowerPoint presentation, OneNote notebook, or Excel survey - from the **Create a new file** menu. <br/> 
-<sup>9</sup> Some providers may be blocked in your country/region. <br/>
-<sup>10</sup>通过电子邮件与组织外部的某个人共享文档、库或网站。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message. <br/> 
-<sup>11</sup>展台帐户具有有限的 OneDrive for business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB or 5 TB of online storage.<br/> 
-<sup>12</sup>您可以在任何移动浏览器中查看文档。 You need to install the Office Mobile app to edit documents. Office Mobile is currently available for Windows phones and tablets, Android phones and tablets, iPhone, and iPad. <br/>
-<sup>13</sup>帮助仅适用于简体中文和英语。 <br/> 
-<sup>14</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). <br/> 
-<sup>15</sup> K1 用户可以在混合设置中访问 SharePoint Server, 但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 
+   
+<sup>1</sup> To use folder sync, you must have Office 2013 or later (Standard or Professional edition) or an Office 365 subscription that includes Office applications. Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans. 
+<br/><sup>2</sup> Kiosk accounts have limited OneDrive for Business functionality. Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB of online storage. 
+<br/><sup>3</sup> Access 2010 is not supported.
+<br/><sup>4</sup> Because Kiosk users can't be administrators, tenants with Kiosk users need at least one Enterprise user to access the admin center.
+<br/><sup>5</sup> SharePoint Online 客户需要下载并安装免费的排名模型调整应用, 才能创建和自定义排名模型。 
+<br/><sup>6</sup> When you use eDiscovery features, the licensing requirement for a plan that permits that feature applies to all end users that are part of the eDiscovery action (Search, Hold, Export). 
+<br/><sup>7</sup> Authenticated SharePoint Online users can access private site collections with faceted navigation. 
+<br/><sup>8</sup> Kiosk users cannot create Office documents using live tiles. To create a document, kiosk users must do so from a SharePoint Online site by clicking **New** and then selecting a file type - Word document, Excel workbook, PowerPoint presentation, OneNote notebook, or Excel survey - from the **Create a new file** menu. 
+<br/><sup>9</sup> Some providers may be blocked in your country/region. 
+<br/><sup>10</sup>通过电子邮件与组织外部的某个人共享文档、库或网站。 Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message. 
+<br/><sup>11</sup>展台帐户具有有限的 OneDrive for business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB or 5 TB of online storage.
+<br/><sup>12</sup>您可以在任何移动浏览器中查看文档。 You need to install the Office Mobile app to edit documents. Office Mobile is currently available for Windows phones and tablets, Android phones and tablets, iPhone, and iPad. 
+<br/><sup>13</sup>帮助仅适用于简体中文和英语。 
+<br/><sup>14</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>15</sup> K1 用户可以在混合设置中访问 SharePoint Server, 但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 <a name="BM9_Skype"> </a>
 
 下表列出了由世纪互联计划运营的 Office 365 中所提供的 Skype for Business Online 功能。
   
-> [!NOTE]
-> 此表指明了各个 Office 365 产品可用的客户端和服务。 如果要比较各个 Skype for Business 桌面客户端、web 客户端和移动客户端之间的各个功能, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)和[移动客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)。 
+>[!NOTE]
+此表指明了各个 Office 365 产品可用的客户端和服务。 如果要比较各个 Skype for Business 桌面客户端、web 客户端和移动客户端之间的各个功能, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)和[移动客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)。<br/> 
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 <br/>
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -938,7 +938,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Voicemail  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Skype for Business 语音  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -965,22 +965,22 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Skype for Business 管理中心  <br/> |是  <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-> [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
-<sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.<br/> 
-<sup>3</sup> Only accessible through the Skype for Business admin center management interface.<br/> 
-<sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus. <br/> 
-<sup>5</sup> In Office 365 operated by 21Vianet, tenants with a standalone Skype for Business plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
+   
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 
+<br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
+<br/><sup>3</sup> Only accessible through the Skype for Business admin center management interface. 
+<br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus. 
+<br/><sup>5</sup> In Office 365 operated by 21Vianet, tenants with a standalone Skype for Business plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
   
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>跨 Office 365 独立计划的 Skype for Business Online 功能
 
 下表列出了包括 SharePoint Online 服务的 Office 365 计划，但并非所有计划均支持所有 SharePoint 功能。下表显示了功能在计划中是否可用。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 <br/>
   
-> [!NOTE]
-> Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365?redirectSourcePath=%252fen-US%252farticle%252fDeploy-the-Skype-for-Business-client-in-Office-365-8c563b81-22c9-4024-9efe-9fe28c7bbc96)。 
+>[!NOTE]
+Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。<br/>
   
 ||||
 |:-----|:-----|:-----|
@@ -1070,20 +1070,19 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
-> [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
-<br/> <sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user. 
-<br/> <sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
-<br/> <sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
-<br/> <sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan. 
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user. 
+<br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan. 
+<br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
+<br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan. 
   
 ## <a name="project-online-features"></a>Project Online 功能
 <a name="BM10_ProjectOnline"> </a>
 
 下表列出了由世纪互联计划运营的 Office 365 中所提供的 Project Online 功能。
   
-> [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 
+>[!NOTE]
+由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 <br/>
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -1179,7 +1178,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[请求资源协议](../project-online-service-description/resource-management.md#request-resource-agreements) <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[查看可用资源并构建团队](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams) <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
-> <sup>1</sup> Active Directory 集成包括 Project Online 协作版用户。 但是，需要订阅 Project Online 才能管理 Active Directory 集成。
+<sup>1</sup> Active Directory 集成包括 Project Online 协作版用户。 但是，需要订阅 Project Online 才能管理 Active Directory 集成。
 <br/> <sup>2</sup>仅支持对团队成员方案的扩展性。 
   
 ## <a name="follow-on-wechat"></a>在 WeChat 上关注此服务
