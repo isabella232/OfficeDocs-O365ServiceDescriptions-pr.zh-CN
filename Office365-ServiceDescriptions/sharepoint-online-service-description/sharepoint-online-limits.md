@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742151"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780661"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -30,15 +30,13 @@ ms.locfileid: "34742151"
 |每个组织的网站集  <br/> |1000000<sup>6</sup> <br/> |1000000<sup>6</sup> <br/> |100 万<br/> |
 |用户数  <br/> |最高为300  <br/> |1-500000<sup>7</sup> <br/> |1-500000<sup>7</sup> <br/> |
    
-<sup>1</sup>您可以购买不受限制的额外 SharePoint 存储空间。 请参阅[更改订阅的存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
+<sup>1</sup>您可以购买不受限制的额外 SharePoint 存储空间。 请参阅[更改订阅的存储空间](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
 <br/><sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 它使用的存储空间是组织总存储限制的一部分。 
-<br/> <sup>3</sup>当你具有 Office 365 订阅和 SharePoint Online 独立计划时, 将添加存储量。 
-<br/> <sup>4</sup>这是单个网站集的存储限制, 而不是为每个网站集提供的存储量。 此限制适用于所有类型的网站集, 包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以[手动设置较低的存储限制](/sharepoint/manage-site-collection-storage-limits)。 
+<br/> <sup>3</sup>如果你有 office 365 订阅和 Office 365 额外文件存储加载项, 则会添加存储量。 
+<br/> <sup>4</sup>这是单个网站集的存储限制, 而不是为每个网站集提供的存储量。 此限制适用于所有类型的网站集, 包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以[手动设置较低的存储限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。 
 <br/> <sup>5</sup> Firstline 工作线程无法管理 SharePoint 网站集。 
 <br/> <sup>6</sup>不包含为每个许可的用户创建的 OneDrive。 
 <br/> <sup>7</sup>如果用户数超过 500000, 请与 Microsoft 代表联系。 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>所有计划的服务限制
 
@@ -68,8 +66,8 @@ ms.locfileid: "34742151"
 - **用户**-每个网站集2000000。
 
 > [!NOTE]
-> 您可以邀请到 SharePoint 网站集的来宾数没有限制。 有关外部共享的详细信息, 请参阅[external 共享概述](/sharepoint/external-sharing-overview)。
+> 您可以邀请到 SharePoint 网站集的来宾数没有限制。 有关外部共享的详细信息, 请参阅[external 共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
 
 ## <a name="see-also"></a>另请参阅
 
-[SharePoint Online 的搜索限制](/sharepoint/search-limits)
+[SharePoint Online 的搜索限制](https://docs.microsoft.com/sharepoint/search-limits)
