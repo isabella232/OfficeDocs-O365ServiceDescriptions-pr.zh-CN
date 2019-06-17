@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外, SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。 有关快速概述, 请参阅什么是 SharePoint？
-ms.openlocfilehash: 11c2f264ec8cdbc3b67fd109558e259c595d18e2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780701"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931124"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -62,6 +62,9 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 <a name="bkmk_tableo365"> </a>
 
 使用下表确定 Office 365 计划中 SharePoint 功能是否可用。 
+
+> [!TIP]
+> 此表中的某些列可能被隐藏。 使用表格底部的滚动条向右滚动, 查看其他列。
   
 ****
 

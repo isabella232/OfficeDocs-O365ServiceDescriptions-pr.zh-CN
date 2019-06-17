@@ -3,7 +3,6 @@ title: Office Applications 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一种订阅服务, 提供了您已熟悉的最新版本的 Office 桌面应用程序, 例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343091"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931134"
 ---
 # <a name="office-applications-service-description"></a>Office Applications 服务说明
 
@@ -90,7 +89,7 @@ Office 应用程序有 32 位和 64 位版本。
 |批量激活 (KMS/MAK)  <br/> |是  <br/> |是  <br/> |是  <br/>|无<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
-><sup>+</sup>在安装 Office 365 或 Office 2019 时, 默认情况下将获取适用于 Windows 10 的 OneNote。 有关详细信息, 请参阅[有关 Office 2019 中 OeNOte 的常见问题](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
+><sup>+</sup>在安装 Office 365 或 Office 2019 时, 默认情况下将获取适用于 Windows 10 的 OneNote。 有关详细信息, 请参阅[Office 2019 中有关 OneNote 的常见问题](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
 ><sup>++</sup>对 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上的笔记本的 OneNote 应用程序访问。 <br/>
 ><sup>+++</sup>BHO 支持是 Internet Explorer 的扩展技术。 <br/>
 ><sup>1</sup>此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。<br/>
