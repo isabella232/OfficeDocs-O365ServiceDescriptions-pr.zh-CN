@@ -3,7 +3,6 @@ title: Office Online 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343776"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018304"
 ---
 # <a name="office-online-service-description"></a>Office Online 服务说明
 
 Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office Online 使用户可以在任何地方通过 Internet 连接，在几乎所有设备上更加轻松地操作和共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。 
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="feature-availability-across-office-online-plans"></a>跨 Office Online 计划的功能可用性
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 需要帮忙确定最适合你组织的 Office 解决方案吗？下面的表格比较了 Office Online 的功能和 Microsoft Office 桌面应用程序的丰富功能。使用这些表格，可以了解 Office Online 的功能，然后单击功能名称阅读有关相应功能工作原理的简短说明。你可能会发现，组织中的一些人员需要使用 Excel 桌面应用程序的高级图表功能，而另一些人员只需要使用 Office Online 查看和简单编辑 Word 文档和 PowerPoint 演示文稿。 
   
 > [!NOTE]
->  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。 >  Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 >  如果 Microsoft Office Online Server 本地客户已购买 Office 桌面套件许可证（如 Office Professional Plus、Office Standard 或 Office 365 ProPlus 许可证），可以获得 Office Online 编辑许可证。 
+>  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。<br/>  Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。<br/>  Microsoft Office Online Server 本地客户获取 Office Online 编辑许可证 (如果他们购买了 Office 桌面套件许可证 (如 Office 专业增强版、Office Standard 版或 Office 365 专业增强版许可证)。 
   
 > [!NOTE]
 > Office 文档无论是作为 Outlook 电子邮件附件打开还是从 SharePoint 文档库打开，该文档将始终在 Office Online 中启动，并且为只读类型。若要在 Office Online（编辑模式）中编辑文档，您需要具有 Office 365 套件许可证，例如 Office 365 Enterprise E1。要在桌面应用程序中编辑文档，您需要具有 Office 桌面套件许可证，例如 Office 365 ProPlus 订阅或 Office Professional Plus 2010 的已安装版本。 
@@ -45,7 +44,7 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |**应用程序功能** <br/> |**Word Online** <br/> |**Word 桌面应用** <br/> |
 |[对齐参考线和实时布局](word-online.md#alignment-guides-and-live-layout) <br/> |否  <br/> |可访问  <br/> |
 |[应用样式](word-online.md#apply-styles) <br/> |是  <br/> |是  <br/> |
-|[自动保存](word-online.md#autosave) <br/> |否  <br/> |可访问  <br/> |
+|[自动保存](word-online.md#autosave) <br/> |是  <br/> |是  <br/> |
 |[自动图文集](word-online.md#autotext) <br/> |是  <br/> |是  <br/> |
 |[浏览并从专业设计的模板开始](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |是  <br/> |是  <br/> |
 |[项目符号和编号](word-online.md#bullets-and-numbering) <br/> |是  <br/> |是  <br/> |
@@ -214,9 +213,9 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[共同创作](onenote-online.md#co-authoring) <br/> |是  <br/> |是  <br/> |
 |[创建和管理页面和分区](onenote-online.md#create-and-manage-pages-and-sections) <br/> |是  <br/> |是  <br/> |
 |[下载嵌入式 Office 文件的副本](onenote-online.md#download-copy-of-embedded-office-files) <br/> |是  <br/> |是<sup>4</sup> <br/> |
-|[拖放页面] <br/> |是  <br/> |是 <br/> |
-|[拖放部分] <br/> |是  <br/> |是 <br/> |
-|[拖放分区组] <br/> |否  <br/> |可访问 <br/> |
+|拖放页面 <br/> |是  <br/> |是 <br/> |
+|拖放部分 <br/> |是  <br/> |是 <br/> |
+|拖放节组 <br/> |否  <br/> |可访问 <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |是  <br/> |是  <br/> |
 |[编辑嵌入的文件](onenote-online.md#EmbeddedFileEdit) <br/> |否  <br/> |可访问  <br/> |
 |[方程](onenote-online.md#equations) <br/> |是  <br/> |是  <br/> |
@@ -301,10 +300,11 @@ Office Online (以前称为 Office Web Apps) 在 Web 浏览器中打开 Word、E
 |[WYSIWYG/所见即所得的查看](powerpoint-online.md#wysiwyg-viewing) <br/> |是  <br/> |是  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint Online 支持包含 8 种切换效果和 37 种动画的库。 若要扩大选择范围或创建自定义动画，请使用 PowerPoint 桌面应用程序。 
- <br/><sup>2</sup> 使用的设备需要支持墨迹。 
- <br/> <sup>3</sup> 某些（并非所有）Office 外接程序可用。 
- <br/><sup>4</sup> 虽然无法创建数据透视图或数据透视表，但可以在查看器中查看它们。 
+><sup>1</sup> PowerPoint Online 支持包含 8 种切换效果和 37 种动画的库。 若要扩大选择范围或创建自定义动画，请使用 PowerPoint 桌面应用程序。 
+ <br/>
+<sup>2</sup> 使用的设备需要支持墨迹。 <br/> 
+<sup>3</sup> 某些（并非所有）Office 外接程序可用。 <br/>
+<sup>4</sup> 虽然无法创建数据透视图或数据透视表，但可以在查看器中查看它们。 
   
 ## <a name="supported-file-types-for-office-online"></a>Office Online 的受支持文件类型
 <a name="bkmk_SupportedFileTypes"> </a>

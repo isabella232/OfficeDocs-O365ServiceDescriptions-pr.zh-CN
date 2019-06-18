@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>2019年5月6日的某一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改内容 |
-| 5/6/2019 | [Office Online 服务说明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改内容 |
-| 5/7/2019 | [Exchange Online 服务说明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 修改内容 |
-| 5/7/2019 | [支持](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 修改内容 |
-| 5/7/2019 | [Office Online 服务说明](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改内容 |
-
-
 ## <a name="week-of-may-13-2019"></a>5月13日 (2019) 的一周
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改内容 |
 | 6/7/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |
 | 6/7/2019 | [SharePoint Online 服务说明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 修改内容 |
+
+
+## <a name="week-of-june-10-2019"></a>2019年6月10日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 6/13/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
+| 6/13/2019 | [SharePoint Online 服务说明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 修改内容 |
