@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: af529770b0c9a28f55f149d498cfeffeb3f4b934
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343011"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130906"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
@@ -41,7 +41,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
     
 - [Office Applications 服务说明](office-applications-service-description/office-applications-service-description.md)
     
-- [Office Online 服务说明](office-online-service-description/office-online-service-description.md)
+- [用于 web 服务说明的 Office](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)
     

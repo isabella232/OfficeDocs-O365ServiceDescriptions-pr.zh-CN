@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742141"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131316"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -47,7 +47,7 @@ Microsoft 本身并不运营此服务。世纪互联负责运营、提供和管�
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
 |Skype for Business Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 ProPlus  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Project Online<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Power BI  <br/> |否 <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |否 <br/> |否 <br/> |
@@ -210,7 +210,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>12</sup>某些 TechNet 内容可能不适用于由世纪互联运营的 Office 365。<br/>
 <sup>13</sup>降低体验质量。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 <br/>
 <sup>14</sup>在 Outlook MOBILE (IOS 和 Android) 中目前不支持多重身份验证。 <br/>
-<sup>15</sup>通过世纪提供 Onenote 课堂笔记本, 但 Onenote 课堂笔记本工具栏不适用于 Windows 10 应用、IPad 或 OneNote Online。
+<sup>15</sup>通过世纪提供 Onenote 课堂笔记本, 但 Onenote 课堂笔记本工具栏不适用于 web 上的 Windows 10 应用、IPad 或 OneNote。
   
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能 
 <a name="BM3_OfficeApp"> </a>
@@ -287,24 +287,24 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup>即将在由世纪互联运营的 Office 365 中推出。 
 <br/><sup>15</sup>个 Google services (包括 "Play 商店") 在中国不可访问。 有几个应用商店由主要电话制造商或搜索引擎公司维护, 用户可从中安装移动应用。
   
-## <a name="office-online-features"></a>Office Online 功能
+## <a name="office-for-the-web-features"></a>Office for web 功能
 <a name="BM4_OfficeOnline"> </a>
 > [!NOTE]
-> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br/>
+> 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。 <br/>
   
-下表中的链接比较了 Office Online 的功能和 Microsoft Office 桌面应用程序的丰富功能。通过比较，可以了解 Office Online 的功能。然后，可以单击功能名称，阅读有关相应功能工作原理的简短说明。
+下表提供了一些链接, 可用于将 web 功能的 Office 与功能丰富的 Microsoft Office 桌面应用程序进行比较。 使用比较来发现 Office for web 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。
 > [!NOTE]
 >- 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。此比较表并未列出全部 Microsoft Office 功能。 
 >- Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 
->- Microsoft Office Web Apps Server 2013 本地客户获取 Office Online 编辑许可证 (如果他们购买了 Office 桌面套件许可证 (如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证)。<br/>
+>- Microsoft Office Web Apps Server 2013 本地客户在购买了 Office 桌面套件许可证 (如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证) 的情况下, 获取用于 Web 编辑许可证的 Office。<br/>
 
 ||||
 |:-----|:-----|:-----|
-|**应用程序** <br/> |**由世纪互联运营的 Office Online** <br/> |**链接到详细的功能比较** <br/> |
-|Word  <br/> |由世纪互联运营的 Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |由世纪互联运营的 Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |由世纪互联运营的 OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |由世纪互联运营的 PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Application** <br/> |**由世纪互联运营的 Office 网站** <br/> |**链接到详细的功能比较** <br/> |
+|Word  <br/> |由世纪互联运营的适用于 web 的 Word  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |由世纪互联运营的适用于 web 的 Excel  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |由世纪互联运营的适用于 web 的 OneNote  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |由世纪互联运营的 PowerPoint  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 功能 
 <a name="BM5_ExchangeOnline"> </a>
@@ -657,7 +657,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[内容管理器](../sharepoint-online-service-description/content.md#content-organizer) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[设计管理器](../sharepoint-online-service-description/content.md#design-manager) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[文档集](../sharepoint-online-service-description/content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word Online 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|[Word for web 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[电子数据展示搜索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |是<sup>6</sup> <br/> |是  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |[电子数据展示保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |无<sup>6</sup> <br/> |否  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
 |[电子数据展示导出](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |无<sup>6</sup> <br/> |否  <br/> |无<sup>6</sup> <br/> |否  <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
@@ -672,8 +672,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[托管元数据服务](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[元数据驱动的导航](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（创建/编辑）](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |
-|[Office Online（视图）](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web (创建/编辑)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |
+|[Office for web (视图)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office ProPlus (Osub)  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[Office Web Apps 服务器集成](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |

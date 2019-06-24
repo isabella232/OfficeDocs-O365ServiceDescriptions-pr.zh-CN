@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 智能手机可以访问 Office 365 中的电子邮件和文档。
-ms.openlocfilehash: 410148ac7d422aba4565caf673e9be5fb9f3cb31
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 2e6421c2d877cb4688ac1e1909cccb1a5eb07f14
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342980"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130948"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -50,7 +50,7 @@ BlackBerry 10 智能手机可以使用 Microsoft Exchange ActiveSync 直接连�
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>将 BlackBerry 智能手机用于 SharePoint Online
 
-对于 Microsoft SharePoint Online 访问权限，BlackBerry 用户可以使用他们的 BlackBerry 智能手机上的本地浏览器访问 SharePoint Online 站点。BlackBerry 用户可以使用移动浏览器中的 Office Online 呈现查看 Word、Excel 和 PowerPoint 文档。
+对于 Microsoft SharePoint Online 访问权限，BlackBerry 用户可以使用他们的 BlackBerry 智能手机上的本地浏览器访问 SharePoint Online 站点。 BlackBerry 用户可以使用 Office 在移动浏览器中查看 Word、Excel 和 PowerPoint 文档的 web 呈现。
   
 ## <a name="feature-availability"></a>功能可用性
 

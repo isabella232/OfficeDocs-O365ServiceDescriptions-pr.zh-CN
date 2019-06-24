@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
-ms.openlocfilehash: 243f447f4fcdc9c76651894c301fb6c3bfbeb1b9
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 952dfc120f41bf9cce9ad88c33fc883d165eb8b5
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342951"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130986"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -73,7 +73,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 |[Office 365 威胁智能](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(TI) 功能现已成为 ATP 计划2的一部分的威胁调查和响应功能。 推出了新功能, 如[自动调查和响应](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), 以及[威胁 Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)的增强功能。<br/><br/>如果你的组织当前没有 ATP, 或者如果你有 ATP 而不是 TI, 则你现在有几个选项需要考虑, 并且 ATP 计划1和 ATP 计划2的可用性。 若要了解详细信息, 请参阅[跨高级威胁防护 (ATP) 计划](#feature-availability-across-advanced-threat-protection-atp-plans)(本文中) 和[Office 365 高级威胁防护计划和定价](https://products.office.com/exchange/advance-threat-protection)的功能可用性。 |查看组织的订阅, 如果需要, 请[购买或编辑加载](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on)项。  |
 |当用户使用 Outlook 或 Outlook Web 应用程序 (OWA) 时, [ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)将呈现原始 url, 而不是重写的 url。 (我们称之为本机链接呈现。)<br>当您的组织提供本机链接呈现时, 此功能将在 Outlook 365 (即点即用)、OWA 以及 Windows 和 Mac OS 中运行。 |无         |
 |[Office 365 ATP 警告页面](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages)功能提供了新的配色方案、更多详细信息和继续转到网站的功能, 尽管有警告和建议。 |无         |
-|[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于 office Online (Word Online、Excel Online、PowerPoint Online 和 OneNote online) 中的 Url 和 Mac 上的 Office 365 专业增强版。   |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
+|[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展到适用于 Office 中的 url 的 Web (Word for Web、Excel for Web、PowerPoint for Web 和 OneNote for web) 和 Mac 上的 Office 365 专业增强版。   |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
 |安全&amp;合规中心中的隔离功能扩展到[SharePoint Online、OneDrive For Business 和 Microsoft 团队的 ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)。 |[查看和编辑 ATP 安全附件策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
 |[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为适用于在组织内的人员之间发送的电子邮件。 |[查看和编辑 ATP 安全链接策略](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
 |[ATP 安全链接](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links)保护扩展为应用于电子邮件中的 Url 以及 Office 365 专业增强版文档中的 url, 如 Word、Excel、PowerPoint 和 Visio on Windows, 以及 IOS 和 Android 设备上的 Office 应用程序。  |确保您正在使用[Office 的新式验证](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
@@ -126,7 +126,7 @@ ATP 可以与任何 SMTP 邮件传输代理 (如 Microsoft Exchange Server) 一�
 
 ### <a name="real-time-reports"></a>实时报告
 
-Office 365 Security & 合规中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp), 使您的安全和合规性管理员能够重点关注高优先级问题, 如安全攻击或增加了可疑活动。 除了突出显示问题区域之外, 智能报告和见解还包括用于查看和浏览数据的建议和链接, 同时还采取快速操作。 
+Office 365 安全 & 合规中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp), 使您的安全和合规性管理员能够重点关注高优先级问题, 如安全攻击或提高可疑活动。 除了突出显示问题区域之外, 智能报告和见解还包括用于查看和浏览数据的建议和链接, 同时还采取快速操作。 
   
 ### <a name="threat-trackers"></a>威胁跟踪器
 

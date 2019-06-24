@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 使用 Office Online 的 Microsoft Office 365 客户可以在旅途中查看和共享图表以及插入注释。
-ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 适用于 web 的 Microsoft Office 365 客户可以查看和共享图表并在旅途中插入注释。
+ms.openlocfilehash: fab0748238a7c5abdea13864e694d25c8c80bf31
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342341"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130976"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 使用 Office Online 的 Microsoft Office 365 客户可以在旅途中查看和共享图表以及插入注释。
+Visio Online 将 Microsoft Visio 体验扩展到 web 浏览器, 您可以直接在存储图表的网站上使用图表。 适用于 web 的 Microsoft Office 365 客户可以查看和共享图表并在旅途中插入注释。
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>对文本和形状应用多种格式
 <a name="BM_1"> </a>
@@ -88,7 +88,7 @@ Office 外接程序在 Visio Online 中不可用。
 ## <a name="offline-viewing"></a>Office 查看
 <a name="BM_13"> </a>
 
-在 Visio Online 中不可用。 Office Online 需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Visio 桌面应用程序, 以便在断开 Internet 连接或从组织的本地 Office Web Apps 服务器断开连接时查看和编辑关系图。 如果安装了 Visio 桌面应用程序, 则可以使用 Visio 的完整功能来查看和编辑您的关系图。 保存后, 将使用所做的更改更新联机关系图。 您还可以下载并保存图表的脱机副本, 但它不会与联机版本同步。 详细了解 [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx)。
+在 Visio Online 中不可用。 适用于 web 的 Office 需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Visio 桌面应用程序, 以便在断开 Internet 连接或从组织的本地 Office Web Apps 服务器断开连接时查看和编辑关系图。 如果安装了 Visio 桌面应用程序, 则可以使用 Visio 的完整功能来查看和编辑您的关系图。 保存后, 将使用所做的更改更新联机关系图。 您还可以下载并保存图表的脱机副本, 但它不会与联机版本同步。 详细了解 [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx)。
   
 ## <a name="print-to-pdf"></a>打印为 PDF 格式
 <a name="BM_14"> </a>

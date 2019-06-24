@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下内容功能让每个人都可轻松使用企业内容管理 (ECM)。 它是传统内容管理、社交功能和强大搜索的组合。
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342551"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130947"
 ---
 # <a name="content"></a>Content
 
@@ -76,12 +76,12 @@ SharePoint Online 网站集管理员可以使用审核功能跟踪用户对网�
 
 使用文档集，用户可以将描述作为单个实体存储、使用、导出并添加到多个文件。策略、标记和模板可应用于创建的任何文档集。详细了解[文档集](https://go.microsoft.com/fwlink/?LinkId=270954)。
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>Word for web 中的文档翻译
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-在阅读视图中，Word Online 现在提供一个允许组织直接在其浏览器中翻译文档的选项。即使文档注释也会被翻译。
+在阅读视图中, 现在为 web 的 Word 提供一个选项, 使组织可以直接在浏览器中翻译文档。 即使文档注释也会被翻译。
   
-## <a name="ediscovery-search"></a>eDiscovery Search
+## <a name="ediscovery-search"></a>电子数据展示搜索
 <a name="bkmk_eDiscovery_Search"> </a>
 
 使用电子数据展示搜索，用户可以搜索以电子方式存储的信息 (ESI)，此类信息可作为合规性和诉讼支持的证据。可搜索内容包括文档和列表项等结构化内容，以及博客、Wiki、新闻源和 Exchange 邮箱内容。为了让内容能够被发现，必须通过搜索对其编制索引。有关详细信息，请参阅 [Create and run eDiscovery queries](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center)（创建和运行电子数据展示查询）。
@@ -141,15 +141,15 @@ SharePoint Online IRM 使用 Azure 信息保护, 即 Office 365 中的一种信�
 
 保留策略可以有多个阶段，以便你可以将整个文档生命周期指定为一个策略。例如，每年评审一次合同，并在七年后删除。详细了解如何[存储和管理记录](https://go.microsoft.com/fwlink/?LinkId=270968)。
   
-## <a name="office-online-createedit"></a>Office Online（创建/编辑）
+## <a name="office-for-the-web-createedit"></a>Office for web (创建/编辑)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-如果您是 Office 365 客户，则可从 Internet 浏览器使用 Office Online 自动创建和编辑 Office 文件。若要了解 Office Online 中提供的功能，请参阅 [Office Online 服务说明](../office-online-service-description/office-online-service-description.md)。
+如果你是 Office 365 客户, 则可以使用 Internet 浏览器中的 Office 为 web 自动创建和编辑 Office 文件。 若要了解 Office for web 中可用的功能, 请参阅[office for Web 服务说明](../office-online-service-description/office-online-service-description.md)。
   
-## <a name="office-online-view"></a>Office Online （视图）
+## <a name="office-for-the-web-view"></a>Office for web (视图)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-默认情况下，Office Online 仅供查看。仅查看功能是免费提供的。详细了解如何[在你所在组织的 SharePoint 网站中使用 Office Online](https://go.microsoft.com/fwlink/?LinkId=392609)。
+默认情况下, Office for web 是仅查看。 仅查看功能是免费提供的。 了解有关[在组织的 SharePoint 网站中使用 Web Office 的](https://go.microsoft.com/fwlink/?LinkId=392609)详细信息。
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下站点功能为您的组织提供整套工具，以便创建任何类型的站点，以及简化站点管理的单个基础结构。 若要查找更多详细信息，请参阅查找有关 SharePoint Online 的内容。
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342481"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130866"
 ---
 # <a name="sites"></a>网站
 
@@ -104,7 +104,7 @@ Web 分析报告是 SharePoint 中的预构建报告，使用使用情况数据�
 ## <a name="team-notebook"></a>团队笔记本
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-当创建团队站点时，OneNote 2013 共享笔记本将作为站点一部分自动创建。您可以使用此笔记本捕获、编译和共享信息。（该功能仅在您已经使用包含 Office Online 支持的 Office 365 套件登录时可用。）
+创建团队网站时, 将自动在网站中创建 OneNote 2013 共享笔记本。 您可以使用此笔记本来捕获、编译和共享信息。 (仅当你注册了包含 Office for web 支持的 Office 365 套件时, 此功能才可用。)
   
 ## <a name="variations"></a>变体
 <a name="bkmk_Variations"> </a>

@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务（其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online 以及 Microsoft Skype for Business Online）的云版本结合使用，帮助用户通过 Internet 随时随地提高工作效率。
-ms.openlocfilehash: 4b0835673a5c78c9751f802632c3b96900237a13
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
+ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343611"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131086"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
-为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务（其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online 以及 Microsoft Skype for Business Online）的云版本结合使用，帮助用户通过 Internet 随时随地提高工作效率。
+为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
   
 本文列出了 Office 365 教育版计划的功能 (A1、A3 和 A5)。 若要跨企业和企业计划比较功能, 请参阅[比较 Office 365 For business 计划](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda), 或者有关更详细的功能列表, 请参阅[Office 365 服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)中的相关服务说明。
   
@@ -38,7 +38,7 @@ ms.locfileid: "34343611"
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>7</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
@@ -283,27 +283,27 @@ ms.locfileid: "34343611"
 > <sup>1</sup> WINDOWS SERVER AD RMS 是一台本地服务器, 必须单独购买并管理, 才能启用受支持的 IRM 功能。 <br/> 
 <sup>2</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync 基本功能的详细信息, 请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
 <sup>3</sup>有些学校适用于教育版, 其中包括 Office 365 专业增强版, 并允许学生、教职员工和员工在最多5台电脑或 Mac 计算机以及其他移动设备 (包括 Windows 平板电脑) 和其他移动设备上安装最新版本的 Office, 包括 Windows 平板电脑和版. 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/> 
-包含<sup>4 个</sup>Office Online 版本。 有关详细信息, 请参阅[Office Online 功能](office-365-education.md#office-online-features)
+<sup>4</sup>将包含适用于 web 版本的 Office。 有关详细信息, 请参阅[Office for web 功能](office-365-education.md#office-for-the-web-features)
   
-## <a name="office-online-features"></a>Office Online 功能
+## <a name="office-for-the-web-features"></a>Office for web 功能
 <a name="OfcOnline"> </a>
 
-下表提供了 Office 365 教育版计划中提供的 Office Online 功能功能与功能丰富的 Microsoft Office 桌面应用程序之间的比较链接。 使用比较来发现 Office Online 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 你可能会发现组织中的一些人需要使用 Excel 桌面应用程序的高级图表功能，而其他人可能仅需通过 Office Online 查看和简单编辑 Word 文档和 PowerPoint 演示文档。
+下表提供了一些链接, 这些链接指向 office 365 教育计划中提供的用于功能丰富的 Microsoft Office 桌面应用程序的 web 功能功能的比较。 使用比较来发现 Office for web 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 您可能会发现组织中的某些人可能需要 Excel 桌面应用程序的高级图表功能, 而其他人可能只需要查看和轻松地使用 Office for web 编辑 Word 文档和 PowerPoint 演示文稿。
   
 > [!NOTE]
 > - 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。 <br/>
 > - 这些表格并未列出全部 Microsoft Office 功能。 <br/> 
 > - Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 <br/>
-> - Microsoft Office Online Server 本地客户获取 Office Online 编辑许可证 (如果他们购买了 Office 桌面套件许可证 (如 Office 专业增强版、Office Standard 版或 Office 365 专业增强版许可证)。 
+> - Microsoft Office Online Server 内部部署客户如果购买了 Office 桌面套件许可证 (如 Office 专业增强版、Office Standard 版或 Office 365 专业增强版许可证), 则会获取适用于 web 编辑许可证的 Office。 
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**链接到详细的功能比较** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Visio Online 功能比较](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-online-plans) <br/> |
+|**Application** <br/> |**适用于 web 的 Office** <br/> |**链接到详细的功能比较** <br/> |
+|Word  <br/> |适用于 web 的 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |适用于 web 的 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |适用于 web 的 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint for web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio Online  <br/> |[Visio Online 功能比较](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 功能 
 <a name="OfcOnline"> </a>
@@ -799,9 +799,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business 功能
 <a name="OfcOnline"> </a>
 
-OneDrive for Business (以前称为 SkyDrive Pro) 是云中的个人在线存储空间。 使用它可轻松、安全地跨多个设备存储你的工作文件。 根据需要与同事共享你的文件, 并在 Office Online 中实时编辑 Office 文档。 使用 OneDrive for Business 同步应用将文件同步到本地计算机。
+OneDrive for Business (以前称为 SkyDrive Pro) 是云中的个人在线存储空间。 使用它可轻松、安全地跨多个设备存储你的工作文件。 根据需要与同事共享你的文件, 并在 Office for web 中实时编辑 Office 文档。 使用 OneDrive for Business 同步应用将文件同步到本地计算机。
   
-OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包括 Office Online。 若要了解详细信息, 请参阅[什么是 OneDrive For business？](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要了解详细信息, 请参阅[什么是 OneDrive For business？](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
   
 ### <a name="system-requirements"></a>系统要求
 
@@ -920,7 +920,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[内容管理器](../sharepoint-online-service-description/content.md#content-organizer) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[设计管理器](../sharepoint-online-service-description/content.md#design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[文档集](../sharepoint-online-service-description/content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word Online 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Word for web 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |[电子数据展示保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |[电子数据展示导出](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
@@ -935,8 +935,8 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[托管元数据服务](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[元数据驱动的导航](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（创建/编辑）](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（视图）](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web (创建/编辑)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web (视图)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office ProPlus (Osub)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[Office Web Apps 服务器集成](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -1319,7 +1319,7 @@ Skype for Business Online 中的限制分为以下几类:
 |会议内容保留期：定期会议  <br/> |15 天  <br/> |15 天   <br/> |15 天  <br/> |
 |会议内容保留期：立即碰头会议  <br/> |8 小时   <br/> |8 小时   <br/> |8 小时  <br/> |
 |会议过期：单次会议  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |
-|会议过期：定期会议  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |
+|会议过期：定期会议  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |
 |会议过期：立即碰头会议  <br/> |8 小时  <br/> |8 小时   <br/> |8 小时   <br/> |
    
 #### <a name="minute-limits"></a>分钟限制

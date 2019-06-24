@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 9e36f9ac8145590e35dbbf543fff0f628eb004ec
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018274"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131256"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -56,7 +56,7 @@ ms.locfileid: "35018274"
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
 |Skype for Business Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |否  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |

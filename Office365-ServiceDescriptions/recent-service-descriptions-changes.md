@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: 下表列出了最近对服务说明内容所做的更改。
-ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8840159713f3563d55f3f894b71a1bf56c22fee6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343591"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131296"
 ---
 # <a name="recent-service-descriptions-changes"></a>服务说明近期变化
 
@@ -53,7 +53,7 @@ ms.locfileid: "34343591"
 ||[Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |添加了 Microsoft 365 商业版。  <br/> |
 ||[Office 365 安全&amp;合规中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |将 Office 365 Business Essentials 和 Office 365 商业高级版的 "已更改存档限制" 条目设为 "是"。  <br/> |
 ||[Office 365 安全&amp;合规中心](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |将 "高级安全管理" 更改为 "Office 365 云应用安全"。  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |将主题中的第一个注释更改为 "在 Microsoft SharePoint Online 中无法在 Excel Online 中查看超出 30 mb 的工作簿"。 之前的注释说出 10 MB。  <br/> |
+|适用于 web 的 Office  <br/> |[适用于 web 的 Excel](office-online-service-description/excel-online.md) <br/> |将主题中的第一条注释更改为 "在 Microsoft SharePoint Online 中无法在 Excel 中查看超过 30 mb 的工作簿"。 之前的注释说出 10 MB。  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business 服务说明](onedrive-for-business-service-description.md) <br/> |OneDrive for Business 服务说明的主要更新。  <br/> |
    
 ## <a name="march-2018"></a>2018 年 3 月
@@ -63,7 +63,7 @@ ms.locfileid: "34343591"
 |**服务说明** <br/> |**主题** <br/> |**更改** <br/> |
 |Exchange Online  <br/> |[Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md) <br/> |数据中心和 Office 365 邮件加密 (OME) 中的静态数据加密更新。  <br/> |
 ||[邮件策略和合规性](exchange-online-service-description/message-policy-and-compliance.md) <br/> |数据中心和 Office 365 邮件加密 (OME) 中的静态数据加密更新。  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |更新为 Excel Online 中的冻结窗格支持。  <br/> |
+|适用于 web 的 Office  <br/> |[适用于 web 的 Excel](office-online-service-description/excel-online.md) <br/> |对 web Excel 中的冻结窗格的更新支持。  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |多个更新和重新构建。  <br/> |
 ||[SharePoint Online 限制](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |多个更新。  <br/> |
 |Yammer  <br/> |[Yammer 中的管理和安全功能](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |删除了备注和活动流键。  <br/> |
@@ -182,11 +182,11 @@ ms.locfileid: "34343591"
 ||[由世纪互联运营的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |使用 Windows Server AD RMS 更新了信息权限管理 (IRM)。  <br/> |
 ||[Office 365 德国版](office-365-platform-service-description/office-365-germany.md) <br/> |在 "用户帐户管理" 下添加了 "创建应用密码" 行。  <br/> |
 ||[Office 365 德国版](office-365-platform-service-description/office-365-germany.md) <br/> |添加了指向安全&amp;合规中心功能说明的指针。 (安全&amp;合规中心适用于 Office 365 德国。)  <br/> |
-|Office Online  <br/> |[Office Online 服务说明](office-online-service-description/office-online-service-description.md) <br/> |添加了 Visio。  <br/> |
+|适用于 web 的 Office  <br/> |[用于 web 服务说明的 Office](office-online-service-description/office-online-service-description.md) <br/> |添加了 Visio。  <br/> |
 |Exchange Online  <br/> |[Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md) <br/> |将 "保留标记和保留策略" 更改为 "邮件记录管理 (MRM) 保留标记和保留策略"。  <br/> |
 ||[语音消息服务](exchange-online-service-description/voice-message-services.md) <br/> |通过 SBC 更新以包括 Exchange Online 统一消息的生命周期结束通知。  <br/> |
 | 工作区分析  <br/> |[工作区分析服务说明](workplace-analytics-service-description.md) <br/> |添加了新的服务说明  <br/> |
 |多个  <br/> |多个  <br/> |Azure RMS 重命名了 Azure 信息保护 (AIP)。  <br/> |
-|多个  <br/> |多个  <br/> |从由世纪互联运营的 Office 365 德国和 Office 365 中删除了 office Online 与 Office 桌面比较详细信息。 添加了指向 Office Online 服务说明页面上的相同内容的指针。  <br/> |
+|多个  <br/> |多个  <br/> |从 office 365 德国和由世纪互联运营的 Office 365 中删除了 web 和 Office 桌面比较详细信息的 office。 向 Office 上的 web 服务说明页添加了指向 Office 上相同内容的指针。  <br/> |
    
 

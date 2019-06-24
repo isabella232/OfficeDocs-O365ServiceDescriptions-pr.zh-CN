@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外, SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。 有关快速概述, 请参阅什么是 SharePoint？
-ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931124"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131006"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -52,7 +52,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
-OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网盘。通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。OneDrive for Business 独立选项包括 Office Online。要查看使用 Office Online 的 OneDrive for Business 中包含哪些功能，请参阅 [OneDrive for Business 服务说明](../onedrive-for-business-service-description.md)。
+OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网盘。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要查看在 Office for web 中包含哪些功能包含在 OneDrive for business 中, 请参阅[onedrive For Business 服务说明](../onedrive-for-business-service-description.md)。
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online 企业版外部用户
 
@@ -130,7 +130,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[跨网站发布](content.md#cross-site-publishing) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[设计管理器](content.md#design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[文档集](content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word Online 中的文档翻译](content.md#document-translation-in-word-online) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Word for web 中的文档翻译](content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](content.md#ediscovery-search) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是  <br/> |是  <br/> |
 |[电子数据展示保留](content.md#ediscovery-hold) <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |可访问  <br/> |
 |[电子数据展示导出](content.md#ediscovery-export) <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |否  <br/> |可访问  <br/> |
@@ -145,8 +145,8 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[托管元数据服务](content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[元数据驱动的导航](content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[多级布置](content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（创建/编辑）](content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
-|[Office Online（视图）](content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web (创建/编辑)](content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>15</sup> <br/> |是  <br/> |是  <br/> |
+|[Office for web (视图)](content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 专业增强版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Office Web Apps 服务器集成](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |是  <br/> |是  <br/> |
 |[保存保留库](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
@@ -250,7 +250,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 <sup>11</sup> 帮助仅有简体中文和英文形式可供使用。 <br/> <sup>12</sup> 无法在博客上添加评论。 <br/> 
 <sup>13</sup> 组织社区网站可用，但提供的公共社区帮助不可用。 <br/>
 <sup>14</sup> 不支持 Access 2010。 <br/> 
-<sup>15</sup>对于 office Online, F1 用户应具有访问 office online (动态磁贴) 的权限, 以便创建内容。 但是，他们对于核心商业移动应用相关的访问受到限制。 具体包括：Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint 和 Groups。 **不**包括以下内容: Outlook、Word、Excel、PowerPoint 和 OneNote。<br/> 
+<sup>15</sup>对于 web Office, F1 用户应该有权访问用于创建内容的 web (live 磁贴) 的 office。 但是，他们对于核心商业移动应用相关的访问受到限制。 具体包括：Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint 和 Groups。 **不**包括以下内容: Outlook、Word、Excel、PowerPoint 和 OneNote。<br/> 
 <sup>16</sup>只能在 Infopath 富客户端中使用包含用户代码 (沙盒) 的 InfoPath 表单。 <br/>
 <sup>17</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> F1 用户可以在混合设置中访问 SharePoint Server, 但 Office 365 F1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 <br/>

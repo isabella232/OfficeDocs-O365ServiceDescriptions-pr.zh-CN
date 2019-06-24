@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。
-ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341931"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131306"
 ---
 # <a name="it-professional"></a>IT 专业人士
 
@@ -102,7 +102,7 @@ SharePoint Online 客户无法使用此功能。资源限制为 SharePoint Serve
 ## <a name="service-application-platform"></a>Service Application Platform
 <a name="bkmk_ServiceApplicationPlatform"> </a>
 
-可以通过任何 Web 应用程序单独使用 SharePoint 服务。此平台可满足灵活使用服务的需求，具体视应用程序需求而定。Web Analytics 不再是服务应用程序。分析和报告流程已合并到搜索服务应用程序中。Office Online 不再是服务应用程序。Office Web Apps Server 现在是一款独立的服务器产品。Office Online 可适用于 SharePoint Online 客户，具体视你的组织订阅的 Office 365 计划而定。详细了解 [SharePoint 服务应用程序](https://go.microsoft.com/fwlink/p/?LinkId=270989)。
+可以通过任何 Web 应用程序单独使用 SharePoint 服务。 此平台可满足灵活使用服务的需求，具体视应用程序需求而定。 Web Analytics 不再是服务应用程序。 分析和报告流程已合并到搜索服务应用程序中。 适用于 web 的 Office 不再是服务应用程序。 Office Web Apps Server 现在是一款独立的服务器产品。 根据您的组织订阅的 Office 365 计划的不同, SharePoint Online 客户可以使用 Office for web。 详细了解 [SharePoint 服务应用程序](https://go.microsoft.com/fwlink/p/?LinkId=270989)。
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint 运行状况分析器
 <a name="bkmk_SharePointHealthAnalyzer"> </a>

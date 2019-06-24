@@ -3,7 +3,6 @@ title: Microsoft 365 商业版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742101"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130966"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -36,7 +35,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |
 |Office 应用程序  <br/> |是  <br/> |是  <br/> |
 |Project Online  <br/> |无<sup>3</sup> <br/> |无<sup>3</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |
@@ -118,7 +117,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**标识和访问管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全性 E5** <br/> |
+|**标识和访问管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全 E3** <br/> |
 |Azure 多因素身份验证 (MFA)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |管理单元  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |云应用发现  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
@@ -126,14 +125,13 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |云标识的自助服务密码重置  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用本地 AD 写回的自助服务密码重置  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |本地目录与 Azure AD 之间的双向同步的设备对象 (设备写回)  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|条件访问 (基于组、位置、设备状态、登录或用户风险)  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|条件访问 (基于组、位置或设备状态)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |公司品牌打造 (登录页面/访问面板自定义  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |应用程序代理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Microsoft Identity Manager (MIM) 用户 CAL  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Connect Health  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级威胁分析  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|条件访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |**设备和应用程序管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全 E3** <br/> |
 |移动设备管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |移动设备管理 (MDM) 自动注册  <br/> |否  <br/> |可访问  <br/> |是  <br/> |

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下"洞察力"功能可让组织使用数据库、报表和业务应用程序中的信息来解决具体的业务需求。
-ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3765a8bbbb931e22bfcd26962a370d55724865e9
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342501"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131326"
 ---
 # <a name="insights"></a>见解
 
@@ -47,7 +47,7 @@ SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组�
 ## <a name="excel-services"></a>Excel Services
 <a name="bkmk_ExcelServices"> </a>
 
-使用 Excel Services，可以与他人共享工作簿、与报表进行交互、在浏览器窗口中查看和探索信息以及刷新数据。使用 Excel Services，还可以与他人共享所有或部分工作簿，并控制这些工作簿中显示的信息。在 SharePoint 2016 中，可通过 Office Online Server 上的 Excel Online 使用 Excel Services 功能。Excel Services 需要 Office Online Server 必须位于本地环境中。详细了解 [Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271028)。
+使用 Excel Services，可以与他人共享工作簿、与报表进行交互、在浏览器窗口中查看和探索信息以及刷新数据。 使用 Excel Services，还可以与他人共享所有或部分工作簿，并控制这些工作簿中显示的信息。 在 SharePoint 2016 中, Excel Services 功能可通过 Office Online Server 上的 web Excel 获取。 Excel Services 需要 Office Online Server 必须位于本地环境中。 详细了解 [Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271028)。
   
 ## <a name="excel-web-access-web-part-for-sharepoint"></a>SharePoint 相关的 Excel Web Access Web 部件
 <a name="bkmk_WebPart"> </a>
@@ -57,7 +57,7 @@ SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组�
 ## <a name="field-list-and-field-support"></a>字段列表和字段支持
 <a name="bkmk_FieldlListFieldSupport"> </a>
 
-使用 Excel Online，可以打开在浏览器窗口中查看的数据透视图报表和数据透视表报表的字段列表和字段井。借助此功能，无需打开 Excel，即可方便地暂时更改数据透视图报表或数据透视表报表中显示的信息。详细了解 [Excel Services 中的商业智能](https://go.microsoft.com/fwlink/p/?LinkId=271029)。
+Excel for web 使您能够为在浏览器窗口中查看的数据透视图报表和数据透视表打开字段列表和字段。 借助此功能，无需打开 Excel，即可方便地暂时更改数据透视图报表或数据透视表报表中显示的信息。 详细了解 [Excel Services 中的商业智能](https://go.microsoft.com/fwlink/p/?LinkId=271029)。
   
 ## <a name="filter-enhancements"></a>Filter Enhancements
 <a name="bkmk_FilterEnhancements"> </a>
@@ -87,12 +87,12 @@ Power BI 是一个基于云的业务分析工具套件，使任何人都可以�
 ## <a name="power-pivot-for-excel-in-sharepoint"></a>SharePoint 中适用于 Excel 的 Power Pivot
 <a name="bkmk_PowerPivot"> </a>
 
-借助 Power Pivot for Excel，可以执行功能强大的数据分析，并能创建复杂的数据模型。还可以混合来自各种来源的大量数据，迅速分析数据并共享见解。使用 SharePoint Online，可以使用 Excel Online 在浏览器窗口中查看图表、表格、数据透视图报表和数据透视表报表，并与之进行交互。还可以使用 Excel Web Access Web 部件在 SharePoint 网站中显示 Excel 内容。必须先在 Excel 中创建 Power Pivot 表，然后才能在 SharePoint 中查看。详细了解如何使用 [Excel 中的 Power Pivot](https://go.microsoft.com/fwlink/p/?LinkId=271036)。
+借助 Power Pivot for Excel，可以执行功能强大的数据分析，并能创建复杂的数据模型。 还可以混合来自各种来源的大量数据，迅速分析数据并共享见解。 使用 SharePoint Online, 可以使用 Excel 来查看浏览器窗口中的图表、表、数据透视图报表和数据透视表, 并与之交互。 还可以使用 Excel Web Access Web 部件在 SharePoint 网站中显示 Excel 内容。 必须先在 Excel 中创建 Power Pivot 表，然后才能在 SharePoint 中查看。 详细了解如何使用 [Excel 中的 Power Pivot](https://go.microsoft.com/fwlink/p/?LinkId=271036)。
   
 ## <a name="power-view-for-excel-in-sharepoint"></a>Power View for Excel in SharePoint
 <a name="bkmk_PowerView"> </a>
 
- 借助 Power View for Excel，可以使用高度交互式可视化效果、动画和智能查询来直观呈现模型化数据，并与之进行交互。使用 SharePoint Online，可以使用 Excel Online 在浏览器窗口中查看包含 Power View 表的工作簿，并与之进行交互。还可以使用 Excel Web Access Web 部件在 SharePoint 网站中显示 Excel 内容。必须先在 Excel 中创建 Power View 表，然后才能在 SharePoint 中查看。详细了解如何使用 [Excel 中的 Power View](https://go.microsoft.com/fwlink/p/?LinkId=271035)。
+ 借助 Power View for Excel，可以使用高度交互式可视化效果、动画和智能查询来直观呈现模型化数据，并与之进行交互。 使用 SharePoint Online, 可以使用 Excel 进行 web 查看, 并与浏览器窗口中包含 Power View 表的工作簿进行交互。 还可以使用 Excel Web Access Web 部件在 SharePoint 网站中显示 Excel 内容。 必须先在 Excel 中创建 Power View 表，然后才能在 SharePoint 中查看。 详细了解如何使用 [Excel 中的 Power View](https://go.microsoft.com/fwlink/p/?LinkId=271035)。
   
 ## <a name="quick-explore"></a>快速浏览
 <a name="bkmk_QuickExplore"> </a>
@@ -102,12 +102,12 @@ Power BI 是一个基于云的业务分析工具套件，使任何人都可以�
 ## <a name="refresh-excel-workbooks-interactively"></a>交互刷新 Excel 工作簿
 <a name="bkmk_RefreshExcel"> </a>
 
-若 Excel Online 中的工作簿已连接到外部数据源（例如，MS SQL 数据库），则您可以查看工作簿中的最新数据。 请注意，您必须在 Excel 中将工作簿连接到外部数据源才能在 Excel Online 中查看工作簿。
+允许您查看 Excel 中连接到外部数据源的 web 工作簿 (例如, MS SQL 数据库) 的最新数据。 请注意, 您必须先将工作簿连接到 Excel 中的外部数据源, 然后才能在 Excel for web 中查看它们。
   
 ## <a name="sql-server-reporting-services-ssrs-integrated-mode"></a>SQL Server Reporting Services (SSRS) Integrated Mode
 <a name="bkmk_SQLServerReportingServicesIntegratedMode"> </a>
 
-如果 SQL Server 2012 Reporting Services 与 SharePoint 集成，可以将强大的 SharePoint 协作和文档集中管理功能用于 SQL Server 2012 Reporting Services 内容。报告服务报表与其他报表（如 Excel Online 文件）一起存储在 SharePoint 文档库中。SharePoint 权限可用于控制对 Reporting Services 内容的访问，用户可以在文档库中启动报表设计器、模型设计器和报表生成器。详细了解 [Reporting Services 报表服务器](https://go.microsoft.com/fwlink/p/?LinkId=271039)。
+如果 SQL Server 2012 Reporting Services 与 SharePoint 集成，可以将强大的 SharePoint 协作和文档集中管理功能用于 SQL Server 2012 Reporting Services 内容。 报告存储在 SharePoint 文档库中, 并与其他报告 (如 Excel 中的 web 文件) 一起存储。 SharePoint 权限可用于控制对 Reporting Services 内容的访问，用户可以在文档库中启动报表设计器、模型设计器和报表生成器。 详细了解 [Reporting Services 报表服务器](https://go.microsoft.com/fwlink/p/?LinkId=271039)。
   
 ## <a name="sql-server-reporting-services-ssrs-web-part"></a>SQL Server Reporting Services (SSRS) Web 部件
 <a name="bkmk_SSRSWebPart"> </a>
@@ -127,9 +127,9 @@ Excel 工作簿有时包含 Power Pivot 数据模型，你可以进行功能强�
 ## <a name="user-defined-functions"></a>用户定义的函数
 <a name="bkmk_UserDefinedFunctions"> </a>
 
-用户定义的函数 (UDF) 使您可以在 Excel Online 工作簿的单元格中使用公式调用以托管代码编写的自定义函数。UDF 是一种高级编程功能，使企业可以开发自定义代码并将其插入 Excel Online 工作簿中。您可以创建 UDF 来调用自定义的数学函数、将自定义数据源中的数据调入工作簿并可以通过 UDF 调用 Web 服务。
+用户定义函数 (Udf) 使您能够在 Excel 中将公式用于 web 工作表单元格, 以调用在托管代码中编写的自定义函数。 Udf 是一项高级可编程性功能, 允许企业为 web 工作表开发和插入 Excel 中的自定义代码。 您可以创建 UDF 来调用自定义的数学函数、将自定义数据源中的数据调入工作簿并可以通过 UDF 调用 Web 服务。
   
-## <a name="visio-services"></a>Visio Services
+## <a name="visio-services"></a>Visio 服务
 <a name="bkmk_VisioServices"> </a>
 
 Visio Services 是方便用户共享和查看 Microsoft Visio Drawing (\*.vsdx) 和 Visio 2010 Web 绘图 (\*.vdw) 文件的服务应用程序。 Visio Services 不再在 SharePoint Online 中可用。 Visio Services 将继续在 SharePoint Server 2010、SharePoint Server 2013 和 SharePoint Server 2016 中提供。 详细了解 [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043)。

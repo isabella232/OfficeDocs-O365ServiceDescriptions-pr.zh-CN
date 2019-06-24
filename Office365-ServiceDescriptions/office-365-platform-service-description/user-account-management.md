@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 72b5327382694d094d1d9a639dca6e023a5e0e9c
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343111"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131226"
 ---
 # <a name="user-account-management"></a>用户帐户管理
 
@@ -105,7 +105,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
 |Windows Vista 上的 Outlook 2010 或 Office Outlook 2007。  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
 |POP、IMAP、Outlook for Mac  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
-|Web 体验：Office 365 门户/Outlook Web App/SharePoint Online/Office Online  <br/> |每次浏览器会话登录 <sup>4</sup> <br/> |每次会话登录 <sup>3</sup> <br/> |
+|Web 体验: 适用于 web 的 Office 365 portal/Outlook Web App/SharePoint Online/Office  <br/> |每次浏览器会话登录 <sup>4</sup> <br/> |每次会话登录 <sup>3</sup> <br/> |
 |使用 SharePoint Online 的 Office 2010 或 Office 2007。  <br/> |每次 SharePoint Online 会话登录 <sup>4</sup> <br/> |每次 SharePoint Online 会话登录 <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |每次会话登录 <sup>1</sup> <br/> |无提示  <br/> |
 |Outlook for Mac  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: 以下邮件和对话功能在 Yammer 中可用。
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342191"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130996"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的邮件和对话功能
 
@@ -49,10 +49,10 @@ ms.locfileid: "34342191"
 
 将对话共享到其他组的新闻复制，或通过私信中继信息和重要邮件。
   
-## <a name="office-online-support"></a>Office Online 支持
+## <a name="office-for-the-web-support"></a>Office for web 支持
 <a name="bkmk_ShareConversations"> </a>
 
-随着 Yammer 中可以支持 Office Online，上传到 Yammer 的文档可以直接在 Yammer 中使用 Office Online 进行查看和编辑。这可以使文档在 Office Online 中完美呈现，允许不同的用户同时联合创作，以及直接在您的浏览器上显示相关的 Yammer 对话。
+借助 Yammer 中的 web 支持, 上载到 Yammer 的文档可以直接在 Yammer 中通过 web 进行查看和编辑。 这样一来, 文档就可以使用 Office for web 进行完美呈现, 同时为不同的用户启用共同创作, 并在浏览器中显示相关的 Yammer 对话。
   
 ## <a name="events"></a>活动
 <a name="bkmk_Events"> </a>

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求, 以及代表美国政府持有或处理数据的承包商, Microsoft 提供了 Office 365 美国政府社区 (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343241"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131096"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -34,7 +34,7 @@ Office 365 美国政府版支持在中度影响级别进行联邦风险与授权
   
 Office 365 美国政府版 同样支持针对二级（不受控非机密信息）系统的美国国防部云计算二级安全条例指南。 
   
-Exchange Online、SharePoint Online、Exchange Online Archiving、Skype for Business 和 Office Online 具有可以支持客户对执法机构的 CJIS 要求以及对处理 FTI 的客户的 IRS-1075 要求的功能。
+Exchange Online、SharePoint Online、Exchange Online 存档、Skype for Business 和 Office for web 都具有一些功能, 这些功能可支持客户对法律实施机构的 CJIS 要求, 以及对处理 FTI 的客户的 IRS-1075 要求。
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 美国政府版社区筛查的人员
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 创建了 Office 365 美国政府版计划 (orOffice 365 美国政府版)。 此部分提供了特定于 Office 365 美国政府版 的功能的概述。 建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343211"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131276"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -75,7 +75,7 @@ Office 365 美国政府版服务从物理上位于美国的数据中心提供。
 > [!NOTE]
 > 对于一般用途，Skype for Business 不存储客户内容，但如果存储，内容会存储在美国的数据中心内。 
   
-如果您的用户在使用 Office Online（以前称为 Office Web Apps）时位于美国境内，或者如果您使用 Active Directory 联合身份验证服务 (AD FS) 2.0 并设置策略以确保用户通过单一登录连接到服务，则临时缓存在 Office Online 中的所有客户内容将位于美国境内。
+如果您的用户在美国中使用 Office for web (以前称为 Office Web Apps), 或者您采用了 Active Directory 联合身份验证服务 (AD FS) 2.0, 并设置了策略以帮助您的用户通过单 si 连接到服务gn-打开在 Office 中临时缓存到 web 的任何客户内容都将位于美国中。
   
 ["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -158,7 +158,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 服务** <br/> |**Office 365 美国政府版 G1** <br/> |**Office 365 美国政府版 G3** <br/> |**Office 365 美国政府版 G5** <br/> |**Office 365 美国政府版 F1** <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 ProPlus  <br/> |否 <br/> |可访问 <br/> |是 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online Protection  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -304,7 +304,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 <br/><sup>4</sup> 如果使用密码同步，用户必须更改本地 Active Directory 中的密码。 
 <br/><sup>5</sup> 若要了解如何为用户设置自助服务密码管理策略，请参阅 [管理 Azure AD 中的密码](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/)。 <br/><sup>6</sup> Office 365 只能有一个公共网站，除非你已升级旧版 Office 365。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 若要详细了解如何处理商业版订阅的两个网站，请参阅 [处理两个 Office 365 公共网站](https://go.microsoft.com/fwlink/p/?LinkID=271589)。 如果有其他订阅，请参阅[在 Office 365 中了解合作伙伴网站托管和公共网站](https://go.microsoft.com/fwlink/p/?LinkID=325009)，详细了解公共网站。 
 <br/><sup>7</sup> 减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
-<br/><sup>8</sup>以下计划不支持来自 Microsoft 365 管理中心的许可证座位更改: > OFFICE 365 美国政府版 G1 > OFFICE 365 美国政府版 > OFFICE 365 美国政府版 K1 <br/><sup>9</sup>在 GCC 高版中尚不可用, 但即将推出。
+<br/><sup>8</sup>以下计划不支持来自 Microsoft 365 管理中心的许可证座位更改: > OFFICE 365 美国政府版 G1 > OFFICE 365 美国政府版 K1 > OFFICE 365 美国政府版 <br/><sup>9</sup>在 GCC 高版中尚不可用, 但即将推出。
 <br/><sup>10</sup>个 For OFFICE 365 US 政府 G1、G3 和 F1、目标版本和 Office 365 For business 路线图适用;但是, 由于[合规性要求](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263), 特定服务更新可能会存在一些差异或延迟。
 <br/><sup>11</sup>尚不可用于 OFFICE 365 美国政府版产品, 但即将推出。 ><br/><sup>12</sup>不包括在内, 但可以作为单独的附加项在 GCC 中购买。 
 <br/><sup>13</sup>不支持 OFFICE 365 美国政府版产品。 

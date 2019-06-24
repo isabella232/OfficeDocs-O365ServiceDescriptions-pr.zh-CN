@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 266bac1f2fb4fb7d76ee41a640b2ddde93a11af6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343601"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131106"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -31,7 +31,7 @@ Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**服务** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Office 365 平台  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 ProPlus  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |

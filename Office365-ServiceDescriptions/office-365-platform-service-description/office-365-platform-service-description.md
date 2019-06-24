@@ -15,18 +15,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1e4e5b6beb99a7a3b095d6a1f0cb56f0913abb19
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343301"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131067"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
   
-Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务（其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office Online 以及 Microsoft Skype for Business Online）的云版本结合使用，帮助用户通过 Internet 随时随地提高工作效率。
+Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
   
 若要跨计划比较功能, 请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409), 或者有关更详细的功能列表, 请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
@@ -222,5 +222,5 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <br/><sup>14</sup>在 Office 365 Enterprise F1 中, 流仅限于使用, 每个用户每个月限制运行数为750。 
 <br/><sup>15</sup>仅适用于 Office 365 教育版计划, 包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
 <br/><sup>16</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
-<br/><sup>17</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。g <br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量: 不发布或共享。
+<br/><sup>17</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。> <br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量: 不发布或共享。
 <br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。   

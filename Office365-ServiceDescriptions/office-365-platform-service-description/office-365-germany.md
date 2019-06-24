@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过为数字工作提供业界一流的工作效率服务, 从德国数据中心 (包含数据派驻服务) 中为我们提供业界一流的工作效率服务, 帮助您满足德国最受管控客户的需求, 以及欧盟 (EU) 和欧洲自由贸易协会 (EFTA)。在德国, 通过采用德国法律管辖的唯一数据受信者模型严格的数据访问和控制措施。
-ms.openlocfilehash: ccc1a0efe2f5a6563d7e5602f5522a3da8fb5595
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 990ac7c4eff9660fbf40c21ac7c0a8d9ba2f6f95
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343581"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131069"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -38,7 +38,7 @@ Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选
 |SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Skype for Business Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|Office Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 专业增强版<sup>2</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |Project Online <sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Power BI <sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -329,24 +329,24 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>10</sup> 批量激活 Office 365 Germany 企业版 E3，Office 365 ProPlus 仅限于安装在 Windows Server 2008 R2 和启用了 RDS 角色或安装了 Windows To Go 的更新版本上。 在任一情况下，访问这些安装的用户应是 Office 365 Germany 企业版 E3 或 Office 365 ProPlus 许可的用户。<br/>
 <sup>11</sup> 不适用于 Office 365 Germany，但即将适用。 
   
-## <a name="office-online-features"></a>Office Online 功能
+## <a name="office-for-the-web-features"></a>Office for web 功能
 <a name="BM1_Platform"> </a>
 
-下表提供了 Office 365 德国计划中提供的 Office Online 功能功能与功能丰富的 Microsoft Office 桌面应用程序的比较链接。 使用比较来发现 Office Online 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 你可能会发现组织中的一些人需要使用 Excel 桌面应用程序的高级图表功能，而其他人可能仅需通过 Office Online 查看和简单编辑 Word 文档和 PowerPoint 演示文档。 
+下表提供了 Office 365 德国的网站功能的比较的链接, 这些功能在 Office 德国计划中提供的功能丰富的 Microsoft Office 桌面应用程序。 使用比较来发现 Office for web 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 您可能会发现组织中的某些人可能需要 Excel 桌面应用程序的高级图表功能, 而其他人可能只需要查看和轻松地使用 Office for web 编辑 Word 文档和 PowerPoint 演示文稿。 
   
 > [!NOTE]
 > - 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。 此表不是 Microsoft Office 2013 功能的完整列表。 <br/> 
 > - Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 <br/>
-> -  Microsoft Office Web Apps Server 2013 本地客户获取 Office Online 编辑许可证 (如果他们购买了 Office 桌面套件许可证 (如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证)。 <br/>
+> -  Microsoft Office Web Apps Server 2013 本地客户在购买了 Office 桌面套件许可证 (如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证) 的情况下, 获取用于 Web 编辑许可证的 Office。 <br/>
 > -  由于 Office 365 德国的性质, 某些功能尚未启用。 随着时间的推移，你将看到与全球服务一样，该服务功能会愈加健全。 
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**链接到详细的功能比较** <br/> |
-|Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Application** <br/> |**适用于 web 的 Office** <br/> |**链接到详细的功能比较** <br/> |
+|Word  <br/> |适用于 web 的 Word  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |适用于 web 的 Excel  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |适用于 web 的 OneNote  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint for web  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 功能 
 <a name="BM1_Platform"> </a>
@@ -638,7 +638,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[内容管理器](../sharepoint-online-service-description/content.md#content-organizer) <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[设计管理器](../sharepoint-online-service-description/content.md#design-manager) <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[文档集](../sharepoint-online-service-description/content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word Online 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Word for web 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |
 |[电子数据展示导出](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |
@@ -653,8 +653,8 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[托管元数据服务](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[元数据驱动的导航](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（创建/编辑）](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[Office Online（视图）](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web (创建/编辑)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|[Office for web (视图)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office Web Apps 服务器集成](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[保存保留库](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |
@@ -897,7 +897,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[内容管理器](../sharepoint-online-service-description/content.md#content-organizer) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[设计管理器](../sharepoint-online-service-description/content.md#design-manager) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[文档集](../sharepoint-online-service-description/content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word Online 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Word for web 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |是<sup>6</sup> <br/> |是  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |[电子数据展示保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |无<sup>6</sup> <br/> |否  <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
 |[电子数据展示导出](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |无<sup>6</sup> <br/> |否  <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
@@ -912,8 +912,8 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[托管元数据服务](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[元数据驱动的导航](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office Online（创建/编辑）](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
-|[Office Online（视图）](../sharepoint-online-service-description/content.md#office-online-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web (创建/编辑)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
+|[Office for web (视图)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office ProPlus (Osub)  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Office Web Apps 服务器集成](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |

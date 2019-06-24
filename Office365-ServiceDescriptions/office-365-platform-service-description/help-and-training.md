@@ -3,7 +3,6 @@ title: 帮助和培训
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,24 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供以下帮助和培训资源。
-ms.openlocfilehash: 6a7dacef8f970de86c5199d2217e957a10da59ea
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343571"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130896"
 ---
 # <a name="help-and-training"></a>帮助和培训
 
 Microsoft Office 365 提供以下帮助和培训资源。
   
 ## <a name="online-help"></a>联机帮助
-<a name="BKMK_Online_Help"> </a>
 
 服务中的任何内联帮助链接都提供了帮助文章和视频, 其中包括 Office 365 门户和 Microsoft 365 管理中心的顶部导航栏中的 "帮助" 图标。 还可以访问 [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
   
 ## <a name="training"></a>培训
-<a name="BKMK_Online_Help"> </a>
 
 可通过视频、网络研讨会和授课获得有关认证的培训。有关详细信息，请参阅：
   
@@ -47,7 +44,6 @@ Microsoft Office 365 提供以下帮助和培训资源。
 - [Office 365 Administrator support skills: Core Concepts](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)（Office 365 管理员支持技巧：核心概念）
     
 ## <a name="community"></a>社区
-<a name="BKMK_Community"> </a>
 
 > [!NOTE]
 > 社区资源适用于全球各种版本的 Office 365。如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)，并滚动到 QR 码的页面底部。 
@@ -95,14 +91,12 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
 有关详细信息，请访问 [Office 365 社区](https://go.microsoft.com/fwlink/?LinkId=272057)。
   
 ## <a name="office-365-techcenter"></a>Office 365 技术中心
-<a name="BKMK_O365TechCenter"> </a>
 
 大型企业的 IT 专业人员可以访问 TechNet 上的 Office 365 TechCenter。Office 365 技术中心提供了用于大型组织的复杂部署指导。
   
 有关详细信息，请访问 [Office 365 技术中心](https://go.microsoft.com/fwlink/?LinkId=272058)。
   
 ## <a name="other-self-help-resources"></a>其他自助资源
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 除了 Office 365 社区和联机帮助之外，Office 365 还包括以下自助资源：
   
@@ -115,7 +109,6 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
     如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)，并滚动到 QR 码的页面底部。 
     
 ## <a name="languages"></a>语言
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 提供下列语言的帮助和培训资源。
   
@@ -155,7 +148,6 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
 |乌克兰语  <br/> |是  <br/> | 否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 ## <a name="feature-availability"></a>功能可用性
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 若要查看整个 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
   
