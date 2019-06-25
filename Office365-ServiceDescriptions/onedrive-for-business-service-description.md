@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 了解每个订阅计划提供的 OneDrive 存储空间。
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343801"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131246"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 
@@ -30,7 +30,7 @@ OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 �
 若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/zh-CN/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
-> OneDrive for Business 独立计划包含 Office Online。 
+> OneDrive for Business 独立计划包含 Office 网页版。 
   
 ## <a name="system-requirements"></a>系统要求
 
