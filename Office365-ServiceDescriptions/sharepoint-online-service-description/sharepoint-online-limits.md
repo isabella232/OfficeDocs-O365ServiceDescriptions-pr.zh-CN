@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780661"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233529"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -54,7 +54,8 @@ ms.locfileid: "34780661"
 - **版本**-50000 主要版本和511次要版本。
 
 - **SharePoint 组**-用户可以属于5000组, 每个组最长可有5000个用户。 每个网站集最多可有 10,000 个组。
-
+    > [!NOTE]
+    > 对于 Azure AD 组限制, 请参阅[AZURE ad 服务限制和限制](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions), 因为这种限制可能会影响公用和专用组站点成员身份管理。 
 - **托管元数据**-200000 术语在术语库中, 1000 全局术语集, 1000 组。
 
 - **子网站**-每个网站集2000。
@@ -64,10 +65,8 @@ ms.locfileid: "34780661"
 - **每个列表或库的唯一安全作用域**-5000。 对于大型列表, 设计应具有尽可能少的唯一权限。
 
 - **用户**-每个网站集2000000。
-
-> [!NOTE]
-> 您可以邀请到 SharePoint 网站集的来宾数没有限制。 有关外部共享的详细信息, 请参阅[external 共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
-
+    > [!NOTE]
+    > 您可以邀请到 SharePoint 网站集的来宾数没有限制。 有关外部共享的详细信息, 请参阅[external 共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
 ## <a name="see-also"></a>另请参阅
 
 [SharePoint Online 的搜索限制](https://docs.microsoft.com/sharepoint/search-limits)

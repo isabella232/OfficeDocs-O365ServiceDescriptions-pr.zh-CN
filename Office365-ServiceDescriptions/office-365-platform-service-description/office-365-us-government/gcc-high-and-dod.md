@@ -3,7 +3,6 @@ title: Office 365 GCC 高和 DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 Arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343251"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233519"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 Arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。 
   
-若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。
+若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。 有关如何购买的详细信息, 请参阅[Microsoft 365 政府-如何购买](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。
   
 ## <a name="how-to-use-this-service-description-section"></a>如何使用本服务说明部分
 
@@ -56,7 +55,7 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
 |国防部 IT-2  <br/> |请求对客户数据提升的权限或对国防部 SRG L5 服务功能的特权管理访问权限的员工必须通过国防部 IT-2 裁定，该裁定基于成功的 OPM 第 3 层调查。  <br/> |
 
-<sup>1</sup>仅适用于具有对 OFFICE 365 美国 GCC 中托管的客户内容的临时或具有访问权限的人员, 或使用 DOD 云
+<sup>1</sup>仅适用于具有临时或有权访问托管在 OFFICE 365 美国 GCC (高或 DOD 云) 中的客户内容的人员。
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>基于符合性云体系结构的功能细微
 
 在 GCC 高和 DoD 环境中的 Office 365 订阅包括核心 Exchange Online、SharePoint Online 和 Skype for Business 功能。 如果基础结构的认证和资格鉴定增多, 则一般商业版 Office 365 产品与 GCC 高和 DoD 中提供的功能之间存在一些功能差异。
@@ -93,7 +92,7 @@ GCC 高租户仅可与其他 GCC 高租户共享。 例如：
   
  **Business Connectivity Services** -BCS 功能受支持的连接方案, 其中数据源在云服务的安全边界内仍可访问。 
   
- **沙盒解决方案**-此功能已被弃用, 不可用。 任何沙盒解决方案都应迁移至 [SharePoint 外接程序扩展模型]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx)。
+ **沙盒解决方案**-此功能已被弃用, 不可用。 任何沙盒解决方案都应迁移至 [SharePoint 外接程序扩展模型]( https://msdn.microsoft.com/library/office/fp179930.aspx)。
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
