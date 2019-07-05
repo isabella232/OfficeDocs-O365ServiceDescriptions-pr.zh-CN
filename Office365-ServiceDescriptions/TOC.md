@@ -2,7 +2,6 @@
   
 
 # [Office 365 服务说明](office-365-service-descriptions-technet-library.md)
-## [Microsoft 365 商业版服务说明](microsoft-365-business-service-description.md)
 ## [Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 系统要求](office-365-platform-service-description/office-365-system-requirements.md)
@@ -33,11 +32,11 @@
 ### [产品使用权限](office-365-platform-service-description/product-use-rights.md)
 ## [Office 应用程序服务说明](office-applications-service-description/office-applications-service-description.md)
 ### [Office 应用程序](office-applications-service-description/office-applications.md)
-## [用于 web 服务说明的 Office](office-online-service-description/office-online-service-description.md)
-### [适用于 web 的 Word](office-online-service-description/word-online.md)
-### [适用于 web 的 Excel](office-online-service-description/excel-online.md)
-### [适用于 web 的 OneNote](office-online-service-description/onenote-online.md)
-### [PowerPoint for web](office-online-service-description/powerpoint-online.md)
+## [Office 网页版服务说明](office-online-service-description/office-online-service-description.md)
+### [Word 网页版](office-online-service-description/word-online.md)
+### [Excel 网页版](office-online-service-description/excel-online.md)
+### [OneNote 网页版](office-online-service-description/onenote-online.md)
+### [PowerPoint 网页版](office-online-service-description/powerpoint-online.md)
 ## [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)
 ### [Exchange Online 限制](exchange-online-service-description/exchange-online-limits.md)
 ### [规划和部署](exchange-online-service-description/planning-and-deployment.md)
@@ -107,5 +106,8 @@
 ### [Yammer 平台功能](yammer-service-description/yammer-platform-features.md)
 ### [Yammer 中的管理和安全功能](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer 中的支持功能](yammer-service-description/support-features-in-yammer.md)
+## Microsoft 365 服务说明
+### [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 租户级服务许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
 
