@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
+ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233529"
+ms.lasthandoff: 07/07/2019
+ms.locfileid: "35581311"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -40,9 +40,9 @@ ms.locfileid: "35233529"
   
 ## <a name="service-limits-for-all-plans"></a>所有计划的服务限制
 
-- 列表**和库中的项**-列表最多可包含30000000个项, 库最多可以包含30000000个文件和文件夹。 将100000项添加到列表、库或文件夹后, 不能更改列表、库或文件夹的权限继承。 若要详细了解查看大型列表的其他限制，请参阅[管理大型列表和库在 Office 365 中](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 有关在文件名中不能使用的字符的信息, 请参阅[file 和 folder names 中的无效字符](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- 列表**和库中的项**-列表最多可包含30000000个项, 库最多可以包含30000000个文件和文件夹。 将100000项添加到列表、库或文件夹后, 不能更改列表、库或文件夹的权限继承。 若要详细了解查看大型列表的其他限制，请参阅[管理大型列表和库在 Office 365 中](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。 
 
-- **文件大小和文件路径长度**-15 GB。 若要了解有关使用新的 OneDrive 同步客户端 (OneDrive) 时的限制和限制的详细信息, 请参阅[onedrive、onedrive For business 和 SharePoint 中的无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **文件大小和文件路径长度**-15 GB。 附加到列表项的文件的最大大小为 250 MB。 若要了解有关使用新的 OneDrive 同步客户端 (OneDrive) 时的限制和限制的详细信息, 请参阅[无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 - **跨网站集移动和复制**–每个操作 100 GB。 Web 浏览器必须保持打开状态。
 
