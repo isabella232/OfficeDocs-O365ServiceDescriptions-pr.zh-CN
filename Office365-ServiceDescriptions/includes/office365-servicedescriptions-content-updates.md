@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>5月27日一周, 2019
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 5/28/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改内容 |
-| 5/31/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |
-
-
 ## <a name="week-of-june-03-2019"></a>2019年6月3日一周
 
 
@@ -93,3 +84,11 @@
 | 6/28/2019 | [域](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 修改内容 |
 | 6/28/2019 | [网络](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | 修改内容 |
 | 6/28/2019 | [用户帐户管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 修改内容 |
+
+
+## <a name="week-of-july-01-2019"></a>2019年7月1日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 7/1/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |

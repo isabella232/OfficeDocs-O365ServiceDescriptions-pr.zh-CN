@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一种订阅服务, 提供了您已熟悉的最新版本的 Office 桌面应用程序, 例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: c4f8721264abcd0e7e24a99653fa9dc7ba88f9ab
+ms.sourcegitcommit: 6e85c4e1f5d3ccaa5c1fd32f597ca2a8064417ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931134"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35628575"
 ---
 # <a name="office-applications-service-description"></a>Office Applications 服务说明
 
@@ -71,6 +71,7 @@ Office 应用程序有 32 位和 64 位版本。
 |Excel 电子表格查询  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/>|是<sup>1</sup> <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |组策略支持  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|Office 云策略服务  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |使用 Azure 信息保护的信息权限管理  <br/> |否  <br/> |否  <br/> |否  <br/>|无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |Office 插件、ActiveX 和 BHO 支持  <br/> |是  <br/> |是  <br/> |是<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
