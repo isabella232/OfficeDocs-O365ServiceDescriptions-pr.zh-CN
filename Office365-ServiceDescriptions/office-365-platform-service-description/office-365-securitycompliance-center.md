@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 96b9e2c9528f0ea5052ec73fa4f514f2eb767b21
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 39bea7c658b82dfef7735f56af94c5f3676bb7e9
+ms.sourcegitcommit: 4c97cb3bd8254b0b4b681f16b0396b6db64c9010
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780641"
+ms.lasthandoff: 07/13/2019
+ms.locfileid: "35645137"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -35,7 +35,8 @@ ms.locfileid: "34780641"
 |网络仿冒活动的[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(如客户密码箱和威胁浏览器) <sup>6</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7</sup><br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Microsoft 团队聊天和频道对话的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
+|[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
+|[信息障碍](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[数据治理](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[搜索与调查](https://docs.microsoft.com/office365/securitycompliance/datainvestigations/search-for-data) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -64,7 +65,9 @@ ms.locfileid: "34780641"
 |邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |针对网络钓鱼活动的[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)(如客户密码箱和威胁浏览器)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否  <br/> |可访问  <br/> |
+|[Exchange Online、SharePoint Online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|[信息障碍](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[数据治理](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[搜索与调查](https://docs.microsoft.com/office365/securitycompliance/datainvestigations/search-for-data) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
