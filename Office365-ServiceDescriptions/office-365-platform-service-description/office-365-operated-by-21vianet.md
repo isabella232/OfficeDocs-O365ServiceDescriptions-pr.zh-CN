@@ -3,7 +3,6 @@ title: 由世纪互联运营的 Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131316"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753841"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -358,13 +357,13 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |容量报警  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |混乱邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |邮件提示  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |
-|委派访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|委派访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |收件箱规则  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |已连接帐户  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
 |非活动邮箱  <br/> |无<sup>6</sup> <br/> |--  <br/> |无<sup>6</sup> <br/> |是  <br/> |无<sup>6</sup> <br/> |是  <br/> |否 <sup>6</sup> <br/> |
 |脱机通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通讯簿策略  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|分层通讯簿  <br/> |是  <br/> |--  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|分层通讯簿  <br/> |是  <br/> |--  <br/> |是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |地址列表和全局地址列表  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |
 |Office 365 组  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通讯组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

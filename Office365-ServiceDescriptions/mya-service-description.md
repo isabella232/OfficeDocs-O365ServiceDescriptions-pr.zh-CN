@@ -2,20 +2,19 @@
 title: MyAnalytics 服务说明
 ms.author: sharik
 author: skjerland
-ms.reviewer: v-pascha
-ms.date: 03/14/2019
+ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics--功能、分发、隐私和先决条件
-ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 464938e19185e360990cc9b146b670ccd3e5beca
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246498"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753821"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服务说明
 
@@ -29,19 +28,19 @@ MyAnalytics 以保护员工隐私的方式处理信息。 有关详细信息, �
 
 MyAnalytics 包含以下元素:
 
-* [MyAnalytics 个人仪表盘](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard): 可帮助您反映您的工作习惯, 如您有权关注的时间、会议和电子邮件活动以及您的网络。
-* [outlook 外接程序](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): 在 outlook 中提供了可操作的见解, 可帮助您保持任务的最大并实现更多工作。
-* [电子邮件摘要](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): 提供关于上一周的重要亮点。
-* [MyAnalytics 微移](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): 在阅读或撰写电子邮件或会议邀请时, 会在 Outlook 中显示这些简短的数据和 AI 驱动的通知。
+* [MyAnalytics 仪表板](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): 可帮助您反映您的工作模式, 如您有权关注的时间、会议和电子邮件活动以及您的网络。
+* [Insights Outlook 外接程序](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): 为你提供 Outlook 中可操作的见解, 可帮助你保持任务的最大努力并实现更多工作。
+* [电子邮件摘要](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): 提供了有关每周电子邮件中的工作模式的关键重点。
+* [Outlook 中的内嵌建议: 在](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications)阅读或撰写电子邮件或会议邀请时, 会在 outlook 中显示这些简短的数据和 AI 驱动建议。
 
 ## <a name="myanalytics-distributions"></a>MyAnalytics 分布
 
 对于不同 Microsoft Office 365 计划的用户, MyAnalytics 的元素在不同的级别中可用, 如下表所述:
 
-| 计划 | 可用元素 |
-| --- | --- |
-| Microsoft 365 E3</br>Microsoft 365 商业版</br>Office 365 E3</br>Office 365 E1</br>商业高级版</br>商业协作版 | </br></br></br>[外接程序](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in) |
-| Microsoft 365 E5</br>Office 365 企业版 E5</br>Office 365 A5</br>Office 365 非赢利组织版 E5</br>MyAnalytics 加载项 | </br>[仪表板](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/dashboard)、[加载项](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/add-in)、[电子邮件摘要](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/email-digest)和[MyAnalytics 微移](https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/use/mya-notifications) |
+| 计划 | 服务计划 | 可用元素 |
+| --- | --- | ----- |
+| Microsoft 365 E3</br>Microsoft 365 商业版</br>Office 365 E3</br>Office 365 E1</br>商业高级版</br>商业协作版 |  <br>见解依据 <br>MyAnalytics| </br></br></br>[Insights Outlook 外接](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) <br> (其他 MyAnalytics 元素<br> 将来将提供)|
+| Microsoft 365 E5</br>Office 365 企业版 E5</br>Office 365 A5</br>Office 365 非赢利组织版 E5</br>MyAnalytics 加载项 | MyAnalytics (Full)<br>和<br>  通过 MyAnalytics 的见解 | </br>[仪表板](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2)、[见解 Outlook 加载项](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)、[电子邮件摘要](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)和[内嵌建议](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications) |
 
 有关详细信息, 请参阅[功能的可用性](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
 

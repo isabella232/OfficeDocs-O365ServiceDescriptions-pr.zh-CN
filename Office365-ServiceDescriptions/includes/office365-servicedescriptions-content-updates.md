@@ -3,25 +3,6 @@
 
 
 
-## <a name="week-of-june-03-2019"></a>2019年6月3日一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 6/6/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改内容 |
-| 6/6/2019 | [由世纪互联运营的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改内容 |
-| 6/6/2019 | [Search](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | 修改内容 |
-| 6/6/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |
-| 6/7/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改内容 |
-| 6/7/2019 | [Exchange Online Archiving 中的存档功能](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | 修改内容 |
-| 6/7/2019 | [Exchange Online Archiving 服务说明](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 修改内容 |
-| 6/7/2019 | [Exchange Online Protection 服务说明](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | 修改内容 |
-| 6/7/2019 | [Exchange Online 服务说明](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | 修改内容 |
-| 6/7/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改内容 |
-| 6/7/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |
-| 6/7/2019 | [SharePoint Online 服务说明](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | 修改内容 |
-
-
 ## <a name="week-of-june-10-2019"></a>2019年6月10日一周
 
 
@@ -92,3 +73,13 @@
 | 发布日期 |主题标题 | 更改 |
 |------|------------|--------|
 | 7/1/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
+
+
+## <a name="week-of-july-08-2019"></a>2019年7月1日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 7/11/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
+| 7/12/2019 | [Office 365 工程直接服务说明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 修改内容 |
+| 7/12/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改内容 |
