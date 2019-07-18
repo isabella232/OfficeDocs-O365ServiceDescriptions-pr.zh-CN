@@ -3,7 +3,6 @@ title: 合作伙伴
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 作为授权的 Microsoft 合作伙伴，Microsoft Office 365 为您提供了扩大客户群和与这些客户建立长久业务关系的机会。您收取月费或年费后，您的客户可以使用基于云的服务，这样，他们就不必管理数据备份、服务器硬件和服务器更新。服务是否可用，具体取决于向您授权提供的服务类型。
-ms.openlocfilehash: e2f4cf0d034708f25b187eb1626f058b89ed6dde
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 50a575da327c05d627edf99c2afd3b5812fc4dd7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343201"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777368"
 ---
 # <a name="partners"></a>合作伙伴
 

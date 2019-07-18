@@ -3,7 +3,6 @@ title: Office 365 美国政府版
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求, Microsoft 创建了 Office 365 美国政府版计划 (orOffice 365 美国政府版)。 此部分提供了特定于 Office 365 美国政府版 的功能的概述。 建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 327c35a24a760c9a4dfd5f6f377ea7e9b9a68c6d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131276"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777293"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -168,7 +167,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 | 语音电话系统、音频会议  <br/> |否<sup>2、3</sup> <br/> |否<sup>2、3</sup> <br/> |是<sup>3, 5</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |Project Online  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
-|Visio Online  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
+|适用于 web 的 Visio  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版、G3 和 G5 包括完整的 Skype 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user.
@@ -176,7 +175,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 <br/> <sup>3</sup>尚不可用于 GCC 高或 DoD 计划, 但即将推出。 
 <br/><sup>4</sup> Yammer 企业不是 OFFICE 365 美国政府的一个组件, 但可以免费获得, 作为在 GCC 中为 Office 365 许可的每个用户提供的独立服务。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 中不可用。
 <br/><sup>5</sup>通话套餐是一个附加项。 
-<br/><sup>6</sup>不包括在内, 但可以作为单独的附加项购买。 Visio Online 包括 Visio Online 桌面客户端作为订阅的一部分。  
+<br/><sup>6</sup>不包括在内, 但可以作为单独的附加项购买。 Visio for web 将 Visio 桌面应用程序作为订阅的一部分包括在其中。
 ## <a name="platform-features"></a>平台功能 
 <a name="BM7-Platform"> </a>
 

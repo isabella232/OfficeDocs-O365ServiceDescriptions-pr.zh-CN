@@ -3,7 +3,6 @@ title: 邮件流
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: '对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。但是，某些组织需要进行更复杂的邮件流设置来确保它们遵守特定的法规或业务需要。你可以在这里找到这些选项的信息。 '
-ms.openlocfilehash: d65ba6b96f9cbeffd42d46f40fd126fb9a659690
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342771"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776783"
 ---
 # <a name="mail-flow"></a>邮件流
 

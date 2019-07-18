@@ -3,7 +3,6 @@ title: 'Office 365 服务说明 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: af529770b0c9a28f55f149d498cfeffeb3f4b934
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130906"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777473"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
@@ -65,9 +64,13 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
     
 - [Project Online 服务说明](project-online-service-description/project-online-service-description.md)
     
-- [Visio Online 服务说明](visio-online-service-description/visio-online-service-description.md)
+- [适用于 web 服务说明的 Visio](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
+
+- [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+
+- [Microsoft 365 租户级服务许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
     

@@ -3,7 +3,6 @@ title: Exchange Online 设置和管理
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本节介绍可用于自定义 Exchange Online 设置并使组织的 Exchange Online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
-ms.openlocfilehash: 93eb996df011a83658aa953521a469d7822f9118
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342781"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776483"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
-ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
+ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753841"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777303"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -50,13 +50,13 @@ Microsoft 本身并不运营此服务。世纪互联负责运营、提供和管�
 |Office 365 ProPlus  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Project Online<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Power BI  <br/> |否 <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |否 <br/> |否 <br/> |
-|Visio Online<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于 web 的 Visio<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Yammer Enterprise  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Azure 信息保护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 <sup>1</sup>包括 Office 365 管理、Office 365 套件应用程序、用户帐户管理、域、服务运行状况和连续性、报告、服务更新、帮助和培训、网络等功能。 有关详细信息，请参阅[平台功能](office-365-operated-by-21vianet.md#platform-features)表。
 <br/><sup>2</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 A1 计划中。 
-<br/><sup>3</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>3</sup>可免费获取 web 使用率 (视图功能) 的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息, 请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。 
   
 ## <a name="system-requirements"></a>系统要求
 
@@ -282,7 +282,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>7</sup> Office 365 专业增强版在用户专用的虚拟桌面基础结构 (VDI) 上受支持。 只有当通过批量许可计划购买时，Office 365 ProPlus 才支持远程桌面服务 (RDS)。 
 <br/><sup>8</sup>只能批量激活在启用了 RDS 角色或安装了 Windows To Go 的 Windows Server 2008 R2 及更高版本上安装的 Office 365 企业版 E3和 Office 365 ProPlus。 无论属于上述哪种情况，访问这些安装的用户必须是 Office 365 企业版 E3 或 Office 365 ProPlus 的许可用户。 
 <br/><sup>9</sup>如果使用的是当前频道或延期频道的目标发布，当前可以使用 Access。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅 [Access included as part of Office 365 Business and Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)（Access 包括在 Office 365 商业版和商业高级版中）。
-<br/><sup>10</sup>对于由世纪互联运营的 Office 365，Visio Online 当前处于预览阶段。 有关 Visio Online 的更多信息，请参阅 [Visio 在线服务说明](../visio-online-service-description/visio-online-service-description.md)。 
+<br/><sup>10</sup>个适用于 web 的 Visio 当前处于由世纪互联运营的 Office 365 的预览中。 有关适用于 web 的 Visio 的详细信息, 请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。 
 <br/><sup>11</sup>即将在由世纪互联运营的 Office 365 中推出。 
 <br/><sup>15</sup>个 Google services (包括 "Play 商店") 在中国不可访问。 有几个应用商店由主要电话制造商或搜索引擎公司维护, 用户可从中安装移动应用。
   
@@ -721,7 +721,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[SQL Server Reporting Services (SSRS) 集成的模式](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[时间线切片器](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[使用含有数据模型的 Excel 工作簿并与之进行交互](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Visio Online](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14、15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[适用于 web 的 Visio](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14、15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>14</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**搜索功能** <br/> |**由世纪互联运营的 Office 365 商业协作版** <br/> |**由世纪互联运营的 Office 365 商业版** <br/> |**由世纪互联运营的 Office 365 商业高级版** <br/> |**由世纪互联运营的 Office 365 A1** <br/> |**由世纪互联运营的 Office 365 企业版 E1** <br/> |**由世纪互联运营的 Office 365 企业版 E3** <br/> |**由世纪互联运营的 Office 365 企业级 F1** <br/> |
 |Advanced Content Processing <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -824,7 +824,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup>展台帐户具有有限的 OneDrive for business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB or 5 TB of online storage.
 <br/><sup>12</sup>您可以在任何移动浏览器中查看文档。 You need to install the Office Mobile app to edit documents. Office Mobile is currently available for Windows phones and tablets, Android phones and tablets, iPhone, and iPad. 
 <br/><sup>13</sup>帮助仅适用于简体中文和英语。 
-<br/><sup>14</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md). 
+<br/><sup>14</sup>个适用于 web 使用率 (视图功能) 的 Visio 免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息, 请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。 
 <br/><sup>15</sup> K1 用户可以在混合设置中访问 SharePoint Server, 但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online 功能

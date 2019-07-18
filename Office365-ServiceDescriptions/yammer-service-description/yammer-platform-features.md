@@ -3,7 +3,6 @@ title: Yammer 平台功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Yammer 中提供了以下 Yammer 平台功能。
-ms.openlocfilehash: a13042ef0eac0aa825c0bc428e312d98bc2e0839
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3e5001cfee67b1ec5f22a94f663a81eeb4ff345f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342161"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777903"
 ---
 # <a name="yammer-platform-features"></a>Yammer 平台功能
 

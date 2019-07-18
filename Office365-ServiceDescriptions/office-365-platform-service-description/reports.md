@@ -3,7 +3,6 @@ title: 报告
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft Office 365 的管理员可以查看显示组织如何使用 Office 365 服务的报告。 可以使用这些报告来确定问题、筛选数据并将数据下载到 Microsoft Excel 中。 还可以使用 Office 365 报告 Web 服务创建你自己的报告。 Exchange Online 和 Exchange Online Protection (EOP) 管理员可以使用 Office 365 中的邮件保护报告来查看关于恶意软件、垃圾邮件和规则检测的数据。
-ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4d0592c9e232d4bdb5fd86904a8ca0d8c3ef7a74
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343161"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777353"
 ---
 # <a name="reports"></a>报表
 

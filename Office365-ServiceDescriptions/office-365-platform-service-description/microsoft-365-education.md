@@ -2,7 +2,6 @@
 title: Microsoft 365 教育版
 ms.author: sharik
 author: skjerland
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 266bac1f2fb4fb7d76ee41a640b2ddde93a11af6
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 09d91efc728184db881d328ce0e3d2c69159b348
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131106"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776993"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 

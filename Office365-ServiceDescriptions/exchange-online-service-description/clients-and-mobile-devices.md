@@ -3,7 +3,6 @@ title: 客户端和移动设备
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d0ed7a4c56c5f58a643d609f29bef284904bee47
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342721"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776683"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -36,7 +35,7 @@ Microsoft Outlook 是一个电子邮件程序, 其中包括对日历、联系人
 若要了解 Exchange 2016 和 Exchange Online 支持的 Outlook 客户端，请参阅 [Exchange 2016 系统要求](https://go.microsoft.com/fwlink/?LinkID=828972)中的"支持的客户端"。
   
 > [!IMPORTANT]
->  Outlook 不作为 Exchange Online 订阅价格一部分提供。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 如果您使用 POP 连接到 Exchange Online 电子邮件帐户, 您将看到以下限制: > 无日历信息 > 无忙/闲信息 > 无全局地址列表 > 无 "推送电子邮件 >" 连接到 POP 时, 所有邮件都将被 downloaded 到客户端, 并且在多台计算机或设备 (如膝上型电脑和手机之间) 之间不会进行任何同步。 
+>  Outlook 不作为 Exchange Online 订阅价格一部分提供。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 如果您使用 POP 连接到 Exchange Online 电子邮件帐户, 您将看到以下限制: > 无日历信息 > 没有忙/闲信息 > 无全局地址列表 > 在通过 POP 连接时不 > 推送电子邮件当通过 POP 连接时, 将下载所有邮件 to 客户端, 多台计算机或设备之间没有任何同步 (例如, 在膝上型电脑和电话之间)。 
   
 ## <a name="outlook-on-the-web"></a>Outlook 网页版
 

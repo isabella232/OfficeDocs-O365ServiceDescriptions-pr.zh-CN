@@ -3,19 +3,18 @@ title: Office 365 工程直接服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 工程直销是一种企业级支持服务, 可为 Microsoft Premier 支持协议添加。 Office 365 工程直接服务说明包含有关提供的功能和实现要求的其他信息。
-ms.openlocfilehash: 68ba0a963cdf4bd28417ca3332175beeb65e5df6
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eb890bdd2ab0fa5b01702828b0eb9a02eb7c8a91
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341851"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776453"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 工程直接服务说明
 
@@ -26,4 +25,4 @@ Office 365 工程直销是一种企业级支持服务, 可为 Microsoft Premier 
 如果您是大型企业客户 (a) 从旧版 Office 365 专用产品迁移到最新的多租户服务结构, 或者 (b) 已作为多租户增强型客户载入, 则 Office 365 工程直销将提供给您的组织作为过渡支持计划, 称为 "增强支持服务"。 转换服务免费提供给您的现有 Office 365 订阅服务协议的平衡。 在订阅服务续订时, Office 365 工程直销将作为补充成本的可选支持服务提供。 如果购买, 将执行添加的服务套件的单独合同补充, 并将其追加到现有的 "Premier 支持协议"。
 
 > [!NOTE]
-> 目前, 对于旧版 ITAR-支持客户或与 Office 的政府社区云 (GCC) 或 GCC 高级订阅产品相关的客户来说, Office 365 工程直销和过渡增强支持服务计划不可用。365。
+> 目前, Office 365 工程直销和过渡增强支持服务计划不适用于旧版 ITAR-支持客户或与 Office 的政府社区云高 (GCC High) 订阅产品关联的客户365。

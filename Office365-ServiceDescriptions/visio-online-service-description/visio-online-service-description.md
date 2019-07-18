@@ -1,38 +1,37 @@
 ---
-title: Visio Online 服务说明
+title: 适用于 web 服务说明的 Visio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: 通过 Visio Online, 您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
-ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: 对于 web Visio, 您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio for web 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
+ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342381"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777723"
 ---
-# <a name="visio-online-service-description"></a>Visio Online 服务说明
+# <a name="visio-for-the-web-service-description"></a>适用于 web 服务说明的 Visio
 
-通过 Visio Online, 您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio Online 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
+对于 web Visio, 您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始, 以表达常见想法, 如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和丰富的形状集创建第一类图表是简单且轻松的。 Visio for web 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
   
-有关详细信息并开始入门, 请参阅[Visio Online](https://products.office.com/en-US/visio/visio-online)。
+有关详细信息和入门, 请参阅适用于[web 的 Visio](https://products.office.com/en-US/visio/visio-online)。
   
-若要获取有关使用 Visio Online 的帮助, 请参阅[Visio online 帮助](https://go.microsoft.com/fwlink/?linkid=855982)。
+若要获取有关对 web 使用 Visio 的帮助, 请参阅[Visio 帮助中心](https://support.office.com/visio)。
   
 ## <a name="feature-availability-and-comparison"></a>功能可用性和比较
 
-下表将 Visio Online 功能功能与功能丰富的 Visio 桌面应用程序进行比较。 使用表发现 Visio Online 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 您可能会发现组织中的某些人需要 Visio 桌面应用程序的高级功能, 而其他人只需要使用 Visio Online 查看和轻轻松地编辑 Visio 图表。 
+下表将针对 web 功能功能的 Visio 与功能丰富的 Visio 桌面应用程序进行比较。 使用表发现 Visio for web 中可用的功能, 然后单击功能名称以阅读有关该功能的工作原理的简短说明。 您可能会发现组织中的某些人需要 Visio 桌面应用程序的高级功能, 而其他人只需要查看和使用适用于 web 的 Visio 编辑 Visio 图表。 
   
 ||||
 |:-----|:-----|:-----|
-|**应用程序功能** <br/> |**Visio Online** <br/> |**Visio 桌面应用** <br/> |
+|**应用程序功能** <br/> |**适用于 web 的 Visio** <br/> |**Visio 桌面应用** <br/> |
 |[富格式应用于文本和形状](visio-online.md#BM_1) <br/> |是  <br/> |是  <br/> |
 |[排列对象](visio-online.md#BM_2) <br/> |是  <br/> |是  <br/> |
 |[构建混合应用程序解决方案](visio-online.md#BM_3) <br/> |是  <br/> |是  <br/> |
@@ -61,12 +60,12 @@ ms.locfileid: "34342381"
    
 > <sup>1</sup> 跟踪超链接（无法插入或进行编辑）。 
 <br/><sup>2</sup> 通过 SharePoint 或 OneDrive for Business 共享，并与没有 SharePoint 或 OneDrive 的用户共享。 
-<br/> <sup>3</sup>在 Visio Online 编辑器中不可用。
-<br/><sup>4</sup>在 Visio Online Viewer 中不可用。 
-<br/><sup>5</sup>在 Visio Online 编辑器中不可用, 但您可以切换到查看模式并查看注释。 
-<br/><sup>6</sup>在 Visio Online 编辑器中可用。 
+<br/> <sup>3</sup>在 Visio 中对 web 编辑器不可用。
+<br/><sup>4</sup>在 Visio For web Viewer 中不可用。 
+<br/><sup>5</sup>在 Visio For web 编辑器中不可用, 但您可以切换到查看模式并查看注释。 
+<br/><sup>6</sup>适用于适用于 web 编辑器的 Visio。 
   
-## <a name="supported-file-types-in-visio-online"></a>Visio Online 中支持的文件类型
+## <a name="supported-file-types-in-visio-for-the-web"></a>Visio 中用于 web 的受支持的文件类型
 
 ||||
 |:-----|:-----|:-----|

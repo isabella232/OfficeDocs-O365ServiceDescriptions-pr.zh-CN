@@ -3,7 +3,6 @@ title: PowerPoint for web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web (以前称为 PowerPoint Web App) 将您的 Microsoft PowerPoint 体验扩展到 web 浏览器, 您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft Office 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: 68a0fd93508885d9d541b163ddfdf5b16098de05
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: b5a73e3c5fb1d064d37117cb6661d8bf7d004c2e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130877"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777533"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint for web
 

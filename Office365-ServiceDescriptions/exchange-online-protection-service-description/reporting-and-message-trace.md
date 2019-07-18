@@ -3,7 +3,6 @@ title: 报告和邮件跟踪
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) 提供许多不同的报告，可帮助您确定组织的总体状态和运行状况。 Microsoft 365 管理中心提供了一些报告, 而其他报告在 Exchange 管理中心 (EAC) 中可用。
-ms.openlocfilehash: 5b836794a430bff7d28814c917e9cfbd14304a2f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ec06c0dea22fc45f2cee507e9022b9babbd809e3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341921"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776643"
 ---
 # <a name="reporting-and-message-trace"></a>报告和邮件跟踪
 

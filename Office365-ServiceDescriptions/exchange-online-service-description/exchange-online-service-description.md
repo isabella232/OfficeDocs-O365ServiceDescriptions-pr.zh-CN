@@ -3,7 +3,6 @@ title: Exchange Online 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否在寻找包括 Exchange Online 在内的 Office 365 订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: bff7473068f2ce3919d0dd0771067c1b13a3b2f3
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780631"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776593"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外, SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。 有关快速概述, 请参阅什么是 SharePoint？
-ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131006"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777853"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -177,7 +177,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[快速浏览](insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[SQL Server Reporting Services (SSRS) 集成的模式](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[时间线切片器](insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx)<sup>17</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[适用于 web 的 Visio](https://technet.microsoft.com/library/mt827475.aspx)<sup>17</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |[Visio Services](insights.md#visio-services)<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**搜索功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[连续爬网](search.md#continuous-crawls) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -252,7 +252,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 <sup>14</sup> 不支持 Access 2010。 <br/> 
 <sup>15</sup>对于 web Office, F1 用户应该有权访问用于创建内容的 web (live 磁贴) 的 office。 但是，他们对于核心商业移动应用相关的访问受到限制。 具体包括：Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint 和 Groups。 **不**包括以下内容: Outlook、Word、Excel、PowerPoint 和 OneNote。<br/> 
 <sup>16</sup>只能在 Infopath 富客户端中使用包含用户代码 (沙盒) 的 InfoPath 表单。 <br/>
-<sup>17</sup> Visio Online 使用率 (视图功能) 免费提供。 Visio Online create and edit capabilities require a license. For more information about Visio Online, see the [Visio Online Service Description](../visio-online-service-description/visio-online-service-description.md).  <br/>
+<sup>17</sup>适用于 web 使用率的 Visio (视图功能) 免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息, 请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。  <br/>
 <sup>18</sup> F1 用户可以在混合设置中访问 SharePoint Server, 但 Office 365 F1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 <br/>
 <sup>19</sup>在 Office 365 企业版 E5 中提供了 "客户密钥"。 通过 "客户密钥", 您可以控制组织的加密密钥, 然后将 Office 365 配置为使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据, 这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务, 因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>20</sup>即将推出。 
