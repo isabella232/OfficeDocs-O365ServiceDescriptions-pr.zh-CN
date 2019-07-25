@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Office 365 支持选项。
-ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233509"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854900"
 ---
 # <a name="support"></a>支持
 
@@ -185,7 +185,7 @@ People with Office 365 administrator roles are the only ones in the customer's o
 开发人员可在 [MSDN Microsoft 开发人员网络](https://developer.microsoft.com/office/docs)了解有关开发 Office 365 Office 和 SharePoint 应用程序的更多信息。可通过高级支持或合作伙伴支持资源，或者直接通过 Microsoft 从开发人员社区的在线博客和论坛获取开发人员支持。有关开发人员支持选项的链接，请参阅[支持资源](https://developer.microsoft.com/office/docs)。
   
 > [!NOTE]
-> Office 365 团队不支持脚本。如果您需要脚本方面的帮助，请联系 [Microsoft 支持](https://support.microsoft.com/)。
+> Office 365 团队不支持脚本 (例如, JavaScript、VBScript 等脚本技术, 也不支持 VBA)。 如果您需要脚本方面的帮助，请联系 [Microsoft 支持](https://support.microsoft.com/)。 有关 Office 应用程序使用情况支持, 请参阅[office 365 订阅者的 Microsoft Office 应用程序问题支持选项](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
   
 ### <a name="volume-licensing"></a>批量许可
 

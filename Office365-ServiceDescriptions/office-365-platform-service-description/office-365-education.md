@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异, 本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
-ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777013"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854880"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -157,7 +157,7 @@ ms.locfileid: "35777013"
 |高级安全管理  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |客户锁箱  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|Office 365 高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[合规性 [ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
@@ -186,7 +186,7 @@ ms.locfileid: "35777013"
 <sup>5</sup>适用于[https://securescore.office.com](https://securescore.office.com/) (链接需要管理员权限)。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/> 
 <sup>6</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 <br/> 
 <sup>7</sup>美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br>
-<sup>8</sup>有关每个计划中包含的 Microsoft Stream 功能的信息, 请参阅[Stream 授权概述](https://stream.microsoft.com/documentation/stream-license-overview/)。 
+<sup>8</sup>有关每个计划中包含的 Microsoft Stream 功能的信息, 请参阅[Stream 授权概述](https://stream.microsoft.com/documentation/stream-license-overview/)。 <br/>
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 安全&amp;合规中心功能
 <a name="SCC"> </a>
@@ -201,26 +201,30 @@ ms.locfileid: "35777013"
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级安全管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|针对网络钓鱼活动的[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)(如客户密码箱和威胁浏览器) <sup>5</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), 如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512), 如仿冒活动的威胁资源管理器<sup>5</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |否  <br/> |否  <br/> |可访问  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据治理](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[搜索和调查]<br/> |是  <br/> |是  <br/> |是  <br/> |
-|[电子数据展示搜索](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4)<sup>4</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|电子数据展示保留 (包括基于查询的电子数据展示保留)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[存档](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|手动保留/删除策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[内容搜索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |是  <br/> |是  <br/> |是  <br/> |
+|[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[电子数据展示保留 (包括基于查询的电子数据展示保留)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[手动保留/删除策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|||||
    
 > [!NOTE]
 > <sup>1</sup>数据管理使用户能够创建、发布和手动将标签应用于文档;使用驱动器传送或网络导入数据;并在工作负载、用户和组之间创建并应用保留/删除策略。 应用于邮箱的保留策略需要 Office 365 企业版 E3 或 E5。 <br/> 
 <sup>2</sup>高级数据管理允许您保留重要信息, 并根据保留或删除策略或这两者来分类信息, 从而删除不重要的信息。 它包括智能/自动化操作, 如推荐策略;将标签自动应用于数据;基于敏感数据类型或查询应用标签;智能导入筛选器的使用。 它还包括用于出于安全和合规目的检查员工通信的监督功能。 <br/> 
 <sup>3</sup>无限制。 <br/> 
 <sup>4</sup>美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br/> 
-<sup>5</sup>高级威胁防护在 Office 365 A5 中可用, 作为 Office 365 A1 和 Office 365 A3 的独立服务。 
+<sup>5</sup>高级威胁防护在 Office 365 A5 中可用, 作为 Office 365 A1 和 Office 365 A3 的独立服务。<br/>
+<sup>6</sup>您还可以使用[Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 <br/>
   
 ## <a name="office-application-features"></a>Office 应用程序功能
 <a name="SCC"> </a>
@@ -618,9 +622,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |主题长度限制  <br/> |255 个字符  <br/> |255 个字符  <br/> |255 个字符  <br/> |
 |文件附件限制  <br/> |250 个附件  <br/> |250 个附件  <br/> |250 个附件  <br/> |
-|文件附件大小限制 - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|文件附件大小限制 - Outlook  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |文件附件大小限制 - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|文件附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|文件附件大小限制 - Outlook for Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |多部分邮件限制  <br/> |250 个部分  <br/> |250 个部分  <br/> |250 个部分  <br/> |
 |邮件嵌入深度限制  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |
    
