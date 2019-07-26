@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
-ms.openlocfilehash: 10f1688d7630f945e7d648078a24cc1412da41de
-ms.sourcegitcommit: dab03604af87399ad70323ede34dc8abe28c63d8
+ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35394902"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908729"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -36,7 +36,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |
-|Office 应用程序  <br/> |是  <br/> |是  <br/> |
+|[Office 应用程序](../office-applications-service-description/office-applications-service-description.md)  <br/> |是  <br/> |是  <br/> |
 |Project Online  <br/> |无<sup>3</sup> <br/> |无<sup>3</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |是  <br/> |

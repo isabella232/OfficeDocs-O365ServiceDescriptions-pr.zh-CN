@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南, 以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411457"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908719"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -191,7 +191,7 @@ ADG 允许用户将标签应用于特定数据, 以对特定的策略进行对�
 
 ## <a name="office-365-advanced-ediscovery"></a>Office 365 高级电子数据展示
 
-高级电子数据展示为 IT 和公司内部的法律部门提供调查和电子数据展示解决方案, 以在出口 Office 365 之前识别、收集、保留、减少和检查与调查或诉讼相关的内容系统.
+Office 365 高级电子数据展示为 IT 和公司内部的法律部门提供调查和电子数据展示解决方案, 以确定、收集、保留、减少和查看与调查或诉讼相关的内容, 然后再导出Office 365 系统。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
@@ -199,7 +199,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-在诉讼或调查过程中, 如果用户将其内容置于保留状态, 则他们将受益于高级电子数据展示。
+当用户选择作为数据管理员 (具有文档或电子文件的管理控制) 时, 用户将从高级电子数据展示中受益。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -207,7 +207,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-组织可以基于每个用户来管理高级电子数据展示, 并向高级电子数据展示案例中添加用户, 并通过电子数据展示权限为用户提供对共享位置的编辑访问权限。 有关如何向许可用户应用高级电子数据展示权限的说明, 请参阅[在安全 & 合规性中心中分配电子数据展示权限](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)。
+通过使用高级电子数据展示中的内置保管人管理工具, 电子数据展示管理员可以选择特定用户作为事例的数据保管人, 如[将保管人添加到高级电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)中所述。
 
 ## <a name="office-365-customer-key"></a>Office 365 客户密钥
 
@@ -255,7 +255,7 @@ Microsoft 不会承诺向未获得许可的用户提供客户密码箱访问控�
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 中的特权访问管理
 
-特权访问管理 (PAM) 提供对 Office 365 中的特权管理任务的精细访问控制。 启用特权访问管理后, 用户将需要通过高度范围和时间限制的审批工作流请求实时访问, 以完成提升和特权的任务。
+特权访问管理 (PAM) 提供对 Office 365 中的特权管理任务的精细访问控制。 启用 PAM 后, 用户将需要通过高度范围和时间限制的审批工作流请求实时访问, 以完成提升和特权的任务。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
@@ -293,21 +293,21 @@ Office 365 E3、Microsoft 365 E3 和 Office 365 数据丢失防护的许可用�
 
 管理员可以在 "Office 365 安全 & 合规中心" 中的 "**数据丢失防护** > **位置**" 下自定义位置 (工作负荷)、包含的用户和排除的用户。
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>工作组聊天和频道对话的数据丢失防护
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>工作组聊天和频道消息的数据丢失防护
 
-使用数据丢失防护 (DLP) 进行团队聊天和频道对话, 组织可以阻止包含敏感信息 (如财务信息、个人标识信息) 的聊天和频道对话中的邮件。与运行状况相关的信息或其他机密信息。
+使用数据丢失防护 (DLP) 获取团队聊天和频道消息时, 组织可以阻止包含敏感信息的聊天和频道消息, 如财务信息、个人标识信息、与运行状况相关的信息, 或其他机密信息。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可受益于 DLP for 团队聊天和频道对话。
+Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可受益于 DLP for 团队聊天和频道消息。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-通过在组织的 DLP 策略中配置的有关敏感信息的传出聊天和频道对话邮件中检查敏感信息, 使发件人受益匪浅。
+通过在组织的 DLP 策略中配置的敏感信息检查其传出聊天和频道消息中的敏感信息, 发件人会获得好处。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下, 团队聊天和频道对话是租户中所有用户的为这些 DLP 功能*启用的位置 (工作负荷)* 。 有关使用 DLP 策略的详细信息, 请参阅[数据丢失防护概述](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
+默认情况下, 团队聊天和频道消息是租户中所有用户的这些 DLP 功能的*已启用位置 (工作负荷)* 。 有关使用 DLP 策略的详细信息, 请参阅[数据丢失防护概述](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
@@ -359,3 +359,23 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 管理员应将邮件流规则仅应用于已授权用户的高级邮件加密。 有关定义邮件流规则的详细信息, 请参阅[在 Office 365 中定义用于加密电子邮件的邮件流规则](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
+
+## <a name="supervision-policies"></a>监督策略
+
+Office 365 中的监督策略使您可以捕获指定审阅者进行检查的员工通信。 您可以定义用于捕获组织中的内部和外部电子邮件、Microsoft 团队或第三方通信的特定策略。 然后, 审阅者可以检查这些邮件, 以确保它们符合组织的邮件标准, 并使用分类类型解决这些问题。
+
+### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
+
+Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从监督策略中受益。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+用户通过监督策略监视其通信, 从而从服务中获益。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+管理员在安全 & 合规中心中创建监督策略。 这些策略定义哪些通信和用户将在组织中进行审阅, 定义通信必须满足的自定义条件, 并指定应执行审阅的用户。
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+管理员选择要包含在监督策略中的特定用户或组。 在选择组时, 他们还可以选择组中要从监督策略中排除的特定用户。 有关监督策略的详细信息, 请参阅[Office 365 中的监察策略](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)。

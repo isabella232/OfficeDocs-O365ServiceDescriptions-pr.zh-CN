@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777303"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908809"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -255,7 +255,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Excel 电子表格查询  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是<sup>1</sup> <br/> |是  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |组策略支持  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|使用 Azure 信息保护的信息权限管理 (IRM)<sup>11</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|使用 Azure 信息保护的信息权限管理 (IRM)<sup>11</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |使用 Windows Server AD RMS 的信息权限管理 (IRM) <sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 插件、ActiveX 和 BHO 支持  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
