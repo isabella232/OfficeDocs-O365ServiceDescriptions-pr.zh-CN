@@ -3,7 +3,6 @@ title: Microsoft Dynamics 365（在线版）服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 自2016年12月12日的 Dynamics 365 (联机和本地) 更新后, Dynamics CRM 功能现在作为 Dynamics 365 (一系列智能业务应用程序) 的一部分包括在内。 Dynamic 365 提供新的应用程序，统一了客户关系管理 (CRM) 和企业资源计划 (ERP) 功能，以帮助管理特定的业务功能。
-ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8455300ea65eebb842c8e6fd21d1a2c5a73f4465
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342961"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928479"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365（在线版）服务说明
 
@@ -48,7 +47,7 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
   
 ## <a name="application-availability-across-dynamics-365-plans"></a>跨 Dynamics 365 计划的应用程序可用性
 
-下表列出了所有 Dynamics 365 应用程序及其在企业和企业版计划中的可用性。 有关定价、许可、用户权限等的具体信息, 请参阅以下下载: [Dynamics 365 许可指南](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。
+下表列出了所有 Dynamics 365 应用程序及其在企业和企业版计划中的可用性。 有关定价、许可、用户权限等的具体信息, 请参阅以下下载: [Dynamics 365 许可指南](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)。
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -68,7 +67,7 @@ Dynamics 365 有两个版本: 企业版和企业版。 在这两个版本中, �
   
 ## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>对 Sales、Customer Service、Field Service 和 Project Service Automation 的 Dynamics 365 的订阅许可证比较
 
-下面提供了与五个用户服务级别相关联的使用权限的高级别摘要。 有关详细的比较, 请参阅下载: [Dynamics 365 许可指南](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)中的**附录 B** 。
+下面提供了与五个用户服务级别相关联的使用权限的高级别摘要。 有关详细的比较, 请参阅下载: [Dynamics 365 许可指南](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)中的**附录 B** 。
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|

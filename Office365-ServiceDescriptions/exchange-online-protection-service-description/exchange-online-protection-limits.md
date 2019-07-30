@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776703"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928401"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -38,7 +38,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
     
 - **邮件延期限制** 延期的邮件将在我们的队列中保留 2 天。重试发送邮件的依据为从收件人的邮件系统收到的错误类型。邮件每 15 分钟重试一次。 
     
-- **垃圾邮件隔离保留期限** 默认情况下，发送到隔离服务器的垃圾邮件保留 15 天。管理员可通过内容筛选器策略降低此值。 
+- **垃圾邮件隔离保留期**默认情况下, 发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
     
 - **最终用户的垃圾邮件隔离通知** 默认情况下，如果启用，最终用户垃圾邮件隔离通知将每 3 天发送一次。它们可以配置为每 1 至 15 天发送一次。 
     
@@ -55,7 +55,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
 |阻止的发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
 |IP 允许列表或 IP 阻止列表限制  <br/> |1273 个条目  <br/> |1273 个条目  <br/> |1273 个条目  <br/> |
 |邮件延迟限制  <br/> |2 天，每 15 分钟重试一次  <br/> |2 天，每 15 分钟重试一次  <br/> |2 天，每 15 分钟重试一次  <br/> |
-|垃圾邮件隔离的保留期  <br/> |默认为 15 天，但可以缩短  <br/> |默认为 15 天，但可以缩短  <br/> |默认为 15 天，但可以缩短  <br/> |
+|垃圾邮件隔离的保留期  <br/> |30天 (默认为30天), 但可以降低  <br/> |30天 (默认为30天), 但可以降低  <br/> |30天 (默认为30天), 但可以降低  <br/> |
 |最终用户垃圾邮件隔离通知  <br/> |默认为 3 天，可配置为 1 到 15 天  <br/> |默认为 3 天，可配置为 1 到 15 天  <br/> |默认为 3 天，可配置为 1 到 15 天  <br/> |
    
 

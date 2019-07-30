@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776743"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928893"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -240,7 +240,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 - **邮件大小限制**: 需要邮件大小限制, 以防止较大的邮件阻止传递其他邮件, 并影响所有用户的服务性能。 这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。 将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。 尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。 若要了解详细信息，请参阅 [Office 365 现在支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
 
     > [!NOTE]
-    > 特别电子邮件客户端可能具有更小的邮件大小限制，或者可能限制单个文件附件的大小为小于 Exchange Online 邮件大小限制的值。
+    > 某些电子邮件客户端的邮件大小限制可能较低, 或者可能将单个文件附件的大小限制为小于 Exchange Online 邮件大小限制的值。
 
 - **邮件头大小限制**: 指定邮件中所有邮件头字段的最大大小。 当前限制为 256 KB。 如果所有邮件头的总大小超过 256 KB，则 Exchange Online 将会拒绝邮件，并显示错误消息“552 5.3.4 邮件头大小超过固定的最大大小”。 不考虑邮件正文或附件的大小。 因为邮件头字段是纯文本，所以邮件头的大小由每个邮件头的字符数和邮件头字段的总数确定。 每个文本字符占用 1 字节。
 
@@ -333,7 +333,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     > [!NOTE]
     > 出于收件人速率限制和收件人限制的目的，组织共享通讯簿中存储的通讯组作为一个收件人计数。在个人通讯列表中，每个收件人单独计数。
 
-- **邮件速率限制**: 邮件速率限制确定用户可以从其 Exchange Online 帐户在指定时间段内发送的邮件数。 此限制有助于防止单个发件人过多消耗系统资源。 如果用户提交邮件的速度超过了通过 SMTP 客户端提交邮件的限制，邮件将被拒绝，并且客户端将需要重试。
+- **收件人代理地址限制**: 收件人代理地址限制是收件人邮箱可以拥有的最大别名数 (电子邮件地址)。 
+
+- **邮件速率限制**: 邮件速率限制确定用户可以从其 Exchange Online 帐户在指定时间段内发送的邮件数。 此限制有助于单个发件人避免对系统资源进行过度消耗。 如果用户提交邮件的速度超过了通过 SMTP 客户端提交邮件的限制，邮件将被拒绝，并且客户端将需要重试。
 
 #### <a name="sending-limits-across-office-365-options"></a>跨 Office 365 选项的发送限制
 
@@ -353,17 +355,16 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |收件人速率限制|无限制<sup>1</sup>|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|
 |收件人限制|500 个收件人<sup>1</sup>|500 个收件人|500 个收件人|500 个收件人|
 |收件人代理服务器地址限制|400|400|400|400|
+|邮件速率限制|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|
 
 > [!NOTE]
 > <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。管理员可以为其组织更改此值。
 
 ## <a name="reporting-and-message-trace-limits"></a>报告和邮件跟踪限制
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 有关报告和邮件跟踪限制，请参阅 [Exchange Online Protection 中的报告和邮件跟踪](http://go.microsoft.com/fwlink/p/?LinkId=394248)中的"报告和邮件跟踪数据可用性和延迟"部分。
 
 ## <a name="retention-limits"></a>保留限制
-<a name="RetentionLimits"> </a>
 
 这些限制控制可以访问收件箱中特定文件夹中的项目的时间长度。
 
@@ -468,7 +469,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |所有传输规则中使用的所有正则表达式的字符限制|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |附件内容的扫描限制|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |所有传输规则添加到邮件的收件人的最大数目|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 位收件人|
-|转发邮件的收件人限制|10 个收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|
+|转发邮件的收件人限制|10 个收件人|10 个收件人|10 个收件人|10 个收件人|10 个收件人|10 个收件人|
 |重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |传输规则重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 
@@ -487,7 +488,6 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |传输规则重定向邮件的次数|无限制|1 次重定向|1 次重定向|1 次重定向|
 
 ## <a name="moderation-limits"></a>审阅限制
-<a name="ModerationLimits"> </a>
 
 这些限制将控制用于适用于通讯组和传输规则的邮件审批的审阅设置。
 
@@ -525,15 +525,12 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 > <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。管理员可以为其组织更改此值。
 
 ## <a name="exchange-activesync-limits"></a>Exchange ActiveSync 限制
-<a name="BKMK_ExchangeActiveSync_Limits"> </a>
 
 以下限制适用于 Microsoft Exchange ActiveSync，一个在移动设备和 Exchange 之间同步邮箱数据的客户端协议。
 
 - **Exchange activesync 设备限制**: 每个邮箱的 exchange activesync 设备的最大数量。
 
 - **Exchange activesync 设备删除限制**: exchange 管理员可在单个月中删除的 exchange activesync 设备的最大数量。
-
-- **Exchange activesync 文件附件限制**: exchange activesync 设备可以发送或接收的邮件文件附件的最大大小。
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>Office 365 选项中的 Exchange ActiveSync 限制
 
@@ -542,7 +539,6 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |Exchange ActiveSync 设备限制|100|100|100|100|100|100|
 |Exchange ActiveSync 设备删除限制|20|20|20|20|20|20|
-|Exchange ActiveSync 文件附件限制|25 MB|25 MB |25 MB |25 MB |25 MB |25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>独立选项中的 Exchange ActiveSync 限制
 
@@ -551,4 +547,3 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |Exchange ActiveSync 设备限制|100|100|100|100|
 |Exchange ActiveSync 设备删除限制|20|20|20|20|
-|Exchange ActiveSync 文件附件限制|25 MB|25 MB |25 MB |25 MB|

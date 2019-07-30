@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 Arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233519"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928411"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -76,15 +76,17 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
     
 4. 特定人员
     
-在 GCC 高或 DoD 环境中使用 SharePoint Online 和 OneDrive for business 的客户可以让文档保持专用 (第一个选项), 与组织中的任何人共享 (第二个选项), 与任何有该文档链接的人共享 (第三个选项), 以及仅与 GCC 高和 DoD 环境中的特定人员共享 (第四个选项);当然, 也可以基于租户级别的访问控制来限制这些选项。
+在 GCC 高或 DoD 环境中使用 SharePoint Online 和 OneDrive for business 的客户可以让文档保持专用 (第一个选项), 与组织中的任何人共享 (第二个选项), 与任何有该文档链接的人共享 (第三个选项), 以及与特定人员共享 (第四个选项)。 这些选项也可以基于租户级别的访问控制进行限制。
+
+当与特定人员共享时, SharePoint 将验证用户是否为链接的预期收件人, 方法是向其发送一次性密码到共享的电子邮件地址。 但是, 当与另一个 GCC-高租户共享 GCC 高租户时, 将在 Azure AD 中为该收件人创建来宾帐户, 并且他们将使用用户名和密码登录。
   
-GCC 高租户仅可与其他 GCC 高租户共享。 例如：
+其他示例:
   
-- GCC High 租户 A 可以与 GCC 高租户 B 共享。
+- GCC High 租户 A 可以与 GCC 高租户 B 共享, 而 B 用户使用 Azure AD 用户名和密码登录。
     
-- 非 GCC 租户 C 可以与 GCC 高租户 A 或 B 共享。
+- 非 GCC 租户 C 可以与 GCC 高租户 A 或 B 共享, A 或 B 用户使用一次性密码进行登录。
     
-- GCC High 租户 A 或 B 无法与非 GCC 高租户 C 共享。
+- GCC High 租户 A 或 B 可以与非 GCC 高租户 C 共享, 而 C 用户则使用一次性密码登录。
     
 此外, 不支持附加到用户配置文件的非 GCC 高电子邮件地址, 也不允许发送警报电子邮件。 例如, 在本地用户 A 分配了 Gmail 电子邮件地址, 然后同步到 Azure GCC High 租户。 用户 A 导航到库并为任何更改创建警报。 将不会向 Gmail 地址发送通知。
   
@@ -92,7 +94,7 @@ GCC 高租户仅可与其他 GCC 高租户共享。 例如：
   
  **Business Connectivity Services** -BCS 功能受支持的连接方案, 其中数据源在云服务的安全边界内仍可访问。 
   
- **沙盒解决方案**-此功能已被弃用, 不可用。 任何沙盒解决方案都应迁移至 [SharePoint 外接程序扩展模型]( https://msdn.microsoft.com/library/office/fp179930.aspx)。
+ **沙盒解决方案**-此功能已被弃用, 不可用。 应将任何沙盒解决方案迁移到[SharePoint 加载项扩展性模型]( https://msdn.microsoft.com/library/office/fp179930.aspx)。
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
