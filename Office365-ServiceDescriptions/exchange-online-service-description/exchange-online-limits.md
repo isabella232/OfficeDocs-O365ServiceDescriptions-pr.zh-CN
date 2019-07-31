@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928893"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940530"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -266,6 +266,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件大小限制 - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|
 |邮件大小限制 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |邮件大小限制 - 迁移|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
+|邮件大小限制-Outlook for iOS 和 Outlook for Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup>|150 MB |150 MB|150 MB|150 MB|150 MB|150 MB|
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |主题长度限制|255 个字符|255 个字符|255 个字符|255 个字符|255 个字符|255 个字符|
@@ -273,6 +274,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |文件附件大小限制 - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
 |文件附件大小限制 - OWA<sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
 |文件附件大小限制 - Outlook for Mac|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|文件附件大小限制-Outlook for iOS 和 Outlook for Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |多部分邮件限制|250 个部分|250 个部分|250 个部分|250 个部分|250 个部分|250 个部分|
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
 
@@ -289,6 +291,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件大小限制 - OWA|10 MB<sup>4</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|150 MB<sup>1、2</sup>|
 |邮件大小限制 - Outlook for Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |邮件大小限制 - 迁移|不适用|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
+|邮件大小限制-Outlook for iOS 和 Outlook for Android |25 MB |33 MB |33 MB |33 MB |
 |加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |主题长度限制|255 个字符|255 个字符|255 个字符|255 个字符|
@@ -296,6 +299,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |文件附件大小限制 - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
 |文件附件大小限制 - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
 |文件附件大小限制 - Outlook for Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
+|文件附件大小限制-Outlook for iOS 和 Outlook for Android|25 MB |33 MB|33 MB|33 MB|
 |多部分邮件限制|250 个部分|250 个部分|250 个部分|250 个部分|
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
 
@@ -381,7 +385,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |“已删除邮件”文件夹保留期|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|
 |从“已删除邮件”文件夹中删除的邮件的保留期|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|
-|"垃圾邮件"文件夹保留期|30 天|30 天|30 天|30 天|30 天|30 天|
+|“垃圾邮件”文件夹保留期|30 天|30 天|30 天|30 天|30 天|30 天|
 
 > [!NOTE]
 > <sup>1</sup> 这是 Office 365 组织的默认值。 管理员可以将其组织中的邮箱的此值更改为最大 30 天。
@@ -468,7 +472,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |单个传输规则的最大大小|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |所有传输规则中使用的所有正则表达式的字符限制|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |附件内容的扫描限制|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
-|所有传输规则添加到邮件的收件人的最大数目|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 位收件人|
+|所有传输规则添加到邮件的收件人的最大数目|100 个收件人|100 位收件人|100 位收件人|100 位收件人|100 位收件人|100 位收件人|
 |转发邮件的收件人限制|10 个收件人|10 个收件人|10 个收件人|10 个收件人|10 个收件人|10 个收件人|
 |重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |传输规则重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
