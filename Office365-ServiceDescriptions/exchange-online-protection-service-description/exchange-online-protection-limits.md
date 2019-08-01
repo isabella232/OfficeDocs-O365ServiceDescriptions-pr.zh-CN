@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928401"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051602"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -52,7 +52,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
 |邮件大小限制（包括附件）  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |收件人限制  <br/> |请参阅以上"收件人限制"  <br/> |从托管的邮箱发送时含 500 个收件人；请参阅以上用于其他方案的"收件人限制''  <br/> |请参阅以上"收件人限制"  <br/> |
 |安全发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
-|阻止的发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
+|每个策略阻止的发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
 |IP 允许列表或 IP 阻止列表限制  <br/> |1273 个条目  <br/> |1273 个条目  <br/> |1273 个条目  <br/> |
 |邮件延迟限制  <br/> |2 天，每 15 分钟重试一次  <br/> |2 天，每 15 分钟重试一次  <br/> |2 天，每 15 分钟重试一次  <br/> |
 |垃圾邮件隔离的保留期  <br/> |30天 (默认为30天), 但可以降低  <br/> |30天 (默认为30天), 但可以降低  <br/> |30天 (默认为30天), 但可以降低  <br/> |

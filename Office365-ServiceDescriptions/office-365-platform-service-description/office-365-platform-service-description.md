@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: 66a958899ed12638344a3bf6d04b2808f6e7e275
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777393"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051593"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -96,11 +96,11 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|Microsoft 预订  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft 预订  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |无<sup>20</sup>  <br/> |无<sup>20</sup>  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
+|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |无<sup>21</sup>  <br/> |是  <br/> |否  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -222,4 +222,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <br/><sup>15</sup>仅适用于 Office 365 教育版计划, 包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
 <br/><sup>16</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
 <br/><sup>17</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。> <br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量: 不发布或共享。
-<br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。   
+<br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。
+<br/><sup>20</sup>作为免费加载项提供。 有关详细信息, 请参阅[获取 Microsoft 预订的访问权限](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
+<br/><sup>21</sup>若要获取 E3 计划的 MyAnalytics (Full), 您需要购买 MyAnalytics 加载项。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。 
+

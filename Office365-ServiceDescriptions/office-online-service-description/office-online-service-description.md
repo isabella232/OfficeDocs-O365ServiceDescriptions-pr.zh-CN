@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web (以前称为 Office Web Apps) 在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作, 并从几乎所有设备与 Internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131236"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051613"
 ---
 # <a name="office-for-the-web-service-description"></a>用于 web 服务说明的 Office
 
@@ -175,7 +175,7 @@ Office for web (以前称为 Office Web Apps) 在 web 浏览器中打开 Word、
 |[重命名和添加工作表](excel-online.md#rename-and-add-sheets) <br/> |是  <br/> |是  <br/> |
 |[工作簿打开时重命名文件](excel-online.md#rename-file-while-workbook-is-open) <br/> |是  <br/> |否  <br/> |
 |[替换](excel-online.md#replace) <br/> |是  <br/> |是  <br/> |
-|[权限管理：IRM 和密码安全](excel-online.md#bkmk_RightsManagement) <br/> |否  <br/> |可访问  <br/> |
+|[权限管理：IRM 和密码安全](excel-online.md#rights-management-irm-and-password-security) <br/> |否  <br/> |可访问  <br/> |
 |[保存或下载副本](excel-online.md#save-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
 |[共享](excel-online.md#share) <br/> |是  <br/> |是  <br/> |
 |[工作表保护](excel-online.md#sheet-protection) <br/> |是  <br/> |是  <br/> |
