@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一项基于云的电子邮件筛选服务, 通过提供强大的零天保护功能, 帮助您的组织抵御未知恶意软件和病毒, 并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能, 可让管理员了解组织中发生的攻击种类。
-ms.openlocfilehash: a54d0fddae4430b450b944781cbeca1cbb1e414f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776413"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058814"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -133,7 +133,9 @@ Office 365 安全 & 合规中心中提供的监视功能包括[实时报告和�
 
 ### <a name="explorer"></a>Explorer
 
-[浏览器](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)(也称为 "威胁资源管理器") 是一种实时报告, 它使授权用户能够识别和分析最新的威胁。 默认情况下, 此报告显示过去7天的数据;但是, 可以对视图进行修改, 以显示过去30天的数据。 
+资源管理器 (也称为威胁浏览器) 是一种实时报告, 它使授权用户能够识别和分析最新的威胁。 默认情况下, 此报告显示过去7天的数据;但是, 可以对视图进行修改, 以显示过去30天的数据。 
+
+有关浏览器 (在 Office 365 高级威胁防护计划2中) 和实时检测 (在 Office 365 高级威胁防护计划1中) 的详细信息, 请参阅[威胁 Explorer (和实时检测)](https://docs.microsoft.com/office365/securitycompliance/threat-explorer)。
 
 ### <a name="attack-simulator"></a>攻击模拟器
   
