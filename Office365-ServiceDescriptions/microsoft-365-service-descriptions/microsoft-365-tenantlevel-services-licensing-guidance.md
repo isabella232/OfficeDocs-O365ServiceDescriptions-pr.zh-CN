@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南, 以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908719"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171672"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -31,7 +31,7 @@ Azure Active Directory 标识保护 (AADIP) 是 Azure Active Directory 高级 P2
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-企业移动性 + 安全性 E5、Microsoft 365 E5、Microsoft 365 E5 Security 和 Azure Active Directory 高级计划2的许可用户可从 AADIP 获益。
+企业移动性 + 安全性 E5/A5/G5 的许可用户、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 和 Azure Active Directory 高级计划2可以从 AADIP 获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -51,7 +51,7 @@ Azure 高级威胁防护 (ATP) 是一项云服务, 可帮助保护企业混合�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-企业移动性 + 安全性 E5、Microsoft 365 E5、Microsoft 365 E5 Security 和 Azure 高级威胁防护的许可用户可以从 Azure ATP 获益。
+企业移动性 + 安全性 E5/A5/G5 的许可用户, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, 以及 Azure 高级威胁防护可从 Azure ATP 获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -71,7 +71,7 @@ Azure 信息保护 (AIP) 可帮助组织发现、分类、标记和保护敏感�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Microsoft 365 F1、Microsoft 365 E3 和 AIP Plan 1 的许可用户可以从 AIP 计划1中受益。 Microsoft 365 E5、Microsoft 365 E5 合规性和 AIP 计划2的授权用户可以从 AIP 计划2中受益。
+Microsoft 365 F1、Microsoft 365 商业版、Microsoft 365 E3/A3/G3 和 AIP Plan 1 的许可用户可从 AIP 计划1获益。 Microsoft 365 E5/A5/G5 的许可用户、Microsoft 365 E5/A5/G5 合规性和 AIP 计划2可从 AIP 计划2中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -80,7 +80,6 @@ AIP 扫描程序功能会自动分类、标记和保护驻留在本地文件存�
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
 默认情况下, AIP 功能在租户级别为租户中的所有用户启用。 有关为许可用户配置 AIP 策略的信息, 请参阅[激活 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/activate-service)。
-
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 AIP 功能策略 (扫描程序功能除外) 可以限定为特定的组或用户;可以对注册表进行编辑, 以防止未授权的用户运行 AIP 分类或标记功能。 有关如何对 AIP 部署进行作用域的说明, 请参阅[配置 Azure 信息保护策略](https://docs.microsoft.com/azure/information-protection/configure-policy)。
@@ -93,7 +92,7 @@ AIP 功能策略 (扫描程序功能除外) 可以限定为特定的组或用户
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 许可用户: Microsoft 365 E5、microsoft 365 E5 Security、Microsoft 365 Business 和 Office 365 ATP 计划1和2可从 ATP 获益。
+Office 365 E5/A5/G5 许可用户, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 Business 和 Office 365 ATP 计划1和2可从 ATP 获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -121,7 +120,7 @@ OCAS 使组织能够深入了解他们的工作效率云应用和服务, 提供�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户可以从 OCAS 获益。
+Office 365 E5/G5 的许可用户可以从 OCAS 获益。
 
 有关详细信息, 请参阅[Microsoft Cloud App Security 授权数据表](http://www.aka.ms/mcaslicensing)。
 
@@ -145,13 +144,13 @@ Microsoft Cloud App Security (MCAS) 是一个云访问安全代理 (CASB) 解决
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-MCAS 的许可用户 (企业移动性 + 安全性 E5、Microsoft 365 E5 和 Microsoft 365 E5 安全性) 可以从 MCAS 获益。
+授权用户的 MCAS, 企业移动性 + 安全性 E5/A5/G5, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 安全性可从 MCAS 获益。
 
 Azure AD P1 的许可用户可以从 MCAS 中的发现功能中受益。
 
-若要从 MCAS 中的[条件访问应用程序控制](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)功能中受益, 还必须为用户授予 Azure Active Directory P1 (包括在企业移动性 + 安全 E3、企业移动性 + 安全 E5、Microsoft 365 E3、microsoft 365E5 和 Microsoft 365 E5 Security。
+若要从 MCAS 中的[条件访问应用程序控制](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)功能中受益, 还必须授予用户 Azure Active Directory P1 (包含在企业移动性 + 安全 E3/A3/G3、企业移动性 + 安全性 E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 安全性。
 
-若要从[自动标记](https://docs.microsoft.com/cloud-app-security/data-protection-policies)中受益, 用户必须获得 Azure 信息保护 P2 (包含在企业移动性 + 安全 E5、Microsoft 365 E5 和 Microsoft 365 e5) 的许可。
+若要从[自动标记](https://docs.microsoft.com/cloud-app-security/data-protection-policies)中受益, 用户必须获得 Azure 信息保护 P2 的许可, 该版本包含在企业移动性 + 安全 E5/A5/g5 中, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 合规性。
 
 有关详细信息, 请参阅[Microsoft Cloud App Security 授权数据表](http://www.aka.ms/mcaslicensing)。
 
@@ -175,7 +174,7 @@ MCAS 发现和评估阴影, 提供跨第一方云应用程序的威胁保护, �
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从 ADG 获益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Office 365 高级合规性可以从 ADG 获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -195,7 +194,7 @@ Office 365 高级电子数据展示为 IT 和公司内部的法律部门提供�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从高级电子数据展示中受益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Office 365 高级合规性可以从高级电子数据展示中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -215,7 +214,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从客户密钥获益。 若要获得客户密钥的全部好处, 您还必须具有 Azure Key Vault 的订阅。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性, 以及 Office 365 高级合规性可从客户密钥获益。 若要获得客户密钥的全部好处, 您还必须具有 Azure Key Vault 的订阅。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -239,7 +238,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5、Microsoft 365 E5、Microsoft 365 E5 合规性和 Office 365 高级合规性的许可用户可从客户密码箱获益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性, 以及 Office 365 高级合规性可从客户密码箱获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -259,7 +258,7 @@ Microsoft 不会承诺向未获得许可的用户提供客户密码箱访问控�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从 PAM 中受益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Office 365 高级合规性可以从 PAM 中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -279,7 +278,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E3、Microsoft 365 E3 和 Office 365 数据丢失防护的许可用户可受益于 DLP for Exchange Online、SharePoint Online 和 OneDrive for Business。
+Office 365 E3/A3/G3、Microsoft 365 Business、Microsoft 365 E3/A3/G3 和 Office 365 数据丢失防护的许可用户可受益于 DLP for Exchange Online、SharePoint Online 和 OneDrive for Business。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -299,7 +298,7 @@ Office 365 E3、Microsoft 365 E3 和 Office 365 数据丢失防护的许可用�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可受益于 DLP for 团队聊天和频道消息。
+Office 365 E5/A5/G5 许可用户, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 合规性, Office 365 高级合规性可以从 DLP for team chat and 频道消息中获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -319,7 +318,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从信息障碍中受益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Office 365 高级合规性可以从信息障碍中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -346,7 +345,7 @@ Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 3
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从高级邮件加密中受益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Office 365 高级合规性可以从高级邮件加密中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -366,7 +365,7 @@ Office 365 中的监督策略使您可以捕获指定审阅者进行检查的员
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5 的许可用户、Microsoft 365 E5、Microsoft 365 E5 和 Office 365 高级合规性可以从监督策略中受益。
+许可用户的 Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Office 365 高级合规性可以从监督策略中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
