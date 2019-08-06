@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
-ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908729"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206852"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -90,7 +90,7 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |[隐私、安全性和透明度](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |
 |内置反垃圾邮件保护  <br/> |是  <br/> |是  <br/> |
 |内置反恶意软件保护  <br/> |是  <br/> |是  <br/> |
-|Office 365 高级威胁防护  <br/> |否  <br/> |可访问 <br/> |
+|Office 365 高级威胁防护  <br/> |否  <br/> |是<sup>19</sup> <br/> |
 |高级安全管理  <br/> |否  <br/> |否  <br/> |
 |客户锁箱  <br/> |否  <br/> |否  <br/> |
 |适用于 Office 的客户密钥 365<sup>12</sup> <br/> |否  <br/> |否  <br/> |
@@ -180,3 +180,4 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 <br/><sup>16</sup>此计划来自 Microsoft Stream plan 2, 其中包括视频门户、语音到文本对话、深度搜索和面孔检测。
 <br/><sup>17</sup>个简化的 Windows 10 设备管理和 Intune 应用保护策略内置在 Microsoft 365 管理中心中。
 <br/><sup>18</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。 
+<br><sup>19</sup> Microsoft 365 高级威胁防护计划1中附带了 Office 365 高级威胁防护计划1。 有关详细信息, 请参阅[Microsoft 365 Business security and 合规性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。

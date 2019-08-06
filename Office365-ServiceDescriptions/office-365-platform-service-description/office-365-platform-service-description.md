@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: a2a21a06d90a82423e9a669dec12a5311df33e80
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051593"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206832"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -100,7 +100,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |Microsoft Flow  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |无<sup>21</sup>  <br/> |是  <br/> |否  <br/> |
+|Microsoft MyAnalytics  <br/> |无<sup>22</sup>  <br/> |无<sup>22</sup>  <br/> |无<sup>22</sup>  <br/> |无<sup>22</sup>  <br/> |无<sup>21、</sup> <sup>22</sup>  <br/> |是  <br/> |否  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -225,4 +225,4 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。
 <br/><sup>20</sup>作为免费加载项提供。 有关详细信息, 请参阅[获取 Microsoft 预订的访问权限](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
 <br/><sup>21</sup>若要获取 E3 计划的 MyAnalytics (Full), 您需要购买 MyAnalytics 加载项。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。 
-
+<br/><sup>22</sup>包括 MyAnalytics 的见解。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。

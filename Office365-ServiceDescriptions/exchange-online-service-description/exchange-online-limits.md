@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940530"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206842"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -410,7 +410,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 - **限制向大型通讯组发送邮件**: 包含此限制指定的成员数量的通讯组必须配置了传递管理或邮件审批选项。 传递管理选项将指定一个允许向通讯组发送邮件的发件人的列表。 邮件审批选项将指定一个或多个必须审批发送到通讯组的所有邮件的审阅人。
 
-- **大型通讯组的最大邮件大小**: 如果邮件发送给5000或更多收件人, 则邮件大小不能超过此限制。 如果此邮件的大小超出此限制，则不会传递此邮件，并且发件人会收到一份未送达报告 (NDR)。 在通讯组扩展后确定总收件人计数。
+- **大型通讯组的最大邮件大小**: 如果邮件发送给5000或更多收件人, 则邮件大小不能超过此限制。 如果此邮件的大小超出此限制，则不会传递此邮件，并且发件人会收到一份未送达报告 (NDR)。
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>跨 Office 365 选项的通讯组限制
 

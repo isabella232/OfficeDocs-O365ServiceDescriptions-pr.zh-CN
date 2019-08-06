@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南, 以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
-ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
+ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171672"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206862"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -338,6 +338,29 @@ Office 365 E5/A5/G5 许可用户, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 管理员可以在 Office 365 安全 & 合规中心中自定义位置 (工作负荷)、包含的用户以及排除的用户。 例如, 如果所有用户均为 Office 365 E3 许可, 并且没有许可 Office 365 高级合规性/E5, 则无需为组织创建任何信息障碍策略。 有关详细信息, 请参阅[Microsoft 团队中的信息障碍](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)。
+
+## <a name="office-365-message-encryption"></a>Office 365 邮件加密
+
+Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构建的服务，允许您向组织内外发送经加密的电子邮件，而无需考虑目标电子邮件地址（Gmail、Yahoo!Mail、Outlook.com 等）。
+
+若要查看加密邮件，收件人可以使用一次性密码、通过 Microsoft 帐户登录或使用与 Office 365 关联的工作或学校帐户登录。 此外，收件人也可发送加密回复。 他们不需要 Office 365 订阅即可查看加密邮件或发送加密答复。
+
+### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
+
+Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3 和 Azure 信息保护计划1的许可用户可受益于 Office 365 邮件加密。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+邮件发件人可受益于对 Office 365 邮件加密提供的敏感电子邮件的新增控制。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+管理员在 "**邮件流** > **规则**" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略。 默认情况下, 这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息, 请参阅[设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+管理员应将仅限 Office 365 邮件加密的邮件流规则应用于许可用户。 有关定义邮件流规则的详细信息, 请参阅[在 Office 365 中定义用于加密电子邮件的邮件流规则](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
+
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 高级邮件加密
 

@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-june-24-2019"></a>2019年6月24日一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 6/25/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | 修改内容 |
-| 6/25/2019 | [Microsoft 365 政府如何购买](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | 修改内容 |
-| 6/25/2019 | [Office 365 GCC 高和 DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 修改内容 |
-| 6/25/2019 | [支持](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | 修改内容 |
-| 6/25/2019 | [SharePoint Online 限制](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | 修改内容 |
-| 6/28/2019 | [Microsoft Dynamics 365（在线版）服务说明](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | 修改内容 |
-| 6/28/2019 | [Office 365 服务说明](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | 修改内容 |
-| 6/28/2019 | [域](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | 修改内容 |
-| 6/28/2019 | [网络](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | 修改内容 |
-| 6/28/2019 | [用户帐户管理](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | 修改内容 |
-
-
 ## <a name="week-of-july-01-2019"></a>2019年7月1日一周
 
 
@@ -148,3 +131,24 @@
 | 7/25/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
 | 7/25/2019 | [由世纪互联运营的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改内容 |
 | 7/25/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
+
+
+## <a name="week-of-july-29-2019"></a>2019年7月29日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 7/29/2019 | [Exchange Online Protection 限制](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 修改内容 |
+| 7/29/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
+| 7/29/2019 | [Microsoft Dynamics 365（在线版）服务说明](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | 修改内容 |
+| 7/29/2019 | [Office 365 GCC 高和 DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 修改内容 |
+| 7/29/2019 | [IT 专业人员](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | 修改内容 |
+| 7/30/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
+| 7/31/2019 | [Exchange Online Protection 限制](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 修改内容 |
+| 7/31/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改内容 |
+| 7/31/2019 | [适用于 web 的 Excel](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | 修改内容 |
+| 7/31/2019 | [用于 web 服务说明的 Office](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | 修改内容 |
+| 8/1/2019 | [Office 365 高级威胁防护服务说明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改内容 |
+| 8/1/2019 | [由世纪互联运营的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改内容 |
+| 8/2/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
+| 8/2/2019 | [Office 365 高级威胁防护服务说明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改内容 |
