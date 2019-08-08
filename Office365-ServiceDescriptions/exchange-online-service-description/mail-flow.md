@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: '对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。但是，某些组织需要进行更复杂的邮件流设置来确保它们遵守特定的法规或业务需要。你可以在这里找到这些选项的信息。 '
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776783"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231410"
 ---
 # <a name="mail-flow"></a>邮件流
 
@@ -29,16 +29,16 @@ ms.locfileid: "35776783"
 
 Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为"智能托管"）路由来自组织的邮件流。这支持贵组织使用数据丢失防护 (DLP) 设备，执行传出电子邮件的自定义后期处理，并通过专用网络将电子邮件传递给业务合作伙伴。Exchange Online 还支持地址重写，其中，传出电子邮件将通过修改地址的本地网关路由。使用此功能，你可以隐藏子域，使多域组织中的电子邮件显示为单个域，或使合作伙伴中继的电子邮件显示为从组织内部发出。管理员在 Exchange 管理中心 (EAC) 内配置自定义的电子邮件路由。
   
-有关详细信息，请参阅[Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx)。
+有关详细信息，请参阅[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 > [!IMPORTANT]
-> Exchange Online 可将邮件流传入和传出组织。 
+> Exchange Online 可将邮件流传入和传出组织。 如果您的收件人域托管在 Exchange Online 中, 且 DNS MX 记录指向 Exchange Online Protection, 则从您的租户到收件人的邮件流将不会通过 Internet 传输。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>与受信任合作伙伴的安全邮件
 
-作为 Exchange Online 客户，你可以使用 Office 365 连接器设置与受信任合作伙伴的安全邮件流。Office 365 支持通过传输层安全性 (TLS) 的安全通信。可以创建一个连接器，强制通过 TLS 进行加密。[TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) 是通过 Internet 为通信提供安全的加密协议。通过使用连接器，可以使用自签名证书或经证书颁发机构 (CA) 验证的证书配置强制的入站和出站 TLS。还可以应用其他安全限制，如指定合作伙伴组织发送邮件时使用的域名或 IP 地址范围。 
+作为 Exchange Online 客户，你可以使用 Office 365 连接器设置与受信任合作伙伴的安全邮件流。Office 365 支持通过传输层安全性 (TLS) 的安全通信。可以创建一个连接器，强制通过 TLS 进行加密。[TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 是通过 Internet 为通信提供安全的加密协议。通过使用连接器，可以使用自签名证书或经证书颁发机构 (CA) 验证的证书配置强制的入站和出站 TLS。还可以应用其他安全限制，如指定合作伙伴组织发送邮件时使用的域名或 IP 地址范围。 
   
-有关详细信息，请参阅[Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx)。
+有关详细信息，请参阅[Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)。
   
 > [!IMPORTANT]
 > 可能需要经 CA 验证的证书。 
@@ -47,13 +47,13 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
 
 你可以使用连接器和传输规则将邮件直接传递到特定站点。通过基于条件的路由，你可以基于特定条件选择连接器。
   
-有关详细信息，请参阅[Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx)。
+有关详细信息，请参阅[Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing)。
   
 ## <a name="incoming-mail-safe-list"></a>传入邮件安全列表
 
 你可以将受信任的合作伙伴的 IP 地址添加到安全列表中，以确保合作伙伴发送给你的邮件不经过反垃圾邮件筛选。为此，你可以使用连接筛选器的 IP 允许列表。
   
-有关详细信息，请参阅[Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx)。
+有关详细信息，请参阅[Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy)。
   
 ## <a name="hybrid-email-routing"></a>混合电子邮件路由
 
@@ -98,4 +98,3 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
 
 若要查看在各个 Office 365 计划、独立选项和本地解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
   
-

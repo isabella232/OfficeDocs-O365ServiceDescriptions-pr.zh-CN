@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051602"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231390"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -36,7 +36,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
     
 - **IP 允许列表或 IP 阻止列表限制** 在连接筛选器中配置 IP 允许列表或 IP 阻止列表时，您最多可以指定 1273 个条目，每个条目可以是单个 IP 地址或从 /24 到 /32 的 IP 地址的 CIDR 范围。 
     
-- **邮件延期限制** 延期的邮件将在我们的队列中保留 2 天。重试发送邮件的依据为从收件人的邮件系统收到的错误类型。邮件每 15 分钟重试一次。 
+- **邮件延迟限制**延迟中的邮件将保留在队列中24小时之内。 重试发送邮件的依据为从收件人的邮件系统收到的错误类型。 邮件每 15 分钟重试一次。 
     
 - **垃圾邮件隔离保留期**默认情况下, 发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
     

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: b5d6d66780dd77456f5952e353f7030bdd288262
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776433"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231420"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -84,24 +84,21 @@ Office 365 服务器使用 BitLocker 在卷级别加密包含客户数据的磁�
   
 ## <a name="customer-key"></a>客户密钥
 
-使用 "客户密钥", 可以控制组织的加密密钥, 然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据, 这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 有关详细信息, 请参阅[使用客户密钥和服务加密在 office 365 中控制您的数据](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697),[了解 office 365 常见问题解答](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6)。
+使用 "客户密钥", 可以控制组织的加密密钥, 然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据, 这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 有关详细信息, 请参阅[使用客户密钥和服务加密在 office 365 中控制您的数据](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key),[了解 office 365 常见问题解答](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Office 365 邮件加密允许电子邮件用户将加密的电子邮件发送给任何人。 我们宣布了 Office 邮件加密中的新功能, 这些功能利用了 Azure 信息加密中的保护功能。 这些新功能提供了增强的最终用户体验, 使您可以更轻松地与组织内部或外部的任何人共享和协作处理受保护的邮件。 新的 Office 邮件加密功能具有一些设置要求。 请参阅设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能。 旧版 Office 365 邮件加密的客户不会获得上述新功能, 而无需遵循上面提供的指导。 请阅读[FAQ](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) , 了解新的与旧版本的 Office 365 邮件加密功能中包含的内容的详细信息。 
 
 Office 365 高级邮件加密通过允许邮件过期和吊销来提供额外的保护。  您还可以为来自您的组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非盈利员工定价)、Office 365 企业版 E5 (非盈利员工定价) 或 Office 365 教育版 A5 中。 如果您的组织拥有不包含 Office 365 高级邮件加密的 Office 365 订阅, 您可以购买 Microsoft 365 E5 或 Office 365 高级合规性 SKU 作为加载项。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>安全/多用途 Internet 邮件扩展 (S/MIME)
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 借助 S/MIME，您可以通过在组织内发送签名的加密电子邮件来保护敏感信息。在创建 PKI 证书并将其分发给用户后，管理员可以使用远程 Windows PowerShell 设置 S/MIME。必须从本地 Active Directory 证书服务同步这些证书。
   
-Internet Explorer 9 或更高版本支持 S/MIME。目前，Firefox、Opera 和 Chrome 不支持 S/MIME。有关详细信息，请参阅[邮件签名和加密的 S/MIME](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)。
+Microsoft Edge 和 Internet Explorer 11 支持 S/MIME。 目前，Firefox、Opera 和 Chrome 不支持 S/MIME。 有关详细信息，请参阅[邮件签名和加密的 S/MIME](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019)。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>就地保留和诉讼保留
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 当存在诉讼的合理预期时，需要组织保留与事实相关的以电子方式存储的信息 (ESI)，包括电子邮件。这种预期可能在知道事实的细节之前发生，并且保留内容通常很广泛。组织可能保留与特定主题相关的所有电子邮件，或特定个人的所有电子邮件。
   
@@ -131,9 +128,8 @@ Internet Explorer 9 或更高版本支持 S/MIME。目前，Firefox、Opera 和 
 有关详细信息，请参阅[就地保留和诉讼保留](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds)。
   
 ## <a name="in-place-ediscovery"></a>就地电子数据展示
-<a name="bkmk_O365_MessageEncryption"> </a>
 
-Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索邮箱内容。管理员或有权执行就地电子数据展示搜索（通过分配）的合规性和安全性管理人员可以搜索电子邮件、附件、日历约会、任务、联系人和其他项目。就地电子数据展示可以同时搜索主邮箱和存档。丰富的筛选功能包括发件人、收件人、邮件类型、发送/接收日期、抄送/密送以及 KQL 语法。搜索结果也包含"已删除邮件"中的邮件（如果这些邮件与搜索查询条件匹配）。
+Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索邮箱内容。管理员或有权执行就地电子数据展示搜索（通过分配）的合规性和安全性管理人员可以搜索电子邮件、附件、日历约会、任务、联系人和其他项目。就地电子数据展示可以同时搜索主邮箱和存档。丰富的筛选功能包括发件人、收件人、邮件类型、发送/接收日期、抄送/密送以及 KQL 语法。搜索结果也包含“已删除邮件”中的邮件（如果这些邮件与搜索查询条件匹配）。
   
 就地电子数据展示搜索的结果可以在基于 Web 的界面中预览、导出到 PST 文件中或复制到名为发现邮箱的特殊类型的邮箱中。发现邮箱具有 50 GB 的配额用于存储搜索结果。管理员还可以将 Outlook 连接到发现邮箱以访问搜索结果，并将搜索结果导出到 .pst 文件中。
   
@@ -156,7 +152,6 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 有关详细信息，请参阅[就地电子数据展示](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)。
   
 ## <a name="mail-flow-rules"></a>邮件流规则
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 您可以使用邮件流规则来查找通过组织传递的邮件的特定条件并对其进行操作。 邮件流规则允许您对电子邮件应用邮件策略、保护邮件安全、保护邮件系统, 并防止信息泄露。
   
@@ -173,12 +168,11 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 - 对通过组织的邮件应用免责声明
     
 > [!IMPORTANT]
-> 需要在电子邮件服务器上安装第三方 Ifilter 的附件文件类型 (如 Adobe .pdf) 无法使用邮件流规则进行检查, 直到安装了相应的 iFilter。 有关邮件流规则支持的文件类型的详细信息, 请参阅[使用邮件流规则检查 Office 365 中的邮件附件](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)。 
+> 需要在电子邮件服务器上安装第三方 Ifilter 的附件文件类型 (如 Adobe .pdf) 无法使用邮件流规则进行检查, 直到安装了相应的 iFilter。 有关邮件流规则支持的文件类型的详细信息, 请参阅[使用邮件流规则检查 Office 365 中的邮件附件](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)。
   
 有关邮件流规则的详细信息, 请参阅[Exchange 2016 中的邮件流规则](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019)。
   
 ## <a name="data-loss-prevention"></a>数据丢失防护
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 防止数据丢失 (DLP) 功能可帮助您通过深入的内容分析标识、监控和保护您组织中的敏感信息。DLP 是一项对于企业邮件系统而言越来越重要的高级功能，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。Exchange Online 中的 DLP 功能可让您保护敏感数据，而不会影响工作人员的生产率。
   
@@ -203,7 +197,6 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 有关 DLP 的详细信息，请参阅[数据丢失防护](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
   
 ## <a name="journaling"></a>日记
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 您可以配置 Exchange Online，以将电子邮件的副本记录到通过 SMTP 接收邮件的任何外部邮箱中。通过记录入站和出站电子邮件通信，日记功能可以帮助组织对法律、法规和组织遵从性要求做出响应。规划邮件保留和合规性时，了解日记功能及其如何适应组织的合规性策略，这一点非常重要。
   
@@ -224,7 +217,6 @@ Exchange Online 可让用户使用基于 Web 的界面在整个组织中搜索�
 有关日记的详细信息，请参阅[日记](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling)。
   
 ## <a name="feature-availability"></a>功能可用性
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
   
