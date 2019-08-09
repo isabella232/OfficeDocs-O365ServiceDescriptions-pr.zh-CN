@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南, 以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206862"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258860"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -63,7 +63,7 @@ SecOp 分析师和安全性专家将受益于 Azure ATP 检测和调查高级威
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-Microsoft 不会承诺向未获得许可的用户提供威胁检测功能。 随着时间的推移, 许可证检查或目标工具将添加到 Azure ATP, 以确保 Azure ATP 功能仅适用于许可用户。
+Microsoft 为许可用户提供客户密码箱访问控制审批请求。
 
 ## <a name="azure-information-protection"></a>Azure 信息保护
 
@@ -150,7 +150,7 @@ Azure AD P1 的许可用户可以从 MCAS 中的发现功能中受益。
 
 若要从 MCAS 中的[条件访问应用程序控制](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)功能中受益, 还必须授予用户 Azure Active Directory P1 (包含在企业移动性 + 安全 E3/A3/G3、企业移动性 + 安全性 E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 安全性。
 
-若要从[自动标记](https://docs.microsoft.com/cloud-app-security/data-protection-policies)中受益, 用户必须获得 Azure 信息保护 P2 的许可, 该版本包含在企业移动性 + 安全 E5/A5/g5 中, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 合规性。
+若要从[自动标记](https://docs.microsoft.com/cloud-app-security/data-protection-policies)中受益, 用户必须获得 Azure 信息保护 P1 的许可, 该 P1 包含在企业移动性 + 安全 E5/A5/g5 中, Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 合规性。
 
 有关详细信息, 请参阅[Microsoft Cloud App Security 授权数据表](http://www.aka.ms/mcaslicensing)。
 
@@ -226,9 +226,9 @@ Office 365 高级电子数据展示为 IT 和公司内部的法律部门提供�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-若要将加密密钥分配给 Office 365 和/或 Microsoft 365 租户中的数据以供许可用户使用, 请按照客户密钥加密密钥部署策略操作:
+若要将加密密钥分配给 Office 365 和/或 Microsoft 365 租户中的数据以供许可用户使用, 请按照客户密钥加密密钥部署说明进行操作:
 
-  - 对于 SharePoint Online, 可以使用以下所述的客户密钥对一个或多个网站上的文件进行加密:[设置 SharePoint Online 和 OneDrive for business 的客户密钥](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)。
+  - 对于 SharePoint Online 和 OneDrive for business, 一个或多个网站上的文件可使用客户密钥进行加密, 如下所述: 为[SharePoint Online 和 OneDrive For Business 设置客户密钥](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business)。
 
   - 对于 Exchange Online 和 Skype for business Online, 可以使用以下所述的客户密钥对邮箱进行加密:[设置 Exchange Online 和 Skype for business 的客户密钥](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
 

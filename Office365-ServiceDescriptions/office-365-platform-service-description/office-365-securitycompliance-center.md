@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7728de2cba553b278e980a26dfe6658800077713
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 8638c3049449f6b718fca8141fedea225da6d5c1
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854910"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258890"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -35,7 +35,7 @@ ms.locfileid: "35854910"
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), 如仿冒活动的威胁资源管理器<sup>6</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7</sup><br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7、9</sup><br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[信息障碍](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[数据治理](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -59,7 +59,8 @@ ms.locfileid: "35854910"
 <sup>6</sup> office 365 企业版 E5 中提供了高级威胁防护, 作为 Office 365 企业版 E1 和 Office 365 企业版 E3 的独立服务。<br> 
 <sup>7</sup>包括存储在 Microsoft 团队存储库中的文件。<br/>
 <sup>8</sup>您还可以使用[Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 <br/>
-   
+<sup>9</sup>可添加到任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 的 DLP 加载项。<br/>
+
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立&amp;计划的安全合规性中心可用性
 
 |||||||||
@@ -71,7 +72,7 @@ ms.locfileid: "35854910"
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), 如仿冒活动的威胁资源管理器  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Exchange Online、SharePoint Online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否  <br/> |可访问  <br/> |
+|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否  <br/> |可访问  <br/> |
 |[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[信息障碍](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[数据治理](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -95,6 +96,7 @@ ms.locfileid: "35854910"
 <sup>6</sup> Skype 存档在用户邮箱中。<br/> 
 <sup>7</sup>包括存储在 Microsoft 团队存储库中的文件。<br/>
 <sup>8</sup>您还可以使用[Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 <br/>
+<sup>9</sup>可添加到任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 的 DLP 加载项。<br/>
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 

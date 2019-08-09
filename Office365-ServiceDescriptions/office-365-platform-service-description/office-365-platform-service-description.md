@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: a2a21a06d90a82423e9a669dec12a5311df33e80
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: ccc8ba16e540381233609d2abab0497cf24f780e
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206832"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258880"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
   
-Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
+Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 internet 随时随地实现工作效率。
   
 若要跨计划比较功能, 请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409), 或者有关更详细的功能列表, 请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
@@ -92,7 +92,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|**[Office 365 管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
+|**[Office 365 管理功能](https://docs.microsoft.com/office/admins-itprofessionals)** <br/> ||||||||
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
@@ -124,7 +124,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |从 Office 365 中管理安全组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多个管理员角色可用  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允许合作伙伴为您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure Active Directory 服务  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure Active Directory 服务<sup>23</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[域](domains.md)** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |添加第二级自定义域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |添加第三级自定义域，如 marketing.fourthcoffee.com是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -226,3 +226,4 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <br/><sup>20</sup>作为免费加载项提供。 有关详细信息, 请参阅[获取 Microsoft 预订的访问权限](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
 <br/><sup>21</sup>若要获取 E3 计划的 MyAnalytics (Full), 您需要购买 MyAnalytics 加载项。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。 
 <br/><sup>22</sup>包括 MyAnalytics 的见解。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
+<br/><sup>23</sup>包括 Azure [active directory 定价页面](https://azure.microsoft.com/pricing/details/active-directory/)上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5, 才能获取高级 Azure AD 功能。
