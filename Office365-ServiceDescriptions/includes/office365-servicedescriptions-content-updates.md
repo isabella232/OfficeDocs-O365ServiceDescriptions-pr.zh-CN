@@ -3,14 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>2019年7月1日一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 7/1/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
-
-
 ## <a name="week-of-july-08-2019"></a>2019年7月1日一周
 
 
@@ -152,3 +144,24 @@
 | 8/1/2019 | [由世纪互联运营的 Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | 修改内容 |
 | 8/2/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
 | 8/2/2019 | [Office 365 高级威胁防护服务说明](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | 修改内容 |
+
+
+## <a name="week-of-august-05-2019"></a>2019年8月5日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 8/5/2019 | [Exchange Online 限制](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | 修改内容 |
+| 8/5/2019 | [Microsoft 365 商业版服务说明](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) | 修改内容 |
+| 8/5/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
+| 8/5/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改内容 |
+| 8/7/2019 | [Exchange Online Archiving 服务说明](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | 修改内容 |
+| 8/7/2019 | [Exchange Online Protection 限制](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | 修改内容 |
+| 8/7/2019 | [邮件流](/Office365/ServiceDescriptions/exchange-online-service-description/mail-flow) | 修改内容 |
+| 8/7/2019 | [邮件策略和合规性](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | 修改内容 |
+| 8/7/2019 | [Office 365 美国政府版](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | 修改内容 |
+| 8/8/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
+| 8/8/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改内容 |
+| 8/8/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改内容 |
+| 8/9/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改内容 |
+| 8/9/2019 | [OneDrive for Business 服务说明](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 修改内容 |
