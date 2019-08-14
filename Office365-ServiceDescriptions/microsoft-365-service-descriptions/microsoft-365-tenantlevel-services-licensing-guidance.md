@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南, 以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258860"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384866"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -63,7 +63,7 @@ SecOp 分析师和安全性专家将受益于 Azure ATP 检测和调查高级威
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-Microsoft 为许可用户提供客户密码箱访问控制审批请求。
+Microsoft 为许可用户提供威胁检测功能。
 
 ## <a name="azure-information-protection"></a>Azure 信息保护
 
@@ -250,7 +250,7 @@ Office 365 高级电子数据展示为 IT 和公司内部的法律部门提供�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-Microsoft 不会承诺向未获得许可的用户提供客户密码箱访问控制审批请求。 随着时间的推移, 许可证检查或目标工具将添加到客户密码箱中, 以确保客户密码箱可分配给许可用户。
+Microsoft 为 Office 365 组织中的用户提供客户密码箱访问控制审批请求。
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 中的特权访问管理
 
