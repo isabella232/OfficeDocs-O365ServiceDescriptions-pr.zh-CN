@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 了解每个订阅计划提供的 OneDrive 存储空间。
-ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
-ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
+ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
+ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36286009"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36407716"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 
@@ -59,15 +59,12 @@ OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 �
 - Office 365 非营利版 E1
 - OneDrive for Business 计划 1
 - SharePoint Online 计划 1
+- Microsoft 365 商业版
 
-**超过 1 TB，至不受限制**
+**超过 1 TB，不设上限**
  
-对于少于 5 个用户的订阅，每个用户 1 TB。 对于不少于 5 个用户的订阅，Microsoft 最开始将为每个用户提供 1 TB 存储空间，管理员可以将每个用户的存储空间提高至 5 TB。 （[了解操作方法](/onedrive/set-default-storage-space)）若要请求额外的存储空间，管理员必须联系 Microsoft 支持。 
+对于用户数少于 5 人的订阅，每位用户 1 TB。 对于用户数至少达到 5 人的订阅（可为合格计划的任何组合），Microsoft 最开始将为每位用户提供 1 TB 存储空间，管理员可将每位用户的存储空间提高到 5 TB。 （要了解如何操作，请参阅[设置 OneDrive 用户的默认存储空间](/onedrive/set-default-storage-space)。）管理员必须联系 Microsoft 支持人员，才能请求额外存储空间。
 
-- Office 365 企业版 E3
-- Office 365 企业版 E5
-- OneDrive for Business 计划 2
-- SharePoint Online 计划 2
 - Office 365 企业版 E3
 - Office 365 企业版 E5
 - Office 365 A1
@@ -75,8 +72,10 @@ OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 �
 - Office 365 A5
 - Office 365 美国政府版 G3
 - Office 365 美国政府版 G5
-- Office 365 非营利版 E3 
-- Office 365 非赢利组织版 E5 
+- Office 365 非营利版 E3
+- Office 365 非赢利组织版 E5
+- OneDrive for Business 计划 2
+- SharePoint Online 计划 2
 - Microsoft 365 企业版 E3
 - Microsoft 365 企业版 E5
 - Microsoft 365 A3
@@ -86,7 +85,6 @@ OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 �
 - Microsoft 365 非营利组织版 E3
 - Microsoft 365 非营利组织版 E5
 
-  
 > [!NOTE]
 > 必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。 
   
