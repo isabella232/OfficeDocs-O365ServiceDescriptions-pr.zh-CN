@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态, 并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
-ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
+ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36298032"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450276"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -79,7 +79,7 @@ Office 365 租户管理员的管理员应用程序使你能够在旅途中与组
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
-Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 Office 365 管理包, 这使他们能够在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
+Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 Office 365 管理包, 这使他们能够在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 
@@ -91,7 +91,7 @@ Microsoft System Center 是一个集成管理平台，可以帮助你管理数�
     
 - 计划的维护通知
     
-有关详细信息，请参阅 [New Office 365 admin tools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
+有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
   
 ## <a name="post-incident-reviews"></a>事后评审
 
@@ -115,7 +115,7 @@ Microsoft 致力于持续改进，包括分析影响客户的计划外服务事�
 
 Microsoft Office 365 产品由恢复能力很强的系统交付，帮助确保高水平服务性能。服务连续性设置是 Office 365 系统设计的一部分。这些设置允许 Office 365 从意外事件中快速恢复，如硬件或应用程序故障、数据损坏或其他影响用户的事件。这些服务连续性解决方案还适用于灾难性中断（例如，自然灾害或 Microsoft 数据中心内的事件导致整个数据中心无法运营）。
   
-请注意，从灾难性故障恢复后，可能需要经过一段时间才能还原服务的完整数据中心冗余。例如，如果数据中心 1 出现故障，则服务通过数据中心 2 的资源进行还原。不过，可能需要经过一段时间，数据中心 2 中的服务才会获得服务连续性支持（要么通过数据中心 1 中已还原的资源获得，要么通过数据中心 3 中的新资源获得）。在此期间应用的是 Office 365 [服务级别协议](https://technet.microsoft.com/en-us/library/office-365-service-level-agreement.aspx) (SLA)。由世纪互联运营的 Office 365 具有不同的 SLA。有关详细信息，请访问 [世纪互联网站](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+请注意，从灾难性故障恢复后，可能需要经过一段时间才能还原服务的完整数据中心冗余。例如，如果数据中心 1 出现故障，则服务通过数据中心 2 的资源进行还原。不过，可能需要经过一段时间，数据中心 2 中的服务才会获得服务连续性支持（要么通过数据中心 1 中已还原的资源获得，要么通过数据中心 3 中的新资源获得）。在此期间应用的是 Office 365 [服务级别协议](service-level-agreement.md) (SLA)。由世纪互联运营的 Office 365 具有不同的 SLA。有关详细信息，请访问 [世纪互联网站](http://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="ensuring-data-availability"></a>确保数据可用性
 
@@ -149,9 +149,9 @@ Office 365 开发和运营团队由专门的 Office 365 支持组织提供补充
     
 在客户输入服务请求之前，他们可以访问知识库文章和常见问题，其中提供了最常见问题的立即帮助。我们以最新信息持续更新这些资源，通过提供已知问题的解决方案帮助避免延迟。然而，当出现的问题需要支持专业人员帮助时，员工成员可以通过电话和管理门户全天候提供立即帮助。
   
-若要详细了解支持，请参阅[支持](https://technet.microsoft.com/en-us/library/office-365-support.aspx)主题。 
+若要详细了解支持，请参阅[支持](support.md)主题。 
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx)。
+若要查看跨 Office 365 计划的功能可用性, 请参阅[office 365 Platform 服务说明](office-365-platform-service-description.md)。
   
