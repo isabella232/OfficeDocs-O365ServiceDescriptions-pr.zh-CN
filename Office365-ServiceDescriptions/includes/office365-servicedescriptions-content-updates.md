@@ -3,16 +3,6 @@
 
 
 
-## <a name="week-of-july-08-2019"></a>2019年7月1日一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 7/11/2019 | [Office 应用程序服务说明](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | 修改内容 |
-| 7/12/2019 | [Office 365 工程直接服务说明](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | 修改内容 |
-| 7/12/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改内容 |
-
-
 ## <a name="week-of-july-15-2019"></a>2019年7月15日一周
 
 
@@ -165,3 +155,17 @@
 | 8/8/2019 | [Office 365 安全与合规中心](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | 修改内容 |
 | 8/9/2019 | [Office 365 平台服务说明](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | 修改内容 |
 | 8/9/2019 | [OneDrive for Business 服务说明](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 修改内容 |
+
+
+## <a name="week-of-august-12-2019"></a>2019年8月12日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 8/12/2019 | [服务运行状况和连续性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 修改内容 |
+| 8/13/2019 | [Microsoft 365 租户级服务许可指南](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | 修改内容 |
+| 8/14/2019 | [OneDrive for Business 服务说明](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | 修改内容 |
+| 8/16/2019 | [Office 365 GCC 高和 DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | 修改内容 |
+| 8/16/2019 | [服务运行状况和连续性](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | 修改内容 |
+| 8/16/2019 | [适用于 web 服务说明的 Visio](/Office365/ServiceDescriptions/visio-online-service-description/visio-online-service-description) | 修改内容 |
+| 8/16/2019 | [适用于 web 的 Visio](/Office365/ServiceDescriptions/visio-online-service-description/visio-online) | 修改内容 |

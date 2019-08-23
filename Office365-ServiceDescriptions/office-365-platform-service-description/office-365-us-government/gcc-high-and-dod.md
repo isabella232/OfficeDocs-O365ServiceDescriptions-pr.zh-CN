@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 为了满足美国国防部的独特和不断发展的要求, 以及持有或处理 DoD 控制的未分类信息 (CUI) 或遵守了 Arm 规章 (ITAR) 的国际流量的承包商, Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450286"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568115"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -108,4 +108,8 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
 
 Yammer Enterprise 在 GCC 高和 DoD 环境中不可用。
   
+## <a name="customer-support"></a>客户支持
 
+如果使用 Office 365 GCC High/DOD 时, Microsoft 会提醒您不要将任何受控制、敏感或机密的信息与客户支持人员共享, 在您确认支持代理的授权以查看或访问此类数据。
+
+Microsoft 致力于保护你的[隐私](https://privacy.microsoft.com/privacystatement)。 但是, 服务资格鉴定边界中不包含 Office 365 GCC High/DoD 支持, 也不提供 FedRAMP、DOD SRG、ITAR、IRS 1075 或 CJIS 数据处理合规性保证。

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外, SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。 有关快速概述, 请参阅什么是 SharePoint？
-ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777853"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568125"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -90,7 +90,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[远程事件接收器](developer.md#remote-event-receiver) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[REST API](developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 设计管理器](developer.md#sharepoint-design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 2010 工作流（现成）](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 2013 和 SharePoint 2016 工作流](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -177,7 +177,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[快速浏览](insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[SQL Server Reporting Services (SSRS) 集成的模式](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[时间线切片器](insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[适用于 web 的 Visio](https://technet.microsoft.com/library/mt827475.aspx)<sup>17</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[适用于 web 的 Visio](../visio-online-service-description/visio-online-service-description.md)<sup>17</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |[Visio Services](insights.md#visio-services)<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**搜索功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[连续爬网](search.md#continuous-crawls) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
