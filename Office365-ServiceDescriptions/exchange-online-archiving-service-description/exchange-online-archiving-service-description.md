@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案, 适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 (SP2 及更高版本) 或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 257904ba751b23cb5e04f923994449cf3794488f
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231380"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656286"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -42,7 +42,7 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
 |:-----|:-----|
 |**适用于 Exchange Server 的 Exchange Online Archiving** <br/> |Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中具有主邮箱的用户的基于云的存档。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  <br/> |
 |**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** <br/> |Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中具有主邮箱的用户的基于云的存档。 有关详细信息，请参阅 [授权简介 - 授权 Core CAL Suite 和 Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license)。  <br/> |
-|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 基于云的存档和就地保留作为以下计划<sup>1、2</sup>的外接程序:<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商业协作版  <br/>  Office 365 商业高级版  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F1  <br/>  <b>注意:</b>以下计划已包含存档, 不需要作为加载项的 Exchange Online 存档:<br/> Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
+|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 基于云的存档和就地保留作为以下计划<sup>1、2</sup>的外接程序:<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商业协作版  <br/>  Office 365 商业高级版  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F1  <br/> Microsoft 365 商业版 <br/> Microsoft 365 企业版 F1<br/> <b>注意:</b>以下计划已包含存档, 不需要作为加载项的 Exchange Online 存档:<br/> Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/> Microsoft 365 企业版 E3 <br/> Microsoft 365 企业版 E5 <br/>有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
    
 >[!NOTE]
 ><sup>1</sup> 仅使用云的组织无需混合部署，此类组织的 Exchange 本地服务器上没有邮箱。 但是，如果存在本地邮箱，则需要配置混合部署。
