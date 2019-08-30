@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案, 适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 (SP2 及更高版本) 或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656286"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672576"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -65,7 +65,7 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
   
 ## <a name="unlimited-archive-storage-quota"></a>无限制存档存储配额
 
- Office 365 中的无限制存档功能 (称为自动扩展存档) 在 Exchange Online 中的存档邮箱中提供了不受限制的存储量。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 在 Exchange 混合部署中, 仅当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更高版本上) 时, 基于云的存档邮箱才支持自动扩展存档。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)（Office 365 中的无限制存档概述）。 有关可用性的详细信息，请参阅 [Office 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=)。
+ Office 365 中的无限制存档功能 (称为*自动扩展存档*) 可在 Exchange Online 中的存档邮箱中提供最高 1 TB 的存储空间。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后, 在达到 100 GB 存储容量时, 将自动添加额外的存储空间。 在 Exchange 混合部署中, 仅当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更高版本上) 时, 基于云的存档邮箱才支持自动扩展存档。 有关详细信息，请参阅 [在 Office 365 中不受限制地存档概述](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。
   
 > [!IMPORTANT]
 > 管理员无法调整存储配额。<br/>
