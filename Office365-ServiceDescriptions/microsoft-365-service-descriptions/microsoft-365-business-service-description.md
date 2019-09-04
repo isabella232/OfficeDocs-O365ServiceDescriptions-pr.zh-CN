@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起, 以帮助保护您的业务。 . 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息, 请参阅 Office 365 服务说明。
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206852"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717540"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -133,9 +133,9 @@ Microsoft 365 Business 是一个集成的解决方案, 将 Office 365 的同类�
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级威胁分析  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**设备和应用程序管理功能** <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全 E3** <br/> |
-|移动设备管理 (MDM)<sup>15</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于电脑、Mac 和移动设备<sup>15</sup>的 Intune 移动设备管理 (MDM) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |移动设备管理 (MDM) 自动注册  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|适用于 Office 应用和 LOB 应用程序的移动应用管理 (MAM)<sup>17</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|适用于 Office 应用程序和 LOB 应用程序的 Intune 移动应用程序管理 (MAM)<sup>17</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Windows update management、Defender、防火墙策略<sup>15</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |数据保护-选择性擦除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |为策略设定的安全组 (SG)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
