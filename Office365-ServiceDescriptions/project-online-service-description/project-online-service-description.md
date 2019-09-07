@@ -13,17 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online 是用于项目组合管理 (PPM) 和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
+ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
+ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777333"
+ms.lasthandoff: 09/07/2019
+ms.locfileid: "36790738"
 ---
 # <a name="project-online-service-description"></a>Project Online 服务说明
 
-Project Online 是用于项目组合管理 (PPM) 和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。 
+> [!NOTE]
+> 我们正在更新本文的过程。 请在10月 10 2019 日的开头查看更新的内容。
+>
+Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。 
   
 Project Online 提供三个计划 - Project Online 协作版、Project Online Professional 和 Project Online 高级版。
   
@@ -37,7 +40,7 @@ Project Online 服务存在一些限制。 有关详细信息，请参阅 [Proje
   
 ## <a name="data-backup"></a>数据备份
 
- Project Online 与 Office 365 具有相同的数据备份和保留策略。 有关详细信息, 请参阅[Office 365 中的数据保留、删除和销毁](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview)。
+ Project Online 与 Office 365 具有相同的数据备份和保留策略。 有关详细信息，请参阅[Office 365 中的数据保留、删除和销毁](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview)。
   
 ## <a name="use-of-sharepoint-online"></a>使用 SharePoint Online
 
@@ -51,12 +54,12 @@ Project Online 网站上的任何交互都需要 Project Online 许可证。
   
 - Project Online Essentials 是在其组织中已使用 Project Online Professional 或 Project Online Premium 的客户的工作组成员附加许可证。
     
-- 对于更高级的用例, 用户需要具有适当的许可证。 项目经理至少需要一个 Project Online 专业版许可证。 项目组合经理需要 Project Online Premium 许可证。
+- 对于更高级的用例，用户需要具有适当的许可证。 项目经理至少需要一个 Project Online 专业版许可证。 项目组合经理需要 Project Online Premium 许可证。
     
 > [!IMPORTANT]
 >  Project Online Essentials 是具有 Project Online Professional 或 Project Online 高级版的客户的工作组成员*附加*许可证。 
-<br/>当您的最后一个 Project Online Professional 或 Project Online Premium 许可证过期时, 将在120天后删除 Project Web App 实例。 
-<br/>对于 Project Online 试用订阅, 在试用期结束后30天内将删除 Project Web App 实例。 
+<br/>当您的最后一个 Project Online Professional 或 Project Online Premium 许可证过期时，将在120天后删除 Project Web App 实例。 
+<br/>对于 Project Online 试用订阅，在试用期结束后30天内将删除 Project Web App 实例。 
   
 ### <a name="external-users"></a>外部用户
 
@@ -64,7 +67,7 @@ Project Online 网站上的任何交互都需要 Project Online 许可证。
   
 ## <a name="project-online-plans"></a>Project Online 计划
 
-以下 Project Online 计划可用。 若要了解有关 Project Online 的详细信息, 请参阅[Project Online 入门](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
+以下 Project Online 计划可用。 若要了解有关 Project Online 的详细信息，请参阅[Project Online 入门](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)。
   
 ||||
 |:-----|:-----|:-----|
@@ -74,7 +77,7 @@ Project Online 网站上的任何交互都需要 Project Online 许可证。
 |Project Online Premium<sup>1</sup> <br/>|项目组合和资源管理器  <br/> | 所有 Project Online Professional 功能，外加：  <br/>  项目组合选择和优化  <br/>  需求管理  <br/>  企业资源管理  <br/>  现成项目组合报表  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project online Essentials、Project online Professional 和 Project online 高级版也作为由世纪互联运营的 office 365 的一部分提供, 特定于中国的 office 365 版本。 
+> <sup>1</sup> Project online Essentials、Project online Professional 和 Project online 高级版也作为由世纪互联运营的 office 365 的一部分提供，特定于中国的 office 365 版本。 
   
 ## <a name="feature-availability-across-project-online-standalone-plans"></a>跨 Project Online 独立计划的功能可用性
 <a name="BKMK_ProjectFeatures"> </a>
