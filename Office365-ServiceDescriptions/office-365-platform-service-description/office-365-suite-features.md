@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: 本主题中列出的功能是基于 web 的工具的集合, 可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776903"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998454"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
-本主题中列出的功能是基于 web 的工具的集合, 可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
+本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
   
 ## <a name="microsoft-bookings"></a>Microsoft 预订
 <a name="BKMK_Bookings"> </a>
@@ -38,17 +38,17 @@ Microsoft Flow 允许自动执行跨应用程序的工作流。可以使用 Flow
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms 是 Office 365 教育的一个新部件, 可让你快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据 (如测验结果) 导出到 Excel, 以进行其他分析或评分。 若要了解详细信息, 请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
+Microsoft Forms 是 Office 365 教育的一个新部件，可让你快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据（如测验结果）导出到 Excel，以进行其他分析或评分。 若要了解详细信息，请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 <a name="BKMK_Graph"> </a>
 
-使用 Microsoft Graph API 快速构建通过单个终结点连接到大量资源、关系和智能的应用程序: https://graph.microsoft.com。 例如, 您可以生成自定义仪表板、工作流和应用程序, 以检索组织的数据。 有关详细信息, 请参阅[Microsoft Graph 文档](https://go.microsoft.com/fwlink/?linkid=849595)。
+使用 Microsoft Graph API 快速构建通过单个终结点连接到大量资源、关系和智能的应用程序： https://graph.microsoft.com。 例如，您可以生成自定义仪表板、工作流和应用程序，以检索组织的数据。 有关详细信息，请参阅[Microsoft Graph 文档](https://go.microsoft.com/fwlink/?linkid=849595)。
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-MyAnalytics 提供有助于用户了解自己如何分配工作时间的统计信息。MyAnalytics 查看用户的日常工作活动，查找需要引起注意的方面，并为用户提供工具，以便能够更加考虑周到地利用时间。若要详细了解 MyAnalytics，请转到 [Learn more about the way you work with MyAnalytics](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US)（详细了解使用 MyAnalytics 的方式）和[适用于 Office 365 管理员的 Microsoft MyAnalytics](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7)。
+MyAnalytics 为您的个人工作效率提供了两个关键因素：您花费了时间和使用时间的人。 MyAnalytics 查看你的日常工作模式，找出可帮助你关注的领域，并提供工具以实现更多的时间使用。 有关详细信息，请参阅[Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics)和[Microsoft MyAnalytics for Office 365 admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)。
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>
@@ -68,12 +68,12 @@ Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及�
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-Microsoft Stream 是企业视频服务, 组织中的人员可以使用它来安全地上载、查看和共享视频。 您可以共享类、会议、演示文稿、培训会话或其他帮助您的团队协作的视频的唱片。 Microsoft Stream 还使您可以轻松地在注释和说明中共享视频和标记时间代码的注释, 以引用视频中的特定点。
+Microsoft Stream 是企业视频服务，组织中的人员可以使用它来安全地上载、查看和共享视频。 您可以共享类、会议、演示文稿、培训会话或其他帮助您的团队协作的视频的唱片。 Microsoft Stream 还使您可以轻松地在注释和说明中共享视频和标记时间代码的注释，以引用视频中的特定点。
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Microsoft Sway 是一个专业的数字 storytelling 应用程序, 可帮助你和你的同事使用交互式的基于 web 的画布表达创意。 Microsoft Sway 的内置设计引擎可帮助您生成专业、视觉冲击力的报告、演示文稿等, 而无需进行大量的格式设置或其他培训。 还可以修改结果，以获得所需的独特外观。 Microsoft Sway 在任何屏幕上的任何浏览器中创建的外观都非常出色, 可以通过简单地发送链接将其与同事和客户共享。 Microsoft Sway 可帮助你查找和提取所有种类的内容, 而无需离开应用程序, 因此您可以将图像、文本、视频和图表直接拖放到画布上。 若要了解详细信息，请参阅 [Sway](https://sway.com)。 Microsoft Sway 在[Office 365 德国](office-365-germany.md)尚不可用。
+Microsoft Sway 是一个专业的数字 storytelling 应用程序，可帮助你和你的同事使用交互式的基于 web 的画布表达创意。 Microsoft Sway 的内置设计引擎可帮助您生成专业、视觉冲击力的报告、演示文稿等，而无需进行大量的格式设置或其他培训。 还可以修改结果，以获得所需的独特外观。 Microsoft Sway 在任何屏幕上的任何浏览器中创建的外观都非常出色，可以通过简单地发送链接将其与同事和客户共享。 Microsoft Sway 可帮助你查找和提取所有种类的内容，而无需离开应用程序，因此您可以将图像、文本、视频和图表直接拖放到画布上。 若要了解详细信息，请参阅 [Sway](https://sway.com)。 Microsoft Sway 在[Office 365 德国](office-365-germany.md)尚不可用。
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
@@ -97,11 +97,11 @@ Office 365 视频是全公司范围内的安全目标，可供跨设备上载、
   
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
 
-课堂笔记本是 OneNote 的一部分, 可用于 Office 365 教育版和 Office 365 E5 教育版。 每个笔记本都包含用于教师共享课程内容的内容库、教师和学生可以协同工作的协作空间, 以及每个学生的专用笔记本。 创建课堂笔记本后, 教师和学生可以使用 OneNote 应用从任何设备访问它。
+课堂笔记本是 OneNote 的一部分，可用于 Office 365 教育版和 Office 365 E5 教育版。 每个笔记本都包含用于教师共享课程内容的内容库、教师和学生可以协同工作的协作空间，以及每个学生的专用笔记本。 创建课堂笔记本后，教师和学生可以使用 OneNote 应用从任何设备访问它。
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序, 它为 Microsoft 365 提供了独特的功能, 并能够在组织的目录内和外部的人员之间进行连接和接洽 (包括合同工作人员、供应商合作伙伴、供应商、客户和公民–使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的开放目录模型支持基于电话号码的标识, 以便于进行轻松加入, 并提供了简单的用户体验, 用于邮件和工作管理。 Kaizala 移动应用程序使用户能够发送即时消息和附件 (如图片、文档、视频、audios 等), 以及使用用于调查、投票、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) , 适用于 IPhone 和 Android。 若要了解详细信息, 请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
+Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序，它为 Microsoft 365 提供了独特的功能，并能够在组织的目录内和外部的人员之间进行连接和接洽（包括合同工作人员、供应商合作伙伴、供应商、客户和公民–使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的开放目录模型支持基于电话号码的标识，以便于进行轻松加入，并提供了简单的用户体验，用于邮件和工作管理。 Kaizala 移动应用程序使用户能够发送即时消息和附件（如图片、文档、视频、audios 等），以及使用用于调查、投票、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，适用于 IPhone 和 Android。 若要了解详细信息，请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
   
 ## <a name="feature-availability"></a>功能可用性
 

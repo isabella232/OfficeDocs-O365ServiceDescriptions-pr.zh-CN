@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: ce86b6829551ee5d0d82e528cf61dee811d9f1ad
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 2547b3dfa0379ca0b0ba28830e5c3d9cf499131b
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568134"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998533"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
   
-Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务, 包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 internet 随时随地实现工作效率。
+Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 internet 随时随地实现工作效率。
   
-若要跨计划比较功能, 请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409), 或者有关更详细的功能列表, 请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
+若要跨计划比较功能，请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -57,7 +57,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-有关安全&amp;合规性中心的信息以及指向其他信息和可用性的链接, 请参阅[Office &amp; 365 安全合规中心](office-365-securitycompliance-center.md)。
+有关安全&amp;合规性中心的信息以及指向其他信息和可用性的链接，请参阅[Office &amp; 365 安全合规中心](office-365-securitycompliance-center.md)。
   
 ## <a name="data-storage-location"></a>数据存储位置
 
@@ -65,11 +65,11 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 中的多地理位置功能
 
-多地理位置使单个 Office 365 租户可以跨多个 Office 365 数据中心地理位置, 并使您能够在所选地理位置以每用户的方式存储 Exchange Online 和 OneDrive for business、rest 上的 Office 365 数据。 
+多地理位置使单个 Office 365 租户可以跨多个 Office 365 数据中心地理位置，并使您能够在所选地理位置以每用户的方式存储 Exchange Online 和 OneDrive for business、rest 上的 Office 365 数据。 
   
-可用信息: 亚太地区、澳大利亚、加拿大、欧洲联合、印度、日本、韩国、英国、美国。 
+可用信息：亚太地区、澳大利亚、加拿大、欧洲联合、印度、日本、韩国、英国、美国。 
   
-若要了解详细信息, 请访问[在 Office 365 中引入多地理位置](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
+若要了解详细信息，请访问[在 Office 365 中引入多地理位置](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
   
 ## <a name="feature-availability-across-office-365-plans"></a>跨 Office 365 计划的功能可用性
 
@@ -100,7 +100,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |Microsoft Flow  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |无<sup>22</sup>  <br/> |无<sup>22</sup>  <br/> |无<sup>22</sup>  <br/> |无<sup>22</sup>  <br/> |无<sup>21、</sup> <sup>22</sup>  <br/> |是  <br/> |否  <br/> |
+|Microsoft MyAnalytics<sup>22</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -124,7 +124,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |从 Office 365 中管理安全组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多个管理员角色可用  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允许合作伙伴为您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure Active Directory 服务<sup>23</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure Active Directory 服务<sup>22</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[域](domains.md)** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |添加第二级自定义域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |添加第三级自定义域，如 marketing.fourthcoffee.com是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -207,23 +207,23 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |**[产品使用权限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> | 
 
 > <sup>1</sup> Office 365 不提供对其制造商不支持的任何操作系统的支持。 
-<br/><sup>2</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 Microsoft 365 商业版随附的 Office 客户端应用还支持完整的 Azure 信息保护 (计划 1) 功能。
+<br/><sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 Microsoft 365 商业版随附的 Office 客户端应用还支持完整的 Azure 信息保护（计划1）功能。
 <br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
 <br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
-<br/><sup>7</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息, 请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=836894)。 
+<br/><sup>7</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息，请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=836894)。 
 <br/><sup>8</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 
 <br/><sup>9</sup>降低了体验。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
-<br/><sup>10 个</sup>Microsoft 团队在 Office 365 business Essentials、Office 365 商业高级版、Office 365 企业版 (E1、E3、E5、F1) 和 Office 365 教育版计划中均可用。 
-<br/><sup>11</sup>在 Office 365 企业版 F1 中, Office 365 视频仅限于查看 (无发布或共享)。 
-<br/><sup>12</sup> Office 365 Enterprise F1, 支持一对一音频/视频呼叫。 只提供“加入”这种会议权限（不得创建或发起会议）。 
-<br/><sup>13</sup>在 Office 365 Enterprise F1 中, PowerApps 仅限于消耗量 (不发布或共享)。 
-<br/><sup>14</sup>在 Office 365 Enterprise F1 中, 流仅限于使用, 每个用户每个月限制运行数为750。 
-<br/><sup>15</sup>仅适用于 Office 365 教育版计划, 包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
-<br/><sup>16</sup>有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
-<br/><sup>17</sup>在美国和西欧 (荷兰) 地区支持高级电子数据展示。 (来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。> <br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量: 不发布或共享。
-<br/><sup>19</sup>从5月2019开始, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。
-<br/><sup>20</sup>作为免费加载项提供。 有关详细信息, 请参阅[获取 Microsoft 预订的访问权限](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
-<br/><sup>21</sup>若要获取 E3 计划的 MyAnalytics (Full), 您需要购买 MyAnalytics 加载项。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。 
-<br/><sup>22</sup>包括 MyAnalytics 的见解。 有关详细信息, 请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>23</sup>包括 Azure [active directory 定价页面](https://azure.microsoft.com/pricing/details/active-directory/)上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5, 才能获取高级 Azure AD 功能。
+<br/><sup>10 个</sup>Microsoft 团队在 Office 365 business Essentials、Office 365 商业高级版、Office 365 企业版（E1、E3、E5、F1）和 Office 365 教育版计划中均可用。 
+<br/><sup>11</sup>在 Office 365 企业版 F1 中，Office 365 视频仅限于查看（无发布或共享）。 
+<br/><sup>12</sup> Office 365 Enterprise F1，支持一对一音频/视频呼叫。 只提供“加入”这种会议权限（不得创建或发起会议）。 
+<br/><sup>13</sup>在 Office 365 Enterprise F1 中，PowerApps 仅限于消耗量（不发布或共享）。 
+<br/><sup>14</sup>在 Office 365 Enterprise F1 中，流仅限于使用，每个用户每个月限制运行数为750。 
+<br/><sup>15</sup>仅适用于 Office 365 教育版计划，包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
+<br/><sup>16</sup>有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+<br/><sup>17</sup>在美国和西欧（荷兰）地区支持高级电子数据展示。 （来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。
+<br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量：不发布或共享。
+<br/><sup>19</sup>从5月2019开始，Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。
+<br/><sup>20</sup>作为免费加载项提供。 有关详细信息，请参阅[获取 Microsoft 预订的访问权限](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
+<br/><sup>21</sup>有关详细信息，请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
+<br/><sup>22</sup>包括 azure active directory[定价页面](https://azure.microsoft.com/pricing/details/active-directory/)上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5，才能获取高级 Azure AD 功能。<br/>

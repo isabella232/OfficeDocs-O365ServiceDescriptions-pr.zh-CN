@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求, 以及代表美国政府持有或处理数据的承包商, Microsoft 提供了 Office 365 美国政府社区 (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: 5a89a930b11f92e1b5278885839304cc4e5982f6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
+ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776893"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998504"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求, 以及代表美国政府持有或处理数据的承包商, Microsoft 提供了 Office 365 美国政府社区 (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。 
+为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。 
   
 若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/en-us/government/compare-office-365-government-plans)页面。 
   
@@ -33,7 +33,7 @@ Office 365 美国政府版支持在中度影响级别进行联邦风险与授权
   
 Office 365 美国政府版 同样支持针对二级（不受控非机密信息）系统的美国国防部云计算二级安全条例指南。 
   
-Exchange Online、SharePoint Online、Exchange Online 存档、Skype for Business 和 Office for web 都具有一些功能, 这些功能可支持客户对法律实施机构的 CJIS 要求, 以及对处理 FTI 的客户的 IRS-1075 要求。
+Exchange Online、SharePoint Online、Exchange Online 存档、Skype for Business 和 Office for web 都具有一些功能，这些功能可支持客户对法律实施机构的 CJIS 要求，以及对处理 FTI 的客户的 IRS-1075 要求。
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 美国政府版社区筛查的人员
 
@@ -53,7 +53,7 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
 |CJIS 背景筛查  <br/> |在每个已加入 Microsoft CJIS IA 计划的州内，由州 CSA 指定的机构调查州审判的联邦和州级犯罪记录  <br/> |
 
-<sup>1</sup>仅适用于具有对 OFFICE 365 美国政府社区云 (GCC) 中托管的客户内容的临时或有权访问权限的人员  
+<sup>1</sup>仅适用于具有对 OFFICE 365 美国政府社区云（GCC）中托管的客户内容的临时或有权访问权限的人员  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 美国政府版社区和 Yammer
 
 虽然 Yammer Enterprise 不是 Office 365 美国政府版 的组件，但是 Office 365 美国政府版 E1 和 E3 计划许可的每个用户都可以将其作为独立产品免费获取。根据企业协议和企业订阅协议购买 Office 365 美国政府版 的客户当前不能享有此项优惠。 
@@ -64,11 +64,11 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 美国政府版社区和 MyAnalytics
 
-MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和运行，但尚未经 3PAO 进行 Office 365 年度 FedRAMP 审核。如有必要，请先咨询合规性主管，然后再为组织中的用户启用 MyAnalytics 服务。 
+MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和运行，但尚未经 3PAO 进行 Office 365 年度 FedRAMP 审核。如有必要，请先咨询合规性主管，然后再为组织中的用户启用 MyAnalytics 服务。
   
-## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云 (GCC) 客户支持
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云（GCC）客户支持
 
 Office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-)相同的条款和条件提供, 包括无支持代理物理位置或公民保证。 Office 365 GCC 与 Azure 公有云结合运行, 在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
+)相同的条款和条件提供，包括无支持代理物理位置或公民保证。 Office 365 GCC 与 Azure 公有云结合运行，在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
 
-Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分, 直到您确认他们的授权能够查看或访问此类数据。 Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客户支持不包含在服务资格鉴定边界中, 不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。
+Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分，直到您确认他们的授权能够查看或访问此类数据。 Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客户支持不包含在服务资格鉴定边界中，不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。

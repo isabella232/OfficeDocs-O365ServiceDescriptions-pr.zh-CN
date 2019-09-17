@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
-ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
+ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/05/2019
-ms.locfileid: "36762390"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998494"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -183,7 +183,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Microsoft Flow  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics  <br/> |无<sup>9、12、15</sup> <br/> |无<sup>9、12、15</sup> <br/> |是<sup>9，15</sup> <br/> |无<sup>9、12、15</sup> <br/> |
+|Microsoft MyAnalytics  <br/> |否 <br/> |否 <br/> |是<sup>17</sup> <br/> |否 <br/> |
 |Microsoft Planner  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Microsoft StaffHub  <br/> |否 <br/> |否 <br/> |否 <br/> |否<br/> |
