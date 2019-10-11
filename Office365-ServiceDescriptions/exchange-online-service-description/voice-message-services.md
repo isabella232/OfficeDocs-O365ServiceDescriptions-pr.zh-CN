@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7f01e3e013ea714735af300a8ecf36dd26984757
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776923"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442557"
 ---
 # <a name="voice-message-services"></a>语音消息服务
 
@@ -30,7 +30,7 @@ Microsoft Exchange Online 提供托管语音邮件服务，其中包括：
     
 - 呼叫者的拨号界面（自动助理）
     
-托管语音留言服务允许公司将内部电话系统连接到 Exchange Online 提供的语音留言服务中。 语音邮件记录和存储在 Exchange Online 基础结构中, 允许用户从 Outlook、Outlook 网页版或移动电话访问其语音邮件。 所有与 Exchange Online 的电话连接均需使用 voice-over-IP (VoIP) 协议。 通过使用 VoIP 介质网关和会话边界控制器 (SBC)，管理员可以将内部 IP PBX 或 PBX 电话系统连接到 Exchange Online。 如果客户已部署 IP PBX，或者 PBX 直接支持 VoIP 且可与 Exchange 语音留言服务进行互操作，则无需使用 VoIP 介质。 SBC 部署在客户网络外围且与内部电话网络连接，有助于确保通信（和客户网络）安全，防止窃听和入侵。 此外，它还支持与 Microsoft Lync Server 2010 和 2013 语音功能的互操作性。
+托管语音留言服务允许公司将内部电话系统连接到 Exchange Online 提供的语音留言服务中。 语音邮件记录和存储在 Exchange Online 基础结构中，允许用户从 Outlook、Outlook 网页版或移动电话访问其语音邮件。 所有与 Exchange Online 的电话连接均需使用 voice-over-IP (VoIP) 协议。 通过使用 VoIP 介质网关和会话边界控制器 (SBC)，管理员可以将内部 IP PBX 或 PBX 电话系统连接到 Exchange Online。 如果客户已部署 IP PBX，或者 PBX 直接支持 VoIP 且可与 Exchange 语音留言服务进行互操作，则无需使用 VoIP 介质。 SBC 部署在客户网络外围且与内部电话网络连接，有助于确保通信（和客户网络）安全，防止窃听和入侵。 此外，它还支持与 Microsoft Lync Server 2010 和 2013 语音功能的互操作性。
   
 Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 2016 中提供的功能类似。 具体包括：
   
@@ -40,7 +40,7 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
     
 - 呼叫者 ID（使用全局地址列表中的信息、用户的个人联系人、自定义联系人文件夹、以及外部社交网络的联系人）。
     
-- 从 Outlook 网页和 Outlook 重置的语音邮件 PIN (请参阅[重置语音邮件 pin](https://go.microsoft.com/fwlink/p/?LinkId=286328))。
+- 从 Outlook 网页和 Outlook 重置的语音邮件 PIN （请参阅[重置语音邮件 pin](https://go.microsoft.com/fwlink/p/?LinkId=286328)）。
     
 - 邮件等待指示器（有关详细信息，请参阅 [Exchange Online 中的 MWI](https://go.microsoft.com/fwlink/p/?LinkId=271794)）。 
     
@@ -66,11 +66,11 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
 如果第三方提供商提供的内部语音留言解决方案能够通过 SMTP 转发语音留言，或者支持 Microsoft Exchange Web 服务，则可与 Exchange Online 进行互操作。如果语音邮件系统本身不支持通过 SMTP 转发语音留言，则电子邮件服务器可保存在内部，以便接收语音邮件系统中的邮件，然后使用 SMTP 将其转发到云。由于许多第三方语音邮件系统均使用 MAPI/CDO 与 Exchange Server 进行互操作，以便提供高级 UM 功能，因此当 SMTP 用于与 Exchange Online 进行互操作时，这些系统的完整功能将无法使用。
   
 > [!NOTE]
-> Exchange Online UM 对第三方 PBX 系统的支持通过从客户端运营的直接连接来实现。2018年7月将结束。 有关详细信息, 请参阅[停产支持 Exchange Online 统一消息中的会话边界控制器](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/)。 
+> Exchange Online UM 对第三方 PBX 系统的支持通过从客户端运营的直接连接来实现。2018年7月将结束。 有关详细信息，请参阅[停产支持 Exchange Online 统一消息中的会话边界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117)。 
   
 ## <a name="skype-for-business-integration"></a>Skype for Business 集成
 
-组织可以将 Skype for Business Online 作为独立服务或 Microsoft Office 365 的一部分进行购买。 此外, 还支持 Skype for Business 2015 内部部署。 若要详细了解 Skype for Business Online，请参阅 [Skype for Business Online 服务说明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
+组织可以将 Skype for Business Online 作为独立服务或 Microsoft Office 365 的一部分进行购买。 此外，还支持 Skype for Business 2015 内部部署。 若要详细了解 Skype for Business Online，请参阅 [Skype for Business Online 服务说明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

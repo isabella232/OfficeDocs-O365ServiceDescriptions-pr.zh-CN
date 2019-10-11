@@ -1,5 +1,5 @@
 ---
-title: 适用于 web 的 Excel
+title: Excel 网页版
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401758"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442747"
 ---
-# <a name="excel-for-the-web"></a>适用于 web 的 Excel
+# <a name="excel-for-the-web"></a>Excel 网页版
 
 Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
   
@@ -88,7 +88,11 @@ Excel for web 可以完成您要键入到单元格中的内容，如果有多个
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>图表和表格，包括数据透视图报表和数据透视表
 
 Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 若要了解详细信息，请参阅[创建和设置表格式](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664)以及[数据透视表和数据透视图报表概述](https://go.microsoft.com/fwlink/?linkid=55417)。
-  
+
+## <a name="check-spelling"></a>检查拼写
+
+若要检查工作表上的任何文本的拼写，请选择 "**查看** > **校对** > **拼写**"。 了解有关[拼写检查](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)的详细信息。
+
 ## <a name="comment-creation"></a>Comment creation
 
 您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
@@ -123,7 +127,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="duplicate-copy-worksheets"></a>复制（复制）工作表
 
-您可以在工作簿或 Excel for web 中的其他工作簿中复制（或复制）工作表。 了解有关[在 Excel for web 中复制工作表](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online)的详细信息。
+您可以在工作簿或 Excel for web 中的其他工作簿中复制（或复制）工作表。 了解有关[在 Excel for web 中复制工作表](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web)的详细信息。
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在 web 或博客页面上嵌入工作簿（OneDrive）
 
@@ -171,7 +175,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
  
 ## <a name="group-data"></a>组数据
 
-您可以对 web 电子表格的 Excel 中的行和列进行分组或分级显示。 了解有关[在 Excel for web 中对数据进行分组](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online)的详细信息。
+您可以对 web 电子表格的 Excel 中的行和列进行分组或分级显示。 了解有关[在 Excel for web 中对数据进行分组](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)的详细信息。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
 
 创建图表以直观地呈现数据。从各种图表类型（例如，柱形图、折线图、饼图或条形图）中进行选择。了解有关[可用图表类型](https://go.microsoft.com/fwlink/p/?LinkId=273899)的详细信息。
   
-## <a name="insertdelete-rows-and-columns"></a>插入/删除行和列
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-选择一个或多个行，然后单击“主页”选项卡上的“插入”或“删除”，在工作表中一次添加或删除一个或多个行或列。
+选择 "**开始**" 选项卡上的 "**插入**或**删除**" 前，先选择一个或多个行，以在工作表中一次添加或删除行或列，或一次删除多行。
 
 ## <a name="insert-pictures"></a>插入图片
 
@@ -195,7 +199,7 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. 您可以通过选择对齐按钮来更改对齐方式。
 
 ## <a name="named-ranges"></a>命名区域
 
@@ -213,7 +217,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 用于 web 的 Excel 是从 Internet 浏览器启动的，并依赖于 Internet 连接。 要脱机访问电子表格，必须在计算机上安装 Microsoft Excel 桌面应用程序，用于查看和编辑 Excel 工作表。
 
-## <a name="pivottables"></a>PivotTables
+## <a name="pivottables"></a>数据透视表
 
 您可以在 Excel 中插入 web 电子表格的数据透视表，并计算、汇总和分析数据。 了解有关如何[在 Excel 中为 web 插入数据透视表](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)的详细信息。
 
@@ -249,15 +253,15 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 您可以删除区域或表中的重复值。 有关详细信息，请参阅[筛选唯一值或删除重复值](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
   
-## <a name="rename-and-add-sheets"></a>重命名和添加工作表
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-单击“新工作表”图标可添加工作表。右键单击任何工作表选项卡可将其重命名。
+选择 "新建工作表" 图标以添加工作表。 右键单击任何工作表选项卡可将其重命名。
   
 ## <a name="rename-file-while-workbook-is-open"></a>工作簿打开时重命名文件
 
-在 Excel for web 中，可以在不关闭工作簿的情况下对其进行重命名，方法是单击标题中的文件名，然后键入一个新名称。 若要使用 Excel 桌面应用程序重命名文件，则关闭文件、导航至文件在您设备上的位置，然后重命名文件。
+在 Excel for web 中，可以在不关闭工作簿的情况下对其进行重命名，方法是在标头中选择文件名并键入一个新名称。 若要使用 Excel 桌面应用程序重命名文件，则关闭文件、导航至文件在您设备上的位置，然后重命名文件。
   
-## <a name="replace"></a>Replace
+## <a name="replace"></a>替换
 
 在 Excel for web 中不可用。 如果你在计算机上安装了 Excel 桌面应用程序，则可以使用 Excel 查找并替换文档中的内容。 了解有关[在 Excel 中使用查找和替换的](https://go.microsoft.com/fwlink/p/?LinkId=282333)详细信息。
   
@@ -279,7 +283,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="slicer-viewing"></a>切片器查看
 
-查看您工作表中的切片器，通过单击切片器按钮筛选数据。 无法在 Excel for web 中创建或编辑切片器。
+在工作表中查看切片器并通过选择切片器按钮筛选数据。 无法在 Excel for web 中创建或编辑切片器。
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 ## <a name="total-data"></a>总数据
 
-您可以通过单击 "开始" 选项卡中 "格式为表格" 下的 "切换汇总行" 来快速汇总表中的数据。 
+通过启用 "切换汇总行" 选项，可以快速汇总表中的数据。 有关详细信息，请参阅[总计 Excel 表中的数据](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)。
 
 ## <a name="undo-and-redo"></a>撤消和恢复
 

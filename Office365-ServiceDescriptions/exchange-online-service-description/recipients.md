@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: c4bac85f6a3610152cd8cb0767c7344c2e88d1f2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776883"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442617"
 ---
 # <a name="recipients"></a>收件人
 
@@ -155,7 +155,7 @@ Exchange Online 包括资源预订助理 (RBA)，这将自动计划会议室和�
   
 - **联合日历共享** 联合身份验证指支持"联盟共享"（Exchange 用户与其他外部联盟组织中的收件人共享闲/忙日历数据和联系人信息的一种简单方法）的基本信任基础结构。这包括 Exchange Online 组织或运行 Exchange Server 2010 或 Exchange Server 2013 内部部署的组织。Exchange Online 管理员无需设置与 Microsoft 联合网关的信任，因为在创建 Office 365 租户服务时已为所有 Exchange Online 客户预配置该信任。默认共享策略允许用户从 Outlook Web App 或 Outlook 2010 发送日历共享邀请。管理员使用远程 Windows PowerShell 禁用该策略，或配置用户可以共享的闲/忙日历数据级别。管理员还可以创建与另一个联合组织的组织对组织关系，这允许所需闲/忙信息级别对跨组织的每个用户可见，而无需单个用户进行共享邀请。在管理员定义的共享策略和/或组织对组织关系范围内，用户可以单独进一步限制他们共享的详细信息。 
     
-- **Internet 日历共享** Exchange Online 允许用户使用 iCal 格式发布他们的日历，以由组织内外的任何人匿名访问。收件人可以使用 Exchange（另一个平台）或仅仅使用 Web 浏览器。Exchange Online 用户还可以订阅其他人已经通过 iCal 发布到 Internet 位置的日历。该个人日历共享与联合日历共享不同，它由管理员配置并提供组织对组织的闲/忙共享。没有用户可以以 iCal 格式发布日历数据，直到管理员设定并应用允许它的共享策略。管理员可以使用远程 Windows PowerShell，禁用组织用户的 iCal 发布和 iCal 订阅。 
+- **Internet 日历共享** Exchange Online 允许用户使用 iCal 格式发布他们的日历，以由组织内外的任何人匿名访问。 收件人可以使用 Exchange（另一个平台）或仅仅使用 Web 浏览器。 Exchange Online 用户也可以通过 iCal 订阅其他人已发布到 internet 位置的日历。 该个人日历共享与联合日历共享不同，它由管理员配置并提供组织对组织的闲/忙共享。 没有用户可以以 iCal 格式发布日历数据，直到管理员设定并应用允许它的共享策略。 管理员可以使用远程 Windows PowerShell，禁用组织用户的 iCal 发布和 iCal 订阅。 
     
 有关联合共享的详细信息，请参阅 [Exchange Online 中的共享](https://go.microsoft.com/fwlink/p/?LinkId=271774)。
   

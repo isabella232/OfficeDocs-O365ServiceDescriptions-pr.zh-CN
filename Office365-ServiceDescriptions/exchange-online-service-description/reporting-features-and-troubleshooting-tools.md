@@ -11,37 +11,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online 提供了 Exchange 管理中心 (EAC) 的各种报告功能。
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Microsoft Exchange Online 提供了 Exchange 管理中心（EAC）的各种报告功能。
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776863"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442637"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>报告功能和疑难解答工具
 
-Microsoft Exchange Online 提供了 Exchange 管理中心 (EAC) 的各种报告功能。
+Microsoft Exchange Online 提供了 Exchange 管理中心（EAC）的各种报告功能。
   
 ## <a name="reporting-features"></a>报告功能
 
-Exchange Online 客户可以通过下载 Excel 报告工作簿或使用 Web 服务来访问 Microsoft 365 管理中心中的报告。
+Exchange Online 客户可以通过下载 Excel 报告工作簿或使用 web 服务来访问 Microsoft 365 管理中心中的报告。
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>Microsoft 365 管理中心中的报告
 
-Microsoft 365 管理中心中的 "报告" 页面上有报告, 其中提供了有关邮箱和组的摘要信息。 例如，其中有一项报告将列出按天、星期、月份或年份创建和删除的组的数量。 它还有许多有关新邮箱和已删除邮箱的摘要报告，以及活动和不活动邮箱的摘要报告。 
+Microsoft 365 管理中心中的 "报告" 页面上有报告，其中提供了有关邮箱和组的摘要信息。 例如，其中有一项报告将列出按天、星期、月份或年份创建和删除的组的数量。 它还有许多有关新邮箱和已删除邮箱的摘要报告，以及活动和不活动邮箱的摘要报告。 
   
-此外, Microsoft 365 管理中心中的 "报告" 页面包含邮件数据报告, 其中提供了有关邮件流量、垃圾邮件和恶意软件检测以及受 Exchange 传输规则或数据丢失防护 (DLP) 影响的邮件的信息。策略. 有关保护、规则和 DLP 的增强报告为 Exchange Online 管理员提供了交互式报告体验。 这些报告提供了摘要数据，以及深入了解各个邮件详细信息的功能。
+此外，Microsoft 365 管理中心中的 "报告" 页面包含邮件数据报告，其中提供了有关邮件流量、垃圾邮件和恶意软件检测以及受 Exchange 传输规则或数据丢失防护（DLP）影响的邮件的信息。策略. 有关保护、规则和 DLP 的增强报告为 Exchange Online 管理员提供了交互式报告体验。 这些报告提供了摘要数据，以及深入了解各个邮件详细信息的功能。
   
-若要详细了解每个 Office 365 订阅的可用报告，请参阅[报告](../office-365-platform-service-description/reports.md)。 有关 Microsoft 365 管理中心中的 "报告" 页面的更多详细信息, 请参阅[查看和下载有关 office 365 中服务使用情况的报告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用 office 365 中的邮件保护报告查看有关恶意软件、垃圾邮件和规则检测的数据](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+若要详细了解每个 Office 365 订阅的可用报告，请参阅[报告](../office-365-platform-service-description/reports.md)。 有关 Microsoft 365 管理中心中的 "报告" 页面的更多详细信息，请参阅[查看和下载有关 office 365 中服务使用情况的报告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用 office 365 中的邮件保护报告查看有关恶意软件、垃圾邮件和规则检测的数据](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>使用 Excel 报告工作簿进行报告
 
-还可以使用 Excel 2013 报告工作簿来查看具有细分功能的摘要报告。 但是, 我们建议改为使用增强型 Microsoft 365 管理中心报告。 Excel 2013 报告工作簿计划将在未来弃用。 有关下载并安装此工作簿的更多概述信息和链接，请访问以下[下载页](https://go.microsoft.com/fwlink/p/?LinkId=271776)。 若要了解如何使用工作簿，请参阅 [Mail Protection Reports Using the Excel Reporting Workbook](https://go.microsoft.com/fwlink/p/?LinkId=285211)（使用 Excel 报告工作簿的邮件保护报告）。 
+还可以使用 Excel 2013 报告工作簿来查看具有细分功能的摘要报告。 但是，我们建议改为使用增强型 Microsoft 365 管理中心报告。 Excel 2013 报告工作簿计划将在未来弃用。 有关下载并安装此工作簿的更多概述信息和链接，请访问以下[下载页](https://go.microsoft.com/fwlink/p/?LinkId=271776)。 若要了解如何使用工作簿，请参阅 [Mail Protection Reports Using the Excel Reporting Workbook](https://go.microsoft.com/fwlink/p/?LinkId=285211)（使用 Excel 报告工作簿的邮件保护报告）。 
   
-### <a name="reporting-using-web-services"></a>使用 Web 服务的报告
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-使用 REST/OData Tenant Reporting Web 服务（一款支持创建自定义报告的编程界面），可以访问邮箱、组和邮件数据的摘要报告和详细报告。有关详细信息，请参阅 [Office 365 报告 Web 服务](https://go.microsoft.com/fwlink/p/?LinkId=287041)。
+通过使用 REST/OData 租户报告 web 服务，可以访问有关邮箱、组和邮件数据的摘要和详细报告，它是一种可用于创建自定义报告的编程界面。 有关详细信息，请参阅[Office 365 Reporting web services](https://go.microsoft.com/fwlink/p/?LinkId=287041)。
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC 中的报告功能和疑难解答工具
 
