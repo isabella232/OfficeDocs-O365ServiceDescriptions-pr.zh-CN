@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: bc255f5664281db3c7abf0f30bb1093c373760e4
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334182"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523270"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -37,7 +37,7 @@ ms.locfileid: "37334182"
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Exchange online、SharePoint online 和 OneDrive for](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)business<sup>7、9</sup>的数据丢失防护<br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
-|敏感度标签<sup>10</sup> | 否 <br/>| 否 <br/> | 否 <br/>| 可访问 <br/>| 是 <br/>| 否 <br/> |
+|[敏感度标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 <br/>| 否 <br/> | 否 <br/>| 可访问 <br/>| 是 <br/>| 否 <br/> |
 |[信息屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[数据调控](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
@@ -48,7 +48,7 @@ ms.locfileid: "37334182"
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[手动保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |否  <br/> |否  <br/> |是<sup>11</sup> <br/> |是  <br/> |是  <br/> |是<sup>11<br/> |
 |[监督策略](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 ||||||||
    
@@ -61,7 +61,8 @@ ms.locfileid: "37334182"
 <sup>7</sup>包括存储在 Microsoft 团队存储库中的文件。<br/>
 <sup>8</sup>您还可以使用[Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 <br/>
 <sup>9</sup>可添加到任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 的 DLP 加载项。<br/>
-<sup>10 个</sup>敏感标签也包含在 Azure 信息保护 P1 和 P2 中。
+<sup>10 个</sup>敏感标签也包含在 Azure 信息保护 P1 和 P2 中。<br/>
+<sup>11</sup>需要 Exchange Online 计划2许可证才能将保留策略应用于用户邮箱。 
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立&amp;计划的安全合规性中心可用性
 
@@ -86,7 +87,7 @@ ms.locfileid: "37334182"
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/>
-|[手动保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[监督策略](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |||||||||
    

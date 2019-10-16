@@ -8,29 +8,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 09d91efc728184db881d328ce0e3d2c69159b348
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。
+ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776993"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523372"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
-Microsoft 365 提供了各种计划, 以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异, 本文将向您介绍其中每个功能中包含的功能。 
+Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。 
   
-Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365, 以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较 Office 365 功能, 请参阅[比较 office 365 For business 计划](https://go.microsoft.com/fwlink/?linkid=799177), 或者, 有关更详细的功能列表, 请参阅[Office 365 服务说明](https://go.microsoft.com/fwlink/?linkid=839510)中的相关服务说明。 若要搜索支持文章和信息, 请参阅[Office 帮助和培训](https://support.office.com/)。
+Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365，以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较 Office 365 功能，请参阅[比较 office 365 For business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。 若要搜索支持文章和信息，请参阅[Office 帮助和培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
-每个 Microsoft 365 教育版计划都包含许多单独的服务, 例如 Exchange Online 和 SharePoint Online。 下表显示了每个 Office 365 和 Microsoft 365 计划中提供的服务, 以便您可以选择最能满足您的需求的解决方案。 若要更详细地查看 Office 365 服务和功能, 请参阅[office 365 教育](https://technet.microsoft.com/EN-US/library/mt844095.aspx)服务说明。 
+每个 Microsoft 365 教育版计划都包含许多单独的服务，例如 Exchange Online 和 SharePoint Online。 下表显示了每个 Office 365 和 Microsoft 365 计划中提供的服务，以便您可以选择最能满足您的需求的解决方案。 若要更详细地查看 Office 365 服务和功能，请参阅[office 365 教育](office-365-education.md)服务说明。
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**服务** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Office 365 平台  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 ProPlus  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
@@ -100,13 +100,13 @@ Microsoft 365 提供了一个完整的系统, 包括 Office 365、Windows 10 和
 > <sup>2</sup>包括 Exchange Online 计划2。 <br/>
 > <sup>3</sup>包括 SharePoint Online 计划1和补充功能。 <br/>
 > <sup>4</sup>包括 SharePoint Online 计划2。 <br/>
-> <sup>5</sup> Project Online Essentials 不包括在内, 但可以免费添加到 Office 365 教育版计划中。 <br/>
-> <sup>6</sup> Microsoft 365 教育版 A5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐, 需要购买额外的计划 (国内通话套餐或国际通话套餐)。 <br/>
-> <sup>7</sup>若要详细了解 Office 365 计划中包含哪些 Azure 信息保护功能, 请参阅[Azure 信息保护](https://go.microsoft.com/fwlink/?linkid=838357)。 <br/>
+> <sup>5</sup> Project Online Essentials 不包括在内，但可以免费添加到 Office 365 教育版计划中。 <br/>
+> <sup>6</sup> Microsoft 365 教育版 A5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐，需要购买额外的计划（国内通话套餐或国际通话套餐）。 <br/>
+> <sup>7</sup>若要详细了解 Office 365 计划中包含哪些 Azure 信息保护功能，请参阅[Azure 信息保护](https://go.microsoft.com/fwlink/?linkid=838357)。 <br/>
 > <sup>8</sup>包括 Intune。 <br/>
 > Exchange、SharePoint 和 Skype for business 中包含<sup>9</sup>台服务器和 cal。 <br/>
-> <sup>10</sup> ECAL 或 Core CAL (具体取决于所购买的 A3 版本) 和 A5, 包括 ECAL 权限。 <br/>
-> <sup>11</sup>有关 Azure Active directory 的详细信息, 请参阅[什么是 Active Directory？](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)。 <br/>
-> 需要<sup>12</sup>个 Office Pro Plus, 才能通过 Outlook 桌面应用保护和发送受保护的电子邮件。 
+> <sup>10</sup> ECAL 或 Core CAL （具体取决于所购买的 A3 版本）和 A5，包括 ECAL 权限。 <br/>
+> <sup>11</sup>有关 Azure Active directory 的详细信息，请参阅[什么是 Active Directory？](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis)。 <br/>
+> 需要<sup>12</sup>个 Office Pro Plus，才能通过 Outlook 桌面应用保护和发送受保护的电子邮件。 
   
 

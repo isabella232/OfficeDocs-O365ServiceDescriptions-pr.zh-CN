@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: 4ec162de7b5e005a177d0eb2f2122ba46422519c
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: f111729e829c0886c38141915fa7225f7633a578
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035098"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523210"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
 
@@ -30,10 +30,10 @@ ms.locfileid: "37035098"
 |每个组织的网站集  <br/> |1000000<sup>6</sup> <br/> |1000000<sup>6</sup> <br/> |100 万<br/> |
 |用户数  <br/> |最高为300  <br/> |1-500000<sup>7</sup> <br/> |1-500000<sup>7</sup> <br/> |
    
-<sup>1</sup>您可以购买不受限制的额外 SharePoint 存储空间。 请参阅[更改订阅的存储空间](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
+<sup>1</sup> [了解如何查找组织的总存储空间和可用存储空间](/sharepoint/manage-site-collection-storage-limits)。 您可以购买不受限制的额外 SharePoint 存储空间。 请参阅[更改订阅的存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
 <br/><sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 它使用的存储空间是组织总存储限制的一部分。 
 <br/> <sup>3</sup>如果你有 office 365 订阅和 Office 365 额外文件存储加载项，则会添加存储量。 
-<br/> <sup>4</sup>这是单个网站集的存储限制，而不是为每个网站集提供的存储量。 此限制适用于所有类型的网站集，包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以[手动设置较低的存储限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。 
+<br/> <sup>4</sup>这是单个网站集的存储限制，而不是为每个网站集提供的存储量。 此限制适用于所有类型的网站集，包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以[手动设置较低的存储限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
 <br/> <sup>5</sup> Firstline 工作线程无法管理 SharePoint 网站集。 
 <br/> <sup>6</sup>不包含为每个许可的用户创建的 OneDrive。 
 <br/> <sup>7</sup>如果用户数超过500000，请与 Microsoft 代表联系。 

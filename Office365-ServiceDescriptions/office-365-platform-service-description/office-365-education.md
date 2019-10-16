@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998484"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523374"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 Internet 随时随地实现工作效率。
   
-本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)中的相关服务说明。
+本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
 若要搜索支持文章和信息，请参阅[Office 帮助和培训](https://support.office.com/)。
   
@@ -37,7 +37,7 @@ ms.locfileid: "36998484"
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>7</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
-|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
@@ -57,7 +57,7 @@ ms.locfileid: "36998484"
   
 ## <a name="service-level-agreement"></a>服务级别协议
 
-有关服务级别协议的信息，请参阅[服务级别协议](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement)。 有关 Office 365 最近运行时间的信息，请参阅 [Transparent operations from Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)（Office 365 透明操作）。
+有关服务级别协议的信息，请参阅[服务级别协议](../office-365-platform-service-description/service-level-agreement.md)。 有关最近保障 for Office 365 的信息，请参阅[最近的全球保障](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)。
   
 ## <a name="platform-features"></a>平台功能 
 
@@ -66,7 +66,7 @@ ms.locfileid: "36998484"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Office 365 管理功能](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Office 365 管理功能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -207,7 +207,7 @@ ms.locfileid: "36998484"
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |否  <br/> |否  <br/> |可访问  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[数据治理](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[数据调控](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[内容搜索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -302,12 +302,12 @@ ms.locfileid: "36998484"
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**适用于 web 的 Office** <br/> |**链接到详细的功能比较** <br/> |
-|Word  <br/> |适用于 web 的 Word <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |适用于 web 的 Excel <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |适用于 web 的 OneNote <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint for web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |适用于 web 的 Visio  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|**Application** <br/> |**Office 网页版** <br/> |**链接到详细的功能比较** <br/> |
+|Word  <br/> |Word 网页版 <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel 网页版 <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote 网页版 <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint 网页版 <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio 网页版  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online 功能 
 <a name="OfcOnline"> </a>
@@ -418,7 +418,7 @@ ms.locfileid: "36998484"
 |远程 Windows PowerShell 访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |移动设备的 ActiveSync 策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用情况报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook 外接程序和 Outlook MAPI  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -632,7 +632,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 > [!NOTE]
 > <sup>1</sup> Office 365 管理员可以指定范围为 1 MB 到 150 MB 的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关自定义组织允许的邮件最大大小的更多信息，请参阅 [Office 365 现在支持更大的电子邮件](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。<br/> 
 <sup>2</sup>您可以在 office 365 用户之间发送和接收最高 150 MB 的邮件（邮件永远不会离开 office 365 数据中心）。 在 Office 365 数据中心之外路由的邮件需要额外增加 33% 的转换编码。在这种情况下，邮件大小上限为 112 MB。 <br/> 
-<sup>3</sup> OWA 帐户可能会导致您的邮件受到 33% 编码的增加，并将邮件大小限制为低于配置的设置的 25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> 
+<sup>3</sup> OWA 帐户可能会导致您的邮件受到33% 编码的增加，并将邮件大小限制为低于配置的设置的25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> 
 <sup>4</sup>要移动到 exchange online 中的邮件的大小由 Exchange online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法（转换、暂存、IMAP、PST）和其他第三方工具受常规邮件大小限制的限制。 <br/> 
 <sup>5</sup>有关具有新功能的 OME 的信息，请参阅[设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
   
@@ -805,7 +805,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 OneDrive for Business （以前称为 SkyDrive Pro）是云中的个人在线存储空间。 使用它可轻松、安全地跨多个设备存储你的工作文件。 根据需要与同事共享你的文件，并在 Office for web 中实时编辑 Office 文档。 使用 OneDrive for Business 同步应用将文件同步到本地计算机。
   
-OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要了解详细信息，请参阅[什么是 OneDrive For business？](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要了解详细信息，请参阅[什么是 OneDrive For business？](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)。
   
 ### <a name="system-requirements"></a>系统要求
 
@@ -825,9 +825,9 @@ OneDrive for Business 计划1为每个用户提供 1 TB 的存储空间。
     
 您不能向特定 OneDrive 用户分配更多存储空间。 但是，您可以降低用户看到的存储量。 如果 Office 365 企业版 F1 用户需要更多存储空间，则需要升级到 Office 365 企业版 E1。
   
-有关无法添加到 OneDrive for business 的文件类型的信息，请参阅[无法添加到列表或库的文件的类型](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US)。
+有关无法添加到 OneDrive for business 的文件类型的信息，请参阅[无法添加到列表或库的文件的类型](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3)。
   
-SharePoint Online 随附 OneDrive for Business。 若要了解 SharePoint Online 中的其他限制（如网站集配额、文件上载限制和存储限制），请参阅[SharePoint online 软件边界和限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498)。 
+SharePoint Online 随附 OneDrive for Business。 若要了解 SharePoint Online 中的其他限制（如网站集配额、文件上载限制和存储限制），请参阅[SharePoint online 软件边界和限制](../sharepoint-online-service-description/sharepoint-online-limits.md)。
   
 ### <a name="subscription-plans"></a>订阅计划
 
@@ -1105,7 +1105,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |用户数  <br/> |1-500000<sup>6</sup> <br/> |1-500000<sup>6</sup> <br/> |1-500000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup>您可以购买无限制的额外 SharePoint Online 存储空间。 请参阅[更改订阅的存储空间](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US)。 <br/> <sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 The storage space it uses is part of the organization's total file storage limit.<br/> 
+> <sup>1</sup>您可以购买无限制的额外 SharePoint Online 存储空间。 请参阅[为你的订阅添加存储空间](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)。 <br/> <sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 The storage space it uses is part of the organization's total file storage limit.<br/> 
 <sup>3</sup>当你具有 Office 365 订阅和 SharePoint Online 独立计划时，将添加存储量。<br/> 
 <sup>4</sup> SharePoint Online 管理员可以设置网站集和网站的存储使用限制。<br/> 
 <sup>5</sup>不包含为每个许可的用户创建的 OneDrive for business 网站集。<br/> 
@@ -1220,7 +1220,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |Voicemail  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |
-|[消耗学分](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Skype for Business 语音  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1269,7 +1269,7 @@ Skype for Business Online 中的限制分为以下几类：
   
 #### <a name="peer-to-peer-limits"></a>对等限制
 
-- **文件传输限制** 在 Skype for Business Online IM 对话中可以传输的文件大小上限。若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o)的 Microsoft 支持文章。
+- **文件传输限制** 在 Skype for Business Online IM 对话中可以传输的文件大小上限。若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)的 Microsoft 支持文章。
     
 - **打开选项卡式的对话限制** Skype for Business 用户一次可以打开的对话选项卡的最大数量。 
     
@@ -1330,4 +1330,3 @@ Skype for Business Online 中的限制分为以下几类：
 
 有关 Skype for business Online 国内和国际呼叫计划中的分钟限制的信息，请参阅[skype For Business ONLINE PSTN 服务使用条款](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services)。
   
-
