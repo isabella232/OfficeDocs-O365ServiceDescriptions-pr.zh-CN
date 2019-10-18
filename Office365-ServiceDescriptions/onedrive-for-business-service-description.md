@@ -27,7 +27,7 @@ OneDrive 是为组织中的单个许可用户提供的云中的联机存储空�
   
 OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 计划中，也可以作为单独计划购买。 
     
-若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/zh-CN/onedrive-for-business/compare-onedrive-for-business-plans)。 
+若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
 > OneDrive for Business 独立计划包含 Office 网页版。 
