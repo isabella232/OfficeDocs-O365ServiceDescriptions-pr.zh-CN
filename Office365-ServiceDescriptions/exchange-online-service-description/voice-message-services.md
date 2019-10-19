@@ -1,5 +1,5 @@
 ---
-title: 语音消息服务
+title: 语音邮件服务
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442557"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581428"
 ---
-# <a name="voice-message-services"></a>语音消息服务
+# <a name="voice-message-services"></a>语音邮件服务
 
 ## <a name="voice-mail"></a>语音邮件
 
@@ -44,11 +44,11 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
     
 - 邮件等待指示器（有关详细信息，请参阅 [Exchange Online 中的 MWI](https://go.microsoft.com/fwlink/p/?LinkId=271794)）。 
     
-- 电话应答规则（有关详细信息，请参阅[允许语音邮件用户转接来电](https://go.microsoft.com/fwlink/p/?LinkId=271795)）。 
+- 呼叫应答规则（请参阅[允许语音邮件用户转接来电](https://go.microsoft.com/fwlink/p/?LinkId=271795)获取详细信息）。
     
-- Exchange Online 中受保护的语音邮件（有关详细信息，请参阅 [Protected Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796)（Exchange Online 中受保护的语音邮件））。 
+- Exchange Online 中的受保护的语音邮件（有关详细信息，请参阅[保护语音邮件在 Exchange online 中](https://go.microsoft.com/fwlink/p/?LinkId=271796)）。
     
-- 语音邮件预览（有关支持的语言列表，请参阅 [Allow Users to See a Voice Mail Transcript](https://go.microsoft.com/fwlink/p/?LinkId=271797)（允许用户查看语音邮件转录））。 
+- 语音邮件预览（请参阅[允许用户查看语音邮件稿本](https://go.microsoft.com/fwlink/p/?LinkId=271797)以获取受支持语言的列表）。
     
 - 语音访问电子邮件、语音邮件、日历、个人联系人和个人联系人组。
     
@@ -56,10 +56,16 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
     
 - 管理员使用 Exchange 管理中心 (EAC) 配置并管理语音留言服务的互操作性。
     
-有关语音邮件功能的详细信息，请参阅 [Exchange Online 中的语音邮件](https://go.microsoft.com/fwlink/p/?LinkId=271798)。
+有关语音邮件功能的详细信息，请参阅[Exchange Online 中的语音邮件](https://go.microsoft.com/fwlink/p/?LinkId=271798)。
   
 > [!IMPORTANT]
-> 对于 Outlook Voice Access 用户或使用语音命令的自动助理呼叫者，自动语言识别 (ASR) 功能在菜单导航或目录搜索中不可用。 > 客户必须使用 VoIP 网关和 PBX、IP PBX 或 Skype for Business Server 2015 提供来自公用电话交换网 (PSTN) 的电话连接。 > 客户必须提供内部 SBC 硬件设备，并确保 SBC 已正确配置为连接到联机语音邮件服务。这包括通过使用证书以及公用和专用 IP 接口，并支持正确的 TCP 端口通过内部防火墙，从而配置适当的安全级别。 > 只有 Exchange Online 计划 2 和 Office 365 企业版 E3 订阅者才能使用托管语音邮件。 
+> 对于 Outlook Voice Access 用户或使用语音命令的自动助理呼叫者，自动语言识别 (ASR) 功能在菜单导航或目录搜索中不可用。 
+>
+> 客户必须使用 VoIP 网关和 PBX、IP PBX 或 Skype for business Server 2015，通过公用电话交换网（PSTN）提供电话连接。 
+>
+> 客户必须提供内部 SBC 硬件设备，并确保 SBC 已正确配置为连接到联机语音邮件服务。这包括通过使用证书以及公用和专用 IP 接口，并支持正确的 TCP 端口通过内部防火墙，从而配置适当的安全级别。 
+>
+> 托管语音邮件仅适用于 Exchange Online 计划2和 Office 365 企业版 E3 订阅者。 
   
 ## <a name="third-party-voice-mail-interoperability"></a>第三方语音邮件互操作性
 
@@ -74,6 +80,6 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

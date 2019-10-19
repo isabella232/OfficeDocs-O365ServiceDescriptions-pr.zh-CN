@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839863"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595261"
 ---
 ---
 
@@ -52,9 +52,9 @@ Microsoft 365 政府专为满足美国政府机构在四个关键领域的合规
 |||
 |:----------|:----------------------------------|:---------|
 |**扩大** <br/> |**承诺** <br/> |
-|Microsoft 365 政府版 GCC  <br/> |FedRamp 中等、CJIS、IRS 1075、DISA SRG L2  <br/> |是  <br/> |
-|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |是  <br/> |
-|Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |是  <br/> |
+|Microsoft 365 政府版 GCC  <br/> |FedRamp 中等、CJIS、IRS 1075、DISA SRG L2  <br/> |可访问  <br/> |
+|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |可访问  <br/> |
+|Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |可访问  <br/> |
 
 有关 Microsoft 安全性和合规性资格鉴定的详细信息，请访问[Microsoft 信任中心](https://www.microsoft.com/trustcenter/default.aspx)  
 
@@ -117,10 +117,12 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 ## <a name="how-do-i-buy-microsoft-365-government"></a>如何购买 Microsoft 365 政府版？
 
 请按照以下步骤购买 Microsoft 365 政府版许可证：
+
 1. [完成并提交表单](https://products.office.com/government/eligibility-validation)以验证组织的资格。
 2. 与 Microsoft 帐户团队或符合条件的合作伙伴合作，以下订单。 客户只能通过 "选择合作伙伴" 购买 Microsoft 365 for 美国政府版许可证。
 
 **Lsp GCC 和 GCC 高（+ 500 座位）**
+
 - CDW
 - 连接（以前称为 PC 连接）
 - 戴尔
@@ -145,7 +147,7 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 
 **注意：** 上述列表中的所有 Microsoft 许可解决方案提供商（Lsp）都可以通过企业协议（EA）使用 GCC 和 GCC High （EA）来创建客户价格表（CPS）。 不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
 
-**如果您使用 CSP 合作伙伴，请与他们联系或[查找 CSP。](https://www.microsoft.com/solution-providers/home)**
+**如果您使用 CSP 合作伙伴，请与他们联系或[查找 CSP](https://www.microsoft.com/solution-providers/home)。**
 
 ## <a name="what-trials-are-available"></a>有哪些试用版？
 

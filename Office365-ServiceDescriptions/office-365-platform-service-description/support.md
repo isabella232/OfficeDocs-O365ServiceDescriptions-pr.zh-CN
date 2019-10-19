@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Office 365 支持选项。
-ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854900"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582188"
 ---
 # <a name="support"></a>支持
 
@@ -65,7 +65,7 @@ Office 365 订阅的技术支持提供有关基本安装、设置和一般技术
 |配置  <br/> | 服务配置失败问题  <br/>  设置问题  <br/>  域设置和重新委派  <br/>  服务配置问题  <br/>  单一登录 (SSO)  <br/>  Active Directory 同步  <br/> |
 
 > [!NOTE]
-> 你可以在此处了解如何联系技术支持:[联系 Office 365 获取商业版支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)人员。
+> 你可以在此处了解如何联系技术支持：[联系 Office 365 获取商业版支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)人员。
 >
 > Office 365 技术支持不包括对第三方服务或外接程序的故障排除。了解如何在[Microsoft 社区](https://answers.microsoft.com)中查找来自其他客户的答案。
   
@@ -92,8 +92,8 @@ Microsoft 会对问题的类型和对客户的影响进行评估，并据此在�
 
 > [!NOTE]
 > <sup>1</sup> Business plans include business hours support for all non-critical issues and 24/7 phone support from Microsoft.<br/>
-> <sup>2</sup>企业版计划包括来自 Microsoft 的24/7 电话支持, 以解决所有问题。<br/>
-> <sup>3</sup>有关提升的支持选项的说明, 请参阅[其他支持选项](support.md#additional-support-options)。<br/>
+> <sup>2</sup>企业版计划包括来自 Microsoft 的24/7 电话支持，以解决所有问题。<br/>
+> <sup>3</sup>有关提升的支持选项的说明，请参阅[其他支持选项](support.md#additional-support-options)。<br/>
 > <sup>4</sup> Calls and service requests are handled 24 hours a day, seven days a week in most countries and regions.
   
 ### <a name="support-for-standalone-plans"></a>支持独立计划
@@ -185,7 +185,7 @@ People with Office 365 administrator roles are the only ones in the customer's o
 开发人员可在 [MSDN Microsoft 开发人员网络](https://developer.microsoft.com/office/docs)了解有关开发 Office 365 Office 和 SharePoint 应用程序的更多信息。可通过高级支持或合作伙伴支持资源，或者直接通过 Microsoft 从开发人员社区的在线博客和论坛获取开发人员支持。有关开发人员支持选项的链接，请参阅[支持资源](https://developer.microsoft.com/office/docs)。
   
 > [!NOTE]
-> Office 365 团队不支持脚本 (例如, JavaScript、VBScript 等脚本技术, 也不支持 VBA)。 如果您需要脚本方面的帮助，请联系 [Microsoft 支持](https://support.microsoft.com/)。 有关 Office 应用程序使用情况支持, 请参阅[office 365 订阅者的 Microsoft Office 应用程序问题支持选项](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
+> Office 365 团队不支持脚本（例如，JavaScript、VBScript 等脚本技术，也不支持 VBA）。 如果您需要脚本方面的帮助，请联系 [Microsoft 支持](https://support.microsoft.com/)。 有关 Office 应用程序使用情况支持，请参阅[office 365 订阅者的 Microsoft Office 应用程序问题支持选项](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
   
 ### <a name="volume-licensing"></a>批量许可
 
@@ -201,4 +201,4 @@ People with Office 365 administrator roles are the only ones in the customer's o
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。

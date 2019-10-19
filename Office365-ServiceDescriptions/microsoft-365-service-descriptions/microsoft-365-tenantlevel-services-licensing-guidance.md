@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035128"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582028"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -80,6 +80,7 @@ AIP 扫描程序功能会自动分类、标记和保护驻留在本地文件存�
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
 默认情况下，AIP 功能在租户级别为租户中的所有用户启用。 有关为许可用户配置 AIP 策略的信息，请参阅[激活 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/activate-service)。
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 AIP 功能策略（扫描程序功能除外）可以限定为特定的组或用户;可以对注册表进行编辑，以防止未授权的用户运行 AIP 分类或标记功能。 有关如何对 AIP 部署进行作用域的说明，请参阅[配置 Azure 信息保护策略](https://docs.microsoft.com/azure/information-protection/configure-policy)。
@@ -312,7 +313,7 @@ Office 365 E5/A5/G5 许可用户，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/
 
 管理员可以在 "Office 365 安全 & 合规中心" 中的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
 
-## <a name="information-barriers"></a>信息障碍
+## <a name="information-barriers"></a>信息屏障
 
 信息障碍是管理员可以配置的用于阻止个人或组相互通信的策略。 例如，如果一个部门处理的信息不应与其他部门共享，或者必须阻止某个组与外部联系人通信，则这将非常有用。 信息屏障策略也阻止了查找和发现。 这意味着，如果您尝试与不应与之通信的人员进行通信，则不会在人员选取器中找到该用户。
 

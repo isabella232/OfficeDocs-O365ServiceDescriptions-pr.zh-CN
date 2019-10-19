@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Archiving 中的存档功能
+title: Exchange Online 存档中的存档功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
-ms.openlocfilehash: 7cbaaf81106084795630ced11837f4f9a56dcf85
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 8e27ce238fa0aa7e2b670f6d991178c5f595908a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780671"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581398"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
+# <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 存档中的存档功能
 
 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
   
 ## <a name="archive-mailbox"></a>存档邮箱
 
-Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。存档邮箱是一种特殊类型的邮箱，它会与用户主邮箱文件夹一同显示在 Outlook 和 Outlook Web App 中。用户可以像访问其主邮箱一样访问存档。此外，用户还可以搜索归档邮箱和主邮箱。
+Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。 存档邮箱是在 Outlook 或 web 上的 Outlook 中显示在用户的主邮箱文件夹旁边的专用邮箱。 用户可以像访问其主邮箱一样访问存档。 此外，用户还可以搜索归档邮箱和主邮箱。
   
 管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)（在 Exchange Online 中启用或禁用存档邮箱）。
   
@@ -58,13 +58,13 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
 
 用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。
   
-After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. Users can recover these items using the **Recover Deleted Items** feature in Microsoft Outlook or Outlook Web App. 
+After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 用户可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 "**恢复已删除邮件**" 功能来恢复这些项目。 
   
 如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)（为邮箱启用或禁用"单个项目恢复"）。
   
 > [!NOTE]
 >  默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。 <br/>
->  如果管理员已将用户的邮箱置于就地保留或诉讼保留中, 则清除的项目将无限期保留, 并且14天的窗口不会应用。 
+>  如果管理员已将用户的邮箱置于就地保留或诉讼保留中，则清除的项目将无限期保留，并且14天的窗口不会应用。 
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 
@@ -79,5 +79,5 @@ Exchange Online Archiving 中的存档邮箱不断复制为多个数据库副本
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online Archiving 服务说明](exchange-online-archiving-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
   

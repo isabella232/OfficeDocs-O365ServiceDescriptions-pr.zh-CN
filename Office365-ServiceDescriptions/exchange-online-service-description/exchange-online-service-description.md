@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否在寻找包括 Exchange Online 在内的 Office 365 订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442647"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581938"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -58,7 +58,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 
 有关 Office 365（一种可供商务、教育以及政府组织使用的基于每月订阅的服务）的系统要求，请参阅 [Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online 的存储空间和收件人限制
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online 的存储和收件人限制
 
 有关 Exchange Online 订阅计划中可用的存储和收件人限制的信息，请参阅[Exchange Online 限制](exchange-online-limits.md)。
   
@@ -68,110 +68,110 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 |**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[规划和部署](planning-and-deployment.md)**|||||||||
-|支持的混合部署|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是<sup>16</sup>|
-|支持的 IMAP 迁移|是|是|是|是|是|是|是|是|
-|支持的直接转换迁移|是|是|是|是|是|是|是|是|
-|支持的暂存迁移|否|否|可访问|是|是|是|是|是|
+|**[计划和部署](planning-and-deployment.md)**|||||||||
+|支持的混合部署|可访问|可访问|是<sup>16</sup>|是<sup>16</sup>|可访问|可访问|可访问|是<sup>16</sup>|
+|支持的 IMAP 迁移|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|支持的直接转换迁移|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|支持的暂存迁移|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
 |**[权限](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|基于角色的权限|是|是|是|是|是|是|是|否|
-|角色组|是|是|是|是|是|是|是|否|
-|角色分配策略|是|是|是|是|是|是|是|否|
+|基于角色的权限|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
+|角色组|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
+|角色分配策略|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
 |**[邮件策略和合规性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|存档基于 Exchange Online 的邮箱| 否|否|可访问|是|是|是|是|否|
-|本地邮箱的基于云的存档|是 <sup>1</sup>|是<sup>1</sup>|否|否|可访问|是|是|否|
-|Messaging Records Management (MRM) |是|是|是|是|是|是|是|是|
-|手动保留策略、标签和标记 |否|否|否|否|可访问|是|是|是|
-|静态状态时的数据加密 (BitLocker)|是<sup>15</sup>|是<sup>15</sup>|是|是|是|是|是|是|
-|使用 Azure 信息保护的 IRM|否|可访问|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|是|是|无<sup>2</sup>|
+|存档基于 Exchange Online 的邮箱| 否|否|可访问|可访问|可访问|可访问|可访问|否|
+|内部部署邮箱的基于云的存档|是 <sup>1</sup>|是<sup>1</sup>|否|否|可访问|可访问|可访问|否|
+|Messaging Records Management (MRM) |可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|手动保留策略、标签和标记 |否|否|否|否|可访问|可访问|可访问|可访问|
+|静态状态时的数据加密 (BitLocker)|是<sup>15</sup>|是<sup>15</sup>|可访问|可访问|可访问|可访问|可访问|可访问|
+|使用 Azure 信息保护的 IRM|否|可访问|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|可访问|可访问|无<sup>2</sup>|
 |使用 Windows Server AD RMS 的 IRM|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
-|Office 365 邮件加密|是<sup>13</sup>|是<sup>13</sup>|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|是|是|无<sup>2</sup>|
+|Office 365 邮件加密|是<sup>13</sup>|是<sup>13</sup>|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|可访问|可访问|无<sup>2</sup>|
 |Office 365 的客户密钥<sup>22</sup>|否|否|否|否|否|否|必需|否||
-|S/MIME|是<sup>15</sup>|是<sup>15</sup>|是|是|是|是|是|是||
-|就地保留和诉讼保留|是|是|否|否|否|可访问|是|否|
+|S/MIME|是<sup>15</sup>|是<sup>15</sup>|可访问|可访问|可访问|可访问|可访问|可访问||
+|就地保留和诉讼保留|可访问|可访问|否|否|否|可访问|可访问|否|
 |就地电子数据展示|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是|
-|传输规则|是 <sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
-|数据丢失防护|是<sup>5、14</sup>|是<sup>5、14</sup>|否|否|否|可访问|是|否|
-|日记功能|是|是|是|是|是|是|是|是|
+|Transport rules|是 <sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
+|数据丢失防护|是<sup>5、14</sup>|是<sup>5、14</sup>|否|否|否|可访问|可访问|否|
+|日记功能|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
 |**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|内置反垃圾邮件保护|是 <sup>6</sup>|是 <sup>6</sup>|是|是|是|是|是|是|
-|自定义反垃圾邮件策略|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|是|是|是|是|是|是 <sup>7</sup>|
+|内置反垃圾邮件保护|是 <sup>6</sup>|是 <sup>6</sup>|可访问|可访问|可访问|可访问|可访问|可访问|
+|Customize anti-spam policies|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|可访问|可访问|可访问|可访问|可访问|是 <sup>7</sup>|
 |内置反恶意软件保护|是 <sup>8</sup>|是 <sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|
-|自定义反恶意软件策略|是|是|是|是|是|是|是|是 <sup>7</sup>|
-|隔离 - 管理员管理|是|是|是|是|是|是|是|是 <sup>7</sup>|
-|隔离 - 最终用户自我管理|否|否|可访问|是|是|是|是|是|
+|Customize anti-malware policies|可访问|可访问|可访问|可访问|可访问|可访问|可访问|是 <sup>7</sup>|
+|隔离 - 管理员管理|可访问|可访问|可访问|可访问|可访问|可访问|可访问|是 <sup>7</sup>|
+|隔离 - 最终用户自我管理|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
 |高级强大的威胁保护|否|必需|否|否|否|否|必需|否|
 |**[邮件流](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|出站邮件的自定义路由|是|是|是|是|是|是|是|是|
-|与受信任合作伙伴的安全邮件|是|是|是|是|是|是|是|是|
-|有条件的邮件路由|否|否|可访问|是|是|是|是|是|
-|向入站安全列表添加合作伙伴|否|否|可访问|是|是|是|是|是|
-|混合电子邮件路由|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是|
+|自定义路由的出站邮件|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|Secure messaging with a trusted partner|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|Conditional mail routing|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|将合作伙伴添加到入站安全列表|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|混合电子邮件路由|可访问|可访问|是<sup>16</sup>|是<sup>16</sup>|可访问|可访问|可访问|可访问|
 |**[收件人](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|容量报警|是|是|是|是|是|是|是|是|
-|混乱邮件|是|否|可访问|是|是|是|是|是|
-|邮件提示|是|是|是|是|是|是|是|是|
-|委派访问|是|是|是|是|是|是|是|无<sup>24</sup>|
-|收件箱规则|是|是|是|是|是|是|是|否|
-|已连接帐户|是|是|是|是|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|
-|非活动邮箱|否|否|无<sup>9</sup>|无<sup>9</sup>|无<sup>9</sup>|是|是|否 <sup>9</sup>|
-|脱机通讯簿|是|是|是|是|是|是|是|是|
-|通讯簿策略|是|是|是|是|是|是|是|是|
-|分层通讯簿|是|是|是|是|是|是|是|否|
-|地址列表和全局地址列表|是|是|是|是|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|
-|Office 365 组|否|否|可访问|是|是|是|是|是|
-|通讯组|是|是|是|是|是|是|是|是|
-|外部联系人（全局）|是|是|是|是|是|是|是|是|
-|通用联系人卡片|是|是|是|是|是|是|是|是|
-|社交网络的联系人链接|是|是|是|是|是|是|是|是|
-|资源邮箱|是|是|是|是|是|是|是|是|
-|会议室管理|是|是|是|是|是|是|是|是|
-|"外出"回复|是|是|是|是|是|是|是|是|
-|日历共享|是|是|是|是|是|是|是|是|
+|容量报警|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|混乱邮件|可访问|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|邮件提示|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|委托访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|无<sup>24</sup>|
+|收件箱规则|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
+|已连接帐户|可访问|可访问|可访问|可访问|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|
+|非活动邮箱|否|否|无<sup>9</sup>|无<sup>9</sup>|无<sup>9</sup>|可访问|可访问|否 <sup>9</sup>|
+|脱机通讯簿|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|通讯簿策略|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|分层通讯簿|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
+|地址列表和全局地址列表|可访问|可访问|可访问|可访问|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|
+|Office 365 组|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|通讯组|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|外部联系人（全局）|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|通用联系人卡片|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|与社交网络的联系人链接|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|资源邮箱|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|会议室管理|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|“外出”回复|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|日历共享|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
 |**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|Microsoft 365 管理中心报告|否|否|可访问|是|是|是|是|是|
-|Excel 报告工作簿|否|否|可访问|是|是|是|是|是|
-|Web 服务报告|否|否|可访问|是|是|是|是|是|
-|邮件跟踪|否|可访问|是|是|是|是|是|是|
-|审核报告|是|是|是|是|是|是|是|是 <sup>3</sup>|
-|统一消息报告|是|是|否|否|否|可访问|是|否|
+|Microsoft 365 管理中心报告|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|Excel 报告工作簿|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|Web 服务报告|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|Message trace|否|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|审核报告|可访问|可访问|可访问|可访问|可访问|可访问|可访问|是 <sup>3</sup>|
+|统一消息报告|可访问|可访问|否|否|否|可访问|可访问|否|
 |**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|联合共享（包括日历发布）|是|是|是|是|是|是|是|是|
-|站点邮箱|是<sup>10</sup>|是<sup>10</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|
-|公用文件夹|是|是|是|是|是|是|是|否|
+|联合共享（包括日历发布）|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|网站邮箱|是<sup>10</sup>|是<sup>10</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|
+|公用文件夹|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
 |**[客户端和移动设备](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-| Outlook for Windows <sup>21</sup>|是|是|是|是|是|是|是| 否|
-|Outlook 网页版<sup>21</sup>|是|是|是|是|是|是|是|是|
-|Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|是| 否|
-|Outlook for iOS 和 Outlook for Android<sup>21</sup>|是|是|是|是|是|是|是|是|
-|Exchange ActiveSync|是|是|是|是|是|是|是|是|
-|Office 365 移动设备管理|否|否|可访问|是|是|是|是|是|
-|POP 和 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
-|SMTP|是|是|是|是|是|是|是|是|
-|EWS 应用程序支持|是|是|是|是|是|是|是|否|
-|**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|语音邮件<sup>23</sup>|是|是|否|否|否|可访问|是|否|
-|语音邮件和第三方传真<sup>23</sup>之间的集成|是|是|否|否|否|可访问|是|否|
-|第三方语音邮件互操作性<sup>23</sup>|是|是|是|是|是|是|是|是|
-|Skype for Business 集成|是|是|是|是|是|是|是|是|
+|Outlook for Windows <sup>21</sup>|可访问|可访问|可访问|可访问|可访问|可访问|可访问| 否|
+|Outlook 网页版<sup>21</sup>|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|Outlook for Mac<sup>21</sup>|可访问|可访问|可访问|可访问|可访问|可访问|可访问| 否|
+|Outlook for iOS 和 Outlook for Android<sup>21</sup>|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|Exchange ActiveSync|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|Office 365 移动设备管理|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|POP 和 IMAP|可访问|可访问|可访问|可访问|可访问|可访问|可访问|是 <sup>12</sup>|
+|SMTP|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|EWS 应用程序支持|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
+|**[语音邮件服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|语音邮件<sup>23</sup>|可访问|可访问|否|否|否|可访问|可访问|否|
+|语音邮件和第三方传真<sup>23</sup>之间的集成|可访问|可访问|否|否|否|可访问|可访问|否|
+|第三方语音邮件互操作性<sup>23</sup>|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|Skype for Business 集成|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
 |**[高可用性和业务连续性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|数据中心的邮箱复制|否|否|可访问|是|是|是|是|是|
-|已删除邮箱的恢复|是|是|是|是|是|是|是|是|
-|已删除邮件的恢复|是|是|是|是|是|是|是|是|
-|单个项目恢复|是|是|是|是|是|是|是|否||
+|数据中心的邮箱复制|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|已删除邮箱的恢复|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|已删除邮件的恢复|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|单个项目恢复|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否||
 |**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|是|是|是|
-|SharePoint 互操作性|是|是|是|是|是|是|是|是|
-|EWS 连接性支持|是|是|是|是|是|是|是|否|
-|SMTP 中继支持|是|是|是|是|是|是|是|是|
+|OWA 和 Outlook 中的 Skype for Business 状态|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|SharePoint 互操作性|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|EWS 连接支持|可访问|可访问|可访问|可访问|可访问|可访问|可访问|否|
+|SMTP 中继支持|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
 |**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
-|Microsoft Office 365 门户访问|否|否|可访问|是|是|是|是|是|
-|Microsoft 365 管理中心访问|否|否|可访问|是|是|是|是|是|
-|Exchange 管理中心访问|是|是|是|是|是|是|是|是|
-|远程 Windows PowerShell 访问|是|是|是|是|是|是|是|是|
-|移动设备的 ActiveSync 策略|是|是|是|是|是|是|是|是|
-|使用情况报告|是|是|是|是|是|是|是|是|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
+|Microsoft Office 365 门户访问|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|Microsoft 365 管理中心访问|否|否|可访问|可访问|可访问|可访问|可访问|可访问|
+|Exchange 管理中心访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|远程 Windows PowerShell 访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|移动设备的 ActiveSync 策略|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|使用率报告|可访问|可访问|可访问|可访问|可访问|可访问|可访问|可访问|
+|**扩展服务自定义、外接程序和资源**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |Outlook 外接程序和 Outlook MAPI|是<sup>19</sup>|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|否|
 
 <sup>1</sup>对于具有基于云的存档的每个本地邮箱用户，需要一个 Exchange Online 存档订阅。 <br/>
@@ -203,107 +203,107 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 
 |**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**[规划和部署](planning-and-deployment.md)**||||||
-|支持的混合部署|是|是|是|是|是<sup>23</sup>|
-|支持的 IMAP 迁移|是|是|是|是|是|
-|支持的直接转换迁移|是|是|是|是|是|
-|支持的暂存迁移|否|否|可访问|是|是|
+|**[计划和部署](planning-and-deployment.md)**||||||
+|支持的混合部署|可访问|可访问|可访问|可访问|是<sup>23</sup>|
+|支持的 IMAP 迁移|可访问|可访问|可访问|可访问|可访问|
+|支持的直接转换迁移|可访问|可访问|可访问|可访问|可访问|
+|支持的暂存迁移|否|否|可访问|可访问|可访问|
 |**[权限](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|基于角色的权限|是|是|是|是|否|
-|角色组|是|是|是|是|否|
-|角色分配策略|是|是|是|是|否|
+|基于角色的权限|可访问|可访问|可访问|可访问|否|
+|角色组|可访问|可访问|可访问|可访问|否|
+|角色分配策略|可访问|可访问|可访问|可访问|否|
 |**[邮件策略和合规性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|存档基于 Exchange Online 的邮箱|是|否|可访问|是|否|
-|本地邮箱的基于云的存档|是<sup>5</sup>|是 <sup>5</sup>|否|必需|否|
-|Messaging Records Management (MRM) |是|是|是|是|是|
-|手动保留策略、标签和标记|否|否|可访问|是|是|
-|静态状态时的数据加密 (BitLocker)|是<sup>16</sup>|是<sup>16</sup>|是|是|是|
+|存档基于 Exchange Online 的邮箱|可访问|否|可访问|可访问|否|
+|内部部署邮箱的基于云的存档|是<sup>5</sup>|是 <sup>5</sup>|否|必需|否|
+|Messaging Records Management (MRM) |可访问|可访问|可访问|可访问|可访问|
+|手动保留策略、标签和标记|否|否|可访问|可访问|可访问|
+|静态状态时的数据加密 (BitLocker)|是<sup>16</sup>|是<sup>16</sup>|可访问|可访问|可访问|
 |使用 Azure 信息保护的 IRM|否|可访问|无<sup>11</sup>|无<sup>11</sup>|无<sup>11</sup>|
 |使用 Windows Server AD RMS 的 IRM|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
 |Office 365 邮件加密|是<sup>13</sup>|是<sup>13</sup>|无<sup>11</sup>|无<sup>11</sup>|无<sup>11</sup>|
-|S/MIME|是<sup>15</sup>|是<sup>15</sup>|是|是|是|
-|就地保留和诉讼保留|是|是|无<sup>17</sup>|是|否|
+|S/MIME|是<sup>15</sup>|是<sup>15</sup>|可访问|可访问|可访问|
+|就地保留和诉讼保留|可访问|可访问|无<sup>17</sup>|可访问|否|
 |就地电子数据展示|是<sup>22</sup>|是<sup>22</sup>|是<sup>22</sup>|是<sup>22</sup>|是<sup>22</sup>|
 |传输规则|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|是 <sup>1</sup>|
 |数据丢失防护|是<sup>10、14</sup>|是<sup>10、14</sup>|否|必需|否|
-|日记功能|是|是|是|是|是|
+|日记功能|可访问|可访问|可访问|可访问|可访问|
 |**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|内置反垃圾邮件保护|是 <sup>2</sup>|是 <sup>2</sup>|是|是|是|
-|自定义反垃圾邮件策略|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|是|是|是 <sup>8</sup>|
+|内置反垃圾邮件保护|是 <sup>2</sup>|是 <sup>2</sup>|可访问|可访问|可访问|
+|Customize anti-spam policies|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|可访问|可访问|是 <sup>8</sup>|
 |内置反恶意软件保护|是 <sup>7</sup>|是 <sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|
-|自定义反恶意软件策略|是|是|是|是|是 <sup>8</sup>|
-|隔离 - 管理员管理|是|是|是|是|是 <sup>8</sup>|
-|隔离 - 最终用户自我管理|否|否|可访问|是|是|
+|Customize anti-malware policies|可访问|可访问|可访问|可访问|是 <sup>8</sup>|
+|隔离 - 管理员管理|可访问|可访问|可访问|可访问|是 <sup>8</sup>|
+|隔离 - 最终用户自我管理|否|否|可访问|可访问|可访问|
 |**[邮件流](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|出站邮件的自定义路由|是|是|是|是|是|
-|与受信任合作伙伴的安全邮件|是|是|是|是|是|
-|有条件的邮件路由|否|否|可访问|是|是|
-|向入站安全列表添加合作伙伴|否|否|可访问|是|是|
-|混合电子邮件路由|是|是|是|是|是|
+|自定义路由的出站邮件|可访问|可访问|可访问|可访问|可访问|
+|Secure messaging with a trusted partner|可访问|可访问|可访问|可访问|可访问|
+|Conditional mail routing|否|否|可访问|可访问|可访问|
+|将合作伙伴添加到入站安全列表|否|否|可访问|可访问|可访问|
+|混合电子邮件路由|可访问|可访问|可访问|可访问|可访问|
 |**[收件人](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|容量报警|是|是|是|是|是|
-|混乱邮件|否|否|可访问|是|是|
-|邮件提示|是|是|是|是|是|
-|委派访问|是|是|是\|"是|否|
-|收件箱规则|是|是|是|是|否|
-|已连接帐户|是|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|
-|非活动邮箱|否|否|否<sup>6</sup>|是|否 <sup>6</sup>|
-|脱机通讯簿|是|是|是|是|是|
-|通讯簿策略|是|是|是|是|是|
-|分层通讯簿|是|是|是|是|否|
-|地址列表和全局地址列表|是|是|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|
+|容量报警|可访问|可访问|可访问|可访问|可访问|
+|混乱邮件|否|否|可访问|可访问|可访问|
+|邮件提示|可访问|可访问|可访问|可访问|可访问|
+|委托访问|可访问|可访问|是\|"是|否|
+|收件箱规则|可访问|可访问|可访问|可访问|否|
+|已连接帐户|可访问|可访问|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|
+|非活动邮箱|否|否|否 <sup>6</sup>|是|否<sup>6</sup>|
+|脱机通讯簿|可访问|可访问|可访问|可访问|可访问|
+|通讯簿策略|可访问|可访问|可访问|可访问|可访问|
+|分层通讯簿|可访问|可访问|可访问|可访问|否|
+|地址列表和全局地址列表|可访问|可访问|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|
 |Office 365 组|否|否|是<sup>24</sup>|是<sup>24</sup>|否|
-|通讯组|是|是|是|是|是|
-|外部联系人（全局）|是|是|是|是|是|
-|通用联系人卡片|是|是|是|是|是|
-|社交网络的联系人链接|是|是|是|是|是|
-|资源邮箱|是|是|是|是|是|
-|会议室管理|是|是|是|是|是|
-|"外出"回复|是|是|是|是|是|
-|日历共享|是|是|是|是|是<sup>18</sup>|
+|通讯组|可访问|可访问|可访问|可访问|可访问|
+|外部联系人（全局）|可访问|可访问|可访问|可访问|可访问|
+|通用联系人卡片|可访问|可访问|可访问|可访问|可访问|
+|与社交网络的联系人链接|可访问|可访问|可访问|可访问|可访问|
+|资源邮箱|可访问|可访问|可访问|可访问|可访问|
+|会议室管理|可访问|可访问|可访问|可访问|可访问|
+|“外出”回复|可访问|可访问|可访问|可访问|可访问|
+|日历共享|可访问|可访问|可访问|可访问|是<sup>18</sup>|
 |**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|Microsoft 365 管理中心报告|否|否|可访问|是|是|
-|Excel 报告工作簿|否|否|可访问|是|是|
-|Web 服务报告|否|否|可访问|是|是|
-|邮件跟踪|否|可访问|是|是|是 <sup>8</sup>|
-|审核报告|是|是|是|是|是 <sup>8</sup>|
-|统一消息报告|是|是|否|必需|否|
+|Microsoft 365 管理中心报告|否|否|可访问|可访问|可访问|
+|Excel 报告工作簿|否|否|可访问|可访问|可访问|
+|Web 服务报告|否|否|可访问|可访问|可访问|
+|Message trace|No|可访问|可访问|可访问|是 <sup>8</sup>|
+|审核报告|可访问|可访问|可访问|可访问|是 <sup>8</sup>|
+|统一消息报告|可访问|可访问|No|必需|否|
 |**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|联合共享|是|是|是|是|是|
-|站点邮箱|是<sup>3</sup>|是 <sup>3</sup>|是<sup>4</sup>|是 <sup>4</sup>|是 <sup>4</sup>|
-|公用文件夹|是|是|是|是|否|
+|联合共享|可访问|可访问|可访问|可访问|可访问|
+|网站邮箱|是<sup>3</sup>|是 <sup>3</sup>|是 <sup>4</sup>|是 <sup>4</sup>|是 <sup>4</sup>|
+|公用文件夹|可访问|可访问|可访问|可访问|否|
 |**[客户端和移动设备](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|Microsoft Outlook|是|是|是|是|否|
-|Outlook Web App|是|是|是|是|是|
-|Exchange ActiveSync|是|是|是|是|是|
-|POP 和 IMAP|是|是|是|是|是 <sup>9</sup>|
-|SMTP|是|是|是|是|是|
-|EWS 应用程序支持|是|是|是|是|否|
-|Outlook for Mac|是|是|是|是|否|
+|Microsoft Outlook|可访问|可访问|可访问|可访问|否|
+|Outlook 网页版|可访问|可访问|可访问|可访问|可访问|
+|Exchange ActiveSync|可访问|可访问|可访问|可访问|可访问|
+|POP 和 IMAP|可访问|可访问|可访问|可访问|是 <sup>9</sup>|
+|SMTP|可访问|可访问|可访问|可访问|可访问|
+|EWS 应用程序支持|可访问|可访问|可访问|可访问|否|
+|Outlook for Mac|可访问|可访问|可访问|可访问|否|
 |**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|语音邮件|是|是|否|必需|否|
-|第三方语音邮件互操作性|是|是|是|是|是|
-|Skype for Business 集成|是|是|是|是|是|
+|语音邮件|可访问|可访问|否|必需|否|
+|第三方语音邮件互操作性|可访问|可访问|可访问|可访问|可访问|
+|Skype for Business 集成|可访问|可访问|可访问|可访问|可访问|
 |**[高可用性和业务连续性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|数据中心的邮箱复制|否|否|可访问|是|是|
-|已删除邮箱的恢复|是|是|是|是|是|
-|已删除邮件的恢复|是|是|是|是|是|
-|单个项目恢复|是|是|是|是|否|
+|数据中心的邮箱复制|否|否|可访问|可访问|可访问|
+|已删除邮箱的恢复|可访问|可访问|可访问|可访问|可访问|
+|已删除邮件的恢复|可访问|可访问|可访问|可访问|可访问|
+|单个项目恢复|可访问|可访问|可访问|可访问|否|
 |**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|
-|SharePoint 互操作性|是|是|是|是|是|
-|EWS 连接性支持|是|是|是|是|是|
-|SMTP 中继支持|是|是|是|是|是|
+|OWA 和 Outlook 中的 Skype for Business 状态|可访问|可访问|可访问|可访问|可访问|
+|SharePoint 互操作性|可访问|可访问|可访问|可访问|可访问|
+|EWS 连接支持|可访问|可访问|可访问|可访问|可访问|
+|SMTP 中继支持|可访问|可访问|可访问|可访问|可访问|
 |**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|Microsoft Office 365 门户访问|否|否|可访问|是|是|
-|Microsoft 365 管理中心访问|否|否|可访问|是|是|
-|Exchange 管理中心访问|是|是|是|是|是 <sup>8</sup>|
-|远程 Windows PowerShell 访问|是|是|是|是|是|
-|移动设备的 ActiveSync 策略|是|是|是|是|是|
-|使用情况报告|是|是|是|是|是|
+|Microsoft Office 365 门户访问|否|否|可访问|可访问|可访问|
+|Microsoft 365 管理中心访问|否|否|可访问|可访问|可访问|
+|Exchange 管理中心访问|可访问|可访问|可访问|可访问|是 <sup>8</sup>|
+|远程 Windows PowerShell 访问|可访问|可访问|可访问|可访问|可访问|
+|移动设备的 ActiveSync 策略|可访问|可访问|可访问|可访问|可访问|
+|使用率报告|可访问|可访问|可访问|可访问|可访问|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|Outlook Web App Web 部件|是|是|是|是|是|
-|Outlook 外接程序和 Outlook MAPI|是|是|是<sup>21</sup>|是<sup>21</sup>|否|
+|Web Web 部件上的 Outlook|可访问|可访问|可访问|可访问|可访问|
+|Outlook 外接程序和 Outlook MAPI|可访问|可访问|是<sup>21</sup>|是<sup>21</sup>|否|
 
 <sup>1</sup>传输规则由灵活的条件组成，使您可以定义条件和例外，并根据条件进行操作。 Exchange Online 和 Microsoft Exchange Server 2013 之间的可用条件和操作有所不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 <br/>
 <sup>2</sup>有关对本地产品的 exchange 托管垃圾邮件筛选的好处的信息，请参阅 Exchange [Online Protection 中的反垃圾邮件功能与 exchange Server 2013 的优势](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help)。 <br/>
@@ -326,6 +326,6 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <sup>19</sup>已连接帐户受 POP &amp; IMAP 帐户支持，但对 Outlook.com （Hotmail）禁用。 <br/>
 <sup>20</sup>使用 Exchange Online PowerShell 中的 cmdlet 自定义默认地址列表，不支持默认全局地址列表（GAL）。 <br/>
 <sup>21</sup>某些第三方 web 部件和外接程序可能不可用。 <br/>
-<sup>22</sup>对于电子数据展示，您需要单独查询内部部署和云。 <br/>
+<sup>22</sup>对于电子数据展示，您需要对本地和云使用单独的查询。 <br/>
 <sup>23</sup> Exchange Online 展台不提供对本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 <br/>
 <sup>24</sup>个 Office 365 组可提供更少的功能。

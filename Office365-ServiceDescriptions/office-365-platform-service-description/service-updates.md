@@ -11,31 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
-description: 若要了解刚发布或即将发布的 Office 365 功能, 请查看 Microsoft 365 路线图。
-ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: 若要了解刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
+ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777493"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581348"
 ---
 # <a name="service-updates"></a>服务更新
 
 > [!NOTE]
 > 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。 
   
-若要了解刚发布或即将发布的 Office 365 功能, 请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
+若要了解刚发布或即将发布的 Office 365 功能，请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
 > [!NOTE]
-> 根据许多因素 (如地理位置、语言、数据中心和订阅) 向客户推出更新和升级。 也就是说，不是所有更新都可供 现有用户立即使用。 
+> 根据许多因素（如地理位置、语言、数据中心和订阅）向客户推出更新和升级。 也就是说，不是所有更新都可供 现有用户立即使用。 
   
 ## <a name="targeted-release"></a>定向发布
 
-在目标版本中, 您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 若要了解详细信息, 请参阅[Office 365 发布选项](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)。 
+在目标版本中，您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 若要了解详细信息，请参阅[Office 365 发布选项](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)。 
   
 ## <a name="update-notifications"></a>更新通知
 
-如果有需要管理员采取行动以便让服务一直正常运行的更改，则 Office 365 会努力提前通知客户。除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx)至少提前 30 天发出通知。 
+如果有需要管理员采取行动以便让服务一直正常运行的更改，则 Office 365 会努力提前通知客户。除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide)至少提前 30 天发出通知。 
   
 大多数 Office 365 服务更新都是错误修复、性能改进以及要求代表客户零操作的安全更新。 [Microsoft 365 for business 路线图中提供](http://roadmap.office.com/)了新的和改进的功能。
   
@@ -43,6 +43,6 @@ ms.locfileid: "35777493"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)。
+若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
   
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: '对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。但是，某些组织需要进行更复杂的邮件流设置来确保它们遵守特定的法规或业务需要。你可以在这里找到这些选项的信息。 '
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442597"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581448"
 ---
 # <a name="mail-flow"></a>邮件流
 
@@ -27,7 +27,7 @@ ms.locfileid: "37442597"
   
 ## <a name="custom-routing-of-outbound-email"></a>出站电子邮件的自定义路由
 
-Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为"智能托管"）路由来自组织的邮件流。这支持贵组织使用数据丢失防护 (DLP) 设备，执行传出电子邮件的自定义后期处理，并通过专用网络将电子邮件传递给业务合作伙伴。Exchange Online 还支持地址重写，其中，传出电子邮件将通过修改地址的本地网关路由。使用此功能，你可以隐藏子域，使多域组织中的电子邮件显示为单个域，或使合作伙伴中继的电子邮件显示为从组织内部发出。管理员在 Exchange 管理中心 (EAC) 内配置自定义的电子邮件路由。
+Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为"智能托管"）路由来自组织的邮件流。 这样，你的组织可以使用数据丢失防护（DLP）设备，对传出电子邮件执行自定义后续处理，并通过专用网络将电子邮件传递给业务合作伙伴。 Exchange Online 还支持地址重写，其中，传出电子邮件将通过修改地址的本地网关路由。 此功能使您可以隐藏子域，使来自多域组织的电子邮件显示为单个域，或使合作伙伴中继电子邮件显示为从组织内部发送。 管理员在 Exchange 管理中心 (EAC) 内配置自定义的电子邮件路由。
   
 有关详细信息，请参阅[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
@@ -96,5 +96,5 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和本地解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   

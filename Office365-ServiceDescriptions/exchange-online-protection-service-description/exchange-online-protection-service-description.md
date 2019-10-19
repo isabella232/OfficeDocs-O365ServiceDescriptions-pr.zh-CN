@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: 获取有关 Exchange Online Protection 的功能和要求的信息。其中包括提供 Exchange Online Protection 的计划列表以及所有计划的功能比较。
-ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+description: 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划的列表，以及这些计划之间的功能比较。
+ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334142"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581908"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
-获取有关 Exchange Online Protection 的功能和要求的信息。其中包括提供 Exchange Online Protection 的计划列表以及所有计划的功能比较。
+获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划的列表，以及这些计划之间的功能比较。
 
 Microsoft Exchange Online Protection (EOP) 是基于云的电子邮件筛选服务，可帮助您的组织防御垃圾邮件和恶意邮件，并包括用于保护您的组织避免违反邮件策略的功能。EOP 可以简化对邮件环境的管理，缓解由于维护内部部署硬件和软件而产生的许多负担。
 
@@ -84,34 +84,34 @@ EOP 可与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一�
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能**|**独立 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
-|[邮件收件人](recipient-domain-and-company-management.md#mail-recipients)|是<sup>1</sup>|是<sup>1</sup>|是|
-|[管理员角色组权限](recipient-domain-and-company-management.md#admin-role-group-permissions)|是<sup>2</sup>|是|是|
+|[邮件收件人](recipient-domain-and-company-management.md#mail-recipients)|是<sup>1</sup>|是<sup>1</sup>|可访问|
+|[管理员角色组权限](recipient-domain-and-company-management.md#admin-role-group-permissions)|是<sup>2</sup>|可访问|可访问|
 |[域管理](recipient-domain-and-company-management.md#domain-management)|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
-|[匹配子域](recipient-domain-and-company-management.md#match-subdomains)|是|是|否|
-|[基于目录的边缘阻止 (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|是|是|是|
-|[邮件流规则](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|是<sup>4</sup>|是<sup>4、6</sup>|是|
-|[审核日志记录](messaging-policy-and-compliance-servicedesc.md#audit-logging)|是<sup>5</sup>|是|是|
+|[匹配子域](recipient-domain-and-company-management.md#match-subdomains)|可访问|可访问|否|
+|[基于目录的边缘阻止 (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|可访问|可访问|可访问|
+|[邮件流规则](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|是<sup>4</sup>|是<sup>4、6</sup>|可访问|
+|[审核日志记录](messaging-policy-and-compliance-servicedesc.md#audit-logging)|是<sup>5</sup>|可访问|可访问|
 |[数据丢失防护 (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|否|可访问|是<sup>6</sup>|
 |[Office 365 邮件加密](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|是<sup>12</sup>|是|是<sup>12</sup>|
-|[反垃圾邮件保护](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)（内置）|是|是|是|
-|[自定义反垃圾邮件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|是<sup>7</sup>|是|是|
-|[反恶意软件保护](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)（内置）|是<sup>13</sup>|是|是|
-|[自定义反恶意软件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|是|
-|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|是|是|是|
-|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|是|
-|[Outlook 的报告邮件外接程序](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|是|是|是|
-|[Web 上的 Outlook 中的垃圾邮件报告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是|是|是|
-|[在 Office 365 和自己的电子邮件服务器之间路由电子邮件](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|是|是|是|
-|[与受信任合作伙伴的安全邮件](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
-|[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|
-|[有条件的邮件路由](mail-flow-eop.md#conditional-mail-routing)|是|是|是|
-|[混合邮件路由](mail-flow-eop.md#hybrid-mail-routing)|是|是|是|
+|[反垃圾邮件保护](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection)（内置）|可访问|可访问|可访问|
+|[自定义反垃圾邮件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|是<sup>7</sup>|可访问|可访问|
+|[反恶意软件保护](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection)（内置）|是<sup>13</sup>|可访问|可访问|
+|[自定义反恶意软件策略](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|可访问|可访问|可访问|
+|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|可访问|可访问|可访问|
+|[隔离](anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|可访问|可访问|可访问|
+|[Outlook 的报告邮件外接程序](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|可访问|可访问|可访问|
+|[Web 上的 Outlook 中的垃圾邮件报告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|可访问|可访问|可访问|
+|[在 Office 365 和自己的电子邮件服务器之间路由电子邮件](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|可访问|可访问|可访问|
+|[与受信任合作伙伴的安全邮件](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|可访问|可访问|可访问|
+|[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address)|可访问|可访问|可访问|
+|[有条件的邮件路由](mail-flow-eop.md#conditional-mail-routing)|可访问|可访问|可访问|
+|[混合邮件路由](mail-flow-eop.md#hybrid-mail-routing)|可访问|可访问|可访问|
 |[Microsoft 365 管理中心报告](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |是<sup>9</sup>|是<sup>10</sup>|是<sup>9、10</sup>|
-|[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services)|否|可访问|是|
+|[使用 Web 服务的报告](reporting-and-message-trace.md#reporting-using-web-services)|否|可访问|可访问|
 |[邮件跟踪](reporting-and-message-trace.md#message-trace)|是<sup>15</sup>|是<sup>15</sup>|是|
-|[访问 Microsoft 365 管理中心](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|是|是|是|
-|[对 Exchange 管理中心的访问权限](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|是|是|是|
-|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|是|是|是|
+|[访问 Microsoft 365 管理中心](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|可访问|可访问|可访问|
+|[对 Exchange 管理中心的访问权限](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|可访问|可访问|可访问|
+|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|可访问|可访问|可访问|
 
 <sup>1</sup> 邮件用户被定义为"邮箱"，并且可以在 Exchange 管理中心 (EAC) 中与外部邮件联系人一起进行添加、删除或直接管理。 <br/>
 <sup>2</sup> 没有 RBAC 自定义项。 只有管理员角色。 <br/>

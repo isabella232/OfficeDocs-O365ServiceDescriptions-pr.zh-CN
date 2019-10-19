@@ -1,5 +1,5 @@
 ---
-title: 邮件策略和合规性
+title: 邮件策略和遵从性
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334121"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581868"
 ---
 # <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
 
@@ -35,7 +35,7 @@ Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子�
 
 ## <a name="data-loss-prevention-dlp"></a>数据丢失防护 (DLP)
 
-对独立 EOP 客户不可用。数据丢失防护 (DLP) 可进行深入内容分析，帮助识别、监视和保护您组织中的敏感信息。DLP 对于企业邮件系统而言越来越重要，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。DLP 功能可让您保护敏感数据，而不会影响工作人员的生产率。
+对独立 EOP 客户不可用。 数据丢失防护 (DLP) 可进行深入内容分析，帮助识别、监视和保护您组织中的敏感信息。 DLP 对于企业邮件系统而言越来越重要，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。 DLP 功能可让您保护敏感数据，而不会影响工作人员的工作效率。
 
 您可以在 EAC 中配置 DLP 策略，从而能够：
 
@@ -51,7 +51,7 @@ Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子�
 
 - 通过使用文档指纹检测敏感型数据。 文档指纹可帮助您根据可用于定义邮件流规则和 DLP 策略的基于文本的表单，轻松创建自定义敏感信息类型。
 
-- 添加策略提示，它可通过向 Outlook 2013、Outlook Web App 和适用于设备的 OWA 的用户显示通知来帮助减少数据丢失，还可以通过允许误报报告来提高策略的有效性。
+- 添加策略提示，通过将通知显示在 Outlook 2013、Outlook 网页版和适用于设备的 OWA 的用户中，可以帮助减少数据丢失，还可以通过允许误报报告来提高策略的有效性。
 
 - 查看 DLP 报告中的事件数据，或通过使用生成事件报告操作来添加自己的特定报告。
 
@@ -69,7 +69,7 @@ Office 365 邮件加密是 Azure 信息保护的一部分，它是一种在线�
 |**功能**|**独立 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
 |:-----|:-----|:-----|:-----|
 |邮件流规则|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
-|审核日志记录|是<sup>2</sup>|是|是|
+|审核日志记录|是<sup>2</sup>|可访问|可访问|
 |数据丢失防护 (DLP)|否|可访问|是<sup>3</sup>|
 |Office 365 邮件加密|是<sup>4</sup>|是|是<sup>4</sup>|
 

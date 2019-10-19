@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442747"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595300"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -96,6 +96,10 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
 ## <a name="comment-creation"></a>Comment creation
 
 您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
+
+## <a name="convert-a-table-to-a-range"></a>将表转换为区域
+
+创建 Excel 表后，可能只需要没有表功能的表格样式。 若要停止处理表中的数据，而不丢失应用的任何表样式格式，可以将表转换为工作表中的常规数据区域。 了解有关如何[将 Excel 表转换为数据区域的](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web)详细信息。
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引
  
 ## <a name="group-data"></a>组数据
 
-您可以对 web 电子表格的 Excel 中的行和列进行分组或分级显示。 了解有关[在 Excel for web 中对数据进行分组](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)的详细信息。
+您可以对 web 电子表格的 Excel 中的行和列进行分组或分级显示。 通过键盘快捷方式，可以轻松地快速展开或折叠所创建的组。 了解有关[在 Excel for web 中对数据进行分组](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)的详细信息。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 可以在 Excel for web 中隐藏和取消隐藏行、列和工作表中的行、列和工作表。
+
+## <a name="ideas"></a>想法
+
+Excel 中的想法可帮助您通过高级可视化摘要、趋势和模式了解数据。 只需选择数据区域中的某个单元格，然后选择 "**开始**" 选项卡上的 "**想法**" 按钮。 Excel 中的想法将分析您的数据，并在任务窗格中返回有关它的感兴趣的可视化效果。 了解有关[Excel 中的想法的](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)详细信息。
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -215,7 +223,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="offline-viewing-and-authoring"></a>Offline viewing and authoring
 
-用于 web 的 Excel 是从 Internet 浏览器启动的，并依赖于 Internet 连接。 要脱机访问电子表格，必须在计算机上安装 Microsoft Excel 桌面应用程序，用于查看和编辑 Excel 工作表。
+用于 web 的 Excel 是从 internet 浏览器启动的，并依赖于 internet 连接。 要脱机访问电子表格，必须在计算机上安装 Microsoft Excel 桌面应用程序，用于查看和编辑 Excel 工作表。
 
 ## <a name="pivottables"></a>数据透视表
 
@@ -287,7 +295,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-在 Excel for web 中，您可以查看和重新排序所有工作表、排序和筛选数据，并深入了解数据透视表的详细信息。 了解有关对[数据进行排序和筛选](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)的详细信息。
+在 Excel for web 中，您可以查看和重新排序所有工作表、排序和筛选数据（从上到下或从左到右），并深入了解数据透视表的详细信息。 了解有关对[数据进行排序和筛选](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)的详细信息。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>电子表格审核和合规性
 
@@ -331,4 +339,4 @@ Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和内部部署解决方案的功能可用性，请参阅[office for Web 服务说明](office-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 Web 服务说明的 office](office-online-service-description.md)。

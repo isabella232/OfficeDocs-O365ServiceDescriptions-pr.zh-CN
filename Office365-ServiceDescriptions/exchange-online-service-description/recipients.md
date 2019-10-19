@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442617"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582128"
 ---
 # <a name="recipients"></a>收件人
 
@@ -40,9 +40,9 @@ ms.locfileid: "37442617"
 
 邮件提示是当用户正在撰写或定址邮件时自动显示在"收件人:"行上方的参考信息。旨在帮助防止意外发送、违反政策或生成不必要的未送达报告 (NDR)。例如，如果发件人尝试向超大组、包含外部收件人的组或被审阅或限制的通讯组发送邮件，邮件提示可以生成警报。有关详细信息，请参阅 [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472)（邮件提示）。
   
-### <a name="delegate-access"></a>委托访问
+### <a name="delegate-access"></a>委派访问
 
-Exchange Online 支持委派访问用户允许其他用户管理他们的电子邮件和日历的能力。委派访问通常用于经理和助理之间，其中助理可以处理经理的入站电子邮件消息并协调经理的计划。代理访问可由 Outlook 或 Outlook Web App 中的 Exchange Online 用户启用，或由 Exchange 管理中心中的管理员启用。 
+Exchange Online 支持委派访问用户允许其他用户管理他们的电子邮件和日历的能力。 委派访问通常用于经理和助理之间，其中助理可以处理经理的入站电子邮件消息并协调经理的计划。 代理访问可由 Outlook 或 web 上的 Outlook 中的 Exchange Online 用户或 Exchange 管理中心中的管理员启用。 
   
 委派有两种类型的访问权限：
   
@@ -54,7 +54,7 @@ Exchange Online 支持委派访问用户允许其他用户管理他们的电�
   
 ### <a name="inbox-rules"></a>收件箱规则
 
-Exchange Online 允许用户创建收件箱规则，在邮件抵达后基于条件对它们自动执行特定操作。例如，如果邮件被发送给某个通讯组，他们可以创建规则以自动移动所有邮件到特定文件夹。用户从 Outlook 或 Outlook Web App 管理收件箱规则。通过禁用服务器端转发和/或服务器端自动回复，管理员可以阻止某些类型的收件箱规则。例如，禁用服务器端电子邮件转发可以防止用户自动转发电子邮件给个人账户。同样，禁用服务器端自动回复可以防止外部方使用这些回复识别有效的电子邮件地址。通过远程 Windows PowerShell 进行这些更改。
+Exchange Online 允许用户创建收件箱规则，在邮件抵达后基于条件对它们自动执行特定操作。 例如，如果邮件被发送给某个通讯组，他们可以创建规则以自动移动所有邮件到特定文件夹。 用户在 Outlook 或 web 上的 Outlook 中管理收件箱规则。 通过禁用服务器端转发和/或服务器端自动回复，管理员可以阻止某些类型的收件箱规则。 例如，禁用服务器端电子邮件转发可以防止用户自动转发电子邮件给个人账户。 同样，禁用服务器端自动回复可以防止外部方使用这些回复识别有效的电子邮件地址。 通过远程 Windows PowerShell 进行这些更改。
   
 ### <a name="clutter"></a>混乱邮件
 
@@ -62,7 +62,7 @@ Exchange Online 允许用户创建收件箱规则，在邮件抵达后基于条�
   
 ### <a name="connected-accounts"></a>已连接帐户
 
-已连接帐户功能允许 Exchange Online 用户连接外部电子邮件帐户（如个人账户）到他们在 Exchange Online 中的内部电子邮件帐户，然后使用 Outlook Web App 在一个地方与所有邮件交互。已连接帐户将在登录到 Outlook Web App 后自动同步；用户还可以从 Outlook Web App 手动同步帐户。通过 [Exchange 管理中心](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)，管理员可以为特定用户或所有用户启用和禁用该功能。
+通过 "已连接帐户" 功能，Exchange Online 用户可以将外部电子邮件帐户（如个人帐户）连接到 Exchange Online 中的内部电子邮件帐户，然后使用 web 上的 Outlook 将其所有邮件与一个位置进行交互。 在登录到 Outlook 网页时，已连接的帐户将自动同步。用户还可以手动从 web 上的 Outlook 同步帐户。 通过 [Exchange 管理中心](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)，管理员可以为特定用户或所有用户启用和禁用该功能。
   
 ### <a name="inactive-mailboxes"></a>非活动邮箱
 
@@ -85,15 +85,15 @@ Exchange Online 提供无限期保留已删除邮箱内容的功能。此功能�
 
 ### <a name="offline-address-book"></a>脱机通讯簿
 
-脱机通讯簿功能提供在 Outlook 全局地址列表中可用的 Active Directory 信息的快照。它在 Outlook 中本地缓存，以便在用户脱机工作时可用。
+脱机通讯簿功能提供了 Outlook 全局地址列表（GAL）中可用的 Active Directory 信息的快照。 它在 Outlook 中本地缓存，以便在用户脱机工作时可用。
   
 ### <a name="address-book-policies"></a>通讯簿策略
 
-Exchange Online 支持通讯簿策略。通过通讯簿策略 (ABP)，可以将用户分入特定的组，以生成组织全局地址列表 (GAL) 的自定义视图。创建 ABP 时，可以向策略分配 GAL、脱机通讯簿 (OAB)、房间列表以及一个或多个地址列表。然后，可以将 ABP 分配给邮箱用户，向他们授予对 Outlook 和 Outlook Web App 中的自定义 GAL 的访问权限。管理员可以使用远程 Windows PowerShell 来配置通讯簿策略。若要详细了解通讯簿策略，请参阅 [Exchange Online 中的通讯簿](https://go.microsoft.com/fwlink/p/?LinkId=394203)。
+Exchange Online 支持通讯簿策略。 通过通讯簿策略 (ABP)，可以将用户分割成特定的组，以提供组织全局通讯簿 (GAL) 的自定义视图。 在创建 ABP 时，可以为策略指定一个 GAL、一个脱机通讯簿 (OAB)、一个房间列表以及一个或多个地址列表。 然后，您可以将 ABP 分配给邮箱用户，向他们提供对 Outlook 和 web 上的 Outlook 中的自定义 GAL 的访问权限。 管理员可以使用远程 Windows PowerShell 来配置通讯簿策略。 若要详细了解通讯簿策略，请参阅 [Exchange Online 中的通讯簿](https://go.microsoft.com/fwlink/p/?LinkId=394203)。
   
 ### <a name="address-lists"></a>地址列表
 
-Exchange Online 支持自定义地址列表和全局地址列表，这是所有启用邮件的用户、通讯组和外部联系人的组织范围目录。管理员可以使用目录同步工具或远程 Windows PowerShell，隐藏全局地址列表的用户、通讯组和联系人。
+Exchange Online 支持自定义地址列表和 Gal。 GAL 是所有启用邮件的用户、通讯组和外部联系人的组织范围的目录。 管理员可以使用目录同步工具或远程 Windows PowerShell 来隐藏 GAL 中的用户、通讯组和联系人。
   
 ### <a name="hierarchical-address-books"></a>分层通讯簿
 
@@ -101,7 +101,7 @@ Exchange Online 支持自定义地址列表和全局地址列表，这是所有�
   
 ### <a name="distribution-groups-global"></a>通讯组（全局）
 
-通讯组（或通讯组列表）是对公司所有用户可用的用户、联系人和其他通讯组的集合。用户定址电子邮件给通讯组别名以发送邮件给该组中的所有人员。通讯组类似于个人在 Outlook 中创建的个人通讯组，唯一区别是他们的成员列表在公司全局可用。管理员在 Exchange 管理中心创建通讯组。还可从内部部署 Active Directory 将该组与 Exchange Online 同步。它们显示在 Outlook 中的全局地址列表。Exchange Online 支持高级通讯组功能，包括如下介绍的这些功能：
+通讯组（或通讯组列表）是对公司所有用户可用的用户、联系人和其他通讯组的集合。 用户定址电子邮件给通讯组别名以发送邮件给该组中的所有人员。 通讯组类似于个人在 Outlook 中创建的个人通讯组，唯一区别是他们的成员列表在公司全局可用。 管理员在 Exchange 管理中心创建通讯组。 还可从内部部署 Active Directory 将该组与 Exchange Online 同步。 它们显示在 Outlook 中的 GAL 中。 Exchange Online 支持高级通讯组功能，包括如下介绍的这些功能：
   
 - **限制通讯组** 默认情况下，任何人都可以向任何通讯组发送电子邮件。管理员可以更改权限，仅允许特定个人发送电子邮件给某个组例如，不鼓励不当使用大型通讯组列表。管理员还可以阻止外部源发送电子邮件给通讯组，以帮助防止垃圾邮件。对于使用目录同步工具从内部部署 Active Directory 同步的通讯组，限制属性将自动同步到云。有关详细信息，请参阅 [管理通讯组](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)。
     
@@ -119,7 +119,7 @@ Exchange Online 支持自定义地址列表和全局地址列表，这是所有�
   
 ### <a name="external-contacts-global"></a>外部联系人（全局）
 
-外部联系人是在指定组织之外工作的人员信息的记录。外部联系人类似于个人在 Outlook 中创建的个人通讯组，唯一区别是他们对公司全局可用。管理员可以使用 Exchange 管理中心或远程 Windows PowerShell 创建外部联系人。还可从内部部署 Active Directory 将这些联系人与 Exchange Online 同步。它们显示在 Outlook 中的全局地址列表。
+外部联系人是在指定组织之外工作的人员信息的记录。 外部联系人类似于个人在 Outlook 中创建的个人通讯组，唯一区别是他们对公司全局可用。 管理员可以使用 Exchange 管理中心或远程 Windows PowerShell 创建外部联系人。 还可从内部部署 Active Directory 将这些联系人与 Exchange Online 同步。 它们显示在 Outlook 中的 GAL 中。
   
 有关外部联系人的详细信息，请参阅[在 Exchange Online 中创建组织关系](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx)。
   
@@ -127,7 +127,7 @@ Exchange Online 支持自定义地址列表和全局地址列表，这是所有�
 
 ### <a name="resource-mailboxes"></a>资源邮箱
 
-资源邮箱（如用于会议室和物理设备）代表公司的会议室或其他设施或资源。通过在 Outlook 或 Outlook Web App 中添加资源的电子邮件别名给会议请求，用户可以预订房间或资源。会议室和资源显示在 Outlook 和 Outlook Web App 的全局地址列表中。
+资源邮箱（如用于会议室和物理设备）代表公司的会议室或其他设施或资源。 用户可以通过在 Outlook 或 web 上的 Outlook 中将资源的电子邮件别名添加到会议请求中，来保留会议室或资源。 会议室和资源显示在 Outlook 和 web 上的 Outlook 中的 GAL 中。
   
 管理员使用 Exchange 管理中心或远程 Windows PowerShell 创建资源邮箱。该邮箱还可与来自内部部署 Active Directory 的 Exchange Online 同步。
   
@@ -141,7 +141,7 @@ Exchange Online 支持自定义地址列表和全局地址列表，这是所有�
 
 Exchange Online 包括资源预订助理 (RBA)，这将自动计划会议室和其他资源。已配置 RBA 的资源邮箱将基于资源的日历可用性接受、拒绝或确认来自会议组织者的会议请求。 
   
-管理员可以自定义自动会议室回复，并在 Outlook Web App 中配置预订策略。这些策略包括可以计划资源的人员、何时计划资源、什么会议信息在资源日历上可见和允许的计划冲突百分比。管理员可以禁用资源预订助理并分配特定用户以手动管理会议室的会议请求。
+管理员可以自定义自动会议室响应，并在 web 上的 Outlook 中配置预订策略。 这些策略包括可以计划资源的人员、何时计划资源、什么会议信息在资源日历上可见和允许的计划冲突百分比。 管理员可以禁用资源预订助理并分配特定用户以手动管理会议室的会议请求。
   
 管理员必须通过远程 Windows PowerShell 定义和管理 RBA 设置。
   
@@ -153,9 +153,9 @@ Exchange Online 包括资源预订助理 (RBA)，这将自动计划会议室和�
 
 用户可以使用以下两种方法之一共享他们的个人日历：
   
-- **联合日历共享** 联合身份验证指支持"联盟共享"（Exchange 用户与其他外部联盟组织中的收件人共享闲/忙日历数据和联系人信息的一种简单方法）的基本信任基础结构。这包括 Exchange Online 组织或运行 Exchange Server 2010 或 Exchange Server 2013 内部部署的组织。Exchange Online 管理员无需设置与 Microsoft 联合网关的信任，因为在创建 Office 365 租户服务时已为所有 Exchange Online 客户预配置该信任。默认共享策略允许用户从 Outlook Web App 或 Outlook 2010 发送日历共享邀请。管理员使用远程 Windows PowerShell 禁用该策略，或配置用户可以共享的闲/忙日历数据级别。管理员还可以创建与另一个联合组织的组织对组织关系，这允许所需闲/忙信息级别对跨组织的每个用户可见，而无需单个用户进行共享邀请。在管理员定义的共享策略和/或组织对组织关系范围内，用户可以单独进一步限制他们共享的详细信息。 
+- **联合日历共享** 联合身份验证指支持"联盟共享"（Exchange 用户与其他外部联盟组织中的收件人共享闲/忙日历数据和联系人信息的一种简单方法）的基本信任基础结构。 这包括 Exchange Online 组织或运行 Exchange Server 2010 或 Exchange Server 2013 内部部署的组织。 Exchange Online 管理员无需设置与 Microsoft 联合网关的信任，因为在创建 Office 365 租户服务时已为所有 Exchange Online 客户预配置该信任。 默认共享策略允许用户从 web 或 Outlook 2010 发送来自 Outlook 的日历共享邀请。 管理员使用远程 Windows PowerShell 禁用该策略，或配置用户可以共享的闲/忙日历数据级别。 管理员还可以创建与另一个联合组织的组织对组织关系，这允许所需闲/忙信息级别对跨组织的每个用户可见，而无需单个用户进行共享邀请。 在管理员定义的共享策略和/或组织对组织关系范围内，用户可以单独进一步限制他们共享的详细信息。 
     
-- **Internet 日历共享** Exchange Online 允许用户使用 iCal 格式发布他们的日历，以由组织内外的任何人匿名访问。 收件人可以使用 Exchange（另一个平台）或仅仅使用 Web 浏览器。 Exchange Online 用户也可以通过 iCal 订阅其他人已发布到 internet 位置的日历。 该个人日历共享与联合日历共享不同，它由管理员配置并提供组织对组织的闲/忙共享。 没有用户可以以 iCal 格式发布日历数据，直到管理员设定并应用允许它的共享策略。 管理员可以使用远程 Windows PowerShell，禁用组织用户的 iCal 发布和 iCal 订阅。 
+- **Internet 日历共享** Exchange Online 允许用户使用 iCal 格式发布他们的日历，以由组织内外的任何人匿名访问。 收件人可以使用 Exchange（另一个平台）或仅仅使用 Web 浏览器。 Exchange Online 用户也可以通过 iCal 订阅其他人已发布到 internet 位置的日历。 该个人日历共享与联合日历共享不同，它由管理员配置并提供组织对组织的闲/忙共享。 任何用户都不能以 iCal 格式发布日历数据，直到管理员设置并应用了允许它的共享策略。 管理员可以使用远程 Windows PowerShell，禁用组织用户的 iCal 发布和 iCal 订阅。
     
 有关联合共享的详细信息，请参阅 [Exchange Online 中的共享](https://go.microsoft.com/fwlink/p/?LinkId=271774)。
   
@@ -169,6 +169,5 @@ Exchange Online 支持 Outlook 2010 的会议室查找工具功能，它可将�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
-

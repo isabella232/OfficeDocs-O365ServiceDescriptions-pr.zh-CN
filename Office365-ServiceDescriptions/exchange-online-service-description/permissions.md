@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支持组织管理员有效控制用户和 IT 员工可以在该服务中执行的操作。例如，如果合规专员负责处理邮箱搜索请求，则管理员可通过 RBAC 将此管理功能委派给该专员。Exchange Online 使用与 Microsoft Exchange Server 2013 相同的 RBAC 框架。
-ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776843"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581948"
 ---
 # <a name="permissions"></a>权限
 
@@ -35,7 +35,7 @@ Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支�
   
 - **管理角色** 可以使用管理 Exchange Online 组织的一部分（如收件人、服务器或数据库）的角色组，将这些角色包含的权限分配给管理员或专家用户。 
     
-- **最终用户角色** 通过使用角色分配策略分配这些角色，使用户可以管理自己的邮箱及其拥有的通讯组的方方面面。最终用户角色以前缀  `My` 开头。
+- **最终用户角色**通过使用角色分配策略分配的这些角色，使用户可以管理自己的邮箱及其拥有的通讯组的各个方面。 最终用户角色以前缀  `My` 开头。
     
 角色通过向已分配角色的用户提供 cmdlet 来授予管理员和用户执行任务的权限。由于 Exchange 管理中心 (EAC) 和 Exchange 命令行管理程序使用 cmdlet 管理 Exchange Online，因此授予对 cmdlet 的访问权限将给予管理员或用户在每个 Exchange Online 管理界面中执行任务的权限。
   
@@ -48,7 +48,7 @@ Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支�
   
 ## <a name="role-groups"></a>角色组
 
-"管理角色组"可将管理角色与一组管理员或专家用户进行关联。管理员管理众多 Exchange Online 组织或收件人配置。专家用户则管理 Exchange Online 的特定功能（如遵从性），或者具备有限的管理能力（如技术支持成员），但没有广泛的管理权限。角色组通常会关联公用管理角色，这些角色使管理员和专家用户可以管理其组织以及收件人的配置。例如，管理员能否管理收件人或使用邮箱发现功能是通过角色组控制的。 
+"管理角色组"可将管理角色与一组管理员或专家用户进行关联。 管理员管理众多 Exchange Online 组织或收件人配置。 专家用户则管理 Exchange Online 的特定功能（如遵从性），或者具备有限的管理能力（如技术支持成员），但没有广泛的管理权限。 角色组通常会关联管理管理角色，以便管理员和专家用户可以管理其组织和收件人的配置。 例如，管理员能否管理收件人或使用邮箱发现功能是通过角色组控制的。 
   
 > [!IMPORTANT]
 > Microsoft Exchange Server 2013 内部部署版本中的某些角色组在 Exchange Online 中可能不存在。 
@@ -66,6 +66,6 @@ Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

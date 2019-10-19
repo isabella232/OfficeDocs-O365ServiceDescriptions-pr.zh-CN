@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442697"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581918"
 ---
-# <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
+# <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
@@ -39,7 +39,7 @@ Microsoft Outlook 是一个电子邮件程序，其中包括对日历、联系�
   
 ## <a name="outlook-on-the-web"></a>Web 上的 Outlook
 
-Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。 它使用户可以通过 web 浏览器访问其电子邮件、日历和联系人，无论它们连接到 internet。 若要了解支持的浏览器，请参阅 [Outlook 网页版支持的浏览器（适用于企业）](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)。
+Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。 它允许用户通过 web 浏览器访问其电子邮件、日历和联系人（无论它们连接到 internet）。 若要了解支持的浏览器，请参阅 [Outlook 网页版支持的浏览器（适用于企业）](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006)。
   
 Outlook 网页版具有两个客户端版本，这两个都可用于 Exchange Online：
   
@@ -60,9 +60,9 @@ Exchange Online 适用于适用于 iOS、Android 和 Windows Phone 的 Outlook �
 |||||
 |:-----|:-----|:-----|:-----|
 |设备  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook 移动应用可用性  <br/> |是  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
+|Outlook 移动应用可用性  <br/> |可访问  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可访问  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
 |与 Exchange Online 兼容的内置电子邮件应用程序  <br/> |Gmail app/Samsung 电子邮件应用程序  <br/> |iOS 邮件应用程序  <br/> |Outlook 邮件、日历、联系人  <br/> |
-|详细信息  <br/> |[Android 手机设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|更多信息  <br/> |[Android 手机设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
 此外，还提供了有关将 Exchange Online 与设备（包括 Blackberry）结合使用的选项。
   
@@ -70,7 +70,7 @@ Exchange Online 适用于适用于 iOS、Android 和 Windows Phone 的 Outlook �
 
 Outlook 为用户提供了从新式移动应用程序获得的快速、直观的电子邮件和日历体验，同时也是唯一为 Office 365 的最佳功能提供支持的应用程序。 它是唯一专为支持完整的 Office 365 体验而设计的电子邮件应用程序，为用户提供桌面到移动的一致体验。 Outlook 与 Intune、企业移动性和安全性以及 Exchange 控件相集成，以保持数据和用户安全。
   
-Outlook 使用户能够：
+通过 Outlook，用户可以：
   
 - 从移动设备管理其全天。
 
@@ -161,5 +161,5 @@ Exchange Online 通过 POP3 和 IMAP4 协议支持邮箱访问。POP 和 IMAP �
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   

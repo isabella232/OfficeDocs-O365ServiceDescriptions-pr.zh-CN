@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: Exchange Online Protection 当前存在以下限制。 除非另行指定，否则无法配置这些限制。
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231390"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581459"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
-Exchange Online Protection 当前存在以下限制。 除非另有指定，否则这些限制不可配置。 
+Exchange Online Protection 当前存在以下限制。 除非另行指定，否则无法配置这些限制。 
   
 > [!TIP]
 > 有关 Exchange Online 中的限制的详细信息，请参阅[Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。传输规则限制也适用于 EOP 独立客户。Exchange Online 的收件人比率和邮件比率限制不适用于 EOP 独立客户。 
@@ -38,7 +38,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
     
 - **邮件延迟限制**延迟中的邮件将保留在队列中24小时之内。 重试发送邮件的依据为从收件人的邮件系统收到的错误类型。 邮件每 15 分钟重试一次。 
     
-- **垃圾邮件隔离保留期**默认情况下, 发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
+- **垃圾邮件隔离保留期**默认情况下，发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
     
 - **最终用户的垃圾邮件隔离通知** 默认情况下，如果启用，最终用户垃圾邮件隔离通知将每 3 天发送一次。它们可以配置为每 1 至 15 天发送一次。 
     
@@ -55,7 +55,7 @@ Exchange Online Protection 当前存在以下限制。 除非另有指定，否�
 |每个策略阻止的发件人限制  <br/> |1024 个条目  <br/> |1024 个条目  <br/> ||
 |IP 允许列表或 IP 阻止列表限制  <br/> |1273 个条目  <br/> |1273 个条目  <br/> |1273 个条目  <br/> |
 |邮件延迟限制  <br/> |2 天，每 15 分钟重试一次  <br/> |2 天，每 15 分钟重试一次  <br/> |2 天，每 15 分钟重试一次  <br/> |
-|垃圾邮件隔离的保留期  <br/> |30天 (默认为30天), 但可以降低  <br/> |30天 (默认为30天), 但可以降低  <br/> |30天 (默认为30天), 但可以降低  <br/> |
+|垃圾邮件隔离的保留期  <br/> |30天（默认为30天），但可以降低  <br/> |30天（默认为30天），但可以降低  <br/> |30天（默认为30天），但可以降低  <br/> |
 |最终用户垃圾邮件隔离通知  <br/> |默认为 3 天，可配置为 1 到 15 天  <br/> |默认为 3 天，可配置为 1 到 15 天  <br/> |默认为 3 天，可配置为 1 到 15 天  <br/> |
    
 

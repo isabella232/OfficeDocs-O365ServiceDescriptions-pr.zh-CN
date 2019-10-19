@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998504"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595280"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -37,23 +37,24 @@ Exchange Online、SharePoint Online、Exchange Online 存档、Skype for Busines
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Office 365 美国政府版社区筛查的人员
 
-Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的客户内容。任何请求临时权限提升（以获得客户内容访问权限）的工作人员都必须先通过以下背景调查。 
+Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的客户内容。 任何请求临时权限提升的人员都必须先通过以下背景检查，才能授予对客户内容的访问权限。 
   
 |||
 |:-----|:-----|
-|**Microsoft 人员筛选和背景检查**<sup>1</sup> <br/> |**说明** <br/> |
-|美国公民身份  <br/> |核实美国公民身份  <br/> |
-|工作经历调查  <br/> |核实七 (7) 年的工作经历  <br/> |
-|核实教育背景  <br/> |核实最高学历  <br/> |
-|搜索社会安全号码 (SSN)  <br/> |核实所提供的 SSN 是否有效  <br/> |
-|犯罪记录调查  <br/> |调查州、县、地方级和联邦级七 (7) 年的重罪和轻罪犯罪记录  <br/> |
+|**Microsoft 人员筛选和背景检查** <sup>1</sup> <br/> |**说明** <br/> |
+|美国公民  <br/> |核实美国公民身份  <br/> |
+|就业历史记录检查  <br/> |核实七 (7) 年的工作经历  <br/> |
+|教育版验证  <br/> |核实最高学历  <br/> |
+|社会安全号码（SSN）搜索  <br/> |核实所提供的 SSN 是否有效  <br/> |
+|刑事病史支票  <br/> |调查州、县、地方级和联邦级七 (7) 年的重罪和轻罪犯罪记录  <br/> |
 |海外资产控制办公室 (OFAC) 名单  <br/> |核实是否被归入美国财政部发布的美国公民不得与之有贸易或金融往来的团体名单  <br/> |
 |工业安全局 (BIS) 名单  <br/> |核实是否被归入美国商务部发布的禁止从事出口活动的个人和实体名单  <br/> |
 |国防贸易管制办公室 (DDTC) 禁止人员名单  <br/> |核实是否被归入美国国务院发布的禁止从事与国防工业有关的出口活动的个人和实体名单  <br/> |
 |指纹检查  <br/> |根据 FBI 数据库进行指纹背景调查  <br/> |
-|CJIS 背景筛查  <br/> |在每个已加入 Microsoft CJIS IA 计划的州内，由州 CSA 指定的机构调查州审判的联邦和州级犯罪记录  <br/> |
+|CJIS 后台筛选  <br/> |在每个已加入 Microsoft CJIS IA 计划的州内，由州 CSA 指定的机构调查州审判的联邦和州级犯罪记录  <br/> |
 
-<sup>1</sup>仅适用于具有对 OFFICE 365 美国政府社区云（GCC）中托管的客户内容的临时或有权访问权限的人员  
+<sup>1</sup>仅适用于具有对 OFFICE 365 美国政府社区云（GCC）中托管的客户内容的临时或具有访问权限的人员。
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 美国政府版社区和 Yammer
 
 虽然 Yammer Enterprise 不是 Office 365 美国政府版 的组件，但是 Office 365 美国政府版 E1 和 E3 计划许可的每个用户都可以将其作为独立产品免费获取。根据企业协议和企业订阅协议购买 Office 365 美国政府版 的客户当前不能享有此项优惠。 

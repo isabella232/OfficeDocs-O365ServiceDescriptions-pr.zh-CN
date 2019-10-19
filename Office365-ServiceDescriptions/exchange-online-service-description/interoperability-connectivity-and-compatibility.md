@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776793"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581828"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>互操作性、连接性和兼容性
 
@@ -28,7 +28,7 @@ ms.locfileid: "35776793"
   
 本地 Lync Server 2010 和 Lync Server 2013 可以使用两种其他方式与 Exchange Online 进行互操作：
   
-- Outlook Web App 中的 IM 和联机状态互操作性
+- Outlook 网页网站中的 IM 和状态互操作性
     
 - 语音邮件互操作性
     
@@ -50,7 +50,7 @@ Exchange Online 提供以下功能以与外部应用程序和设备连接：
     
 ### <a name="exchange-web-services"></a>Exchange Web 服务
 
-Exchange Web 服务 (EWS) 是 Exchange Server 和 Exchange Online 的首选开发 API。使用 EWS 或 EWS 托管 API，管理员可以访问使用 Exchange Online 存储，来自内部部署、在 Azure 或其他托管服务运行应用程序的数据。EWS 允许管理员执行专门操作，如查询邮箱内容、发布日历事件、创建任务或基于电子邮件消息的内容触发特定操作。通过授予对客户账户的应用程序权限，Exchange Online 可以启用 EWS 功能。这些权限允许客户应用程序访问应用程序邮箱并添加内容。Exchange Impersonation 是一种用于授予应用程序权限的方法。有关如何将 Exchange Web Services 用于 Exchange Online 的详细信息，请参阅 Exchange Online 开发人员中心的技术文章。
+Exchange Web 服务 (EWS) 是 Exchange Server 和 Exchange Online 的首选开发 API。 使用 EWS 或 EWS 托管 API，管理员可以访问使用 Exchange Online 存储，来自内部部署、在 Azure 或其他托管服务运行应用程序的数据。 EWS 使管理员可以执行专门的操作，例如查询邮箱内容、发布日历事件、创建任务或根据电子邮件的内容触发特定操作。 通过授予对客户账户的应用程序权限，Exchange Online 可以启用 EWS 功能。 这些权限允许客户应用程序访问应用程序邮箱并添加内容。 Exchange Impersonation 是一种用于授予应用程序权限的方法。 有关如何将 Exchange Web Services 用于 Exchange Online 的详细信息，请参阅 Exchange Online 开发人员中心的技术文章。
   
 ### <a name="smtp-relay"></a>SMTP 中继
 
@@ -58,6 +58,6 @@ Exchange Online 可以作为 SMTP 送达服务设置，以中继来自传真网�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

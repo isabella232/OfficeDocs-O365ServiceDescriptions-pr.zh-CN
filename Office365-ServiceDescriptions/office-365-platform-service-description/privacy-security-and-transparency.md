@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 746b58eda83545b97e00b77ba67c6e9794420018
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 706ff7bb1f5f3d7b3ae1ba761bcdadc237051e3d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777343"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582098"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
@@ -54,10 +54,9 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 ## <a name="advanced-threat-protection"></a>高级威胁防护
 
-Office 365 高级威胁防护可帮助您的组织抵御恶意软件和病毒攻击。 ATP 包括[安全链接](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[反网络钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺骗智能](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。 "安全链接"通过在用户每次单击链接时提供保护措施，从而主动保护您的用户免遭邮件中恶意超链接的攻击。 "安全附件"通过将不携带已知病毒/恶意软件签名的所有邮件和附件路由到 ATP 可以检测恶意企图的特殊环境中，从而防止遭受未知恶意软件和病毒的攻击。 有关 ATP 的详细信息, 请参阅[Office 365 高级威胁防护服务说明](../office-365-advanced-threat-protection-service-description.md)。
+Office 365 高级威胁防护可帮助您的组织抵御恶意软件和病毒攻击。 ATP 包括[安全链接](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)、[安全附件](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)、[反网络钓鱼](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)和[欺骗智能](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence)功能。 安全链接可主动保护您的用户免受邮件中恶意的超链接的攻击，并在每次选择链接时提供保护。 "安全附件"通过将不携带已知病毒/恶意软件签名的所有邮件和附件路由到 ATP 可以检测恶意企图的特殊环境中，从而防止遭受未知恶意软件和病毒的攻击。 有关 ATP 的详细信息，请参阅[Office 365 高级威胁防护服务说明](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)。
+若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
   
-

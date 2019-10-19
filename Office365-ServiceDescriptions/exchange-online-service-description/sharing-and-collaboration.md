@@ -11,21 +11,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442537"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582008"
 ---
 # <a name="sharing-and-collaboration"></a>共享和协作
 
 ## <a name="federated-sharing"></a>联合共享
 
-联合身份验证是指支持联合共享的基础信任基础结构、Microsoft Exchange Online 用户与其他外部联盟组织或中的收件人共享忙/闲日历数据和联系人信息的方法具有 internet 访问权限的用户。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online 管理员使用户能够从 Microsoft Outlook Web App、Microsoft Outlook 2010 或更高版本中发送日历共享邀请。
+联合身份验证是指支持联合共享的基础信任基础结构、Microsoft Exchange Online 用户与其他外部联盟组织或中的收件人共享忙/闲日历数据和联系人信息的方法具有 internet 访问权限的用户。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online 管理员可以使用户能够从 Microsoft Outlook 在 web 或 Microsoft Outlook 2010 或更高版本上发送日历共享邀请。
   
 > [!IMPORTANT]
->  外部 Exchange 2010 和 Exchange 2013 组织必须将使用 Microsoft 联合身份验证网关的联合身份验证信任作为配置联合共享的一部分加以配置。由于创建 Office 365 租户时，系统将自动创建使用 Microsoft 联合身份验证网关的联合身份验证信任，因此，Exchange Online 组织无需再配置。 >  Exchange Online 组织必须配置组织关系或共享策略，以支持联合共享。 >  联合共享不支持共享全局访问列表 (GAL)，亦不支持在 Office 365 的不同租户中的 Exchange Online 组织之间移动用户邮箱。 
+>  外部 Exchange 2010 和 Exchange 2013 组织必须将使用 Microsoft 联合身份验证网关的联合身份验证信任作为配置联合共享的一部分加以配置。 由于创建 Office 365 租户时，系统将自动创建使用 Microsoft 联合身份验证网关的联合身份验证信任，因此，Exchange Online 组织无需再配置。 
+>
+>  Exchange Online 组织必须配置组织关系或共享策略，以支持联合共享。 
+>
+>  联合共享不支持在不同 Office 365 租户的 Exchange Online 组织之间共享全局访问列表（Gal）或移动用户邮箱。 
   
 有关联合共享的详细信息，请参阅 [Exchange Online 中的共享](https://go.microsoft.com/fwlink/p/?LinkId=271774)。
   
@@ -46,16 +50,16 @@ Exchange Online 中的公用文件夹已进行了改进，可利用邮箱数据�
   
 有关公用文件夹的详细信息，请参阅[公用文件夹](https://go.microsoft.com/fwlink/p/?LinkId=271790)。
   
-## <a name="group-and-shared-mailboxes"></a>组邮箱和共享邮箱
+## <a name="group-and-shared-mailboxes"></a>组和共享邮箱
 
-组邮箱和共享邮箱可让特定的人员组方便地通过公共帐户（例如 info@contoso.com 或 contact@contoso.com）监视和发送电子邮件。如果组中有人回复发送至共享邮箱的邮件，则该电子邮件可能是从共享邮箱发送而不是从单个用户发送。
+组和共享邮箱使特定的一组用户可以轻松地从公用帐户（如公用电子邮件地址（例如，info@contoso.com 或 contact@contoso.com）中监视和发送电子邮件。 当组中的某个人答复发送到共享邮箱的邮件时，该电子邮件似乎来自共享邮箱，而不是来自单个用户。
   
-通常，组邮箱或共享邮箱不需要单独的用户许可证。但是，若要启用组邮箱或共享邮箱的就地存档，就必须向其分配 Exchange Online 计划 1 或 Exchange Online 计划 2 许可证。分配许可证后，邮箱大小将增加到授权的计划的邮箱大小。若要将共享邮箱放置到就地保留上，必须向其分配 Exchange Online 计划 2 许可证。请注意，目前不能分配组邮箱，但应该会计入许可证总数。
+通常，组或共享邮箱不需要单独的用户许可证。 但是，若要为组或共享邮箱启用就地存档，必须向其分配 Exchange Online 计划1或 Exchange Online 计划2许可证。 分配许可证后，邮箱大小将增加到授权的计划的邮箱大小。 若要将共享邮箱置于就地保留状态，必须向其分配 Exchange Online 计划2许可证。 请注意，此时无法分配组邮箱，但应在总许可证中对其进行考虑。
   
-就地存档仅可用于为应用了许可证的单个用户或实体（如共享邮箱）存档邮件。禁止使用就地存档作为从多个用户或实体存储邮件的方法。例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。因此，共享邮箱中仅存储发送至或来自共享邮箱的电子邮件，作为共享邮箱。
+就地存档仅可用于为应用了许可证的单个用户或实体（如共享邮箱）存档邮件。 禁止使用就地存档存储多个用户或实体的邮件。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此，共享邮箱中仅存储的电子邮件是作为共享邮箱发送或接收的。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

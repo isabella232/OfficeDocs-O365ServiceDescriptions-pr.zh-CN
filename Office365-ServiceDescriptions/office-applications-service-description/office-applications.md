@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776373"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582158"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
 Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
   
-有关 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务, 请参阅[Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -61,29 +61,29 @@ Skype for Business 是一款即时消息客户端和统一通信应用程序。 
 
 Microsoft InfoPath 是一个程序，可让您设计、散布、完成和提交电子表格。您可选择将 InfoPath 表单 Web 部件添加至 SharePoint Online 站点。有关更多信息，请参阅 [InfoPath 表单 Web 部件](http://go.microsoft.com/fwlink/p/?LinkId=271687).
 
-若要了解在不编写代码的情况下, InfoPath 的后续任务如何在 SharePoint 中提高业务效率, 请参阅[使用 PowerApps 自定义 SharePoint](https://powerapps.microsoft.com/infopath/)。
+若要了解在不编写代码的情况下，InfoPath 的后续任务如何在 SharePoint 中提高业务效率，请参阅[使用 PowerApps 自定义 SharePoint](https://powerapps.microsoft.com/infopath/)。
   
 ## <a name="windows-10-apps"></a>Windows 10 应用
 
-某些 Office 应用程序 (如 Excel 和 Word) 的磁贴将固定在 Windows 10、Windows 8 和 Windows 7 的 "开始" 屏幕上, 默认情况下。 了解有关[在 Windows 中查找和启动 Office 应用程序的](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6?ocmsassetID=HA103581103&CTT=1&CorrelationId=03707eae-b946-462a-b3c6-f0fc04f55611&ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Windows_8.1_or_Windows_8)详细信息。
+某些 Office 应用程序（如 Excel 和 Word）的磁贴将固定在 Windows 10、Windows 8 和 Windows 7 的 "开始" 屏幕上，默认情况下。 了解有关[在 Windows 中查找和启动 Office 应用程序的](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6?ocmsassetID=HA103581103&CTT=1&CorrelationId=03707eae-b946-462a-b3c6-f0fc04f55611&ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Windows_8.1_or_Windows_8)详细信息。
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile for iPad 和 iPhone 包括您喜爱的 Office 应用程序, 如 Word for iPad/iPhone、Excel for iPad/iPhone 和 PowerPoint for iPad/iPhone。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 iPad 或 iPhone 上创建和编辑文档。 有关详细信息, 请参阅[在 iOS 设备上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)。
+Office Mobile for iPad 和 iPhone 包括您喜爱的 Office 应用程序，如 Word for iPad/iPhone、Excel for iPad/iPhone 和 PowerPoint for iPad/iPhone。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 iPad 或 iPhone 上创建和编辑文档。 有关详细信息，请参阅[在 iOS 设备上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-适用于 Android 的 office Mobile 包括您喜爱的 Office 应用程序, 如 Word for Android、Excel for Android 和 PowerPoint for Android。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Android 设备上创建和编辑文档。 有关详细信息, 请参阅[在 Android 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)。
+适用于 Android 的 office Mobile 包括您喜爱的 Office 应用程序，如 Word for Android、Excel for Android 和 PowerPoint for Android。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Android 设备上创建和编辑文档。 有关详细信息，请参阅[在 Android 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile for Windows Phone 包括您喜爱的 Office 应用程序, 如 Word for Windows Phone、Excel for Windows Phone 和 PowerPoint for Windows Phone。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Windows Phone 上创建和编辑文档。 有关详细信息, 请参阅[在 Windows Phone 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)。
+Office Mobile for Windows Phone 包括您喜爱的 Office 应用程序，如 Word for Windows Phone、Excel for Windows Phone 和 PowerPoint for Windows Phone。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Windows Phone 上创建和编辑文档。 有关详细信息，请参阅[在 Windows Phone 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-for-windows-10-mobile"></a>适用于 Windows 10 移动版的 Office
 
-Office for Windows 10 移动应用在 Windows 10 电话和平板电脑上针对触摸和小型屏幕进行了优化。 您可从 Windows 应用商店免费下载这些应用。 有关详细信息, 请参阅[获取 Office For Windows 10 移动](https://products.office.com/mobile/office-mobile-apps-for-windows)版。
+Office for Windows 10 移动应用在 Windows 10 电话和平板电脑上针对触摸和小型屏幕进行了优化。 您可从 Windows 应用商店免费下载这些应用。 有关详细信息，请参阅[获取 Office For Windows 10 移动](https://products.office.com/mobile/office-mobile-apps-for-windows)版。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Office Applications 服务说明](office-applications-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Office 应用程序服务说明](office-applications-service-description.md)。
   

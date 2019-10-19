@@ -1,5 +1,5 @@
 ---
-title: 管理 [EOP]
+title: 管理和管理 [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本节介绍了可用于 Microsoft Exchange Online Protection （EOP）管理员的管理界面。
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442477"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581461"
 ---
-# <a name="administration-and-managementeop"></a>管理 [EOP]
+# <a name="administration-and-managementeop"></a>管理和管理 [EOP]
 
 本节介绍了可用于 Microsoft Exchange Online Protection （EOP）管理员的管理界面。
   
@@ -39,5 +39,5 @@ Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   

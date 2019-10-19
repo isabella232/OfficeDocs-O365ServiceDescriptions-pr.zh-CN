@@ -16,21 +16,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131256"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582058"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365 服务系列和计划
-<a name="bkmk_O365Service_Families_and_Plans"> </a>
 
-下表列出了 Office 365 中可用的不同服务系列和计划。要获取功能和定价信息的高级概述，或者希望与在线代表聊天，请单击计划列中的任意链接。
+下表列出了 Office 365 中可用的不同服务系列和计划。 若要简要了解功能和定价信息，或者要与在线代表聊天，请选择 "计划" 列中的任何链接。
   
 |**Office 365 服务系列**|**计划**|
 |:-----|:-----|
@@ -51,21 +50,21 @@ ms.locfileid: "35131256"
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F1** <br/> |
-|Office 365 平台  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 平台  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
+|SharePoint Online  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|OneDrive for Business  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |是<sup>5</sup> <br/> |
 |Skype for Business Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
-|适用于 web 的 Office  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|Office 网页版  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |否  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|Yammer Enterprise  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |是 <br/> |否  <br/> |可访问 <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
+|Yammer Enterprise  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |无<sup>2</sup> <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |可访问 <br/> |否  <br/> |可访问 <br/> |可访问 <br/> |可访问  <br/> |可访问  <br/> |可访问 <br/> |
    
 <sup>1</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 教育版计划中。<br/>
-<sup>2</sup> Azure 信息保护不包括在内, 但可以作为单独的附加项购买, 并将启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。<br/>
+<sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。<br/>
 <sup>3</sup>若要详细了解 Office 365 计划中包含了哪些 Azure 信息保护功能，请参阅 [Azure 信息保护](https://azure.microsoft.com/services/information-protection/)。<br/>
 <sup>4</sup> Office 365 企业版 E5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐，必须购买附加套餐（国内或国际）。<br/>
 <sup>5</sup>包括 2GB 存储。 不包括桌面同步功能。 <br/>
@@ -78,9 +77,9 @@ ms.locfileid: "35131256"
 <sup>12</sup>包括 Skype for Business Online 计划 1 及补充功能。 <br/>
 <sup>13</sup>包括有语音支持而没有任何客户端限制的 Skype for Business Online 计划 2。  <br/>
 <sup>14</sup>包括 Skype for Business Online 计划 1。<br>
-<sup>15</sup>现在, Microsoft 团队是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 从10月1日起, 2018, 将向 Microsoft 团队载入500的新 Office 365 客户将被到 Microsoft 团队, 并且将无法访问 Skype for business Online。 已在使用 Skype for Business Online 的租户将能够继续执行此操作 (包括预配新用户), 直到他们完成向 Microsoft 团队的过渡。<br>
-<sup>16</sup>包括高级合规性, 它提供高级数据管理、高级电子数据展示、客户密码箱、客户密钥、特权访问管理和长期审核日志保留功能。<br>
-<sup>17</sup>起始于5月 2019, Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日, Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。 
+<sup>15</sup>现在，Microsoft 团队是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 从10月1日起，2018，将向 Microsoft 团队载入500的新 Office 365 客户将被到 Microsoft 团队，并且将无法访问 Skype for business Online。 已在使用 Skype for Business Online 的租户将能够继续执行此操作（包括预配新用户），直到他们完成向 Microsoft 团队的过渡。<br>
+<sup>16</sup>包括高级合规性，它提供高级数据管理、高级电子数据展示、客户密码箱、客户密钥、特权访问管理和长期审核日志保留功能。<br>
+<sup>17</sup>起始于5月2019，Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。 
   
 #### <a name="basic-client-limitations"></a>基本客户端限制
 
@@ -108,7 +107,7 @@ ms.locfileid: "35131256"
 ## <a name="standalone-services"></a>独立服务
 <a name="bkmk_standaloneservices"> </a>
 
-下列联机服务自身可作为独立计划提供。它们还可以添加到尚未包括它们的 Business 和 Enterprise 服务系列计划中。要获取定价信息，或者希望与在线代表聊天，请单击下表中列出的任意计划。
+下列联机服务自身可作为独立计划提供。 它们还可以添加到尚未包括它们的 Business 和 Enterprise 服务系列计划中。 若要获取定价信息，或与在线代表聊天，请选择下表中列出的任意计划。
   
 |**服务**|**计划**|
 |:-----|:-----|
@@ -128,4 +127,4 @@ ms.locfileid: "35131256"
 ## <a name="feature-availability"></a>功能可用性
 <a name="bkmk_standaloneservices"> </a>
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
