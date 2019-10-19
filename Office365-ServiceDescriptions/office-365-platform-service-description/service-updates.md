@@ -11,38 +11,38 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
-description: 若要了解刚发布或即将发布的 Office 365 功能, 请查看 Microsoft 365 路线图。
-ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: 若要了解刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
+ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777493"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581348"
 ---
-# <a name="service-updates"></a><span data-ttu-id="0ad09-103">服务更新</span><span class="sxs-lookup"><span data-stu-id="0ad09-103">Service Updates</span></span>
+# <a name="service-updates"></a><span data-ttu-id="ffe39-103">服务更新</span><span class="sxs-lookup"><span data-stu-id="ffe39-103">Service Updates</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="0ad09-p101">本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="0ad09-p101">This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409).</span></span> 
+> <span data-ttu-id="ffe39-p101">本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="ffe39-p101">This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409).</span></span> 
   
-<span data-ttu-id="0ad09-106">若要了解刚发布或即将发布的 Office 365 功能, 请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。</span><span class="sxs-lookup"><span data-stu-id="0ad09-106">To find out about Office 365 features that have just released, or are about to be released, check out the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).</span></span>
+<span data-ttu-id="ffe39-106">若要了解刚发布或即将发布的 Office 365 功能，请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。</span><span class="sxs-lookup"><span data-stu-id="ffe39-106">To find out about Office 365 features that have just released, or are about to be released, check out the [Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="0ad09-107">根据许多因素 (如地理位置、语言、数据中心和订阅) 向客户推出更新和升级。</span><span class="sxs-lookup"><span data-stu-id="0ad09-107">Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription.</span></span> <span data-ttu-id="0ad09-108">也就是说，不是所有更新都可供 现有用户立即使用。</span><span class="sxs-lookup"><span data-stu-id="0ad09-108">This means that not all updates are available immediately to existing customers.</span></span> 
+> <span data-ttu-id="ffe39-107">根据许多因素（如地理位置、语言、数据中心和订阅）向客户推出更新和升级。</span><span class="sxs-lookup"><span data-stu-id="ffe39-107">Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription.</span></span> <span data-ttu-id="ffe39-108">也就是说，不是所有更新都可供 现有用户立即使用。</span><span class="sxs-lookup"><span data-stu-id="ffe39-108">This means that not all updates are available immediately to existing customers.</span></span> 
   
-## <a name="targeted-release"></a><span data-ttu-id="0ad09-109">定向发布</span><span class="sxs-lookup"><span data-stu-id="0ad09-109">Targeted release</span></span>
+## <a name="targeted-release"></a><span data-ttu-id="ffe39-109">定向发布</span><span class="sxs-lookup"><span data-stu-id="ffe39-109">Targeted release</span></span>
 
-<span data-ttu-id="0ad09-110">在目标版本中, 您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。</span><span class="sxs-lookup"><span data-stu-id="0ad09-110">With Targeted release, your organization or a set of your users receive a select set of service updates approximately one week before we begin our standard release process.</span></span> <span data-ttu-id="0ad09-111">若要了解详细信息, 请参阅[Office 365 发布选项](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="0ad09-111">To learn more, see [Office 365 release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide).</span></span> 
+<span data-ttu-id="ffe39-110">在目标版本中，您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。</span><span class="sxs-lookup"><span data-stu-id="ffe39-110">With Targeted release, your organization or a set of your users receive a select set of service updates approximately one week before we begin our standard release process.</span></span> <span data-ttu-id="ffe39-111">若要了解详细信息，请参阅[Office 365 发布选项](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="ffe39-111">To learn more, see [Office 365 release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide).</span></span> 
   
-## <a name="update-notifications"></a><span data-ttu-id="0ad09-112">更新通知</span><span class="sxs-lookup"><span data-stu-id="0ad09-112">Update notifications</span></span>
+## <a name="update-notifications"></a><span data-ttu-id="ffe39-112">更新通知</span><span class="sxs-lookup"><span data-stu-id="ffe39-112">Update notifications</span></span>
 
-<span data-ttu-id="0ad09-p104">如果有需要管理员采取行动以便让服务一直正常运行的更改，则 Office 365 会努力提前通知客户。除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx)至少提前 30 天发出通知。</span><span class="sxs-lookup"><span data-stu-id="0ad09-p104">Office 365 strives to notify customers in advance of any change that requires the administrator to take action to keep the service functioning normally. Unless otherwise noted, Microsoft will provide a minimum of 30 days advanced notification via [Message Center](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx) when an update may require admin action.</span></span> 
+<span data-ttu-id="ffe39-p104">如果有需要管理员采取行动以便让服务一直正常运行的更改，则 Office 365 会努力提前通知客户。除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide)至少提前 30 天发出通知。</span><span class="sxs-lookup"><span data-stu-id="ffe39-p104">Office 365 strives to notify customers in advance of any change that requires the administrator to take action to keep the service functioning normally. Unless otherwise noted, Microsoft will provide a minimum of 30 days advanced notification via [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) when an update may require admin action.</span></span> 
   
-<span data-ttu-id="0ad09-115">大多数 Office 365 服务更新都是错误修复、性能改进以及要求代表客户零操作的安全更新。</span><span class="sxs-lookup"><span data-stu-id="0ad09-115">Most Office 365 service updates are bug fixes, performance improvements, and security updates that require zero action on behalf of the customer.</span></span> <span data-ttu-id="0ad09-116">[Microsoft 365 for business 路线图中提供](http://roadmap.office.com/)了新的和改进的功能。</span><span class="sxs-lookup"><span data-stu-id="0ad09-116">New and improved features are found on the [Microsoft 365 for business roadmap](http://roadmap.office.com/).</span></span>
+<span data-ttu-id="ffe39-115">大多数 Office 365 服务更新都是错误修复、性能改进以及要求代表客户零操作的安全更新。</span><span class="sxs-lookup"><span data-stu-id="ffe39-115">Most Office 365 service updates are bug fixes, performance improvements, and security updates that require zero action on behalf of the customer.</span></span> <span data-ttu-id="ffe39-116">[Microsoft 365 for business 路线图中提供](http://roadmap.office.com/)了新的和改进的功能。</span><span class="sxs-lookup"><span data-stu-id="ffe39-116">New and improved features are found on the [Microsoft 365 for business roadmap](http://roadmap.office.com/).</span></span>
   
-<span data-ttu-id="0ad09-117">请注意，Office 365 遵循 [Online 生命周期策略](https://support.microsoft.com/lifecycle#gp/osslpolicy)。</span><span class="sxs-lookup"><span data-stu-id="0ad09-117">Please note that Office 365 follows the [Online Lifecycle Policy](https://support.microsoft.com/lifecycle#gp/osslpolicy).</span></span>
+<span data-ttu-id="ffe39-117">请注意，Office 365 遵循 [Online 生命周期策略](https://support.microsoft.com/lifecycle#gp/osslpolicy)。</span><span class="sxs-lookup"><span data-stu-id="ffe39-117">Please note that Office 365 follows the [Online Lifecycle Policy](https://support.microsoft.com/lifecycle#gp/osslpolicy).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="0ad09-118">功能可用性</span><span class="sxs-lookup"><span data-stu-id="0ad09-118">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="ffe39-118">功能可用性</span><span class="sxs-lookup"><span data-stu-id="ffe39-118">Feature availability</span></span>
 
-<span data-ttu-id="0ad09-119">若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](https://technet.microsoft.com/library/office-365-platform-service-description.aspx)。</span><span class="sxs-lookup"><span data-stu-id="0ad09-119">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).</span></span>
+<span data-ttu-id="ffe39-119">若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。</span><span class="sxs-lookup"><span data-stu-id="ffe39-119">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](office-365-platform-service-description.md).</span></span>
   
 
