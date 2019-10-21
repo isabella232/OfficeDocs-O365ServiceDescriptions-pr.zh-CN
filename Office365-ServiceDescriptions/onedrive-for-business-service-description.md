@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 了解每个订阅计划提供的 OneDrive 存储空间。
-ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
-ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
+ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36407716"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582198"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 
@@ -27,7 +27,7 @@ OneDrive 是为组织中的单个许可用户提供的云中的联机存储空�
   
 OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 计划中，也可以作为单独计划购买。 
     
-若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans)。 
+若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
 > OneDrive for Business 独立计划包含 Office 网页版。 
@@ -38,11 +38,11 @@ OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 �
   
 ## <a name="about-sync"></a>关于同步
 
-计划中包含 OneDrive 的任何人都可以使用 OneDrive 同步客户端，除非他们的 IT 部门明确禁用它。 若要安装最新同步客户端，请转至 [OneDrive 下载页面](https://onedrive.live.com/about/download/)。 若要了解有关同步客户端的详细信息，请参阅[在 Windows 中使用 OneDrive 同步客户端同步文件](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)。
+计划中包含 OneDrive 的任何人都可以使用 OneDrive 同步客户端，除非他们的 IT 部门明确禁用它。 若要安装最新同步客户端，请转至 [OneDrive 下载页面](https://onedrive.live.com/about/download/)。 若要了解有关同步客户端的详细信息，请参阅[在 Windows 中使用 OneDrive 同步客户端同步文件](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49)。
   
 ## <a name="storage-space-per-user"></a>每个用户的存储空间
 
-**2 GB**
+**5 GB**
 
 - Office 365 企业版 F1
 
