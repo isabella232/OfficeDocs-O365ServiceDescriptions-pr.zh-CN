@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523270"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633443"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -52,7 +52,7 @@ ms.locfileid: "37523270"
 |[监督策略](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 ||||||||
    
-<sup>1</sup>数据管理使用户能够创建、发布和手动将标签应用于文档;使用驱动器传送或通过网络导入数据。<br/>
+<sup>1</sup>数据管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。<br/>
 <sup>2</sup>高级数据管理允许您保留重要信息，并根据保留或删除策略或这两者来分类信息，从而删除不重要的信息。 它包括智能/自动化操作，如推荐策略、自动将标签应用于数据、应用基于敏感数据类型或查询的标签、对智能导入筛选器的使用、处置评审和使用。 它还包括用于出于安全和合规目的检查员工通信的监督功能。<br/>
 <sup>3</sup> 50 GB 限制。 <br/>
 <sup>4</sup>无限制。 <br/>
@@ -91,7 +91,7 @@ ms.locfileid: "37523270"
 |[监督策略](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |||||||||
    
-<sup>1</sup>数据管理使用户能够创建、发布和手动将标签应用于文档;使用驱动器传送或通过网络导入数据。 <br/>
+<sup>1</sup>数据管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。 <br/>
 <sup>2</sup>需要购买 Exchange Online 存档加载项。 <br/>
 <sup>3</sup>高级数据管理允许您保留重要信息，并根据保留或删除策略或这两者来分类信息，从而删除不重要的信息。 它包括智能/自动化操作，如推荐策略、自动将标签应用于数据、应用基于敏感数据类型或查询的标签、对智能导入筛选器的使用、处置评审和使用。 它还包括用于出于安全和合规目的检查员工通信的监督功能。<br/>
 <sup>4</sup> Skype 对话作为邮箱的一部分存储。 <br/>

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595300"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631631"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -79,10 +79,9 @@ Excel for web 可以完成您要键入到单元格中的内容，如果有多个
 
 ## <a name="cell-references-in-formulas"></a>公式中的单元格引用
 
-您可以在公式中使用单元格引用。 当引用公式中的单元格或区域时，被引用的单元格或区域将突出显示为一种颜色。 有关详细信息，请参阅[在公式中使用单元格引用](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03)。
+您可以在公式中使用单元格引用。 当[引用公式中的单元格或区域](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)时，被引用的单元格或区域将突出显示为一种颜色。 有关详细信息，请参阅[在公式中使用单元格引用](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>适应新数据的图表动画
-
 仅 Microsoft Excel 桌面应用程序支持高级图表功能。 了解有关 [how to animate a SmartArt graphic](https://go.microsoft.com/fwlink/p/?LinkId=271668)（如何将 SmartArt 图形制作成动画）的详细信息。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>图表和表格，包括数据透视图报表和数据透视表
@@ -95,7 +94,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
 
 ## <a name="comment-creation"></a>Comment creation
 
-您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
+您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 使用您的注释中的 @mentions 将电子邮件发送给您提到的人。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
 
 ## <a name="convert-a-table-to-a-range"></a>将表转换为区域
 
@@ -103,7 +102,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-为获得最佳结果，请使用 Excel for web 中的键盘快捷方式（而不是右键单击菜单或剪贴板命令）将项目复制到另一个工作表位置。 了解有关[在 Excel for web 中使用复制和粘贴](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816)的详细信息。
+您可以剪切、复制和粘贴文本、数字、公式、形状、图表和图像。 如果列中有需要旋转以在行中重新排列的数据，请使用 "**粘贴**" 菜单上的 "**转置**" 功能。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 您可以将单元格从一个位置拖放到另一个位置，从而在 Excel 中移动单元格的值。
+
+## <a name="draw-cell-borders"></a>绘制单元格边框
+
+您可以在工作表上的单元格周围绘制边框，以帮助用户直观地组织数据。 了解有关[Excel 中的单元格边框的](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web)详细信息。
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="formula-bar"></a>Formula bar
 
-请参阅编辑栏中单元格结果后面的公式。您可以在浏览器中添加、更改和删除部分公式，就像在 Excel 桌面应用程序中操作一样。
+请参阅编辑栏中单元格结果后面的公式。 您可以在浏览器中添加、更改和删除部分公式，就像在 Excel 桌面应用程序中操作一样。 Excel for web 使用提供公式和工作表上数据之间的可视化映射的颜色突出显示公式的参数。
   
-## <a name="formula-tools--advanced"></a>公式工具 - 高级
+## <a name="formula-tools-advanced"></a>公式工具，高级
 
 Microsoft Excel 桌面应用程序支持最高级的公式工具，例如 3D 引用样式和数组公式。 Excel for web 仅支持最基本的 Excel 公式。 了解有关[公式](https://go.microsoft.com/fwlink/p/?LinkId=271665)的详细信息。
   
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>命名区域
 
-您不能在 Excel for web 中创建命名区域，但可以在 Excel 中的电子表格中使用在 Excel 桌面中创建的命名区域。
+您不能在 Excel for web 中创建命名区域，但可以在 Excel 中的电子表格中使用在 Excel 桌面中创建的命名区域。 当您选择一个命名区域时，该名称将显示在编辑栏的前面。
 
 ## <a name="number-formatting"></a>数值格式
 
@@ -295,7 +298,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-在 Excel for web 中，您可以查看和重新排序所有工作表、排序和筛选数据（从上到下或从左到右），并深入了解数据透视表的详细信息。 了解有关对[数据进行排序和筛选](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web)的详细信息。
+在 Excel for web 中，您可以查看和重新排序所有工作表、排序和筛选数据（从上到下或从左到右的多个级别），并深入了解数据透视表的详细信息。 了解有关对[数据进行排序和筛选](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)的详细信息。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>电子表格审核和合规性
 

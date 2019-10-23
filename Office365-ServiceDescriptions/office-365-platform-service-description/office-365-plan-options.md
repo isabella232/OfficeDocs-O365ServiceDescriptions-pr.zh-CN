@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582058"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633497"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -33,10 +33,10 @@ ms.locfileid: "37582058"
   
 |**Office 365 服务系列**|**计划**|
 |:-----|:-----|
-|**中型企业版（最多 300 名用户）** <br/> |[Office 365 商业协作版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t)（Office 365 商业版） <br/> [Office 365 商业高级版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**企业版（最多为300个用户）** <br/> |[Office 365 商业协作版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t)（Office 365 商业版） <br/> [Office 365 商业高级版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**企业版（不受限制的用户数）** <br/> |[Office 365 企业版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企业版 F1](https://products.office.com/business/office-365-f1) <br/> |
-|**教育版（用户数量不限）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**政府版（用户数量不限）** <br/> |[查看所有可用的业务计划](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**教育版（不受限制的用户数）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**政府（用户数量不受限制）** <br/> |[查看所有可用的业务计划](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**由世纪互联运营的 Office 365** <br/> |[查看所有可用的企业版计划](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[查看所有可用的业务计划](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
    
@@ -50,18 +50,18 @@ ms.locfileid: "37582058"
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F1** <br/> |
-|Office 365 平台  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 365 平台  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|OneDrive for Business  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |是<sup>5</sup> <br/> |
+|SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
 |Skype for Business Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
-|Office 网页版  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
+|Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |否  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|Yammer Enterprise  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |无<sup>2</sup> <br/> |
-|Microsoft Kaizala<sup>17</sup> <br/> |可访问 <br/> |否  <br/> |可访问 <br/> |可访问 <br/> |可访问  <br/> |可访问  <br/> |可访问 <br/> |
+|Yammer Enterprise  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |是 <br/> |否  <br/> |可访问 <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
    
 <sup>1</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 教育版计划中。<br/>
 <sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。<br/>
@@ -84,6 +84,7 @@ ms.locfileid: "37582058"
 #### <a name="basic-client-limitations"></a>基本客户端限制
 
 以下功能在完整客户端中可用，但在基本客户端中不可用：
+
 - 管理团队呼叫设置
 - 管理代理    
 - 代表其他联系人发起呼叫（经理/代理方案）    
@@ -97,7 +98,7 @@ ms.locfileid: "37582058"
 
 根据您的组织更改的需要，您可能需要更改 Office 365 计划。您可以从当前的 Office 365 订阅切换到其他 Office 365 订阅： 
   
-- **在同一服务系列中：** 例如，您可以从 Office 365 商业协作版 转到 Office 365 商业高级版，也可以从 Office 365 企业版 E1 转到 Office 365 企业版 E3。     
+- **在同一服务系列中：** 例如，您可以从 Office 365 商业协作版 转到 Office 365 商业高级版，也可以从 Office 365 企业版 E1 转到 Office 365 企业版 E3。
 - **从独立计划：** 例如，您可以从 Exchange Online 计划 1 转到 Office 365 企业版 E1。     
 - **对于不同的服务系列：** 例如，你可以从 Office 365 商业协作版 转到 Office 365 企业版 E3。     
 有关如何更改订阅（包括如何从试用订阅转到付费订阅）的信息，请参阅[切换到其他 Office 365 计划或订阅](https://support.office.com/article/HA104031833)。
@@ -105,7 +106,6 @@ ms.locfileid: "37582058"
 可以在单个帐户中结合使用 Enterprise、Business 和独立计划（例如，Exchange Online 计划 1）。但是，不会更改对每个计划席位数的现有限制。例如，在 Office 365 商业协作版和 Office 365 商业高级版上每个计划具有最多 300 个席位，但 Exchange Online 计划 1 上具有不限数量的用户。
   
 ## <a name="standalone-services"></a>独立服务
-<a name="bkmk_standaloneservices"> </a>
 
 下列联机服务自身可作为独立计划提供。 它们还可以添加到尚未包括它们的 Business 和 Enterprise 服务系列计划中。 若要获取定价信息，或与在线代表聊天，请选择下表中列出的任意计划。
   
@@ -125,6 +125,5 @@ ms.locfileid: "37582058"
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>功能可用性
-<a name="bkmk_standaloneservices"> </a>
 
 若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582168"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631651"
 ---
 # <a name="user-account-management"></a>用户帐户管理
 
@@ -104,7 +104,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
 |Windows Vista 上的 Outlook 2010 或 Office Outlook 2007。  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
 |POP、IMAP、Outlook for Mac  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
-|Web 体验：适用于 web 的 Office 365 portal/Outlook Web App/SharePoint Online/Office  <br/> |每次浏览器会话登录 <sup>4</sup> <br/> |每次会话登录 <sup>3</sup> <br/> |
+|Web 体验：适用于 web 的 web/SharePoint Online/Office 中的 Office 365 门户/Outlook  <br/> |每次浏览器会话登录 <sup>4</sup> <br/> |每次会话登录 <sup>3</sup> <br/> |
 |使用 SharePoint Online 的 Office 2010 或 Office 2007。  <br/> |每次 SharePoint Online 会话登录 <sup>4</sup> <br/> |每次 SharePoint Online 会话登录 <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |每次会话登录 <sup>1</sup> <br/> |无提示  <br/> |
 |Outlook for Mac  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
     
     对于企业计划，如果管理员丢失或忘记了密码，则具有全局管理员角色的不同管理员可以在 Microsoft 365 管理中心或使用 Windows PowerShell 重置管理员密码。 有关详细信息，请参阅[重置管理员密码](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
-- **用户使用 Outlook Web App 更改密码** Outlook Web App 选项页面中包含"更改密码"超链接，可将用户重定向到" **更改密码**"页面。用户必须知道旧密码。有关详细信息，请参阅[更改密码](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
+- **用户在 web 上使用 Outlook 更改密码**"Web 上的 Outlook 选项" 页包含 "更改密码" 超链接，可将用户重定向到 "**更改密码**" 页面。 用户必须知道旧密码。 有关详细信息，请参阅[更改密码](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
 - **基于角色的重置密码权限** 对于企业版计划，可以向支持人员等授权用户分配" **重置密码**"用户权限，以及使用 Office 365 预定义或自定义角色更改密码的权限，而不必成为拥有完全管理权限的管理员。 默认情况下，在企业版计划中，具有"全局管理员"、"密码管理员"或"用户管理管理员"角色的管理员可以更改密码。 有关详细信息，请参阅[分配管理员角色](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)。
     
@@ -157,7 +157,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
     
  **联合身份密码管理：**
   
-当使用联合身份时，密码将在 Active Directory 中管理。 本地安全令牌服务将身份验证与 Office 365 联合网关协商，而无需通过 internet 将用户的本地 Active Directory 密码传递到 Office 365。 使用本地密码策略，或针对 Web 客户端进行双因素身份验证。 Outlook Web App 中不包含"更改密码"超链接。 用户可以使用标准、内部部署工具或通过他们的桌面 PC 登录选项更改密码。
+当使用联合身份时，密码将在 Active Directory 中管理。 本地安全令牌服务将身份验证与 Office 365 联合网关协商，而无需通过 internet 将用户的本地 Active Directory 密码传递到 Office 365。 使用本地密码策略，或针对 Web 客户端进行双因素身份验证。 Web 上的 Outlook 不包含 "更改密码" 超链接。 用户可以使用标准、内部部署工具或通过他们的桌面 PC 登录选项更改密码。
   
 如果你在 Office 365 环境中启用了[使用单一登录 (SSO) 的目录同步](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100))，并且存在影响联合身份提供程序的中断，可使用联合登录的密码同步备份，手动将域切换为密码同步。使用密码同步，你的用户可以在修复中断期间访问 Office 365。了解 [How To Switch From Single Sign-On To Password Sync](https://go.microsoft.com/fwlink/p/?LinkId=509832)（如何从单一登录切换为密码同步）。
   
