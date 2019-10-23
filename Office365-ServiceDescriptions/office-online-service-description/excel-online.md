@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631631"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637249"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -94,7 +94,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
 
 ## <a name="comment-creation"></a>Comment creation
 
-您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 使用您的注释中的 @mentions 将电子邮件发送给您提到的人。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
+您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 [使用您的注释中的 @mentions](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online)将电子邮件发送给您提到的人。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
 
 ## <a name="convert-a-table-to-a-range"></a>将表转换为区域
 
