@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project 服务说明
+title: Microsoft 项目服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523251"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700244"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project 服务说明
+# <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
 ## <a name="overview"></a>概述
 
@@ -50,7 +50,18 @@ Project Online 是用于项目组合管理（PPM）和日常工作的灵活联�
 
 Project Online 在 SharePoint 平台上构建，并将数据存储在 SharePoint 数据存储中。
 
-Project Online 可通过两种订阅进行： Project Online Professional 和 Project Online 高级版。 Project Online 的工作组成员功能通过[Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)订阅提供。 [Project online 功能](#project-online-features)部分中列出的功能仅与 Project online SharePoint 数据存储中的数据进行交互。
+Project Online 可通过两种订阅进行： Project Online Professional 和 Project Online 高级版。 [Project online 功能](#project-online-features)部分中列出的功能仅与 Project online SharePoint 数据存储中的数据进行交互。
+
+Project Online 的工作组成员功能通过[Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3)订阅提供。 Project Online Essentials 是针对具有 Project Online Professional 或 Project Online 高级订阅的客户的工作组成员*附加*订阅。 它为团队成员提供了一个 web 界面，用于对 Project Online 中管理的项目执行任务和时间更新。 
+
+具有 Project Online Essentials 的团队成员可以执行以下 Project Online 函数：
+
+- 使用基于 web 的界面
+- 更新任务、问题和风险
+- 提交时间表
+- 共享文档并与 Microsoft 团队或 Skype for Business 用户协作
+
+Project Online Essentials 不包含 web 的项目。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面客户端
 
@@ -247,7 +258,15 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 
 ### <a name="use-of-sharepoint-online"></a>使用 SharePoint Online
 
-Project Online 要求使用 SharePoint Online，这是作为 Project Online 的一部分为您设置的。 对随 Project Online Professional 或 Premium 提供的 SharePoint Online 功能的权限仅限于存储和访问数据以支持 Project Online。
+Project Online 要求使用 SharePoint Online，这是作为 Project Online 的一部分进行设置的。 对随 Project Online Professional 或 Premium 提供的 SharePoint Online 功能的权限仅限于存储和访问数据以支持 Project Online。
+
+### <a name="project-roadmap-and-microsoft-flow"></a>项目路线图和 Microsoft 流
+
+项目路线图需要使用 Microsoft 流，这是作为项目订阅的一部分进行预配的。 对 Microsoft 流功能的权限仅限于项目路线图所需的 Microsoft 流功能。 Microsoft 365 管理中心的 "**应用程序**" 部分中的 "项目路线图" 所需的 Microsoft 流功能显示为 "具有流服务计划的**项目的数据集成**"。
+
+### <a name="project-for-the-web-and-common-data-service"></a>Web 和常见数据服务的项目
+
+Web 的项目要求使用通用数据服务（CD）存储其数据。 将 CD 作为项目订阅的一部分进行预配。 对 CD 功能的权限仅限于存储和访问数据以支持 web 的 Project。 Project 所需的 CD 功能在 Microsoft 365 管理中心的 "**应用程序**" 部分显示为 project service Plan 的**通用数据服务**。
 
 ### <a name="data-backup-and-retention"></a>数据备份和保留
 
@@ -266,7 +285,7 @@ Web 的项目有一些限制，如下表所述。
 |Max. 摘要任务的持续时间 | 3650天（10年） |
 |Max. 可分配给任务的资源 | 20个资源 |
 |任务的受支持日期范围 | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**项目** ||
 |Max. 项目的任务总数 | 500 |
 |Max. 项目的总持续时间 | 3650天（10年） |
 |Max. 项目的总资源 | 150 |

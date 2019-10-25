@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
-description: SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。
-ms.openlocfilehash: f3a5823454f40abe2d371e2e9c27ccfb2ab411bd
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+description: SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。
+ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928447"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726215"
 ---
 # <a name="it-professional"></a>IT 专业人士
 
-SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。 
+SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。 
   
 ## <a name="active-directory-synchronization"></a>Active Directory 同步
 
@@ -29,13 +29,13 @@ SharePoint Online 是基于 Web 的工具和技术的集合, 可帮助您的组�
   
 ## <a name="alternate-access-mapping-aam"></a>Alternate Access Mapping (AAM)
 
-SharePoint Online 客户无法使用此功能。SharePoint Server 2013 客户可以配置备用访问映射来映射具有以下特点的请求：Internet 信息服务 (IIS) 所收到的 Web 请求的 URL 与用户键入的 URL 不同。
+对 SharePoint Online 客户不可用。 SharePoint Server 2013 客户可以配置备用访问映射，以映射 Internet 信息服务（IIS）收到的 web 请求的 URL 与用户键入的 URL 中的 URL 的映射请求。
   
 ## <a name="anti-malware-protection"></a>反恶意软件保护
 
 SharePoint Online 为上载并保存到文档库的文件提供了反恶意软件保护。此软件由同样集成到 Exchange 的 Microsoft 反恶意软件引擎提供。此反恶意软件服务可以在所有 SharePoint Online 内容前端 (CFE) 上运行。
   
-## <a name="claims-based-authentication-support"></a>Claims-Based Authentication Support
+## <a name="claims-based-authentication-support"></a>基于声明的身份验证支持
 
 不适用于 SharePoint Online 客户。对于支持 SharePoint Server 2013 服务器到服务器身份验证和应用身份验证的 Web 应用程序，SharePoint Server 2013 客户可以配置基于声明的身份验证。详细了解[基于声明的身份验证](https://go.microsoft.com/fwlink/p/?LinkId=270982)。
   
@@ -47,9 +47,9 @@ SharePoint Online 为上载并保存到文档库的文件提供了反恶意软�
 
 SharePoint Online 的静态加密有两个级别。 SharePoint Online 静态加密默认对所有客户文档库、用户的 OneDrive for Business 数据以及驻留在 Office 365 数据中心的网站数据提供 BitLocker 加密。每文件加密使用自己的唯一密钥，对存储在 SharePoint Online 和 OneDrive for Business 中的每个文件进行加密。 SharePoint Online 和 OneDrive for Business 始终提供动态加密。若要了解静态加密的详细信息，请参阅 [Innovations in security and compliance](https://www.microsoft.com/en-us/microsoft-365/blog/2014/10/28/office-365-latest-innovations-security-compliance/)（安全性和合规性方面的创新）。
   
-## <a name="host-header-site-collections"></a>Host Header Site Collections
+## <a name="host-header-site-collections"></a>主机标头网站集
 
-SharePoint Online 客户无法使用此功能。SharePoint Server 2013 网站集可以具有自己独特的主机标头。通过创建主机指定的网站集，各组织可以使用虚 URL 来托管网站集，使其更易于为人们记住。
+对 SharePoint Online 客户不可用。 SharePoint Server 2013 网站集可以具有自己独特的主机标头。 通过创建以主机命名的网站集，组织可以使用虚 Url 承载多个网站集，便于人们记住。
   
 ## <a name="mobile-device-management-for-office-365"></a>Office 365 移动设备管理
 
@@ -57,17 +57,17 @@ SharePoint Online 客户无法使用此功能。SharePoint Server 2013 网站集
   
 ## <a name="oauth"></a>OAuth
 
-Oauth 是用于创建和管理应用标识的 Internet 协议。Oauth 支持区分应用标识和用户标识。这种跨平台机制意味着，可以向应用授予多于当前用户拥有的权限。详细了解[服务器到服务器身份验证](https://go.microsoft.com/fwlink/p/?LinkId=270988)。
+OAuth 是用于创建和管理应用程序标识的 internet 协议。 OAuth 允许从用户标识之外识别应用程序标识。 这种跨平台机制意味着，可以向应用授予多于当前用户拥有的权限。 详细了解[服务器到服务器身份验证](https://docs.microsoft.com/SharePoint/security-for-sharepoint-server/plan-server-to-server-authentication)。
   
-## <a name="patch-management"></a>Patch Management
+## <a name="patch-management"></a>修补程序管理
 
 SharePoint Online 客户无法使用此功能。SharePoint Server 2013 更新将使用两步流程发布：修补和升级。在修补期间，新的二进制文件将复制到中央管理服务器。任何使用待替换文件的服务均会暂时停止。有时，还必须重新启动服务器。
   
-## <a name="quota-templates"></a>Quota Templates
+## <a name="quota-templates"></a>配额模板
 
 SharePoint Online 客户无法使用此功能。配额模板包含许多存储限制值，这些值将指定网站集中可存储的最大数据量。达到存储限制时，配额模板还可向网站集管理员触发电子邮件警报。SharePoint Online 管理员和 SharePoint Server 2013 场管理员可以创建能应用至任何网站集的配额模板。
   
-## <a name="read-only-database-support"></a>Read-Only Database Support
+## <a name="read-only-database-support"></a>只读数据库支持
 
 SharePoint Online 客户无法使用此功能。 SharePoint Server 2013 管理员可以将内容数据库设置为只读。
   
@@ -81,19 +81,19 @@ SharePoint Online 客户无法使用此功能。SharePoint Server 2013 管理员
   
 ## <a name="resource-throttling"></a>Resource throttling
 
-SharePoint Online 客户无法使用此功能。资源限制为 SharePoint Server 2013 管理员提供了多个选项，使其可以监视并阻止 Web 应用程序的服务器资源和大型列表。资源限制可监视 CPU、内存和等待时间等资源，并每隔 5 秒对资源进行一次检查。 
+对 SharePoint Online 客户不可用。 资源限制为 SharePoint Server 2013 管理员提供了监视和限制服务器资源的选项以及用于 web 应用程序的大型列表的选项。 资源限制可监视 CPU、内存和等待时间等资源，并每隔 5 秒对资源进行一次检查。 
   
 ## <a name="service-application-platform"></a>服务应用程序平台
 
-可以通过任何 Web 应用程序单独使用 SharePoint 服务。 此平台可满足灵活使用服务的需求，具体视应用程序需求而定。 Web Analytics 不再是服务应用程序。 分析和报告流程已合并到搜索服务应用程序中。 适用于 web 的 Office 不再是服务应用程序。 Office Web Apps Server 现在是一款独立的服务器产品。 根据您的组织订阅的 Office 365 计划的不同, SharePoint Online 客户可以使用 Office for web。 详细了解 [SharePoint 服务应用程序](https://go.microsoft.com/fwlink/p/?LinkId=270989)。
+可以在任何 web 应用程序中单独使用 SharePoint 服务。 此平台可满足灵活使用服务的需求，具体视应用程序需求而定。 Web Analytics 不再是服务应用程序。 分析和报告流程已合并到搜索服务应用程序中。 适用于 web 的 Office 不再是服务应用程序。 Office Web Apps Server 现在是一款独立的服务器产品。 根据您的组织订阅的 Office 365 计划的不同，SharePoint Online 客户可以使用 Office for web。 详细了解 [SharePoint 服务应用程序](https://go.microsoft.com/fwlink/p/?LinkId=270989)。
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint 运行状况分析器
 
 SharePoint Online 客户无法使用此功能。网站集升级前运行状况检查是 SharePoint Server 2013 的新增功能。此功能将检查网站集，然后生成一份报告，其中列出任何潜在的升级问题及其解决方式。例如：如果文件已自定义，则会标记出来。这样，您的企业可以识别自定义文件，并根据需要将其重置为默认模板（如果站点已定义）。
   
-## <a name="sharepoint-admin-center-office-365"></a>SharePoint 管理中心 (Office 365)
+## <a name="sharepoint-admin-center-office-365"></a>SharePoint 管理中心（Office 365）
 
-只有特定的 SharePoint Online 客户才能使用 SharePoint 管理中心。此功能支持管理员对以下功能进行管理：
+SharePoint 管理中心仅适用于某些 SharePoint Online 客户，允许管理员管理以下功能：
   
 - 网站集
     
@@ -123,13 +123,13 @@ SharePoint Online 客户无法使用此功能。网站集升级前运行状况�
   
 ## <a name="site-collection-compliance-policies"></a>网站集合规性策略
 
-网站集策略可以在网站集的顶级网站的“网站集策略”列表中创建。网站集策略创建之后可导出，以便其他网站集的网站管理员可将其导入到“网站集策略”列表中。创建可导出的网站集策略之后，SharePoint 管理员可以将组织中网站的信息管理策略实现标准化。
+网站集策略可以在网站集的顶级网站的"网站集策略"列表中创建。 网站集策略创建之后可导出，以便其他网站集的网站管理员可将其导入到"网站集策略"列表中。 通过创建可导出的网站集策略，SharePoint 管理员可以将组织中各个网站的信息管理策略标准化。
   
-## <a name="usage-reporting-and-logging"></a>Usage Reporting and Logging
+## <a name="usage-reporting-and-logging"></a>使用率报告和日志记录
 
 SharePoint Online 不适用于客户。SharePoint Server 2013 管理员使用审核日志报告来查看网站集审核日志中的数据。详细了解[网站集审核日志](https://go.microsoft.com/fwlink/p/?LinkId=270992)。
   
-## <a name="windows-powershell-support"></a>Windows PowerShell Support
+## <a name="windows-powershell-support"></a>Windows PowerShell 支持
 
 SharePoint Online 管理员可以使用 SharePoint Online Windows PowerShell cmdlet 为其订阅编写脚本并自动运行以下管理任务：
   
@@ -149,6 +149,5 @@ SharePoint Online 管理员可以使用 SharePoint Online Windows PowerShell cmd
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [SharePoint Online 服务说明](sharepoint-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[SharePoint Online 服务说明](sharepoint-online-service-description.md)。
   
-
