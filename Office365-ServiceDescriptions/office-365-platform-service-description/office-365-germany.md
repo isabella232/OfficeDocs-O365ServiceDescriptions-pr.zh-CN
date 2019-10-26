@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过为数字工作提供业界一流的工作效率服务，从德国数据中心（包含数据派驻服务）中为我们提供业界一流的工作效率服务，帮助您满足德国最受管控客户的需求，以及欧盟（EU）和欧洲自由贸易协会（EFTA）。在德国，通过采用德国法律管辖的唯一数据受信者模型严格的数据访问和控制措施。
-ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701684"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734260"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -53,7 +53,7 @@ Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选
 
 ## <a name="system-requirements"></a>系统要求
 
-有关 Office 365 的系统要求，请参阅 [office.com](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 产品网站上的 [Office 的系统要求](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。
+有关 Office 365 的系统要求，请参阅 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 产品网站上的 [Office 的系统要求](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
@@ -186,14 +186,14 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/).<br/>
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. This does not apply to subscriptions paid on a monthly basis.<br/>
 <sup>6</sup> Office 365 德国教育版 A1 计划不支持来自 Microsoft 365 管理中心的许可证座位更改。<br/>
-<sup>7</sup> The right to use client software applications, such as Office 365 ProPlus Office 2016, and Office 2013 is included in some Office 365 Germany plans. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). 客户端软件应用程序也可能 lry 最终用户访问在线服务，而不是德语 Online 服务。 German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
+<sup>7</sup> The right to use client software applications, such as Office 365 ProPlus Office 2016, and Office 2013 is included in some Office 365 Germany plans. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). 客户端软件应用程序也可能 lry 最终用户访问在线服务，而不是德语 Online 服务。 German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
 <sup>8</sup> [Modern authentication](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) must be enabled for use with Office 365 Germany.<br/>
 <sup>9</sup> Office 365 德国按照 Office 365 的云安全性和合规性标准进行了构建。 Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
 ## <a name="office-application-features"></a>Office 应用程序功能  
 
 > [!NOTE]
-> Office 365 Germany 计划包括在最终用户设备（"客户端软件应用程序"）上安装和运行的客户端软件应用程序，例如 Office 365 ProPlus、Office 2013\* 和 Office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非[德语 Online 服务](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/> \*适用于 Office 365 Germany 的 Office 2013 要求[启用新式验证](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。
+> Office 365 Germany 计划包括在最终用户设备（"客户端软件应用程序"）上安装和运行的客户端软件应用程序，例如 Office 365 ProPlus、Office 2013\* 和 Office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非[德语 Online 服务](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/> \*适用于 Office 365 Germany 的 Office 2013 要求[启用新式验证](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。
 
 使用下表比较不同 Office 365 Germany 计划之间的功能可用性。
 
@@ -254,7 +254,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。<br/>
 <sup>3</sup>不包含 Azure 信息保护，但可作为单独的附加项购买，以便启用支持的 IRM 功能。<br/>
 <sup>4</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。 <br/>
-<sup>5</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。 <br/>
+<sup>5</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。 <br/>
 <sup>6</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 Germany 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync 基本功能的详细信息，请参阅[Dektop client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
 <sup>7</sup> 一些学校有资格享受教育增强版，其中包括 Office 365 ProPlus，并允许学生和教职员工在多达五个 PC 或 Mac 计算机上和其他移动设备（其中包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。<br/>
 <sup>8</sup> 可以安装但不可激活 Office 2011 for Mac。 <br/>
@@ -318,7 +318,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 > <sup>1</sup> Office 365 德国计划包括在最终用户设备（"客户端软件应用程序"）上安装和运行的客户端软件应用程序，例如 Office 365 专业增强版、office 2013 和 office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非德语 Online 服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
 <sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。<br/>
 <sup>3</sup> 此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。<br/> <sup>4</sup>不包含 Azure 信息保护，但可作为单独的附加项购买，以便启用支持的 IRM 功能。<br/> <sup>5</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。<br/>
-<sup>6</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。<br/>
+<sup>6</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。<br/>
 <sup>7</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync 基本功能的详细信息，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
 <sup>8</sup> 可以安装但不可激活 Office 2011 for Mac。<br/>
 <sup>9</sup> Office 365 专业增强版在用户专用的虚拟桌面基础结构（VDI）上受支持。 通过批量许可计划进行购买时，Office 365 ProPlus 仅支持远程桌面服务 (RDS)。<br/>

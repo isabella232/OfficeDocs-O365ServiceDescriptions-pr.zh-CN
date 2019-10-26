@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？ 请参阅 Skype for Business 许可概述。
-ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701694"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733743"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
 
@@ -46,7 +46,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 
 建议使用我们简单的比较页面来选择 Skype for Business Online 的版本。 请参阅[比较 Skype 会议计划](https://go.microsoft.com/fwlink/?linkid=798291)。 如果需要更深入的比较，请查看下列功能表。 如果需要此方面的其他帮助，请致电[支持人员](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 可以从下拉列表中选择区域设置，获取本地号码。
   
-若要查看所有 Office 365 计划，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。请参阅 [Office 365 计划选项](https://go.microsoft.com/fwlink/?linkid=846972)，了解详细的比较信息。
+若要查看所有 Office 365 计划，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。请参阅 [Office 365 计划选项](https://go.microsoft.com/fwlink/?linkid=846972)，了解详细的比较信息。
   
  若要跨 Skype for Business 桌面和 Web 客户端比较它们各自的功能，请参阅 [Skype for Business Online 的客户端比较表](https://go.microsoft.com/fwlink/?linkid=829754)。有关 Skype for Business 移动客户端的详细比较，请参阅[移动客户端比较表](https://go.microsoft.com/fwlink/?linkid=846932)。
   
@@ -153,7 +153,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 |Voicemail  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[通话套餐](skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
 |[通话套餐](skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
-|[通信点数](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |无<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[通信点数](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |无<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Skype for Business 语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |**[安全保护和归档](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -196,7 +196,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 下表列出了各个独立计划可用的 Skype for Business Online 功能。 有关这些功能的说明，请转到[Skype For Business Online 功能](skype-for-business-online-features.md)。
   
 > [!NOTE]
-> Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)。 
+> Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)。 
   
 |||||
 |:-----|:-----|:-----|:-----|

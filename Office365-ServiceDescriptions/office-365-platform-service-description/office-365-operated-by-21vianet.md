@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701704"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734140"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -200,8 +200,8 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。<br/>
 <sup>7</sup> Office 365 教育版计划不支持来自 Microsoft 365 管理中心的许可证座位更改。<br/>
 <sup>8</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 <br/>
-<sup>9</sup>有关由世纪互联运营的 Office 365 的信息，请参阅[此处](http://www.21vbluecloud.com/office365/O365-SLA/)的服务级别协议。<br/>
-<sup>10</sup>有关由世纪互联运营的 Office 365 的信息，请参阅世纪互联运营的 [Office 365 在线服务标准协议](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)。
+<sup>9</sup>有关由世纪互联运营的 Office 365 的信息，请参阅[此处](https://www.21vbluecloud.com/office365/O365-SLA/)的服务级别协议。<br/>
+<sup>10</sup>有关由世纪互联运营的 Office 365 的信息，请参阅世纪互联运营的 [Office 365 在线服务标准协议](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)。
 <br/>
 <sup>11</sup>中国 internet 合规性策略要求你获取公共网站的 Internet 内容提供商（ICP）号码。 有关详细信息，请参阅相应的 ICP 主题。 <br/>
 <sup>12</sup>某些内容可能不适用于由世纪互联运营的 Office 365。<br/>
