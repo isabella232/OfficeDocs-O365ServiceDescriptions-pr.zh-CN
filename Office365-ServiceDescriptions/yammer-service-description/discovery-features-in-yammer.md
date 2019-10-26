@@ -12,45 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: 以下发现功能在 Yammer 中可用。
-ms.openlocfilehash: cd60bc6c7e24598241b56a12f6193b81fc50b74a
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777983"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726375"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer 中的发现功能
 
 以下发现功能在 Yammer 中可用。
   
 ## <a name="feeds"></a>新闻复制
-<a name="bkmk_Feeds"> </a>
 
-全面掌握整个公司中进行的相关对话、文件和项目。新闻复制允许您快速参与对话、@ 提及同事以使其加入讨论和预览文档。
-  
+保持在整个组织中相关的对话、filesm 和项目的最上面。 源可让你快速参与对话，@mention 同事将其循环加入讨论和预览文档。
+
+## <a name="instant-type-ahead"></a>即时类型-提前
+
+键入时会显示建议的搜索结果，以帮助您更快查找所需内容。 按人员、组、文件、便笺、主题和应用程序对结果进行分类。
+    
 ## <a name="ticker"></a>Ticker
-<a name="bkmk_Ticker"> </a>
 
-实时发现您的同事所做的操作。Ticker 向您显示了实时发生的活动，包括在其他业务应用程序中所进行的页面编辑、文件上载和更新。
+实时发现您的同事所做的操作。 "股票行情" 显示了实时发生的活动情景，包括页面编辑、文件上载和其他业务应用程序中所做的更新。
   
 ## <a name="topics"></a>Topics
-<a name="bkmk_Topics"> </a>
 
-使用主题标记内容以帮助其他人通过在字词前添加井号 (#) 或搜索现有主题快速查找相关邮件、文件、通知等。
+通过在单词前或通过搜索现有主题添加井号（#）来帮助他人快速查找相关的邮件、文件、便笺等主题，对内容进行标记。
   
 ## <a name="universal-search"></a>通用搜索
-<a name="bkmk_UniversalSearch"> </a>
 
-全文搜索可使您在 Yammer 网络和集成的业务应用程序中快速查找文件、通知、对话、联系人和数据。
-  
-## <a name="instant-type-ahead"></a>即时提前键入
-<a name="bkmk_InstantTypeAhead"> </a>
-
-键入时会显示建议的搜索结果，以帮助您更快查找所需内容。结果可以按联系人、组、文件、通知、主题和应用程序分类。
+全文搜索功能使您可以在 Yammer 网络和集成的业务应用程序中快速查找文件、便笺、对话、人员和数据。
   
 ## <a name="feature-availability"></a>功能可用性
-<a name="bkmk_InstantTypeAhead"> </a>
 
-若要查看在各个 Office 365 计划、独立选项和内部部署解决方案之间的功能可用性，请参阅 [Yammer 服务说明](yammer-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。
   
   

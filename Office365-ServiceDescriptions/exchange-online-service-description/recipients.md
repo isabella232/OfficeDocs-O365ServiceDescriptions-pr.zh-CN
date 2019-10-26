@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582128"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734200"
 ---
-# <a name="recipients"></a>收件人
+# <a name="recipients"></a>Recipients
 
 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。这包括电子邮件、联系人、通讯组、日历和日程安排功能。
   
@@ -50,7 +50,7 @@ Exchange Online 支持委派访问用户允许其他用户管理他们的电�
     
 - **发送为权限** 如果委派是邮箱所有人，委派可以从其他人的邮箱发送邮件。该情景通常用于以下情况：这里有一个共享邮箱，同时几位员工从该共享邮箱而不是他们的 Exchange Online 帐户发送电子邮件消息。 
     
-有关委派访问权限的详细信息，请参阅[管理收件人权限](https://technet.microsoft.com/en-us/library/jj919240%28v=exchg.160%29.aspx)。
+有关委派访问权限的详细信息，请参阅[管理收件人权限](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx)。
   
 ### <a name="inbox-rules"></a>收件箱规则
 
@@ -62,7 +62,7 @@ Exchange Online 允许用户创建收件箱规则，在邮件抵达后基于条�
   
 ### <a name="connected-accounts"></a>已连接帐户
 
-通过 "已连接帐户" 功能，Exchange Online 用户可以将外部电子邮件帐户（如个人帐户）连接到 Exchange Online 中的内部电子邮件帐户，然后使用 web 上的 Outlook 将其所有邮件与一个位置进行交互。 在登录到 Outlook 网页时，已连接的帐户将自动同步。用户还可以手动从 web 上的 Outlook 同步帐户。 通过 [Exchange 管理中心](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)，管理员可以为特定用户或所有用户启用和禁用该功能。
+通过 "已连接帐户" 功能，Exchange Online 用户可以将外部电子邮件帐户（如个人帐户）连接到 Exchange Online 中的内部电子邮件帐户，然后使用 web 上的 Outlook 将其所有邮件与一个位置进行交互。 在登录到 Outlook 网页时，已连接的帐户将自动同步。用户还可以手动从 web 上的 Outlook 同步帐户。 通过 [Exchange 管理中心](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)，管理员可以为特定用户或所有用户启用和禁用该功能。
   
 ### <a name="inactive-mailboxes"></a>非活动邮箱
 
@@ -79,7 +79,7 @@ Exchange Online 提供无限期保留已删除邮箱内容的功能。此功能�
     
 - [就地保留和诉讼保留](https://go.microsoft.com/fwlink/p/?LinkId=271746)
     
-- [就地电子数据展示](http://go.microsoft.com/fwlink/p/?LinkId=271747)
+- [就地电子数据展示](https://go.microsoft.com/fwlink/p/?LinkId=271747)
     
 ## <a name="contacts-and-distribution-groups"></a>联系人和通讯组
 
@@ -103,14 +103,14 @@ Exchange Online 支持自定义地址列表和 Gal。 GAL 是所有启用邮件�
 
 通讯组（或通讯组列表）是对公司所有用户可用的用户、联系人和其他通讯组的集合。 用户定址电子邮件给通讯组别名以发送邮件给该组中的所有人员。 通讯组类似于个人在 Outlook 中创建的个人通讯组，唯一区别是他们的成员列表在公司全局可用。 管理员在 Exchange 管理中心创建通讯组。 还可从内部部署 Active Directory 将该组与 Exchange Online 同步。 它们显示在 Outlook 中的 GAL 中。 Exchange Online 支持高级通讯组功能，包括如下介绍的这些功能：
   
-- **限制通讯组** 默认情况下，任何人都可以向任何通讯组发送电子邮件。管理员可以更改权限，仅允许特定个人发送电子邮件给某个组例如，不鼓励不当使用大型通讯组列表。管理员还可以阻止外部源发送电子邮件给通讯组，以帮助防止垃圾邮件。对于使用目录同步工具从内部部署 Active Directory 同步的通讯组，限制属性将自动同步到云。有关详细信息，请参阅 [管理通讯组](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)。
+- **限制通讯组** 默认情况下，任何人都可以向任何通讯组发送电子邮件。管理员可以更改权限，仅允许特定个人发送电子邮件给某个组例如，不鼓励不当使用大型通讯组列表。管理员还可以阻止外部源发送电子邮件给通讯组，以帮助防止垃圾邮件。对于使用目录同步工具从内部部署 Active Directory 同步的通讯组，限制属性将自动同步到云。有关详细信息，请参阅 [管理通讯组](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)。
     
-- **动态通讯组** 动态通讯组的成员列表（也称为动态通讯组列表，或基于查询的通讯组列表）在每次向组发送邮件时计算。此计算基于管理员定义的筛选器和条件。通过远程 Windows PowerShell 在 Exchange Online 中托管它们。有关动态通讯组的详细信息，请参阅 [管理动态通讯组](https://technet.microsoft.com/EN-US/library/bb123722%28v=exchg.160%29.aspx)。
+- **动态通讯组** 动态通讯组的成员列表（也称为动态通讯组列表，或基于查询的通讯组列表）在每次向组发送邮件时计算。此计算基于管理员定义的筛选器和条件。通过远程 Windows PowerShell 在 Exchange Online 中托管它们。有关动态通讯组的详细信息，请参阅 [管理动态通讯组](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx)。
     
     > [!IMPORTANT]
     > Office 365 目录同步工具将忽略内部部署 Active Directory 中的动态通讯组，同时不同步这些到 Exchange Online。使用目录同步工具的组织应使用命名约定，避免内部部署托管的普通通讯组和 Exchange Online 托管的动态通讯组之间的冲突。 
   
-- **审阅通讯组** 管理员可以选择审阅人以管理到通讯组的邮件流。对于审阅通讯组，任何人可以发送通讯组别名，但在发送邮件给通讯组成员之前，审阅人必须审核并批准它。有关审阅的详细信息，请参阅 [管理通讯组](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx)中的"邮件审批"部分。
+- **审阅通讯组** 管理员可以选择审阅人以管理到通讯组的邮件流。对于审阅通讯组，任何人可以发送通讯组别名，但在发送邮件给通讯组成员之前，审阅人必须审核并批准它。有关审阅的详细信息，请参阅 [管理通讯组](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx)中的"邮件审批"部分。
     
 - **自助通讯组** 管理员可允许用户从基于 Web 的界面管理自己的通讯组成员。可以为用户授予权限以创建、删除、加入或离开通讯组。默认情况下，为所有 Exchange Online 用户启用这些功能。管理员可以禁用它们，以便仅 IT 部门可以在需要时管理通讯组。他们还可以创建命名策略，以标准化和管理其用户创建的通讯组名称。例如，他们可以在创建时添加特定前缀或后缀到通讯组名称，或阻止在组名中使用特定单词。 
     
@@ -121,7 +121,7 @@ Exchange Online 支持自定义地址列表和 Gal。 GAL 是所有启用邮件�
 
 外部联系人是在指定组织之外工作的人员信息的记录。 外部联系人类似于个人在 Outlook 中创建的个人通讯组，唯一区别是他们对公司全局可用。 管理员可以使用 Exchange 管理中心或远程 Windows PowerShell 创建外部联系人。 还可从内部部署 Active Directory 将这些联系人与 Exchange Online 同步。 它们显示在 Outlook 中的 GAL 中。
   
-有关外部联系人的详细信息，请参阅[在 Exchange Online 中创建组织关系](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx)。
+有关外部联系人的详细信息，请参阅[在 Exchange Online 中创建组织关系](https://technet.microsoft.com/library/jj916671%28v=exchg.150%29.aspx)。
   
 ## <a name="calendar-and-scheduling"></a>日历和计划
 
@@ -133,7 +133,7 @@ Exchange Online 支持自定义地址列表和 Gal。 GAL 是所有启用邮件�
   
 有关资源邮箱的详细信息，请参阅：
   
-- [创建和管理会议室邮箱](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [创建和管理会议室邮箱](https://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
 - [管理设备邮箱](https://go.microsoft.com/fwlink/?LinkId=717534)
     

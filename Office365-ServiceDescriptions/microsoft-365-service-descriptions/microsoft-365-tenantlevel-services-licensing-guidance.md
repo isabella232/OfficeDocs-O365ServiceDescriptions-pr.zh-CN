@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582028"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734190"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -123,7 +123,7 @@ OCAS 使组织能够深入了解他们的工作效率云应用和服务，提供
 
 Office 365 E5/G5 的许可用户可以从 OCAS 获益。
 
-有关详细信息，请参阅[Microsoft Cloud App Security 授权数据表](http://www.aka.ms/mcaslicensing)。
+有关详细信息，请参阅[Microsoft Cloud App Security 授权数据表](https://www.aka.ms/mcaslicensing)。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -153,7 +153,7 @@ Azure AD P1 的许可用户可以从 MCAS 中的发现功能中受益。
 
 若要从[自动标记](https://docs.microsoft.com/cloud-app-security/data-protection-policies)中受益，用户必须获得 Azure 信息保护 P2 的许可，该版本包含在企业移动性 + 安全 E5/A5/g5 中，Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 合规性。
 
-有关详细信息，请参阅[Microsoft Cloud App Security 授权数据表](http://www.aka.ms/mcaslicensing)。
+有关详细信息，请参阅[Microsoft Cloud App Security 授权数据表](https://www.aka.ms/mcaslicensing)。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态，并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633433"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734049"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
 Microsoft Office 365 管理员可以查看服务的状态，并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
   
 > [!NOTE]
-> 如果正在使用由世纪互联运营的 Office 365，则下面的某些信息可能不适用。 请转为参阅[世纪互联服务级别协议](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+> 如果正在使用由世纪互联运营的 Office 365，则下面的某些信息可能不适用。 请转为参阅[世纪互联服务级别协议](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="view-status-of-services"></a>查看服务状态
 
@@ -75,7 +75,7 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 
 ### <a name="office-365-admin-app"></a>Office 365 Admin App
 
-Office 365 租户管理员的管理员应用程序使你能够在旅途中与组织的 Office 365 服务状态进行连接。 Office 365 租户管理员将能够从其移动设备查看服务运行状况信息和维护状态更新。 有关详细信息，请参阅 [Admin App FAQ](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)（管理应用程序 FAQ）。
+Office 365 租户管理员的管理员应用程序使你能够在旅途中与组织的 Office 365 服务状态进行连接。 Office 365 租户管理员将能够从其移动设备查看服务运行状况信息和维护状态更新。 有关详细信息，请参阅 [Admin App FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)（管理应用程序 FAQ）。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
@@ -115,7 +115,7 @@ Microsoft 致力于持续改进，包括分析影响客户的计划外服务事�
 
 Microsoft Office 365 产品由恢复能力很强的系统交付，帮助确保高水平服务性能。服务连续性设置是 Office 365 系统设计的一部分。这些设置允许 Office 365 从意外事件中快速恢复，如硬件或应用程序故障、数据损坏或其他影响用户的事件。这些服务连续性解决方案还适用于灾难性中断（例如，自然灾害或 Microsoft 数据中心内的事件导致整个数据中心无法运营）。
   
-请注意，从灾难性故障恢复后，可能需要经过一段时间才能还原服务的完整数据中心冗余。例如，如果数据中心 1 出现故障，则服务通过数据中心 2 的资源进行还原。不过，可能需要经过一段时间，数据中心 2 中的服务才会获得服务连续性支持（要么通过数据中心 1 中已还原的资源获得，要么通过数据中心 3 中的新资源获得）。在此期间应用的是 Office 365 [服务级别协议](service-level-agreement.md) (SLA)。由世纪互联运营的 Office 365 具有不同的 SLA。有关详细信息，请访问 [世纪互联网站](http://www.21vbluecloud.com/office365/O365-SLA/)。 
+请注意，从灾难性故障恢复后，可能需要经过一段时间才能还原服务的完整数据中心冗余。例如，如果数据中心 1 出现故障，则服务通过数据中心 2 的资源进行还原。不过，可能需要经过一段时间，数据中心 2 中的服务才会获得服务连续性支持（要么通过数据中心 1 中已还原的资源获得，要么通过数据中心 3 中的新资源获得）。在此期间应用的是 Office 365 [服务级别协议](service-level-agreement.md) (SLA)。由世纪互联运营的 Office 365 具有不同的 SLA。有关详细信息，请访问 [世纪互联网站](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="ensuring-data-availability"></a>确保数据可用性
 

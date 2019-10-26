@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的保留和恢复支持。 这包括数据中心的邮箱复制，以及恢复已删除邮箱和已删除的邮件。
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581968"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734240"
 ---
 # <a name="high-availability-and-business-continuity"></a>高可用性和业务连续性
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的
 
 Exchange Online 邮箱不断复制为多个数据库副本，存储在多个地理位置分散的 Microsoft 数据中心内，以便在本地邮件基础结构出现故障的情况下，能够为客户提供数据恢复功能。对于大规模的故障，启动服务连续性管理程序。
   
-若要详细了解 Microsoft 如何保护数据，请访问 [Office 365 信任中心](https://go.microsoft.com/fwlink/p/?LinkId=299135)。如果使用的是由世纪互联运行的 Office 365，请访问[世纪互联信任中心](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)。
+若要详细了解 Microsoft 如何保护数据，请访问 [Office 365 信任中心](https://go.microsoft.com/fwlink/p/?LinkId=299135)。如果使用的是由世纪互联运行的 Office 365，请访问[世纪互联信任中心](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)。
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 

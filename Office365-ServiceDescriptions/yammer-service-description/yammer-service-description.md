@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726449"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733573"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -25,7 +25,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
   
 有关包含 Yammer 的 Office 365 计划的列表，请参阅 [Office 365 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 > [!TIP]
 > 您可以导出、保存以及打印 Office 365 服务说明中的页面。了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
@@ -114,7 +114,7 @@ Yammer 是 Office 365 的一部分并遵守[office 365 更改管理策略](https
 |[会话管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |可访问  <br/> |
 |[逻辑防火墙](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |否  <br/> |可访问  <br/> |
 |[使用策略](administration-and-security-features-in-yammer.md#usage-policy) <br/> |否  <br/> |可访问  <br/> |
-|[FastTrack 中心](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
 |[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
 |[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |可访问  <br/> |
 |[管理员专用内容模式](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |否  <br/> |是  <br/> |

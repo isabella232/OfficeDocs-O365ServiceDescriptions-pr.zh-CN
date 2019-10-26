@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是管理员，则可以在设置 Skype for business Online 中查找有关设置 Skype for Business Online 功能的详细说明。
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726078"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733793"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 
@@ -113,11 +113,11 @@ Skype for Business 与本地 Microsoft SharePoint Server 在 SharePoint 网站�
 
 音频会议是指至少有一个参与者使用电话拨入音频部分的任何会议。 使用电话访问会议的能力对处于旅途中的个人或其他人无法使用移动设备或电脑参加会议非常有用。 在其他情况下，使用电话也会是一种不错的选择，比如 Internet 连接受限或会议只有音频形式时。
   
-通过音频会议，组织中的用户可以主持或创建包含电话拨入式电话号码的会议。 然后，呼叫者可以使用这些电话号码使用电话拨打会议（拨入会议的用户只会收到音频，而不是即时消息、共享桌面或在会议中共享的文件）。 只需为计划安排会议或主持会议的用户设置电话拨入式会议即可。 除非组织者已锁定会议，否则拥有拨入号码和会议 ID 的任何人都可以加入会议。 有关详细信息，请参阅[可用于音频会议](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)的[音频会议](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)和拨入号码入门。
+通过音频会议，组织中的用户可以主持或创建包含电话拨入式电话号码的会议。 然后，呼叫者可以使用这些电话号码使用电话拨打会议（拨入会议的用户只会收到音频，而不是即时消息、共享桌面或在会议中共享的文件）。 只需为计划安排会议或主持会议的用户设置电话拨入式会议即可。 除非组织者已锁定会议，否则拥有拨入号码和会议 ID 的任何人都可以加入会议。 有关详细信息，请参阅[可用于音频会议](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409)的[音频会议](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)和拨入号码入门。
   
 在 Office 365 中，可以使用 Office 365 作为电话拨入式会议提供商，或者使用第三方电话拨入式会议提供商（也称为音频会议提供商或 ACP）启用电话拨入式会议。
   
-音频会议在所有国家或地区均不可用。 有关可以在其中购买音频会议的国家或地区的列表，请参阅[如何获取音频会议？](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)。
+音频会议在所有国家或地区均不可用。 有关可以在其中购买音频会议的国家或地区的列表，请参阅[如何获取音频会议？](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409)。
   
 ## <a name="calling-plans-in-office-365"></a>Office 365 中的通话套餐
 

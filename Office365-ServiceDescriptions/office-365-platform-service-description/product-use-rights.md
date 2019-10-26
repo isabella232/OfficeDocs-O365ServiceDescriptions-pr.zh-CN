@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582088"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734069"
 ---
 # <a name="product-use-rights"></a>产品使用权限
 
 ## <a name="microsoft-online-services-use-rights"></a>Microsoft Online Services 使用权限
 
-如果遵守 Microsoft 在线订阅协议，可以使用 [Microsoft Online Services 使用权限](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)下明确允许的联机服务和相关软件。
+如果遵守 Microsoft 在线订阅协议，可以使用 [Microsoft Online Services 使用权限](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)下明确允许的联机服务和相关软件。
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>由世纪互联运营的 Office 365 使用权限
 
-请参阅[在线服务标准协议](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/)和[使用条款](http://www.21vbluecloud.com/office365/O365-TOU/)。
+请参阅[在线服务标准协议](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)和[使用条款](https://www.21vbluecloud.com/office365/O365-TOU/)。
   
 ## <a name="licensing"></a>许可
 

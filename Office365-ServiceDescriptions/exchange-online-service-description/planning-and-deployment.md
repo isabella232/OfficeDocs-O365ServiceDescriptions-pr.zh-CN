@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581998"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733863"
 ---
 # <a name="planning-and-deployment"></a>规划和部署
 
@@ -38,7 +38,7 @@ ms.locfileid: "37581998"
 
 对 Microsoft Exchange 2003、Exchange 2007、Exchange 2010 和 Exchange 2013 内部部署组织可用的混合部署提供与一些在内部部署托管的邮箱和一些在 Exchange Online 邮箱托管的长期共存配置，或托管 Exchange Online 所有用户邮箱的迁移路径。混合部署使组织可以将随其现有内部部署 Microsoft Exchange 组织提供的功能丰富的体验和管理控制扩展到云。混合部署功能包括安全邮件传输、共享日历闲/忙信息以及内部部署和 Exchange Online 组织之间的邮件跟踪。
   
-有关混合部署的详细信息，请参阅 [Exchange Server 2013 混合部署](https://go.microsoft.com/fwlink/p/?LinkId=287035)。如果使用的是由世纪互联运营的 Office 365，请参阅[使用由世纪互联运营的 Office 365 配置 Exchange 混合部署功能](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)。
+有关混合部署的详细信息，请参阅 [Exchange Server 2013 混合部署](https://go.microsoft.com/fwlink/p/?LinkId=287035)。如果使用的是由世纪互联运营的 Office 365，请参阅[使用由世纪互联运营的 Office 365 配置 Exchange 混合部署功能](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)。
   
 > [!IMPORTANT]
 > 本地 Exchange 2003 组织至少必须安装一个 Exchange 2010 客户端访问/邮箱服务器，才能使用 Exchange Online 配置混合部署。本地 Exchange 2007 组织至少必须安装一个 Exchange 2010 或 Exchange 2013 客户端访问和邮箱服务器，才能使用 Exchange Online 配置混合部署。本地 Exchange 2010 和 Exchange 2013 组织使用 Exchange Online 本地支持混合部署。若要详细了解混合部署中的 Exchange 服务器兼容性，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/p/?LinkId=243541)。 > 本地 Exchange 组织必须为其组织配置混合部署。我们强烈建议管理员使用 Exchange Server 部署助理和"混合配置"向导配置混合部署。有关详细信息，请参阅 [Exchange Server 部署助理](https://go.microsoft.com/fwlink/p/?LinkId=287036)

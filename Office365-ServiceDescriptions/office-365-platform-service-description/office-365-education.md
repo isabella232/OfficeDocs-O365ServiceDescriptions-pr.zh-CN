@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务&mdash;，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office forweb 和 Microsoft Skype for Business Online&mdash;，可帮助用户通过 internet 随时随地实现工作效率。
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595267"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701394"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -32,17 +32,17 @@ ms.locfileid: "37595267"
 |||||
 |:-----|:-----|:-----|:-----|
 |**服务** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
-|Office 365 平台  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 365 平台  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>5</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|SharePoint Online  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|OneDrive for Business  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>7</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
-|Office 网页版  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Project Online  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|Yammer 学院  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Azure 信息保护<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Yammer 学院  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure 信息保护<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Project Online 不包括在内，但可免费添加到 Office 365 教育计划中。 <br/> 
@@ -67,116 +67,116 @@ ms.locfileid: "37595267"
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Office 365 管理功能](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
-|使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用 Azure 信息保护保护内容  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 Azure 信息保护保护内容  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft 预订  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft Flow  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft Forms  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft Graph API  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft MyAnalytics<sup>9</sup>  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft Planner  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft PowerApps  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft StaffHub  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft Stream<sup>8</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Microsoft 预订  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Microsoft Flow  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Microsoft Planner  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft PowerApps  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft StaffHub  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Stream<sup>8</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Sway  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
-|Microsoft Teams  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office Delve  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 365 组  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 365 视频  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|OneNote 课堂笔记本  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 组  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 视频  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|OneNote 课堂笔记本  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[用户帐户管理](user-account-management.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|云标识、联合身份或多重身份验证  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 365 桌面设置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用 .csv 文件批量上载  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|目录同步工具  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Exchange 简单（直接转换）迁移  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|从 Office 365 或使用 Windows PowerShell<sup>2</sup>删除帐户并重置用户密码 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|用户可以更改自己的密码<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|管理许可证<sup>4</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|从 Office 365 中管理安全组  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|多个管理员角色可用  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|允许合作伙伴为您管理 Office 365  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Azure Active Directory 服务  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|云标识、联合身份或多重身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 桌面设置  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 .csv 文件批量上载  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|目录同步工具  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Exchange 简单（直接转换）迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|从 Office 365 或使用 Windows PowerShell<sup>2</sup>删除帐户并重置用户密码 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|用户可以更改自己的密码<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|管理许可证<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|从 Office 365 中管理安全组  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多个管理员角色可用  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|允许合作伙伴为您管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Azure Active Directory 服务  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[域](domains.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|添加第二级自定义域，如 fourthcoffee.com  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|添加第三级自定义域，如 marketing.fourthcoffee.com是  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|添加多达 900 个自定义域  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 365 管理的 DNS 记录（完全重新委派）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|在您的 DNS 宿主提供商处管理的 DNS 记录（部分重新委派）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|对电子邮件地址和 Skype for Business Online 使用 **name.onmicrosoft.com** 域或自定义域名  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|为您的团队站点使用 **name.sharepoint.com**  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|添加第二级自定义域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|添加第三级自定义域，如 marketing.fourthcoffee.com是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|添加多达 900 个自定义域  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 管理的 DNS 记录（完全重新委派）  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|在您的 DNS 宿主提供商处管理的 DNS 记录（部分重新委派）  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|对电子邮件地址和 Skype for Business Online 使用 **name.onmicrosoft.com** 域或自定义域名  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|为您的团队站点使用 **name.sharepoint.com**  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |为您的团队站点使用自定义域名  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|使用不同的提供商托管公共网站  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|对电子邮件和 IM 使用不同的提供商  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|自定义域需要域所有权验证  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|自动域购买和域验证适用于通过 Go Daddy 购买的域  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|使用不同的提供商托管公共网站  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|对电子邮件和 IM 使用不同的提供商  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|自定义域需要域所有权验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|自动域购买和域验证适用于通过 Go Daddy 购买的域  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Status information available on the **Service health** or **Service status** page  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft 365 管理中心仪表板上提供的单个警报的状态  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|**Service health** RSS feed  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Status information available on the **Service health** or **Service status** page  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 365 管理中心仪表板上提供的单个警报的状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**Service health** RSS feed  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[报告](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|活动邮箱和非活动邮箱  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|新邮箱和已删除的邮箱  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|新组和已删除的组  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮箱使用情况  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮箱连接类型  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|已发送和已接收邮件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|主要发件人和收件人  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|垃圾邮件检测  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|恶意软件检测  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件的主要恶意软件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件的规则匹配  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件的主要规则匹配  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件的主要 DLP 策略匹配  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|按邮件严重性显示的 DLP 策略匹配  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件的 DLP 策略匹配、重写和误报  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件的主要 DLP 规则匹配  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|IM 和音频会话  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|应用程序共享、Web 和电话拨入式会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|视频、应用程序共享和文件传输会话  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|IM 和音频/视频会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|可下载的邮件保护报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用的浏览器  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用的操作系统  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用 Office 365 报告 Web 服务创建自己的报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|活动邮箱和非活动邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|新邮箱和已删除的邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|新组和已删除的组  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮箱使用情况  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮箱连接类型  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|已发送和已接收邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|主要发件人和收件人  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|垃圾邮件检测  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|恶意软件检测  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件的主要恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件的规则匹配  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件的主要规则匹配  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件的主要 DLP 策略匹配  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|按邮件严重性显示的 DLP 策略匹配  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件的 DLP 策略匹配、重写和误报  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件的主要 DLP 规则匹配  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IM 和音频会话  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|应用程序共享、Web 和电话拨入式会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|视频、应用程序共享和文件传输会话  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IM 和音频/视频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|可下载的邮件保护报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用的浏览器  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用的操作系统  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 Office 365 报告 Web 服务创建自己的报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服务更新](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|向所有客户提供的定期更新  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|通知发送给 消息中心（当需要操作时）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|针对某些服务更新的 Roadmap.office.com  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|目标发布的启用选项  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|向所有客户提供的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通知发送给 消息中心（当需要操作时）  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|针对某些服务更新的 Roadmap.office.com  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|目标发布的启用选项  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[帮助和培训](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|联机帮助  <br/> |可访问  <br/> |可访问  <br/> |是  <br/> |
-|社区  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|其他自助资源  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|自学培训  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|联机帮助  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|社区  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|其他自助资源  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|自学培训  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[网络](networking.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|IPv4 和 IPv6 协议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|IPv4 和 IPv6 协议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**信任** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[隐私、安全性和透明度](privacy-security-and-transparency.md)** <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|高级安全管理  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|**[隐私、安全性和透明度](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
+|高级安全管理  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |客户锁箱  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|安全分数<sup>5</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[Compliance](compliance-servicedesc.md)** <br/> ||||
-|SAS 70 / SSAE16 评估  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|ISO 27001 认证  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|欧盟模式条款  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|欧盟安全港  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|HIPAA 业务关联协议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|FISMA 操作授权  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft 数据处理协议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|欧盟安全港  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|HIPAA 业务关联协议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|FISMA 操作授权  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 数据处理协议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 监管的 PAN 数据  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[服务连续性](service-health-and-continuity.md)** <br/> ||||
 |**[BlackBerry](blackberry.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|是  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[合作伙伴](partners.md)** <br/> ||||
-|是  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|是  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|**[服务级别协议](service-level-agreement.md)** <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|**[产品使用权限](product-use-rights.md)** <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**[服务级别协议](service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**[产品使用权限](product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Office 365 不提供对其制造商不支持的任何操作系统的支持。<br/> 
@@ -199,23 +199,23 @@ ms.locfileid: "37595267"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[高级安全管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)，如邮件筛选和反恶意软件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[高级安全管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)，如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)，如仿冒活动的威胁资源管理器<sup>5</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |否  <br/> |否  <br/> |可访问  <br/> |
-|[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[数据调控](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[数据调控](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[内容搜索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[电子数据展示保留（包括基于查询的电子数据展示保留）](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[内容搜索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |是  <br/> |是  <br/> |是  <br/> |
+|[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[电子数据展示保留（包括基于查询的电子数据展示保留）](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[手动保留/删除策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[手动保留/删除策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |||||
    
 > [!NOTE]
@@ -234,51 +234,51 @@ ms.locfileid: "37595267"
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**Office 应用程序** <br/> ||||
-|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |否<sup>3、4</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |否<sup>3、4</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |否<sup>3、4</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[适用于 Office 365 的 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|Outlook for Android  <br/> |是<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
+|[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |否<sup>3、4</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |否<sup>3、4</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |否<sup>3、4</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |
+|[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[适用于 Office 365 的 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|Outlook for Android  <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |**企业价值** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |无<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|自动化用户帐户配置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|多语言用户界面  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|客户端推送部署  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|内部部署 Exchange 的客户端支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|控制软件更新  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|数据库比较  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|桌面虚拟化  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Excel 电子表格比较  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Excel 电子表格查询  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Exchange Online 和 SharePoint Online 存档和合规性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|组策略支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|使用 Azure 信息保护的信息权限管理  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |无<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多语言用户界面  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|客户端推送部署  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|内部部署 Exchange 的客户端支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|控制软件更新  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|数据库比较  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|桌面虚拟化  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Excel 电子表格比较  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Excel 电子表格查询  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|组策略支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|使用 Azure 信息保护的信息权限管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
-|Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 遥测  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|客户端应用程序的脱机支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Power Map for Excel  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Power Pivot for Excel  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Power Query for Excel  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|Power View for Excel  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|漫游设置  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|共享计算机激活  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|支持阻止基于云的文件存储  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|点击可查找并重复使用内容  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|版本升级  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Office 遥测  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|客户端应用程序的脱机支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Map for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Pivot for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Query for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power View for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|漫游设置  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|共享计算机激活  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|支持阻止基于云的文件存储  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|点击可查找并重复使用内容  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|版本升级  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |批量激活 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
@@ -314,106 +314,106 @@ ms.locfileid: "37595267"
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[计划和部署](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
-|支持的混合部署  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|支持的 IMAP 迁移  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|支持的直接转换迁移  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|支持的暂存迁移  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|支持的混合部署  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|支持的 IMAP 迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|支持的直接转换迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|支持的暂存迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[权限](../exchange-online-service-description/permissions.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|基于角色的权限  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|角色组  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|角色分配策略  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|基于角色的权限  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|角色组  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|角色分配策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[邮件策略和合规性](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|存档基于 Exchange Online 的邮箱  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|内部部署邮箱的基于云的存档  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件记录管理（MRM）保留标记和保留策略  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|静态状态时的数据加密 (BitLocker)  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用 Azure 信息保护的 IRM  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|存档基于 Exchange Online 的邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|内部部署邮箱的基于云的存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件记录管理（MRM）保留标记和保留策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|静态状态时的数据加密 (BitLocker)  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 Azure 信息保护的 IRM  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |IRM using Windows Server AD RMS  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
-|Office 365 邮件加密  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|S/MIME  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> ||
-|就地保留和诉讼保留  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 365 邮件加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|S/MIME  <br/> |是  <br/> |是  <br/> |是  <br/> ||
+|就地保留和诉讼保留  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |就地电子数据展示  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
 |传输规则  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
-|数据丢失防护  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|日记功能  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|数据丢失防护  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日记功能  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[反垃圾邮件和反恶意软件保护](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|内置反垃圾邮件保护  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Customize anti-spam policies  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|内置反垃圾邮件保护  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Customize anti-spam policies  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |内置反恶意软件保护  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|Customize anti-malware policies  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|隔离 - 管理员管理  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|隔离 - 最终用户自我管理  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Customize anti-malware policies  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|隔离 - 管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|隔离 - 最终用户自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[邮件流](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|自定义路由的出站邮件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Secure messaging with a trusted partner  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Conditional mail routing  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|将合作伙伴添加到入站安全列表  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|混合电子邮件路由  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|自定义路由的出站邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Secure messaging with a trusted partner  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Conditional mail routing  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|将合作伙伴添加到入站安全列表  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|混合电子邮件路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[收件人](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|容量报警  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|混乱邮件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|邮件提示  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|委托访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|收件箱规则  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|容量报警  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|混乱邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|邮件提示  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|委托访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|收件箱规则  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |已连接帐户  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |
-|非活动邮箱  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|脱机通讯簿  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|通讯簿策略  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|分层通讯簿  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|非活动邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|脱机通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通讯簿策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|分层通讯簿  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |地址列表和全局地址列表  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
-|Office 365 组  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|通讯组  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|外部联系人（全局）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|通用联系人卡片  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|与社交网络的联系人链接  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|资源邮箱  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|会议室管理  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|“外出”回复  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|日历共享  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Office 365 组  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通讯组  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|外部联系人（全局）  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通用联系人卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与社交网络的联系人链接  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|资源邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|会议室管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|“外出”回复  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|日历共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[报告功能和疑难解答工具](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft 365 管理中心报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Excel 报告工作簿  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Web 服务报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Message trace  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|审核报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|统一消息报告  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|Microsoft 365 管理中心报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Excel 报告工作簿  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Web 服务报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Message trace  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|审核报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|统一消息报告  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |**[共享和协作](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|联合共享（包括日历发布）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|联合共享（包括日历发布）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网站邮箱  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
-|公用文件夹  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|公用文件夹  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[客户端和移动设备](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-| 适用于 Windows <sup>9</sup>的 Outlook <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Web 上的 Outlook<sup>9</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Outlook for Mac<sup>9</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Outlook for iOS 和 Outlook for Android<sup>9</sup> <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Exchange ActiveSync  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office 365 移动设备管理  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|POP 和 IMAP  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|SMTP  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|EWS 应用程序支持  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+| 适用于 Windows <sup>9</sup>的 Outlook <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Web 上的 Outlook<sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Outlook for Mac<sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Outlook for iOS 和 Outlook for Android<sup>9</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Exchange ActiveSync  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 移动设备管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|POP 和 IMAP  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|EWS 应用程序支持  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[语音邮件服务](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|语音邮件  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|语音邮件和第三方传真之间的集成  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|第三方语音邮件互操作性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Skype for Business 集成  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|语音邮件  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|语音邮件和第三方传真之间的集成  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|第三方语音邮件互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype for Business 集成  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[高可用性和业务连续性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|数据中心的邮箱复制  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|已删除邮箱的恢复  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|已删除邮件的恢复  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|单个项目恢复  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> ||
+|数据中心的邮箱复制  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|已删除邮箱的恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|已删除邮件的恢复  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|单个项目恢复  <br/> |是  <br/> |是  <br/> |是  <br/> ||
 |**[互操作性、连接性和兼容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|OWA 和 Outlook 中的 Skype for Business 状态  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|SharePoint 互操作性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|EWS 连接支持  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|SMTP 中继支持  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|OWA 和 Outlook 中的 Skype for Business 状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint 互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|EWS 连接支持  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SMTP 中继支持  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Exchange Online 设置和管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Office 365 门户访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft 365 管理中心访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Exchange 管理中心访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|远程 Windows PowerShell 访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|移动设备的 ActiveSync 策略  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用率报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Microsoft Office 365 门户访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 365 管理中心访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Exchange 管理中心访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|远程 Windows PowerShell 访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|移动设备的 ActiveSync 策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用率报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[扩展服务自定义、外接程序和资源](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook 外接程序和 Outlook MAPI  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
    
@@ -826,58 +826,58 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |||||
 |:-----|:-----|:-----|:-----|
 |**开发人员功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[应用程序目录（SharePoint）](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[应用程序部署：云托管的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[应用程序部署： SharePoint 承载的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[应用程序管理服务](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|BCS：外部列表警报 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[BCS：应用程序范围内的外部内容类型（Ect）](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[BCS：业务数据 Web 部件](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[BCS：外部列表](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[BCS：OData 连接器](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[应用程序目录（SharePoint）](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[应用程序部署：云托管的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[应用程序部署： SharePoint 承载的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|BCS：外部列表警报 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[BCS：应用程序范围内的外部内容类型（Ect）](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[BCS：业务数据 Web 部件](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[BCS：外部列表](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[BCS：OData 连接器](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |BCS：配置文件页面 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |BCS：富客户端集成 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|BCS： Secure Store service <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|BCS: Tenant-level external data log <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Browser-based customizations <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[客户端对象模型 (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Client-side rendering (CSR) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|BCS： Secure Store service <br/> |是  <br/> |是  <br/> |是  <br/> |
+|BCS: Tenant-level external data log <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Browser-based customizations <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[客户端对象模型 (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Client-side rendering (CSR) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义网站定义 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[自定义网站设置页](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[开发人员网站](../sharepoint-online-service-description/developer.md#developer-site) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[基于表单的应用程序](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[开发人员网站](../sharepoint-online-service-description/developer.md#developer-site) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[基于表单的应用程序](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[完全信任的解决方案](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |
-|[JavaScript 对象模型](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|List and Library APIs <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[远程事件接收器](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[SharePoint 设计管理器](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|SharePoint Store <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|SharePoint 2010 工作流 (.NET 3.5) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[SharePoint 2010 工作流（现成）](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[JavaScript 对象模型](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|List and Library APIs <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[远程事件接收器](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[REST API](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 设计管理器](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint Store <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint 2010 工作流 (.NET 3.5) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 2010 工作流（现成）](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 2013 和 SharePoint 2016 工作流](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
-|Workload API: ECM APIs <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Workload API: Search APIs <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Workload API: Social APIs <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Workload API: ECM APIs <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Workload API: Search APIs <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Workload API: Social APIs <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**IT 专业人员功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Active Directory 同步](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[Active Directory 同步](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[备用访问映射 (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Analytics Platform <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[反恶意软件保护](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Analytics Platform <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[反恶意软件保护](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[基于声明的身份验证支持](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |配置向导 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|延迟的网站集升级 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|延迟的网站集升级 <br/> |是  <br/> |是  <br/> |是  <br/> |
 |分布式缓存 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[数据丢失预防](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[静态加密](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[数据丢失预防](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[静态加密](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[主机标头网站集](../sharepoint-online-service-description/it-professional.md#host-header-site-collections) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|改进的权限管理 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|改进的权限管理 <br/> |是  <br/> |是  <br/> |是  <br/> |
 |改进了自助式网站创建 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |管理帐户 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Minimal Download Strategy (MDS) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[适用于 Office 365 的移动设备管理](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Minimal Download Strategy (MDS) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[适用于 Office 365 的移动设备管理](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth) <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |
 |[修补程序管理](../sharepoint-online-service-description/it-professional.md#patch-management) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[配额模板](../sharepoint-online-service-description/it-professional.md#quota-templates) <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -886,179 +886,179 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |[请求管理](../sharepoint-online-service-description/it-professional.md#request-management) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Request throttling <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[资源限制](../sharepoint-online-service-description/it-professional.md#resource-throttling) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[服务应用程序平台](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[服务应用程序平台](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 运行状况分析器](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[SharePoint 管理中心（Office 365）](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Shredded Storage <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[网站集合规性策略](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|网站集运行状况检查 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[SharePoint 管理中心（Office 365）](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Shredded Storage <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[网站集合规性策略](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|网站集运行状况检查 <br/> |是  <br/> |是  <br/> |是  <br/> |
 |State service <br/> |否  <br/> |否  <br/> |否  <br/> |
 |简化了集中管理 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |系统状态通知 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |未附加的内容数据库恢复 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Upgrade evaluation site collections <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Upgrade evaluation site collections <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[使用率报告和日志记录](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Windows PowerShell 支持](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[Windows PowerShell 支持](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**内容功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[辅助功能标准支持](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[资产库增强/视频支持](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[审核](../sharepoint-online-service-description/content.md#auditing) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[审核&amp;报告（例如，文档编辑、策略编辑、删除）](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[内容管理器](../sharepoint-online-service-description/content.md#content-organizer) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[设计管理器](../sharepoint-online-service-description/content.md#design-manager) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[文档集](../sharepoint-online-service-description/content.md#document-sets) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Word for web 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[辅助功能标准支持](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[资产库增强/视频支持](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[审核](../sharepoint-online-service-description/content.md#auditing) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[审核&amp;报告（例如，文档编辑、策略编辑、删除）](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[内容管理器](../sharepoint-online-service-description/content.md#content-organizer) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[设计管理器](../sharepoint-online-service-description/content.md#design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[文档集](../sharepoint-online-service-description/content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Word for web 中的文档翻译](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示搜索](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |[电子数据展示保留](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |[电子数据展示导出](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
 |启用了电子邮件的列表和库 <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[外部共享：外部访问](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |[外部共享：来宾链接](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |是<sup>6</sup> <br/> |是  <br/> |是<sup>6</sup> <br/> |
-|[文件夹同步](../sharepoint-online-service-description/content.md#folder-sync) <br/> |是<sup>1、6</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|混合审核  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|混合分类和内容类型  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[信息权限管理 (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |可访问  <br/> |可访问  <br/> |<sup>6</sup>是的  <br/> |
+|[文件夹同步](../sharepoint-online-service-description/content.md#folder-sync) <br/> |是<sup>1、6</sup> <br/> |是  <br/> |是  <br/> |
+|混合审核  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|混合分类和内容类型  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[信息权限管理 (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |是  <br/> |是  <br/> |<sup>6</sup>是的  <br/> |
 |[信息权限管理 (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[托管元数据服务](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[元数据驱动的导航](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Office for web （创建/编辑）](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Office for web （视图）](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Office ProPlus (Osub)  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|[托管元数据服务](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[元数据驱动的导航](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[多级布置](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web （创建/编辑）](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Office for web （视图）](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office ProPlus (Osub)  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[Office Web Apps 服务器集成](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PowerPoint Automation Services <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[保存保留库](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[快速编辑](../sharepoint-online-service-description/content.md#quick-edit) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[记录管理](../sharepoint-online-service-description/content.md#records-management) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[回收站（SharePoint 管理中心）](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[回收站（网站集）](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|相关项目 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Rich Media Management <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[共享内容类型](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[SharePoint 翻译服务](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|调查 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[唯一文档 Id](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[视频搜索](../sharepoint-online-service-description/content.md#video-search) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[发布分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[类别页面和目录项页面](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[搜索 web 部件](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[跨网站发布](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|WCM：设计器工具 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[保存保留库](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[快速编辑](../sharepoint-online-service-description/content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[记录管理](../sharepoint-online-service-description/content.md#records-management) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[回收站（SharePoint 管理中心）](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[回收站（网站集）](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|相关项目 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Rich Media Management <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[共享内容类型](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 翻译服务](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|调查 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[唯一文档 Id](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[视频搜索](../sharepoint-online-service-description/content.md#video-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[发布分析](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[类别页面和目录项页面](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[搜索 web 部件](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[跨网站发布](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|WCM：设计器工具 <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[分面导航](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |否  <br/> |是<sup>14</sup> <br/> |是<sup>14</sup> <br/> |
-|[图像重建](../sharepoint-online-service-description/content.md#image-renditions) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|WCM: Managed navigation <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|WCM：移动和设备呈现 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[图像重建](../sharepoint-online-service-description/content.md#image-renditions) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|WCM: Managed navigation <br/> |是  <br/> |是  <br/> |是  <br/> |
+|WCM：移动和设备呈现 <br/> |是  <br/> |是  <br/> |是  <br/> |
 |WCM：多个域 <br/> |否  <br/> |否  <br/> |否  <br/> |
-|WCM: Recommendations <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[WCM：搜索引擎优化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|WCM: Recommendations <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[WCM： Search Engine 优化（SEO）](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Word 自动化服务](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**洞察力功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[商业智能中心](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|[计算度量值和成员](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[数据连接库](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[分离的 PivotTable 和 PivotChart](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[字段列表和字段支持](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[筛选器增强功能](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[筛选器搜索](../sharepoint-online-service-description/insights.md#filter-search) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[商业智能中心](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|[计算度量值和成员](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[数据连接库](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[分离的 PivotTable 和 PivotChart](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[字段列表和字段支持](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[筛选器增强功能](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[筛选器搜索](../sharepoint-online-service-description/insights.md#filter-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[PerformancePoint 服务](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |否  <br/> |否  <br/> |否  <br/> |
 |PerformancePoint Services (PPS) Dashboard Migration <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[Power BI web 部件](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[SharePoint 中适用于 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[SharePoint 中适用于 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[快速浏览](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[SharePoint 中适用于 Excel 的 Power View](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 中适用于 Excel 的 Power Pivot](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[快速浏览](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Scorecards & Dashboards <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[SQL Server Reporting Services (SSRS) 集成的模式](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[时间线切片器](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[使用含有数据模型的 Excel 工作簿并与之进行交互](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Visio 服务](../sharepoint-online-service-description/insights.md#visio-services) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[时间线切片器](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[使用含有数据模型的 Excel 工作簿并与之进行交互](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Visio 服务](../sharepoint-online-service-description/insights.md#visio-services) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**搜索功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Advanced Content Processing <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[连续爬网](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Advanced Content Processing <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[连续爬网](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Custom entity extraction <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[深度链接](../sharepoint-online-service-description/search.md#deep-links) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[基于事件的相关性](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[专业技能搜索](../sharepoint-online-service-description/search.md#expertise-search) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[深度链接](../sharepoint-online-service-description/search.md#deep-links) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[基于事件的相关性](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[专业技能搜索](../sharepoint-online-service-description/search.md#expertise-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |可扩展内容处理] <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[图形精简程序](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[混合搜索](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[管理搜索架构](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[图形精简程序](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[混合搜索](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[管理搜索架构](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |On-premises search index <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[拼音名称匹配](../sharepoint-online-service-description/search.md#phonetic-name-matching) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[查询规则添加已升级结果](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[查询规则高级操作](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[查询拼写更正](../sharepoint-online-service-description/search.md#query-spelling-correction) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[查询建议](../sharepoint-online-service-description/search.md#query-suggestions) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Query throttling <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[悬停预览](../sharepoint-online-service-description/search.md#on-hover-preview) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[拼音名称匹配](../sharepoint-online-service-description/search.md#phonetic-name-matching) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[查询规则添加已升级结果](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[查询规则高级操作](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[查询拼写更正](../sharepoint-online-service-description/search.md#query-spelling-correction) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[查询建议](../sharepoint-online-service-description/search.md#query-suggestions) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Query throttling <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[悬停预览](../sharepoint-online-service-description/search.md#on-hover-preview) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[排名模型](../sharepoint-online-service-description/search.md#ranking-models) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|[精简程序](../sharepoint-online-service-description/search.md#refiners) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[RESTful 查询 API/查询 OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Result sources <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[精简程序](../sharepoint-online-service-description/search.md#refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[RESTful 查询 API/查询 OM](../sharepoint-online-service-description/search.md#restful-query-apiquery-om) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Result sources <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Search connector framework <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[搜索结果排序](../sharepoint-online-service-description/search.md#search-results-sorting) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Search vertical: “Conversations” <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Search vertical: “People” <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Search vertical: “Video” <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|["此列表"搜索](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[搜索结果排序](../sharepoint-online-service-description/search.md#search-results-sorting) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Search vertical: “Conversations” <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Search vertical: “People” <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Search vertical: “Video” <br/> |是  <br/> |是  <br/> |是  <br/> |
+|["此列表"搜索](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**站点功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Change the look <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|与 Microsoft Office 客户端的连接 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[跨浏览器支持](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Change the look <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与 Microsoft Office 客户端的连接 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[跨浏览器支持](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[自定义管理路径](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[控制](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|混合应用启动器  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|混合 OneDrive for Business 和网站  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[大型列表可扩展性和管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[控制](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|混合应用启动器  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|混合 OneDrive for Business 和网站  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[大型列表可扩展性和管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[移动连接](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |
-|[多语言用户界面](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
-|My Tasks <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[OOTB web 部件](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[权限管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Project functionality for team sites <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[项目站点模板](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Project Summary web part <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Project workspace <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[SharePoint 列表](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|SharePoint 功能区 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[ 文档库 ](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[任务列表](../sharepoint-online-service-description/sites-servicedesc.md#task-list) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Team Site: Drag & Drop <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[团队笔记本](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Team Site: Simplified Access <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[网站设计](../sharepoint-online-service-description/sites-servicedesc.md#site-designs) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[网站主题（更改外观）](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[网站使用情况页](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[变体](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Work Management Service <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[多语言用户界面](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
+|My Tasks <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[OOTB web 部件](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[权限管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Project functionality for team sites <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[项目站点模板](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Project Summary web part <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Project workspace <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 列表](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint 功能区 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[ 文档库 ](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[任务列表](../sharepoint-online-service-description/sites-servicedesc.md#task-list) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Team Site: Drag & Drop <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[团队笔记本](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Team Site: Simplified Access <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[网站设计](../sharepoint-online-service-description/sites-servicedesc.md#site-designs) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[网站主题（更改外观）](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[网站使用情况页](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[变体](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Work Management Service <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**社交功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Ask Me About <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Ask Me About <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[个人博客](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |
 |社区信誉、徽章和裁决 <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |
 |[社区](../sharepoint-online-service-description/social.md#community) <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |
-|[公司订阅源](../sharepoint-online-service-description/social.md#company-feed) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|与 Yammer 的文档对话 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|关注 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|微博 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|新闻源 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|一键式共享 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|人员、网站、文档建议 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|个人网站 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|照片和状态 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|配置文件 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|评价 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|与我共享的内容 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[网站源（使用 SharePoint social 的经典团队网站）](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|OneDrive for Business <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Tag profiles <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Tasks integrated with Outlook <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|趋势标记 <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|[Wiki](../sharepoint-online-service-description/social.md#wikis) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Yammer  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[公司订阅源](../sharepoint-online-service-description/social.md#company-feed) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与 Yammer 的文档对话 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|关注 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|微博 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|新闻源 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|一键式共享 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|人员、网站、文档建议 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|个人网站 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|照片和状态 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|配置文件 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|评价 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与我共享的内容 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[网站源（使用 SharePoint social 的经典团队网站）](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|OneDrive for Business <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Tag profiles <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Tasks integrated with Outlook <br/> |是  <br/> |是  <br/> |是  <br/> |
+|趋势标记 <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[Wiki](../sharepoint-online-service-description/social.md#wikis) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Yammer  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**加载项** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[其他存储](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[其他存储](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Azure 预配的应用程序： access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
-|[Azure 预配的应用： Azure 轻型 Web 角色中的自定义代码（LWR）](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|[Azure 预配的应用： Azure 轻型 Web 角色中的自定义代码（LWR）](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> To use folder sync, you must have Office 2013 or later (Standard or Professional edition) or an Office 365 subscription that includes Office applications. Office 365 业务重点、Office 365 企业版 E1 和 Office 365 教育版计划不包括 Office 桌面应用程序的订阅。 However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans. <br/> 
@@ -1105,130 +1105,130 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online：客户端、移动应用和会议室设备](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype for Business Full  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
+|Skype for Business Full  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Skype for Business 基本  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
 |Lync 2013 Basic  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
-|Skype for Business Windows 应用商店应用  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Lync for Mac 2011  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Skype for Business 移动客户端  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Skype for Business Web App  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Skype for Business Windows 应用商店应用  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Lync for Mac 2011  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype for Business 移动客户端  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype for Business Web App  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[即时消息、 在线状态以及联系人](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|PC 到 PC 的 IM 和状态  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|多方 IM 和状态  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|联系人卡片配置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|我的图片配置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|PC 到 PC 的 IM 和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多方 IM 和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|联系人卡片配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|我的图片配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |My Picture： URL 照片体验  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|联系人列表配置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|统一联系人存储  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|通讯簿搜索  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|通讯组列表展开  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|联系人列表配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|统一联系人存储  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通讯簿搜索  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通讯组列表展开  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |持久聊天  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|发件人/收件人的照片  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|发件人/收件人的照片  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Skype 于 Skype 音频、 视频和媒体](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|基于视频的屏幕共享 (VbSS) 上的桌面共享  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|远程桌面协议 (RDP) 上的桌面和客户端共享  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|文件传输  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|视频  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|基于视频的屏幕共享 (VbSS) 上的桌面共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|远程桌面协议 (RDP) 上的桌面和客户端共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|文件传输  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|视频  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网络服务质量 (QoS) - 区分服务代码点 (DSCP)  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[联盟和公用 IM 连接](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证  <br/> |否  <br/> |否  <br/> |否  <br/> |
-| Skype 联合身份验证  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+| Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |AOL 和 Yahoo! 联合身份验证  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|临时和计划音频会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|临时会议和计划视频会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|活动扬声器视频  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|H-p 编码和解码  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|多方视频  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|高清晰度视频或所有与会者的图片  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|演示者控件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|参与者选择的视图  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|OneNote 共享  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|临时和计划 web 会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|临时和计划音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|临时会议和计划视频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|活动扬声器视频  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|H-p 编码和解码  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多方视频  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|高清晰度视频或所有与会者的图片  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|演示者控件  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|参与者选择的视图  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|OneNote 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|临时和计划 web 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通过音频会议（第一方）的 Skype for Business 会议拨入  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|通过经认证的音频会议提供商（ACP）进行 Skype for Business 会议拨入  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|PowerPoint 共享  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|文件传输  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|白板和批注  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|PowerPoint 上传  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|轮询  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|客户端录制和播放  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|通过经认证的音频会议提供商（ACP）进行 Skype for Business 会议拨入  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|PowerPoint 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|文件传输  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|白板和批注  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|PowerPoint 上传  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|轮询  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|客户端录制和播放  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |服务器端录制和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|会议厅  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Skype 会议直播  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |
-|通过 Skype for Business Web 应用对 Skype 会议的来宾访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|在 Outlook 中安排 Skype for Business 会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|代表他人在 Outlook 中安排 Skype for Business 会议（委派）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|使用 Web 计划程序安排 Skype for Business 会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|在 Outlook 网页网站中安排联机会议  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|用于安排会议的 Outlook 委派  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|会议厅  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype 会议直播  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|通过 Skype for Business Web 应用对 Skype 会议的来宾访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|代表他人在 Outlook 中安排 Skype for Business 会议（委派）  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用 Web 计划程序安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|在 Outlook 网页网站中安排联机会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|用于安排会议的 Outlook 委派  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |从 Outlook 创建具有静态会议 ID 的公开会议  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**语音呼叫** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |自动助理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |忙选项  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |分支机构可恢复性  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |呼叫允许控制  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|呼叫应答/启动  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|呼叫应答/启动  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫委派  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|呼叫转接和同步拨打  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|呼叫历史记录  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|呼叫保留/检索  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|呼叫转接和同步拨打  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|呼叫历史记录  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|呼叫保留/检索  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫寄存  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|呼叫转移（盲音、咨询和移动）  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|呼叫者 ID  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|呼叫等待  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|占线  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|PC、Mac 和移动客户端  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|设备切换  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|呼叫转移（盲音、咨询和移动）  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|呼叫者 ID  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|呼叫等待  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|占线  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|PC、Mac 和移动客户端  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|设备切换  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |优雅响铃  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|防干扰路由  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|防干扰路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |紧急呼叫 - 静态位置  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |紧急呼叫 - 动态位置  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|企业日历呼叫路由  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|企业日历呼叫路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |分机拨号  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |群呼代接  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |智能寻线/呼叫队列和处理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |集成式拨号盘  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |基于位置的路由  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|等待音乐  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|等待音乐  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |出站 DID 操作  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |专线  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |限定的 IP 座机  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |共享线路外观  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Skype 和联合呼叫  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Skype 和联合呼叫  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |团队呼叫  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|视频呼叫监视器  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|视频呼叫监视器  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Voicemail  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |
 |[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|Skype for Business 语音  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Skype for Business 语音  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|IM 和媒体加密  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |IM 和文件筛选  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|客户端版本控制  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|IM 内容存档  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|会议内容存档  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|应用程序共享和桌面共享存档  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
-|用户级存档配置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|登录跟踪文件  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|客户端版本控制  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|IM 内容存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|会议内容存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|应用程序共享和桌面共享存档  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|用户级存档配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|登录跟踪文件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[交换和 SharePoint 的互操作性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|与 Exchange Server 的状态互操作性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|与 Exchange Online 的状态互操作性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|与 Exchange Server 的状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与 Exchange Online 的状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |与 Exchange Server 的统一消息互操作性  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |与 Exchange Online 的统一消息互操作性  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Outlook 网页互操作性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Outlook 网页互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |与 Exchange Server 的存档互操作性  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|与 Exchange Online 的存档互操作性  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|与 Exchange Online 的存档互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |对 SharePoint Server 使用技能搜索  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |对 SharePoint Online 使用技能搜索  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 的在线业务管理和管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Office 365 门户  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft 365 管理中心  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Skype for Business 管理中心  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Windows PowerShell  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
+|Microsoft Office 365 门户  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 365 管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Skype for Business 管理中心  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 A3 包括完整的 Skype for Business （Lync）应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息，请参阅[Desktop client 比较 tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 

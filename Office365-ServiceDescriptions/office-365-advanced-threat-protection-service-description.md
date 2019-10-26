@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强大的零天保护功能，帮助您的组织抵御未知恶意软件和病毒，并提供保护实时来自有害链接的组织。 ATP 具有丰富的报告功能和 URL 跟踪功能，可让管理员了解组织中发生的攻击种类。
-ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强大的零天保护功能，帮助您的组织抵御未知恶意软件和病毒，并提供保护实时来自有害链接的组织。
+ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401738"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734170"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -47,7 +47,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 - Office 365 商业协作版
 
-- Office 365 商业高级版
+- Help and training
 
 - Office 365 企业版 E1
 
@@ -61,13 +61,15 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 若要购买 Office 365 高级威胁防护，请参阅[office 365 高级威胁防护](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
 
-若要跨计划比较功能，请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)和[发现适合你的 Microsoft 365 企业解决方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
+若要跨计划比较功能，请参阅[比较 Office 365 For Business 计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)和[发现适合你的 Microsoft 365 企业解决方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护（ATP）的新增功能
 
 我们正在继续向 Office 365 ATP 添加新功能。 若要了解有关即将 ATP （或常规 Microsoft 365）的新功能的详细信息，请参阅以下资源：
+
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
-- [Office 365 ATP 中的新增功能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+
+- [Office 365 ATP 的新增功能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护（ATP）的要求
 
@@ -104,15 +106,15 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ### <a name="safe-links"></a>安全链接
 
-[ATP 安全链接](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次单击链接时，将继续提供保护，因为会在访问良好的链接时动态地阻挡恶意链接。
+[ATP 安全链接](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次选择该链接时，都会保持保护，因为在可以访问正确的链接时，会动态阻止恶意链接。
 
 安全链接可用于以下应用程序中的 Url：
 
-- Windows 或 Mac 上的 Office 365 专业增强版。
+- Windows 或 Mac 上的 Office 365 专业增强版
 
-- Office for web （适用于 web 的 Word、适用于 web 的 Excel、PowerPoint for web 以及适用于 web 的 OneNote）。
+- 适用于 web 的 Office （适用于 web 的 Excel、适用于 web 的 Excel、PowerPoint for web 以及适用于 web 的 OneNote）
 
-- Windows 上的 Word、Excel、PowerPoint 和 Visio，以及 iOS 和 Android 设备上的 Office 应用程序。
+- Windows 上的 Word、Excel、PowerPoint 和 Visio，以及 iOS 和 Android 设备上的 Office 应用
 
 > [!NOTE]
 > 用户必须获得 ATP<sup>\*</sup>许可，必须包含在 Atp 安全链接策略中，并且必须在其设备上登录，才能就地保护。
@@ -129,7 +131,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ### <a name="real-time-reports"></a>实时报告
 
-Office 365 安全 & 合规中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)，使您的安全和合规性管理员能够重点关注高优先级问题，如安全攻击或提高可疑活动。 除了突出显示问题区域之外，智能报告和见解还包括用于查看和浏览数据的建议和链接，同时还采取快速操作。
+Office 365 安全 & 合规中心中提供的监控功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)，使您的安全和合规性能够重点关注高优先级问题，如安全攻击或提高可疑活动。 除了突出显示问题区域之外，智能报告和见解还包括用于查看和浏览数据的建议和链接，同时还采取快速操作。
 
 ### <a name="threat-trackers"></a>威胁跟踪器
 
@@ -137,10 +139,10 @@ Office 365 安全 & 合规中心中提供的监视功能包括[实时报告和�
 
 ### <a name="explorer"></a>Explorer
 
-资源管理器（也称为威胁浏览器）是一种实时报告，它使授权用户能够识别和分析最新的威胁。 默认情况下，此报告显示过去7天的数据;但是，可以对视图进行修改，以显示过去30天的数据。
+资源管理器（也称为威胁浏览器）是一个实时报告，它允许授权用户识别和分析最新的威胁。 默认情况下，此报告显示过去7天的数据;但是，可以对视图进行修改，以显示过去30天的数据。
 
 有关浏览器（在 Office 365 高级威胁防护计划2中）和实时检测（在 Office 365 高级威胁防护计划1中）的详细信息，请参阅[威胁 Explorer （和实时检测）](https://docs.microsoft.com/office365/securitycompliance/threat-explorer)。
 
 ### <a name="attack-simulator"></a>攻击模拟器
 
-利用[攻击模拟器](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator)，授权用户可以在您的组织中运行实际的攻击方案。 有几种不同类型的攻击可供使用，其中包括显示名称 spear 网络钓鱼攻击、密码喷涂攻击和强力密码攻击。
+[攻击模拟器](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator)允许授权用户在您的组织中运行实际的攻击方案。 有几种不同类型的攻击可供使用，其中包括显示名称 spear 网络钓鱼攻击、密码喷涂攻击和强力密码攻击。

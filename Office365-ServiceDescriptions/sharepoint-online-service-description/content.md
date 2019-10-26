@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下内容功能让每个人都可轻松使用企业内容管理 (ECM)。 它是传统内容管理、社交功能和强大搜索的组合。
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726259"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733953"
 ---
 # <a name="content"></a>内容
 
@@ -172,7 +172,7 @@ SharePoint 用户拥有一个存储已删除内容的回收站。如果需要，
     
 回收站不捕获通过 SharePoint Designer 进行的站点自定义。 
   
-要了解详细信息，请参阅[管理 SharePoint 网站集的回收站](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)。
+要了解详细信息，请参阅[管理 SharePoint 网站集的回收站](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409)。
   
 ## <a name="search-web-parts"></a>搜索 web 部件
 

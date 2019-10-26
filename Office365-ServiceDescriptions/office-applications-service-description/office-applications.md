@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 262f6d17c1fc537244091de8746c7e307463a6d0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582158"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734009"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
@@ -59,7 +59,7 @@ Skype for Business 是一款即时消息客户端和统一通信应用程序。 
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath 是一个程序，可让您设计、散布、完成和提交电子表格。您可选择将 InfoPath 表单 Web 部件添加至 SharePoint Online 站点。有关更多信息，请参阅 [InfoPath 表单 Web 部件](http://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath 是一个程序，可让您设计、散布、完成和提交电子表格。您可选择将 InfoPath 表单 Web 部件添加至 SharePoint Online 站点。有关更多信息，请参阅 [InfoPath 表单 Web 部件](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 若要了解在不编写代码的情况下，InfoPath 的后续任务如何在 SharePoint 中提高业务效率，请参阅[使用 PowerApps 自定义 SharePoint](https://powerapps.microsoft.com/infopath/)。
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 作为授权的 Microsoft 合作伙伴，Microsoft Office 365 为您提供了扩大客户群和与这些客户建立长久业务关系的机会。您收取月费或年费后，您的客户可以使用基于云的服务，这样，他们就不必管理数据备份、服务器硬件和服务器更新。服务是否可用，具体取决于向您授权提供的服务类型。
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582108"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734079"
 ---
 # <a name="partners"></a>合作伙伴
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582108"
 作为授权的 Microsoft 合作伙伴，Microsoft Office 365 为您提供了扩大客户群和与这些客户建立长久业务关系的机会。您收取月费或年费后，您的客户可以使用基于云的服务，这样，他们就不必管理数据备份、服务器硬件和服务器更新。服务是否可用，具体取决于向您授权提供的服务类型。
   
 > [!NOTE]
-> 若要详细了解如何使用合作伙伴功能，请参阅[建立业务和管理 Office 365 合作伙伴订阅](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)，并查阅合作伙伴功能演示文稿。若要获取对合作伙伴功能的使用权限，可以通过签订 [Microsoft Online Services 合作伙伴协议](https://go.microsoft.com/fwlink/p/?LinkId=285473)加入 Cloud Essentials。 
+> 若要详细了解如何使用合作伙伴功能，请参阅[建立业务和管理 Office 365 合作伙伴订阅](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409)，并查阅合作伙伴功能演示文稿。若要获取对合作伙伴功能的使用权限，可以通过签订 [Microsoft Online Services 合作伙伴协议](https://go.microsoft.com/fwlink/p/?LinkId=285473)加入 Cloud Essentials。 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>创建试用邀请和采购订单
 
@@ -47,9 +47,9 @@ You can create and send trial invitations to your customers so they can try Offi
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>在 Office 365 Marketplace 中与客户和其他合作伙伴联系
 
-Office 365 Marketplace 为客户提供了查找合作伙伴服务和专业技术的机会。有关详细信息，请参阅[在 Marketplace 上展示](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)。
+Office 365 Marketplace 为客户提供了查找合作伙伴服务和专业技术的机会。有关详细信息，请参阅[在 Marketplace 上展示](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409)。
   
-Microsoft 合作伙伴网络致力于满足我们合作伙伴的需求。要加入此网络，并了解 Microsoft 如何为其合作伙伴提供服务，请参阅 [Microsoft 合作伙伴网络](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)。
+Microsoft 合作伙伴网络致力于满足我们合作伙伴的需求。要加入此网络，并了解 Microsoft 如何为其合作伙伴提供服务，请参阅 [Microsoft 合作伙伴网络](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409)。
   
 ## <a name="feature-availability"></a>功能可用性
 

@@ -14,26 +14,26 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？ 请参阅 Skype for Business 许可概述。
-ms.openlocfilehash: 2c5aa68bdf26558f9415346585ca73bc6310b2ce
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777763"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701694"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
 
 > [!NOTE]
-> Microsoft 团队现在是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 从10月1日起, 2018, 将向 Microsoft 团队载入500的新 Office 365 客户将被到 Microsoft 团队, 并且将无法访问 Skype for business Online。 已在使用 Skype for Business Online 的租户将能够继续执行此操作 (包括预配新用户), 直到他们完成向 Microsoft 团队的过渡。
+> Microsoft 团队现在是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 将向 Microsoft 团队载入500的新的 Office 365 客户提供或更少的客户，并且将无法访问 Skype for business Online。 已在使用 Skype for Business Online 的租户将能够继续执行此操作（包括预配新用户），直到他们完成向 Microsoft 团队的过渡。
 
 > [!NOTE]
-> 从2019年7月1日起, Skype for Business Online 计划2将从销售中停用。 这意味着, 您将无法再获取 Skype for Business Online 计划2以用于即时消息、状态、会议和对等语音和视频。 这些功能将继续在所有 Office 365 提供中受到支持, 其中包括团队, 包括 Office 365 套件。 当计划在当前术语结束时过期时, 为了能够继续访问这些功能, 您必须切换到其他计划。 我们建议您为当前已分配 Skype for business Online 计划2的用户评估 Office 365 业务重点、商业高级版或任何其他 Office 套件。 
+> Skype for Business Online 计划2从2019年7月1日销售退休。 这意味着，您将无法再获取 Skype for Business Online 计划2以用于即时消息、状态、会议和对等语音和视频。 这些功能将继续在所有 Office 365 提供中受到支持，其中包括团队，包括 Office 365 套件。 当计划在当前术语结束时过期时，为了能够继续访问这些功能，您必须切换到其他计划。 我们建议您为当前已分配 Skype for business Online 计划2的用户评估 Office 365 业务重点、商业高级版或任何其他 Office 套件。 
 
  **您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？请参阅[Skype For business 许可概述](https://go.microsoft.com/fwlink/?LinkID=799524)。**
   
 Skype for Business Online 是一款通信服务，支持你随时随地与参加会议和通话的人员联系。它支持用户访问出席信息，并支持即时消息、音频和视频呼叫、丰富的在线会议和一系列 Web 会议功能。 
   
-Skype for Business 托管在同时支持多个客户的多租户服务器上。这些服务器位于 Microsoft 数据中心，允许用户通过各种设备从公司网络内部或通过 Internet 进行访问。 
+Skype for Business 托管在同时支持多个客户的多租户服务器上。 这些服务器驻留在 Microsoft 数据中心中，用户可从企业网络或 internet 上的各种设备访问这些服务器。 
   
 ## <a name="find-out-about-skype-for-business-online"></a>查看有关 Skype for Business Online 的信息。
 
@@ -64,17 +64,17 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |Skype for Business 移动客户端  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Web App  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[即时消息、 在线状态以及联系人](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|PC 到 PC 即时消息和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多方即时消息和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|PC 到 PC 的 IM 和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多方 IM 和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |联系人卡片配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |我的图片配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|我的图片：URL 照片体验  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|My Picture： URL 照片体验  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |联系人列表配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |统一联系人存储  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通讯簿搜索  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通讯组列表扩展  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通讯组列表展开  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |持久聊天  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|发送者/接收者的照片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|发件人/收件人的照片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Skype 于 Skype 音频、 视频和媒体](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |基于视频的屏幕共享 (VbSS) 上的桌面共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>4</sup> <br/> |
 |远程桌面协议 (RDP) 上的桌面和客户端共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>4</sup> <br/> |
@@ -82,38 +82,38 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |视频  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网络服务质量 (QoS) - 区分服务代码点 (DSCP)  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[联盟和公用 IM 连接](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 通信服务器 2007 R2 和 Lync Server 2010 （即时消息、状态、音频、视频、会议）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 | Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |AOL 和 Yahoo! 联合身份验证  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|即席音频会议和计划音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|即席视频会议和计划视频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|当前发言人视频  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|H.264 编码和解码  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|临时和计划音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|临时会议和计划视频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|活动扬声器视频  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|H-p 编码和解码  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |多方视频  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|高清视频或所有与会者的头像  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|高清晰度视频或所有与会者的图片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |演示者控件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|参与者选定的视图  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|参与者选择的视图  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |OneNote 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|即席 Web 会议和计划 Web 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|临时和计划 web 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |通过音频会议（第一方）拨入 Skype for Business 会议  <br/> |否  <br/> |否  <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |是  <br/> |否  <br/> |
-|通过经认证的音频会议提供商 (ACP) 实现 Skype for Business 会议拨入  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|通过经认证的音频会议提供商（ACP）进行 Skype for Business 会议拨入  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |PowerPoint 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |文件传输  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |白板和批注  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|PowerPoint 上载  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|PowerPoint 上传  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |轮询  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |客户端录制和播放  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |服务器端录制和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |会议厅  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Skype 会议直播  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|使用 Skype for Business Web 应用以来宾身份访问 Skype 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|通过 Skype for Business Web 应用对 Skype 会议的来宾访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|代表他人（委派）在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|使用 Web Scheduler 安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|在 Outlook Web App 中安排在线会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|通过 Outlook 委派安排会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|代表他人在 Outlook 中安排 Skype for Business 会议（委派）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|使用 Web 计划程序安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|在 Outlook 网页网站中安排联机会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|用于安排会议的 Outlook 委派  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |从 Outlook 创建具有静态会议 ID 的公开会议  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**语音呼叫** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |自动助理  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
@@ -151,8 +151,8 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |团队呼叫  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |视频呼叫监视器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Voicemail  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|[通话套餐](http://technet.microsoft.com/library/cf1a3734-3b82-4f63-b390-f14b91ce1a0e.aspx)（国内通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
-|[通话套餐](http://technet.microsoft.com/library/cf1a3734-3b82-4f63-b390-f14b91ce1a0e.aspx)（国际通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
+|[通话套餐](skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
+|[通话套餐](skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |否  <br/> |
 |[通信点数](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |否  <br/> |否  <br/> |无<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Skype for Business 语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |**[安全保护和归档](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
@@ -161,20 +161,20 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |客户端版本控制  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |IM 内容存档  <br/> |是  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |会议内容存档  <br/> |是  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
-|应用程序共享存档和桌面共享存档  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|应用程序共享和桌面共享存档  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |用户级存档配置  <br/> |是  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |登录跟踪文件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |适用于 Office 的客户密钥 365<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |**[交换和 SharePoint 的互操作性](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
-|与 Exchange Server 的当前状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|与 Exchange Online 的当前状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|与 Exchange Server 的状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与 Exchange Online 的状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |与 Exchange Server 的统一消息互操作性  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |与 Exchange Online 的统一消息互操作性  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Outlook Web App 互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|Outlook 网页互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |与 Exchange Server 的存档互操作性  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |与 Exchange Online 的存档互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|对 SharePoint Server 使用技能搜索  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|对 SharePoint Online 使用技能搜索  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|SharePoint Server 的技能搜索  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|使用 SharePoint Online 的技能搜索  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 的在线业务管理和管理](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |
 |Microsoft Office 365 门户  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -182,18 +182,18 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序, 其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business （Lync）应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
-<br/><sup>3</sup>您必须为要拥有语音邮件的用户分配一个 Exchange Online (计划 2) 计划。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
-<br/><sup>4</sup>如果受 Skype For Business Online 计划2或企业计划用户的邀请, Office 365 企业级 F1 用户可能会参与共享会话。 
+<br/><sup>3</sup>您必须为要拥有语音邮件的用户分配一个 Exchange Online （计划2）计划。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
+<br/><sup>4</sup>如果受 Skype For Business Online 计划2或企业计划用户的邀请，Office 365 企业级 F1 用户可能会参与共享会话。 
 <br/> <sup>5</sup>可以将音频会议添加到 Office 365 商业高级版、Office 365 企业版 E1 和 Office 365 企业版 E3 订阅计划作为加载项。 
-<br/> <sup>6</sup>可以将通信点数添加到 Office 365 商业高级订阅计划中, 作为仅支持音频会议的加载项。 
-<br/><sup>7</sup>在 Mac 和移动客户端上, 紧急呼叫不可用。 
-<br/> <sup>8</sup>客户密钥使您能够控制组织的加密密钥, 然后将 Office 365 配置为使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据, 这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务, 因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息, 请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 
+<br/> <sup>6</sup>可以将通信点数添加到 Office 365 商业高级订阅计划中，作为仅支持音频会议的加载项。 
+<br/><sup>7</sup>在 Mac 和移动客户端上，紧急呼叫不可用。 
+<br/> <sup>8</sup>客户密钥允许你控制组织的加密密钥，然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据，这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务，因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://go.microsoft.com/fwlink/?linkid=862702)。 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>跨 Skype for Business Online 独立计划的功能可用性
 
-下表列出了各个独立计划可用的 Skype for Business Online 功能。 有关这些功能的说明, 请转到[Skype For Business Online 功能](skype-for-business-online-features.md)。
+下表列出了各个独立计划可用的 Skype for Business Online 功能。 有关这些功能的说明，请转到[Skype For Business Online 功能](skype-for-business-online-features.md)。
   
 > [!NOTE]
 > Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409)。 
@@ -210,17 +210,17 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |Skype for Business 移动客户端  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Web App  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[即时消息、 在线状态以及联系人](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
-|PC 到 PC 即时消息和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多方即时消息和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|PC 到 PC 的 IM 和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多方 IM 和状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |联系人卡片配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |我的图片配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|我的图片：URL 照片体验  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|My Picture： URL 照片体验  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |联系人列表配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |统一联系人存储  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通讯簿搜索  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通讯组列表扩展  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|通讯组列表展开  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |持久聊天  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|发送者/接收者的照片  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|发件人/收件人的照片  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Skype 于 Skype 音频、 视频和媒体](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |桌面共享  <br/> |是  <br/> |无<sup>2</sup> <br/> |是  <br/> |
 |应用程序共享  <br/> |是  <br/> |无<sup>2</sup> <br/> |是  <br/> |
@@ -236,30 +236,30 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 | Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |AOL 和 Yahoo! 联合身份验证  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
-|即席音频会议和计划音频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|即席视频会议和计划视频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|当前发言人视频  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|H.264 编码和解码  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|临时和计划音频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|临时会议和计划视频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|活动扬声器视频  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|H-p 编码和解码  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |多方视频  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|高清视频或所有与会者的头像  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|高清晰度视频或所有与会者的图片  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |演示者控件  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|参与者选定的视图  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|参与者选择的视图  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |OneNote 共享  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|即席 Web 会议和计划 Web 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|通过经认证的音频会议提供商 (ACP) 拨入音频会议  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|临时和计划 web 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|通过经认证的音频会议提供商（ACP）进行电话拨入式音频会议  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |PowerPoint 共享  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |白板和批注  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|PowerPoint 上载  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|PowerPoint 上传  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |轮询  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |客户端录制和播放  <br/> |是  <br/> |否  <br/> |是<sup>1</sup> <br/> |
 |服务器端录制和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |会议厅  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|使用 Skype for Business Web App 对 Skype for Business 会议进行来宾访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|使用 Skype for Business Web 应用对 Skype for business 会议的来宾访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|代表他人（委派）在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|使用 Web Scheduler 安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|在 Outlook Web App 中安排在线会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|通过 Outlook 委派安排会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|代表他人在 Outlook 中安排 Skype for Business 会议（委派）  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|使用 Web 计划程序安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|在 Outlook 网页网站中安排联机会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|用于安排会议的 Outlook 委派  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |从 Outlook 创建具有静态会议 ID 的公开会议  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |**[安全保护和归档](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -267,19 +267,19 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |客户端版本控制  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |IM 内容存档  <br/> |是  <br/> |无<sup>3</sup> <br/> |无<sup>3</sup> <br/> |
 |会议内容存档  <br/> |是  <br/> |无<sup>3</sup> <br/> |无<sup>3</sup> <br/> |
-|应用程序共享存档和桌面共享存档  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|应用程序共享和桌面共享存档  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |用户级存档配置  <br/> |是  <br/> |无<sup>3</sup> <br/> |无<sup>3</sup> <br/> |
 |登录跟踪文件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[交换和 SharePoint 的互操作性](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
-|与 Exchange Server 的当前状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|与 Exchange Online 的当前状态互操作性  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |
+|与 Exchange Server 的状态互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|与 Exchange Online 的状态互操作性  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |
 |与 Exchange Server 的统一消息互操作性  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |与 Exchange Online 的统一消息互操作性  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|Outlook Web App 互操作性  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |
+|Outlook 网页互操作性  <br/> |是  <br/> |是<sup>5</sup> <br/> |是  <br/> |
 |与 Exchange Server 的存档互操作性  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |与 Exchange Online 的存档互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|对 SharePoint Server 使用技能搜索  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|对 SharePoint Online 使用技能搜索  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|SharePoint Server 的技能搜索  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|使用 SharePoint Online 的技能搜索  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 的在线业务管理和管理](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |Microsoft Office 365 门户  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Microsoft 365 管理中心  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
@@ -287,8 +287,8 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |Windows PowerShell  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心中的 Skype for Business Online 报告  <br/> |否  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息, 请参阅[适用于 Skype for Business Online 的客户端](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> 
-<br/><sup>2</sup>如果 skype For Business online 计划2用户邀请了用户, 则 Skype For Business online 计划1用户可能会参与共享会话。 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. 有关 Lync 基本功能的详细信息，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<br/><sup>2</sup>如果 skype For Business online 计划2用户邀请了用户，则 Skype For Business online 计划1用户可能会参与共享会话。 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan. 
@@ -300,11 +300,10 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。�
 |||
 |:-----|:-----|
 |**Office 365 计划** <br/> |**Skype for Business Online 功能** <br/> |
-|Skype for Business Online 独立计划 2  <br/> | Skype 会议直播  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  Skype for Business Online 独立计划 2 或任何包含计划 2 的 Office 365 套件均可使用以下附加设备：  <br/>  音频会议 (适用于有限的国家/地区)。  <br/>  电话系统。  <br/> > [!NOTE]> 如果自己购买时没有通话套餐, 则电话系统仅启用混合语音功能。 混合语音需要本地客户混合语音部署, 以使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于使用 Microsoft 作为您的 PSTN 服务提供商来启用入站和出站 PSTN 呼叫: 国际呼叫计划 > 国内呼叫计划 (适用于有限的国家/地区) > 国际呼叫计划 (适用于有限的国家/地区))           |
-|Skype for Business Online 独立计划 3  <br/> |Skype for Business Online 独立计划 3。  <br/> > [!NOTE]> 此计划仅用于第三方语音服务提供商, 并且不** 提供任何呼叫服务, 如音频会议、电话系统、国内通话套餐或国际呼叫计划。           |
-|Office 365 商业高级版  <br/> | Skype 会议直播：  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  音频会议 (在可用的国家/地区)。  <br/> |
+|Skype for Business Online 独立计划 2  <br/> | Skype 会议直播  <br/>  对于组织者、创建者、事件团队成员和通过身份验证的与会者，Office 365 许可证是必需的。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  Skype for Business Online 独立计划 2 或任何包含计划 2 的 Office 365 套件均可使用以下附加设备：  <br/> -音频会议（适用于有限的国家/地区） <br/> -电话系统 <br/>**注释**如果自己购买时没有通话套餐，则电话系统仅启用混合语音功能。 混合语音需要本地客户混合语音部署，以使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于使用 Microsoft 作为你的 PSTN 服务提供商来启用入站和出站 PSTN 呼叫：<br/>-国内呼叫计划（适用于有限的国家/地区）<br/>-国际呼叫计划（适用于有限的国家/地区）          |
+|Skype for Business Online 独立计划 3  <br/> |Skype for Business Online 独立计划 3。  <br/>  此计划仅用于第三方语音服务提供商，并且不*提供任何*呼叫服务，如音频会议、电话系统、国内通话套餐或国际呼叫计划。           |
+|Office 365 商业高级版  <br/> | Skype 会议直播：  <br/>  组织者、创建者、事件团队成员和通过身份验证的与会者需要 Office 365 许可证。  <br/>  匿名与会者不需要 Office 365 许可证。  <br/>  音频会议（在可用的国家/地区）。  <br/> |
 |Office 365 企业版 E1  <br/> |Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/> |
 |Office 365 企业版 E3  <br/> |Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/> |
-|带有音频会议的 Office 365 企业版 E5  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）  <br/>  包含音频会议。  <br/>  包含电话系统。  <br/> > [!NOTE]> 如果自己购买时没有通话套餐, 则电话系统仅启用混合语音功能。 混合语音需要客户本地混合语音部署使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于启用入站和出站 PSTN 呼叫, 使用 Microsoft 作为您的 PSTN 服务提供商: > 国内呼叫计划 (适用于有限的国家/地区)。 > 国际呼叫计划 (适用于有限的国家/地区)。           |
-|不带音频会议的 Office 365 企业版 E5  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/>  包含电话系统。  <br/> > [!NOTE]> 如果自己购买时没有通话套餐, 则电话系统仅启用混合语音功能。 混合语音需要本地客户混合语音部署使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于启用入站和出站 PSTN 呼叫, 使用 Microsoft 作为您的 PSTN 服务提供商: > 国内呼叫计划 (适用于有限的国家/地区)。 > 国际呼叫计划 (适用于有限的国家/地区)。           |
-   
+|带有音频会议的 Office 365 企业版 E5  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/>  包含音频会议。  <br/>  包含电话系统。  <br/>**注释** 如果自己购买时没有通话套餐，则电话系统仅启用混合语音功能。 混合语音需要客户本地混合语音部署，以使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于使用 Microsoft 作为你的 PSTN 服务提供商来启用入站和出站 PSTN 呼叫： <br/> -国内呼叫计划（适用于有限的国家/地区） <br/> -国际呼叫计划（适用于有限的国家/地区）           |
+|不带音频会议的 Office 365 企业版 E5  <br/> | 包含 Skype for Business Online 独立计划 2（请参阅上文的 Skype for Business Online 独立计划 2 查看包含的功能）。  <br/>  包含电话系统。 <br/>**注释** 如果自己购买时没有通话套餐，则电话系统仅启用混合语音功能。 混合语音需要本地客户混合语音部署，以使用现有的 PSTN 服务提供商启用 PSTN 呼叫。 以下电话系统加载项可用于使用 Microsoft 作为你的 PSTN 服务提供商来启用入站和出站 PSTN 呼叫： <br/> -国内呼叫计划（适用于有限的国家/地区）。 <br/> -国际呼叫计划（适用于有限的国家/地区）。           |

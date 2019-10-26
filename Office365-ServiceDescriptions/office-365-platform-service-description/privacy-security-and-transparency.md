@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 706ff7bb1f5f3d7b3ae1ba761bcdadc237051e3d
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d8eecc4a5f120832c9e55fab7a3887eced071136
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582098"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734250"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
 > [!NOTE]
 > 本文中的信息适用于 Office 365 的全球各种版本。如果使用的是 Office 365 国家/地区云实例（包括 Office 365 美国政府版、Office 365 Germany 和由世纪互联运营的 Office 365），请参阅 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)（Microsoft 国家/地区云）。 
   
-Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 [Microsoft 信任中心](http://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)。
+Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 [Microsoft 信任中心](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)。
   
 ## <a name="privacy"></a>隐私
 
-若要了解有关 Microsoft Office 365 如何保护您的数据隐私的详细信息，请参阅[隐私](http://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409)。 
+若要了解有关 Microsoft Office 365 如何保护您的数据隐私的详细信息，请参阅[隐私](https://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409)。 
   
 有关企业版、商业版、政府版和教育版管理员在配置 Office 365 隐私设置时可采取的特定步骤，请参阅 [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202)（适用于管理员的高级隐私选项）。
   
@@ -36,21 +36,21 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 ## <a name="security"></a>安全性
 
-若要了解 Microsoft 如何安全、可靠地提供 Office 365 服务，请参阅[安全性](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)。
+若要了解 Microsoft 如何安全、可靠地提供 Office 365 服务，请参阅[安全性](https://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409)。
   
 ## <a name="transparency"></a>Transparency
 
-作为 Office 365 客户，您可以了解您的数据所在的位置，Microsoft 的哪些人员可以访问该数据以及我们内部对该信息采取的措施。有关详细信息，请参阅[透明度](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)。
+作为 Office 365 客户，您可以了解您的数据所在的位置，Microsoft 的哪些人员可以访问该数据以及我们内部对该信息采取的措施。有关详细信息，请参阅[透明度](https://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409)。
   
 ## <a name="office-365-advanced-ediscovery"></a>Office 365 高级电子数据展示
 
-电子发现（亦称为"电子数据展示"）是用于识别和传递可用作法律案件证据的电子信息的过程。Office 365 高级电子数据展示以 Office 365 中的现有电子数据展示功能为基础构建而成，它使您可以分析大型的非结构化数据集，并减少与法律案件相关的数据量。您可以使用 Office 365 合规性中心的搜索功能执行对组织中所有内容源的初始搜索，以标识并收集可能与特定的法律案件相关的数据。然后可以通过应用高级电子数据展示的文本分析、机器学习和相关性/预测编码功能来分析这些数据。有关详细信息，请参阅 [Office 365 高级电子数据展示](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)。
+电子发现（亦称为"电子数据展示"）是用于识别和传递可用作法律案件证据的电子信息的过程。Office 365 高级电子数据展示以 Office 365 中的现有电子数据展示功能为基础构建而成，它使您可以分析大型的非结构化数据集，并减少与法律案件相关的数据量。您可以使用 Office 365 合规性中心的搜索功能执行对组织中所有内容源的初始搜索，以标识并收集可能与特定的法律案件相关的数据。然后可以通过应用高级电子数据展示的文本分析、机器学习和相关性/预测编码功能来分析这些数据。有关详细信息，请参阅 [Office 365 高级电子数据展示](https://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409)。
   
 ## <a name="customer-lockbox"></a>客户密码箱
 
 作为 Office 365 管理员，您可以使用客户锁箱来控制 Microsoft 技术支持工程师在帮助会话期间访问您数据的方式。如果工程师需要访问您的数据以进行故障排除和解决问题，那么您可以使用客户锁箱批准或拒绝该访问请求。如果您批准访问请求，工程师就可以访问您的数据。每个请求都有过期时间，一旦问题得以解决，即关闭请求并吊销该访问权限。
   
-客户锁箱包含在 Office 365 Enterprise 5 计划中，或者您可以通过任何其他 Office 365 Enterprise 计划来购买单独的订阅。有关详细信息，请参阅 [Office 365 客户锁箱请求](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
+客户锁箱包含在 Office 365 Enterprise 5 计划中，或者您可以通过任何其他 Office 365 Enterprise 计划来购买单独的订阅。有关详细信息，请参阅 [Office 365 客户锁箱请求](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
   
 ## <a name="advanced-threat-protection"></a>高级威胁防护
 

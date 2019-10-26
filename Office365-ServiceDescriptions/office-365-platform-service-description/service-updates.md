@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
-ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581348"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734039"
 ---
 # <a name="service-updates"></a>服务更新
 
 > [!NOTE]
-> 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。 
+> 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。 
   
 若要了解刚发布或即将发布的 Office 365 功能，请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
@@ -37,7 +37,7 @@ ms.locfileid: "37581348"
 
 如果有需要管理员采取行动以便让服务一直正常运行的更改，则 Office 365 会努力提前通知客户。除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide)至少提前 30 天发出通知。 
   
-大多数 Office 365 服务更新都是错误修复、性能改进以及要求代表客户零操作的安全更新。 [Microsoft 365 for business 路线图中提供](http://roadmap.office.com/)了新的和改进的功能。
+大多数 Office 365 服务更新都是错误修复、性能改进以及要求代表客户零操作的安全更新。 [Microsoft 365 for business 路线图中提供](https://roadmap.office.com/)了新的和改进的功能。
   
 请注意，Office 365 遵循 [Online 生命周期策略](https://support.microsoft.com/lifecycle#gp/osslpolicy)。
   

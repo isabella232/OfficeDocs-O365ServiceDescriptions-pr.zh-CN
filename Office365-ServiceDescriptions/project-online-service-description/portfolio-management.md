@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 中提供了以下项目组合管理功能。
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633739"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733873"
 ---
 # <a name="portfolio-management"></a>项目组合管理
 
@@ -25,11 +25,11 @@ Project Online 中提供了以下项目组合管理功能。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>对项目进行分析和优化产品组合
 
-分析您的项目，以确定哪些人能为您提供预算和资源的最佳投资回报。 我们将此过程称为"项目组合分析"。 有关详细信息，请参阅 [Use the portfolio analysis scatter chart](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)（使用项目组合分析散点图）。
+分析您的项目，以确定哪些人能为您提供预算和资源的最佳投资回报。 我们将此过程称为"项目组合分析"。 有关详细信息，请参阅 [Use the portfolio analysis scatter chart](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409)（使用项目组合分析散点图）。
   
 ## <a name="create-and-edit-projects"></a>创建和编辑项目
 
-创建项目的方式有多种。 有关详细信息，请参阅[在 Project Web App 中创建项目](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)。
+创建项目的方式有多种。 有关详细信息，请参阅[在 Project Web App 中创建项目](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)。
   
 ## <a name="enterprise-resource-management"></a>企业资源管理
 

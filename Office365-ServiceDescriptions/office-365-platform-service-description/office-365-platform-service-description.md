@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 5740dbe2eaafc464060b6c9554e9acdc734e912d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633455"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734120"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -27,7 +27,7 @@ ms.locfileid: "37633455"
   
 Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 以及Microsoft Skype for Business Online —帮助用户通过 internet 随时随地实现工作效率。
   
-若要跨计划比较功能，请参阅[比较 Office 365 For Business 计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
+若要跨计划比较功能，请参阅[比较 Office 365 For Business 计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -45,7 +45,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 非营利组织版计划和定价
 
-对于符合 Office 365 非营利组织版计划条件的组织，这些计划包含的功能与相应的商业版计划完全相同（例如，Office 365 非盈利企业版 E5 包含与 Office 365 企业版 E5 完全相同的功能）。同等计划的唯一区别是价格。有关 Office 365 非营利组织版计划的详细信息，请参阅 [Office 365 非营利组织版计划和定价](http://go.microsoft.com/fwlink/?LinkID=627221)以及此 [FAQ](http://go.microsoft.com/fwlink/?LinkID=786641)。
+对于符合 Office 365 非营利组织版计划条件的组织，这些计划包含的功能与相应的商业版计划完全相同（例如，Office 365 非盈利企业版 E5 包含与 Office 365 企业版 E5 完全相同的功能）。同等计划的唯一区别是价格。有关 Office 365 非营利组织版计划的详细信息，请参阅 [Office 365 非营利组织版计划和定价](https://go.microsoft.com/fwlink/?LinkID=627221)以及此 [FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系统要求
 
@@ -81,13 +81,13 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
     
 - 教育版：[Office 365 教育版计划和定价](https://go.microsoft.com/fwlink/?LinkID=827897)
     
-- 政府版：[Office 365 美国政府版计划](http://go.microsoft.com/fwlink/?LinkID=827898)
+- 政府版：[Office 365 美国政府版计划](https://go.microsoft.com/fwlink/?LinkID=827898)
     
 - 非盈利组织版：[Office 365 非盈利组织版计划和定价](https://go.microsoft.com/fwlink/?LinkID=733237)
     
 - Office 365 Germany:[Office 365 Germany 计划](https://go.microsoft.com/fwlink/?linkid=839016)
     
-多个 Office 365 商业版计划包含可购买用于订阅的附加内容。附加内容可为订阅提供其他功能。有关详细信息，请参阅 [Buy or edit an add-on for Office 365 for business](https://support.office.com/en-us/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)（购买或编辑 Office 365 商业版附加内容）中的"Add-ons that are available for different versions of Office 365 for Business"（适用于不同 Office 365 商业版计划的附加内容）。
+多个 Office 365 商业版计划包含可购买用于订阅的附加内容。附加内容可为订阅提供其他功能。有关详细信息，请参阅 [Buy or edit an add-on for Office 365 for business](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)（购买或编辑 Office 365 商业版附加内容）中的"Add-ons that are available for different versions of Office 365 for Business"（适用于不同 Office 365 商业版计划的附加内容）。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -209,7 +209,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 > <sup>1</sup> Office 365 不提供对其制造商不支持的任何操作系统的支持。 
 <br/><sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 Microsoft 365 商业版随附的 Office 客户端应用还支持完整的 Azure 信息保护（计划1）功能。
 <br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
-<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
 <br/><sup>7</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息，请参阅[简介 Office 365 安全分数](https://go.microsoft.com/fwlink/?linkid=836894)。 
 <br/><sup>8</sup> Microsoft Sway 目前对某些地区的客户不可用。 一些自 2015 年 8 月起不再上市的旧版 Office 365 计划可能也无法访问 Microsoft Sway。 
@@ -220,7 +220,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 <br/><sup>13</sup>在 Office 365 Enterprise F1 中，PowerApps 仅限于消耗量（不发布或共享）。 
 <br/><sup>14</sup>在 Office 365 Enterprise F1 中，流仅限于使用，每个用户每个月限制运行数为750。 
 <br/><sup>15</sup>仅适用于 Office 365 教育版计划，包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
-<br/><sup>16</sup>有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+<br/><sup>16</sup>有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
 <br/><sup>17</sup>在美国和西欧（荷兰）地区支持高级电子数据展示。 （来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。
 <br/>仅<sup>18</sup>个 Microsoft Stream 的消耗量：不发布或共享。
 <br/><sup>19</sup>从5月2019开始，Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。

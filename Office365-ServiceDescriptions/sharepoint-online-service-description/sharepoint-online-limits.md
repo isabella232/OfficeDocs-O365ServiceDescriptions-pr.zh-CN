@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: f111729e829c0886c38141915fa7225f7633a578
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523210"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726181"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online 限制 
+# <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
 查找适用于 Office 365 计划和 SharePoint Online 独立计划的 SharePoint 限制。
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633421"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734110"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -47,7 +47,7 @@ MyAnalytics 为您的个人工作效率提供了两个关键因素：您花费�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner 是一种使用户能够以可视化的方式来组织团队合作的工具。团队可以创建新的计划、组织和分配任务、共享文件、讨论他们正在处理的事务、设置截止日期以及更新状态。Microsoft 规划器还提供将文档与特定任务关联，将其共同编辑并围绕任务进行对话的功能。若要了解详细信息，请参阅 [Microsoft 365 Planner 简介](http://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)。Planner 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
+Microsoft Planner 是一种使用户能够以可视化的方式来组织团队合作的工具。团队可以创建新的计划、组织和分配任务、共享文件、讨论他们正在处理的事务、设置截止日期以及更新状态。Microsoft 规划器还提供将文档与特定任务关联，将其共同编辑并围绕任务进行对话的功能。若要了解详细信息，请参阅 [Microsoft 365 Planner 简介](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)。Planner 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 

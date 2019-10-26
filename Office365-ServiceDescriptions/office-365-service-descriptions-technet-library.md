@@ -13,26 +13,26 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Microsoft Office 365 是一项基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777473"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734029"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
-Microsoft Office 365 是一项基于云的服务, 旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。 
+Microsoft Office 365 是一项基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。 
   
-此库中的主题详细描述了可与 Office 365 结合使用的服务和功能。若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或以下列表中相关的服务描述。 
+此库中的主题详细描述了可与 Office 365 结合使用的服务和功能。若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或以下列表中相关的服务描述。 
   
 若要搜索支持文章和信息，请参阅 [Office 支持](https://support.office.com/)。
   
 > [!NOTE]
 > 如果你正在查找服务说明比较电子表格，此内容已停用。已对每个"服务说明"页面的产品功能可用性表进行了更新，以更好地帮助你选择适合你需求的 Office 365 版本。 
   
-Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 的 FastTrack 中心权益。 通过此好处, 你可以与 Microsoft 专家远程合作, 让你的 Office 365 环境做好使用准备。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 的 FastTrack 中心权益。 通过此好处，你可以与 Microsoft 专家远程合作，让你的 Office 365 环境做好使用准备。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
@@ -40,7 +40,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
     
 - [Office Applications 服务说明](office-applications-service-description/office-applications-service-description.md)
     
-- [用于 web 服务说明的 Office](office-online-service-description/office-online-service-description.md)
+- [Office 网页版服务说明](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -64,7 +64,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
     
 - [Project Online 服务说明](project-online-service-description/project-online-service-description.md)
     
-- [适用于 web 服务说明的 Visio](visio-online-service-description/visio-online-service-description.md)
+- [Visio 网页版服务说明](visio-online-service-description/visio-online-service-description.md)
     
 - [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
 
@@ -75,7 +75,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
 - [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> 包含 [uite features](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。 
+> <sup>1</sup> 包含 [uite features](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
   
 ## <a name="disclaimer"></a>免责声明
 

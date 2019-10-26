@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 4c2f6398f59bbb7045c3afa09193077975214170
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633531"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701704"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -573,7 +573,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[应用程序目录（SharePoint）](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|是|是|是|是|是|是|是|
 |[应用程序部署：云托管的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|是|是|是|是|是|是|是|
 |[应用程序部署： SharePoint 承载的应用程序](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|是|是|是|是|是|是|是|
-|[应用程序管理服务](../sharepoint-online-service-description/developer.md#app-management-services)|是|是|是|是|是|是|是|
+|[App Management Service](../sharepoint-online-service-description/developer.md#app-management-service)|是|是|是|是|是|是|是|
 |BCS：外部列表警报|否|否|否|否|否|必需|否|
 |[BCS：应用程序范围的外部内容类型（Ect）](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|否|否|否|否|否|必需|否|
 |[BCS：业务数据 Web 部件](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|否|否|否|否|否|必需|否|
@@ -694,7 +694,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |WCM：移动和设备呈现|是|否|可访问|是|是|是|是|
 |WCM：多个域|否|否|否|否|否|否|否|
 |WCM: Recommendations|是|否|可访问|是|是|是|是|
-|[WCM：搜索引擎优化 (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|是|否|可访问|是|是|是|是|
+|[WCM： Search Engine 优化（SEO）](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|是|否|可访问|是|是|是|是|
 |[Word 自动化服务](../sharepoint-online-service-description/content.md#word-automation-services)|否|否|否|否|否|否|否|
 |**洞察力功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业级 F1**|
 |[商业智能中心](../sharepoint-online-service-description/insights.md#business-intelligence-center)|否|否|否|否|否|否|否|
@@ -756,7 +756,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |混合 OneDrive 企业版和网站|是|是|是|是|是|是|是<sup>15</sup>|
 |[大型列表可扩展性和管理](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|是|是|是|是|是|是|是|
 |[移动连接](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|否|是<sup>13</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
-|[多语言用户界面](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|
+|[多语言用户界面](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|
 |My Tasks|是|否|可访问|是|是|是|是|
 |[OOTB web 部件](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|是|否|可访问|是|是|是|是|
 |[权限管理](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|是|是|是|是|是|是|是|

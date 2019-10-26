@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581918"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734220"
 ---
 # <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
@@ -47,7 +47,7 @@ Outlook 网页版具有两个客户端版本，这两个都可用于 Exchange On
 
 - **轻型 Outlook 网页版** 使用轻型 Outlook 网页版，Exchange Online 用户可以使用几乎所有 Web 浏览器访问邮箱。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](https://go.microsoft.com/fwlink/p/?LinkId=399155)为介于 5 分钟到 8 小时中的一个值。 此超时取决于用户在 web 应用程序中的交互，例如，选择一个按钮或选择一封邮件。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
 
-Outlook 网页版还提供移动版本。 有关详细信息，请参阅此[此页面](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
+Outlook 网页版还提供移动版本。 有关详细信息，请参阅此[此页面](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
   
 ## <a name="outlook-for-mac"></a>Outlook for Mac
 
@@ -59,8 +59,8 @@ Exchange Online 适用于适用于 iOS、Android 和 Windows Phone 的 Outlook �
   
 |||||
 |:-----|:-----|:-----|:-----|
-|设备  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Outlook 移动应用可用性  <br/> |可访问  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |可访问  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
+|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Outlook 移动应用可用性  <br/> |是  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
 |与 Exchange Online 兼容的内置电子邮件应用程序  <br/> |Gmail app/Samsung 电子邮件应用程序  <br/> |iOS 邮件应用程序  <br/> |Outlook 邮件、日历、联系人  <br/> |
 |更多信息  <br/> |[Android 手机设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
