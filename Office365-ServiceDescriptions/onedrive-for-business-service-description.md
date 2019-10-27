@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 了解每个订阅计划提供的 OneDrive 存储空间。
-ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 34ed849f989c4711b40b469539b48ac091b297b0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582198"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733999"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business 服务说明
 
-OneDrive 是为组织中的单个许可用户提供的云中的联机存储空间。 使用它帮助保护工作文件并在多台设备上访问这些文件。 通过 OneDrive，你可以共享文件和协作使用文档，并将文件同步至计算机。 [详细了解 OneDrive 特性、功能和价格](https://go.microsoft.com/fwlink/?linkid=850345) 
+OneDrive 是为组织中的单个许可用户提供的云中的联机存储空间。 使用它帮助保护工作文件并在多台设备上访问这些文件。 通过 OneDrive，你可以共享文件和协作使用文档，并将文件同步至计算机。 [详细了解 OneDrive 特性、功能和价格](https://go.microsoft.com/fwlink/?linkid=850345)。
   
 OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 计划中，也可以作为单独计划购买。 
     
@@ -63,7 +63,7 @@ OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 �
 
 **超过 1 TB，不设上限**
  
-对于用户数少于 5 人的订阅，每位用户 1 TB。 对于用户数至少达到 5 人的订阅（可为合格计划的任何组合），Microsoft 最开始将为每位用户提供 1 TB 存储空间，管理员可将每位用户的存储空间提高到 5 TB。 （要了解如何操作，请参阅[设置 OneDrive 用户的默认存储空间](/onedrive/set-default-storage-space)。）管理员必须联系 Microsoft 支持人员，才能请求额外存储空间。
+对于用户数少于 5 人的订阅，每位用户 1 TB。 对于用户数至少达到 5 人的订阅（可为合格计划的任何组合），Microsoft 最开始将为每位用户提供 1 TB 存储空间，管理员可将每位用户的存储空间提高到 5 TB。 （要了解如何操作，请参阅[设置 OneDrive 用户的默认存储空间](/onedrive/set-default-storage-space)。）管理员必须联系 Microsoft 支持人员，才能请求获得额外存储空间。
 
 - Office 365 企业版 E3
 - Office 365 企业版 E5
@@ -108,4 +108,3 @@ OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个�
   
 对于单个用户包含无限云存储空间的计划，请注意，非存储功能可能会有限制。 
   
-
