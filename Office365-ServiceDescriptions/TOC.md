@@ -107,7 +107,7 @@
 ### [Yammer 中的管理和安全功能](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Yammer 中的支持功能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 服务说明
-### [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-### [Microsoft 365 租户级服务许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+### [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md) 
+### [Microsoft 365 租户级服务许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
 ## [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
 
