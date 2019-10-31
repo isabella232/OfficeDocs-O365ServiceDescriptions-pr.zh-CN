@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外，SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。
-ms.openlocfilehash: ec12aa14160415cc2de93742d05e7b80bcb3fa01
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726164"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890408"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -254,5 +254,5 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 <sup>16</sup>只能在 Infopath 富客户端中使用包含用户代码（沙盒）的 InfoPath 表单。 <br/>
 <sup>17</sup>适用于 web 使用率的 Visio （视图功能）免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。  <br/>
 <sup>18</sup> F1 用户可以在混合设置中访问 SharePoint Server，但 Office 365 F1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 <br/>
-<sup>19</sup>在 Office 365 企业版 E5 中提供了 "客户密钥"。 通过 "客户密钥"，可以控制组织的加密密钥，然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据，这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务，因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
+<sup>19</sup>在 Office 365 企业版 E5 中提供了 "客户密钥"。 通过 "客户密钥"，可以控制组织的加密密钥，然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据，这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务，因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>20</sup>即将推出。 

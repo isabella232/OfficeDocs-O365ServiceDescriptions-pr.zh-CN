@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595280"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890418"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。 
   
-若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/en-us/government/compare-office-365-government-plans)页面。 
+若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/government/compare-office-365-government-plans)页面。 
   
 ## <a name="how-to-use-this-service-description-section"></a>如何使用本服务说明部分
 
@@ -69,7 +69,6 @@ MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和�
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云（GCC）客户支持
 
-Office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-)相同的条款和条件提供，包括无支持代理物理位置或公民保证。 Office 365 GCC 与 Azure 公有云结合运行，在以下[条款和条件](https://azure.microsoft.com/en-us/support/plans/)下受支持。
+Office 365 GCC 客户支持按照与[全球版本的 Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/support)相同的条款和条件提供，包括无支持代理物理位置或公民保证。 Office 365 GCC 与 Azure 公有云结合运行，在以下[条款和条件](https://azure.microsoft.com/support/plans/)下受支持。
 
 Microsoft 提醒您不要将任何受控制、敏感或机密的信息与支持人员共享为 Office 365 与 GCC 相关的支持事件的一部分，直到您确认他们的授权能够查看或访问此类数据。 Microsoft 致力于[保护你的隐私。](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 GCC 客户支持不包含在服务资格鉴定边界中，不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。
