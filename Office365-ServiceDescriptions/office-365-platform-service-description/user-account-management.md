@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
+ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631651"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890051"
 ---
 # <a name="user-account-management"></a>用户帐户管理
 
@@ -64,9 +64,9 @@ Office 365 具有两个可用于用户标识的系统：
 
 除了使用 SharePoint Online 创建的匿名访问的互联网站点之外，用户在访问 Office 365 服务时必须进行身份验证。 
   
-- **新式验证**新式验证将基于 Active Directory Authentication Library (ADAL) 的登录引入跨平台的 Office 客户端应用。这将启用部分登录功能，如 Multi-Factor Authentication (MFA)、使用 Office 客户端应用程序的基于 SAML 的第三方身份提供程序，以及智能卡和基于证书的身份验证。它还让 Microsoft Outlook 无需使用基本身份验证协议。有关详细信息，包括跨 Office 应用程序的新式验证的可用性等，请参阅[新式验证在 Office 2013 和 Office 2016 客户端应用中的工作原理](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)和[在 Office 客户端中使用 Office 365 新式验证](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)。
+- **新式验证**新式验证将基于 Active Directory Authentication Library (ADAL) 的登录引入跨平台的 Office 客户端应用。 这将启用部分登录功能，如 Multi-Factor Authentication (MFA)、使用 Office 客户端应用程序的基于 SAML 的第三方身份提供程序，以及智能卡和基于证书的身份验证。 它还让 Microsoft Outlook 无需使用基本身份验证协议。 有关详细信息（包括跨 Office 应用程序的新式验证的可用性），请参阅[如何对 office 2013 和 office 2016 客户端应用程序进行新式验证](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)。
     
-    默认情况下，Exchange Online 未启用新式验证。若要了解如何启用，请参阅[为 Exchange Online 启用新式验证](https://docs.microsoft.com/Exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+    默认情况下，将为 Exchange Online 启用新式验证。 若要了解如何打开或关闭它，请参阅[在 Exchange Online 中启用新式验证](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
     
 - **云身份身份验证** 具有云身份的用户将使用传统挑战/回复进行身份验证。Web 浏览器被重定向到 Office 365 登录服务，您需要键入工作或学校帐户的用户名和密码。登录服务将对您的凭据进行身份验证并生成服务令牌，以便 Web 浏览器发送到请求的服务并登录。 
     
