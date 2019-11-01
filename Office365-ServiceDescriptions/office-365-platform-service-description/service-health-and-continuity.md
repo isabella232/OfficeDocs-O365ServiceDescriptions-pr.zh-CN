@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态，并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734049"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911788"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -79,7 +79,7 @@ Office 365 租户管理员的管理员应用程序使你能够在旅途中与组
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
-Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 Office 365 管理包，这样他们就可以在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
+Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Office 365 管理员现在可以选择导入 Office 365 管理包，这样他们就可以在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 
@@ -91,7 +91,7 @@ Microsoft System Center 是一个集成管理平台，可以帮助你管理数�
     
 - 计划的维护通知
     
-有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
+有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
   
 ## <a name="post-incident-reviews"></a>事后评审
 

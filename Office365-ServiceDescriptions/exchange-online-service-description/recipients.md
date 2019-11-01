@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734200"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911715"
 ---
 # <a name="recipients"></a>Recipients
 
@@ -58,7 +58,7 @@ Exchange Online 允许用户创建收件箱规则，在邮件抵达后基于条�
   
 ### <a name="clutter"></a>混乱邮件
 
-待筛选邮件旨在帮助你重点关注收件箱中最重要的邮件。它优先级较低的邮件移除到新的"待筛选邮件"文件夹，使用机器学习从收件箱删除待筛选邮件。待筛选邮件遵循现有的电子邮件规则。因此，如果已创建电子邮件整理规则，这些规则会继续适用，待筛选邮件功能不会对这些邮件产生影响。默认情况下，收件箱禁用待筛选邮件功能。若要了解详细信息，请参阅 [De-clutter your inbox in Office 365]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/)（在 Office 365 中从收件箱删除待筛选邮件）。
+待筛选邮件旨在帮助你重点关注收件箱中最重要的邮件。它优先级较低的邮件移除到新的"待筛选邮件"文件夹，使用机器学习从收件箱删除待筛选邮件。待筛选邮件遵循现有的电子邮件规则。因此，如果已创建电子邮件整理规则，这些规则会继续适用，待筛选邮件功能不会对这些邮件产生影响。默认情况下，收件箱禁用待筛选邮件功能。若要了解详细信息，请参阅 [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)（在 Office 365 中从收件箱删除待筛选邮件）。
   
 ### <a name="connected-accounts"></a>已连接帐户
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734110"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911705"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -55,7 +55,7 @@ Microsoft PowerApps 是一种企业服务，可帮助你快速生成、集成和
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及其管理人员使用自己的移动设备来管理计划并保持联系。员工可以使用 StaffHub 申请休假、交易转移以及与其他员工沟通。员工也可以直接在彼此之间发送邮件或向整个团队发送邮件。管理人员可以使用 StaffHub 发送邮件、创建计划以及发送团队新闻或公司公告。要了解有关 StaffHub 的详细信息，请转到 Microsoft [StaffHub 网站](https://staffhub.office.com/)和 [Office 365 Team blog](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/)（Office 365 团队博客）。
+Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及其管理人员使用自己的移动设备来管理计划并保持联系。员工可以使用 StaffHub 申请休假、交易转移以及与其他员工沟通。员工也可以直接在彼此之间发送邮件或向整个团队发送邮件。管理人员可以使用 StaffHub 发送邮件、创建计划以及发送团队新闻或公司公告。要了解有关 StaffHub 的详细信息，请转到 Microsoft [StaffHub 网站](https://staffhub.office.com/)和 [Office 365 Team blog](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)（Office 365 团队博客）。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Office 365 中的组将用户与同事、他们处理更多任务所需的信息
   
 ## <a name="office-365-video"></a>Office 365 视频
 
-Office 365 视频是全公司范围内的安全目标，可供跨设备上载、共享和发现视频，由 Microsoft Azure 媒体服务提供技术支持。Office 365 视频可帮助查看者参与其中且随时掌握最新资讯，从而广泛传播思想，并帮助组织保持一致。若要了解详细信息，请参阅 [Introducing Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/)（Office 365 视频简介）。
+Office 365 视频是全公司范围内的安全目标，可供跨设备上载、共享和发现视频，由 Microsoft Azure 媒体服务提供技术支持。Office 365 视频可帮助查看者参与其中且随时掌握最新资讯，从而广泛传播思想，并帮助组织保持一致。若要了解详细信息，请参阅 [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)（Office 365 视频简介）。
   
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
 

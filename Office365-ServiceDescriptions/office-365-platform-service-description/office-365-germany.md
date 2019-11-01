@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过为数字工作提供业界一流的工作效率服务，从德国数据中心（包含数据派驻服务）中为我们提供业界一流的工作效率服务，帮助您满足德国最受管控客户的需求，以及欧盟（EU）和欧洲自由贸易协会（EFTA）。在德国，通过采用德国法律管辖的唯一数据受信者模型严格的数据访问和控制措施。
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734260"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911801"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -350,7 +350,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
-|**[计划和部署](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
+|**[规划和部署](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
 |支持的混合部署<sup>1</sup>|是<sup>2</sup>|是|是<sup>2</sup>|是|是|是|是|是|
 |支持的 IMAP 迁移|是|是|是|是|是|是|是|是|
 |支持的直接转换迁移|是|是|是|是|是|是|是|是|
@@ -765,7 +765,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |个人网站|是|是|是|是|
 |照片和状态|是|是|是|是|
 |配置文件|是|是|是|是|
-|评价|是|是|是|是|
+|Ratings|是|是|是|是|
 |Shared with Me|是|是|是|是|
 |[网站源（使用 SharePoint social 的经典团队网站）](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|否|否|可访问|是|
 |OneDrive for Business|是|是|是|是|
@@ -786,7 +786,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 ## <a name="project-online-features"></a>Project Online 功能
 
-下表列出了 Office 365 Germany 计划中所提供的 Project Online 功能。若要了解 Project Online 的详细信息，请参阅 [Getting Started with Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)（Project Online 入门）。
+下表列出了 Office 365 Germany 计划中所提供的 Project Online 功能。若要了解 Project Online 的详细信息，请参阅 [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)（Project Online 入门）。
 
 ||||
 |:-----|:-----|:-----|
@@ -1025,7 +1025,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |个人网站|是|是|是|是|是|是|是|否|
 |照片和状态|是|是|是|是|是|是|是|是|
 |配置文件|是|是|是|是|是|是|是|是|
-|评价|是|是|是|是|是|是|是|是|
+|Ratings|是|是|是|是|是|是|是|是|
 |Shared with Me|是|是|是|是|是|是|是|否|
 |[网站源（使用 SharePoint social 的经典团队网站）](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|是|否|可访问|是|是|是|是|是|
 |OneDrive for Business|是|是|是|是|是|是|是|是<sup>2</sup>|

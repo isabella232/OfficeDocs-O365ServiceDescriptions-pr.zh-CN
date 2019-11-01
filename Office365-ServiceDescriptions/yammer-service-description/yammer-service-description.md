@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
-ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733573"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911825"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -49,7 +49,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 服务通信策略
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 是 Office 365 的一部分并遵守[office 365 更改管理策略](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不使用目标版本来推出更新。 
+Yammer 是 Office 365 的一部分并遵守[office 365 更改管理策略](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不使用目标版本来推出更新。 
   
 所有 Yammer 用户都要进行 A/B 功能测试。这样，Microsoft 就可以跨多个环境和设备测试功能的稳定性、性能和体验改善。同一网络中的用户可能会有不同的测试体验。客户不能选择停用 A/B 测试。
   
