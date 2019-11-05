@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
+ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734230"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37971718"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -180,12 +180,12 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |使用 Azure 信息保护保护内容  <br/> |无<sup>1</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup>  <br/> |无<sup>1</sup> <br/> |
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
 |Microsoft 预订  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Microsoft Flow  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
+|Microsoft Flow  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics  <br/> |否 <br/> |否 <br/> |是<sup>17</sup> <br/> |否 <br/> |
-|Microsoft Planner  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|Microsoft PowerApps  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
+|Microsoft Planner  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
+|Microsoft PowerApps  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |否 <br/> |否 <br/> |否 <br/> |否<br/> |
 |Microsoft Stream  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |否  <br/> |
 |Microsoft Sway  <br/> |否 <br/> |否 <br/> |否 <br/> |否 <br/> |
