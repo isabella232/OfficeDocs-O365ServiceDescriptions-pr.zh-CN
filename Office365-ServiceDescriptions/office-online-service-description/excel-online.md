@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637249"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020259"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -150,7 +150,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="find"></a>查找
 
-在活动工作表中查找单元格内容。显示一个易于使用的对话框，其中提供从工作表中的当前选择开始向上或向下搜索的选项。
+在活动工作表中查找单元格内容。 易于使用的对话框提供了从工作表中的当前选定范围向上或向下搜索的选项。 **查找全部**允许您突出显示搜索词的每个实例。
   
 ## <a name="font-and-cell-formatting"></a>字体和单元格格式
 
@@ -284,7 +284,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 是否想要自己的工作簿副本？使用"文件"选项卡上的"另存为"命令，或右键单击其文件夹中的工作簿名称，使用"下载"命令将副本发送到您的计算机。
   
-## <a name="share"></a>共享
+## <a name="share"></a>Share
 
 单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[如何使用 office for web 在 office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   
