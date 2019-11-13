@@ -1,5 +1,5 @@
 ---
-title: 为中小型企业许可 Microsoft 365
+title: Microsoft 365 针对中小型企业的许可
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业版是适用于中小型企业客户的 Microsoft 一流产品。 Microsoft 365 商业版是一个集成的解决方案，可将 Office 365 的工作效率、高级安全性和设备管理结合在一起。
-ms.openlocfilehash: 0c7d91293b65604183d67e24ab2490ca8032da3a
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020448"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289782"
 ---
-# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>为中小型企业许可 Microsoft 365
+# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
 Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft 一流产品。 Microsoft 365 商业版是一个集成的解决方案，可将 Office 365 的**工作效率**与**高级安全性**和**设备管理**结合在一起。
 
@@ -148,7 +148,7 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 |**Compliance** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 | 是 | 是 |
 |   | 高级电子数据展示、客户密码箱、高级数据管理 | 否 | 否 | 否 | 可访问 |
 |**分析** | Power BI Pro，MyAnalytics | 否 | 否 | 否 | 可访问 |
-|**语音** | PSTN 会议，云 PBX | 否 | 否 | 否 | 可访问 |
+|**音量** | PSTN 会议，云 PBX | 否 | 否 | 否 | 可访问 |
 
 **注释**
 
@@ -202,7 +202,7 @@ Microsoft 365 商业版包括 Office 365 商业客户端，这与 Pro Plus 有�
 
 <sup>1</sup>允许组织将 Office 的某些配置设置（安全设置、应用设置、Active Directory 漫游等）推送到企业网络的计算机上。
 
-<sup>2</sup>使用 office Standard 2016 和 Office Professional Plus 2016，它具有对使用 MSI 模型的更新的完全控制。 使用 Office 365 专业增强版，可以通过即点即用来管理安装和更新。
+<sup>2</sup>使用 office Standard 2016 和 Office Professional Plus 2016，它具有对使用 MSI 模型的更新的完全控制。 使用 Office 365 专业增强版和**office 365 商业**版，安装和更新通过即点即用进行管理。
 
 <sup>3</sup>这些套件提供了与业务生产力服务器的不同级别的集成。
 
