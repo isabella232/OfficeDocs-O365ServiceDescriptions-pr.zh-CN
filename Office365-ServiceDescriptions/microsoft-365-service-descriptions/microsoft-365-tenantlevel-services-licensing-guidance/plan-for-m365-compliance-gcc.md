@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: 本指南适用于在美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求（在其中使用 Microsoft）的数据的公司中部署 Office 365 的 IT 专业人员。365政府版-GCC 适用于满足这些要求。
-ms.openlocfilehash: 50649287df37afe20b58f98333a10bc7885b417d
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890467"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319490"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -62,14 +61,14 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 
 **决策点**：*决定是否要修改任何默认的 Microsoft 365 政府-GCC 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc"></a>第 4 步： 了解 Microsoft 365 政府版（GCC）中默认情况下当前不可用或禁用的功能。
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>第 4 步： 了解默认情况下在 Microsoft 365 政府中当前不可用或禁用的功能（GCC<sup>1</sup> ）
 
 为了满足政府云客户的要求，Microsoft 365 政府-GCC 和企业版计划存在一些差异。 请参阅下表以查看哪些功能可用。
 
 |                                         | **功能**                                     | **GCC 状态**         |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **信息保护 & 治理** | 存档                                       | 可用              |
-|                                         | 手动标签和策略                      | 可用              |
+|                                         | 手动标签和策略<sup>2</sup>          | 可用              |
 |                                         | 标签的自动应用                      | 在工程工作积压 |
 |                                         | 基于敏感数据类型的标签            | 在工程工作积压 |
 |                                         | 基于查询的标签和关联策略 | 在工程工作积压 |
@@ -80,9 +79,9 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 处置评审                              | 在工程工作积压 |
 |                                         | 信息屏障                            | 可用              |
 |                                         | 文件和电子邮件的数据丢失防护（DLP）  | 可用              |
-|                                         | 适用于团队聊天和频道对话的 DLP    | 可用              |
+|                                         | 适用于团队聊天和频道对话的 DLP    | 在工程工作积压 |
 | **内幕风险管理**             | 高级邮件加密                     | 可用              |
-|                                         | 通信合规性                        | 在工程工作积压 |
+|                                         | 沟通合规性                        | 在工程工作积压 |
 |                                         | 客户密码箱                                | 可用              |
 |                                         | 客户密钥                                    | 可用              |
 |                                         | 特权访问管理                    | 在工程工作积压 |
@@ -109,5 +108,9 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 审阅和批注                             | 在工程工作积压 |
 |                                         | 非 Office 365 摄取                        | 在工程工作积压 |
 |                                         | 搜索词报告                              | 在工程工作积压 |
+
+<sup>1</sup>标识的状态可能会随着项目计划和优先级的重新评估而发生更改。<br/>
+<sup>2</sup>手动应用标签需要[Azure 信息保护（AIP）客户端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。
+
 
 **决策点**：*决定合规性功能是否满足组织的需求。*

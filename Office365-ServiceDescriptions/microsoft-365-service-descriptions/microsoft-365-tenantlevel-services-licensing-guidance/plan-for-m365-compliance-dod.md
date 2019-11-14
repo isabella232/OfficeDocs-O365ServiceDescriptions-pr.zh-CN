@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，在其中使用 Microsoft 365 政府– DoD 适用于满足这些要求。
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890468"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319480"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>规划 Microsoft 365 合规性-DoD 部署
 
@@ -59,15 +58,15 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 
 **决策点**：*决定是否要修改任何默认的 Microsoft 365 政府-DoD 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>第 4 步： 了解在 Microsoft 365 政府– DoD 中，默认情况下当前不可用或禁用的功能
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>第 4 步： 了解在 Microsoft 365 政府– DoD<sup>1</sup>中默认情况下当前不可用或禁用的功能。
 
 为了满足政府云客户的要求，Microsoft 365 政府 DoD 和企业版计划之间存在一些差异。 请参阅下表以查看哪些功能可用。
 
 
 |         |功能  |DoD 状态  |
 |---------|---------|---------|
-|**信息保护 & 治理** | 存档                                      |  可用             |
-|                                        |手动标签和策略                      |  可用             |
+|**信息保护 & 治理** |存档                                       |  可用             |
+|                                        |手动标签和策略<sup>2</sup>          |  可用             |
 |                                        |标签的自动应用                      | 在工程工作积压 |
 |                                        |基于敏感数据类型的标签            | 在工程工作积压 |
 |                                        |基于查询的标签和关联策略 | 在工程工作积压 |
@@ -80,7 +79,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                        |文件和电子邮件的数据丢失防护（DLP）  | 可用              |
 |                                        |适用于团队聊天和频道对话的 DLP    | 在工程工作积压 |
 |**内幕风险管理**             |高级邮件加密                     | 可用              |
-|                                        |通信合规性                        | 在工程工作积压 |
+|                                        |沟通合规性                        | 在工程工作积压 |
 |                                        |客户密码箱                                | 可用              |
 |                                        |客户密钥                                    | 可用              |
 |                                        |特权访问管理                    | 在工程工作积压 |
@@ -106,5 +105,9 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                        |审阅和批注                             | 在工程工作积压 |
 |                                        |非 Office 365 摄取                        | 在工程工作积压 |
 |                                        |搜索词报告                              | 在工程工作积压 |
+
+<sup>1</sup>标识的状态可能会随着项目计划和优先级的重新评估而发生更改。<br/>
+<sup>2</sup>手动应用标签需要[Azure 信息保护（AIP）客户端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。
+
 
 **决策点**：*决定合规性功能是否满足组织的需求。*

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 （SP2 及更高版本）或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581858"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319470"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -42,7 +42,7 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
 |:-----|:-----|
 |**适用于 Exchange Server 的 Exchange Online Archiving** <br/> |Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 （SP2 或更高版本）中具有主邮箱的用户的基于云的存档。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  <br/> |
 |**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** <br/> |Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 （SP2 或更高版本）中具有主邮箱的用户的基于云的存档。 有关详细信息，请参阅 [授权简介 - 授权 Core CAL Suite 和 Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license)。  <br/> |
-|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 基于云的存档和就地保留作为以下计划<sup>1、2</sup>的外接程序：<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商业协作版  <br/>  Help and training  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F1  <br/> Microsoft 365 商业版 <br/> Microsoft 365 企业版 F1<br/> <b>注意：</b>以下计划已包含存档，不需要作为加载项的 Exchange Online 存档：<br/> Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/> Microsoft 365 企业版 E3 <br/> Microsoft 365 企业版 E5 <br/>有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
+|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 基于云的存档和就地保留作为以下计划<sup>1、2</sup>的外接程序：<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商业协作版  <br/>  Help and training  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F1  <br/> Microsoft 365 企业版 F1<br/> <b>注意：</b>以下计划已包含存档，不需要作为加载项的 Exchange Online 存档：<br/>Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/> Microsoft 365 商业版 <br/>Microsoft 365 企业版 E3 <br/> Microsoft 365 企业版 E5 <br/>有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
    
 >[!NOTE]
 ><sup>1</sup> 仅使用云的组织无需混合部署，此类组织的 Exchange 本地服务器上没有邮箱。 但是，如果存在本地邮箱，则需要配置混合部署。
@@ -80,25 +80,25 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
 |:-----|:-----|:-----|
 |**功能** <br/> |**Exchange Online Archiving for Exchange Server<sup>1</sup>**          <br/> |**Exchange Online Archiving for Exchange Online<sup>2</sup>** <br/> |
 |**[Exchange Online 存档中的存档功能](archive-features.md)** <br/> |||
-|存档邮箱  <br/> |可访问  <br/> |可访问  <br/> |
-|使用存档策略移动邮件  <br/> |可访问  <br/> |可访问  <br/> |
-|将数据导入到存档  <br/> |可访问  <br/> |可访问  <br/> |
-|已删除邮件的恢复  <br/> |可访问  <br/> |可访问  <br/> |
-|已删除邮箱的恢复  <br/> |可访问  <br/> |可访问  <br/> |
-|邮箱备份  <br/> |可访问  <br/> |可访问  <br/> |
+|存档邮箱  <br/> |是  <br/> |是  <br/> |
+|使用存档策略移动邮件  <br/> |是  <br/> |是  <br/> |
+|将数据导入到存档  <br/> |是  <br/> |是  <br/> |
+|已删除邮件的恢复  <br/> |是  <br/> |是  <br/> |
+|已删除邮箱的恢复  <br/> |是  <br/> |是  <br/> |
+|邮箱备份  <br/> |是  <br/> |是  <br/> |
 |**[Exchange Online 存档中的客户端功能](client-features.md)** <br/> |||
-|Outlook<sup>3</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|Outlook 网页版  <br/> |可访问  <br/> |可访问  <br/> |
+|Outlook<sup>3</sup> <br/> |是  <br/> |是  <br/> |
+|Outlook 网页版  <br/> |是  <br/> |是  <br/> |
 |**[Exchange Online 存档中的合规性和安全功能](compliance-and-security-features.md)** <br/> |||
-|保留策略  <br/> |可访问  <br/> |可访问  <br/> |
-|就地保留和诉讼保留<sup>6</sup> <br/> |可访问  <br/> |可访问  <br/> |
-|就地电子数据展示  <br/> |可访问  <br/> |可访问  <br/> |
-|在本地服务器和 Exchange Online Archiving 之间加密  <br/> |可访问  <br/> |可访问  <br/> |
-|在客户端和 Exchange Online Archiving 之间加密  <br/> |可访问  <br/> |可访问  <br/> |
-|加密：S/MIME 和 PGP  <br/> |可访问  <br/> |可访问  <br/> |
+|保留策略  <br/> |是  <br/> |是  <br/> |
+|就地保留和诉讼保留<sup>6</sup> <br/> |是  <br/> |是  <br/> |
+|就地电子数据展示  <br/> |是  <br/> |是  <br/> |
+|在本地服务器和 Exchange Online Archiving 之间加密  <br/> |是  <br/> |是  <br/> |
+|在客户端和 Exchange Online Archiving 之间加密  <br/> |是  <br/> |是  <br/> |
+|加密：S/MIME 和 PGP  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护的 IRM  <br/> |否  <br/> |无<sup>4</sup> <br/> |
 |使用 Windows Server AD RMS 的 IRM  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |
-|审核  <br/> |可访问  <br/> |可访问  <br/> |
+|审核  <br/> |是  <br/> |是  <br/> |
    
 
 <sup>1</sup> 用户邮箱必须位于 Exchange 2010 SP2 或更高版本上。
