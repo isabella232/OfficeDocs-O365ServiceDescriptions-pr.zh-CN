@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734140"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724760"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -82,6 +82,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |通过机器翻译手动转换邮件中心帖子|是|是|是|是|是|是|是|
 |**[Office 365 套件功能](office-365-suite-features.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业级 F1**|
 |Microsoft 预订|否|否|必需|否|否|否|否|
+|Microsoft 简介电子邮件|否|否|必需|否|否|否|否|
 |Microsoft Flow|否|否|否|否|否|否|否|
 |Microsoft Forms|否|否|否|否|否|否|否|
 |Microsoft MyAnalytics|否|否|否|否|否|否|否|
@@ -174,7 +175,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office 365 高级电子数据展示|否|否|否|否|否|否|否|
 |安全功能分数<sup>4</sup>|否|否|否|否|否|否|否|
 |威胁智能|否|否|否|否|否|否|否|
-|**[Compliance](compliance-servicedesc.md)**||||||||
+|**[合规性](compliance-servicedesc.md)**||||||||
 |SAS 70 / SSAE16 评估|否|否|否|否|否|否|否|
 |ISO 27001 认证|是|是|是|是|是|是|是|
 |欧盟模式条款|否|否|否|否|否|否|否|
@@ -194,7 +195,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 
 由世纪互联运营的<sup>1</sup>个 office 365 和 office 365 不提供对其制造商不支持的任何操作系统的支持。<br/>
 <sup>2</sup>在由世纪互联运营的 Office 365 企业级 F1 中，Office 365 视频仅限于查看（无发布或共享）。 <br/>
-<sup>3</sup>如果要将目录同步用于本地 active directory，则必须使用本地 active directory （而不是 Office 365 门户或使用 Windows Azure Active directory 模块）删除帐户或更改密码。PowerShell. <br/>
+<sup>3</sup>如果要对本地 active directory 使用目录同步，则必须使用本地 active directory （而不是 Office 365 门户或使用 Windows PowerShell 的 Azure Active directory 模块）删除帐户或更改密码。 <br/>
 <sup>4</sup>在由世纪互联运营的 Office 365 中尚不可用，但即将可用。 <br/>
 <sup>5</sup>只能有一个包含 office 365 的公共网站，除非您已从 office 365 的早期版本升级。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 有关使用两个网站进行业务订阅的详细信息，请参阅[使用两个 Office 365 公共网站](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)。 如果你有其他订阅，请在[Office 365 公共网站帮助](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)中了解有关公共网站的详细信息。<br/>
 <sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。<br/>
@@ -313,7 +314,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业级 F1**|
-|**[计划和部署](../exchange-online-service-description/planning-and-deployment.md)**||||||||
+|**[规划和部署](../exchange-online-service-description/planning-and-deployment.md)**||||||||
 |支持的混合部署|是<sup>9、10</sup>|是<sup>10</sup>|是<sup>9、10</sup>|是<sup>10</sup>|是<sup>10</sup>|是<sup>10</sup>|是<sup>10</sup>|
 |支持的 IMAP 迁移|是|是|是|是|是|是|是|
 |支持的直接转换迁移|是|是|是|是|是|是|是|
@@ -791,7 +792,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |个人网站|否|否|否|否|否|否|否|
 |照片和状态|否|否|否|否|否|否|否|
 |配置文件|否|否|否|否|否|否|否|
-|评价|否|否|否|否|否|否|否|
+|Ratings|否|否|否|否|否|否|否|
 |Shared with Me|否|否|否|否|否|否|否|
 |[网站源（使用 SharePoint social 的经典团队网站）](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|否|否|否|否|否|否|否|
 |OneDrive for Business|是|是|是|是|是|是|是<sup>2</sup>|

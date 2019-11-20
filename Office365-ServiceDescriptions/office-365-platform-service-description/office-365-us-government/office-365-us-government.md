@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37971718"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724630"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -158,7 +158,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Power BI Pro  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |Project Online  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
 |Visio 网页版  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
-|Yammer Enterprise  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
+|Yammer 企业版  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版、G3 和 G5 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup>不包括在内，但可以作为单独的附加项购买。 Project Online 包括 Project Online 桌面客户端作为订阅的一部分。
@@ -180,6 +180,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |使用 Azure 信息保护保护内容  <br/> |无<sup>1</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup>  <br/> |无<sup>1</sup> <br/> |
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
 |Microsoft 预订  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|Microsoft 简介电子邮件  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Flow  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -266,7 +267,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |可访问 <br/> |是 <br/> |否  <br/> |
 |威胁智能  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
-|**[Compliance](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[合规性](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

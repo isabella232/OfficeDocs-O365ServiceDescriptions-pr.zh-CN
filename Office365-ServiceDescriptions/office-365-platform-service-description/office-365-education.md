@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务&mdash;，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office forweb 和 Microsoft Skype for Business Online&mdash;，可帮助用户通过 internet 随时随地实现工作效率。
-ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
+ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890438"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724640"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
-为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务&mdash;，包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office forweb 和 Microsoft Skype for Business Online&mdash;，可帮助用户通过 internet 随时随地实现工作效率。
+为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
   
 本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
@@ -71,6 +71,7 @@ ms.locfileid: "37890438"
 |使用 Azure 信息保护保护内容  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft 预订  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Microsoft 简介电子邮件<sup>10</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Flow  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -160,7 +161,7 @@ ms.locfileid: "37890438"
 |高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**[Compliance](compliance-servicedesc.md)** <br/> ||||
+|**[合规性](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -188,6 +189,7 @@ ms.locfileid: "37890438"
 <sup>7</sup>美国和西欧（荷兰）地区支持高级电子数据展示。 （来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br>
 <sup>8</sup>有关每个计划中包含的 Microsoft Stream 功能的信息，请参阅[Stream 授权概述](https://stream.microsoft.com/documentation/stream-license-overview/)。<br>
 <sup>9</sup>有关详细信息，请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。<br>
+<sup>10</sup>将简报电子邮件自动提供给 Exchange Online 的所有用户。 有关详细信息，请参阅[Configure The 简报 email](https://docs.microsoft.com/Briefing/be-admin)。<br>
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 安全&amp;合规中心功能
 
@@ -284,7 +286,7 @@ ms.locfileid: "37890438"
 > [!NOTE]
 > <sup>1</sup> WINDOWS SERVER AD RMS 是一台本地服务器，必须单独购买并管理，才能启用受支持的 IRM 功能。 <br/> 
 <sup>2</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync 基本功能的详细信息，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
-<sup>3</sup>有些学校适用于教育版，其中包括 Office 365 专业增强版，并允许学生、教职员工和员工在最多5台电脑或 Mac 计算机以及其他移动设备（包括 Windows 平板电脑）和其他移动设备上安装最新版本的 Office，包括 Windows 平板电脑和版. 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/> 
+<sup>3</sup>有些学校适用于教育版，其中包括 Office 365 专业增强版，并允许学生、教职员工和员工在最多5台电脑或 Mac 计算机以及其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/> 
 <sup>4</sup>将包含适用于 web 版本的 Office。 有关详细信息，请参阅[Office for web 功能](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Office for web 功能
@@ -313,7 +315,7 @@ ms.locfileid: "37890438"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[计划和部署](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
+|**[规划和部署](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |支持的混合部署  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |支持的 IMAP 迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |支持的直接转换迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1287,7 +1289,7 @@ Skype for Business Online 中的限制分为以下几类：
 |团队呼叫组中的人员  <br/> |word  <br/> |word  <br/> |word  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>如果 Skype for business 会议中的参与者数量超过75个参与者，则会议名单中的参与者列表（演示者和与会者）将被截断，以便单个与会者仅看到演示者和个人与会者自己的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
+> <sup>1</sup>如果 Skype for business 会议中的参与者数量超过75个参与者，则会议名单中的参与者列表（演示者和与会者）将被截断，以便单个与会者仅看到演示者和各个与会者自己的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
   
 #### <a name="meeting-retention-limits"></a>会议保留限制
 
@@ -1301,7 +1303,7 @@ Skype for Business Online 中的限制分为以下几类：
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|会议内容保留期：单次会议  <br/> |15 天  <br/> |15 天   <br/> |15 天  <br/> |
+|会议内容保留期：单次会议  <br/> |15 天   <br/> |15 天   <br/> |15 天  <br/> |
 |会议内容保留期：定期会议  <br/> |15 天  <br/> |15 天   <br/> |15 天  <br/> |
 |会议内容保留期：立即碰头会议  <br/> |8 小时   <br/> |8 小时   <br/> |8 小时  <br/> |
 |会议过期：单次会议  <br/> |14 天  <br/> |14 天  <br/> |14 天  <br/> |

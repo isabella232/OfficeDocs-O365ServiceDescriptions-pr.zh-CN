@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 20a80d2c02155fa0f648d5027028ebe173bce020
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633443"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724750"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -36,7 +36,7 @@ ms.locfileid: "37633443"
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Exchange online、SharePoint online 和 OneDrive for](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)business<sup>7、9</sup>的数据丢失防护<br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
+|[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[敏感度标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 <br/>| 否 <br/> | 否 <br/>| 可访问 <br/>| 是 <br/>| 否 <br/> |
 |[信息屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/>|
 |[数据调控](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -76,7 +76,7 @@ ms.locfileid: "37633443"
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[信息屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[数据调控](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据管理](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |

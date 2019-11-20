@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过为数字工作提供业界一流的工作效率服务，从德国数据中心（包含数据派驻服务）中为我们提供业界一流的工作效率服务，帮助您满足德国最受管控客户的需求，以及欧盟（EU）和欧洲自由贸易协会（EFTA）。在德国，通过采用德国法律管辖的唯一数据受信者模型严格的数据访问和控制措施。
-ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911801"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724690"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -77,6 +77,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |使用 Azure 信息保护保护内容|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|无<sup>2</sup>|否|否|无<sup>2</sup>|
 |**[Office 365 套件功能](office-365-suite-features.md)**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
 |Microsoft 预订|否|否|否|否|否|否|否|否|
+|Microsoft 简介电子邮件|否|否|否|否|否|否|否|否|
 |Microsoft Flow|否|否|否|否|否|否|否|否|
 |Microsoft Forms|否|否|否|否|否|否|否|否|
 |Microsoft MyAnalytics|否|否|否|否|否|否|否|否|

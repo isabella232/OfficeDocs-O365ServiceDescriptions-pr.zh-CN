@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业版是适用于中小型企业客户的 Microsoft 一流产品。 Microsoft 365 商业版是一个集成的解决方案，可将 Office 365 的工作效率、高级安全性和设备管理结合在一起。
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289782"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724660"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
@@ -148,6 +148,7 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 |**Compliance** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 | 是 | 是 |
 |   | 高级电子数据展示、客户密码箱、高级数据管理 | 否 | 否 | 否 | 可访问 |
 |**分析** | Power BI Pro，MyAnalytics | 否 | 否 | 否 | 可访问 |
+|**Assistance** | 简报电子邮件 | 是 | 是 | 是 | 是 |
 |**音量** | PSTN 会议，云 PBX | 否 | 否 | 否 | 可访问 |
 
 **注释**

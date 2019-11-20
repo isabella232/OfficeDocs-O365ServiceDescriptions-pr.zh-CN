@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911705"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724730"
 ---
 # <a name="office-365-suite-features"></a>Office 365 套件功能
 
@@ -28,7 +28,17 @@ ms.locfileid: "37911705"
 Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客户提供约会相关服务。这类企业包括发廊、牙科诊所、温泉疗养中心、律师事务所、金融服务提供商、咨询服务提供商和汽车店。拥有 Office 365 商业高级版订阅的美国和加拿大客户可以使用 Microsoft Bookings。 
   
 有关 Microsoft Bookings 的详细信息，请转到 [Say hello to Microsoft Bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)（Microsoft Bookings，你好）
-  
+
+## <a name="microsoft-briefing-email"></a>Microsoft 简介电子邮件
+
+本简报电子邮件可帮助用户通过以下方式来进行日常工作：
+
+* 通过显示相关任务或相关文档准备会议。
+* 管理可能挂起的电子邮件中标识的任务。
+* 通过在 "日历" 和 "静音" 通知上预定时间来充分利用焦点。
+
+将简介电子邮件自动提供给 Exchange Online 的所有用户。 若要了解详细信息，请参阅[简介电子邮件概述](https://docs.microsoft.com/Briefing/be-overview)。
+
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
 Microsoft Flow 允许自动执行跨应用程序的工作流。可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。模板可作入门之用。要了解有关 Flow 功能及如何使用它们的详细信息，请访问 Microsoft [Flow 网站](https://flow.microsoft.com/en-us/)。
@@ -87,7 +97,7 @@ Office 365 视频是全公司范围内的安全目标，可供跨设备上载、
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序，它为 Microsoft 365 提供了独特的功能，并能够在组织的目录内和外部的人员之间进行连接和接洽（包括合同工作人员、供应商合作伙伴、供应商、客户和公民–使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)。 Kaizala 的开放目录模型支持基于电话号码的标识，以便于进行轻松加入，并提供了简单的用户体验，用于邮件和工作管理。 Kaizala 移动应用程序允许用户发送即时消息和附件（如图片、文档、视频、audios 等），以及使用用于调查、轮询、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，适用于 IPhone 和 Android。 若要了解详细信息，请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
+Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序，它为 Microsoft 365 提供了独特的功能，并能够在组织的目录内和外部（包括合同工作人员、供应商、合作伙伴、供应商、客户和公民）使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)连接和接洽用户。 Kaizala 的开放目录模型支持基于电话号码的标识，以便于进行轻松加入，并提供了简单的用户体验，用于邮件和工作管理。 Kaizala 移动应用程序允许用户发送即时消息和附件（如图片、文档、视频、audios 等），以及使用用于调查、轮询、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，适用于 IPhone 和 Android。 若要了解详细信息，请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
   
 ## <a name="feature-availability"></a>功能可用性
 
