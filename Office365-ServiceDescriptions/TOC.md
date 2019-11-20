@@ -79,6 +79,7 @@
 ## [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online 功能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [电子邮件服务说明简介](briefing-service-description.md)
 ## [工作区分析服务说明](workplace-analytics-service-description.md)
 ## [MyAnalytics 服务说明](mya-service-description.md)
 ## [Power BI 服务说明](power-bi-service-description.md)
