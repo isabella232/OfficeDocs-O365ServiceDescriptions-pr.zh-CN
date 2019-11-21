@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业版是适用于中小型企业客户的 Microsoft 一流产品。 Microsoft 365 商业版是一个集成的解决方案，可将 Office 365 的工作效率、高级安全性和设备管理结合在一起。
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724660"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755470"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
@@ -29,11 +29,11 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 |**可用的许可证** | 最大用户数 | 300  | 300  |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商业版 | 商业版 |
 |**电子邮件 & 日历** | Outlook、Exchange Online| 50 GB | 50 GB |
-|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 |是 |
+|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 可访问 |可访问 |
 |**文件存储** | OneDrive for Business  | 每个用户 1 TB | 每个用户 1 TB |
-|**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online、PowerApps、Microsoft Flow | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;预订<sup>1</sup> | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>1</sup> | 是 | 是 |
+|**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online、PowerApps、Microsoft Flow | 可访问 | 可访问 |
+|**业务应用程序** | 计划应用&ndash;预订<sup>1</sup> | 可访问 | 可访问 |
+|   | 业务应用&ndash;程序 MileIQ<sup>1</sup> | 可访问 | 可访问 |
 |**威胁防护** | Office 365 高级威胁防护 | 否 | 可访问 |
 |   | Windows 入侵防护强制实施 | 否 | 可访问  |
 |**身份管理** | 混合 Azure Active Directory 帐户的自助服务密码重置 | 否 | 可访问 |
@@ -60,23 +60,23 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 |**可用的许可证** | 最大用户数 | 无限制 | 300 |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 专业增强版 | 商业版 |
 |**电子邮件 & 日历** | Outlook、Exchange Online | 100 GB | 50 GB |
-|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 | 是 |
+|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 可访问 | 可访问 |
 |**文件存储** | OneDrive for Business | 无限制 | 每个用户 1 TB |
-|**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Microsoft Flow<sup>1</sup> | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;程序预订<sup>2</sup> | 是 | 是 |
+|**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Microsoft Flow<sup>1</sup> | 可访问 | 可访问 |
+|**业务应用程序** | 计划应用&ndash;程序预订<sup>2</sup> | 可访问 | 可访问 |
 |   | 业务应用&ndash;程序 MileIQ<sup>2</sup> | 否 | 可访问 |
 |**威胁防护** | Office 365 高级威胁防护 | 否 | 可访问 |
 |   | Windows 入侵防护强制实施 | 否 | 可访问 |
 |**身份管理** | 混合 Azure Active Directory 帐户的自助服务密码重置 | 否 | 可访问 |
 |   | Azure 多因素身份验证、条件访问策略 | 否  | 可访问 |
 |**设备 & 应用程序管理** | Microsoft Intune、Windows AutoPilot、Windows Pro 管理 | 否 | 可访问 |
-|   | 共享计算机激活 | 是 | 是 |
+|   | 共享计算机激活 | 可访问 | 可访问 |
 |   | 对 Windows 10 专业版的升级权限，适用于 Win 7/8.1 专业版 | 否 | 可访问 |
 |   | Windows 虚拟桌面 | 否 | 可访问 |
-|**信息保护** | Office 365 数据丢失防护 | 是 | 是 |
+|**信息保护** | Office 365 数据丢失防护 | 可访问 | 可访问 |
 |   | Azure 信息保护计划1，BitLocker 强制 | 否 | 可访问 |
-|**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype） | 是 | 否 |
-|**Compliance** | 无限制的电子邮件存档<sup>3</sup> | 是 | 是 |
+|**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype） | 可访问 | 否 |
+|**Compliance** | 无限制的电子邮件存档<sup>3</sup> | 可访问 | 可访问 |
 
 **注释**
 
@@ -93,23 +93,23 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 |**可用的许可证** | 最大用户数 | 300 | 300 | 无限制 |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商业版 | 商业版 | 专业增强版 |
 |**电子邮件 & 日历** | Outlook、Exchange Online  | 50 GB | 50 GB | 100 GB |
-|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 | 是 | 是 |
+|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 可访问 | 可访问 | 可访问 |
 |**文件存储** | OneDrive for Business | 每个用户 1 TB | 每个用户 1 TB | 无限制 |
-|**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Microsoft Flow<sup>1</sup> | 是 | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;程序预订<sup>2</sup> | 是 | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>2</sup> | 是 | 是 | 否 |
+|**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Microsoft Flow<sup>1</sup> | 可访问 | 可访问 | 可访问 |
+|**业务应用程序** | 计划应用&ndash;程序预订<sup>2</sup> | 可访问 | 可访问 | 可访问 |
+|   | 业务应用&ndash;程序 MileIQ<sup>2</sup> | 可访问 | 可访问 | 否 |
 |**威胁防护** | Office 365 高级威胁防护 | 否 | 必需 | 否 |
 |   | Windows 入侵防护强制实施 | 否 | 必需 | 否 |
 |**身份管理** | 混合 Azure Active Directory 帐户的自助服务密码重置 | 否 | 必需 | 否 |
 |   | Azure 多因素身份验证、条件访问策略 | 否 | 必需 | 否 |
 |**设备 & 应用程序管理** | Microsoft Intune、Windows AutoPilot、Windows Pro 管理 | 否 | 必需 | 否 |
-|   | 共享计算机激活 | 否 | 可访问 | 是 |
+|   | 共享计算机激活 | 否 | 可访问 | 可访问 |
 |   | 对 Windows 10 专业版的升级权限，适用于 Win 7/8.1 Pro 许可证 | 否 | 必需 | 否 |
 |   | Windows 虚拟桌面 | 否 | 必需 | 否 |
-|**信息保护**  | Office 365 数据丢失防护 | 否 | 可访问 | 是 |
+|**信息保护**  | Office 365 数据丢失防护 | 否 | 可访问 | 可访问 |
 |   | Azure 信息保护计划1，BitLocker 强制 | 否 | 必需 | 否 |
 |**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype） | 否 | 否 | 可访问 |
-|**Compliance** | 无限制的电子邮件存档<sup>3</sup> | 否 | 可访问 | 是 |
+|**Compliance** | 无限制的电子邮件存档<sup>3</sup> | 否 | 可访问 | 可访问 |
 
 **注释**
 
@@ -126,29 +126,30 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 |**可用的许可证** | 最大用户数 | 300 | 300 | 无限制 | 无限制 |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商业版 | 商业版 | 专业增强版 | 专业增强版 |
 |**电子邮件 & 日历** | Outlook、Exchange Online | 50 GB | 50 GB | 不限制 | 不限制 |
-|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 | 是 | 是 | 是 |
+|**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 可访问 | 可访问 | 可访问 | 可访问 |
 |**文件存储** | OneDrive for Business | 每个用户 1 TB | 每个用户 1 TB | 不限制 | 不限制 |
-|**社交、视频、网站** | Yammer、SharePoint Online、Planner | 是 | 是 | 是 | 是 |
-|   | Stream | | 是 | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;预订<sup>1</sup> | 是 | 是 | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
-|**威胁防护** | Microsoft 高级威胁分析、设备防护、Credential Guard、AppLocker、企业数据保护 | 否 | 否 | 可访问 | 是 |
+|**社交、视频、网站** | Yammer、SharePoint Online、Planner | 可访问 | 可访问 | 可访问 | 可访问 |
+|   | Stream | | 可访问 | 可访问 | 可访问 |
+|**业务应用程序** | 计划应用&ndash;预订<sup>1</sup> | 可访问 | 可访问 | 可访问 | 可访问 |
+|   | 业务应用&ndash;程序 MileIQ<sup>1</sup> | 可访问 | 可访问 | 否 | 否 |
+|**威胁防护** | Microsoft 高级威胁分析、设备防护、Credential Guard、AppLocker、企业数据保护 | 否 | 否 | 可访问 | 可访问 |
 |   | Office 365 高级威胁防护 | 否 | 必需 | 否 | 可访问 |
 |   | Windows Defender 高级威胁防护 | 否 | 否 | 否 | 可访问 |
 |   | Office 365 Threat Intelligence | 否 | 否  | 否 | 可访问 |
-|**身份管理** | 混合 Azure Active Directory 帐户、Azure MFA、条件访问的自助服务密码重置   | 否 | 可访问 | 是 | 是 |
-|   | Azure AD：云应用发现，Azure AD Connect Health，SSO 适用于10个以上的应用程序 | 否 | 否 | 可访问 | 是 |
+|**身份管理** | 混合 Azure Active Directory 帐户、Azure MFA、条件访问的自助服务密码重置   | 否 | 可访问 | 可访问 | 可访问 |
+|   | Azure AD：云应用发现，Azure AD Connect Health，SSO 适用于10个以上的应用程序 | 否 | 否 | 可访问 | 可访问 |
 |   | Azure Active Directory 计划2 | 否 | 否 | 否 | 可访问 |
-|**设备 & 应用程序管理** | Microsoft Intune、Windows AutoPilot | 否 | 可访问 | 是 | 是 |
-|   | 共享计算机激活，Windows 虚拟桌面 | 否 | 可访问 | 是 | 是 |
-|   | Microsoft 桌面优化包，VDA | 否 | 否 | 可访问 | 是 |
-| **信息保护** | Office 365 数据丢失防护，Azure 信息保护计划1 | 否 | 可访问 | 是 | 是 |
+|**设备 & 应用程序管理** | Microsoft Intune、Windows AutoPilot | 否 | 可访问 | 可访问 | 可访问 |
+|   | 共享计算机激活，Windows 虚拟桌面 | 否 | 可访问 | 可访问 | 可访问 |
+|   | Microsoft 桌面优化包，VDA | 否 | 否 | 可访问 | 可访问 |
+| **信息保护** | Office 365 数据丢失防护，Azure 信息保护计划1 | 否 | 可访问 | 可访问 | 可访问 |
 |   | Azure 信息保护计划2，Microsoft 云应用安全性，Office 365 云应用安全 | 否 | 否 | 否 | 可访问 |
-|**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype、Windows、SCCM、Windows 权限管理） | 否 | 否 | 可访问 | 是 |
-|**Compliance** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 | 是 | 是 |
+|**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype、Windows、SCCM、Windows 权限管理） | 否 | 否 | 可访问 | 可访问 |
+|**Compliance** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 | 可访问 | 可访问 |
 |   | 高级电子数据展示、客户密码箱、高级数据管理 | 否 | 否 | 否 | 可访问 |
 |**分析** | Power BI Pro，MyAnalytics | 否 | 否 | 否 | 可访问 |
-|**Assistance** | 简报电子邮件 | 是 | 是 | 是 | 是 |
+| | 通过 MyAnalytics 的见解 | 可访问 | 可访问 | 可访问 | 可访问 |
+|**Assistance** | 简报电子邮件 | 可访问 | 可访问 | 可访问 | 可访问 |
 |**音量** | PSTN 会议，云 PBX | 否 | 否 | 否 | 可访问 |
 
 **注释**
@@ -161,14 +162,14 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 
 | **应用** | **Office 365 商业版** | **Office 365 专业增强版** |
 |------------------|-------------------------|------------------------|
-| Word             | 是                     | 是                    |
-| Excel            | 是                     | 是                    |
-| PowerPoint       | 是                     | 是                    |
-| OneNote          | 是                     | 是                    |
-| Outlook          | 是                     | 是                    |
-| Publisher        | 是                     | 是                    |
-| Access           | 是                     | 是                    |
-| Microsoft Teams  | 是                     | 是                    |
+| Word             | 可访问                     | 可访问                    |
+| Excel            | 可访问                     | 可访问                    |
+| PowerPoint       | 可访问                     | 可访问                    |
+| OneNote          | 可访问                     | 可访问                    |
+| Outlook          | 可访问                     | 可访问                    |
+| Publisher        | 可访问                     | 可访问                    |
+| Access           | 可访问                     | 可访问                    |
+| Microsoft Teams  | 可访问                     | 可访问                    |
 | **津贴价值**                             | **Office 365 商业版** | **Office 365 专业增强版** |
 | 批量激活                             | 否                      | 否                     |
 | 组策略<sup>1</sup>                      | 否                      | 可访问                    |
@@ -183,19 +184,19 @@ Microsoft 365 商业版是适用于中小型企业（SMB）客户的 Microsoft �
 | 创建 IRM<sup>3</sup>                        | 是<sup>7</sup>        | 是                    |
 | 数据丢失防护<sup>3</sup>              | 是<sup>7</sup>        | 是<sup>5</sup>        |
 | **云值**                  | **Office 365 商业版** | **Office 365 专业增强版** |
-| 组                           | 是                     | 是                    |
-| Office 部署工具           | 是                     | 是                    |
-| 漫游文档 & 设置     | 是                     | 是                    |
-| 1 TB OneDrive for Business       | 是                     | 是                    |
+| 组                           | 可访问                     | 可访问                    |
+| Office 部署工具           | 可访问                     | 可访问                    |
+| 漫游文档 & 设置     | 可访问                     | 可访问                    |
+| 1 TB OneDrive for Business       | 可访问                     | 可访问                    |
 | **许可**                                   | **Office 365 商业版** | **Office 365 专业增强版** |
 | 许可模型                                 | 每个用户                | 每个用户               |
 | 许可证类型                                    | 订阅            | 订阅           |
-| 电脑/Mac 安装<sup>6</sup>                     | 5                       | 5                      |
-| iOS/Android 智能手机安装<sup>6</sup>     | 5                       | 5                      |
-| 平板电脑安装<sup>6</sup>                     | 5                       | 5                      |
-| Office RT 商业版权限                     | 是                     | 是                    |
-| Office Online/web 应用                          | 是                     | 是                    |
-| 商业使用权限                           | 是                     | 是                    |
+| 电脑/Mac 安装<sup>6</sup>                     | 5                        | 5                      |
+| iOS/Android 智能手机安装<sup>6</sup>     | 5                        | 5                      |
+| 平板电脑安装<sup>6</sup>                     | 5                        | 5                      |
+| Office RT 商业版权限                     | 可访问                     | 可访问                    |
+| Office Online/web 应用                          | 可访问                     | 可访问                    |
+| 商业使用权限                           | 可访问                     | 可访问                    |
 
 **注释**
 

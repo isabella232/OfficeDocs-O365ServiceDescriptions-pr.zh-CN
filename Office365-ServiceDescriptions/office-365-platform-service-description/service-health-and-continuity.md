@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态，并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911788"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752711"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -49,7 +49,7 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 |**2019 年** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
-| 99.97% <br/> | 99.97% <br/> |  <br/> |  <br/> |
+| 99.97% <br/> | 99.97% <br/> | 99.98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Office 365 的 "服务运行状况" 部分显示了服务的当前状态以及�
 
 ### <a name="office-365-admin-app"></a>Office 365 Admin App
 
-Office 365 租户管理员的管理员应用程序使你能够在旅途中与组织的 Office 365 服务状态进行连接。 Office 365 租户管理员将能够从其移动设备查看服务运行状况信息和维护状态更新。 有关详细信息，请参阅 [Admin App FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)（管理应用程序 FAQ）。
+Office 365 租户管理员的管理员应用程序使你能够在旅途中与组织的 Office 365 服务状态进行连接。 Office 365 租户管理员将能够从其移动设备查看服务运行状况信息和维护状态更新。 有关详细信息，请访问[管理应用常见问题解答](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide)。
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
