@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582008"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262715"
 ---
 # <a name="sharing-and-collaboration"></a>共享和协作
 
 ## <a name="federated-sharing"></a>联合共享
 
-联合身份验证是指支持联合共享的基础信任基础结构、Microsoft Exchange Online 用户与其他外部联盟组织或中的收件人共享忙/闲日历数据和联系人信息的方法具有 internet 访问权限的用户。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online 管理员可以使用户能够从 Microsoft Outlook 在 web 或 Microsoft Outlook 2010 或更高版本上发送日历共享邀请。
+联合身份验证是指支持联合共享的基础信任基础结构、Microsoft Exchange Online 用户与其他外部联盟组织中的收件人或具有 internet 访问权限的用户共享忙/闲日历数据和联系人信息的方法。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online 管理员可以使用户能够从 Microsoft Outlook 在 web 或 Microsoft Outlook 2010 或更高版本上发送日历共享邀请。
   
 > [!IMPORTANT]
 >  外部 Exchange 2010 和 Exchange 2013 组织必须将使用 Microsoft 联合身份验证网关的联合身份验证信任作为配置联合共享的一部分加以配置。 由于创建 Office 365 租户时，系统将自动创建使用 Microsoft 联合身份验证网关的联合身份验证信任，因此，Exchange Online 组织无需再配置。 
@@ -46,7 +46,7 @@ ms.locfileid: "37582008"
   
 ## <a name="public-folders"></a>公用文件夹
 
-Exchange Online 中的公用文件夹已进行了改进，可利用邮箱数据库现有的高可用性和存储技术。 公用文件夹体系结构使用专门设计的邮箱来存储层次结构和公用文件夹内容。 这也意味着单独的公用文件夹数据库已不存在。 公用文件夹复制现在使用连续复制模型。 层次结构和内容邮箱的高可用性由数据中心的数据库可用性组 (DAG) 提供。 在 Exchange Online 中，限制为1000公用文件夹邮箱。 每个公用文件夹邮箱还具有最大存储大小。 有关详细信息，请参阅 [Exchange Online 限制](exchange-online-limits.md) 中的"邮箱文件夹限制"一节。 公用文件夹邮箱的邮件、收件人和容量警报限制与普通邮箱相同。 有关详细信息，请参阅 [收件人](recipients.md)。 
+Exchange Online 中的公用文件夹已进行了改进，可利用邮箱数据库现有的高可用性和存储技术。 公用文件夹体系结构使用专门设计的邮箱来存储层次结构和公用文件夹内容。 这也意味着单独的公用文件夹数据库已不存在。 公用文件夹复制现在使用连续复制模型。 层次结构和内容邮箱的高可用性由数据中心的数据库可用性组 (DAG) 提供。 在 Exchange Online 中，限制为1000公用文件夹邮箱。 每个公用文件夹邮箱还具有最大存储大小。 有关详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)中的 "邮箱文件夹限制" 部分。 公用文件夹邮箱的邮件、收件人和容量警报限制与普通邮箱相同。 有关详细信息，请参阅 [收件人](recipients.md)。 
   
 有关公用文件夹的详细信息，请参阅[公用文件夹](https://go.microsoft.com/fwlink/p/?LinkId=271790)。
   

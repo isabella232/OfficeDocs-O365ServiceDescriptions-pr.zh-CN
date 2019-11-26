@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft Office 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: 2a653ad8a56da4f2d601e7f56180f564b29336bd
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631601"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263496"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
@@ -211,4 +211,4 @@ PowerPoint for web 在全屏幕窗口中播放幻灯片放映。 按下空格键
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 Web 服务说明的 office](office-online-service-description.md)。 
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。 

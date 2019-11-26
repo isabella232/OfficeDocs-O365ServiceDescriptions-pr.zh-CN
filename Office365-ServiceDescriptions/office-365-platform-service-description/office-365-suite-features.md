@@ -1,5 +1,5 @@
 ---
-title: Office 365 套件功能
+title: Office 365 suite features
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724730"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263123"
 ---
-# <a name="office-365-suite-features"></a>Office 365 套件功能
+# <a name="office-365-suite-features"></a>Office 365 suite features
 
 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
   
@@ -101,6 +101,6 @@ Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序，�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   
 

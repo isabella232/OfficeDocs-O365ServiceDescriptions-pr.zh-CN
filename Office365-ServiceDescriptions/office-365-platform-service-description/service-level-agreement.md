@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 9dfa0f5b1e7ade5a957d8acb83dc0658077c5cdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: cd9b8aad786cb23a4b6ad4dfdae64e2be5c28dc7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581358"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262413"
 ---
 # <a name="service-level-agreement"></a>服务级别协议
 
@@ -35,5 +35,5 @@ ms.locfileid: "37581358"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   

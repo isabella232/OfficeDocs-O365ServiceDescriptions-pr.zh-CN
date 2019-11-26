@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Project Online 中提供了以下项目管理功能。
-ms.openlocfilehash: 6693e6046ed02df6820c6f9e817702452314ad07
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 48fe2dd921cdda7d85dbbe138577a4a880e72488
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631563"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263426"
 ---
 # <a name="project-management"></a>项目管理
 
 Project Online 中提供了以下项目管理功能。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="issues-and-risk-management"></a>问题和风险管理
 

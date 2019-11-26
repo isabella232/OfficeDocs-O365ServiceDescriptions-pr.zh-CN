@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 063565b3aa2e6cd7a315ebd252bb5de327493c33
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595261"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263536"
 ---
 ---
 
@@ -52,9 +52,9 @@ Microsoft 365 政府专为满足美国政府机构在四个关键领域的合规
 |||
 |:----------|:----------------------------------|:---------|
 |**扩大** <br/> |**承诺** <br/> |
-|Microsoft 365 政府版 GCC  <br/> |FedRamp 中等、CJIS、IRS 1075、DISA SRG L2  <br/> |可访问  <br/> |
-|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |可访问  <br/> |
-|Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |可访问  <br/> |
+|Microsoft 365 政府版 GCC  <br/> |FedRamp 中等、CJIS、IRS 1075、DISA SRG L2  <br/> |是  <br/> |
+|Microsoft 365 政府版 GCC 高  <br/> |FedRamp High、ITAR、DFARS、DOD SRG L4 控件 <br/> |是  <br/> |
+|Microsoft 365 政府 DoD  <br/> |DISA SRG L5  <br/> |是  <br/> |
 
 有关 Microsoft 安全性和合规性资格鉴定的详细信息，请访问[Microsoft 信任中心](https://www.microsoft.com/trustcenter/default.aspx)  
 

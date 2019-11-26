@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: 许多移动电话、平板电脑和其他移动设备可与 Microsoft Office 365 结合使用。
-ms.openlocfilehash: 24e243ea29648330a49f4de23f2b7afbf7c69f7a
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: fa168b8074c86dde99cf761986d0a2df3ca35ffd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523373"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262905"
 ---
 # <a name="mobile-devices-sd"></a>移动设备 [SD]
 
@@ -31,6 +31,6 @@ ms.locfileid: "37523373"
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   
 

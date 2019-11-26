@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Archiving 服务说明
+title: Exchange Online 存档服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 （SP2 及更高版本）或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319470"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260517"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
+# <a name="exchange-online-archiving-service-description"></a>Exchange Online 存档服务说明
 
 Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 （SP2 及更高版本）或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
   
-作为一种 Microsoft Office 365 在线服务，Exchange Online Archiving 旨在满足强安全性、可靠性和用户工作效率需求。有关 Office 365（包括所有 Office 365 在线服务的常见功能）的详细信息，请参阅 [Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。
+作为一种 Microsoft Office 365 在线服务，Exchange Online Archiving 旨在满足强安全性、可靠性和用户工作效率需求。 有关 Office 365 的详细信息，包括所有 Office 365 online services 通用的功能，请参阅[Office 365 platform 服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。
   
 若要购买 Exchange Online Archiving，请参阅 [Exchange Online Archiving](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)。
   
 若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 > [!TIP]
-> 您可以导出、保存以及打印 Office 365 服务说明中的页面。了解如何[导出多个页面](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
+> 您可以在 Office 365 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
   
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online Archiving 计划
 
@@ -49,7 +49,7 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
 <br/>
 <sup>2</sup> Exchange Online 计划 1 和 Office 365 商业版计划具有 [邮箱和存档大小限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)。 Exchange Online Archiving for Exchange Online 附加项可提供无限制且基于云的存档和[就地保留和诉讼保留](compliance-and-security-features.md#in-place-hold-and-litigation-hold)功能。
   
-寻找有关所有 Office 365 计划的信息？Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
+寻找有关所有 Office 365 计划的信息？ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
 ## <a name="requirements"></a>Requirements
 

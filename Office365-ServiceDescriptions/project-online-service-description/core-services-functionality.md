@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online 中提供了以下 core services 功能功能。
-ms.openlocfilehash: 14081671a3539e9fa73f049eae0ced9f80568c21
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633864"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263446"
 ---
 # <a name="core-services-functionality"></a>核心服务功能
 
 Project Online 中提供了以下 core services 功能功能。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 

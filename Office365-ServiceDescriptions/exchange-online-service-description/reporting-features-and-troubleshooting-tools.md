@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online 提供了 Exchange 管理中心（EAC）的各种报告功能。
-ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581988"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262705"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>报告功能和疑难解答工具
 
@@ -33,7 +33,7 @@ Microsoft 365 管理中心中的 "报告" 页面上有报告，其中提供了�
   
 此外，Microsoft 365 管理中心中的 "报告" 页面包含邮件数据报告，其中提供了有关邮件流量、垃圾邮件和恶意软件检测以及受 Exchange 传输规则或数据丢失防护（DLP）影响的邮件的信息。策略. 有关保护、规则和 DLP 的增强报告为 Exchange Online 管理员提供了交互式报告体验。 这些报告提供了摘要数据，以及深入了解各个邮件详细信息的功能。
   
-若要详细了解每个 Office 365 订阅的可用报告，请参阅[报告](../office-365-platform-service-description/reports.md)。 有关 Microsoft 365 管理中心中的 "报告" 页面的更多详细信息，请参阅[查看和下载有关 office 365 中服务使用情况的报告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用 office 365 中的邮件保护报告查看有关恶意软件、垃圾邮件和规则检测的数据](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+若要详细了解每个 Office 365 订阅的可用报告，请参阅[报告](../office-365-platform-service-description/reports.md)。 有关 Microsoft 365 管理中心中的 "报告" 页面的更多详细信息，请参阅[查看和下载有关 office 365 中服务使用情况的报告](https://go.microsoft.com/fwlink/p/?LinkId=401187)和[使用 office 365 中的邮件保护报告查看有关恶意软件、垃圾邮件和规则检测的数据](https://go.microsoft.com/fwlink/p/?LinkID=401102)。
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>使用 Excel 报告工作簿进行报告
 

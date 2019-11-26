@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？ 请参阅 Skype for Business 许可概述。
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733743"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263266"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
 
@@ -40,13 +40,13 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 若要了解 Skype for Business Online 中的新增功能，请参阅[浏览 Skype for Business](https://go.microsoft.com/fwlink/?linkid=529224) 和 [Skype for Business 的新增功能](https://go.microsoft.com/fwlink/?linkid=846973)。
   
 > [!TIP]
-> 您可以导出、保存以及打印 Office 365 服务说明中的页面。了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
+> 您可以在 Office 365 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>跨 Office 365 计划比较 Skype for Business Online 功能
 
 建议使用我们简单的比较页面来选择 Skype for Business Online 的版本。 请参阅[比较 Skype 会议计划](https://go.microsoft.com/fwlink/?linkid=798291)。 如果需要更深入的比较，请查看下列功能表。 如果需要此方面的其他帮助，请致电[支持人员](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support)。 可以从下拉列表中选择区域设置，获取本地号码。
   
-若要查看所有 Office 365 计划，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。请参阅 [Office 365 计划选项](https://go.microsoft.com/fwlink/?linkid=846972)，了解详细的比较信息。
+若要查看所有 Office 365 计划，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。 有关更详细的比较，请参阅[Office 365 计划选项](https://go.microsoft.com/fwlink/?linkid=846972)。
   
  若要跨 Skype for Business 桌面和 Web 客户端比较它们各自的功能，请参阅 [Skype for Business Online 的客户端比较表](https://go.microsoft.com/fwlink/?linkid=829754)。有关 Skype for Business 移动客户端的详细比较，请参阅[移动客户端比较表](https://go.microsoft.com/fwlink/?linkid=846932)。
   
@@ -237,29 +237,29 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 |AOL 和 Yahoo! 联合身份验证  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |临时和计划音频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|临时会议和计划视频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|活动扬声器视频  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|H-p 编码和解码  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|多方视频  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|高清晰度视频或所有与会者的图片  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|演示者控件  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|参与者选择的视图  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|OneNote 共享  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|临时和计划 web 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|通过经认证的音频会议提供商（ACP）进行电话拨入式音频会议  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|PowerPoint 共享  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|白板和批注  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|PowerPoint 上传  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|轮询  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|临时会议和计划视频会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|活动扬声器视频  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|H-p 编码和解码  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|多方视频  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|高清晰度视频或所有与会者的图片  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|演示者控件  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|参与者选择的视图  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|OneNote 共享  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|临时和计划 web 会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|通过经认证的音频会议提供商（ACP）进行电话拨入式音频会议  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|PowerPoint 共享  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|白板和批注  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|PowerPoint 上传  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|轮询  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |客户端录制和播放  <br/> |是  <br/> |否  <br/> |是<sup>1</sup> <br/> |
 |服务器端录制和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|会议厅  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|使用 Skype for Business Web 应用对 Skype for business 会议的来宾访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|代表他人在 Outlook 中安排 Skype for Business 会议（委派）  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|使用 Web 计划程序安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|在 Outlook 网页网站中安排联机会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|用于安排会议的 Outlook 委派  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|会议厅  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|使用 Skype for Business Web 应用对 Skype for business 会议的来宾访问  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|代表他人在 Outlook 中安排 Skype for Business 会议（委派）  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|使用 Web 计划程序安排 Skype for Business 会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|在 Outlook 网页网站中安排联机会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
+|用于安排会议的 Outlook 委派  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |从 Outlook 创建具有静态会议 ID 的公开会议  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |**[安全保护和归档](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |IM 和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |

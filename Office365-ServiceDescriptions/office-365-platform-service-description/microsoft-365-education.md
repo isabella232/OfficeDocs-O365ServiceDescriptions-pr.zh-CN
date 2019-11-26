@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 9fa0a7676df034deb61fb30971a7d1924854ca36
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890398"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263023"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。 
   
-Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365，以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较 Office 365 功能，请参阅[比较 office 365 For business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。 若要搜索支持文章和信息，请参阅[Office 帮助和培训](https://support.office.com/)。
+Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365，以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较 Office 365 功能，请参阅[比较 office 365 For business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。 若要搜索支持文章和信息，请参阅[Office &amp;帮助培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 

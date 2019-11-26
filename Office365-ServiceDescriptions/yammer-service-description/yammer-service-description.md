@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911825"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263133"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -28,7 +28,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 > [!TIP]
-> 您可以导出、保存以及打印 Office 365 服务说明中的页面。了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
+> 您可以在 Office 365 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
   
 ## <a name="system-requirements"></a>系统要求
 
@@ -44,7 +44,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |具有高级安全性、管理和集成的企业社交网络。  <br/> |
    
 > [!NOTE]
-> [Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md) 中介绍的功能和策略不适用于 Yammer 服务。 
+> [Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)中所述的功能和策略不适用于 Yammer 服务。 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 服务通信策略
 <a name="YammerCommsPolicy"> </a>

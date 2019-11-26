@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供了以下核心功能功能。
-ms.openlocfilehash: a9b5667875214409896d7e1bd42c275961c1f84c
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631562"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263456"
 ---
 # <a name="core-functionality"></a>核心功能
 
 Project Online 中提供了以下核心功能功能。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>添加列
 
@@ -103,6 +103,6 @@ Project 2013 为您启动项目提供了一个一站式中心，而不是让您�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online Service Description](project-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online service description](project-online-service-description.md)。
   
 

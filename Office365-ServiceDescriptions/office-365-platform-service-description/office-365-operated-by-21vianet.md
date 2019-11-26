@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724760"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263063"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -56,7 +56,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 
 <sup>1</sup>包括 Office 365 管理、Office 365 套件应用程序、用户帐户管理、域、服务运行状况和连续性、报告、服务更新、帮助和培训、网络等功能。 有关详细信息，请参阅[平台功能](office-365-operated-by-21vianet.md#platform-features)表。
 <br/><sup>2</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 A1 计划中。
-<br/><sup>3</sup>可免费获取 web 使用率（视图功能）的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
+<br/><sup>3</sup>可免费获取 web 使用率（视图功能）的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
 
 ## <a name="system-requirements"></a>系统要求
 
@@ -175,7 +175,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |Office 365 高级电子数据展示|否|否|否|否|否|否|否|
 |安全功能分数<sup>4</sup>|否|否|否|否|否|否|否|
 |威胁智能|否|否|否|否|否|否|否|
-|**[合规性](compliance-servicedesc.md)**||||||||
+|**[Compliance](compliance-servicedesc.md)**||||||||
 |SAS 70 / SSAE16 评估|否|否|否|否|否|否|否|
 |ISO 27001 认证|是|是|是|是|是|是|是|
 |欧盟模式条款|否|否|否|否|否|否|否|
@@ -280,7 +280,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>7</sup> Office 365 专业增强版在用户专用的虚拟桌面基础结构（VDI）上受支持。 只有当通过批量许可计划购买时，Office 365 ProPlus 才支持远程桌面服务 (RDS)。
 <br/><sup>8</sup>只能批量激活在启用了 RDS 角色或安装了 Windows To Go 的 Windows Server 2008 R2 及更高版本上安装的 Office 365 企业版 E3和 Office 365 ProPlus。 无论属于上述哪种情况，访问这些安装的用户必须是 Office 365 企业版 E3 或 Office 365 ProPlus 的许可用户。
 <br/><sup>9</sup>如果使用的是当前频道或延期频道的目标发布，当前可以使用 Access。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅 [Access included as part of Office 365 Business and Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)（Access 包括在 Office 365 商业版和商业高级版中）。
-<br/><sup>10</sup>个适用于 web 的 Visio 当前处于由世纪互联运营的 Office 365 的预览中。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
+<br/><sup>10</sup>个适用于 web 的 Visio 当前处于由世纪互联运营的 Office 365 的预览中。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
 <br/><sup>11</sup>即将在由世纪互联运营的 Office 365 中推出。
 <br/><sup>15</sup>个 Google services （包括 "Play 商店"）在中国不可访问。 有几个应用商店由主要电话制造商或搜索引擎公司维护，用户可从中安装移动应用。
 
@@ -460,7 +460,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 > - 应用于 Microsoft Office 365 组织的限制可能因组织已在服务中登记的时间长度而异。 当某个限制在 Microsoft 数据中心中更改时，可能需要一段时间才能将更改应用于所有现有客户。
 > - 虽然您无法修改其中大多数限制，但您和您的用户应了解它们。
 > - 这些限制适用于内部收件人和外部收件人。
-> - 默认情况下，Exchange Online Protection （EOP）保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。
+> - 默认情况下，Exchange Online Protection （EOP）保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅[Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection 功能
 
@@ -819,7 +819,7 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 <br/><sup>11</sup>展台帐户具有有限的 OneDrive for business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB or 5 TB of online storage.
 <br/><sup>12</sup>您可以在任何移动浏览器中查看文档。 You need to install the Office Mobile app to edit documents. Office Mobile is currently available for Windows phones and tablets, Android phones and tablets, iPhone, and iPad.
 <br/><sup>13</sup>帮助仅适用于简体中文和英语。
-<br/><sup>14</sup>个适用于 web 使用率（视图功能）的 Visio 免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
+<br/><sup>14</sup>个适用于 web 使用率（视图功能）的 Visio 免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
 <br/><sup>15</sup> K1 用户可以在混合设置中访问 SharePoint Server，但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
@@ -1136,10 +1136,10 @@ The Office 365 Security &amp; Compliance Center is not available in any plans fo
 |[管理、部署和扩展性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|无<sup>2</sup>|是|是|否|可访问|
 |[入门](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|可访问|
 |[问题和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|可访问|
-|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不适用|N/A|
+|[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不适用|不适用|
 |[PPM 合作伙伴生态系统](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|可访问|
-|[服务可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|N/A|N/A|
-|[服务更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|N/A|不适用|
+|[服务可靠性](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不适用|不适用|
+|[服务更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不适用|不适用|
 |[团队成员协作](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|是|否|可访问|
 |[时间和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|是|否|可访问|
 |**项目管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|

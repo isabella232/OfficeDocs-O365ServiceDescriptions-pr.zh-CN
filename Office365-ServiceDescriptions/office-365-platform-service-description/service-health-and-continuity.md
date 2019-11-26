@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 管理员可以查看服务的状态，并确定何时安排了维护。 服务运行状况信息可随时登录 Office 365。
-ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
-ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
+ms.openlocfilehash: 4707d3eb79072e28e82aa565f50f6d0cf5d3c05c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38752711"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262473"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -153,5 +153,5 @@ Office 365 开发和运营团队由专门的 Office 365 支持组织提供补充
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 Platform 服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform 服务说明](office-365-platform-service-description.md)。
   
