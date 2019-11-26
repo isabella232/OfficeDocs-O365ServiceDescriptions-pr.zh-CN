@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下 SharePoint 功能支持 IT 专业人员保护并管理其组织的 SharePoint 环境。
-ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c8a6f6075ed6b184be7d7deefde74d2bde13d750
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726215"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263326"
 ---
 # <a name="it-professional"></a>IT 专业人士
 
@@ -99,7 +99,7 @@ SharePoint 管理中心仅适用于某些 SharePoint Online 客户，允许管�
     
 - InfoPath 表单
     
-- 用户配置文件
+- 用户个人资料
     
 - Business Connectivity Service (BCS)
     

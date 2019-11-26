@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外，SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890408"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263306"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
 
@@ -46,13 +46,13 @@ Microsoft 管理的 SharePoint Online 服务（如网站集配额、文件上载
   
 ## <a name="subscription-options"></a>订阅选项
 
-Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
+Office 365 推出了各种计划，旨在最大限度地满足组织需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
 访问 SharePoint Online 的每个人必须分配有 Office 365 计划或 SharePoint Online 计划 1 或 SharePoint Online 计划 2 独立服务。 但是，Firstline 计划并不作为独立的产品销售，而是作为 Firstline 订阅的一部分进行销售，如 SharePoint Online Firstline。 由于 Firstline 工作人员不能是管理员，因此具有 Firstline 工作人员的租户要求至少有一个企业管理员来管理 SharePoint。 Firstline 工作人员将不会看到 SharePoint 导航菜单，因此 Firstline 工作人员必须通过 URL 直接导航到 SharePoint 网站。
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
-OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网盘。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要查看在 Office for web 中包含哪些功能包含在 OneDrive for business 中，请参阅[onedrive For Business 服务说明](../onedrive-for-business-service-description.md)。
+OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网盘。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要查看在 Office for web 中包含哪些功能包含在 OneDrive for business 中，请参阅[onedrive For business 服务说明](../onedrive-for-business-service-description.md)。
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online 企业版外部用户
 
@@ -105,16 +105,16 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |[主机标头网站集](it-professional.md#host-header-site-collections) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[Office 365 移动设备管理](it-professional.md#mobile-device-management-for-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是  <br/> |是  <br/> |
-|[修补程序管理](it-professional.md#patch-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
+|[修补程序管理](it-professional.md#patch-management) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[配额模板](it-professional.md#quota-templates) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[只读数据库支持](it-professional.md#read-only-database-support) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[远程 BLOB 存储](it-professional.md#remote-blob-storage) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[请求管理](it-professional.md#request-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[资源限制](it-professional.md#resource-throttling) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
+|[只读数据库支持](it-professional.md#read-only-database-support) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
+|[远程 BLOB 存储](it-professional.md#remote-blob-storage) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
+|[请求管理](it-professional.md#request-management) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
+|[资源限制](it-professional.md#resource-throttling) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[服务应用程序平台](it-professional.md#service-application-platform) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[SharePoint 运行状况分析器](it-professional.md#sharepoint-health-analyzer) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[SharePoint 管理中心（Office 365）](it-professional.md#sharepoint-admin-center-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>4</sup> <br/> |N/A  <br/> |不适用  <br/> |
-|SharePoint 管理中心  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
+|[SharePoint 管理中心（Office 365）](it-professional.md#sharepoint-admin-center-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>4</sup> <br/> |不适用  <br/> |不适用  <br/> |
+|SharePoint 管理中心  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
 |[网站集合规性策略](it-professional.md#site-collection-compliance-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[使用率报告和日志记录](it-professional.md#usage-reporting-and-logging) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Windows PowerShell 支持](it-professional.md#windows-powershell-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -202,7 +202,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 |搜索 Web 部件  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |["此列表"搜索](search.md#this-list-searches) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**站点功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|通信站点  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+|通信网站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |[社区](social.md#community) <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[公司订阅源](social.md#company-feed) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[跨浏览器支持](sites-servicedesc.md#cross-browser-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -252,7 +252,7 @@ OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网
 <sup>14</sup> 不支持 Access 2010。 <br/> 
 <sup>15</sup>对于 web Office，F1 用户应该有权访问用于创建内容的 web （live 磁贴）的 office。 但是，他们对于核心商业移动应用相关的访问受到限制。 具体包括：Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint 和 Groups。 **不**包括以下内容： Outlook、Word、Excel、PowerPoint 和 OneNote。<br/> 
 <sup>16</sup>只能在 Infopath 富客户端中使用包含用户代码（沙盒）的 InfoPath 表单。 <br/>
-<sup>17</sup>适用于 web 使用率的 Visio （视图功能）免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。  <br/>
+<sup>17</sup>适用于 web 使用率的 Visio （视图功能）免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。  <br/>
 <sup>18</sup> F1 用户可以在混合设置中访问 SharePoint Server，但 Office 365 F1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 <br/>
 <sup>19</sup>在 Office 365 企业版 E5 中提供了 "客户密钥"。 通过 "客户密钥"，可以控制组织的加密密钥，然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据，这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务，因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>20</sup>即将推出。 

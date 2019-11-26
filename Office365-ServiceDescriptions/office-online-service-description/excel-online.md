@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020259"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261913"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -102,7 +102,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-您可以剪切、复制和粘贴文本、数字、公式、形状、图表和图像。 如果列中有需要旋转以在行中重新排列的数据，请使用 "**粘贴**" 菜单上的 "**转置**" 功能。
+您可以剪切、复制和粘贴文本、超链接、数字、公式、形状、图表和图像。 如果列中有需要旋转以在行中重新排列的数据，请使用 "**粘贴**" 菜单上的 "**转置**" 功能。 有关详细信息，请参阅[在 Excel for web 中复制和粘贴](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -284,7 +284,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 是否想要自己的工作簿副本？使用"文件"选项卡上的"另存为"命令，或右键单击其文件夹中的工作簿名称，使用"下载"命令将副本发送到您的计算机。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 
 单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[如何使用 office for web 在 office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   
@@ -342,4 +342,4 @@ Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 Web 服务说明的 office](office-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。

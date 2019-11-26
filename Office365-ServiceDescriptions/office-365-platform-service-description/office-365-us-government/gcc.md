@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890418"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262533"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -23,9 +23,9 @@ ms.locfileid: "37890418"
   
 若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/government/compare-office-365-government-plans)页面。 
   
-## <a name="how-to-use-this-service-description-section"></a>如何使用本服务说明部分
+## <a name="how-to-use-this-service-description-section"></a>"如何使用此服务说明" 部分
 
-Office 365 美国政府版 服务说明旨在作为常规 Office 365 服务说明的整体进行说明。它定义了唯一承诺以及与 Office 365 企业版产品的差异。
+Office 365 美国政府版服务说明旨在用作常规 Office 365 服务说明的覆盖。 它定义了唯一承诺以及与 Office 365 企业版产品的差异。
   
 ## <a name="us-government-community-compliance"></a>美国政府社区版合规性
 
@@ -59,7 +59,7 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
 
 虽然 Yammer Enterprise 不是 Office 365 美国政府版 的组件，但是 Office 365 美国政府版 E1 和 E3 计划许可的每个用户都可以将其作为独立产品免费获取。根据企业协议和企业订阅协议购买 Office 365 美国政府版 的客户当前不能享有此项优惠。 
   
-目前，Yammer 提供应用层的客户数据逻辑隔离。然而，Yammer 不提供与 Office 365 美国政府版 相同的数据位置和数据访问权限功能，不支持 FedRAMP 资格鉴定，并受 Office 365 服务的不同合同条款的约束。我们建议你在为组织评估 Yammer 的相应使用情况时，查看 [Yammer 服务说明](../../yammer-service-description/yammer-service-description.md) 和隐私条款。若要了解哪些 Office 365 政府版计划包括 Yammer，请参阅 [Office 365 美国政府版](office-365-us-government.md)。
+目前，Yammer 提供应用层的客户数据逻辑隔离。 然而，Yammer 不提供与 Office 365 美国政府版 相同的数据位置和数据访问权限功能，不支持 FedRAMP 资格鉴定，并受 Office 365 服务的不同合同条款的约束。 建议您在评估您的组织的 Yammer 的适当使用情况时，查看[yammer 服务说明](../../yammer-service-description/yammer-service-description.md)和隐私条款。 若要了解哪些 Office 365 政府版计划包括 Yammer，请参阅 [Office 365 美国政府版](office-365-us-government.md)。
   
 如果您确定使用 Yammer 适合您的组织将其作为 Office 365 美国政府版订阅的一部分，并且您已购买上面提到的包含 Yammer 的计划，在您的企业许可登记表下，您可以请求修正，以启用您的 Yammer Enterprise 订阅。
   

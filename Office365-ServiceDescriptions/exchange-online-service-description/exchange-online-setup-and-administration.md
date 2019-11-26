@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本文介绍可用于自定义 Exchange Online 设置并将组织的 Exchange Online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581978"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262605"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 
@@ -74,7 +74,7 @@ Exchange Online 支持与 Exchange Server 2013 相同的 ActiveSync 移动设备
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online 的邮件跟踪功能
 
-以下主题描述了通过"送达报告"功能跟踪的邮件：[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md).
+通过送达报告功能进行邮件跟踪在以下主题中进行了介绍：[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)。
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online 的使用情况报告功能
 
@@ -92,7 +92,7 @@ Exchange Online 支持与 Exchange Server 2013 相同的 ActiveSync 移动设备
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online 的审核功能
 
-以下主题介绍了审核日志记录功能：[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md).
+以下主题中介绍了审核日志记录功能：[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)。
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online 的服务和产品升级
 

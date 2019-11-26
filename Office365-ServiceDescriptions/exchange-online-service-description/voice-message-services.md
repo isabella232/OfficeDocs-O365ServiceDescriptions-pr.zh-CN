@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581428"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262685"
 ---
 # <a name="voice-message-services"></a>语音邮件服务
 
@@ -76,7 +76,7 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
   
 ## <a name="skype-for-business-integration"></a>Skype for Business 集成
 
-组织可以将 Skype for Business Online 作为独立服务或 Microsoft Office 365 的一部分进行购买。 此外，还支持 Skype for Business 2015 内部部署。 若要详细了解 Skype for Business Online，请参阅 [Skype for Business Online 服务说明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
+组织可以将 Skype for Business Online 作为独立服务或 Microsoft Office 365 的一部分进行购买。 此外，还支持 Skype for Business 2015 内部部署。 若要了解有关 Skype for Business Online 的详细信息，请参阅[skype For Business online 服务说明](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

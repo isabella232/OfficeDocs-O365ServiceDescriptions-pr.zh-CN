@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过为数字工作提供业界一流的工作效率服务，从德国数据中心（包含数据派驻服务）中为我们提供业界一流的工作效率服务，帮助您满足德国最受管控客户的需求，以及欧盟（EU）和欧洲自由贸易协会（EFTA）。在德国，通过采用德国法律管辖的唯一数据受信者模型严格的数据访问和控制措施。
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724690"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263053"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -32,7 +32,7 @@ Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**服务**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
-|Office 365 平台 <sup>1</sup>|是|是|是|是|是|是|是|是|
+|Office 365 平台<sup>1</sup>|是|是|是|是|是|是|是|是|
 |Exchange Online|是|否|可访问|是|是|是|是|是|
 |SharePoint Online|是|否|可访问|是|是|是|是|是|
 |OneDrive for Business|是|是|是|是|是|是|是|否|
@@ -42,14 +42,14 @@ Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选
 |Project Online <sup>3</sup>|否|否|否|否|否|否|否|否|
 |Power BI <sup>3</sup>|否|否|否|否|否|否|否|否|
 |适用于 web 的 Visio <sup>4</sup>|是|是|是|是|是|是|是|是|
-|Yammer Enterprise|不适用|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
+|Yammer Enterprise|不适用|不适用|不适用|不适用|不适用|不适用|不适用|不适用|
 |Azure 信息保护|否|否|否|否|否|否|否|否|
 
 > [!NOTE]
 > <sup>1</sup>基于云的订阅服务，包括可在其中设置用户和域的 Microsoft 365 管理中心的相关功能。 <br/>
 <sup>2</sup> 可以分别购买 Office 365 ProPlus 计划。 Office 365 Germany 企业版 E3 和 Office 365 Germany 企业版 E4 中包含 Office 365 ProPlus。 必须启用 [现代身份验证](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)并与 Office 365 Germany 配合使用。 <br/>
 <sup>3</sup> 虽然 Project Online 和 Power BI 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 Germany 教育版 A1 计划中。 <br/>
-<sup>4</sup>可免费获取 web 使用率（视图功能）的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
+<sup>4</sup>可免费获取 web 使用率（视图功能）的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
 
 ## <a name="system-requirements"></a>系统要求
 
@@ -783,7 +783,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 > <sup>1</sup> Azure 信息保护不包括在内，但可以作为单独的外接顺序购买，以启用受支持的 IRM 功能。<br/>
 <sup>2</sup>Office 和 SharePoint 应用商店是由 Microsoft Corporation 或其关联公司从 Microsoft 的任意全球设施中运营的可选服务。 应用商店中可用的应用由各种应用发布者提供，并且受应用发布者的条款和条件以及隐私声明的约束。 你使用任何这些应用都可能会导致你的数据被传送到该应用发布者及其关联公司或服务提供商维护其设施的任何国家/地区，或者在其中存储或处理你的数据。 特定应用和付款方式的可用性取决于你的地区和服务。 请先仔细查看应用发布者的条款和条件以及隐私声明，然后下载和使用此类应用。<br/>
 <sup>3</sup> 尚不适用于 Windows 手机。<br/>
-<sup>4</sup>可免费获取 web 使用率（视图功能）的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
+<sup>4</sup>可免费获取 web 使用率（视图功能）的 Visio。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
 
 ## <a name="project-online-features"></a>Project Online 功能
 
@@ -1056,7 +1056,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>14</sup> Organization community website is available, but public community-provided help is not available.<br/>
 <sup>15</sup> Access 2010 is not supported.<br/> <sup>16</sup> Kiosk users cannot create Office documents using live tiles. 若要创建文档，kiosk 用户必须从 SharePoint Online 网站执行此操作，方法是选择 "**新建**"，然后从 "**创建新文件**" 菜单中选择 "Word 文档"、"excel 工作簿"、"PowerPoint 演示文稿"、"OneNote 笔记本" 或 "excel 调查"。 <br/>
 <sup>17</sup> 包含用户代码（沙盒）的 InfoPath Forms 只能在 InfoPath 富客户端中使用。<br/>
-<sup>18</sup>适用于 web 使用率的 Visio （视图功能）免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。<br/>
+<sup>18</sup>适用于 web 使用率的 Visio （视图功能）免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。<br/>
 <sup>19</sup> K1 用户可以在混合设置中访问 SharePoint Server，但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
@@ -1202,4 +1202,4 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 ## <a name="visio-for-the-web-features"></a>Visio for web 功能
 
-适用于 web 的 Visio 适用于 Office 365 德国。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[Web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。
+适用于 web 的 Visio 适用于 Office 365 德国。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。

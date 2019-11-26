@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724630"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262523"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -267,7 +267,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |可访问 <br/> |是 <br/> |否  <br/> |
 |威胁智能  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
-|**[合规性](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[Compliance](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本节介绍了可用于 Microsoft Exchange Online Protection （EOP）管理员的管理界面。
-ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581461"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260717"
 ---
 # <a name="administration-and-managementeop"></a>管理和管理 [EOP]
 
 本节介绍了可用于 Microsoft Exchange Online Protection （EOP）管理员的管理界面。
   
-要查找有关 EOP 所有功能的信息吗？ 请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+要查找有关 EOP 所有功能的信息吗？ 请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>访问 Microsoft 365 管理中心
 

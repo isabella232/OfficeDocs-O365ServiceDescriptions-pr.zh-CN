@@ -1,5 +1,5 @@
 ---
-title: Visio 网页版服务说明
+title: 适用于 web 服务说明的 Visio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 对于 web Visio，您可以在 web 上查看、编辑和共享 Visio 图表。
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700234"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263225"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio 网页版服务说明
+# <a name="visio-for-the-web-service-description"></a>适用于 web 服务说明的 Visio
 
 对于 web Visio，您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始，以表达常见想法，如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和富形状集创建第一类图表非常简单且容易。 Visio for web 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
   

@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911715"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262725"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>收件人
 
 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。这包括电子邮件、联系人、通讯组、日历和日程安排功能。
   
@@ -34,7 +34,7 @@ ms.locfileid: "37911715"
 
 对用户可用的邮箱存储量和默认邮箱大小由邮箱类型和用户的订阅许可证确定。管理员可以减小每位用户或全局的最大邮箱大小。Exchange Online 还在用户的邮箱接近或达到最大容量时提供通知。
   
-有关详细信息，请参阅 [Exchange Online 限制](exchange-online-limits.md)主题中的"邮箱存储限制"和"容量警报"部分。
+有关详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)主题中的 "邮箱存储限制" 和 "容量警报" 部分。
   
 ### <a name="mailtips"></a>邮件提示
 

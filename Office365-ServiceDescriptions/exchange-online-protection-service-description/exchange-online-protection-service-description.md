@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划的列表，以及这些计划之间的功能比较。
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700224"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260917"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -29,7 +29,7 @@ Microsoft Exchange Online Protection (EOP) 是基于云的电子邮件筛选服�
 
 - **在独立方案中**： EOP 为您的本地电子邮件环境（Exchange Server 或其他内部部署 SMTP 电子邮件解决方案）提供基于云的电子邮件保护。
 
-- **作为 Microsoft Exchange online 的一部分**：默认情况下，EOP 保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅 [Exchange Online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)。
+- **作为 Microsoft Exchange online 的一部分**：默认情况下，EOP 保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅[Exchange online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)。
 
 - **在混合部署中**：当您有本地和云邮箱的混合时，可以将 EOP 配置为保护您的邮件环境并控制邮件路由。
 
@@ -75,7 +75,7 @@ EOP 可与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一�
 
 ## <a name="limits"></a>限制
 
-有关 EOP 中的限制，请参阅 [Exchange Online Protection 限制](exchange-online-protection-limits.md)。
+有关 EOP 中的限制，请参阅[Exchange Online Protection 限制](exchange-online-protection-limits.md)。
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>跨 Exchange Online Protection (EOP) 计划的功能可用性
 

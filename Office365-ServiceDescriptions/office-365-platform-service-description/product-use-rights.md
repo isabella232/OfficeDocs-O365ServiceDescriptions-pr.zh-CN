@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: bb5ce750365056dc88beee31f627fa7c569849e1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734069"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262493"
 ---
 # <a name="product-use-rights"></a>产品使用权限
 
@@ -34,6 +34,6 @@ ms.locfileid: "37734069"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   
 

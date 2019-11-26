@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Office 365 门户以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Office 365 支持选项。
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582188"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262213"
 ---
 # <a name="support"></a>支持
 
@@ -31,7 +31,7 @@ O365 技术支持团队仅解决与 Office 365 相关的问题。源自客户网
   
 ## <a name="community-and-self-service-support-options"></a>社区和自助服务支持选项
 
-自助服务支持适用于所有 Office 365 计划，支持包括 [Office 365 社区](https://go.microsoft.com/fwlink/p/?LinkID=279811)中疑难解答工具与视频、帮助文章与视频以及论坛和 wiki。有关自助服务支持资源的详细信息，请参阅 [帮助和培训](help-and-training.md) 服务说明。
+自助服务支持适用于所有 Office 365 计划，支持包括 [Office 365 社区](https://go.microsoft.com/fwlink/p/?LinkID=279811)中疑难解答工具与视频、帮助文章与视频以及论坛和 wiki。 有关自助服务支持资源的详细信息，请参阅[帮助和培训](help-and-training.md)服务说明。
   
 ## <a name="pre-sales-support"></a>售前支持
 
@@ -201,4 +201,4 @@ People with Office 365 administrator roles are the only ones in the customer's o
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。

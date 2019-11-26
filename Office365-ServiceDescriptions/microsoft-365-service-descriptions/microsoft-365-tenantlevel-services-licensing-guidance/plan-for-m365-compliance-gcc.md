@@ -1,5 +1,5 @@
 ---
-title: 规划 Microsoft 365 合规性-GCC
+title: Microsoft 365 合规性计划 - GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求（在其中使用 Microsoft）的数据的公司中部署 Office 365 的 IT 专业人员。365政府版-GCC 适用于满足这些要求。
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319490"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262815"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -69,18 +69,23 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **信息保护 & 治理** | 存档                                       | 可用              |
 |                                         | 手动标签和策略<sup>2</sup>          | 可用              |
-|                                         | 标签的自动应用                      | 在工程工作积压 |
+|                                         | 标签的自动应用                      | 可用              |
 |                                         | 基于敏感数据类型的标签            | 在工程工作积压 |
-|                                         | 基于查询的标签和关联策略 | 在工程工作积压 |
-|                                         | 文件计划                                       | 在工程工作积压 |
+|                                         | 基于查询的标签和关联策略 | 可用              |
+|                                         | 文件计划                                       | 可用              |
 |                                         | 推荐的策略                            | 在工程工作积压 |
 |                                         | 智能导入筛选器                            | 在工程工作积压 |
-|                                         | 基于事件的保留                           | 在工程工作积压 |
-|                                         | 处置评审                              | 在工程工作积压 |
+|                                         | 基于事件的保留                           | 可用              |
+|                                         | 处置评审                              | 可用              |
 |                                         | 信息屏障                            | 可用              |
 |                                         | 文件和电子邮件的数据丢失防护（DLP）  | 可用              |
 |                                         | 适用于团队聊天和频道对话的 DLP    | 在工程工作积压 |
+|                                         | DLP 精确数据匹配                            | 在工程工作积压 |
+|                                         | 标签活动资源管理器                         | 在工程工作积压 |
+|                                         | Trainable 类元                           | 在工程工作积压 |
+|                                         | 统一的标签和敏感度标签         | 在工程工作积压 |
 | **内幕风险管理**             | 高级邮件加密                     | 可用              |
+|                                         | 内幕风险管理                         | 在工程工作积压 |
 |                                         | 沟通合规性                        | 在工程工作积压 |
 |                                         | 客户密码箱                                | 可用              |
 |                                         | 客户密钥                                    | 可用              |

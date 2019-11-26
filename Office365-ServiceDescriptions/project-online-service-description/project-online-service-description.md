@@ -1,5 +1,5 @@
 ---
-title: Microsoft 项目服务说明
+title: Microsoft Project 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765633"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263416"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
+# <a name="microsoft-project-service-description"></a>Microsoft Project 服务说明
 
 ## <a name="overview"></a>概述
 
@@ -152,7 +152,7 @@ Microsoft Project 可通过三种不同的订阅使用，以最大限度地满�
 |时间表审批 | 工作组成员可以提交时间表以供审批。 资源经理和主管可以审阅、批准和拒绝已提交的时间表。 | 是 | 是 |
 |非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | 否 | 可访问 |
 |**协作** ||||
-|附件 | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
+|Attachments | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予用户查看和交互项目、任务和文档的访问权限，可与组织外部的人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档的中心。 | 是 | 是 |
 Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</sup> | 是 | 是 |

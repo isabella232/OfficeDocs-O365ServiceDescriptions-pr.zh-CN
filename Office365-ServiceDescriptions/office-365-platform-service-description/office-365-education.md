@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724640"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263033"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -23,7 +23,7 @@ ms.locfileid: "38724640"
   
 本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
-若要搜索支持文章和信息，请参阅[Office 帮助和培训](https://support.office.com/)。
+若要搜索支持文章和信息，请参阅[Office &amp;帮助培训](https://support.office.com/)。
   
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
@@ -161,7 +161,7 @@ ms.locfileid: "38724640"
 |高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**[合规性](compliance-servicedesc.md)** <br/> ||||
+|**[Compliance](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -472,7 +472,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 >  - 应用于 Microsoft Office 365 组织的限制可能因组织已在服务中注册的时间长度而异。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 
 >  - 虽然您无法修改其中大多数限制，但您和您的用户应了解它们。 
 > - 这些限制适用于内部收件人和外部收件人。 
-> - 默认情况下，Exchange Online Protection （EOP）保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
+> - 默认情况下，Exchange Online Protection （EOP）保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅[Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 
 >  - 有关 Office 365 组限制的信息，请参阅 "如何管理我的组？" [了解 Office 365 组](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)中的“如何管理我的组？”。 
   
 #### <a name="address-book-limits"></a>通讯簿限制
@@ -671,7 +671,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
    
 #### <a name="reporting-and-message-trace-limits"></a>报告和邮件跟踪限制
 
-有关报告和邮件跟踪限制，请参阅 [Exchange Online Protection 中的报告和邮件跟踪](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)中的"报告和邮件跟踪数据可用性和延迟"部分。
+有关报告和邮件跟踪限制，请参阅[Exchange Online Protection 中的报告和邮件跟踪](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection)中的 "报告和邮件跟踪数据可用性和延迟" 部分。
   
 #### <a name="retention-limits"></a>保留限制
 
@@ -709,7 +709,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
 |限制向大型通讯组发送邮件  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |
 |大型通讯组的最大邮件大小  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|通讯组所有者的最大数量  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|通讯组所有者的最大数量  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |用户可创建的组的最大数目  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -817,7 +817,7 @@ SharePoint Online 随附 OneDrive for Business。 若要了解 SharePoint Online
   
 ### <a name="subscription-plans"></a>订阅计划
 
-OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看计划中提供的功能，请参阅[OneDrive For Business 服务说明](../onedrive-for-business-service-description.md)。
+OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看计划中提供的功能，请参阅[OneDrive For business 服务说明](../onedrive-for-business-service-description.md)。
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online 功能
 

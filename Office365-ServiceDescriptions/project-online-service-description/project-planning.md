@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: 以下项目计划功能在 Project Online 中可用。
-ms.openlocfilehash: 3db03307450ef29a6bddc055cea8df845b648f87
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631581"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263406"
 ---
 # <a name="project-planning"></a>项目计划
 
 以下项目计划功能在 Project Online 中可用。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="baseline-rollup"></a>基线汇总
 
@@ -63,5 +63,5 @@ ms.locfileid: "37631581"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online Service Description](project-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online service description](project-online-service-description.md)。
   

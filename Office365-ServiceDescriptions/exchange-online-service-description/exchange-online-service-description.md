@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否在寻找包括 Exchange Online 在内的 Office 365 订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701358"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262765"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -37,10 +37,10 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
   
 那些已订阅 Exchange Online 的组织仍可有效控制自身为用户提供的消息服务，但免去了内部服务器软件的运营负担。 利用本文档中描述的 Exchange Online 托管计划，电子邮件将托管在同时支持多个客户的服务器上。 这些服务器驻留在 Microsoft 数据中心中，用户可从企业网络或 internet 上的各种设备访问这些服务器。
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。若要比较 Office 365 Germany 计划，请参阅 [Office 365 Germany 订阅计划](https://go.microsoft.com/fwlink/?linkid=839016)。
+若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。 若要比较 Office 365 Germany 计划，请参阅 [Office 365 Germany 订阅计划](https://go.microsoft.com/fwlink/?linkid=839016)。
   
 > [!TIP]
-> 您可以导出、保存以及打印 Office 365 服务说明中的页面。了解如何[导出多个页面](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
+> 您可以在 Office 365 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。 
   
 ## <a name="whats-new-in-exchange-online"></a>Exchange Online 新增功能
 
@@ -48,7 +48,7 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
   
 ## <a name="office-365-plans-for-exchange-online"></a>Exchange Online 的 Office 365 计划
 
-Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
+Office 365 推出了各种计划，旨在最大限度地满足组织需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
 每位访问 Exchange Online 服务的用户均必须分配一个订阅计划，且每个用户订阅均具有自身的邮箱。这些邮箱中的文件夹和邮件均位于 Microsoft 数据中心内运行 Exchange Server 的计算机上。
   
@@ -60,7 +60,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Exchange Online 的存储和收件人限制
 
-有关 Exchange Online 订阅计划中可用的存储和收件人限制的信息，请参阅[Exchange Online 限制](exchange-online-limits.md)。
+有关 Exchange Online 订阅计划中可用的存储和收件人限制的信息，请参阅[Exchange online 限制](exchange-online-limits.md)。
   
 ## <a name="feature-availability-across-office-365-plans"></a>跨 Office 365 计划的功能可用性
 
@@ -68,7 +68,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
   
 |**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[计划和部署](planning-and-deployment.md)**|||||||||
+|**[规划和部署](planning-and-deployment.md)**|||||||||
 |支持的混合部署|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是<sup>16</sup>|
 |支持的 IMAP 迁移|是|是|是|是|是|是|是|是|
 |支持的直接转换迁移|是|是|是|是|是|是|是|是|
@@ -203,7 +203,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 
 |**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**[计划和部署](planning-and-deployment.md)**||||||
+|**[规划和部署](planning-and-deployment.md)**||||||
 |支持的混合部署|是|是|是|是|是<sup>23</sup>|
 |支持的 IMAP 迁移|是|是|是|是|是|
 |支持的直接转换迁移|是|是|是|是|是|
@@ -267,7 +267,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |Web 服务报告|否|否|可访问|是|是|
 |Message trace|No|可访问|是|是|是 <sup>8</sup>|
 |审核报告|是|是|是|是|是 <sup>8</sup>|
-|统一消息报告|是|是|No|必需|否|
+|统一消息报告|是|是|否|必需|否|
 |**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |联合共享|是|是|是|是|是|
 |网站邮箱|是<sup>3</sup>|是 <sup>3</sup>|是 <sup>4</sup>|是 <sup>4</sup>|是 <sup>4</sup>|
@@ -280,7 +280,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |SMTP|是|是|是|是|是|
 |EWS 应用程序支持|是|是|是|是|否|
 |Outlook for Mac|是|是|是|是|否|
-|**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
+|**[语音邮件服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |语音邮件|是|是|否|必需|否|
 |第三方语音邮件互操作性|是|是|是|是|是|
 |Skype for Business 集成|是|是|是|是|是|

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: 以下资源管理功能在 Project Online 中可用。
-ms.openlocfilehash: f1d7dd59dd9456172929dbad512161abbdc688ce
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631591"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263386"
 ---
 # <a name="project-resource-management"></a>项目资源管理
 
 以下资源管理功能在 Project Online 中可用。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="cost-resources"></a>成本资源
 
@@ -55,6 +55,6 @@ ms.locfileid: "37631591"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project For Office 365 服务说明](project-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online service description](project-online-service-description.md)。
   
 

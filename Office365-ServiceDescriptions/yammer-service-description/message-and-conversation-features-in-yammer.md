@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: 以下邮件和对话功能在 Yammer 中可用。
-ms.openlocfilehash: c6f913a31250ce9291cf949f2a9098757afeaa21
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726503"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263083"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的邮件和对话功能
 
@@ -27,7 +27,7 @@ ms.locfileid: "37726503"
 
 通知其他同事并通过 @ 提及他们的名称使其加入某个对话。
 
-## <a name="events"></a>事件
+## <a name="events"></a>活动
 
 组织会议和事件，与同事共享会议和事件，并跟踪出席情况。 可以向 Outlook、Google、Yahoo！和 iCal 日历中添加事件。
   

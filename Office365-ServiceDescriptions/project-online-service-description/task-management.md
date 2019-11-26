@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: 以下任务管理功能在 Project Online 中可用。
-ms.openlocfilehash: c457dbbc77afa6539b01fb457ed42d554c575533
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633561"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263376"
 ---
 # <a name="task-management"></a>任务管理
 
 以下任务管理功能在 Project Online 中可用。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -67,5 +67,5 @@ ms.locfileid: "37633561"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online Service Description](project-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online service description](project-online-service-description.md)。
   

@@ -1,5 +1,5 @@
 ---
-title: 规划 Microsoft 365 合规性-DoD 部署
+title: Microsoft 365 合规性计划 - DoD 部署
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，在其中使用 Microsoft 365 政府– DoD 适用于满足这些要求。
-ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319480"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262835"
 ---
-# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>规划 Microsoft 365 合规性-DoD 部署
+# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，在其中使用 Microsoft 365 政府– DoD 适用于满足这些要求。
 
@@ -78,7 +78,12 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                        |信息屏障                            | 可用              |
 |                                        |文件和电子邮件的数据丢失防护（DLP）  | 可用              |
 |                                        |适用于团队聊天和频道对话的 DLP    | 在工程工作积压 |
+|                                        |DLP 精确数据匹配                            | 在工程工作积压 |
+|                                        |标签活动资源管理器                         | 在工程工作积压 |
+|                                        |Trainable 类元                           | 在工程工作积压 |
+|                                        |统一的标签和敏感度标签         | 在工程工作积压 |
 |**内幕风险管理**             |高级邮件加密                     | 可用              |
+|                                        |内幕风险管理                         | 在工程工作积压 |
 |                                        |沟通合规性                        | 在工程工作积压 |
 |                                        |客户密码箱                                | 可用              |
 |                                        |客户密钥                                    | 可用              |

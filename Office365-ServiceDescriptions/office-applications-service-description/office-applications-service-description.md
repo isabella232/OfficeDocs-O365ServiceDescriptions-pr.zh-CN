@@ -1,5 +1,5 @@
 ---
-title: Office Applications 服务说明
+title: Office 应用程序服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一种订阅服务，提供了您已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
-ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
+ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748976"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261953"
 ---
-# <a name="office-applications-service-description"></a>Office Applications 服务说明
+# <a name="office-applications-service-description"></a>Office 应用程序服务说明
 
 Microsoft Office 365 是一种订阅服务，提供了您已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
   
@@ -41,52 +41,52 @@ Office 应用程序有 32 位和 64 位版本。
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 专业增强版 2013** <br/> |**Office 专业增强版 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 商业版** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**Microsoft 365 商业版** <br/> |
 |**Office 应用程序** <br/> |||||||||||
-|[Microsoft Word](office-applications.md#microsoft-word) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |可访问  <br/> |可访问  <br/> |是的<sup>+<sup> <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |可访问  <br/> |可访问  <br/> |可访问 <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Microsoft Access](office-applications.md#microsoft-access) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |是<sup>11</sup> <br/> |否  <br/> |是<sup>11</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |是<sup>11</sup>  <br/> |
-|[Skype for Business](office-applications.md#skype-for-business) <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |可访问  <br/> |可访问  <br/> |是<sup>5、10</sup> <br/> |是<sup>5</sup>  <br/> |
-|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |是  <br/> |是<sup>12</sup> <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|[Windows 10 应用](office-applications.md#windows-10-apps) <br/> |可访问  <br/> |可访问  <br/> |否  <br/>|可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|[适用于 Office 365 的 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |否  <br/> |否  <br/>|否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|[Office Mobile for iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup>13</sup> <br/>|是<sup>13</sup>  <br/> |可访问  <br/> |可访问  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |可访问  <br/> |可访问  <br/> |是<sup>14</sup>  <br/> |可访问  <br/> |
-|[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup>  <br/>|可访问  <br/> |可访问  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |可访问  <br/> |可访问  <br/> |是<sup>14</sup>  <br/> |可访问  <br/> |
-|[Office Mobile for Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/>|可访问  <br/> |可访问  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |可访问  <br/> |可访问  <br/> |是<sup>14</sup>  <br/> |可访问  <br/> |
-|Outlook for Android  <br/> |否  <br/> |否  <br/> |否  <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft Word](office-applications.md#microsoft-word) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |是  <br/> |是  <br/> |是的<sup>+<sup> <br/>|是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |是  <br/> |是  <br/> |是 <br/>|是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Microsoft Access](office-applications.md#microsoft-access) <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |是<sup>11</sup> <br/> |否  <br/> |是<sup>11</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |是<sup>11</sup>  <br/> |
+|[Skype for Business](office-applications.md#skype-for-business) <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |是<sup>5、10</sup> <br/> |是<sup>5</sup>  <br/> |
+|[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |是  <br/> |是<sup>12</sup> <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|[Windows 10 应用](office-applications.md#windows-10-apps) <br/> |是  <br/> |是  <br/> |否  <br/>|可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|[适用于 Office 365 的 Office for Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |否  <br/> |否  <br/>|否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|[Office Mobile for iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |否  <br/> |是<sup>13</sup> <br/>|是<sup>13</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |
+|[Office Mobile for Android](office-applications.md#office-mobile-for-android) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup>  <br/>|是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |
+|[Office Mobile for Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |否  <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/>|是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |是  <br/> |是<sup>14</sup>  <br/> |是  <br/> |
+|Outlook for Android  <br/> |否  <br/> |否  <br/> |否  <br/>|可访问  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |**企业价值** <br/> |**Office 专业增强版 2013** <br/> |**Office 专业增强版 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 商业版** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**Microsoft 365 商业版** <br/>
-|每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |否  <br/>| 否  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> | 是<sup>7</sup> <br/> |
-|自动化用户帐户配置  <br/> |不适用  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |
-|多语言用户界面  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|客户端推送部署  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|内部部署 Exchange 的客户端支持  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|内部部署 SharePoint 的客户端支持  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|控制软件更新  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/>  |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|数据库比较  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br> |
-|桌面虚拟化  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|是<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|Excel 电子表格比较  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|Excel 电子表格查询  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/>
-|Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是<sup>1</sup> <br/> |可访问  <br/> |可访问  <br/>|是<sup>1</sup> <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |
-|组策略支持  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|Office 云策略支持  <br/> |否  <br/> |否  <br/> |否  <br/>|必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|使用 Azure 信息保护的信息权限管理  <br/> |否  <br/> |否  <br/> |否  <br/>|无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |可访问  <br/> |可访问  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
-|使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>3</sup> <br/> |可访问  <br/> |可访问 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
-|Office 插件、ActiveX 和 BHO 支持  <br/> |可访问  <br/> |可访问  <br/> |是<sup>+++<sup> <br/> |可访问  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |可访问  <br/> |可访问  <br/> |是的<sup>++</sup> <br/> |可访问 <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |可访问 <br/> |
-|Office 遥测  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|客户端应用程序的脱机支持  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/>  |可访问  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|Power Map for Excel  <br/> |无<sup>4</sup> <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|Power Pivot for Excel  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|Power Query for Excel  <br/> |无<sup>15</sup>  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|Power View for Excel  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|漫游设置  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否 <br/> |
-|共享计算机激活  <br/> |否  <br/> |否  <br/> |否  <br/>|必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|支持阻止基于云的文件存储  <br/> |可访问  <br/> |可访问  <br/>|可访问  <br/> |可访问  <br/>|可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问 <br/> |
-|点击可查找并重复使用内容  <br/> |否  <br/> |否  <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |否 <br/> |
-|版本升级  <br/> |否  <br/> |否  <br/>|否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问 <br/> |
-|批量激活 (KMS/MAK)  <br/> |可访问  <br/> |可访问  <br/> |可访问  <br/>|无<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br> |
+|每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |否  <br/>| 否  <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> | 是<sup>7</sup> <br/> |
+|自动化用户帐户配置  <br/> |不适用  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|多语言用户界面  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|客户端推送部署  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|内部部署 Exchange 的客户端支持  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|内部部署 SharePoint 的客户端支持  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|控制软件更新  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|数据库比较  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br> |
+|桌面虚拟化  <br/> |是  <br/> |是  <br/> |是  <br/>|是<sup>8</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|Excel 电子表格比较  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|Excel 电子表格查询  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/>
+|Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/>|是<sup>1</sup> <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|组策略支持  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|Office 云策略支持  <br/> |否  <br/> |否  <br/> |否  <br/>|必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|使用 Azure 信息保护的信息权限管理  <br/> |否  <br/> |否  <br/> |否  <br/>|无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
+|使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
+|Office 插件、ActiveX 和 BHO 支持  <br/> |是  <br/> |是  <br/> |是<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |是  <br/> |是  <br/> |是的<sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/>|是  <br/> |否  <br/> |可访问 <br/> |
+|Office 遥测  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|客户端应用程序的脱机支持  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|Power Map for Excel  <br/> |无<sup>4</sup> <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|Power Pivot for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|Power Query for Excel  <br/> |无<sup>15</sup>  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|Power View for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|漫游设置  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否 <br/> |
+|共享计算机激活  <br/> |否  <br/> |否  <br/> |否  <br/>|必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|支持阻止基于云的文件存储  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问 <br/> |
+|点击可查找并重复使用内容  <br/> |否  <br/> |否  <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
+|版本升级  <br/> |否  <br/> |否  <br/>|否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
+|批量激活 (KMS/MAK)  <br/> |是  <br/> |是  <br/> |是  <br/>|无<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br> |
    
 > [!NOTE]
 ><sup>+</sup>在安装 Office 365 或 Office 2019 时，默认情况下将获取适用于 Windows 10 的 OneNote。 有关详细信息，请参阅[Office 2019 中有关 OneNote 的常见问题](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
@@ -113,14 +113,14 @@ Office 应用程序有 32 位和 64 位版本。
 ||||
 |:-----|:-----|:-----|
 |**Office 应用程序** <br/> |**Office 365 中的 Office 2016 for Mac<sup>1</sup>** <br/> |**Office 365 中的 Office for Mac 2011<sup>3</sup>** <br/> |
-|[Microsoft Word](office-applications.md#microsoft-word) <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |可访问  <br/> |可访问  <br/> |
-|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |可访问  <br/> |可访问  <br/> |
+|[Microsoft Word](office-applications.md#microsoft-word) <br/> |是  <br/> |是  <br/> |
+|[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |是  <br/> |是  <br/> |
+|[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |是  <br/> |是  <br/> |
 |[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |是  <br/> |是<sup>2</sup> <br/> |
-|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |可访问  <br/> |可访问  <br/> |
+|[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |是  <br/> |是  <br/> |
 |[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |否  <br/> |否  <br/> |
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |否  <br/> |否  <br/> |
-|[Skype for Business](office-applications.md#skype-for-business) <br/> |可访问  <br/> |可访问  <br/> |
+|[Skype for Business](office-applications.md#skype-for-business) <br/> |是  <br/> |是  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |否  <br/> |否  <br/> |
    
 > <sup>1</sup> Office 2016 for Mac 需要 Mac OS X 10.10 或更高版本。 至于通过 Outlook for Mac 连接 Exchange 的客户，则需要连接到 Microsoft Exchange Server 2010 Service Pack 2 或更高版本。 若要了解详细信息，请参阅[Office 的系统要求](https://products.office.com/en-US/office-system-requirements)。<br/>
@@ -134,7 +134,7 @@ Office 应用程序有 32 位和 64 位版本。
 |||||
 |-----|-----|-----|-----|
 |**Office 应用程序** | **GCC** | **GCC 高** | **DOD** |
-|**[Microsoft Excel](office-applications.md#microsoft-excel)** 在政府群中完全可用，但目前不可用的以下功能除外：| 可访问 | 可访问 | 可访问 |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** 在政府群中完全可用，但目前不可用的以下功能除外：| 是 | 是 | 是 |
 |3D 嵌入动画和3D 模型 | 否 | 否 | 否 |
 |数据类型 | 否 | 否 | 否 |
 |快速填充  | 否 | 否 | 否 |
@@ -150,22 +150,22 @@ Office 应用程序有 32 位和 64 位版本。
 |智能查找 | 否 | 否 | 否 |
 |图表：旭日图、树状图、瀑布图、直方图、地图、timeline、漏斗 | 否 | 否 | 否 |
 |版本历史记录| 否 | 否 | 否 | 
-|**Microsoft Forms**在政府群中完全可用，但目前不可用的以下功能除外： | 可访问 | 可访问 | 否 |
+|**Microsoft Forms**在政府群中完全可用，但目前不可用的以下功能除外： | 是 | 是 | 否 |
 |电子邮件通知 | 无<sup>1</sup> | 无<sup>1</sup> | 否 |
 |插入图片 | 无<sup>1</sup> | 无<sup>1</sup> | 否 |
 |插入视频 | 无<sup>1</sup> | 无<sup>1</sup> | 否 |
 |数学 | 无<sup>1</sup> | 无<sup>1</sup> | 否 |
 |Office 集成 | 无<sup>1</sup> | 无<sup>1</sup> | 否 |
 |最近的组窗体 | 无<sup>1</sup> | 无<sup>1</sup> | 否 |
-|外部共享 |可访问 | 否 | 否 |
-|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** 在政府群中完全可用，但目前不可用的以下功能除外：| 可访问 | 可访问 | 可访问 |
+|外部共享 |是 | 否 | 否 |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** 在政府群中完全可用，但目前不可用的以下功能除外：| 是 | 是 | 是 |
 |研究工具 | 否 | 否 | 否 |
 |智能数字墨迹 | 否 | 否 | 否 |
-|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** 在政府群中完全可用，但目前不可用的以下功能除外：| 可访问 | 可访问 | 可访问 |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** 在政府群中完全可用，但目前不可用的以下功能除外：| 是 | 是 | 是 |
 |Office 声音（一些） | 否 | 否 | 否 |
 |默认情况下禁用 DDE  | 否 | 否 | 否 |
 |语音听写 | 无<sup>1</sup> | 无<sup>1</sup> | 无<sup>1</sup> |
-|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** 在政府群中完全可用，但目前不可用的以下功能除外：| 可访问 | 可访问 | 可访问 |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** 在政府群中完全可用，但目前不可用的以下功能除外：| 是 | 是 | 是 |
 |智能查找 | 否 | 否 | 否 |
 |Office 声音（一些） | 否 | 否 | 否 |
 |3D 模型和3D 嵌入动画 | 否 | 否 | 否 |
@@ -190,7 +190,7 @@ Office 应用程序有 32 位和 64 位版本。
 |实时状态 | 否 | 否 | 否 |
 |对内容的反应 | 否 | 否 | 否 |
 |板卡库，包括与你共享的白板 | 否 | 否 | 否 |
-|**[Microsoft Word](office-applications.md#microsoft-word)** 在政府群中完全可用，但目前不可用的以下功能除外：| 可访问 | 可访问 | 可访问 |
+|**[Microsoft Word](office-applications.md#microsoft-word)** 在政府群中完全可用，但目前不可用的以下功能除外：| 是 | 是 | 是 |
 |智能查找 | 否 | 否 | 否 |
 |研究工具 | 否 | 否 | 否 |
 |Office 声音 | 否 | 否 | 否 |

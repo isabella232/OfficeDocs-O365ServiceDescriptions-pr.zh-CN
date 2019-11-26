@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online 中的限制分为以下几类。
-ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726061"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263276"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -95,7 +95,7 @@ Skype for Business Online 中的限制分为以下几类：
 |团队呼叫组中的人员  <br/> |word  <br/> |word  <br/> |word  <br/> |word  <br/> |word  <br/> |不适用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>如果 Skype for business 会议中的参与者数量超过75个参与者，则会议名单中的参与者列表（演示者和与会者）将被截断，以便单个与会者仅看到演示者和个人与会者自己的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
+> <sup>1</sup>如果 Skype for business 会议中的参与者数量超过75个参与者，则会议名单中的参与者列表（演示者和与会者）将被截断，以便单个与会者仅看到演示者和各个与会者自己的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
   
 ### <a name="meeting-limits-across-standalone-options"></a>跨独立选项的邮件限制
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry® 智能手机可以访问 Office 365 中的电子邮件和文档。
-ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 61f6e4cf3d28ba4acb05cac1f436f868ca5bcabb
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734160"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262875"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -53,5 +53,5 @@ BlackBerry 10 智能手机可以使用 Microsoft Exchange ActiveSync 直接连�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   

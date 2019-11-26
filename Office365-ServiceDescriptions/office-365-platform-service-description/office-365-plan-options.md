@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633497"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263043"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -126,4 +126,4 @@ ms.locfileid: "37633497"
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。

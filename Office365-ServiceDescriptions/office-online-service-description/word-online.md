@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: 适用于 web 的 word （以前称为 Word Web App）将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。
-ms.openlocfilehash: d814e18d80a9bb2a81644804c6afb7d489d36463
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631611"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263486"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 
@@ -297,5 +297,5 @@ Word for web 为您的文档中的单词提供了粗略的字数统计。 详细
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 Web 服务说明的 office](office-online-service-description.md)。 
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。 
   

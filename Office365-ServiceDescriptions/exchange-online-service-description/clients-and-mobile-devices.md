@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734220"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262755"
 ---
 # <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
@@ -35,7 +35,7 @@ Microsoft Outlook 是一个电子邮件程序，其中包括对日历、联系�
 若要了解 Exchange 2016 和 Exchange Online 支持的 Outlook 客户端，请参阅 [Exchange 2016 系统要求](https://go.microsoft.com/fwlink/?LinkID=828972)中的"支持的客户端"。
   
 > [!IMPORTANT]
->  Outlook 不作为 Exchange Online 订阅价格一部分提供。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 如果您使用 POP 连接到 Exchange Online 电子邮件帐户，您将看到以下限制： > 无日历信息 > 没有忙/闲信息 > 无全局地址列表 > 在通过 POP 连接时不 > 推送电子邮件当通过 POP 连接时，将下载所有邮件 to 客户端，多台计算机或设备之间没有任何同步（例如，在膝上型电脑和电话之间）。 
+>  Outlook 不作为 Exchange Online 订阅价格一部分提供。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 如果您使用 POP 连接到 Exchange Online 电子邮件帐户，您将看到以下限制： > 无日历信息 > 无 > 全局地址列表 > 没有推送电子邮件 > 通过 POP 连接时，所有邮件都将下载到客户端，并且在多台计算机或设备（如膝上型电脑和手机之间）之间不会进行任何同步。 
   
 ## <a name="outlook-on-the-web"></a>Web 上的 Outlook
 
@@ -59,7 +59,7 @@ Exchange Online 适用于适用于 iOS、Android 和 Windows Phone 的 Outlook �
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|设备  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Outlook 移动应用可用性  <br/> |是  <br/> [获取适用于 Android 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取适用于 iOS 的 Outlook](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
 |与 Exchange Online 兼容的内置电子邮件应用程序  <br/> |Gmail app/Samsung 电子邮件应用程序  <br/> |iOS 邮件应用程序  <br/> |Outlook 邮件、日历、联系人  <br/> |
 |更多信息  <br/> |[Android 手机设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone 或 iPad 安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone 安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

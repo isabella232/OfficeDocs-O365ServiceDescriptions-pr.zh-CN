@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581958"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262575"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -40,7 +40,7 @@ Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为�
     
 ### <a name="archive-sizes"></a>存档大小
 
-每个个人存档中只能存储一个用户的邮件数据。存储空间分配取决于订阅计划。有关存档邮箱大小的详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)中的"邮箱存储限制"部分。
+每个个人存档中只能存储一个用户的邮件数据。 存储空间分配取决于订阅计划。 有关存档邮箱大小的详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)中的 "邮箱存储限制" 部分。
   
 > [!IMPORTANT]
 > - 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。Microsoft 保留拒绝在个人未使用邮箱存档的情况下进行无限制存档的权利。 

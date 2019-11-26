@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强大的零天保护功能，帮助您的组织抵御未知恶意软件和病毒，并提供保护实时来自有害链接的组织。
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734170"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262795"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -27,7 +27,7 @@ Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮�
 
 - 在 Office 365 ATP 仅筛选方案中，ATP 为本地 Exchange Server 环境或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
 
-- 可以启用 Office 365 ATP 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅 [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以启用 Office 365 ATP 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅[Exchange online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
 
 - 在混合部署中，如果您将本地和云邮箱与入站电子邮件筛选的 Exchange Online 保护结合在一起，则可以将 ATP 配置为保护您的邮件环境并控制邮件路由。
 
@@ -119,7 +119,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 > [!NOTE]
 > 用户必须获得 ATP<sup>\*</sup>许可，必须包含在 Atp 安全链接策略中，并且必须在其设备上登录，才能就地保护。
 
-<sup>\*</sup>对于组织范围的 ATP 许可证（例如，ATP_ENTERPRISE_FACULTY），您无需向单个用户分配 ATP 许可证。
+<sup>\*</sup>对于组织范围的 ATP 许可证（例如，ATP_ENTERPRISE_FACULTY），无需向单个用户分配 ATP 许可证。
 
 ### <a name="anti-phishing-policies"></a>反网络钓鱼策略
 
@@ -131,7 +131,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ### <a name="real-time-reports"></a>实时报告
 
-Office 365 安全 & 合规中心中提供的监控功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)，使您的安全和合规性能够重点关注高优先级问题，如安全攻击或提高可疑活动。 除了突出显示问题区域之外，智能报告和见解还包括用于查看和浏览数据的建议和链接，同时还采取快速操作。
+Office 365 安全 & 合规性中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp)，使您的安全和合规性能够重点关注高优先级问题，如安全攻击或更高的可疑活动。 除了突出显示问题区域之外，智能报告和见解还包括用于查看和浏览数据的建议和链接，同时还采取快速操作。
 
 ### <a name="threat-trackers"></a>威胁跟踪器
 

@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支持组织管理员有效控制用户和 IT 员工可以在该服务中执行的操作。例如，如果合规专员负责处理邮箱搜索请求，则管理员可通过 RBAC 将此管理功能委派给该专员。Exchange Online 使用与 Microsoft Exchange Server 2013 相同的 RBAC 框架。
-ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 365bf87eb0b81364f3268b6e9defdb6f289ae609
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581948"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262745"
 ---
-# <a name="permissions"></a>权限
+# <a name="permissions"></a>Permissions
 
 Microsoft Exchange Online 使用基于角色的访问控制 (RBAC) 模型，支持组织管理员有效控制用户和 IT 员工可以在该服务中执行的操作。例如，如果合规专员负责处理邮箱搜索请求，则管理员可通过 RBAC 将此管理功能委派给该专员。Exchange Online 使用与 Microsoft Exchange Server 2013 相同的 RBAC 框架。 
   

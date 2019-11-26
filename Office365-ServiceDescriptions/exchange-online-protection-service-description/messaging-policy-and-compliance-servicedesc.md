@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
-ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581868"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262645"
 ---
-# <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
+# <a name="messaging-policy-and-compliance"></a>邮件策略和符合性
 
 Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
 
-要查找有关 EOP 所有功能的信息吗？ 请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+要查找有关 EOP 所有功能的信息吗？ 请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
 
 ## <a name="mail-flow-rules"></a>邮件流规则
 
@@ -62,14 +62,14 @@ Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子�
 
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 
-Office 365 邮件加密是 Azure 信息保护的一部分，它是一种在线服务，它允许电子邮件用户将加密的电子邮件发送给任何人。 本地客户可以通过购买 Azure 信息保护并使用 Exchange Online Protection 设置通过 Exchange Online 的邮件流，来访问 Office 365 邮件加密。 有关 Exchange Online 中的 Office 365 邮件加密的详细信息，请参阅 [Exchange Online 服务说明中的 Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)。
+Office 365 邮件加密是 Azure 信息保护的一部分，它是一种在线服务，它允许电子邮件用户将加密的电子邮件发送给任何人。 本地客户可以通过购买 Azure 信息保护并使用 Exchange Online Protection 设置通过 Exchange Online 的邮件流，来访问 Office 365 邮件加密。 若要了解有关 Exchange Online 中的 Office 365 邮件加密的详细信息，请参阅 Exchange Online 服务说明中的[office 365 邮件加密](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)。
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>跨 EOP 选项的邮件策略和合规性功能
 
 |**功能**|**独立 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
 |:-----|:-----|:-----|:-----|
 |邮件流规则|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
-|审核日志记录|是<sup>2</sup>|可访问|可访问|
+|审核日志记录|是<sup>2</sup>|是|是|
 |数据丢失防护 (DLP)|否|可访问|是<sup>3</sup>|
 |Office 365 邮件加密|是<sup>4</sup>|是|是<sup>4</sup>|
 

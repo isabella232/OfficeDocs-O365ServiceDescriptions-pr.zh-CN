@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足企业的法规要求。 有关详细信息，请参阅合规性服务。
-ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523457"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262865"
 ---
 # <a name="compliance"></a>合规性
 
@@ -61,7 +61,7 @@ Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足�
     
 - GxP
     
-- HIPAA/高科技
+- HIPAA/HITECH
     
 - CCSL (IRAP)
     
@@ -101,7 +101,7 @@ Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足�
     
 - **Office 365 如何帮助我的组织使用 PCI-DSS？**
     
-  - Office 365 为客户提供了一个安全的平台，可供客户进行通信和协作。 Microsoft 安全地操作服务，并提供了一组丰富的合规性和安全功能，可用于在数据的整个生命周期中保护数据。 使用[数据丢失防护（DLP）](https://go.microsoft.com/fwlink/?linkid=868520)、[高级数据管理](https://go.microsoft.com/fwlink/?linkid=863925)、 [Azure 信息保护（AIP）](https://go.microsoft.com/fwlink/?linkid=868521)等功能，您可以打开策略，以便在数据类似信用卡号时自动检测和标记敏感内容，迅速存在代码、ABA 传送号码等。 您可以在[此处](https://go.microsoft.com/fwlink/?linkid=868522)查找内置的敏感信息类型的列表，也可以按照[此处](https://go.microsoft.com/fwlink/?linkid=868523)的说明创建您自己的敏感信息类型。 通过客户应用的相应策略，组织可以在特定时间段内自动保留数据，并通过防止用户共享敏感数据来保护其内容。 如果客户需要通过电子邮件与组织内部或外部的任何人共享敏感数据，则客户可以对[Office 365 邮件加密](https://go.microsoft.com/fwlink/?linkid=858986)应用加密和权限保护，以便只有授权方才能读取受保护的邮件。 
+  - Office 365 为客户提供了一个安全的平台，可供客户进行通信和协作。 Microsoft 安全地操作服务，并提供了一组丰富的合规性和安全功能，可用于在数据的整个生命周期中保护数据。 使用[数据丢失防护（DLP）](https://go.microsoft.com/fwlink/?linkid=868520)、[高级数据管理](https://go.microsoft.com/fwlink/?linkid=863925)、 [Azure 信息保护（AIP）](https://go.microsoft.com/fwlink/?linkid=868521)等功能，您可以启用策略，以便在存在类似信用卡号、SWIFT 代码、ABA 路由号等数据时自动检测和标记敏感内容。 您可以在[此处](https://go.microsoft.com/fwlink/?linkid=868522)查找内置的敏感信息类型的列表，也可以按照[此处](https://go.microsoft.com/fwlink/?linkid=868523)的说明创建您自己的敏感信息类型。 通过客户应用的相应策略，组织可以在特定时间段内自动保留数据，并通过防止用户共享敏感数据来保护其内容。 如果客户需要通过电子邮件与组织内部或外部的任何人共享敏感数据，则客户可以对[Office 365 邮件加密](https://go.microsoft.com/fwlink/?linkid=858986)应用加密和权限保护，以便只有授权方才能读取受保护的邮件。 
     
 - **格雷姆-里奇-比利雷法案 (GLB)** GLB 为美国的金融机构设定了最低安全和隐私要求。软件或服务不能声称"遵从 GLB"，因为 GLB 合规性还要求符合相关的流程和政策。GLB 中会影响 Office 365 服务的两条原则性法规是： 
     
@@ -111,5 +111,5 @@ Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   

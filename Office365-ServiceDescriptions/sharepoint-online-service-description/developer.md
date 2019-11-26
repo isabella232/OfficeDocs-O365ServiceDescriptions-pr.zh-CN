@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下功能可为要构建应用和解决方案的开发人员扩展 SharePoint 功能提供支持。
-ms.openlocfilehash: 52b1b15dd098b6dd40a531cb5b462a7fff8b69f7
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 56ea1e5a083c4dd35eab8da537b77e802551ce32
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726249"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263113"
 ---
-# <a name="developer"></a>开发人员
+# <a name="developer"></a>Developer
 
 SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下功能可为要构建应用和解决方案的开发人员扩展 SharePoint 功能提供支持。
   

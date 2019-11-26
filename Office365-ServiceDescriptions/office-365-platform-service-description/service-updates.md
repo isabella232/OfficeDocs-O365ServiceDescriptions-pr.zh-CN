@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
-ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 3ef34fc02754702e16d077da85042d3f100fe812
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734039"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262403"
 ---
 # <a name="service-updates"></a>服务更新
 
@@ -43,6 +43,6 @@ ms.locfileid: "37734039"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个 Office 365 计划的功能可用性，请参阅 [Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下搜索功能帮助人们找到完成工作所需的信息。 搜索是相关性、精化和人员的组合。
-ms.openlocfilehash: 39fdeaac67d1c7261e93dd45c4181613910d5ed0
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5e91de48b374109f570168a2c85ae3c1a606ea5f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726198"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263316"
 ---
 # <a name="search"></a>搜索
 

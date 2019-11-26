@@ -1,5 +1,5 @@
 ---
-title: 用户帐户管理
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911786"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262113"
 ---
-# <a name="user-account-management"></a>用户帐户管理
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365 支持以下用于创建、管理和对用户进行身份验证的方法。 
   
 > [!NOTE]
-> 本主题不包含有关允许或禁止访问单个 Office 365 资源的安全性功能的信息（例如，Microsoft Exchange Online 的基于角色的访问控制或配置 Microsoft SharePoint Online 的安全性）。有关这些功能的详细信息，请参阅 [Exchange Online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)和 [SharePoint Online 服务说明](../sharepoint-online-service-description/sharepoint-online-service-description.md)。 
+> 本主题不包含有关允许或禁止访问单个 Office 365 资源的安全性功能的信息（例如，Microsoft Exchange Online 的基于角色的访问控制或配置 Microsoft SharePoint Online 的安全性）。 有关这些功能的详细信息，请参阅[Exchange online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)和[SharePoint online 服务说明](../sharepoint-online-service-description/sharepoint-online-service-description.md)。 
   
 如果需要有关可以帮助你执行管理任务的工具的信息，请参阅 [Tools to manage Office 365 accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)（用于管理 Office 365 帐户的工具）。要了解如何执行日常管理任务，请参阅 [Common management tasks for Office 365](https://docs.microsoft.com/office365/admin/manage/manage)（Office 365 的常见管理任务）。
   
@@ -127,7 +127,7 @@ Office 365 使用基于表单的身份验证，同时始终使用端口 443 以 
     
 - 如果正在使用目录同步，您必须从本地 Active Directory 而不是 Office 365 删除用户。
     
-帐户删除后，它将变为非活动状态。 若要在删除后大约30天，可以还原帐户。 若要详细了解如何删除和还原帐户，请参阅[在 office 365 中删除用户](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)和[在 Office 365 中还原用户](https://docs.microsoft.com/office365/admin/add-users/restore-user)或者，如果在中国使用由世纪互联运营的 office 365，请参阅[在 office 365 中创建或编辑用户帐户世纪互联-管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+帐户删除后，它将变为非活动状态。 若要在删除后大约30天，可以还原帐户。 若要详细了解如何删除和还原帐户，请参阅[在 office 365 中删除用户](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)和[在 Office 365 中还原用户](https://docs.microsoft.com/office365/admin/add-users/restore-user); 或者，如果使用由世纪互联运营的 Office 365 （由中国运营），请参阅[在 office 365 中创建或编辑用户帐户-管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
 ## <a name="password-management"></a>密码管理
 
@@ -188,5 +188,5 @@ Azure Active Directory (AD) 将身份和访问管理综合功能引入 Office 36
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[office 365 Platform Service Description](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
   

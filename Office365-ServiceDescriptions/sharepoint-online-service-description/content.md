@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online 是基于 web 的工具和技术的集合，可帮助您的组织存储、共享和管理数字信息。 此托管服务基于 Microsoft SharePoint Server 2013 构建，是处理项目、在中心位置存储数据和文档以及与他人共享信息的理想服务。 以下内容功能让每个人都可轻松使用企业内容管理 (ECM)。 它是传统内容管理、社交功能和强大搜索的组合。
-ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 22a23195b82ac696ae5afedf9a35a17971eeeb81
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733953"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263346"
 ---
 # <a name="content"></a>内容
 
@@ -120,7 +120,7 @@ SharePoint Online IRM 使用 Azure 信息保护，即 Office 365 中的一种信
   
 ## <a name="office-for-the-web-createedit"></a>Office for web （创建/编辑）
 
-如果你是 Office 365 客户，则可以使用 internet 浏览器中的 Office 为 web 自动创建和编辑 Office 文件。 若要了解 Office for web 中可用的功能，请参阅[office for Web 服务说明](../office-online-service-description/office-online-service-description.md)。
+如果你是 Office 365 客户，则可以使用 internet 浏览器中的 Office 为 web 自动创建和编辑 Office 文件。 若要了解 Office for web 中可用的功能，请参阅[office for web 服务说明](../office-online-service-description/office-online-service-description.md)。
   
 ## <a name="office-for-the-web-view"></a>Office for web （视图）
 

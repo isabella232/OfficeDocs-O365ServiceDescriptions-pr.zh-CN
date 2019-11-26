@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: 262f6d17c1fc537244091de8746c7e307463a6d0
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734009"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263546"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
@@ -85,5 +85,5 @@ Office for Windows 10 移动应用在 Windows 10 电话和平板电脑上针对�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Office 应用程序服务说明](office-applications-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[office 应用程序服务说明](office-applications-service-description.md)。
   

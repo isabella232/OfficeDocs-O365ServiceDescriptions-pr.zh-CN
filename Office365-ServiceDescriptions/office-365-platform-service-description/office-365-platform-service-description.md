@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: b8bbc7068d809b023135f0f4b078b3e84bdd7d89
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 519d5260cd2a5155d365047bf69b241d0bd26d4d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724710"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263073"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -39,7 +39,7 @@ Microsoft Office 365 为所有各种规模的企业提供了强大的云工作�
     
 ## <a name="office-365-plans"></a>Office 365 计划
 
-Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](office-365-plan-options.md)。
+Office 365 推出了各种计划，旨在最大限度地满足组织需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](office-365-plan-options.md)。
   
 若要了解 Office 365 批量许可，请参阅 [Licensing Terms and Documentation](https://go.microsoft.com/fwlink/?linkid=848696)（授权条款和文档）。
   
@@ -189,7 +189,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。若
 |Office 365 高级电子数据展示<sup>17</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |安全功能分数<sup>7</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|**[合规性](compliance-servicedesc.md)** <br/> ||||||||
+|**[Compliance](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

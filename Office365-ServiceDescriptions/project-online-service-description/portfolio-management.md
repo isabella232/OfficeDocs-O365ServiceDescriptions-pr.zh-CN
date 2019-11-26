@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 中提供了以下项目组合管理功能。
-ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733873"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263436"
 ---
 # <a name="portfolio-management"></a>项目组合管理
 
 Project Online 中提供了以下项目组合管理功能。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>对项目进行分析和优化产品组合
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业语音是一项外接程序服务，允许你使用 Microsoft 团队进行电话呼叫。 这将组合电话系统、国内通话套餐、短信和音频会议。
-ms.openlocfilehash: a2d8c50e83a19b6c8b5602b55fa7feb10039364c
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37972504"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262775"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商业语音服务说明
 

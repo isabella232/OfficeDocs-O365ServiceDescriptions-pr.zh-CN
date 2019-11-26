@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 onenote for web （以前称为 OneNote Web App）在 OneNote 笔记本中进行联机笔记，可以从任意位置添加笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 6dac216c117175f3f2842476a0aaebf2e99461c7
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631621"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263506"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 网页版
 
@@ -154,7 +154,7 @@ OneNote for web 在用户键入时自动检查拼写，并对拼写错误的文�
 
 使用 OneNote for web，您可以轻松地应用文本样式以快速设置格式。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="tables"></a>表
+## <a name="tables"></a>表格
 
 使用适用于 web 的 OneNote，可以插入表格、编辑表格文本并轻松编辑基本表格结构，例如添加或删除行和列。 若要使用更多高级表格功能（如将表格转换成 Excel 电子表格，或在表格单元格中使用单元格底纹、标题行和数据排序），需要使用 OneNote 桌面应用程序。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
@@ -176,6 +176,6 @@ OneNote for web 在用户键入时自动检查拼写，并对拼写错误的文�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 Web 服务说明的 office](office-online-service-description.md)。
+若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。
   
 

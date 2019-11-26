@@ -1,5 +1,5 @@
 ---
-title: 规划 Microsoft 365 合规性-GCC High
+title: Microsoft 365 合规性计划 - GCC High
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于促使美国联邦政府实体或其他实体中的 Office 365 部署的 IT 专业人员，这些人员负责处理政府法规和要求的数据，其中使用 Microsoft 365 政府– GCC 高的适用以满足这些要求。
-ms.openlocfilehash: 72819a1a2b62df681f8b08dd3049ab6d704b256e
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319500"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262825"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划 Microsoft 365 合规性– GCC High
 
@@ -75,7 +75,12 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 信息屏障                            | 可用              |
 |                                         | 文件和电子邮件的数据丢失防护（DLP）  | 可用              |
 |                                         | 适用于团队聊天和频道对话的 DLP    | 在工程工作积压 |
+|                                         | DLP 精确数据匹配                            | 在工程工作积压 |
+|                                         | 标签活动资源管理器                         | 在工程工作积压 |
+|                                         | Trainable 类元                           | 在工程工作积压 |
+|                                         | 统一的标签和敏感度标签         | 在工程工作积压 |
 | **内幕风险管理**             | 高级邮件加密                     | 可用              |
+|                                         | 内幕风险管理                         | 在工程工作积压 |
 |                                         | 沟通合规性                        | 在工程工作积压 |
 |                                         | 客户密码箱                                | 可用              |
 |                                         | 客户密钥                                    | 可用              |
