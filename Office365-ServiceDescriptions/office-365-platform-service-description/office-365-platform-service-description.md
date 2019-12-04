@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: 519d5260cd2a5155d365047bf69b241d0bd26d4d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 45b35c66752842196acfcad52fea8b5470384550
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263073"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810791"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -61,7 +61,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 ## <a name="data-storage-location"></a>数据存储位置
 
-若要了解数据存储位置，请参阅[数据存储地图](https://go.microsoft.com/fwlink/?linkid=401277)。 
+若要了解数据存储位置，请参阅[数据存储地图](https://products.office.com/where-is-your-data-located)。 
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 中的多地理位置功能
 

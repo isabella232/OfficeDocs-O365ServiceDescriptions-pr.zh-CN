@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263043"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810811"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -67,7 +67,7 @@ ms.locfileid: "39263043"
 <sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。<br/>
 <sup>3</sup>若要详细了解 Office 365 计划中包含了哪些 Azure 信息保护功能，请参阅 [Azure 信息保护](https://azure.microsoft.com/services/information-protection/)。<br/>
 <sup>4</sup> Office 365 企业版 E5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐，必须购买附加套餐（国内或国际）。<br/>
-<sup>5</sup>包括 2GB 存储。 不包括桌面同步功能。 <br/>
+<sup>5</sup>包括 2GB 存储。 <br/>
 <sup>6</sup>包括 Exchange Online 计划 1。 <br/>
 <sup>7</sup>包括 Exchange Online 计划 2。 <br/>
 <sup>8</sup>包括 Exchange Online 计划 1 及补充功能。 <br/>

@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261913"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810821"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
 Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
   
 > [!NOTE]
-> 在 Microsoft SharePoint Online 中，不能在 Excel 中查看超过 30 mb 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
+> 在 Microsoft SharePoint Online 中，不能在 Excel 中从 Excel 中查看超过 50 mb 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
 
 > [!NOTE]
 > 为帮助您比较提供的服务，本文中所列的高级功能包括只在 Office 套件中提供的 Excel 桌面应用程序功能（例如 Office Professional Plus、Office Standard 或 Office 365 ProPlus）。 有关 web 功能的所有 Office 的列表，如适用于 web 的 Word 和 PowerPoint for web，请参阅[跨 Office 的功能可用性的 web 计划](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。

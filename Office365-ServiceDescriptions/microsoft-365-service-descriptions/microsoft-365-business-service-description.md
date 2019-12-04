@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 业务服务说明
+title: Microsoft 365 商业版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案，将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起，以帮助保护您的业务。 此服务说明介绍了计划选项和功能。
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262845"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810801"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 业务服务说明
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
 Microsoft 365 商业版是一个集成的解决方案，将 Office 365 与高级安全性和设备管理结合在一起，从而帮助保护您的业务不受高级威胁。 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息，请参阅[office 365 服务说明](../office-365-service-descriptions-technet-library.md)。
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>跨 Office 365 商业高级版和 Microsoft 365 商业版计划的功能可用性
 
 Microsoft 365 业务基本上包括 Office 365 商业高级版中提供的所有功能以及其他 Office 365 安全功能。
+
+Microsoft 365 Business 包括以下 Azure AD 高级 P1 功能：使用 AD 写回、Azure 多重身份验证（MFA）和条件访问的自助服务密码重置。 它不包括完整的 Azure AD 高级 P1。
 
 ||||
 |:-----|:-----|:-----|
@@ -76,9 +78,9 @@ Microsoft 365 业务基本上包括 Office 365 商业高级版中提供的所有
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级威胁分析  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[设备和应用程序管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商业版包括适用于 iOS、Android、Mac OS 和其他跨平台设备管理的完整 Intune 功能。<sup>9</sup> <br/> |**Office 365 商业高级版** <br/> |**Microsoft 365 商业版** <br/> |**企业移动性 + 安全 E3** <br/> |
-|适用于电脑、Mac 和移动设备的 Intune 移动设备管理（MDM）<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
+|适用于电脑、Mac 和移动设备的 Intune 移动设备管理（MDM）<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |移动设备管理（MDM）自动注册  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|适用于 Office 应用程序和 LOB 应用程序的 Intune 移动应用程序管理（MAM）<sup>17</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|适用于 Office 应用程序和 LOB 应用程序的 Intune 移动应用程序管理（MAM）<sup>9</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Windows update management、Defender、防火墙策略<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |数据保护-选择性擦除  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |为策略设定的安全组（SG）  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
@@ -106,7 +108,7 @@ Microsoft 365 业务基本上包括 Office 365 商业高级版中提供的所有
 |保护文件夹免受勒索软件等威胁 <br/> |是  <br/> |
 |帮助保护电脑上的文件和文件夹不受 Bitlocker 的未经授权的访问 <br/> |是  <br/> |
 
-### <a name="notes"></a>注释
+### <a name="notes"></a>笔记
 <sup>1</sup>包括 Exchange Online 计划1。<br/>
 <sup>2</sup> Azure 信息保护（AIP）启用受支持的信息权限管理（IRM）功能。 AIP Plan 1 包含在 Microsoft 365 业务中。 <br/>
 <sup>3</sup> Microsoft 365 商业版包括 Exchange Online 存档订阅。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)（Office 365 中的无限制存档概述）。 <br/>
