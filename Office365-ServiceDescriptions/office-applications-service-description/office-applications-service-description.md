@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 是一种订阅服务，提供了您已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261953"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969949"
 ---
 # <a name="office-applications-service-description"></a>Office 应用程序服务说明
 
@@ -71,7 +71,7 @@ Office 应用程序有 32 位和 64 位版本。
 |Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/>|是<sup>1</sup> <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
 |组策略支持  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
 |Office 云策略支持  <br/> |否  <br/> |否  <br/> |否  <br/>|必需  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |否 <br/> |
-|使用 Azure 信息保护的信息权限管理  <br/> |否  <br/> |否  <br/> |否  <br/>|无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
+|使用 Azure 信息保护的信息权限管理  <br/> |否  <br/> |否  <br/> |否  <br/>|无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |是 <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |Office 插件、ActiveX 和 BHO 支持  <br/> |是  <br/> |是  <br/> |是<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问 <br/> |
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |是  <br/> |是  <br/> |是的<sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/>|是  <br/> |否  <br/> |可访问 <br/> |
@@ -169,7 +169,7 @@ Office 应用程序有 32 位和 64 位版本。
 |智能查找 | 否 | 否 | 否 |
 |Office 声音（一些） | 否 | 否 | 否 |
 |3D 模型和3D 嵌入动画 | 否 | 否 | 否 |
-图表：地图 | 否 | 否 | 否 |
+|图表：地图 | 否 | 否 | 否 |
 |智能数字墨迹 | 否 | 否 | 否 |
 |PowerPoint 中 & 副标题的 Live 字幕 | 否 | 否 | 否 |
 |演示者指导 | 否 | 否 | 否 |
@@ -179,6 +179,7 @@ Office 应用程序有 32 位和 64 位版本。
 |Office 365 组 | 否 | 否 | 否 |
 |实时协作（状态、常规合著和文档内聊天） | 否 | 否 | 否 |
 |语音听写 | 无<sup>1</sup> | 无<sup>1</sup> | 无<sup>1</sup> |
+|重用幻灯片 | 否 | 否 | 否 |
 |政府群中的**Microsoft 白板**目前仅适用于中心客户端，而不是在桌面上。 | 是<sup>2</sup> | 是<sup>2</sup> | 是<sup>2</sup> |
 |插入粘滞便笺、文本和图像 |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |
 |将墨迹转换为形状和将墨迹转换为表格 |是<sup>2</sup> |是<sup>2</sup> |是<sup>2</sup> |
