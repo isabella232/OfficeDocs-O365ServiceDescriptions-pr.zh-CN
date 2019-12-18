@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project 服务说明
+title: Microsoft 项目服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263416"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614821"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project 服务说明
+# <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
 ## <a name="overview"></a>概述
 
@@ -246,6 +246,11 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |Excel 导入/导出 | 从 Excel 文件创建新项目或创建现有项目的 Excel 文件。 |
 
 ## <a name="service-considerations"></a>服务注意事项
+
+> [!NOTE]
+> - 当前不提供用于&ndash; web 的法国和韩国项目。 我们正在努力将网站的项目传递到你的区域，并将在下面指示的通信通道中通知你其可用性。
+> - 教育&ndash;版客户即将向我们提供教育项目。 精确的时间范围已挂起。
+> - GCC、gcc 高、DoD &ndash;目前，Web 的项目不适用于 GCC、Gcc 和 DoD。 我们正在努力为你提供网站的项目，但目前无法共享一个固定的时间范围。
 
 ### <a name="licensing-considerations"></a>许可注意事项
 

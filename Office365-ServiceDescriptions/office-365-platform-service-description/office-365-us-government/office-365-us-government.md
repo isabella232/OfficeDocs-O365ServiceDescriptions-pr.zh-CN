@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ca251b876b2cc69d1f35524471e089003e71c4de
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262523"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614831"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -158,7 +158,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Power BI Pro  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |Project Online  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
 |Visio 网页版  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
-|Yammer 企业版  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
+|Yammer Enterprise  <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版、G3 和 G5 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup>不包括在内，但可以作为单独的附加项购买。 Project Online 包括 Project Online 桌面客户端作为订阅的一部分。
@@ -260,9 +260,9 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |**信任** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
 |**[隐私、安全性和透明度](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |高级数据治理  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
-|云应用安全  <br/> |无<sup>11、12</sup> <br/> |无<sup>11、12</sup> <br/> |是<sup>11</sup> <br/> |无<sup>11、12</sup> <br/> |
+|云应用安全  <br/> |无<sup>12、15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |
 |高级威胁防护  <br/> |无<sup>12、18</sup> <br/> |无<sup>12、18</sup> <br/> |是<sup>18</sup>  <br/> |无<sup>12、18</sup> <br/> |
-|客户密码箱  <br/> |无<sup>9、12、15</sup> <br/> |无<sup>9、12、15</sup> <br/> |是<sup>9，15</sup> <br/> |无<sup>9、12、15</sup> <br/> |
+|客户密码箱  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
 |Office 365 高级电子数据展示  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是  <br/> |无<sup>12</sup> <br/> |
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |可访问 <br/> |是 <br/> |否  <br/> |
@@ -304,6 +304,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 <br/><sup>16</sup>管理中心不包括 DOD 或 GCC 高级环境中的使用情况分析。
 <br/><sup>17</sup>不支持 GCC 高或 DoD 环境。
 <br/><sup>18</sup>在 GCC 高和 DoD 中尚不提供用于用户和域模拟和欺骗情报的反网络钓鱼。
+<br/><sup>19</sup>尚无法在 GCC 环境中使用，但即将推出。
   
 ["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
