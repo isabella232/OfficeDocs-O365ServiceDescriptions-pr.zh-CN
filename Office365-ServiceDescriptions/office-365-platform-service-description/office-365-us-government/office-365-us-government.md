@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 836f7aae584d4a878acaeddc068beff9a08131e8
-ms.sourcegitcommit: 08b15860a56f5c9fbf61fca54b0b2878bb9f9956
+ms.openlocfilehash: 9328f2c56fedc9531559e7d8720f97e83dd6072b
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40749408"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840251"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -267,7 +267,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |可访问 <br/> |是 <br/> |否  <br/> |
 |威胁智能  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
-|**[Compliance](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[合规性](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -357,7 +357,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Power Query for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |Power View for Excel  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |漫游设置  <br/> |否  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |否  <br/> |
-|共享计算机激活  <br/> |是  <br/> |是 <br/> |是 <br/> |是  <br/> |
+|共享计算机激活  <br/> |否  <br/> |可访问 <br/> |是 <br/> |否  <br/> |
 |支持阻止基于云的文件存储  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |版本升级  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |批量激活 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |

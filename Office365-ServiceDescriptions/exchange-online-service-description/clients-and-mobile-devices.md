@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262755"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840241"
 ---
 # <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
@@ -32,8 +32,13 @@ Microsoft Outlook 是一个电子邮件程序，其中包括对日历、联系�
 
 默认情况下，所有用户启用 Outlook 访问。管理员可以通过 Windows PowerShell 禁用对特定用户的访问权限。我们建议使用最新版本的 Outlook装有最新的 service pack以访问 Exchange Online。 
   
-若要了解 Exchange 2016 和 Exchange Online 支持的 Outlook 客户端，请参阅 [Exchange 2016 系统要求](https://go.microsoft.com/fwlink/?LinkID=828972)中的"支持的客户端"。
-  
+有关 Exchange 2016 和 Exchange Online 支持的 Outlook 客户端的信息，请参阅[Office 的系统要求](https://products.office.com/office-system-requirements)。 
+
+Office 365 设计用于与 Office 的最新浏览器和版本配合使用。 如果使用的是旧版不在主流支持中的浏览器和 Office 版本：
+
+- Microsoft 不会有意阻止您连接到该服务，但随着时间的推移，Office 365 体验的质量可能会降低。
+- Microsoft 不会提供软件更新来解决与安全无关的问题。
+
 > [!IMPORTANT]
 >  Outlook 不作为 Exchange Online 订阅价格一部分提供。 Microsoft Office Pro Plus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 如果您使用 POP 连接到 Exchange Online 电子邮件帐户，您将看到以下限制： > 无日历信息 > 无 > 全局地址列表 > 没有推送电子邮件 > 通过 POP 连接时，所有邮件都将下载到客户端，并且在多台计算机或设备（如膝上型电脑和手机之间）之间不会进行任何同步。 
   
