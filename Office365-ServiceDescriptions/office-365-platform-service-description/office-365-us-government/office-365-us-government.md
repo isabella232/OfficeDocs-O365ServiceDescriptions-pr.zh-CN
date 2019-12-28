@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: 9328f2c56fedc9531559e7d8720f97e83dd6072b
-ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
+ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
+ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/21/2019
-ms.locfileid: "40840251"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40884327"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -166,6 +166,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 <br/><sup>4</sup> Yammer 企业不是 OFFICE 365 美国政府的一个组件，但可以免费获得，作为在 GCC 中为 Office 365 许可的每个用户提供的独立服务。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 中不可用。
 <br/><sup>5</sup>通话套餐是一个附加项。 
 <br/><sup>6</sup>不包括在内，但可以作为单独的附加项购买。 Visio for web 将 Visio 桌面应用程序作为订阅的一部分包括在其中。
+
 ## <a name="platform-features"></a>平台功能 
 
 下表列出了Office 365 美国政府版 计划中所提供的平台功能和服务。
@@ -308,7 +309,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
   
 ["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
-## <a name="office-application-features"></a>Office 应用程序功能  
+## <a name="office-application-availability-and-enterprise-value"></a>Office 应用程序可用性和企业价值
 
 下表显示 Office 365 美国政府版计划中所提供的 Office 应用程序功能。
   
@@ -316,11 +317,13 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
 |**Office 应用程序** <br/> |||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|Microsoft Forms<sup>7</sup>| 是 <br/> | 是 <br/>| 是 <br/> | 否 <br/> |
+|Microsoft 白板<sup>7</sup>| 否 <br/> | 可访问 <br/> | 是 <br/> | 否 <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |
@@ -367,5 +370,93 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 <br/><sup>3</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup>在 GCC 高或 DoD 环境中尚不可用，但即将推出。
 <br/><sup>5</sup>有关更多详细信息，请参阅[在政府社区云中使用 Outlook For iOS 和 Outlook for Android](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
-  <br/><sup>6</sup>在 Office 365 DoD 环境中尚不可用，但即将推出。
+<br/><sup>6</sup>在 Office 365 DoD 环境中尚不可用，但即将推出。
+<br/><sup>7</sup>应用程序在政府群中完全可用，但目前尚不可用的特定功能除外。 有关详细信息，请参阅[Office 应用程序功能可用性](#office-application-and-feature-availability-in-government-plans)。
 <br/><br/>["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>政府计划中的 Office 应用程序和功能可用性
+
+政府群中提供了以下 Office 应用程序;但是，一些基于云的功能目前可能不可用，如表中所示。
+
+|||||
+|-----|-----|-----|-----|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)在政府群中完全可用，但以下功能除外，目前不可用： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|3D 嵌入动画和3D 模型 | 否 <br/> | 否 <br/> | 否 <br/> |
+|数据类型 | 否 <br/> | 否 <br/> | 否 <br/> |
+|快速填充 | 否 <br/> | 否 <br/> | 否 <br/> |
+|创意（真知灼见 Services） | 否 <br/> | 否 <br/> | 否 <br/> |
+|改进了与 PowerBI 的集成（自定义视觉对象，创建直接来自 Excel 的 PBI 图表） | 否 <br/> | 否 <br/> | 否 <br/> |
+|智能数字墨迹 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Office 365 组 | 否 <br/> | 否 <br/> | 否 <br/> |
+|连接到数据透视表的数据透视图数据 | 否 <br/> | 否 <br/> | 否 <br/> |
+|PowerPivot | 否 <br/> | 否 <br/> | 否 <br/> |
+|发布到 PowerBI | 否 <br/> | 否 <br/> | 否 <br/> |
+|实时协作（状态、常规合著和文档内聊天） | 否 <br/> | 否 <br/> | 否 <br/> |
+|Shared with Me | 否 <br/> | 否 <br/> | 否 <br/> |
+|智能查找 | 否 <br/> | 否 <br/> | 否 <br/> |
+|图表：旭日树状图、瀑布图、直方图、地图、timeline、漏斗 | 否 <br/> | 否 <br/> | 否 <br/> |
+|版本历史记录 | 否 <br/> | 否 <br/> | 否 <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)在政府群中完全可用，但以下功能除外，目前不可用： | **GCC** <br/> | **GCC 高** <br/> | **DOD**<sup>3</sup> <br/> |
+|电子邮件通知 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 否 <br/> | 
+|插入图片 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 否 <br/> |
+|插入视频 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 否 <br/> |
+|数学 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 否 <br/> |
+|Office 集成 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 否 <br/> |
+|最近的组窗体 | 是 <br/> | 是 <br/> | 否 <br/> |
+|外部共享<sup>4</sup> | 是 <br/> | 否 <br/> | 否 <br/> |
+|Forms Pro | 否 | 否 | 否 |
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府群中完全可用，但以下功能（此时不可用）除外： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|研究工具 | 否 <br/> | 否 <br/> | 否 <br/> |
+|智能数字墨迹 | 否 <br/> | 否 <br/> | 否 <br/> |
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府群中完全可用，但以下功能除外，目前不可用： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|Office 声音（一些） | 否 <br/> | 否 <br/> | 否 <br/> |
+|默认情况下禁用动态数据交换（DDE） | 否 <br/> | 否 <br/> | 否 <br/> |
+|语音听写 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> |
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)在政府群中完全可用，但以下功能除外，目前不可用： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|智能查找 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Office 声音（一些） | 否 <br/> | 否 <br/> | 否 <br/> |
+|3D 模型和3D 嵌入动画 | 否 <br/> | 否 <br/> | 否 <br/> |
+|图表：地图 | 否 <br/> | 否 <br/> | 否 <br/> |
+|智能数字墨迹 | 否 <br/> | 否 <br/> | 否 <br/> |
+|PowerPoint 中的 Live 字幕和副标题 | 否 <br/> | 否 <br/> | 否 <br/> |
+|演示者指导 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Shared with Me | 否 <br/> | 否 <br/> | 否 <br/> |
+|Skype for business 与共享的集成 | 否 <br/> | 否 <br/> | 否 <br/> |
+|版本历史记录 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Office 365 组 | 否 <br/> | 否 <br/> | 否 <br/> |
+|实时协作（状态、常规合著和文档内聊天） | 否 <br/> | 否 <br/> | 否 <br/> |
+|语音听写 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> |
+|重用幻灯片 | 否 <br/> | 否 <br/> | 否 <br/> |
+|政府群中的**Microsoft 白板**目前仅适用于中心客户端，而不是在桌面上。 | **GCC**<sup>2</sup> <br/> | **GCC High**<sup>2</sup> <br/> | **DOD**<sup>2</sup> <br/> |
+|插入粘滞便笺、文本和图像 | 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>|
+|将墨迹转换为形状和将墨迹转换为表格 | 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>|
+|墨迹 beautification | 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>|
+|将图像转换为墨迹 | 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>|
+|辅助功能检查器 | 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>| 是<sup>2</sup> <br/>|
+|动态模板（看板、SWOT 等） | 否 <br/> | 否 <br/> | 否 <br/> |
+|实时协作 | 否 <br/> | 否 <br/> | 否 <br/> |
+|实时状态 | 否 <br/> | 否 <br/> | 否 <br/> |
+|对内容的反应 | 否 <br/> | 否 <br/> | 否 <br/> |
+|板卡库，包括与你共享的白板 | 否 <br/> | 否 <br/> | 否 <br/> |
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)在政府群中完全可用，但以下功能除外，目前不可用： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
+|智能查找 | 否 <br/> | 否 <br/> | 否 <br/> |
+|研究工具 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Office 声音  | 否 <br/> | 否 <br/> | 否 <br/> |
+|3D 模型 | 否 <br/> | 否 <br/> | 否 <br/> |
+|3D 嵌入动画  | 否 <br/> | 否 <br/> | 否 <br/> |
+|点击  | 否 <br/> | 否 <br/> | 否 <br/> |
+|简历助手 | 否 <br/> | 否 <br/> | 否 <br/> |
+|地图图表 | 否 <br/> | 否 <br/> | 否 <br/> |
+|智能数字墨迹 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Shared with Me | 否 <br/> | 否 <br/> | 否 <br/> |
+|Translation | 否 <br/> | 否 <br/> | 否 <br/> |
+|Skype for business 与共享的集成 | 否 <br/> | 否 <br/> | 否 <br/> |
+|版本历史记录 | 否 <br/> | 否 <br/> | 否 <br/> |
+|Office 365 组 | 否 <br/> | 否 <br/> | 否 <br/> |
+|与共同作者的上下文聊天：与文档中的共同作者聊天 | 否 <br/> | 否 <br/> | 否 <br/> |
+|语音听写 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> |
+
+<sup>1</sup>可用性即将推出。<br/>
+<sup>2</sup>在本地 Surface Hub 上可用（未登录）。<br/>
+<sup>3</sup>应用程序目前在 DOD 云中不可用。<br/>
+<sup>4</sup>适用于 GCC 环境的外部共享。 了解有关如何为你的组织[关闭或打开 Microsoft 表单](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)的详细信息。 为 GCC 的高和 DOD 环境禁用外部共享;您组织中的用户可以执行以下操作：填写表单并提交响应、[复制表单并将其共享为模板](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、[共同创作或协作处理表单](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)以及[访问表单结果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。<br/>
