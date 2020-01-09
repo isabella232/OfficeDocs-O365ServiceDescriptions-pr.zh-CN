@@ -1,5 +1,5 @@
 ---
-title: Exchange Online 存档服务说明
+title: Exchange Online Archiving 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 （SP2 及更高版本）或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 12fb7da8cd3e27ff98ea8ca0f759f013eef74e5d
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260517"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987654"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Exchange Online 存档服务说明
+# <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
 Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 （SP2 及更高版本）或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
   
@@ -65,14 +65,14 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
   
 ## <a name="unlimited-archive-storage-quota"></a>无限制存档存储配额
 
- Office 365 中的无限制存档功能（称为*自动扩展存档*）可在 Exchange Online 中的存档邮箱中提供最高 1 TB 的存储空间。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，在达到 100 GB 存储容量时，将自动添加额外的存储空间。 在 Exchange 混合部署中，仅当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 （SP1 或更高版本上）时，基于云的存档邮箱才支持自动扩展存档。 有关详细信息，请参阅 [在 Office 365 中不受限制地存档概述](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。
+ Office 365 中的无限制存档功能（称为*自动扩展存档*）在存档邮箱中提供了额外的存储空间。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，在达到 100 GB 存储容量时，将自动添加额外的存储空间。 在 Exchange 混合部署中，仅当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 （SP1 或更高版本上）时，基于云的存档邮箱才支持自动扩展存档。 有关详细信息，请参阅 [在 Office 365 中不受限制地存档概述](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。
   
 > [!IMPORTANT]
 > 管理员无法调整存储配额。<br/>
 > 驻留在 Exchange Server 2010 上的邮箱不支持自动扩展存档。
   
 > [!IMPORTANT]
-> 仅对单个用户或共享邮箱使用自动扩展存档，这些邮箱的增长速度*不超过每天的&nbsp;1 GB*。 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 用户的存档邮箱只供该用户使用。 Microsoft 保留拒绝在用户存档邮箱用于存储其他用户存档数据的情况下进行无限制存档的权利。 
+> 仅对单个用户或共享邮箱使用自动扩展存档，这些邮箱的增长速度*不超过每天的&nbsp;1 GB*。 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 用户的存档邮箱只供该用户使用。 Microsoft 保留在用户的存档邮箱用于存储其他用户的存档数据或不适当使用的情况下，拒绝无限存档的权利。
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>跨 Exchange Online Archiving 计划的功能可用性
 

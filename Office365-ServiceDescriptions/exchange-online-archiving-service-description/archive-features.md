@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
-ms.openlocfilehash: 9cf2084f947e20f02c40c1bd5e7485d10bcb6416
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260497"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987574"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 存档中的存档功能
 
@@ -33,7 +33,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
   
 > [!IMPORTANT]
 >  不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 <br/>
->  用户的存档邮箱只供该用户使用。 Microsoft 保留拒绝在用户存档邮箱用于存储其他用户存档数据的情况下进行无限制存档的权利。 
+>  用户的存档邮箱只供该用户使用。 Microsoft 保留在用户的存档邮箱用于存储其他用户的存档数据或不适当使用的情况下，拒绝无限存档的权利。
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>将邮件移动到 Exchange Online Archiving
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262575"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987624"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -43,7 +43,7 @@ Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为�
 每个个人存档中只能存储一个用户的邮件数据。 存储空间分配取决于订阅计划。 有关存档邮箱大小的详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)中的 "邮箱存储限制" 部分。
   
 > [!IMPORTANT]
-> - 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。Microsoft 保留拒绝在个人未使用邮箱存档的情况下进行无限制存档的权利。 
+> - 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 如果邮箱存档未在个人方案中使用或在其他不适当的情况下使用，Microsoft 保留在不使用邮箱存档的情况下拒绝无限存档的权利。
 > - 就地存档对 Outlook 用户有特定的许可要求。Outlook 2007 用户必须具有 2011 年 2 月的 Office 2007 累积更新才能访问个人存档。 
 > - Exchange Online 不支持 Exchange Server 2010 Service Pack 1 或更高版本的_New-mailboximportrequest_ Windows PowerShell cmdlet，以供管理员驱动的将 .pst 文件导入个人存档。 如果用户在 Exchange Online 中具有主邮箱和此存档，则管理员可以使用 PST Capture 这款免费工具来将 .pst 文件数据导入到用户的主邮箱或存档中。
 

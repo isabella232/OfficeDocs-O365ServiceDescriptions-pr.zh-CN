@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263033"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987644"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -161,7 +161,7 @@ ms.locfileid: "39263033"
 |高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**[Compliance](compliance-servicedesc.md)** <br/> ||||
+|**[合规性](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -315,7 +315,7 @@ ms.locfileid: "39263033"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[规划和部署](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
+|**[计划和部署](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |支持的混合部署  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |支持的 IMAP 迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |支持的直接转换迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -394,7 +394,7 @@ ms.locfileid: "39263033"
 |POP 和 IMAP  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |EWS 应用程序支持  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[语音邮件服务](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[语音消息服务](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |语音邮件  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |语音邮件和第三方传真之间的集成  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |第三方语音邮件互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -498,7 +498,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 可用邮箱存储量由邮箱类型和用户的订阅许可证决定。管理员可以减小每位用户或全局的最大邮箱大小。
   
 > [!NOTE]
-> 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。用户的存档邮箱只供该用户使用。Microsoft 保留拒绝在用户存档邮箱用于存储其他用户存档数据的情况下进行无限制存档的权利。 
+> 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 用户的存档邮箱只供该用户使用。 Microsoft 保留在用户的存档邮箱用于存储其他用户的存档数据或不适当使用的情况下，拒绝无限存档的权利。
   
 |||||
 |:-----|:-----|:-----|:-----|
