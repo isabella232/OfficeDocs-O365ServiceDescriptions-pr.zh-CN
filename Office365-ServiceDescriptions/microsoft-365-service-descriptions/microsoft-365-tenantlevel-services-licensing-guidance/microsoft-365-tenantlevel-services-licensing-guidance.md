@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 租户级服务的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890469"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000862"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 租户级服务许可指南
 
@@ -25,7 +25,7 @@ ms.locfileid: "37890469"
 > [!NOTE]
 > 某些租户服务当前不能限制特定用户的优势。 应采取措施将服务的好处限制为许可用户。 这有助于避免您的组织在获得目标功能后对组织造成潜在的服务中断。
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
 
 Azure Active Directory 标识保护（AADIP）是 Azure Active Directory 高级 P2 计划的一项功能，可让你检测影响组织标识的潜在漏洞，并将自动响应配置为检测到的可疑与您的组织的标识相关的操作，并调查可疑事件并采取适当的措施来解决这些问题。
 
@@ -39,7 +39,7 @@ SecOps 分析师和安全专家将从基于机器学习算法的已标记用户�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，AADIP 功能在租户级别为租户中的所有用户启用。 有关配置 AADIP 的信息，请参阅[启用 Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable)。
+默认情况下，AADIP 功能在租户级别为租户中的所有用户启用。 有关 AADIP 的信息，请参阅[何谓 Azure Active Directory Identity Protection？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
@@ -139,9 +139,9 @@ OCAS 发现影子它，提供了 Office 365 之间的威胁防护，并可以控
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅[作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
 
-Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了完善的分析来识别和防御网络威胁，并让他们控制数据跨&mdash;任意云应用传播。
+Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并&mdash;允许他们控制数据在任何云应用中的传输方式。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
@@ -149,7 +149,7 @@ Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）�
 
 Azure AD P1 的许可用户可以从 MCAS 中的发现功能中受益。
 
-若要从 MCAS 中的[条件访问应用程序控制](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)功能中受益，还必须授予用户 Azure Active Directory P1 （包含在企业移动性 + 安全 E3/A3/G3、企业移动性 + 安全性 E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 安全性。
+若要从 MCAS 中的[条件访问应用程序控制](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad)功能中受益，还必须为 Azure Active Directory P1 （包括在企业移动性 + 安全 E3/A3/G3、企业移动性 + 安全 E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/a5/g5 安全性）授予许可证。
 
 若要从[自动标记](https://docs.microsoft.com/cloud-app-security/data-protection-policies)中受益，用户必须获得 Azure 信息保护 P2 的许可，该版本包含在企业移动性 + 安全 E5/A5/g5 中，Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 合规性。
 
@@ -325,7 +325,7 @@ Office 365 E5/A5/G5 许可用户，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/
 
 当限制用户与其他人通信时，他们将受益于信息障碍的高级合规性功能。 例如：
 
-| 应用场景                                                                                                                                                                                                              | 需要许可证的是谁？ |
+| 方案                                                                                                                                                                                                              | 需要许可证的是谁？ |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | 两组（组1和组2）无法相互通信（即，限制组1用户与组2用户通信，而组2用户限制与组1用户通信。 | 组1和组2中的用户                    |
 | 限制组1中的用户与公司的其余用户通信。                                                                                                                                       | 仅限组1中的用户                                |
@@ -344,7 +344,7 @@ Office 365 E5/A5/G5 许可用户，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/
 
 Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构建的服务，允许您向组织内外发送经加密的电子邮件，而无需考虑目标电子邮件地址（Gmail、Yahoo!Mail、Outlook.com 等）。
 
-若要查看加密邮件，收件人可以使用一次性密码、通过 Microsoft 帐户登录或使用与 Office 365 关联的工作或学校帐户登录。 此外，收件人也可发送加密回复。 他们不需要 Office 365 订阅即可查看加密邮件或发送加密答复。
+若要查看加密邮件，收件人可以使用一次性密码、通过 Microsoft 帐户登录或使用与 Office 365 关联的工作或学校帐户登录。 此外，收件人也可发送加密回复。 他们无需 Office 365 订阅就可以查看加密邮件或发送加密回复。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
@@ -361,7 +361,6 @@ Office 365 E3/A3/G3、Microsoft 365 E3/A3/G3 和 Azure 信息保护计划1的许
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 管理员应将仅限 Office 365 邮件加密的邮件流规则应用于许可用户。 有关定义邮件流规则的详细信息，请参阅[在 Office 365 中定义用于加密电子邮件的邮件流规则](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 高级邮件加密
 
@@ -402,3 +401,23 @@ Office 365 中的监督策略使您可以捕获指定审阅者进行检查的员
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 管理员选择要包含在监督策略中的特定用户或组。 在选择组时，他们还可以选择组中要从监督策略中排除的特定用户。 有关监督策略的详细信息，请参阅[Office 365 中的监察策略](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies)。
+
+## <a name="conditional-access-policies"></a>条件访问策略
+
+条件访问是 Azure Active Directory 用来将信号放在一起以做出决定以及强制实施组织策略的工具。 条件访问是恒等驱动控制平面的核心。 条件访问策略的最简单之处是 if 语句。 如果用户想要访问某个资源，则必须完成某一操作。 示例：工资经理想要访问工资应用程序，并需要执行多重身份验证以对其进行访问。
+
+### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
+
+企业移动性 + 安全 E3/A3/G3 的许可用户、Microsoft 365 F1/E3/A3/G3 和 Azure Active Directory 高级计划1可从条件访问策略中受益。 企业移动性 + 安全性 E5/A5/G5 的许可用户，Microsoft 365 E5/A5/G5，Microsoft E5 Security 和 Azure Active Directory Premium 计划2可受益于身份保护（基于风险的条件访问策略）。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+安全操作分析师和安全性专家通过具备对用户实施组织策略的能力，要求他们在授予对公司内容的访问权限之前满足特定的条件，从而获益。 最终用户可以随时随地访问他们的工作，同时还能在保护组织资产时随时访问他们的工作。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+默认情况下，在租户级别为租户中的所有用户启用条件访问功能。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+若要明确标识保护和条件访问，用户必须包含在组中或添加到条件访问策略中。 在条件访问策略中，users 和 groups 条件是必需的。 在策略中，您可以选择 "**所有用户**" 或 "特定用户和组"。 您应仅选择经过适当授权的用户和组。 有关详细信息，请参阅[在 Azure Active Directory 条件访问中有哪些条件？](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)。
