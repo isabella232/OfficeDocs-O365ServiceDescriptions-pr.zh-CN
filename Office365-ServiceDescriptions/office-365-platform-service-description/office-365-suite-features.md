@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263123"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216727"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -39,9 +39,9 @@ Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客�
 
 将简介电子邮件自动提供给 Exchange Online 的所有用户。 若要了解详细信息，请参阅[简介电子邮件概述](https://docs.microsoft.com/Briefing/be-overview)。
 
-## <a name="microsoft-flow"></a>Microsoft Flow
+## <a name="microsoft-power-automate"></a>Microsoft 电力自动化
 
-Microsoft Flow 允许自动执行跨应用程序的工作流。可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。模板可作入门之用。要了解有关 Flow 功能及如何使用它们的详细信息，请访问 Microsoft [Flow 网站](https://flow.microsoft.com/en-us/)。
+Microsoft 电力自动化功能使您能够跨应用程序自动执行工作流。 可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。 模板可作入门之用。 要了解有关 Flow 功能及如何使用它们的详细信息，请访问 Microsoft [Flow 网站](https://flow.microsoft.com/en-us/)。
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 

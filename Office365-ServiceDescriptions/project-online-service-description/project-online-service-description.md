@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614821"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216661"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -27,17 +27,17 @@ ms.locfileid: "40614821"
 
 Microsoft Project 提供了以下应用程序，以帮助满足组织对项目和工作管理的需求：
 
-- Web 项目
+- Project 网页版
 - Project Online 
 - Project Online 桌面客户端
 
 本文将帮助您了解每个项目订阅中提供了哪些应用程序，以及每个应用程序提供了哪些功能。
 
-### <a name="project-for-the-web"></a>Web 项目
+### <a name="project-for-the-web"></a>Project 网页版
 
 针对基于云的工作和项目管理，web 的 Project 是 Microsoft 的最新产品。 Web 项目为满足大多数需求和角色提供了简单、强大的工作管理功能。 项目经理和工作组成员可以使用 web 项目来规划和管理任何规模的工作。
 
-Web 的项目是基于 Microsoft Power Platform 建立的。 Power Platform 由 PowerApps、Microsoft Flow、Power BI 和通用数据服务（CD）组成。 Web 数据的项目存储在 CD 中。 
+Web 的项目是基于 Microsoft Power Platform 建立的。 电源平台由 PowerApps、电源自动化、Power BI 和通用数据服务（CD）组成。 Web 数据的项目存储在 CD 中。 
 
 可通过三个订阅（项目计划1、项目计划3和项目计划5）获取 web 的项目。 " [Web 功能的项目](#project-for-the-web-features)" 部分中列出的功能仅与 web 数据存储的项目中的数据进行交互。
 
@@ -80,7 +80,7 @@ Microsoft Project 可通过三种不同的订阅使用，以最大限度地满�
 
 |产品 | 计划 1 | 计划3 | 计划5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Web 项目 |**x**  | **x x** | **x x** |
+|Project 网页版 |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Project Online 桌面客户端 | |**x**|**x**|
 
@@ -119,7 +119,7 @@ Microsoft Project 可通过三种不同的订阅使用，以最大限度地满�
 |移动应用程序 | 使用 PowerApps 生成自定义移动应用程序。<sup>4</sup> |
 |**自定义和集成**||
 |PowerApps | 在 PowerApps 中构建和使用适用于 web 和移动解决方案的解决方案。<sup>4</sup> |
-|工作流 | 自动化并将业务流程与 Microsoft 流程集成。<sup>5</sup> |
+|工作流 | 自动化并将业务流程与电源自动化相集成。<sup>5</sup> |
 |Microsoft Office 365 集成 | 使用熟悉的 Office 365 工具和应用程序进行协作、管理文档等。<sup>1</sup> |
 |**安全性和用户管理**||
 |Office 新式组 | 构建项目工作组以与团队成员协作并轻松地设置要共享的工作组成员的资源集合。|
@@ -150,15 +150,15 @@ Microsoft Project 可通过三种不同的订阅使用，以最大限度地满�
 |安排 | 在使用 Project Web App 的日程表视图中直观地跟踪和理解项目日期、依赖项和工作分配。 | 是 | 是 |
 |时间表 | 工作组成员可以针对任务、非项目工作和非工作时间输入时间和状态。 | 是 | 是 |
 |时间表审批 | 工作组成员可以提交时间表以供审批。 资源经理和主管可以审阅、批准和拒绝已提交的时间表。 | 是 | 是 |
-|非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | 否 | 可访问 |
+|非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | No | 可访问 |
 |**协作** ||||
 |Attachments | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予用户查看和交互项目、任务和文档的访问权限，可与组织外部的人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档的中心。 | 是 | 是 |
 Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</sup> | 是 | 是 |
 |**需求管理** ||||
-|项目请求审批工作流设置 | 构建评估、设置优先级和批准传入需求所需的工作流。 | 否 | 可访问 |
-|项目请求表单创建 | 捕获有关传入请求的重要数据，以帮助您评估新工作并确定其优先级。 | 否 | 可访问 |
+|项目请求审批工作流设置 | 构建评估、设置优先级和批准传入需求所需的工作流。 | No | 可访问 |
+|项目请求表单创建 | 捕获有关传入请求的重要数据，以帮助您评估新工作并确定其优先级。 | No | 可访问 |
 |项目请求 | 从组织内部和外部客户和合作伙伴跟踪、管理、评估传入要求并确定其优先级。 | 是 | 是 |
 |**资源、程序和项目组合管理** ||||
 |项目成本核算和预算 | 使用 Project Web App 将计划的进度和预算与实际时间和成本进行比较。 | 是 | 是 |
@@ -166,9 +166,9 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |资源容量视图 | 在项目、团队和组织级别跟踪和管理资源容量。 | 是 | 是 |
 |资源成本核算 | 跟踪和管理项目的资源成本。 | 是 | 是 |
 |资源预订（预订） | 项目经理可以按角色、技能或名称提交对资源的请求。 资源管理者可以查看请求并分配最合适的可用资源。 |是<sup>7</sup> | 是<sup>8</sup> |
-|资源容量规划 | 在项目、团队和组织级别跟踪和管理资源容量。 | 否 | 可访问 |
+|资源容量规划 | 在项目、团队和组织级别跟踪和管理资源容量。 | No | 可访问 |
 |路线图 | 在 Microsoft Project Online、Microsoft Project for web 和 Azure 董事会项目中跨项目构建直观、交互式路线图。<sup>2</sup> | 是 | 是 |
-|项目组合分析和优先顺序 | 确定、选择和交付最适合您的组织的业务战略的项目组合，并最大化投资回报率（ROI）。 | 否 | 可访问 |
+|项目组合分析和优先顺序 | 确定、选择和交付最适合您的组织的业务战略的项目组合，并最大化投资回报率（ROI）。 | No | 可访问 |
 |仪表板/门户 | 使用实时交互式仪表板，了解项目组合、计划、项目、任务、团队和资源水平的状态、优先顺序和详细信息。 | 是 | 是 |
 |Work, generic, and material resources | 将资源添加到项目中，如人员等工时资源、通用资源（例如，水泥等）和材料资源（如计算机和）。 | 是 | 是 |
 |**报告**<sup>3</sup> ||||
@@ -176,17 +176,17 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |自定义报告 | 通过基于现成报告或从头开始构建自定义报告，了解对您的组织至关重要的数据。 | 是 | 是 |
 |仪表板和门户 | 构建自定义仪表板和门户，以帮助满足特定的组织需求。 | 是 | 是 |
 |**自定义和集成**||||
-|自定义品牌塑造 | 使用自己的品牌、徽标和颜色自定义项目部署。 | 否 | 可访问 |
+|自定义品牌塑造 | 使用自己的品牌、徽标和颜色自定义项目部署。 | No | 可访问 |
 |Custom fields | 在项目、任务和资源级别添加自定义字段，以跟踪对组织和项目重要的数据。 | 是 | 是 |
 |公式 | 在任务和项目中使用公式计算和捕获重要数据。 | 是 | 是 |
 |PowerApps | 在 PowerApps 中构建和使用适用于 web 和移动的解决方案（通过 OData）。<sup>4</sup> | 是 | 是 |
-|工作流 | 通过 Microsoft Flow 自动化和集成业务流程（通过 OData）。<sup>5</sup> | 是 | 是 |
+|工作流 | 自动化和集成使用电源自动化的业务流程（通过 OData）。<sup>5</sup> | 是 | 是 |
 |Microsoft Office 365 集成 | 使用熟悉的 Office 365 工具和应用程序进行协作、管理文档等。<sup>1</sup> | 是 | 是 |
 |Microsoft Planner 集成 | 将项目任务连接到 Planner 计划并跟踪 Planner 中的详细工作。<sup>1</sup> | 是 | 是 |
 |**安全性、用户和服务管理**||||
 |Active Directory integration | 根据组织的 Active Directory 中的任何成员生成团队。<sup>9</sup> | 是 | 是 |
-|用户管理 | 管理项目、团队和组织级别的用户和组角色以及权限。 | 否 | 可访问 |
-|服务管理 | 在 Office 365<sup>1</sup>环境中规划、安装和配置、维护和扩展 Microsoft Project 环境。  | 否 | 可访问 |
+|用户管理 | 管理项目、团队和组织级别的用户和组角色以及权限。 | No | 可访问 |
+|服务管理 | 在 Office 365<sup>1</sup>环境中规划、安装和配置、维护和扩展 Microsoft Project 环境。  | No | 可访问 |
 
 #### <a name="notes"></a>注释
 
@@ -194,7 +194,7 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 <sup>2</sup>个独立购买的 Azure 主板。</br>
 <sup>3</sup>可使用 Power BI 获取 Web 和 project Online 的 project 的报告。 查看、编辑和创建报表需要使用 Power BI Pro 订阅。 Microsoft 提供了一组预建的 Power BI 报告。 用户可以使用 Power BI 来自定义这些报告或生成其他报告。</br> 
 <sup>4</sup>生成 web 数据的 access 项目的自定义 PowerApps 移动应用程序需要 PowerApps 订阅和项目计划3或项目计划5订阅。</br>
-<sup>5</sup>使用 microsoft 数据的 project 对业务流程进行自动化和集成需要 microsoft 流订阅和项目计划3或项目计划5订阅。</br>
+<sup>5</sup>通过使用 web 数据的 Project 自动执行自动化和集成业务流程的过程需要使用 power 自动化订阅和项目计划3或项目计划5订阅。</br>
 <sup>6</sup>外部用户的 Project Online 许可遵循与内部用户相同的策略。 在 Project Online 网站上进行任何交互都需要项目计划3或项目计划5订阅。</br>
 <sup>7</sup>具有项目计划3或项目计划5订阅的用户可以提交资源预订请求。 他们无法查看、履行或批准资源预订请求。</br>
 <sup>8</sup>个具有项目计划5订阅的用户可以查看、履行和批准资源预订请求。</br>
@@ -263,9 +263,9 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 
 Project Online 要求使用 SharePoint Online，这是作为 Project Online 的一部分进行设置的。 与项目计划3或项目计划5订阅一起提供的 SharePoint Online 功能的权限仅限于存储和访问数据以支持 Project Online。
 
-### <a name="project-roadmap-and-microsoft-flow"></a>项目路线图和 Microsoft 流
+### <a name="project-roadmap-and-power-automate"></a>项目路线图和电源自动化
 
-项目路线图需要使用 Microsoft 流，这是作为项目订阅的一部分进行预配的。 对 Microsoft 流功能的权限仅限于项目路线图所需的 Microsoft 流功能。 Microsoft 365 管理中心的 "**应用程序**" 部分中的 "项目路线图" 所需的 Microsoft 流功能显示为 "具有流服务计划的**项目的数据集成**"。
+项目路线图要求使用 Power 自动功能，这是作为项目订阅的一部分进行预配的。 对电源自动化功能的权限仅限于项目路线图所需的电源自动功能。 在 Microsoft 365 管理中心的 "**应用程序**" 部分中，"项目路线图" 所需的电力自动化功能显示为 "具有流服务计划的**项目的数据集成**"。
 
 ### <a name="project-for-the-web-and-common-data-service"></a>Web 和常见数据服务的项目
 
@@ -288,7 +288,7 @@ Web 的项目有一些限制，如下表所述。
 |Max. 摘要任务的持续时间 | 3650天（10年） |
 |Max. 可分配给任务的资源 | 20个资源 |
 |任务的受支持日期范围 | 1/1/1984 &ndash; 12/31/2149 |
-|**项目** ||
+|**Project** ||
 |Max. 项目的任务总数 | 500 |
 |Max. 项目的总持续时间 | 3650天（10年） |
 |Max. 项目的总资源 | 150 |

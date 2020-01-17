@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 政府如何购买
+title: Microsoft 365 政府版购买方式
 ms.author: danarl
 author: danarl
 manager: mnirkhe
@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 063565b3aa2e6cd7a315ebd252bb5de327493c33
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: ac13308180797039797fb087eb2509e3945368cc
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263536"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216541"
 ---
 ---
 
@@ -100,7 +100,7 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 - [政府-DoD 部署团队](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [政府社区云中的 Outlook for iOS 和 Outlook for Android](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps 美国政府版](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft 美国政府版流程](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft 电力自动化美国政府版](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 政府版产品页](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -167,7 +167,7 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 - [政府-DoD 部署团队](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
 - [政府社区云中的 Outlook for iOS 和 Outlook for Android](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps 美国政府版](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft 美国政府版流程](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft 电力自动化美国政府版](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 政府版产品页](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 政府行业页面](https://www.microsoft.com/enterprise/government)
