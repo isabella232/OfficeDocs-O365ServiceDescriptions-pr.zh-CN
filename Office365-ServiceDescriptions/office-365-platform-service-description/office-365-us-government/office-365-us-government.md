@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在 Office 365 服务说明旁边阅读此补充部分。
-ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本文概述了特定于 Office 365 政府美国环境的功能。
+ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
+ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216737"
+ms.lasthandoff: 01/18/2020
+ms.locfileid: "41233355"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
   
-## <a name="how-to-use-this-service-description-section"></a>如何使用本服务说明部分
+## <a name="how-to-use-this-service-description"></a>如何使用此服务说明
 
-Office 365 美国政府版 服务说明旨在作为常规 Office 365 服务说明的整体进行说明。它定义了唯一承诺以及与 Office 365 企业版产品的差异。
+Office 365 美国政府版服务说明旨在用作常规 Office 365 服务说明的覆盖。 它定义了唯一承诺以及与 Office 365 企业版产品的差异。
   
 ## <a name="about-office-365-us-government-environments"></a>关于 Office 365 美国政府版环境
 
@@ -42,8 +42,6 @@ Office 365 美国政府版计划为按月订阅，可以授权给任意数量的
 - 对组织的客户内容的访问权限只限于屏蔽的 Microsoft 员工。
     
 - Office 365 美国政府版符合美国公共部门客户所需的认证和资格鉴定。
-    
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-eligibility"></a>客户资格
 
@@ -54,8 +52,6 @@ Office 365 美国政府版适用于 (1) 美国联邦、州、地方、部族和�
 对 Office 365 美国政府版 资格持有疑问的实体应向其帐户团队咨询。
   
 客户续订 Office 365 美国政府版 合同后，需要重新验证资格。
-  
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="customer-content-located-within-the-united-states"></a>位于美国境内的客户内容
 
@@ -74,13 +70,9 @@ Office 365 美国政府版服务从物理上位于美国的数据中心提供。
   
 如果您的用户在美国中使用 Office for web （以前称为 Office Web Apps），或者您采用了 Active Directory 联合身份验证服务（AD FS）2.0，并设置了策略以帮助您的用户通过单 si 连接到服务gn-打开在 Office 中临时缓存到 web 的任何客户内容都将位于美国中。
   
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 美国政府版和第三方服务
 
 Office 365 可以将第三方应用程序集成到 SharePoint Online 站点、Skype for Business、Office 365 ProPlus 中的 Office 应用程序（如 Word、Excel、PowerPoint 和 Outlook）以及 Outlook Web App。此外，Office 365 还支持与第三方服务提供商集成。这些第三方应用程序和服务可能参与存储、传输和处理组织在 Office 365 基础结构外部的第三方系统上的客户数据，因此未涵盖在 Office 365 合规性和数据保护协议中。我们建议您在为组织评估这些服务的相应使用情况时，查看第三方提供的隐私和合规性声明。
-  
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="restricted-data-access-by-administrators"></a>管理员受限数据访问
 
@@ -96,45 +88,38 @@ Microsoft 管理员对 Office 365 美国政府客户内容的访问权限仅限�
 - 核心载入-这些是租户配置和与 Azure Active Directory （Azure AD）集成所需的任务（如果需要）。 核心载入还为载入其他符合条件的服务提供了基线。
     
 - 服务载入和迁移-服务载入任务可在租户中启用方案。 数据迁移中介绍了数据迁移（包括电子邮件和文件[）。](https://aka.ms/whatcanmigrate)<sup>2</sup>
-    
-用户采用服务由多个任务组成，可提供指导以确保你的用户了解符合条件的服务，并可以使用它们推动业务价值。此协助与载入活动并行发生。
+
+用户采用服务由任务组成，这些任务为您提供指导，以确保您的用户了解符合条件的服务，并可以使用它们推动业务价值。 此协助与载入活动并行发生。
   
 可在[此处](https://aka.ms/whatistheprocess)找到有关 FastTrack 中心流程的特定信息。 有关接洽角色和责任的细分，请查看[FastTrack 责任](https://aka.ms/whatdoesftcdo)以及[您的责任](https://aka.ms/whatdowedo)。
   
-<sup>1</sup>您必须从[符合条件的计划](https://aka.ms/whocanbenefit)列表中至少购买50许可证，才能接收 FastTrack 服务。 
-  
-<sup>2</sup>数据迁移服务可用于包含500或更多许可证的 Office 365 租户。 
+> <sup>1</sup>您必须从[符合条件的计划](https://aka.ms/whocanbenefit)列表中至少购买50许可证，才能接收 FastTrack 服务。
+<br/><sup>2</sup>数据迁移服务可用于包含500或更多许可证的 Office 365 租户。
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>FastTrack 执行的数据迁移
 
-选择[FastTrack](https://fasttrack.microsoft.com/)迁移权益的客户将需要向管理其数据迁移的团队授予访问权限。 在为 Office 365 美国政府版的客户执行迁移之前，这些人员都是美国公民，并进行了以下背景检查。 
+选择[FastTrack](https://fasttrack.microsoft.com/)迁移权益的客户将需要向管理其数据迁移的团队授予访问权限。 在为 Office 365 美国政府版的客户执行迁移之前，这些人员都是美国公民，并进行了以下背景检查。
   
 ||||
 |:-----|:-----|:-----|
-|**背景筛查** <br/> |**GCC** <br/> |**GCC High 和 DoD** <br/> |
-|核实美国公民身份  <br/> |是  <br/> |是  <br/> |
-|工作经历调查  <br/> |是  <br/> |是  <br/> |
-|核实教育背景  <br/> |是  <br/> |是  <br/> |
+|**后台筛选** <br/> |**GCC** <br/> |**GCC High 和 DoD** <br/> |
+|验证美国公民  <br/> |是  <br/> |是  <br/> |
+|就业历史记录检查  <br/> |是  <br/> |是  <br/> |
+|教育版验证  <br/> |是  <br/> |是  <br/> |
 |社会安全号码（SSN）搜索  <br/> |是  <br/> |是  <br/> |
-|犯罪记录调查（7 年）  <br/> |是  <br/> |是  <br/> |
-   
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
-  
+|犯罪历史记录检查（7年）  <br/> |是  <br/> |是  <br/> |
+     
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 美国政府版和 Azure 政府 ExpressRoute
 
 Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来私下连接到受支持的 Office 365 服务，而不是通过公共 internet 进行连接。
   
-有关受支持的提供商、定价模型及更多详细信息，请查看 [Azure ExpressRoute 信息](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
+有关详细信息（如受支持的提供商、定价模型等），请查看[Azure ExpressRoute 信息](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409)。
   
-有关 Office 365 Azure ExpressRoute 支持的详细信息，请参阅 [Office 365 的 Azure ExpressRoute ](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)。
-  
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
+有关 Office 365 支持 Azure ExpressRoute 的详细信息，请参阅[Azure expressroute For office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409)
   
 ## <a name="system-requirements"></a>系统要求
 
 有关 Office 365 美国政府版 计划的系统要求，请参阅 [office.com](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) 产品网站上的 [Office 的系统要求](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409)。 
-  
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -154,7 +139,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business (Instant Messaging &amp; Presence)  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |是<sup>1</sup> <br/> |
-| 语音电话系统、音频会议  <br/> |否<sup>2、3</sup> <br/> |否<sup>2、3</sup> <br/> |是<sup>3，5</sup> <br/> |否  <br/> |
+| 语音电话系统、音频会议  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是 <sup>5</sup> <br/> |否  <br/> |
 |Power BI Pro  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |无<sup>2</sup> <br/> |
 |Project Online  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |
 |Visio 网页版  <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |无<sup>6</sup> <br/> |
@@ -180,7 +165,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |使用 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |无<sup>1</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup>  <br/> |无<sup>1</sup> <br/> |
 |**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
-|Microsoft 预订  <br/> |No  <br/> |否  <br/> |No  <br/> |No  <br/> |
+|Microsoft 预订  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft 简介电子邮件  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft 电力自动化  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |是 <br/> |是 <br/> |是<br/> |是</sup> <br/> |
@@ -307,8 +292,6 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 <br/><sup>18</sup>在 GCC 高和 DoD 中尚不提供用于用户和域模拟和欺骗情报的反网络钓鱼。
 <br/><sup>19</sup>尚无法在 GCC 环境中使用，但即将推出。
   
-["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
-  
 ## <a name="office-application-availability-and-enterprise-value"></a>Office 应用程序可用性和企业价值
 
 下表显示 Office 365 美国政府版计划中所提供的 Office 应用程序功能。
@@ -337,7 +320,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多语言用户界面  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
-|客户端推送部署  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|客户端推送部署  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |No  <br/> |
 |内部部署 Exchange 的客户端支持  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |内部部署 SharePoint 的客户端支持  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |控制软件更新  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
@@ -352,7 +335,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Office 插件、ActiveX 和 BHO 支持  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |Office Lens  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|Office 遥测  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |No  <br/> |
+|Office 遥测  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |客户端应用程序的脱机支持  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |优化并排客户端安装  <br/> |No  <br/> |可访问  <br/> |是  <br/> |No  <br/> |
 |Power Map for Excel  <br/> |No  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |No  <br/> |
@@ -372,7 +355,6 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 <br/><sup>5</sup>有关更多详细信息，请参阅[在政府社区云中使用 Outlook For iOS 和 Outlook for Android](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) 。
 <br/><sup>6</sup>在 Office 365 DoD 环境中尚不可用，但即将推出。
 <br/><sup>7</sup>应用程序在政府群中完全可用，但目前尚不可用的特定功能除外。 有关详细信息，请参阅[Office 应用程序功能可用性](#office-application-and-feature-availability-in-government-plans)。
-<br/><br/>["如何使用此服务说明" 部分](office-365-us-government.md#how-to-use-this-service-description-section)
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>政府计划中的 Office 应用程序和功能可用性
 
@@ -404,7 +386,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Office 集成 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 否 <br/> |
 |最近的组窗体 | 是 <br/> | 是 <br/> | No <br/> |
 |外部共享<sup>4</sup> | 是 <br/> | No <br/> | 否 <br/> |
-|Forms Pro | No | No | No |
+|Forms Pro | No | 否 | 否 |
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府群中完全可用，但以下功能（此时不可用）除外： | **GCC** <br/> | **GCC 高** <br/> | **DOD** <br/> |
 |研究工具 | No <br/> | No <br/> | No <br/> |
 |智能数字墨迹 | No <br/> | No <br/> | No <br/> |
@@ -456,7 +438,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |与共同作者的上下文聊天：与文档中的共同作者聊天 | No <br/> | No <br/> | No <br/> |
 |语音听写 | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> | 无<sup>1</sup> <br/> |
 
-<sup>1</sup>可用性即将推出。<br/>
+> <sup>1</sup>可用性即将推出。<br/>
 <sup>2</sup>在本地 Surface Hub 上可用（未登录）。<br/>
 <sup>3</sup>应用程序目前在 DOD 云中不可用。<br/>
-<sup>4</sup>适用于 GCC 环境的外部共享。 了解有关如何为你的组织[关闭或打开 Microsoft 表单](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)的详细信息。 为 GCC 的高和 DOD 环境禁用外部共享;您组织中的用户可以执行以下操作：填写表单并提交响应、[复制表单并将其共享为模板](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、[共同创作或协作处理表单](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)以及[访问表单结果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。<br/>
+<sup>4</sup>适用于 GCC 环境的外部共享。 了解有关如何为你的组织[关闭或打开 Microsoft 表单](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure)的详细信息。 为 GCC 的高和 DOD 环境禁用外部共享;您组织中的用户可以执行以下操作：填写表单并提交响应、[复制表单并将其共享为模板](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、[共同创作或协作处理表单](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)以及[访问表单结果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。
