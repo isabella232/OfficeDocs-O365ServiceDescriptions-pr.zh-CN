@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 查找适用于 Office 365 企业版计划和独立计划的 SharePoint Online 限制。
-ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b5ba34d3a1ebd80d7833e09e70a76b57882ae6fd
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216641"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519193"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online 限制
 
@@ -66,7 +66,7 @@ ms.locfileid: "41216641"
 
 - **SharePoint 承载的应用程序**-每个组织的20000实例。
 
-- **每个列表或库的唯一安全作用域**-强制性限制为50000，但建议的常规限制为5000。 在5000以上，访问控制列表（ACL）大小从开始到很重要。 [！注意] 尽管您可以在强制限制为50000的情况下添加作用域，但 Microsoft 不建议这样做，除非您有特别具体的方案。 对于大型列表，设计应具有尽可能少的唯一权限。
+- **每个列表或库的唯一安全作用域**-支持的限制为50000，但建议的常规限制为5000。 在5000以上，访问控制列表（ACL）大小从开始到很重要。 虽然您可以将作用域添加到支持的限制为50000，但 Microsoft 不建议这样做，除非您有一个非常具体的方案需要注意。 对于大型列表，设计应具有尽可能少的唯一权限。
 
 - **用户**-每个网站集2000000。
     > [!NOTE]
