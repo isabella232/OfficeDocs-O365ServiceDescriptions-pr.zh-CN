@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: 您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？ 请参阅 Skype for Business 许可概述。
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263266"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711912"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online 服务说明
 
 > [!NOTE]
-> Microsoft 团队现在是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 将向 Microsoft 团队载入500的新的 Office 365 客户提供或更少的客户，并且将无法访问 Skype for business Online。 已在使用 Skype for Business Online 的租户将能够继续执行此操作（包括预配新用户），直到他们完成向 Microsoft 团队的过渡。
+> Microsoft 团队现在是用于在 Office 365 中进行消息传递、会议和通话的主要客户端。 从2018年10月1日起，将载入到 Microsoft 团队500的新的 Office 365 客户，并且不会对 Skype for business Online 提供访问权限。 从2019年9月1日到目前为止，这适用于所有新客户。 已使用 Skype for Business Online 的租户可以继续执行此操作（包括预配新用户），直到他们完成向 Microsoft 团队的过渡。
 
 > [!NOTE]
 > Skype for Business Online 计划2从2019年7月1日销售退休。 这意味着，您将无法再获取 Skype for Business Online 计划2以用于即时消息、状态、会议和对等语音和视频。 这些功能将继续在所有 Office 365 提供中受到支持，其中包括团队，包括 Office 365 套件。 当计划在当前术语结束时过期时，为了能够继续访问这些功能，您必须切换到其他计划。 我们建议您为当前已分配 Skype for business Online 计划2的用户评估 Office 365 业务重点、商业高级版或任何其他 Office 套件。 
@@ -236,7 +236,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 | Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |AOL 和 Yahoo! 联合身份验证  <br/> |是  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
-|临时和计划音频会议  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|临时和计划音频会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |临时会议和计划视频会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |活动扬声器视频  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |H-p 编码和解码  <br/> |是  <br/> |否  <br/> |是  <br/> |

@@ -1,5 +1,5 @@
 ---
-title: 用于 web 服务说明的 Office
+title: Office 网页版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263516"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711902"
 ---
-# <a name="office-for-the-web-service-description"></a>用于 web 服务说明的 Office
+# <a name="office-for-the-web-service-description"></a>Office 网页版服务说明
 
 Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。 
   
@@ -192,7 +192,7 @@ Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word
 > [!NOTE] 
 > <sup>1</sup>无法创建数据透视图，只能查看。
  <br/><sup>2</sup>根据您的环境的配置方式，在 Excel 中为 web 显示的工作簿支持某些类型的数据连接。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
- <br/><sup>3</sup>您不能在 Excel for the web 中创建带有 vba 的宏，但是，您可以打开和编辑启用 vba 的电子表格，而无需删除（或损坏）文件中包含的 vba。
+ <br/><sup>3</sup>无法在 Excel for web 中创建或运行带有 vba 的宏，但是，您可以打开和编辑启用 vba 的电子表格，而无需删除（或损坏）文件中包含的 vba。
  <br/><sup>4</sup>在 Excel for web 中，最后一个已知的引用值显示在浏览器窗口中;但是，必须使用 Excel 桌面应用程序对其进行更新。 
  <br/><sup>5</sup> 某些（并非所有）Office 外接程序可用。 
   
