@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
+ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262565"
+ms.lasthandoff: 02/05/2020
+ms.locfileid: "41773772"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -62,7 +62,7 @@ ms.locfileid: "39262565"
 <sup>8</sup>您还可以使用[Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 <br/>
 <sup>9</sup>可添加到任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 的 DLP 加载项。<br/>
 <sup>10 个</sup>敏感标签也包含在 Azure 信息保护 P1 和 P2 中。<br/>
-<sup>11</sup>需要 Exchange Online 计划2许可证才能将保留策略应用于用户邮箱。 
+<sup>11</sup>需要 Exchange Online 计划2许可证，才能使用保留策略将用户邮箱置于保留状态。
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立&amp;计划的安全合规性中心可用性
 
@@ -87,7 +87,7 @@ ms.locfileid: "39262565"
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |否  <br/> |否  <br/> |
 |[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |否  <br/> |否  <br/> |
-|[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
+|[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |是<sup>11</sup>  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
 |[监督策略](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |||||||||
    
@@ -100,7 +100,8 @@ ms.locfileid: "39262565"
 <sup>7</sup>包括存储在 Microsoft 团队存储库中的文件。<br/>
 <sup>8</sup>您还可以使用[Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 <br/>
 <sup>9</sup>可添加到任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 的 DLP 加载项。<br/>
-<sup>10</sup>限制为存储在 OneDrive for business 中的文件。
+<sup>10</sup>限制为存储在 OneDrive for business 中的文件。<br/>
+<sup>11</sup>需要 Exchange Online 计划2许可证，才能使用保留策略将用户邮箱置于保留状态。
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
