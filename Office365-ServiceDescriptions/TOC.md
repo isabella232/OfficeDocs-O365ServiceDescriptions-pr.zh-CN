@@ -1,6 +1,4 @@
 
-  
-
 # [Office 365 服务说明](office-365-service-descriptions-technet-library.md)
 ## [Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
@@ -111,10 +109,10 @@
 ### [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-### [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
-### [Microsoft 365 租户级服务许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+### [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+### [Microsoft 365 安全性与合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Microsoft 365 合规性计划 - DoD 部署](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Microsoft 365 合规性计划 - GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Microsoft 365 合规性计划 - GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
-
+ 
