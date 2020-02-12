@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216661"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931938"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -62,7 +62,7 @@ Project Online Essentials 不包含 web 的项目。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面客户端
 
-Microsoft Project Online 桌面客户端是一个项目管理程序，可提供自动化的日程安排、项目资源管理和内置报告功能。 Project Online 桌面客户端可用作独立的应用程序，也可以连接到 Project Online。 Project Online 桌面客户端是 Project Online 桌面客户端的订阅版本，可在项目计划3和项目计划5订阅中使用。
+Microsoft Project Online 桌面客户端是一个项目管理程序，可提供自动化的日程安排、项目资源管理和内置报告功能。 Project Online 桌面客户端可用作独立的应用程序，也可以连接到 Project Online。 Project Online 桌面客户端是 Project Professional 桌面客户端的订阅版本，可在项目计划3和项目计划5订阅中使用。
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>结合使用 web 项目和 Project Online
 
@@ -150,15 +150,15 @@ Microsoft Project 可通过三种不同的订阅使用，以最大限度地满�
 |安排 | 在使用 Project Web App 的日程表视图中直观地跟踪和理解项目日期、依赖项和工作分配。 | 是 | 是 |
 |时间表 | 工作组成员可以针对任务、非项目工作和非工作时间输入时间和状态。 | 是 | 是 |
 |时间表审批 | 工作组成员可以提交时间表以供审批。 资源经理和主管可以审阅、批准和拒绝已提交的时间表。 | 是 | 是 |
-|非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | No | 可访问 |
+|非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | 否 | 可访问 |
 |**协作** ||||
-|Attachments | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
+|附件 | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予用户查看和交互项目、任务和文档的访问权限，可与组织外部的人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档的中心。 | 是 | 是 |
 Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</sup> | 是 | 是 |
 |**需求管理** ||||
-|项目请求审批工作流设置 | 构建评估、设置优先级和批准传入需求所需的工作流。 | No | 可访问 |
-|项目请求表单创建 | 捕获有关传入请求的重要数据，以帮助您评估新工作并确定其优先级。 | No | 可访问 |
+|项目请求审批工作流设置 | 构建评估、设置优先级和批准传入需求所需的工作流。 | 否 | 可访问 |
+|项目请求表单创建 | 捕获有关传入请求的重要数据，以帮助您评估新工作并确定其优先级。 | 否 | 可访问 |
 |项目请求 | 从组织内部和外部客户和合作伙伴跟踪、管理、评估传入要求并确定其优先级。 | 是 | 是 |
 |**资源、程序和项目组合管理** ||||
 |项目成本核算和预算 | 使用 Project Web App 将计划的进度和预算与实际时间和成本进行比较。 | 是 | 是 |
@@ -166,9 +166,9 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |资源容量视图 | 在项目、团队和组织级别跟踪和管理资源容量。 | 是 | 是 |
 |资源成本核算 | 跟踪和管理项目的资源成本。 | 是 | 是 |
 |资源预订（预订） | 项目经理可以按角色、技能或名称提交对资源的请求。 资源管理者可以查看请求并分配最合适的可用资源。 |是<sup>7</sup> | 是<sup>8</sup> |
-|资源容量规划 | 在项目、团队和组织级别跟踪和管理资源容量。 | No | 可访问 |
+|资源容量规划 | 在项目、团队和组织级别跟踪和管理资源容量。 | 否 | 可访问 |
 |路线图 | 在 Microsoft Project Online、Microsoft Project for web 和 Azure 董事会项目中跨项目构建直观、交互式路线图。<sup>2</sup> | 是 | 是 |
-|项目组合分析和优先顺序 | 确定、选择和交付最适合您的组织的业务战略的项目组合，并最大化投资回报率（ROI）。 | No | 可访问 |
+|项目组合分析和优先顺序 | 确定、选择和交付最适合您的组织的业务战略的项目组合，并最大化投资回报率（ROI）。 | 否 | 可访问 |
 |仪表板/门户 | 使用实时交互式仪表板，了解项目组合、计划、项目、任务、团队和资源水平的状态、优先顺序和详细信息。 | 是 | 是 |
 |Work, generic, and material resources | 将资源添加到项目中，如人员等工时资源、通用资源（例如，水泥等）和材料资源（如计算机和）。 | 是 | 是 |
 |**报告**<sup>3</sup> ||||
@@ -176,7 +176,7 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |自定义报告 | 通过基于现成报告或从头开始构建自定义报告，了解对您的组织至关重要的数据。 | 是 | 是 |
 |仪表板和门户 | 构建自定义仪表板和门户，以帮助满足特定的组织需求。 | 是 | 是 |
 |**自定义和集成**||||
-|自定义品牌塑造 | 使用自己的品牌、徽标和颜色自定义项目部署。 | No | 可访问 |
+|自定义品牌塑造 | 使用自己的品牌、徽标和颜色自定义项目部署。 | 否 | 可访问 |
 |Custom fields | 在项目、任务和资源级别添加自定义字段，以跟踪对组织和项目重要的数据。 | 是 | 是 |
 |公式 | 在任务和项目中使用公式计算和捕获重要数据。 | 是 | 是 |
 |PowerApps | 在 PowerApps 中构建和使用适用于 web 和移动的解决方案（通过 OData）。<sup>4</sup> | 是 | 是 |
@@ -185,10 +185,10 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |Microsoft Planner 集成 | 将项目任务连接到 Planner 计划并跟踪 Planner 中的详细工作。<sup>1</sup> | 是 | 是 |
 |**安全性、用户和服务管理**||||
 |Active Directory integration | 根据组织的 Active Directory 中的任何成员生成团队。<sup>9</sup> | 是 | 是 |
-|用户管理 | 管理项目、团队和组织级别的用户和组角色以及权限。 | No | 可访问 |
-|服务管理 | 在 Office 365<sup>1</sup>环境中规划、安装和配置、维护和扩展 Microsoft Project 环境。  | No | 可访问 |
+|用户管理 | 管理项目、团队和组织级别的用户和组角色以及权限。 | 否 | 可访问 |
+|服务管理 | 在 Office 365<sup>1</sup>环境中规划、安装和配置、维护和扩展 Microsoft Project 环境。  | 否 | 可访问 |
 
-#### <a name="notes"></a>注释
+#### <a name="notes"></a>备注
 
 <sup>1</sup>需要 Office 或 Microsoft 365 商业版订阅。</br>
 <sup>2</sup>个独立购买的 Azure 主板。</br>
