@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 服务说明
+title: SharePoint 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,244 +13,196 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外，SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。
-ms.openlocfilehash: c6719ec7efc2caea5a7190d55ae9da0c535f72a5
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+description: 查看哪些 SharePoint 功能可用于哪些计划。
+ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969957"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172849"
 ---
-# <a name="sharepoint-online-service-description"></a>SharePoint Online 服务说明
+# <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
-Office 365 中的 Microsoft SharePoint Online 使用户能够共享和协同工作、通知和接洽公司中的其他人、转换业务流程和充分利用集体知识。 此外，SharePoint 还为组织提供了用于保护和管理数据以及构建自定义解决方案的功能。 有关快速概述，请参阅[什么是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
+Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和应用程序，以执行以下操作：
+
+- 使团队协作更加强大
+- 快速查找信息
+- 跨组织无缝协作
+
+有关快速概述，请参阅[什么是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要查看哪些 Office 365 计划包括 SharePoint，请[比较 office 365 For Business 计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。 有关 Office 365 的系统要求，请参阅[office 的系统要求](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
+
+若要了解有关我们政府云客户的 SharePoint 功能的区别，请参阅[sharepoint FOR us 政府环境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   
 ## <a name="whats-new"></a>最近更新
 
-有关 SharePoint Online 中新增功能的信息，请参阅 [SharePoint Online 的新增功能](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)。
-  
-## <a name="system-requirements"></a>系统要求
-
-有关 Office 365（一种可供商务、教育以及政府组织使用的基于每月订阅的服务）的系统要求，请参阅 [Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
-  
-> [!NOTE]
-> 组织可以部署混合 SharePoint 环境，其中包含通常在本地部署的 SharePoint Server 2013 或 2016 以及 SharePoint Online。若要了解详细信息，请参阅 [SharePoint Server 2013 混合环境](https://docs.microsoft.com/SharePoint/hybrid/hybrid)或 [SharePoint Server 2016 混合环境](https://docs.microsoft.com/SharePoint/hybrid/hybrid)。 
-  
-## <a name="sharepoint-online-boundaries-and-limits"></a>SharePoint Online 边界和限制
-
-Microsoft 管理的 SharePoint Online 服务（如网站集配额、文件上载限制和存储限制）存在一些限制。 有关详细信息，请参阅[SharePoint Online 限制](sharepoint-online-limits.md)。
-  
-要了解有关移动支持的详细信息，请参阅[通过移动设备使用 SharePoint Online 网站](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6)。
+有关即将发布的最新功能的信息，请参阅[SharePoint 中的新增](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)功能。
   
 ## <a name="subscription-options"></a>订阅选项
 
-Office 365 推出了各种计划，旨在最大限度地满足组织需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
+Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-访问 SharePoint Online 的每个人必须分配有 Office 365 计划或 SharePoint Online 计划 1 或 SharePoint Online 计划 2 独立服务。 但是，Firstline 计划并不作为独立的产品销售，而是作为 Firstline 订阅的一部分进行销售，如 SharePoint Online Firstline。 由于 Firstline 工作人员不能是管理员，因此具有 Firstline 工作人员的租户要求至少有一个企业管理员来管理 SharePoint。 Firstline 工作人员将不会看到 SharePoint 导航菜单，因此 Firstline 工作人员必须通过 URL 直接导航到 SharePoint 网站。
+若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立服务销售，仅作为 Firstline 订阅的一部分出售。 Firstline 工作人员将不会看到 SharePoint 导航菜单，因此 Firstline 工作人员必须通过 URL 直接导航到 SharePoint 网站。
   
-## <a name="onedrive-for-business"></a>OneDrive for Business
+## <a name="rights-of-guests"></a>来宾的权限
 
-OneDrive for Business（以前称为"OneDrive Pro"）是公司员工的个人网盘。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 OneDrive for Business 独立选项包含适用于 web 的 Office。 若要查看在 Office for web 中包含哪些功能包含在 OneDrive for business 中，请参阅[onedrive For business 服务说明](../onedrive-for-business-service-description.md)。
+如果你购买计划并创建使用企业版功能的网站，则你邀请的来宾将被授予使用和/或查看你向其邀请了其的网站内的企业功能的权限。 虽然您可以邀请来宾在网站上执行一系列的操作，但它们不会与您的组织中的授权用户具有相同的功能。 例如，如果您的计划包含 Office 应用程序的桌面版本，则来宾无法将其安装在自己的计算机上，除非您为他们分配许可证。
+
+## <a name="onedrive"></a>OneDrive
+
+Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive 包含在 SharePoint 中，也可作为独立计划进行购买。 若要了解每个计划有多少 OneDrive 存储，请参阅[Onedrive 服务说明](../onedrive-for-business-service-description.md)。
+
+## <a name="apps"></a>应用
+
+若要在计算机上同步 SharePoint 文件，用户可以使用适用于 Windows 或 Mac 的[OneDrive 同步应用程序](https://onedrive.live.com/about/download/)。 有关同步应用中的功能可用性的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。 
+
+若要在移动设备上使用 SharePoint 网站，他们可以[安装适用于 iOS、Android 或 Windows 的 sharepoint 移动应用程序](https://products.office.com/sharepoint/mobile-app)。 
   
-## <a name="sharepoint-online-enterprise-external-users"></a>SharePoint Online 企业版外部用户
-
-外部用户将继承邀请他们协作的 SharePoint Online 客户的使用权限。即，如果组织购买 E3 企业版计划并构建使用企业功能的网站，外部用户将被授予使用和/或查看受邀加入的网站集内的企业功能的权限。外部用户可以作为扩展项目成员受到邀请，以执行网站上的所有操作，但不具备与组织内的付费许可完全权限成员相同的功能。了解有关[外部用户可以执行和不能执行的操作](https://docs.microsoft.com/sharepoint/external-sharing-overview)的详细信息。
   
-## <a name="feature-availability-across-office-365-plans"></a>跨 Office 365 计划的功能可用性
+## <a name="developer-features"></a>开发人员功能
 
-使用下表确定 Office 365 计划中 SharePoint 功能是否可用。 
+除非另有说明，否则以下功能在包含 SharePoint 的所有计划和所有 SharePoint 独立计划中都可用：
 
-> [!TIP]
-> 此表中的某些列可能被隐藏。 使用表格底部的滚动条向右滚动，查看其他列。
-  
-****
+- [外接集成：合作伙伴托管和 SharePoint 托管](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
+- [应用程序分发：应用程序目录](/sharepoint/use-app-catalog)
+- [应用程序分发： AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
+- [Business Connectivity Services （BCS）](/sharepoint/manage-business-connectivity-service-applications)。 需要 SharePoint 计划2、Office 365 企业版 E3 或 Office 365 企业版 E5
+- [托管代码的客户端对象模型](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
+- [开发人员网站](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
+- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home)。 需要 SharePoint 计划2、Office 365 企业版 E3 或 Office 365 企业版 E5
+- [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization)。 您的国家/地区可能会阻止某些提供商。
+- [REST 服务和 OData 查询](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
+- [SharePoint Designer 2013 （针对经典网站）](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1)。 不适用于 firstline 工作人员。
+- [SharePoint 框架（SPFx）](/sharepoint/dev/spfx/sharepoint-framework-overview)
+- [网站设计和网站脚本](/sharepoint/dev/declarative-customization/site-design-overview)
+- [网站主题](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-|||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**开发人员功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[应用程序目录（SharePoint）](developer.md#app-catalog-sharepoint) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[应用程序部署：云托管的应用程序](developer.md#app-deployment-cloud-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[应用程序部署： SharePoint 承载的应用程序](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[App Management Service](developer.md#app-management-service) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[BCS：应用程序范围的外部内容类型（Ect）](developer.md#bcs-app-scoped-external-content-types-ects) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[BCS：业务数据 Web 部件](developer.md#bcs-business-data-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[BCS：外部列表](developer.md#bcs-external-list) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[BCS：OData 连接器](developer.md#bcs-odata-connector) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[BCS：富客户端集成](developer.md#bcs-rich-client-integration) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[客户端对象模型（OM）](developer.md#client-object-model-om) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[自定义网站设置页](developer.md#custom-site-provisioning-page) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[开发人员网站](developer.md#developer-site) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[基于表单的应用程序](developer.md#infopath-forms-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[完全信任的解决方案](developer.md#full-trust-solutions) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |是<sup>15</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[JavaScript 对象模型](developer.md#javascript-object-model) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[远程事件接收器](developer.md#remote-event-receiver) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[REST API](developer.md#rest-apis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 设计管理器](developer.md#sharepoint-design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[SharePoint Framework](developer.md#sharepoint-framework) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 2010 工作流（现成）](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 2013 和 SharePoint 2016 工作流](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**IT 专业人员功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Active Directory 同步](it-professional.md#active-directory-synchronization) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[备用访问映射 (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[反恶意软件保护](it-professional.md#anti-malware-protection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[基于声明的身份验证支持](it-professional.md#claims-based-authentication-support) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[Office 365 的客户密钥](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |无<sup>18</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[数据丢失预防](it-professional.md#data-loss-prevention) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[静态加密](it-professional.md#encryption-at-rest) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|传输中的加密  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[主机标头网站集](it-professional.md#host-header-site-collections) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[Office 365 移动设备管理](it-professional.md#mobile-device-management-for-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[OAuth](it-professional.md#oauth) <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是  <br/> |是  <br/> |
-|[修补程序管理](it-professional.md#patch-management) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[配额模板](it-professional.md#quota-templates) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[只读数据库支持](it-professional.md#read-only-database-support) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[远程 BLOB 存储](it-professional.md#remote-blob-storage) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[请求管理](it-professional.md#request-management) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[资源限制](it-professional.md#resource-throttling) <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[服务应用程序平台](it-professional.md#service-application-platform) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 运行状况分析器](it-professional.md#sharepoint-health-analyzer) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[SharePoint 管理中心（Office 365）](it-professional.md#sharepoint-admin-center-office-365) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |无<sup>3</sup> <br/> |不适用  <br/> |不适用  <br/> |
-|SharePoint 管理中心  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |不适用  <br/> |是  <br/> |是  <br/> |
-|[网站集合规性策略](it-professional.md#site-collection-compliance-policies) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[使用率报告和日志记录](it-professional.md#usage-reporting-and-logging) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Windows PowerShell 支持](it-professional.md#windows-powershell-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**内容功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[辅助功能标准支持](content.md#accessibility-standards-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[资产库增强/视频支持](content.md#asset-library-enhancementsvideo-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[审核](content.md#auditing) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[审核&amp;报告（例如，文档编辑、策略编辑、删除）](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Catalog](content.md#catalog) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[类别页面和目录项页面](content.md#category-page-and-catalog-item-page) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[内容管理器](content.md#content-organizer) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[跨网站发布](content.md#cross-site-publishing) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[设计管理器](content.md#design-manager) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[文档集](content.md#document-sets) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word for web 中的文档翻译](content.md#document-translation-in-word-for-the-web) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[电子数据展示搜索](content.md#ediscovery-search) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是  <br/> |是  <br/> |
-|[电子数据展示保留](content.md#ediscovery-hold) <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |否  <br/> |是<sup>5</sup> <br/> |无<sup>5</sup> <br/> |是<sup>5</sup> <br/> |无<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |
-|[电子数据展示导出](content.md#ediscovery-export) <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |否  <br/> |是<sup>5</sup> <br/> |无<sup>5</sup> <br/> |是<sup>5</sup> <br/> |无<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |
-|[外部共享：外部访问](content.md#external-sharing-external-access) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |可配置 extranet  <br/> |可配置 extranet  <br/> |
-|[外部共享：来宾链接](content.md#external-sharing-guest-link) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |否  <br/> |否  <br/> |
-|[分面导航](content.md#faceted-navigation) <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>5</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[文件夹同步](content.md#folder-sync) <br/> |是 <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |是  <br/> |是<sup>1</sup> <br/> |是  <br/> |是  <br/> |
-|混合分类和内容类型  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |是  <br/> |是  <br/> |
-|[图像重建](content.md#image-renditions) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[信息权限管理 (IRM)](content.md#information-rights-management-irm) <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |否<sup>3、4</sup> <br/> |是  <br/> |是  <br/> |
-|[托管元数据服务](content.md#managed-metadata-service) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[元数据驱动的导航](content.md#metadata-driven-navigation) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[多阶段处置](content.md#multi-stage-disposition) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office for web （创建/编辑）](content.md#office-for-the-web-createedit) <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>14</sup> <br/> |是  <br/> |是  <br/> |
-|[Office for web （视图）](content.md#office-for-the-web-view) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 专业增强版  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[Office Web Apps 服务器集成](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |是  <br/> |是  <br/> |
-|[保存保留库](content.md#preservation-hold-library) <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|[发布分析](content.md#publishing-analytics) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[快速编辑](content.md#quick-edit) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[记录管理](content.md#records-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[回收站（SharePoint 管理中心）](content.md#recycle-bin-sharepoint-admin-center) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[回收站（网站集）](content.md#recycle-bin-site-collection) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[搜索 web 部件](content.md#search-web-parts) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[共享内容类型](content.md#shared-content-types) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 翻译服务](content.md#sharepoint-translation-services) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[唯一文档 ID](content.md#unique-document-ids) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[视频搜索](content.md#video-search) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[WCM： Search Engine 优化（SEO）](content.md#wcm-search-engine-optimization-seo) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Word 自动化服务](content.md#word-automation-services) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**洞察力功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[商业智能中心](insights.md#business-intelligence-center) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[计算度量值和成员](insights.md#calculated-measures-and-members) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[数据连接库](insights.md#data-connection-library) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[分离的 PivotTable 和 PivotChart](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[字段列表和字段支持](insights.md#field-list-and-field-support) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[筛选器增强功能](insights.md#filter-enhancements) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[筛选器搜索](insights.md#filter-search) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[PerformancePoint 服务](insights.md#performancepoint-services) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[Power BI Web 部件](insights.md#power-bi-web-part) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[SharePoint 中适用于 Excel 的 Power View](insights.md#power-pivot-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[SharePoint 中适用于 Excel 的 Power Pivot](insights.md#power-view-for-excel-in-sharepoint) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[快速浏览](insights.md#quick-explore) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[SQL Server Reporting Services （SSRS）集成模式](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[日程表切片器](insights.md#timeline-slicer) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[适用于 web 的 Visio](../visio-online-service-description/visio-online-service-description.md)<sup>16</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|[Visio Services](insights.md#visio-services)<sup>16</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**搜索功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[连续爬网](search.md#continuous-crawls) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[深度链接](search.md#deep-links) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[基于事件的相关性](search.md#event-based-relevancy) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[专业技能搜索](search.md#expertise-search) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[图形精简程序](search.md#graphical-refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|突出显示的内容（web 部件）  <br/> |是  <br/> |是  <br/> |||是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[混合搜索](search.md#hybrid-search) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|智能搜索（Microsoft Graph）  <br/> |是  <br/> |是  <br/> |||是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[管理搜索架构](search.md#manage-search-schema) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|人员卡片  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[拼音名称匹配](search.md#phonetic-name-matching) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[查询规则添加已升级结果](search.md#query-rulesadd-promoted-results) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[查询规则高级操作](search.md#query-rulesadvanced-actions) <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|[查询拼写更正](search.md#query-spelling-correction) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[查询建议](search.md#query-suggestions) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[悬停预览](search.md#on-hover-preview) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[排名模型](search.md#ranking-models) <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |是  <br/> |
-|[精简程序](search.md#refiners) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[RESTful 查询 API/查询 OM](search.md#restful-query-apiquery-om) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[搜索结果排序](search.md#search-results-sorting) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|搜索 Web 部件  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|["此列表"搜索](search.md#this-list-searches) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**站点功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|通信网站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
-|[社区](social.md#community) <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |是<sup>12</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[公司订阅源](social.md#company-feed) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|[跨浏览器支持](sites-servicedesc.md#cross-browser-support) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[自定义管理路径](sites-servicedesc.md#custom-managed-paths) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|文档库  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[控制](sites-servicedesc.md#governance) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|中心网站  <br/> |无<sup>19</sup> <br/> |无<sup>19</sup> <br/> |无<sup>19</sup> <br/> |无<sup>19</sup> <br/> |无<sup>19</sup> <br/> |无<sup>19</sup> <br/> |无<sup>19</sup> <br/> |否  <br/> |否  <br/> |
-|混合应用启动器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |是  <br/> |是  <br/> |
-|混合 OneDrive for Business 和网站  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |是  <br/> |是  <br/> |
-|[大型列表可扩展性和管理](sites-servicedesc.md#large-list-scalability-and-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[移动连接](sites-servicedesc.md#mobile-connectivity) <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是  <br/> |是  <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9</sup> <br/> |是  <br/> |是  <br/> |
-|[多语言用户界面](sites-servicedesc.md#multilingual-user-interface) <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是  <br/> |是  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
-|[OOTB web 部件](sites-servicedesc.md#ootb-web-parts) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[权限管理](sites-servicedesc.md#permissions-management) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[个人博客](social.md#personal-blogs) <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是  <br/> |是  <br/> |
-|[项目站点模板](sites-servicedesc.md#project-site-template) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[SharePoint 列表](sites-servicedesc.md#sharepoint-lists) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|SharePoint 功能区 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[网站设计](sites-servicedesc.md#site-designs) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[网站主题（更改外观）](sites-servicedesc.md#site-themes-change-the-look) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[网站使用情况页](sites-servicedesc.md#site-usage-page) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
-|[任务列表](sites-servicedesc.md#task-list) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[团队笔记本](sites-servicedesc.md#team-notebook) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|团队网站 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[变体](sites-servicedesc.md#variations) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|网站源（使用 SharePoint social 的经典团队网站（使用 SharePoint 社交的经典团队网站）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Wiki](social.md#wikis) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Yammer 集成  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |||
-|**加载项** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[其他存储](add-ons.md#additional-storage) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Azure 预配的应用程序： Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |是<sup>13</sup> <br/> |否  <br/> |否  <br/> |
-|[Azure 预配的应用： Azure 轻型 Web 角色中的自定义代码（LWR）](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |
+有关自定义选项的概述，请参阅[自定义 SharePoint](/sharepoint/extend-and-develop)。
 
-<sup>1</sup> Firstline 工作线程具有有限的 OneDrive for business 功能。 Firstline 工作者接收2GB 存储空间。<br/> 
-<sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 <br/>
-<sup>3</sup>因为 Firstline 工作者不能是管理员，所以具有 Firstline 工作人员的租户至少需要一个企业用户才能访问管理中心。 <br/>
-<sup>4</sup> SharePoint Online 客户需要下载并安装免费的排名模型调整应用，才能创建和自定义排名模型。 <br/> 
-<sup>5</sup>当您使用电子数据展示功能时，允许该功能的计划的许可要求适用于作为电子数据展示操作（搜索、保持、导出）一部分的所有最终用户。 <br/>
-<sup>6</sup> Authenticated SharePoint Online users can access private site collections with faceted navigation. <br/>
-<sup>7</sup> Some providers may be blocked in your country/region. <br/> 
-<sup>8</sup> Sharing a document, library, or site by email with someone outside of your organization. Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message. <br/>
-<sup>9</sup> You can view documents in any Mobile browser. You need to install the Office Mobile app to edit documents. Office Mobile is currently available for Windows phones and tablets, Android phones and tablets, iPhone, and iPad. <br/>
-<sup>10</sup> Help is available only in Simplified Chinese and English. <br/> 
-<sup>11</sup> Comments on blogs cannot be added. <br/> 
-<sup>12</sup> Organization community website is available, but public community-provided help is not available. <br/>
-<sup>13</sup> Access 2010 is not supported. <br/> 
-<sup>14</sup>对于 Web，F1 用户应该有权访问用于创建内容的 web （live 磁贴）的 office。 但是，他们对于核心商业移动应用相关的访问受到限制。 具体包括：Yammer、StaffHub、Microsoft Teams、Skype for Business、SharePoint 和 Groups。 **不**包括以下内容： Outlook、Word、Excel、PowerPoint 和 OneNote。<br/> 
-<sup>15</sup>只能在 Infopath 富客户端中使用包含用户代码（沙盒）的 InfoPath 表单。 <br/>
-<sup>16</sup>个适用于 web 使用率（视图功能）的 Visio 免费提供。 Visio for web 创建和编辑功能需要许可证。 有关适用于 web 的 Visio 的详细信息，请参阅适用于[web 服务说明的 visio](../visio-online-service-description/visio-online-service-description.md)。  <br/>
-<sup>17</sup> F1 用户可以在混合设置中访问 SharePoint Server，但 Office 365 F1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。 <br/>
-<sup>18</sup>在 Office 365 企业版 E5 中提供了客户密钥。 通过 "客户密钥"，可以控制组织的加密密钥，然后配置 Office 365 以使用它们在 Microsoft 数据中心中对静态数据进行加密。 静态数据包含来自 Exchange Online 和 Skype for Business 的数据，这些数据存储在存储在 SharePoint Online 和 OneDrive for business 中的邮箱和文件中。 客户密钥可帮助您满足合规性义务，因为您控制 Office 365 用于解密数据的加密密钥。 有关详细信息，请参阅[使用客户密钥控制 Office 365 中的数据](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
-<sup>19</sup>即将推出。
+若要详细了解 Microsoft Power Apps 和 Power 自动化的可用性，请参阅[Power apps And power](/power-platform/admin/powerapps-flow-licensing-faq)the
+
+若要了解有关 Microsoft Graph 可用性的详细信息，请参阅[Office 365 Platform 服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+
+## <a name="it-admin-features"></a>IT 管理员功能
+
+除非另有说明，否则以下功能在包含 SharePoint 的所有计划和所有 SharePoint 独立计划中都可用：
+
+- [应用程序使用和错误监视](/sharepoint/monitor-apps)
+- [SharePoint](/office365/admin/activity-reports/sharepoint-activity)和[OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)的活动和使用情况报告
+- [更改网站 URL](/sharepoint/change-site-address)
+- [OneDrive 的默认存储和保留设置](/en-us/onedrive/set-default-storage-space)
+- [SharePoint Server 的混合](/sharepoint/hybrid/hybrid)。 Firstline 工作人员需要客户端访问许可证（CAL）才能访问 SharePoint Server。
+- [网站创建设置的管理](/sharepoint/manage-site-creation)
+- [管理网站存储限制](/sharepoint/manage-site-collection-storage-limits)
+- [迁移： SharePoint 迁移工具](/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [迁移：迁移管理器](/sharepointmigration/mm-get-started)
+- [迁移： SharePoint 迁移评估工具](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+- [迁移： Mover.io](https://mover.io/)。 目前仅适用于北美地区的客户。
+- [多地理位置（数据驻留）](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)。 使用至少需要500个 Office 365 许可证的加载项。 有关详细信息，请联系你的 Microsoft 代表。
+- [编程网站预配](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
+- [根网站替换](/sharepoint/modern-root-site)
+- [恢复已删除的组](/sharepoint/restore-deleted-site-collection)
+- [SharePoint 管理中心](/sharepoint/get-started-new-admin-center)。 具有 Firstline 工作人员的组织至少需要一个企业用户才能访问管理中心。
+- [SharePoint 现代化扫描程序](/sharepoint/dev/transform/modernize-scanner)
+- [SharePoint Online 命令行管理](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)程序。 具有 Firstline 工作人员的组织至少需要一个企业用户才能访问管理中心。
+- [网站治理](/sharepoint/governance-overview) 
+- [术语库-托管元数据](/sharepoint/managed-metadata)
+
+有关 FastTrack 迁移服务的可用性的信息，请参阅适用于[Microsoft 365 的 FastTrack 中心权益](/fasttrack/m365-eligible-services-and-plans)。 
+
+有关与共享相关的功能的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
+
+有关 SharePoint 的管理员帮助，请参阅[Sharepoint Online 管理员](/sharepoint/sharepoint-online)。
+
+## <a name="security-and-compliance-features"></a>安全性和合规性功能
+
+除非另有说明，否则以下功能在包含 SharePoint 的所有计划和所有 SharePoint 独立计划中都可用：
+
+- [访问控制：网络位置](/sharepoint/control-access-based-on-network-location)
+- [访问控制：非托管设备](/sharepoint/control-access-from-unmanaged-devices)。 需要 Azure AD 高级 P1。
+- [传输中和 rest 上的加密](/office365/securitycompliance/data-encryption-in-odb-and-spo)
+- [空闲会话注销](/sharepoint/sign-out-inactive-users)
+- [信息管理策略](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
+- [信息权限管理（IRM）](/office365/securitycompliance/set-up-irm-in-sp-admin-center)。 需要独立或作为套件的一部分的 Azure 信息保护。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版。
+- [将文档库还原到以前的时间点](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [病毒扫描](/office365/securitycompliance/virus-detection-in-spo)
+
+有关与共享相关的功能的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
+
+SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起。 有关以下功能的可用性的信息，请参阅[Security & 合规性服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)：
+
+- [客户密码箱](/microsoft-365/compliance/customer-lockbox-requests)
+- [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
+- [电子数据展示](/microsoft-365/compliance/ediscovery-cases)（内容搜索、保留、导出）
+- [信息屏障](/microsoft-365/compliance/information-barriers)
+- [Office 365 高级威胁防护（ATP）](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [保留标签和策略](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
+- [敏感度标签](/microsoft-365/compliance/sensitivity-labels)
+- [统一审核](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)（审核 SharePoint 用户和管理活动）
+
+有关[Azure 信息保护](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)的信息，请参阅[azure 信息保护的要求](/azure/information-protection/requirements)
+
+有关客户密钥可用性的信息，请参阅[如何许可客户密钥？](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)。 
+
+
+
+## <a name="sites-and-content-features"></a>网站和内容功能
+
+除非另有说明，否则以下功能在包含 SharePoint 的所有计划和所有 SharePoint 独立计划中都可用：
+
+- [辅助功能](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [向网站添加 Microsoft 团队](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 需要包含 Office 365 的订阅，并且要求用户为团队授予许可证。
+- [访问群体设定](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
+- [将经典团队网站连接到新的 Office 365 组](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)。 需要包含 Office 365 的订阅。
+- [创建计划（Planner 集成）](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 需要包含 Office 365 的订阅，并且要求用户为计划程序授予许可证。
+- [ 文档库 ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
+- [文档集](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
+- 文件卡片（活动、对话、查看器）
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [万像素菜单](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
+- [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含 Office 365 的订阅，并且要求用户为表单授予许可证。
+- [新闻](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
+- Office 桌面应用集成。 需要包含 Office 桌面应用程序的订阅。
+- Office for web 集成。 需要包含 Office 365 的订阅。
+- [组织资产库](/sharepoint/organization-assets-library)
+- [组织新闻](/sharepoint/organization-news-site)
+- [页面审批](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- 记录管理
+- [回收站](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [SharePoint 移动应用程序](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
+- [SharePoint 起始页](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [网站设计](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
+- [网站使用率报告](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
+- [网站：经典网站](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
+- [网站：通信网站](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
+- [网站：主网站](/sharepoint/home-site)
+- [网站：中心网站](/sharepoint/planning-hub-sites)
+- 网站：新式团队网站（无 Office 365 组）
+- [网站： Office 365 组连接的团队网站](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 需要包含 Office 365 的订阅。
+- [网站：根网站](/sharepoint/modern-root-site)
+- [团队 OneNote 笔记本](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
+- [主题（更改外观）](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
+- [Web 部件](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
+- [在 Microsoft 团队中处理 SharePoint 内容](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)。 需要包含 Office 365 的订阅，并且要求用户为团队授予许可证。
+
+若要详细了解 Microsoft Power Apps 和 Power 自动化的可用性，请参阅[Power apps And power](/power-platform/admin/powerapps-flow-licensing-faq)the
+
+有关与共享相关的功能的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
+
+## <a name="search-features"></a>搜索功能
+
+除非另有说明，否则以下功能在包含 SharePoint 的所有计划和所有 SharePoint 独立计划中都可用：
+
+- [混合搜索](/sharepoint/hybrid/hybrid-search-in-sharepoint)
+- [管理结果源（经典和新式搜索）](/sharepoint/manage-result-sources)
+- [Microsoft 搜索集成](/microsoftsearch/overview-microsoft-search)
+- [已升级的结果（经典搜索）](/sharepoint/manage-query-rules)
+- [删除搜索结果（经典和新式搜索）](/sharepoint/remove-search-results)
+- [搜索中心（经典搜索）](/sharepoint/manage-search-center)
+- [搜索架构（经典和新式搜索）](/sharepoint/manage-search-schema)
+
+有关 Delve 的信息，请参阅[Office 365 platform 服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
+
+
