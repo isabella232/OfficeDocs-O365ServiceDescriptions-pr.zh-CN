@@ -1,5 +1,5 @@
 ---
-title: OneDrive for Business 服务说明
+title: OneDrive 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,98 +13,176 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: 了解每个订阅计划提供的 OneDrive 存储空间。
-ms.openlocfilehash: ff6cc32437b15075868f9d6a5f82bfc655a399f5
-ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
+description: 查看哪些计划中提供了 OneDrive 功能。
+ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41519183"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172084"
 ---
-# <a name="onedrive-for-business-service-description"></a><span data-ttu-id="2ad12-103">OneDrive for Business 服务说明</span><span class="sxs-lookup"><span data-stu-id="2ad12-103">OneDrive for Business service description</span></span>
+# <a name="onedrive-service-description"></a><span data-ttu-id="22e18-103">OneDrive 服务说明</span><span class="sxs-lookup"><span data-stu-id="22e18-103">OneDrive service description</span></span>
 
-<span data-ttu-id="2ad12-104">OneDrive 是为组织中的单个许可用户提供的云中的联机存储空间。</span><span class="sxs-lookup"><span data-stu-id="2ad12-104">OneDrive is online storage space in the cloud that's provided for individual licensed users in an organization.</span></span> <span data-ttu-id="2ad12-105">使用它帮助保护工作文件并在多台设备上访问这些文件。</span><span class="sxs-lookup"><span data-stu-id="2ad12-105">Use it to help protect work files and access them across multiple devices.</span></span> <span data-ttu-id="2ad12-106">通过 OneDrive，你可以共享文件和协作使用文档，并将文件同步至计算机。</span><span class="sxs-lookup"><span data-stu-id="2ad12-106">OneDrive lets you share files and collaborate on documents, and sync files to your computer.</span></span> <span data-ttu-id="2ad12-107">[详细了解 OneDrive 特性、功能和价格](https://go.microsoft.com/fwlink/?linkid=850345)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-107">[Learn more about OneDrive features, functionality, and pricing](https://go.microsoft.com/fwlink/?linkid=850345).</span></span>
+<span data-ttu-id="22e18-104">适合工作和学校帐户的 OneDrive 是为组织中的单个许可用户提供的云中的联机存储空间。</span><span class="sxs-lookup"><span data-stu-id="22e18-104">OneDrive for work and school accounts is online storage space in the cloud that's provided for individual licensed users in an organization.</span></span> <span data-ttu-id="22e18-105">使用它帮助保护工作文件并在多台设备上访问这些文件。</span><span class="sxs-lookup"><span data-stu-id="22e18-105">Use it to help protect work files and access them across multiple devices.</span></span> <span data-ttu-id="22e18-106">通过 OneDrive，你可以共享文件和协作使用文档，并将文件同步至计算机。</span><span class="sxs-lookup"><span data-stu-id="22e18-106">OneDrive lets you share files and collaborate on documents, and sync files to your computer.</span></span> <span data-ttu-id="22e18-107">[详细了解 OneDrive 特性、功能和价格](https://go.microsoft.com/fwlink/?linkid=850345)。</span><span class="sxs-lookup"><span data-stu-id="22e18-107">[Learn more about OneDrive features, functionality, and pricing](https://go.microsoft.com/fwlink/?linkid=850345).</span></span>
   
-<span data-ttu-id="2ad12-108">OneDrive 包含在 SharePoint Online 计划中的 Microsoft 365 和 Office 365 计划中，也可以作为单独计划购买。</span><span class="sxs-lookup"><span data-stu-id="2ad12-108">OneDrive is included in Microsoft 365 and Office 365 plans, in SharePoint Online plans, and can also be purchased as a standalone plan.</span></span> 
+<span data-ttu-id="22e18-108">OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中，也可作为单独计划购买。</span><span class="sxs-lookup"><span data-stu-id="22e18-108">OneDrive is included in Microsoft 365 and Office 365 plans, in SharePoint plans, and can also be purchased as a standalone plan.</span></span> 
     
-<span data-ttu-id="2ad12-109">若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-109">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
+<span data-ttu-id="22e18-109">若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。</span><span class="sxs-lookup"><span data-stu-id="22e18-109">To compare plans, see [Compare Office 365 for Business plans](https://go.microsoft.com/fwlink/?linkid=799177) and [Compare OneDrive for Business plans](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="2ad12-110">OneDrive for Business 独立计划包含 Office 网页版。</span><span class="sxs-lookup"><span data-stu-id="2ad12-110">OneDrive for Business standalone plans include Office for the web.</span></span> 
+> <span data-ttu-id="22e18-110">OneDrive 独立计划包含 Office 网页版。</span><span class="sxs-lookup"><span data-stu-id="22e18-110">OneDrive standalone plans include Office for the web.</span></span> 
   
-## <a name="system-requirements"></a><span data-ttu-id="2ad12-111">系统要求</span><span class="sxs-lookup"><span data-stu-id="2ad12-111">System requirements</span></span>
+## <a name="system-requirements"></a><span data-ttu-id="22e18-111">系统要求</span><span class="sxs-lookup"><span data-stu-id="22e18-111">System requirements</span></span>
 
-<span data-ttu-id="2ad12-112">若要查看 OneDrive 同步客户端和移动应用的要求，请参阅 [OneDrive 系统要求](https://go.microsoft.com/fwlink/?linkid=837584)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-112">To review the requirements for the OneDrive sync client and mobile app, see [OneDrive system requirements](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
+<span data-ttu-id="22e18-112">要查看 OneDrive 同步应用和移动应用的要求，请参阅 [OneDrive 系统要求](https://go.microsoft.com/fwlink/?linkid=837584)。</span><span class="sxs-lookup"><span data-stu-id="22e18-112">To review the requirements for the OneDrive sync app and mobile app, see [OneDrive system requirements](https://go.microsoft.com/fwlink/?linkid=837584).</span></span>
   
-## <a name="about-sync"></a><span data-ttu-id="2ad12-113">关于同步</span><span class="sxs-lookup"><span data-stu-id="2ad12-113">About sync</span></span>
+## <a name="storage-space-per-user"></a><span data-ttu-id="22e18-113">每个用户的存储空间</span><span class="sxs-lookup"><span data-stu-id="22e18-113">Storage space per user</span></span>
 
-<span data-ttu-id="2ad12-114">计划中包含 OneDrive 的任何人都可以使用 OneDrive 同步客户端，除非他们的 IT 部门明确禁用它。</span><span class="sxs-lookup"><span data-stu-id="2ad12-114">Anyone whose plan includes OneDrive can use the OneDrive sync client unless their IT department explicitly disables it.</span></span> <span data-ttu-id="2ad12-115">若要安装最新同步客户端，请转至 [OneDrive 下载页面](https://onedrive.live.com/about/download/)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-115">To install the latest sync client, go to the [OneDrive download page](https://onedrive.live.com/about/download/).</span></span> <span data-ttu-id="2ad12-116">若要了解有关同步客户端的详细信息，请参阅[在 Windows 中使用 OneDrive 同步客户端同步文件](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-116">To learn more about the sync client, see [Sync files with the OneDrive sync client in Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49).</span></span>
-  
-## <a name="storage-space-per-user"></a><span data-ttu-id="2ad12-117">每个用户的存储空间</span><span class="sxs-lookup"><span data-stu-id="2ad12-117">Storage space per user</span></span>
+<span data-ttu-id="22e18-114">**2 GB**</span><span class="sxs-lookup"><span data-stu-id="22e18-114">**2 GB**</span></span>
 
-<span data-ttu-id="2ad12-118">**5 GB**</span><span class="sxs-lookup"><span data-stu-id="2ad12-118">**5 GB**</span></span>
+- <span data-ttu-id="22e18-115">Office 365 企业版 F1</span><span class="sxs-lookup"><span data-stu-id="22e18-115">Office 365 Enterprise F1</span></span>
 
-- <span data-ttu-id="2ad12-119">Office 365 企业版 F1</span><span class="sxs-lookup"><span data-stu-id="2ad12-119">Office 365 Enterprise F1</span></span>
+<span data-ttu-id="22e18-116">**1 TB**</span><span class="sxs-lookup"><span data-stu-id="22e18-116">**1 TB**</span></span>
 
-<span data-ttu-id="2ad12-120">**1 TB**</span><span class="sxs-lookup"><span data-stu-id="2ad12-120">**1 TB**</span></span>
+- <span data-ttu-id="22e18-117">Office 365 商业协作版</span><span class="sxs-lookup"><span data-stu-id="22e18-117">Office 365 Business Essentials</span></span>
+- <span data-ttu-id="22e18-118">Office 365 商业版</span><span class="sxs-lookup"><span data-stu-id="22e18-118">Office 365 Business</span></span>
+- <span data-ttu-id="22e18-119">Office 365 商业高级版</span><span class="sxs-lookup"><span data-stu-id="22e18-119">Office 365 Business Premium</span></span>
+- <span data-ttu-id="22e18-120">Office 365 专业增强版</span><span class="sxs-lookup"><span data-stu-id="22e18-120">Office 365 ProPlus</span></span>
+- <span data-ttu-id="22e18-121">Office 365 企业版 E1</span><span class="sxs-lookup"><span data-stu-id="22e18-121">Office 365 Enterprise E1</span></span>
+- <span data-ttu-id="22e18-122">Office 365 政府版 G1</span><span class="sxs-lookup"><span data-stu-id="22e18-122">Office 365 Government G1</span></span>
+- <span data-ttu-id="22e18-123">Office 365 非盈利商业协作版</span><span class="sxs-lookup"><span data-stu-id="22e18-123">Office 365 Nonprofit Business Essentials</span></span>
+- <span data-ttu-id="22e18-124">Office 365 非盈利商业高级版</span><span class="sxs-lookup"><span data-stu-id="22e18-124">Office 365 Nonprofit Business Premium</span></span>
+- <span data-ttu-id="22e18-125">Office 365 非营利版 E1</span><span class="sxs-lookup"><span data-stu-id="22e18-125">Office 365 Nonprofit E1</span></span>
+- <span data-ttu-id="22e18-126">OneDrive for Business 计划 1</span><span class="sxs-lookup"><span data-stu-id="22e18-126">OneDrive for Business Plan 1</span></span>
+- <span data-ttu-id="22e18-127">SharePoint Online 计划 1</span><span class="sxs-lookup"><span data-stu-id="22e18-127">SharePoint Online Plan 1</span></span>
+- <span data-ttu-id="22e18-128">Microsoft 365 商业版</span><span class="sxs-lookup"><span data-stu-id="22e18-128">Microsoft 365 Business</span></span>
 
-- <span data-ttu-id="2ad12-121">Office 365 商业协作版</span><span class="sxs-lookup"><span data-stu-id="2ad12-121">Office 365 Business Essentials</span></span>
-- <span data-ttu-id="2ad12-122">Office 365 商业版</span><span class="sxs-lookup"><span data-stu-id="2ad12-122">Office 365 Business</span></span>
-- <span data-ttu-id="2ad12-123">Office 365 商业高级版</span><span class="sxs-lookup"><span data-stu-id="2ad12-123">Office 365 Business Premium</span></span>
-- <span data-ttu-id="2ad12-124">Office 365 专业增强版</span><span class="sxs-lookup"><span data-stu-id="2ad12-124">Office 365 ProPlus</span></span>
-- <span data-ttu-id="2ad12-125">Office 365 企业版 E1</span><span class="sxs-lookup"><span data-stu-id="2ad12-125">Office 365 Enterprise E1</span></span>
-- <span data-ttu-id="2ad12-126">Office 365 政府版 G1</span><span class="sxs-lookup"><span data-stu-id="2ad12-126">Office 365 Government G1</span></span>
-- <span data-ttu-id="2ad12-127">Office 365 非盈利商业协作版</span><span class="sxs-lookup"><span data-stu-id="2ad12-127">Office 365 Nonprofit Business Essentials</span></span>
-- <span data-ttu-id="2ad12-128">Office 365 非盈利商业高级版</span><span class="sxs-lookup"><span data-stu-id="2ad12-128">Office 365 Nonprofit Business Premium</span></span>
-- <span data-ttu-id="2ad12-129">Office 365 非营利版 E1</span><span class="sxs-lookup"><span data-stu-id="2ad12-129">Office 365 Nonprofit E1</span></span>
-- <span data-ttu-id="2ad12-130">OneDrive for Business 计划 1</span><span class="sxs-lookup"><span data-stu-id="2ad12-130">OneDrive for Business Plan 1</span></span>
-- <span data-ttu-id="2ad12-131">SharePoint Online 计划 1</span><span class="sxs-lookup"><span data-stu-id="2ad12-131">SharePoint Online Plan 1</span></span>
-- <span data-ttu-id="2ad12-132">Microsoft 365 商业版</span><span class="sxs-lookup"><span data-stu-id="2ad12-132">Microsoft 365 Business</span></span>
-
-<span data-ttu-id="2ad12-133">**超过 1 TB，不设上限**</span><span class="sxs-lookup"><span data-stu-id="2ad12-133">**Beyond 1 TB, to unlimited**</span></span>
+<span data-ttu-id="22e18-129">**超过 1 TB，不设上限**</span><span class="sxs-lookup"><span data-stu-id="22e18-129">**Beyond 1 TB, to unlimited**</span></span>
  
-<span data-ttu-id="2ad12-134">对于用户数少于 5 人的订阅，每位用户 1 TB。</span><span class="sxs-lookup"><span data-stu-id="2ad12-134">1 TB per user for subscriptions with fewer than 5 users.</span></span> <span data-ttu-id="2ad12-135">对于用户数至少达到 5 人的订阅（可为合格计划的任何组合），Microsoft 最开始将为每位用户提供 1 TB 存储空间，管理员可将每位用户的存储空间提高到 5 TB。</span><span class="sxs-lookup"><span data-stu-id="2ad12-135">For subscriptions with 5 or more users (can be any combination of qualifying plans), Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="2ad12-136">（要了解如何操作，请参阅[设置 OneDrive 用户的默认存储空间](/onedrive/set-default-storage-space)。）管理员必须联系 Microsoft 支持人员，才能请求获得额外存储空间。</span><span class="sxs-lookup"><span data-stu-id="2ad12-136">(To learn how, see [Set the default storage space for OneDrive users](/onedrive/set-default-storage-space).) To request additional storage, admins must contact Microsoft Support.</span></span>
+<span data-ttu-id="22e18-130">对于用户数少于 5 人的订阅，每位用户 1 TB。</span><span class="sxs-lookup"><span data-stu-id="22e18-130">1 TB per user for subscriptions with fewer than 5 users.</span></span> <span data-ttu-id="22e18-131">对于用户数至少达到 5 人的订阅（可为合格计划的任何组合），Microsoft 最开始将为每位用户提供 1 TB 存储空间，管理员可将每位用户的存储空间提高到 5 TB。</span><span class="sxs-lookup"><span data-stu-id="22e18-131">For subscriptions with 5 or more users (can be any combination of qualifying plans), Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="22e18-132">（要了解如何操作，请参阅[设置 OneDrive 用户的默认存储空间](/onedrive/set-default-storage-space)。）管理员必须联系 Microsoft 支持人员，才能请求获得额外存储空间。</span><span class="sxs-lookup"><span data-stu-id="22e18-132">(To learn how, see [Set the default storage space for OneDrive users](/onedrive/set-default-storage-space).) To request additional storage, admins must contact Microsoft Support.</span></span>
 
-- <span data-ttu-id="2ad12-137">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="2ad12-137">Office 365 Enterprise E3</span></span>
-- <span data-ttu-id="2ad12-138">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="2ad12-138">Office 365 Enterprise E5</span></span>
-- <span data-ttu-id="2ad12-139">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="2ad12-139">Office 365 A1</span></span>
-- <span data-ttu-id="2ad12-140">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="2ad12-140">Office 365 A3</span></span>
-- <span data-ttu-id="2ad12-141">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="2ad12-141">Office 365 A5</span></span>
-- <span data-ttu-id="2ad12-142">Office 365 美国政府版 G3</span><span class="sxs-lookup"><span data-stu-id="2ad12-142">Office 365 US Government G3</span></span>
-- <span data-ttu-id="2ad12-143">Office 365 美国政府版 G5</span><span class="sxs-lookup"><span data-stu-id="2ad12-143">Office 365 US Government G5</span></span>
-- <span data-ttu-id="2ad12-144">Office 365 非营利版 E3</span><span class="sxs-lookup"><span data-stu-id="2ad12-144">Office 365 Nonprofit E3</span></span>
-- <span data-ttu-id="2ad12-145">Office 365 非赢利组织版 E5</span><span class="sxs-lookup"><span data-stu-id="2ad12-145">Office 365 Nonprofit E5</span></span>
-- <span data-ttu-id="2ad12-146">OneDrive for Business 计划 2</span><span class="sxs-lookup"><span data-stu-id="2ad12-146">OneDrive for Business Plan 2</span></span>
-- <span data-ttu-id="2ad12-147">SharePoint Online 计划 2</span><span class="sxs-lookup"><span data-stu-id="2ad12-147">SharePoint Online Plan 2</span></span>
-- <span data-ttu-id="2ad12-148">Microsoft 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="2ad12-148">Microsoft 365 Enterprise E3</span></span>
-- <span data-ttu-id="2ad12-149">Microsoft 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="2ad12-149">Microsoft 365 Enterprise E5</span></span>
-- <span data-ttu-id="2ad12-150">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="2ad12-150">Microsoft 365 A3</span></span>
-- <span data-ttu-id="2ad12-151">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="2ad12-151">Microsoft 365 A5</span></span>
-- <span data-ttu-id="2ad12-152">Microsoft 365 美国政府版 G3</span><span class="sxs-lookup"><span data-stu-id="2ad12-152">Microsoft 365 US Government G3</span></span>
-- <span data-ttu-id="2ad12-153">Microsoft 365 美国政府版 G5</span><span class="sxs-lookup"><span data-stu-id="2ad12-153">Microsoft 365 US Government G5</span></span>
-- <span data-ttu-id="2ad12-154">Microsoft 365 非营利组织版 E3</span><span class="sxs-lookup"><span data-stu-id="2ad12-154">Microsoft 365 E3 for nonprofit</span></span>
-- <span data-ttu-id="2ad12-155">Microsoft 365 非营利组织版 E5</span><span class="sxs-lookup"><span data-stu-id="2ad12-155">Microsoft 365 E5 for nonprofit</span></span>
+- <span data-ttu-id="22e18-133">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="22e18-133">Office 365 Enterprise E3</span></span>
+- <span data-ttu-id="22e18-134">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="22e18-134">Office 365 Enterprise E5</span></span>
+- <span data-ttu-id="22e18-135">Office 365 A1</span><span class="sxs-lookup"><span data-stu-id="22e18-135">Office 365 A1</span></span>
+- <span data-ttu-id="22e18-136">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="22e18-136">Office 365 A3</span></span>
+- <span data-ttu-id="22e18-137">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="22e18-137">Office 365 A5</span></span>
+- <span data-ttu-id="22e18-138">Office 365 美国政府版 G3</span><span class="sxs-lookup"><span data-stu-id="22e18-138">Office 365 US Government G3</span></span>
+- <span data-ttu-id="22e18-139">Office 365 美国政府版 G5</span><span class="sxs-lookup"><span data-stu-id="22e18-139">Office 365 US Government G5</span></span>
+- <span data-ttu-id="22e18-140">Office 365 非营利版 E3</span><span class="sxs-lookup"><span data-stu-id="22e18-140">Office 365 Nonprofit E3</span></span>
+- <span data-ttu-id="22e18-141">Office 365 非赢利组织版 E5</span><span class="sxs-lookup"><span data-stu-id="22e18-141">Office 365 Nonprofit E5</span></span>
+- <span data-ttu-id="22e18-142">OneDrive for Business 计划 2</span><span class="sxs-lookup"><span data-stu-id="22e18-142">OneDrive for Business Plan 2</span></span>
+- <span data-ttu-id="22e18-143">SharePoint Online 计划 2</span><span class="sxs-lookup"><span data-stu-id="22e18-143">SharePoint Online Plan 2</span></span>
+- <span data-ttu-id="22e18-144">Microsoft 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="22e18-144">Microsoft 365 Enterprise E3</span></span>
+- <span data-ttu-id="22e18-145">Microsoft 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="22e18-145">Microsoft 365 Enterprise E5</span></span>
+- <span data-ttu-id="22e18-146">Microsoft 365 A3</span><span class="sxs-lookup"><span data-stu-id="22e18-146">Microsoft 365 A3</span></span>
+- <span data-ttu-id="22e18-147">Microsoft 365 A5</span><span class="sxs-lookup"><span data-stu-id="22e18-147">Microsoft 365 A5</span></span>
+- <span data-ttu-id="22e18-148">Microsoft 365 美国政府版 G3</span><span class="sxs-lookup"><span data-stu-id="22e18-148">Microsoft 365 US Government G3</span></span>
+- <span data-ttu-id="22e18-149">Microsoft 365 美国政府版 G5</span><span class="sxs-lookup"><span data-stu-id="22e18-149">Microsoft 365 US Government G5</span></span>
+- <span data-ttu-id="22e18-150">Microsoft 365 非营利组织版 E3</span><span class="sxs-lookup"><span data-stu-id="22e18-150">Microsoft 365 E3 for nonprofit</span></span>
+- <span data-ttu-id="22e18-151">Microsoft 365 非营利组织版 E5</span><span class="sxs-lookup"><span data-stu-id="22e18-151">Microsoft 365 E5 for nonprofit</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="2ad12-156">必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。</span><span class="sxs-lookup"><span data-stu-id="2ad12-156">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
+> <span data-ttu-id="22e18-152">必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。</span><span class="sxs-lookup"><span data-stu-id="22e18-152">You must assign at least one license to a user before you can increase the default OneDrive storage space.</span></span> 
   
-<span data-ttu-id="2ad12-157">如果需要为用户提供超过初始 5 TB 的云存储空间，管理员可以[通过 Microsoft 技术支持打开事例](https://go.microsoft.com/fwlink/?linkid=869559)以申请额外的存储空间。</span><span class="sxs-lookup"><span data-stu-id="2ad12-157">When you need cloud storage for individual users beyond the initial 5 TB, admins can [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it.</span></span> <span data-ttu-id="2ad12-158">额外云存储空间的授予方式如下：</span><span class="sxs-lookup"><span data-stu-id="2ad12-158">Additional cloud storage will be granted as follows:</span></span> 
+<span data-ttu-id="22e18-153">如果需要为用户提供超过初始 5 TB 的云存储空间，管理员可以[通过 Microsoft 技术支持打开事例](https://go.microsoft.com/fwlink/?linkid=869559)以申请额外的存储空间。</span><span class="sxs-lookup"><span data-stu-id="22e18-153">When you need cloud storage for individual users beyond the initial 5 TB, admins can [open a case with Microsoft technical support](https://go.microsoft.com/fwlink/?linkid=869559) to request it.</span></span> <span data-ttu-id="22e18-154">额外云存储空间的授予方式如下：</span><span class="sxs-lookup"><span data-stu-id="22e18-154">Additional cloud storage will be granted as follows:</span></span> 
   
-- <span data-ttu-id="2ad12-159">如果用户已使用 5TB 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive 中的默认存储空间增加到每用户 25 TB（如有需要，管理员可以设置更低的每用户存储空间限制）。</span><span class="sxs-lookup"><span data-stu-id="2ad12-159">When a user has filled their 5 TB of OneDrive storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive to up to 25 TB per user (admins may set a lower per user limit if they want to).</span></span> 
+- <span data-ttu-id="22e18-155">如果用户已使用 5TB 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive 中的默认存储空间增加到每用户 25 TB（如有需要，管理员可以设置更低的每用户存储空间限制）。</span><span class="sxs-lookup"><span data-stu-id="22e18-155">When a user has filled their 5 TB of OneDrive storage to at least 90% capacity, Microsoft will increase your default storage space in OneDrive to up to 25 TB per user (admins may set a lower per user limit if they want to).</span></span> 
     
-- <span data-ttu-id="2ad12-160">对于已使用 25 TB OneDrive 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。</span><span class="sxs-lookup"><span data-stu-id="2ad12-160">For any user that reaches at least 90% capacity of their 25 TB of OneDrive storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users.</span></span> <span data-ttu-id="2ad12-161">此额外存储空间以额度方式提供给组织。</span><span class="sxs-lookup"><span data-stu-id="2ad12-161">This additional storage is provided to the organization by way of credit.</span></span>
+- <span data-ttu-id="22e18-156">对于已使用 25 TB OneDrive 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。</span><span class="sxs-lookup"><span data-stu-id="22e18-156">For any user that reaches at least 90% capacity of their 25 TB of OneDrive storage, additional cloud storage will be provided as 25 TB SharePoint team sites to individual users.</span></span> <span data-ttu-id="22e18-157">此额外存储空间以额度方式提供给组织。</span><span class="sxs-lookup"><span data-stu-id="22e18-157">This additional storage is provided to the organization by way of credit.</span></span>
     
-<span data-ttu-id="2ad12-162">若要查看单个用户的存储空间和使用情况，请转至 OneDrive 同步客户端中的“[管理存储空间](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)”。</span><span class="sxs-lookup"><span data-stu-id="2ad12-162">To see the storage space and usage for an individual user, go to [Manage storage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) in the OneDrive sync client.</span></span> <span data-ttu-id="2ad12-163">若要查看组织中的用户使用的存储空间，请转至 Microsoft 365 管理中心的 [OneDrive 使用情况报表](/office365/admin/activity-reports/onedrive-for-business-usage)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-163">To see how much storage users across the organization are using, go to the [OneDrive usage report](/office365/admin/activity-reports/onedrive-for-business-usage) in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="22e18-158">要查看单个用户的存储空间和使用情况，请转至 OneDrive 同步应用中的[管理存储空间](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)。</span><span class="sxs-lookup"><span data-stu-id="22e18-158">To see the storage space and usage for an individual user, go to [Manage storage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) in the OneDrive sync app.</span></span> <span data-ttu-id="22e18-159">若要查看组织中的用户使用的存储空间，请转至 Microsoft 365 管理中心的 [OneDrive 使用情况报表](/office365/admin/activity-reports/onedrive-for-business-usage)。</span><span class="sxs-lookup"><span data-stu-id="22e18-159">To see how much storage users across the organization are using, go to the [OneDrive usage report](/office365/admin/activity-reports/onedrive-for-business-usage) in the Microsoft 365 admin center.</span></span> 
    
-## <a name="supported-uses"></a><span data-ttu-id="2ad12-164">支持的用途</span><span class="sxs-lookup"><span data-stu-id="2ad12-164">Supported uses</span></span>
+## <a name="supported-uses"></a><span data-ttu-id="22e18-160">支持的用途</span><span class="sxs-lookup"><span data-stu-id="22e18-160">Supported uses</span></span>
 
-<span data-ttu-id="2ad12-165">OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个用户的需求。</span><span class="sxs-lookup"><span data-stu-id="2ad12-165">OneDrive storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
+<span data-ttu-id="22e18-161">OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个用户的需求。</span><span class="sxs-lookup"><span data-stu-id="22e18-161">OneDrive storage is provisioned on a per user basis and is designed to serve the needs of individual users.</span></span>
   
-<span data-ttu-id="2ad12-166">不支持存储除各个用户的工作文件以外的其他数据（包括系统备份以及部门和组织级别数据），也不支持将每用户许可证分配给机器人、部门或其他非人为实体。</span><span class="sxs-lookup"><span data-stu-id="2ad12-166">Storage of data other than an individual user's work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity.</span></span> <span data-ttu-id="2ad12-167">若要执行更高级的内容管理和协作（包括跨团队或组织存储和管理文件、通信和 Intranet 网站），SharePoint 是最佳解决方案。</span><span class="sxs-lookup"><span data-stu-id="2ad12-167">SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
+<span data-ttu-id="22e18-162">不支持存储除各个用户的工作文件以外的其他数据（包括系统备份以及部门和组织级别数据），也不支持将每用户许可证分配给机器人、部门或其他非人为实体。</span><span class="sxs-lookup"><span data-stu-id="22e18-162">Storage of data other than an individual user's work files, including system back-ups and departmental and organizational level data, is not supported, nor is the assignment of a per user license to a bot, department, or other non-human entity.</span></span> <span data-ttu-id="22e18-163">若要执行更高级的内容管理和协作（包括跨团队或组织存储和管理文件、通信和 Intranet 网站），SharePoint 是最佳解决方案。</span><span class="sxs-lookup"><span data-stu-id="22e18-163">SharePoint is the best solution for more advanced content management and collaboration, including storing and managing files, communications, and intranet sites across a team or organization.</span></span>
   
-## <a name="onedrive-limits"></a><span data-ttu-id="2ad12-168">OneDrive 限制</span><span class="sxs-lookup"><span data-stu-id="2ad12-168">OneDrive limits</span></span>
+## <a name="onedrive-limits"></a><span data-ttu-id="22e18-164">OneDrive 限制</span><span class="sxs-lookup"><span data-stu-id="22e18-164">OneDrive limits</span></span>
 
-<span data-ttu-id="2ad12-169">若要了解文件和同步限制，请参阅 [SharePoint Online 限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)和[无效的文件名称和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。</span><span class="sxs-lookup"><span data-stu-id="2ad12-169">To learn about file and sync limits, see [SharePoint Online limits](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) and [Invalid file names and file types](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
+<span data-ttu-id="22e18-165">要了解文件和同步限制，请参阅 [SharePoint 限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)和[无效的文件名称和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。</span><span class="sxs-lookup"><span data-stu-id="22e18-165">To learn about file and sync limits, see [SharePoint limits](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) and [Invalid file names and file types](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
   
-<span data-ttu-id="2ad12-170">对于单个用户包含无限云存储空间的计划，请注意，非存储功能可能会有限制。</span><span class="sxs-lookup"><span data-stu-id="2ad12-170">For plans that include unlimited cloud storage for individual users, note that limits may apply on non-storage features.</span></span> 
+<span data-ttu-id="22e18-166">请注意，对于单个用户包含无限云存储空间的计划，非存储功能可能会有限制。</span><span class="sxs-lookup"><span data-stu-id="22e18-166">For plans that include unlimited cloud storage for individual users, note that limits may apply on non-storage features.</span></span> 
+
+## <a name="sync-features"></a><span data-ttu-id="22e18-167">同步功能</span><span class="sxs-lookup"><span data-stu-id="22e18-167">Sync features</span></span>
+
+<span data-ttu-id="22e18-168">计划中包含 OneDrive 的任何人都可以使用 OneDrive 同步应用，除非其 IT 部门明确禁用它。</span><span class="sxs-lookup"><span data-stu-id="22e18-168">Anyone whose plan includes OneDrive can use the OneDrive sync app unless their IT department explicitly disables it.</span></span> <span data-ttu-id="22e18-169">要安装最新同步应用，请转至 [OneDrive 下载页面](https://onedrive.live.com/about/download/)。</span><span class="sxs-lookup"><span data-stu-id="22e18-169">To install the latest sync app, go to the [OneDrive download page](https://onedrive.live.com/about/download/).</span></span> 
+
+<span data-ttu-id="22e18-170">除非另外说明，否则以下功能可在包含 OneDrive 的所有计划以及所有 OneDrive 独立计划中使用：</span><span class="sxs-lookup"><span data-stu-id="22e18-170">Unless otherwise noted, the following features are available across all plans that include OneDrive, and all OneDrive standalone plans:</span></span>
+
+- [<span data-ttu-id="22e18-171">仅允许在特定域上同步</span><span class="sxs-lookup"><span data-stu-id="22e18-171">Allow syncing on only specific domains</span></span>](/onedrive/allow-syncing-only-on-specific-domains)
+- [<span data-ttu-id="22e18-172">适用于 Mac 的应用</span><span class="sxs-lookup"><span data-stu-id="22e18-172">App for Mac</span></span>](https://support.office.com/article/d11b9f29-00bb-4172-be39-997da46f913f)
+- [<span data-ttu-id="22e18-173">适用于 Windows 的应用</span><span class="sxs-lookup"><span data-stu-id="22e18-173">App for Windows</span></span>](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49)
+- [<span data-ttu-id="22e18-174">B2B 同步</span><span class="sxs-lookup"><span data-stu-id="22e18-174">B2B Sync</span></span>](/onedrive/b2b-sync)
+- [<span data-ttu-id="22e18-175">按文件类型阻止上传</span><span class="sxs-lookup"><span data-stu-id="22e18-175">Block upload by file type</span></span>](/onedrive/block-file-types)
+- [<span data-ttu-id="22e18-176">条件访问</span><span class="sxs-lookup"><span data-stu-id="22e18-176">Conditional access</span></span>](/onedrive/enable-conditional-access)
+- <span data-ttu-id="22e18-177">适用于 [Windows 10](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) 和 [Mac](https://support.office.com/article/529f6d53-e572-4922-a585-e7a318c135f0) 的文件随选功能</span><span class="sxs-lookup"><span data-stu-id="22e18-177">Files On-Demand [for Windows 10](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) and [for Mac](https://support.office.com/article/529f6d53-e572-4922-a585-e7a318c135f0)</span></span>
+- <span data-ttu-id="22e18-178">[已知文件夹移动](/onedrive/redirect-known-folders)（重定向 Windows 已知文件夹）</span><span class="sxs-lookup"><span data-stu-id="22e18-178">[Known Folder Move](/onedrive/redirect-known-folders) (redirect Windows known folders)</span></span>
+- [<span data-ttu-id="22e18-179">Mac 设置（plist 文件）</span><span class="sxs-lookup"><span data-stu-id="22e18-179">Mac settings (plist files)</span></span>](/onedrive/deploy-and-configure-on-macos)
+- <span data-ttu-id="22e18-180">[可供实时共同创作的 Office 桌面应用集成](https://support.office.com/article/8a409b0c-ebe1-4bfa-a08e-998389a9d823)。</span><span class="sxs-lookup"><span data-stu-id="22e18-180">[Office desktop app integration for real-time coauthoring](https://support.office.com/article/8a409b0c-ebe1-4bfa-a08e-998389a9d823).</span></span> <span data-ttu-id="22e18-181">需要包含 Office 桌面应用的订阅。</span><span class="sxs-lookup"><span data-stu-id="22e18-181">Requires a subscription that includes the Office desktop apps.</span></span>
+- [<span data-ttu-id="22e18-182">每台计算机安装</span><span class="sxs-lookup"><span data-stu-id="22e18-182">Per-machine installation</span></span>](/onedrive/per-machine-installation)
+- [<span data-ttu-id="22e18-183">SharePoint 团队网站同步</span><span class="sxs-lookup"><span data-stu-id="22e18-183">SharePoint team site sync</span></span>](/sharepoint/let-users-use-new-onedrive-sync-client)
+- [<span data-ttu-id="22e18-184">无提示帐户配置</span><span class="sxs-lookup"><span data-stu-id="22e18-184">Silent account configuration</span></span>](/onedrive/use-silent-account-configuration)
+- [<span data-ttu-id="22e18-185">存储感知集成 (Windows 10)</span><span class="sxs-lookup"><span data-stu-id="22e18-185">Storage Sense integration (Windows 10)</span></span>](https://support.office.com/article/de5faa9a-6108-4be1-87a6-d90688d08a48)
+- [<span data-ttu-id="22e18-186">更新通道选项</span><span class="sxs-lookup"><span data-stu-id="22e18-186">Update ring options</span></span>](/onedrive/sync-client-update-process)
+- [<span data-ttu-id="22e18-187">虚拟桌面支持</span><span class="sxs-lookup"><span data-stu-id="22e18-187">Virtual desktop support</span></span>](/onedrive/sync-vdi-support)
+
+## <a name="sharing-and-collaboration-features"></a><span data-ttu-id="22e18-188">共享和协作功能</span><span class="sxs-lookup"><span data-stu-id="22e18-188">Sharing and collaboration features</span></span>
+
+<span data-ttu-id="22e18-189">除非另外说明，否则以下功能可在包含 OneDrive 的所有计划以及所有 OneDrive 独立计划中使用：</span><span class="sxs-lookup"><span data-stu-id="22e18-189">Unless otherwise noted, the following features are available across all plans that include OneDrive, and all OneDrive standalone plans:</span></span>
+
+- <span data-ttu-id="22e18-190">[访问请求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)</span><span class="sxs-lookup"><span data-stu-id="22e18-190">[Access requests](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)</span></span>
+- <span data-ttu-id="22e18-191">[“任何人”链接](/Office365/Enterprise/best-practices-anonymous-sharing)（可设置为需要过期）</span><span class="sxs-lookup"><span data-stu-id="22e18-191">[“Anyone” links](/Office365/Enterprise/best-practices-anonymous-sharing) (that can be set to require expiration)</span></span> 
+- <span data-ttu-id="22e18-192">[批注中的 @提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。</span><span class="sxs-lookup"><span data-stu-id="22e18-192">[At mentions in comments](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows).</span></span> <span data-ttu-id="22e18-193">需要包含 Office 365 网页版或 Office 365 桌面应用的计划。</span><span class="sxs-lookup"><span data-stu-id="22e18-193">Requires a plan that includes Office 365 for the web or the Office 365 desktop apps.</span></span>
+- [<span data-ttu-id="22e18-194">文件请求</span><span class="sxs-lookup"><span data-stu-id="22e18-194">File requests</span></span>](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
+- <span data-ttu-id="22e18-195">管理默认共享链接（[在组织级别](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links)和[按每个网站](/sharepoint/change-default-sharing-link)）</span><span class="sxs-lookup"><span data-stu-id="22e18-195">Manage the default sharing link ([at the organization level](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) and [per site](/sharepoint/change-default-sharing-link))</span></span>
+- <span data-ttu-id="22e18-196">管理外部共享（[在组织级别](/sharepoint/turn-external-sharing-on-or-off)和[按每个网站](/sharepoint/change-external-sharing-site)，或者在 [OneDrive](/onedrive/user-external-sharing-settings) 中）</span><span class="sxs-lookup"><span data-stu-id="22e18-196">Manage external sharing ([at the organization level](/sharepoint/turn-external-sharing-on-or-off) and [per site](/sharepoint/change-external-sharing-site) or [OneDrive](/onedrive/user-external-sharing-settings))</span></span>
+- [<span data-ttu-id="22e18-197">管理对共享项目的权限</span><span class="sxs-lookup"><span data-stu-id="22e18-197">Manage permissions to shared items</span></span>](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- <span data-ttu-id="22e18-198">[Microsoft Teams 集成](/MicrosoftTeams/sharepoint-onedrive-interact)（适用于在聊天中发送的文件）</span><span class="sxs-lookup"><span data-stu-id="22e18-198">[Microsoft Teams integration](/MicrosoftTeams/sharepoint-onedrive-interact) for files sent in chats.</span></span> <span data-ttu-id="22e18-199">需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。</span><span class="sxs-lookup"><span data-stu-id="22e18-199">Requires a subscription that includes Office 365, and requires the user to be licensed for Teams.</span></span>
+- <span data-ttu-id="22e18-200">[新式附件](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。</span><span class="sxs-lookup"><span data-stu-id="22e18-200">[Modern attachments](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC).</span></span> <span data-ttu-id="22e18-201">需要包含 Outlook 网页版或 Office 桌面应用的计划。</span><span class="sxs-lookup"><span data-stu-id="22e18-201">Requires a plan that includes Outlook on the web or the Outlook desktop app.</span></span>
+- <span data-ttu-id="22e18-202">在组织或网站级别[按域限制共享](/sharepoint/restricted-domains-sharing)</span><span class="sxs-lookup"><span data-stu-id="22e18-202">[Restricting sharing by domain](/sharepoint/restricted-domains-sharing) at the organization or site level</span></span>
+- [<span data-ttu-id="22e18-203">共享报告</span><span class="sxs-lookup"><span data-stu-id="22e18-203">Sharing reports</span></span>](/sharepoint/sharing-reports)
+- [<span data-ttu-id="22e18-204">验证代码</span><span class="sxs-lookup"><span data-stu-id="22e18-204">Verification codes</span></span>](/sharepoint/external-sharing-overview#what-happens-when-users-share)
+
+## <a name="web-features"></a><span data-ttu-id="22e18-205">Web 功能</span><span class="sxs-lookup"><span data-stu-id="22e18-205">Web features</span></span>
+
+<span data-ttu-id="22e18-206">除非另外说明，否则以下功能可在包含 OneDrive 的所有计划以及所有 OneDrive 独立计划中使用：</span><span class="sxs-lookup"><span data-stu-id="22e18-206">Unless otherwise noted, the following features are available across all plans that include OneDrive, and all OneDrive standalone plans:</span></span>
+
+- <span data-ttu-id="22e18-207">[复制文件和文件夹](https://support.office.com/article/67a6323e-7fd4-4254-99a8-35613492a82f)或在 OneDrive 和 SharePoint 之间[移动它们](https://support.office.com/article/5916f90d-f58a-4bf9-b135-10853f516d0b)</span><span class="sxs-lookup"><span data-stu-id="22e18-207">[Copy files and folders](https://support.office.com/article/67a6323e-7fd4-4254-99a8-35613492a82f) or [move them](https://support.office.com/article/5916f90d-f58a-4bf9-b135-10853f516d0b) between OneDrive and SharePoint</span></span>
+- [<span data-ttu-id="22e18-208">发现视图</span><span class="sxs-lookup"><span data-stu-id="22e18-208">Discover view</span></span>](https://support.office.com/article/98cbb291-71e7-4355-b130-ac5f2cfe3d35)
+- [<span data-ttu-id="22e18-209">将一个或多个文件下载到 zip 文件</span><span class="sxs-lookup"><span data-stu-id="22e18-209">Download a single file, or multiple files to a zip file</span></span>](https://support.office.com/article/5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [<span data-ttu-id="22e18-210">文件活动</span><span class="sxs-lookup"><span data-stu-id="22e18-210">File activity</span></span>](https://support.office.com/article/6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)
+- <span data-ttu-id="22e18-211">文件卡</span><span class="sxs-lookup"><span data-stu-id="22e18-211">File card</span></span>
+- [<span data-ttu-id="22e18-212">文件备注</span><span class="sxs-lookup"><span data-stu-id="22e18-212">File comments</span></span>](https://support.office.com/article/8c4990da-a888-4d3e-a09e-d1884f86f628)
+- [<span data-ttu-id="22e18-213">文件预览</span><span class="sxs-lookup"><span data-stu-id="22e18-213">File previews</span></span>](https://support.office.com/article/e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- <span data-ttu-id="22e18-214">帮助窗格</span><span class="sxs-lookup"><span data-stu-id="22e18-214">Help pane</span></span>
+- [<span data-ttu-id="22e18-215">我周边的热门项</span><span class="sxs-lookup"><span data-stu-id="22e18-215">Popular around me</span></span>](https://support.office.com/article/2c14e8e6-4e52-4c61-9778-7155d33534a1#ID0EAACAAA=OneDrive_-_Business)
+- [<span data-ttu-id="22e18-216">Power Automate 集成</span><span class="sxs-lookup"><span data-stu-id="22e18-216">Power Automate integration</span></span>](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [<span data-ttu-id="22e18-217">最近使用的视图</span><span class="sxs-lookup"><span data-stu-id="22e18-217">Recent view</span></span>](https://support.office.com/article/7465991b-6882-4f0d-9a0a-2b2a455798cc)
+- [<span data-ttu-id="22e18-218">回收站</span><span class="sxs-lookup"><span data-stu-id="22e18-218">Recycle bin</span></span>](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+- [<span data-ttu-id="22e18-219">将 OneDrive 还原至上一时段</span><span class="sxs-lookup"><span data-stu-id="22e18-219">Restore a OneDrive to a previous time</span></span>](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15)
+- [<span data-ttu-id="22e18-220">搜索</span><span class="sxs-lookup"><span data-stu-id="22e18-220">Search</span></span>](https://support.office.com/article/0d929e0d-8682-4295-982b-4bd75a3daa01)
+- <span data-ttu-id="22e18-221">[“已共享”视图](https://support.office.com/article/6b67b82b-9c5c-4348-ab10-fd5b0d8df76c)和[“与我共享”视图](https://support.office.com/article/2c14e8e6-4e52-4c61-9778-7155d33534a1#ID0EAACAAA=OneDrive_-_Business)</span><span class="sxs-lookup"><span data-stu-id="22e18-221">[Shared by me view](https://support.office.com/article/6b67b82b-9c5c-4348-ab10-fd5b0d8df76c) and [Shared with me view](https://support.office.com/article/2c14e8e6-4e52-4c61-9778-7155d33534a1#ID0EAACAAA=OneDrive_-_Business)</span></span>
+- [<span data-ttu-id="22e18-222">SharePoint 库访问</span><span class="sxs-lookup"><span data-stu-id="22e18-222">SharePoint library access</span></span>](https://support.office.com/article/9275de7b-0b0b-40ee-8fa2-b17d1b0727d0)
+- [<span data-ttu-id="22e18-223">缩略图</span><span class="sxs-lookup"><span data-stu-id="22e18-223">Thumbnails view</span></span>](https://support.office.com/article/6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)
+- [<span data-ttu-id="22e18-224">版本历史记录</span><span class="sxs-lookup"><span data-stu-id="22e18-224">Version history</span></span>](https://support.office.com/article/159cad6d-d76e-4981-88ef-de6e96c93893)
+
+## <a name="mobile-features"></a><span data-ttu-id="22e18-225">移动功能</span><span class="sxs-lookup"><span data-stu-id="22e18-225">Mobile features</span></span>
+
+<span data-ttu-id="22e18-226">除非另外说明，否则以下功能可在包含 OneDrive 的所有计划以及所有 OneDrive 独立计划中使用：</span><span class="sxs-lookup"><span data-stu-id="22e18-226">Unless otherwise noted, the following features are available across all plans that include OneDrive, and all OneDrive standalone plans:</span></span>
+
+- <span data-ttu-id="22e18-227">适合 [Android](https://support.office.com/article/babc9692-fb53-40b4-8b24-6b83ff95455e) 和 [iOS](https://support.office.com/article/ed5af2c2-39a8-4684-a17c-fcde3742d4be) 的帐户切换功能</span><span class="sxs-lookup"><span data-stu-id="22e18-227">Account switching [for Android](https://support.office.com/article/babc9692-fb53-40b4-8b24-6b83ff95455e) and [iOS](https://support.office.com/article/ed5af2c2-39a8-4684-a17c-fcde3742d4be)</span></span>
+- <span data-ttu-id="22e18-228">[适用于 Android 的应用](https://support.office.com/article/eee1d31c-792d-41d4-8132-f9621b39eb36)。</span><span class="sxs-lookup"><span data-stu-id="22e18-228">[App for Android](https://support.office.com/article/eee1d31c-792d-41d4-8132-f9621b39eb36).</span></span> <span data-ttu-id="22e18-229">中国地区未提供。</span><span class="sxs-lookup"><span data-stu-id="22e18-229">Not available in China.</span></span>
+- [<span data-ttu-id="22e18-230">适用于 iOS 的应用</span><span class="sxs-lookup"><span data-stu-id="22e18-230">App for iOS</span></span>](https://support.office.com/article/08d5c5b2-ccc6-40eb-a244-fe3597a3c247)
+- [<span data-ttu-id="22e18-231">适用于 XBox One、HoloLens、Surface Hub 和平板电脑的 Windows 10 相关应用</span><span class="sxs-lookup"><span data-stu-id="22e18-231">App for Windows 10 for XBox One, HoloLens, Surface Hub, and tablets</span></span>](https://support.office.com/article/6b0e1e05-2b8c-48fa-8820-7f25e2290fca)
+- <span data-ttu-id="22e18-232">[Android](https://support.office.com/article/66605e54-48b8-4f55-bcff-34159702e344) 和 [iOS](https://support.office.com/article/74d406bb-71d0-47c0-8ab8-98679fa1b72e) 上的相册上传功能</span><span class="sxs-lookup"><span data-stu-id="22e18-232">Camera upload on [Android](https://support.office.com/article/66605e54-48b8-4f55-bcff-34159702e344) and [iOS](https://support.office.com/article/74d406bb-71d0-47c0-8ab8-98679fa1b72e)</span></span>
+- <span data-ttu-id="22e18-233">控制设备通知</span><span class="sxs-lookup"><span data-stu-id="22e18-233">Control of device notifications</span></span>
+- <span data-ttu-id="22e18-234">[Android](https://support.office.com/article/57330175-97a6-4c66-8883-7b0a1a65fc21) 和 [iOS](https://support.office.com/article/60ffb5d6-ac87-4bea-b142-01f301b22e4c) 中的文件或文件夹脱机访问功能</span><span class="sxs-lookup"><span data-stu-id="22e18-234">Offline access to files or folders [in Android](https://support.office.com/article/57330175-97a6-4c66-8883-7b0a1a65fc21) and [iOS](https://support.office.com/article/60ffb5d6-ac87-4bea-b142-01f301b22e4c)</span></span>
+- <span data-ttu-id="22e18-235">[Android](https://support.office.com/article/58a4cb71-26b2-461b-8920-25a8acce1776) 和 [iOS](https://support.office.com/article/b7807b8a-8323-4406-99b0-0b13882a8d03) 中的 PDF 标记和注释功能</span><span class="sxs-lookup"><span data-stu-id="22e18-235">PDF markup and annotations [in Android](https://support.office.com/article/58a4cb71-26b2-461b-8920-25a8acce1776) and [iOS](https://support.office.com/article/b7807b8a-8323-4406-99b0-0b13882a8d03)</span></span>
+- <span data-ttu-id="22e18-236">在 [Android](https://support.office.com/article/d74d52bc-dd44-4a20-babb-b75621c32da0) 和 [iOS](https://support.office.com/article/7b5425d5-754f-4201-b88f-13fc765d7d3a) 中扫描白板、文档、名片和照片</span><span class="sxs-lookup"><span data-stu-id="22e18-236">Scan whiteboards, documents, business cards, photos [in Android](https://support.office.com/article/d74d52bc-dd44-4a20-babb-b75621c32da0) and [iOS](https://support.office.com/article/7b5425d5-754f-4201-b88f-13fc765d7d3a)</span></span>
+- [<span data-ttu-id="22e18-237">SharePoint 库访问</span><span class="sxs-lookup"><span data-stu-id="22e18-237">SharePoint library access</span></span>](https://support.office.com/article/9275de7b-0b0b-40ee-8fa2-b17d1b0727d0#mobile_app)
+
+## <a name="it-admin-security-and-compliance-features"></a><span data-ttu-id="22e18-238">IT 管理、安全性和合规性功能</span><span class="sxs-lookup"><span data-stu-id="22e18-238">IT admin, security, and compliance features</span></span>
+
+<span data-ttu-id="22e18-239">要了解这些功能，请参阅 [SharePoint 服务说明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features)。</span><span class="sxs-lookup"><span data-stu-id="22e18-239">For info about these features, see the [SharePoint service description](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features).</span></span>
   
