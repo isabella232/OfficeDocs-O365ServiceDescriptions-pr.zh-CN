@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931918"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279805"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -64,7 +64,7 @@ ms.locfileid: "41931918"
 <sup>9</sup>可添加到任何具有 Exchange 或 SharePoint/ONEDRIVE 的 SKU 的 DLP 加载项。<br/>
 <sup>10 个</sup>敏感标签也包含在 Azure 信息保护 P1 和 P2 中。<br/>
 <sup>11</sup>需要 Exchange Online 计划2许可证才能在用户邮箱中使用保留策略保留内容。<br/>
-<sup>12</sup>高级审核为 Azure Active Directory、Exchange 和 SharePoint 中的活动提供了为期一年的审核日志保留期，并提供了创建自定义审核日志保留策略以管理其他 Office 365 服务的审核日志保留的功能。 它还提供对 Office 365 管理活动 API 的高价值事件和高带宽访问的审核。
+<sup>12</sup>高级审核为 Azure Active Directory、Exchange 和 SharePoint 中的活动提供了为期一年的审核日志保留期，并提供了创建自定义审核日志保留策略以管理其他 Office 365 服务的审核日志保留的功能。 此外，它还提供对 Office 365 管理活动 API 的调查和高带宽访问的关键事件的访问。
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立&amp;计划的安全合规性中心可用性
 

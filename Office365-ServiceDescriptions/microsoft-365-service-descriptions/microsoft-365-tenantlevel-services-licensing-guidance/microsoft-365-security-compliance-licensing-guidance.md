@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787025"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279855"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -421,3 +421,23 @@ Office 365 中的监督策略使您可以捕获指定审阅者进行检查的员
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 若要明确标识保护和条件访问，用户必须包含在组中或添加到条件访问策略中。 在条件访问策略中，users 和 groups 条件是必需的。 在策略中，您可以选择 "**所有用户**" 或 "特定用户和组"。 您应仅选择经过适当授权的用户和组。 有关详细信息，请参阅[在 Azure Active Directory 条件访问中有哪些条件？](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions)。
+
+## <a name="advanced-audit"></a>高级审核
+
+Microsoft 365 中的高级审核为用户和管理员活动提供了为期一年的审核日志保留，并提供了创建自定义审核日志保留策略以管理其他 Microsoft 365 服务的审核日志保留的功能。 此外，它还提供对 Office 365 管理活动 API 的调查和高带宽访问的关键事件的访问。 有关详细信息，请参阅[Microsoft 365 中的高级审核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)。
+
+### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
+
+Office 365 E5、Microsoft 365 E5 和 Microsoft 365 E5 合规性的用户可从高级审核中受益。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+由于 Microsoft 365 服务中与用户活动相关的审核记录可保留最多一年，因此用户从高级审核中受益。 此外，还记录了高值审核事件，如访问或读取用户邮箱中的项目的时间。 有关详细信息，请参阅[高价值审核事件](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+默认情况下，在租户级别为拥有 Office 365 或 Microsoft 365 E5 订阅的所有组织启用高级审核，并自动为活动提供为期一年的审核日志保留期（由具有相应许可证的用户在中执行）Azure Active Directory、Exchange 和 SharePoint。 此外，组织可以使用审核日志保留策略来管理其他 Microsoft 365 服务中的活动生成的审核记录的保留期。 有关详细信息，请参阅[管理审核日志保留策略](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+审核日志为期一年的保留，审核高值事件仅适用于具有相应许可证的用户。 此外，管理员还可以使用审核日志保留策略为特定用户的审核日志指定较短的保留期限。
