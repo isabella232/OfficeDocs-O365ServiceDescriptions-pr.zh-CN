@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172084"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374169"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -88,7 +88,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
   
 - 如果用户已使用 5TB 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive 中的默认存储空间增加到每用户 25 TB（如有需要，管理员可以设置更低的每用户存储空间限制）。 
     
-- 对于已使用 25 TB OneDrive 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。 此额外存储空间以额度方式提供给组织。
+- 对于已使用 25 TB OneDrive 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。
     
 要查看单个用户的存储空间和使用情况，请转至 OneDrive 同步应用中的[管理存储空间](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)。 若要查看组织中的用户使用的存储空间，请转至 Microsoft 365 管理中心的 [OneDrive 使用情况报表](/office365/admin/activity-reports/onedrive-for-business-usage)。 
    
