@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279855"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374159"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -189,9 +189,9 @@ ADG 允许用户将标签应用于特定数据，以对特定的策略进行对�
 
 可以通过自动分类将 ADG 保留策略应用于特定位置（工作组网站、组网站等）的许可用户。 有关应用 ADG 保留策略的说明，请参阅[将保留策略应用于整个组织或特定位置](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)。
 
-## <a name="office-365-advanced-ediscovery"></a>Office 365 高级电子数据展示
+## <a name="advanced-ediscovery"></a>高级电子数据展示
 
-Office 365 高级电子数据展示为 IT 和公司内部的法律部门提供调查和电子数据展示解决方案，以确定、收集、保留、减少和查看与调查或诉讼相关的内容，然后再导出Office 365 系统。
+高级电子数据展示为 IT 和公司内部的法律部门提供调查和电子数据展示解决方案，以在出口 Office 365 之前识别、收集、保留、减少和检查与调查或诉讼相关的内容系统.
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
@@ -440,4 +440,4 @@ Office 365 E5、Microsoft 365 E5 和 Microsoft 365 E5 合规性的用户可从�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-审核日志为期一年的保留，审核高值事件仅适用于具有相应许可证的用户。 此外，管理员还可以使用审核日志保留策略为特定用户的审核日志指定较短的保留期限。
+审核日志的一年保留时间和关键事件的审核仅适用于具有相应许可证的用户。 此外，管理员还可以使用审核日志保留策略为特定用户的审核日志指定较短的保留期限。

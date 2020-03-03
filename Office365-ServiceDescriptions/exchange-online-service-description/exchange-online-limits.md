@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: a1f83239d3ac63ea8b8ef2559fe962f131c96110
-ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41000852"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374179"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -55,7 +55,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 - [Exchange ActiveSync 限制](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> •  应用于 Microsoft Office 365 组织的限制可能因组织已在服务中登记的时间长度而异。 <br/> •  如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 <br/> •    虽然无法修改其中大多数限制，但你和你的用户应了解它们。 <br/> •    这些限制适用于内部收件人和外部收件人。 <br/> •    默认情况下，Exchange Online Protection (EOP) 可保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅[Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 <br/> •    若要了解 Office 365 组限制，请参阅 [了解 Office 365 组](https://go.microsoft.com/fwlink/?linkid=846714)中的“如何管理我的组？”。
+> •  应用于 Microsoft Office 365 组织的限制可能因组织已在服务中登记的时间长度而异。 <br/> •  如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 <br/> •    虽然无法修改其中大多数限制，但你和你的用户应了解它们。 <br/> •    这些限制适用于内部收件人和外部收件人。 <br/> •    默认情况下，Exchange Online Protection (EOP) 可保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 <br/> •    若要了解 Office 365 组限制，请参阅 [了解 Office 365 组](https://go.microsoft.com/fwlink/?linkid=846714)中的“如何管理我的组？”。
 
 ## <a name="address-book-limits"></a>通讯簿限制
 
@@ -355,12 +355,12 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能**|**Office 365 商业协作版**|**Office 365 商业高级版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F1**|
 |收件人速率限制<sup>1</sup>|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|
-|收件人限制|500 个收件人|500 个收件人|500 个收件人|500 个收件人|500 个收件人|500 个收件人|
+|收件人限制|500 个收件人|1000收件人|1000收件人|1000收件人|1000收件人|1000收件人|
 |收件人代理服务器地址限制|400|400|400|400|400|400|
 |邮件速率限制|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|
 
 > [!NOTE]
-> <sup>1</sup>达到收件人速率限制后，将无法从邮箱发送邮件，直到在过去24小时内发送的邮件的收件人数低于限制。 例如，用户在 09:00 am 向5000收件人发送一封电子邮件，然后将另一封2500邮件发送给在上午10:00 的收件人，然后将另一封邮件发送给位于 2500 AM 的11:00 收件人，从而达到10000邮件的限制。 用户将无法再次发送邮件，直到下一天的 09:00 AM。
+> <sup>1</sup>达到收件人速率限制后，将无法从邮箱发送邮件，直到在过去24小时内发送的邮件的收件人数低于限制。 例如，用户在 09:00 AM 向5000收件人发送一封电子邮件，然后将另一封邮件发送给2，在 10:00 AM 为1000个收件人发送一封邮件，然后将另一封邮件发送给2500收件人（采用 11:00 AM），从而达到10000邮件的限制。 用户将无法再次发送邮件，直到下一天的 09:00 AM。
 
 #### <a name="sending-limits-across-standalone-options"></a>跨独立选项的发送限制
 
@@ -368,7 +368,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |:-----|:-----|:-----|:-----|:-----|
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |收件人速率限制|无限制<sup>1</sup>|每日10000收件人<sup>2</sup>|每日10000收件人<sup>2</sup>|每日10000收件人<sup>2</sup>|
-|收件人限制|500 个收件人<sup>1</sup>|500 个收件人|500 个收件人|500 个收件人|
+|收件人限制|1000个收件人<sup>1</sup>|1000收件人|1000收件人|1000收件人|
 |收件人代理服务器地址限制|400|400|400|400|
 |邮件速率限制|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|
 
