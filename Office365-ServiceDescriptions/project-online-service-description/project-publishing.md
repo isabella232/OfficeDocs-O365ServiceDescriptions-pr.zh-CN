@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性功能。
 ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263396"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546045"
 ---
 # <a name="project-publishing"></a>Project 发布
 
@@ -37,11 +37,11 @@ Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性
 
 使用消息传送功能，与团队成员就项目问题进行沟通。 详细了解 [Project 中的 IM 聊天](https://go.microsoft.com/fwlink/p/?LinkId=271351)。
   
-## <a name="publish-projects-on-project-server-or-project-online"></a>在 Project Server 或 Project Online 上发布项目
+## <a name="publish-projects-on-project-server-or-project-online"></a>将项目发布到 Project Server 或 Project Online
 
 使用 Project Web App 发布项目。 详细了解如何[将项目保存并发布到 Project Web App 中](https://go.microsoft.com/fwlink/p/?LinkId=271354)。
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>将 Project MPP 文件保存在 SharePoint 上
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>将 Project MPP 文件保存到 SharePoint
 
 将项目保存在 SharePoint 文档库中，以便与没有 Project Server 的团队成员共享。 详细了解如何[与 SharePoint 任务列表同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   

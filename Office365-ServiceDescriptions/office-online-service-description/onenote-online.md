@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 onenote for web （以前称为 OneNote Web App）在 OneNote 笔记本中进行联机笔记，可以从任意位置添加笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
 ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263506"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545765"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 网页版
 

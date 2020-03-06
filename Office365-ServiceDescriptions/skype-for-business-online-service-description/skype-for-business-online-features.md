@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是管理员，则可以在设置 Skype for business Online 中查找有关设置 Skype for Business Online 功能的详细说明。
 ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733793"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545755"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 
@@ -36,7 +36,7 @@ ms.locfileid: "37733793"
   
 Skype for Business 为此处列出的会议室设备提供支持。 有关详细信息，请与你的帐户团队合作或致电[Office 365 支持人员](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)。 要获取本地号码，可以从下拉列表中选择区域设置。 
   
-## <a name="instant-messaging-presence-and-contacts"></a>即时消息、状态和联系人
+## <a name="instant-messaging-presence-and-contacts"></a>即时消息、 在线状态以及联系人
 
 使用 Skype for Business，用户可以：
   
@@ -48,19 +48,19 @@ Skype for Business 为此处列出的会议室设备提供支持。 有关详细
     
 有关即时消息、状态和联系人的详细信息，请参阅在[Skype For business 中发送即时](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05)消息。
   
-## <a name="skype-to-skype-audio-video-and-media"></a>Skype 到 Skype 音频、视频和媒体
+## <a name="skype-to-skype-audio-video-and-media"></a>Skype 于 Skype 音频、 视频和媒体
 
 Skype for Business Online 用户可以使用电脑和 web 摄像头对其他 Skype for Business 用户进行一到一台基于计算机的音频和视频呼叫。 Skype for Business Online 用户可以在同一 Skype for business Online 组织中的其他用户（在企业防火墙内部或外部）启动 Skype 到 Skype 音频和视频呼叫，也可以使用 Skype for business 中的其他 Skype for Business 用户启动联合域如果两个 Skype for Business 域已正确配置、受支持且允许联盟。
   
 请参阅[设置 skype For business 中的音频设备选项](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff)，了解如何在 Skype for business 中设置音频设备选项。 
   
-## <a name="federation-and-public-im-connectivity"></a>联盟和公共 IM 连接
+## <a name="federation-and-public-im-connectivity"></a>联盟和公用 IM 连接
 
 Skype for business 外部连接（联合）允许 Skype for business 用户与其他使用 Skype for business 的组织中的用户进行连接，以及在本地托管其自己的 Skype for business Server 的用户。 联盟联系人可以查看状态、使用 IM 进行通信，并能进行 Skype 至 Skype 音频和视频通话。 所有联合的通信都使用访问代理服务器在即时消息系统之间进行了加密。 在将邮件传递到联盟伙伴的网络（如果合作伙伴与本地 Skype for Business Server 或第三方网络联合在一起）后，Microsoft 不会控制加密。
   
 Skype for business 外部连接要求对联合身份验证关系双方的同意和正确配置。 双方的管理员设置联盟后，每个组织中的用户都可以查看状态并与其他组织中的用户进行通信。 仅在其他 Skype for Business 环境（具有适当配置的访问代理服务器或边缘服务器）之间支持 Office 365 中的联合身份验证。 若要了解有关边缘服务器配置的详细信息，请参阅[Lync server 2013 中的外部用户访问所需的组件](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)。
   
-## <a name="skype-for-business-online-meetings"></a>Skype for Business Online 会议
+## <a name="skype-for-business-online-meetings"></a>Skype 业务联机会议
 
 用户可以在 Skype for Business 客户端或 Office 中轻松地启动或加入临时 Skype for Business 会议。 通过 Skype for Business，用户可以将简单的即时消息对话或电子邮件对话升级到基于 PC 的多方（三个或更多用户）使用共享桌面、应用程序和文档的用户的音频和视频会议。
   
@@ -73,7 +73,7 @@ Skype for Business 多方音频为用户提供了自适应音频编解码器，�
 > [!IMPORTANT]
 > 由于法规限制，在某些国家/地区可能无法使用多方 Skype for Business 音频和视频功能。 有关详细信息，请参阅[关于许可证限制](https://go.microsoft.com/fwlink/?LinkId=278963)。 
   
-## <a name="security-and-archiving"></a>安全性和存档
+## <a name="security-and-archiving"></a>安全保护和归档
 
 Microsoft Office 365 流量（信号和媒体流量）使用传输层安全性（TLS）协议进行加密。 任何拦截通信的人都仅能看到加密文本。 例如，如果用户在使用公用 Wi-fi 网络（如机场）时访问 Skype for business Online IM、呼叫和演示文稿，则会将用户的通信加密为网络 "嗅探者" 可能拦截的内容。
   
@@ -81,7 +81,7 @@ Skype for Business 在会议中提供对等即时消息、多方即时消息和�
   
 Skype for Business 中的所有存档均被视为 "用户级存档"，因为您可以为一个或多个特定用户或用户组创建、配置和应用针对这些用户的用户级存档策略，为其中一个或多个特定用户启用或禁用该存档。 在 Skype for Business 管理中心内，不能直接控制存档设置。 
   
-## <a name="exchange-and-sharepoint-interoperability"></a>Exchange 和 SharePoint 互操作性
+## <a name="exchange-and-sharepoint-interoperability"></a>交换和 SharePoint 的互操作性
 
 Skype for Business Online 包括高清晰度图片、状态更新基于 Exchange 日历信息、统一联系人存储、存档、Skype for Business 中的外出邮件以及状态的状态，以及在中的 "通信"Outlook. 此互操作性需要在用户桌面上运行 Skype for Business 客户端。
   
@@ -93,7 +93,7 @@ Skype for Business Online 包括高清晰度图片、状态更新基于 Exchange
     
 Skype for Business 与本地 Microsoft SharePoint Server 在 SharePoint 网站中的状态和即点即用进行互操作。 此互操作性需要在用户桌面上运行 Skype for Business 客户端。 
   
-## <a name="skype-for-business-online-administration-and-management"></a>Skype for Business Online 管理和管理
+## <a name="skype-for-business-online-administration-and-management"></a>Skype 的在线业务管理和管理
 
 尽管 Microsoft 直接控制所有 Skype for Business Online 数据中心并负责整体系统性能，但它只能控制组合在一起提供 Office 365 用户的总体体验的部分元素。 组织本身负责到数据中心、客户广域网 (WAN) 和客户局域网 (LAN) 的网络连接。 此外，它们还管理用户设备及其配置。它们也负责维护每个用户的任何所需功能需要的授权，包括但不限于管理这些功能的能力，前提是用户需要访问此功能。
   
@@ -121,7 +121,7 @@ Skype for Business 与本地 Microsoft SharePoint Server 在 SharePoint 网站�
   
 ## <a name="calling-plans-in-office-365"></a>Office 365 中的通话套餐
 
-Skype for Business 包括在公共交换电话网络（PSTN）上的呼叫功能。 通话套餐是[在 Office 365 中的电话系统](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365)的加载项，它允许您搜索、获取并将电话号码分配给组织中的用户，以便他们可以拨打和接听来自组织内部和外部人员的呼叫直接从 Office 365。 分配了电话号码的用户可以在所有 Skype for Business 设备（包括 VoIP 电话、电脑和移动设备）上进行语音呼叫。 它们还可以通过静音/取消激活、保留/继续、呼叫转移和呼叫转接功能来控制其呼叫，如有必要，请拨打紧急电话。 
+Skype for Business 包括在公共交换电话网络（PSTN）上的呼叫功能。 通话套餐是[在 office 365 中的电话系统](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365)的加载项，它允许您搜索、获取并将电话号码分配给组织中的用户，以便他们可以直接从 Office 365 拨打和接听来自组织内部和外部人员的呼叫。 分配了电话号码的用户可以在所有 Skype for Business 设备（包括 VoIP 电话、电脑和移动设备）上进行语音呼叫。 它们还可以通过静音/取消激活、保留/继续、呼叫转移和呼叫转接功能来控制其呼叫，如有必要，请拨打紧急电话。 
   
 有关可用通话套餐的信息，请转到[Office 365 的通话套餐](https://products.office.com/skype-for-business/pstn-calling-plans)。 有关详细信息和设置通话套餐的详细信息，请参阅[哪种通话套餐最适合你？](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

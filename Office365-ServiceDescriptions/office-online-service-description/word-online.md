@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: 适用于 web 的 word （以前称为 Word Web App）将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。
 ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263486"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545735"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 

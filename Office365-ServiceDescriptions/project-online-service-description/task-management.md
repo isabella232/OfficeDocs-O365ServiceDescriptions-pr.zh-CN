@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: 以下任务管理功能在 Project Online 中可用。
 ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263376"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546095"
 ---
 # <a name="task-management"></a>任务管理
 
@@ -29,7 +29,7 @@ ms.locfileid: "39263376"
 
 停用任务后，任务仍会保留在项目计划中，但不会影响资源可用性、项目日程安排或其他任务的日程安排。详细了解如何[停用任务](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
   
-## <a name="auto-complete"></a>自动完成
+## <a name="auto-complete"></a>Auto-complete
 
 键入任务或资源名称时，获得其相关建议。 
   

@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
 ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262645"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545835"
 ---
-# <a name="messaging-policy-and-compliance"></a>邮件策略和符合性
+# <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
 
 Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
 
@@ -70,11 +70,11 @@ Office 365 邮件加密是 Azure 信息保护的一部分，它是一种在线�
 |:-----|:-----|:-----|:-----|
 |邮件流规则|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
 |审核日志记录|是<sup>2</sup>|是|是|
-|数据丢失防护 (DLP)|否|可访问|是<sup>3</sup>|
+|数据丢失防护 (DLP)|否|是|是<sup>3</sup>|
 |Office 365 邮件加密|是<sup>4</sup>|是|是<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> EOP 和 Exchange Online 之间的可用邮件流规则条件、例外和操作略有不同。 这些差异在 exchange online 中的[邮件流规则条件和例外（谓词）](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)中注明， [exchange Online 中的邮件流规则操作](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 <br/>
+> <sup>1</sup> EOP 和 Exchange Online 之间的可用邮件流规则条件、例外和操作略有不同。 有关这些区别，请参阅 [Exchange Online 中的邮件流规则条件和异常（谓词）](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和 [Exchange Online 中的邮件流规则](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 <br/>
 > <sup>2</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。 <br/>
 > <sup>3</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。 <br/>
 > <sup>4</sup>支持购买 Azure 信息保护加载项并使用 Exchange online Protection 通过 exchange online 路由电子邮件的本地客户。 对于桌面体验，除了 Azure 信息保护加载项外，还需要购买 Office 365 专业增强版。 <br/>

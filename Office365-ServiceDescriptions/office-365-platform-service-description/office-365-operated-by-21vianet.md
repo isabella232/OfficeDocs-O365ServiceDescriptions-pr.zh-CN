@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374189"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545995"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -94,7 +94,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |Microsoft Sway<sup>8</sup>|否|否|否|否|否|否|否|
 |Microsoft Teams|否|否|否|否|否|否|否|
 |Office Delve|否|否|否|否|否|否|否|
-|Office 365 组|必需|否|可访问|是|是|是|是|
+|Office 365 组|可访问|否|可访问|是|是|是|是|
 |Office 365 视频|否|否|否|可访问|是|是|是<sup>2</sup>|
 |OneNote 课堂笔记本|否|否|否|Yes<sup>15<sup>|否|否|否|
 |**[用户帐户 mManagement](user-account-management.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
@@ -158,7 +158,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |向所有客户提供的定期更新|是|是|是|是|是|是|是|
 |在需要操作、解决问题、部署功能或服务更改时发送到消息的通知|是|是|是|是|是|是|是|
 |针对某些服务更新的 [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)|是|--|是|是|是|是|是|
-|目标发布的启用选项|否|--|否|否|必需|是|是|
+|目标发布的启用选项|否|--|否|否|可访问|是|是|
 |**[帮助和培训](help-and-training.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
 |联机帮助|是|是|是|是|是|是|是|
 |社区|否|否|否|否|否|否|否|
@@ -226,22 +226,24 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|是|是|是|可访问|否|是|否<sup>5</sup>|否|必需|否|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|是|是|是|可访问|否|是|否<sup>5</sup>|否|必需|否|
 |[Microsoft OneNote](../office-applications-service-description/office-applications.md#microsoft-onenote)|是|是|是|可访问|否|是|否<sup>5</sup>|否|必需|否|
-|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|是|是|是|可访问|否|必需|否<sup>5</sup>|否|必需|否|
-|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|是|是|是|可访问|否|必需|否<sup>5</sup>|否|必需|否|
+|[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|是|是|是|可访问|否|可访问|否<sup>5</sup>|否|必需|否|
+|[Microsoft Publisher](../office-applications-service-description/office-applications.md#microsoft-publisher)|是|是|是|可访问|否|可访问|否<sup>5</sup>|否|必需|否|
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access)|是|是|是|是<sup>9</sup>|否|是<sup>9</sup>|否<sup>5</sup>|否|必需|否|
 |Microsoft Visio Pro<sup>10</sup>|是|是|是|是|是|是|是|是|是|是|
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|是|是|是|Yes<sup>4</sup>|Yes<sup>4</sup>|Yes<sup>4</sup>|Yes<sup>4</sup>|是<sup>4</sup>|是|是<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|否|否|否|否|否|否|否<sup>5</sup>|否|否|否|
 |[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps)|是|是|是|是|是|是|是|是|可访问|否|
-|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|否|必需|否|否|否|必需|否<sup>5</sup>|否|必需|否|
+|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|否|必需|否|否|否|可访问|否<sup>5</sup>|否|必需|否|
+|适用于 Android 的 Microsoft Office 应用程序|是|是|是|是|是|是|是|是|是|是|
+|适用于 iOS 的 Microsoft Office 应用程序|是|是|是|是|是|是|是|是|是|是|
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是|是|是|是|是|是<sup>5</sup>|是|是|是|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|是|是|是|是|是|是|是|是|是|是|
-|[Office Mobile for Android]<sup>15</sup>(../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|是|是|是|是|是|是<sup>5</sup>|是|是|是|
-|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|必需|否|否|否|必需|否<sup>5</sup>|否|必需|否|
-|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|必需|否|否|否|必需|否<sup>5</sup>|否|必需|否|
-|Outlook for Android|否|可访问|是|可访问|否|必需|否<sup>5</sup>|否|必需|否|
+|[适用于 Android 的 Office Mobile](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|是|是|是|是|是|是|是<sup>5</sup>|是|是|是|
+|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|必需|否|否|否|可访问|否<sup>5</sup>|否|必需|否|
+|[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|必需|否|否|否|可访问|否<sup>5</sup>|否|必需|否|
+|Outlook for Android|否|可访问|是|可访问|否|可访问|否<sup>5</sup>|否|必需|否|
 |**企业价值**|**由世纪互联运营的 Office Professional Plus 2013**|**由世纪互联运营的 Office 专业增强版 2016**|**由世纪互联运营的 Office 365 ProPlus**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
-|每个用户可在 5 台 PC 或 Mac 上进行安装|否|必需|是<sup>6</sup>|是<sup>6</sup>|否|必需|否<sup>5</sup>|否|必需|否|
+|每个用户可在 5 台 PC 或 Mac 上进行安装|否|是|是<sup>6</sup>|是<sup>6</sup>|否|可访问|否<sup>5</sup>|否|必需|否|
 |自动化用户帐户配置|不适用|是|是|是|是|是|是|是|是|是|
 |多语言用户界面|是|是|可访问|否|否|必需|否|否|必需|否|
 |客户端推送部署|是|是|是|是|是|可访问|否|否|必需|否|
@@ -364,7 +366,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |通讯簿策略|是|是|是|是|是|是|是|
 |分层通讯簿|是|--|是|是|是|可访问|否|
 |地址列表和全局地址列表|是|是|是|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|是<sup>14</sup>|
-|Office 365 组|必需|否|可访问|是|是|是|是|
+|Office 365 组|可访问|否|可访问|是|是|是|是|
 |通讯组|是|是|是|是|是|是|是|
 |外部联系人（全局）|是|是|是|是|是|是|是|
 |通用联系人卡片|是|是|是|是|是|是|是|
@@ -478,7 +480,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Admin role group permissions](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|是<sup>2</sup>|是|
 |[Domain management](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|是<sup>3</sup>|是<sup>3</sup>|
 |[Match subdomains](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#match-subdomains)|是|是|
-|[基于目录的边缘阻止](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|否|必需|
+|[基于目录的边缘阻止](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|否|可访问|
 |[邮件流规则](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|是<sup>3、4、11</sup>|是<sup>3, 4, 11</sup>|
 |[Audit logging](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|是<sup>5</sup>|是|
 |[Data loss prevention (DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|否|否|
@@ -495,9 +497,9 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Secure messaging with a trusted partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|
 |[合作伙伴 IP 地址安全列表](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|
 |[条件邮件路由](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|是|是|
-|[Hybrid mail routing](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|否|必需|
+|[Hybrid mail routing](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|否|可访问|
 |[Microsoft 365 管理中心报告](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |否<sup>8</sup>|是<sup>8, 9</sup>|
-|[Reporting using web services](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|否|必需|
+|[Reporting using web services](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|否|可访问|
 |[Message trace](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|是<sup>12</sup>|是<sup>12</sup>|
 |[访问 Microsoft 365 管理中心](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |是|是|
 |[Access to the Exchange admin center](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)|是|是|
@@ -536,21 +538,21 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |:-----|:-----|:-----|
 |**功能**|**Exchange Online Archiving for Exchange Server<sup>1</sup>**|**Exchange Online Archiving for Exchange Online<sup>2</sup>**|
 |**[Exchange Online Archiving 中的存档功能](../exchange-online-archiving-service-description/archive-features.md)**|||
-|存档邮箱|否|必需|
-|使用存档策略移动邮件|否|必需|
-|将数据导入到存档|否|必需|
-|已删除邮件的恢复|否|必需|
-|已删除邮箱的恢复|否|必需|
-|邮箱备份|否|必需|
+|存档邮箱|否|可访问|
+|使用存档策略移动邮件|否|可访问|
+|将数据导入到存档|否|可访问|
+|已删除邮件的恢复|否|可访问|
+|已删除邮箱的恢复|否|可访问|
+|邮箱备份|否|可访问|
 |**[Exchange Online Archiving 中的客户端功能](../exchange-online-archiving-service-description/client-features.md)**|||
-|Outlook<sup>3</sup>|否|必需|
-|Outlook 网页版|否|必需|
+|Outlook<sup>3</sup>|否|可访问|
+|Outlook 网页版|否|可访问|
 |**[Exchange Online Archiving 中的合规性功能和安全功能](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
-|保留策略|否|必需|
-|就地保留和诉讼保留<sup>5</sup>|否|必需|
-|就地电子数据展示|否|必需|
-|在本地服务器和 Exchange Online Archiving 之间加密|否|必需|
-|在客户端和 Exchange Online Archiving 之间加密|否|必需|
+|保留策略|否|可访问|
+|就地保留和诉讼保留<sup>5</sup>|否|可访问|
+|就地电子数据展示|否|可访问|
+|在本地服务器和 Exchange Online Archiving 之间加密|否|可访问|
+|在客户端和 Exchange Online Archiving 之间加密|否|可访问|
 |加密：S/MIME 和 PGP|是|是|
 |使用 Azure 信息保护的 IRM|否|否|
 |使用 Windows Server AD RMS 的 IRM|是<sup>4</sup>|Yes<sup>4</sup>|
@@ -592,23 +594,23 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |客户端呈现 (CSR)|是|是|是|是|是|是|是|
 |自定义网站定义|否|否|否|否|否|否|否|
 |自定义站点设置页面|否|否|否|否|否|否|否|
-|开发人员网站|必需|否|可访问|是|是|是|是|
-|基于表单的应用程序|必需|否|可访问|是|是|是|是|
+|开发人员网站|可访问|否|可访问|是|是|是|是|
+|基于表单的应用程序|可访问|否|可访问|是|是|是|是|
 |完全信任的解决方案|否|否|否|否|否|否|否|
 |InfoPath Forms Services|否|否|否|否|否|否<sup>14</sup>|否|
 |JavaScript 对象模型|是|是|是|是|是|是|是|
 |列表和库 API|是|是|是|是|是|是|是|
-|远程事件接收器|必需|否|可访问|是|是|是|是|
+|远程事件接收器|是|否|可访问|是|是|是|是|
 |REST API|是|是|是|是|是|是|是|
-|SharePoint 设计管理器|必需|否|可访问|是|是|是|是|
-|SharePoint Designer 2013|是|否|可访问|是|是|是|是|
+|SharePoint 设计管理器|可访问|否|可访问|是|是|是|是|
+|SharePoint Designer 2013|可访问|否|可访问|是|是|是|是|
 |SharePoint 商店|否|否|否|否|否|否|否|
 |SharePoint 2010 工作流 (.NET 3.5)|否|否|否|否|否|否|否|
 |SharePoint 2010 工作流（现成）|否|否|否|否|否|否|否|
-|SharePoint 2013 和 SharePoint 2016 工作流|必需|否|必需|Yes<sup>4</sup>|Yes<sup>4</sup>|是<sup>4</sup>|是|
-|工作负载 API：ECM API|必需|否|可访问|是|是|是|是|
-|工作负载 API：搜索 API|必需|否|可访问|是|是|是|是|
-|工作负载 API：社交 API|必需|否|可访问|是|是|是|是|
+|SharePoint 2013 和 SharePoint 2016 工作流|可访问|否|可访问|Yes<sup>4</sup>|Yes<sup>4</sup>|是<sup>4</sup>|是|
+|工作负载 API：ECM API|可访问|否|可访问|是|是|是|是|
+|工作负载 API：搜索 API|可访问|否|可访问|是|是|是|是|
+|工作负载 API：社交 API|可访问|否|可访问|是|是|是|是|
 |**IT 专业人员功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
 |Active Directory 同步|是|是|是|是|是|是|是|
 |备用访问映射 (AAM)|否|否|否|否|否|否|否|
@@ -633,7 +635,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |请求管理|否|否|否|否|否|否|否|
 |请求限制|否|否|否|否|否|否|否|
 |资源限制|否|否|否|否|否|否|否|
-|服务应用程序平台|必需|否|可访问|是|是|是|是|
+|服务应用程序平台|可访问|否|可访问|是|是|是|是|
 |SharePoint 运行状况分析器|否|否|否|否|否|否|否|
 |SharePoint 管理中心 (Office 365)|是|是|是|是|是|是|否<sup>4</sup>|
 |Shredded Storage|是|是|是|是|是|是|是|
@@ -651,8 +653,8 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |资产库增强/视频支持|是|是|是|是|是|是|是|
 |审核|是|是|是|是|是|是|是|
 |审核与报告（例如文档编辑、策略编辑、删除）|是|是|是|是|是|是|是|
-|内容管理器|是|否|可访问|是|是|是|是|
-|设计管理器|必需|否|可访问|是|是|是|是|
+|内容管理器|可访问|否|可访问|是|是|是|是|
+|设计管理器|可访问|否|可访问|是|是|是|是|
 |文档集|是|是|是|是|是|是|是|
 |Word 网页版中的文档翻译|否|否|否|否|否|否|否|
 |电子数据展示搜索|是<sup>6</sup>|是|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|
@@ -666,8 +668,8 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |混合分类和内容类型|是|是|是|是|是|是|是<sup>15</sup>|
 |信息权限管理 (IRM)|否|否|否|否|否|否|否<sup>4</sup>|
 |信息权限管理 (IRM)|否|否|否|否|否|否|否|
-|托管的元数据服务|必需|否|可访问|是|是|是|是|
-|元数据驱动的导航|必需|否|可访问|是|是|是|是|
+|托管的元数据服务|可访问|否|可访问|是|是|是|是|
+|元数据驱动的导航|可访问|否|可访问|是|是|是|是|
 |多级布置|是|是|是|是|是|是|是|
 |Office 网页版（创建/编辑）|是|是|是|是|是|是|是<sup>8</sup>|
 |Office 网页版（查看）|是|是|是|是|是|是|是|
@@ -676,11 +678,11 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |PowerPoint Automation Services|否|否|否|否|否|否|否|
 |保存保留库|否|否|否|否|否|必需|否|
 |快速编辑|是|是|是|是|是|可访问|否|
-|记录管理|是|否|可访问|是|是|是|是|
+|记录管理|可访问|否|可访问|是|是|是|是|
 |回收站（SharePoint 管理中心）|是|是|是|是|是|可访问|否|
 |回收站（网站集）|是|是|是|是|是|可访问|否|
-|相关项目|必需|否|可访问|是|是|是|是|
-|富媒体管理|必需|否|可访问|是|是|是|是|
+|相关项目|可访问|否|可访问|是|是|是|是|
+|富媒体管理|可访问|否|可访问|是|是|是|是|
 |共享的内容类型|是|是|是|是|是|是|是|
 |SharePoint 翻译服务|否|否|否|否|否|否|否|
 |调查|是|是|是|是|是|是|是|
@@ -691,24 +693,24 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |类别页面和目录项页面|否|否|否|否|否|必需|否|
 |搜索 Web 部件|否|否|否|否|否|必需|否|
 |跨网站发布|否|否|否|否|否|必需|否|
-|WCM：设计器工具|必需|否|可访问|是|是|是|是|
+|WCM：设计器工具|可访问|否|可访问|是|是|是|是|
 |多面导航|否|否|否|否|否|否<sup>7</sup>|否|
-|图像呈现|必需|否|可访问|可访问|否|否|否|
-|WCM：托管导航|必需|否|可访问|是|是|是|是|
-|WCM：移动和设备呈现|必需|否|可访问|是|是|是|是|
+|图像呈现|可访问|否|可访问|可访问|否|否|否|
+|WCM：托管导航|可访问|否|可访问|是|是|是|是|
+|WCM：移动和设备呈现|可访问|否|可访问|是|是|是|是|
 |WCM：多个域|否|否|否|否|否|否|否|
-|WCM：推荐|必需|否|可访问|是|是|是|是|
+|WCM：推荐|可访问|否|可访问|是|是|是|是|
 |WCM：搜索引擎优化 (SEO)|是|否|可访问|是|是|是|是|
 |Word Automation Services|否|否|否|否|否|否|否|
 |**洞察力功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
 |商业智能中心|否|否|否|否|否|否|否|
-|计算度量值和成员|否|否|否|是|否|是|否|
-|数据连接库|否|否|否|否|否|是|否|
-|分离的 PivotTable 和 PivotChart|否|否|否|否|否|是|否|
+|计算度量值和成员|否|否|否|可访问|否|可访问|否|
+|数据连接库|否|否|否|否|否|可访问|否|
+|分离的 PivotTable 和 PivotChart|否|否|否|否|否|可访问|否|
 |Excel Services|否|否|否|否|否|否|否|
-|字段列表和字段支持|否|否|否|否|否|是|否|
-|筛选器的增强功能|否|否|否|否|否|是|否|
-|筛选器搜索|否|否|否|否|否|是|否|
+|字段列表和字段支持|否|否|否|否|否|可访问|否|
+|筛选器的增强功能|否|否|否|否|否|可访问|否|
+|筛选器搜索|否|否|否|否|否|可访问|否|
 |PerformancePoint Services|否|否|否|否|否|否|否|
 |PerformancePoint 服务 (PPS) 仪表板迁移|否|否|否|否|否|否|否|
 |Power BI|否|否|否|否|否|否|否|
@@ -722,7 +724,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |Visio 网页版<sup>14、15</sup>|是|是|是|是|是|是|是|
 |Visio 服务<sup>14</sup>|否|否|否|否|否|否|否|
 |**搜索功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
-|高级内容处理|必需|否|可访问|是|是|是|是|
+|高级内容处理|可访问|否|可访问|是|是|是|是|
 |连续爬网|是|是|是|是|是|是|是|
 |自定义实体提取|否|否|否|否|否|否|否|
 |深度链接|是|是|是|是|是|是|是|
@@ -731,14 +733,14 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |可扩展内容处理|否|否|否|否|否|否|否|
 |图形精简程序|是|是|是|是|是|是|是|
 |混合搜索|是|是|是|是|是|是|是|
-|管理搜索架构|必需|否|可访问|是|是|是|是|
+|管理搜索架构|可访问|否|可访问|是|是|是|是|
 |内部部署搜索索引|否|否|否|否|否|否|否|
 |拼音名称匹配|是|是|是|是|是|是|是|
-|查询规则 - 添加已升级结果|必需|否|可访问|是|是|是|是|
+|查询规则 - 添加已升级结果|可访问|否|可访问|是|是|是|是|
 |查询规则—高级操作|否|否|否|否|否|必需|否|
-|查询拼写更正|必需|否|可访问|是|是|是|是|
-|查询建议|必需|否|可访问|是|是|是|是|
-|查询限制|是|否|可访问|是|是|是|是|
+|查询拼写更正|是|否|可访问|是|是|是|是|
+|查询建议|可访问|否|可访问|是|是|是|是|
+|查询限制|可访问|否|可访问|是|是|是|是|
 |悬停时预览|是|是|是|是|是|是|是|
 |分级模型|否<sup>5</sup>|否|否|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
 |精简程序|是|是|是|是|是|是|是|
@@ -746,12 +748,12 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |结果源|是|是|可访问|否|否|否|否|
 |搜索连接器框架|否|否|否|否|否|否|否|
 |搜索结果排序|是|是|是|是|是|是|是|
-|垂直搜索：“会话”|是|是|是|是|是|是|是|
-|垂直搜索：“人员”|是|是|是|是|是|是|是|
-|垂直搜索：“视频”|否|否|否|否|否|必需|否|
+|垂直搜索： "对话"|是|是|是|是|是|是|是|
+|垂直搜索： "人员"|是|是|是|是|是|是|是|
+|垂直搜索： "视频"|否|否|否|否|否|必需|否|
 |“此列表”搜索|是|是|是|是|是|是|是|
 |**站点功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
-|更改外观|是|否|可访问|是|是|是|是|
+|更改外观|可访问|否|可访问|是|是|是|是|
 |连接到 Microsoft Office 客户端|是|是|是|是|是|是|是|
 |跨浏览器支持|是|是|是|是|是|是|是|
 |自定义托管路径|否|否|否|否|否|否|否|
@@ -761,24 +763,24 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |大型列表可扩展性和管理|是|是|是|是|是|是|是|
 |移动连接性|否|是<sup>13</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
 |多语言用户界面|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|是<sup>13</sup>|
-|我的任务|必需|否|可访问|是|是|是|是|
-|OOTB Web 部件|必需|否|可访问|是|是|是|是|
+|我的任务|是|否|可访问|是|是|是|是|
+|OOTB Web 部件|可访问|否|可访问|是|是|是|是|
 |权限管理|是|是|是|是|是|是|是|
-|团队站点的项目功能|必需|否|可访问|是|是|是|是|
-|项目站点模板|必需|否|可访问|是|是|是|是|
-|项目摘要 web 部件|必需|否|可访问|是|是|是|是|
-|项目工作区|必需|否|可访问|是|是|是|是|
-|SharePoint 列表|必需|否|可访问|是|是|是|是|
-|SharePoint 功能区|必需|否|可访问|是|是|是|是|
-|文档库|必需|否|可访问|是|是|是|是|
-|任务列表|必需|否|可访问|是|是|是|是|
-|团队网站：拖放|必需|否|可访问|是|是|是|是|
-|团队笔记本|必需|否|可访问|是|是|是|是|
-|团队网站：简化访问|必需|否|可访问|是|是|是|是|
-|网站设计|必需|否|可访问|是|是|是|是|
-|网站主题（更改外观）|是|否|可访问|是|是|是|是|
+|团队站点的项目功能|可访问|否|可访问|是|是|是|是|
+|项目站点模板|可访问|否|可访问|是|是|是|是|
+|项目摘要 web 部件|可访问|否|可访问|是|是|是|是|
+|项目工作区|可访问|否|可访问|是|是|是|是|
+|SharePoint 列表|可访问|否|可访问|是|是|是|是|
+|SharePoint 功能区|可访问|否|可访问|是|是|是|是|
+|文档库|可访问|否|可访问|是|是|是|是|
+|任务列表|可访问|否|可访问|是|是|是|是|
+|团队网站：拖放|可访问|否|可访问|是|是|是|是|
+|团队笔记本|是|否|可访问|是|是|是|是|
+|团队网站：简化访问|可访问|否|可访问|是|是|是|是|
+|网站设计|可访问|否|可访问|是|是|是|是|
+|网站主题（更改外观）|可访问|否|可访问|是|是|是|是|
 |网站使用情况页|否|否|否|否|否|否|否|
-|变体|必需|否|可访问|是|是|可访问|否|
+|变体|可访问|否|可访问|是|是|可访问|否|
 |工作管理服务|是|否|可访问|是|是|是|是|
 |**社交功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
 |专业领域|否|否|否|否|否|否|否|
@@ -789,7 +791,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |通过 Yammer 进行文档对话|否|否|否|否|否|否|否|
 |关注|否|否|否|否|否|否|否|
 |微博|否|否|否|否|否|否|否|
-|新闻源|必需|否|可访问|是|是|可访问|否|
+|新闻源|是|否|可访问|是|是|可访问|否|
 |一键共享|否|否|否|否|否|否|否|
 |人员、站点、文档建议|否|否|否|否|否|否|否|
 |个人网站|否|否|否|否|否|否|否|
@@ -805,7 +807,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |Wiki|否|否|否|否|否|否|否|
 |Yammer|否|否|否|否|否|否|否|
 |**加载项**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F1**|
-|其他存储|必需|否|可访问|是|是|是|是|
+|其他存储|可访问|否|可访问|是|是|是|是|
 |Azure 设置的应用：访问服务<sup>3</sup>|是|是|是|是|是|是|是|
 |Azure 设置的应用：Azure 轻型 Web 角色中的自定义代码 (LWR)|是|是|是|是|是|是|是|
 
@@ -999,7 +1001,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |**[Skype 于 Skype 音频、 视频和媒体](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 2**|
 |桌面共享|否<sup>2</sup>|是|
 |应用程序共享|否<sup>2</sup>|是|
-|文件传输|否|必需|
+|文件传输|否|可访问|
 |语音|否|否|
 |视频|是|是|
 |媒体路径优化|否|否|
@@ -1011,30 +1013,30 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 | Skype 联合身份验证|否|否|
 |AOL 和 Yahoo! 联合身份验证|否|否|
 |**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 2**|
-|即席音频会议和计划音频会议|否|必需|
-|即席视频会议和计划视频会议|否|必需|
-|当前发言人视频|否|必需|
-|H.264 编码和解码|否|必需|
-|多方视频|否|是|
-|高清视频或所有与会者的头像|否|必需|
-|演示者控件|否|必需|
-|参与者选定的视图|否|必需|
-|OneNote 共享|否|必需|
-|即席 Web 会议和计划 Web 会议|否|必需|
+|即席音频会议和计划音频会议|否|可访问|
+|即席视频会议和计划视频会议|否|可访问|
+|当前发言人视频|否|可访问|
+|H.264 编码和解码|否|可访问|
+|多方视频|否|可访问|
+|高清视频或所有与会者的头像|否|可访问|
+|演示者控件|否|可访问|
+|参与者选定的视图|否|可访问|
+|OneNote 共享|否|可访问|
+|即席 Web 会议和计划 Web 会议|否|可访问|
 |通过经认证的音频会议提供商 (ACP) 拨入音频会议|否|否|
-|PowerPoint 共享|否|必需|
-|白板和批注|否|必需|
-|PowerPoint 上传|否|必需|
-|轮询|否|必需|
+|PowerPoint 共享|否|可访问|
+|白板和批注|否|可访问|
+|PowerPoint 上传|否|可访问|
+|轮询|否|可访问|
 |客户端录制和播放|否|是<sup>1</sup>|
 |服务器端录制和播放|否|否|
-|会议厅|否|必需|
-|使用 Skype for Business Web App 对 Skype for Business 会议进行来宾访问|否|必需|
-|在 Outlook 中安排 Skype for Business 会议|否|必需|
-|代表他人（委派）在 Outlook 中安排 Skype for Business 会议|否|必需|
-|使用 Web Scheduler 安排 Skype for Business 会议|否|必需|
-|在 Outlook 网页版中安排在线会议|否|必需|
-|通过 Outlook 委派安排会议|否|必需|
+|会议厅|否|可访问|
+|使用 Skype for Business Web App 对 Skype for Business 会议进行来宾访问|否|可访问|
+|在 Outlook 中安排 Skype for Business 会议|否|可访问|
+|代表他人（委派）在 Outlook 中安排 Skype for Business 会议|否|可访问|
+|使用 Web Scheduler 安排 Skype for Business 会议|否|可访问|
+|在 Outlook 网页版中安排在线会议|否|可访问|
+|通过 Outlook 委派安排会议|否|可访问|
 |从 Outlook 创建具有静态会议 ID 的公开会议|否|否|
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 2**|
 |即时消息和媒体加密|是|是|
@@ -1100,9 +1102,9 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Zoom controls](../project-online-service-description/core-functionality.md#zoom-controls)|否|可访问|是|可访问|否|
 |**项目规划（桌面客户端）**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
 |[Baseline rollup](../project-online-service-description/project-planning.md#baseline-rollup)|否|可访问|是|可访问|否|
-|[Budget planning](../project-online-service-description/project-planning.md#budget-planning)|否|可访问|是|可访问|否|
-|[Compare project versions](../project-online-service-description/project-planning.md#compare-project-versions)|否|可访问|是|可访问|否|
-|[Deadlines](../project-online-service-description/project-planning.md#deadlines)|否|可访问|是|可访问|否|
+|[Budget planning](../project-online-service-description/project-planning.md#budget-planning)|否|可访问|是|是|否|
+|[Compare project versions](../project-online-service-description/project-planning.md#compare-project-versions)|否|可访问|是|是|否|
+|[Deadlines](../project-online-service-description/project-planning.md#deadlines)|否|可访问|是|是|否|
 |[筛选](../project-online-service-description/project-planning.md#filtering)|否|可访问|是|是|否|
 |[Formulas and graphical indicators](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators)|否|可访问|是|是|否|
 |[Group and sort Project data](../project-online-service-description/project-planning.md#group-and-sort-project-data)|否|可访问|是|是|否|
@@ -1120,52 +1122,52 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Update progress](../project-online-service-description/task-management.md#update-progress)|否|可访问|是|是|否|
 |[User-controlled and manual scheduling](../project-online-service-description/task-management.md#user-controlled-and-manual-scheduling)|否|可访问|是|是|否|
 |**项目资源管理（桌面客户端）**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[Cost resources](../project-online-service-description/project-resource-management.md#cost-resources)|否|可访问|是|可访问|否|
-|[Manage nonworking time](../project-online-service-description/project-resource-management.md#manage-nonworking-time)|否|可访问|是|可访问|否|
-|[Resource leveling](../project-online-service-description/project-resource-management.md#resource-leveling)|否|可访问|是|可访问|否|
-|[Resource sheet and usage views](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views)|否|可访问|是|可访问|否|
-|[Resource substitution](../project-online-service-description/project-resource-management.md#resource-substitution)|否|可访问|是|可访问|否|
-|[Team resources](../project-online-service-description/project-resource-management.md#team-resources)|否|可访问|是|可访问|否|
-|[Work, generic, and material resources](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|否|可访问|是|可访问|否|
+|[Cost resources](../project-online-service-description/project-resource-management.md#cost-resources)|否|可访问|是|是|否|
+|[Manage nonworking time](../project-online-service-description/project-resource-management.md#manage-nonworking-time)|否|可访问|是|是|否|
+|[Resource leveling](../project-online-service-description/project-resource-management.md#resource-leveling)|否|可访问|是|是|否|
+|[Resource sheet and usage views](../project-online-service-description/project-resource-management.md#resource-sheet-and-usage-views)|否|可访问|是|是|否|
+|[Resource substitution](../project-online-service-description/project-resource-management.md#resource-substitution)|否|可访问|是|是|否|
+|[Team resources](../project-online-service-description/project-resource-management.md#team-resources)|否|可访问|是|是|否|
+|[Work, generic, and material resources](../project-online-service-description/project-resource-management.md#work-generic-and-material-resources)|否|可访问|是|是|否|
 |**项目发布（桌面客户端）**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[Create a Project site](../project-online-service-description/project-publishing.md#create-a-project-site)|否|可访问|是|可访问|否|
-|[Master projects on SharePoint](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|否|可访问|是|可访问|否|
-|[Presence with Skype for Business](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|否|可访问|是|可访问|否|
-|[将项目发布到 Project Server 或 Project Online](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|否|可访问|是|可访问|否|
-|[将 Project MPP 文件保存到 SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|否|可访问|是|可访问|否|
-|[任务列表同步到 SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|否|可访问|是|可访问|否|
+|[Create a Project site](../project-online-service-description/project-publishing.md#create-a-project-site)|否|可访问|是|是|否|
+|[Master projects on SharePoint](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|否|可访问|是|是|否|
+|[Presence with Skype for Business](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|否|可访问|是|是|否|
+|[将项目发布到 Project Server 或 Project Online](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|否|可访问|是|是|否|
+|[将 Project MPP 文件保存到 SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|否|可访问|是|是|否|
+|[任务列表同步到 SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|否|可访问|是|是|否|
 |**核心服务功能**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[Active Directory 集成](../project-online-service-description/core-services-functionality.md#active-directory-integration)|是<sup>1</sup>|是|可访问|否|是|
-|[管理、部署和扩展性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|可访问|否|必需|
-|[入门](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|可访问|否|必需|
-|[问题和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|可访问|否|必需|
+|[Active Directory 集成](../project-online-service-description/core-services-functionality.md#active-directory-integration)|是<sup>1</sup>|是|可访问|否|可访问|
+|[管理、部署和扩展性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|可访问|否|可访问|
+|[入门](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|可访问|否|可访问|
+|[问题和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|可访问|否|可访问|
 |[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不适用|不适用|
-|[PPM Partner ecosystem](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|可访问|否|必需|
+|[PPM Partner ecosystem](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|可访问|否|可访问|
 |[Service reliability](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不适用|不适用|
 |[服务更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不适用|不适用|
-|[团队成员协作](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|可访问|否|必需|
-|[时间和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|可访问|否|必需|
+|[团队成员协作](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|可访问|否|可访问|
+|[时间和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|可访问|否|可访问|
 |**项目管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[问题和风险管理](../project-online-service-description/project-management.md#issues-and-risk-management)|否|可访问|可访问|否|必需|
-|[管理项目资源](../project-online-service-description/project-management.md#manage-project-resources)|否|可访问|可访问|否|必需|
+|[问题和风险管理](../project-online-service-description/project-management.md#issues-and-risk-management)|否|可访问|可访问|否|可访问|
+|[管理项目资源](../project-online-service-description/project-management.md#manage-project-resources)|否|可访问|可访问|否|可访问|
 |[计划管理](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|否|可访问|是|是|是|
-|[时间和任务管理](../project-online-service-description/project-management.md#time-and-task-management)|否|可访问|可访问|否|必需|
+|[时间和任务管理](../project-online-service-description/project-management.md#time-and-task-management)|否|可访问|可访问|否|是|
 |**项目组合管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[对项目进行分析和优化产品组合](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|否|否|必需|否|必需|
-|[创建和编辑项目](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|否|可访问|可访问|否|是|
-|[财务管理](../project-online-service-description/portfolio-management.md#financial-management)|否|否|必需|否|必需|
-|[参与工作流](../project-online-service-description/portfolio-management.md#participate-in-workflow)|否|可访问|可访问|否|必需|
-|[项目组合的分析与选择](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|否|否|必需|否|必需|
-|[方案管理](../project-online-service-description/portfolio-management.md#program-management)|否|否|必需|否|必需|
+|[对项目进行分析和优化产品组合](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|否|否|必需|否|可访问|
+|[创建和编辑项目](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|否|可访问|可访问|否|可访问|
+|[财务管理](../project-online-service-description/portfolio-management.md#financial-management)|否|否|必需|否|可访问|
+|[参与工作流](../project-online-service-description/portfolio-management.md#participate-in-workflow)|否|可访问|可访问|否|可访问|
+|[项目组合的分析与选择](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|否|否|必需|否|可访问|
+|[方案管理](../project-online-service-description/portfolio-management.md#program-management)|否|否|必需|否|可访问|
 |**报告和商业智能**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[OData 数据源](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|否|可访问|可访问|否|必需|
+|[OData 数据源](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|否|可访问|可访问|否|可访问|
 |[现成的项目组合仪表板](../project-online-service-description/reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards)|否|否|必需|否|否|
 |Power BI 内容包|否|否|必需|否|否|
 |[Project 桌面报表](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|否|可访问|是|可访问|否|
 |**资源管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[批准/拒绝/修改传入资源预订请求](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|否|否|必需|否|必需|
-|[管理资源池](../project-online-service-description/resource-management.md#manage-resource-pool)|否|否|必需|否|必需|
-|[规划资源容量](../project-online-service-description/resource-management.md#plan-resource-capacity)|否|否|必需|否|必需|
+|[批准/拒绝/修改传入资源预订请求](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|否|否|必需|否|可访问|
+|[管理资源池](../project-online-service-description/resource-management.md#manage-resource-pool)|否|否|必需|否|可访问|
+|[规划资源容量](../project-online-service-description/resource-management.md#plan-resource-capacity)|否|否|必需|否|可访问|
 |[请求资源协议](../project-online-service-description/resource-management.md#request-resource-agreements)|否|可访问|是|是|是|
 |[查看可用资源并构建团队](../project-online-service-description/resource-management.md#view-available-resources-and-build-teams)|否|可访问|是|是|是|
 

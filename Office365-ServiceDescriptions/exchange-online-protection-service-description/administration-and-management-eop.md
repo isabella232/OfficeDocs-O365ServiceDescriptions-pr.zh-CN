@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本节介绍了可用于 Microsoft Exchange Online Protection （EOP）管理员的管理界面。
 ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260717"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545825"
 ---
 # <a name="administration-and-managementeop"></a>管理和管理 [EOP]
 

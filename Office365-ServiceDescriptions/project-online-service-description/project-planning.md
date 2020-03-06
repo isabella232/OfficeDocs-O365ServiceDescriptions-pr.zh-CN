@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: 以下项目计划功能在 Project Online 中可用。
 ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263406"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546025"
 ---
 # <a name="project-planning"></a>项目计划
 
@@ -37,7 +37,7 @@ ms.locfileid: "39263406"
 
 对项目的两个版本进行比较。系统将创建一个报告，显示已更改的内容（如新任务的添加）。
   
-## <a name="deadlines"></a>截止日期
+## <a name="deadlines"></a>Deadlines
 
 使用里程碑标记项目的主要目标。 详细了解如何[添加里程碑](https://go.microsoft.com/fwlink/p/?LinkId=271339)。
   

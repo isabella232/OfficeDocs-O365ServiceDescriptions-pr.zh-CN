@@ -12,11 +12,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987624"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545865"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -197,7 +197,7 @@ Exchange Online 可让客户使用基于 web 的界面跨组织搜索邮箱内�
     
 有关 DLP 的详细信息，请参阅[数据丢失防护](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
   
-## <a name="journaling"></a>日记
+## <a name="journaling"></a>日记功能 
 
 您可以配置 Exchange Online，以将电子邮件的副本记录到通过 SMTP 接收邮件的任何外部邮箱中。通过记录入站和出站电子邮件通信，日记功能可以帮助组织对法律、法规和组织遵从性要求做出响应。规划邮件保留和合规性时，了解日记功能及其如何适应组织的合规性策略，这一点非常重要。
   
