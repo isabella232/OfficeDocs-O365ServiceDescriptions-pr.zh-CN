@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545715"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609893"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -68,7 +68,7 @@ Office 365 美国政府版服务从物理上位于美国的数据中心提供。
 > [!NOTE]
 > 对于一般用途，Skype for Business 不存储客户内容，但如果存储，内容会存储在美国的数据中心内。 
   
-如果您的用户在美国中使用 Office for web （以前称为 Office Web Apps），或者您采用了 Active Directory 联合身份验证服务（AD FS）2.0，并设置了策略以帮助您的用户通过单 si 连接到服务gn-打开在 Office 中临时缓存到 web 的任何客户内容都将位于美国中。
+如果您的用户在美国中使用 Office for web （以前称为 Office Web Apps），或者您采用了 Active Directory 联合身份验证服务（AD FS）2.0，并设置了策略，以确保用户通过单一方式连接到服务登录时，在 Office 中临时缓存的任何客户内容都将位于美国中。
   
 ## <a name="office-365-us-government-and-third-party-services"></a>Office 365 美国政府版和第三方服务
 
@@ -131,7 +131,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Office 365 服务** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**Office 365 服务** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 ProPlus  <br/> |否 <br/> |可访问 <br/> |可访问 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -158,13 +158,13 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**功能** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |**Office 365 管理** <br/> |||||
 |使用 Microsoft 365 管理中心管理 Office 365  <br/> |是<sup>16</sup> <br/> |是<sup>16</sup> <br/> |是  <br/> |是<sup>16</sup> <br/> |
 |从 Office 365 中管理核心服务设置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |否<sup>1</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup>  <br/> |否<sup>1</sup> <br/> |
-|**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[Office 365 套件功能](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft 简报电子邮件  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Power Automate  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -179,7 +179,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Microsoft Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
 |Office Delve  <br/> |是<sup>17</sup> <br/> |是<sup>17</sup> <br/> |是  <br/> |是<sup>17</sup> <br/> |
 |Office 365 组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[用户帐户管理](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[用户帐户管理](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |云身份  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |联合身份（单点登录）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多重身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -197,16 +197,16 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |多个管理员角色可用  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允许合作伙伴为您管理 Office 365  <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |是<sup>11</sup> <br/> |
 |Azure Active Directory 服务  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[域](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[域](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |添加第二级自定义域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |添加第三级自定义域，如 marketing.fourthcoffee.com是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |添加多达 900 个自定义域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义域需要域所有权验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服务运行状况和连续性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[服务运行状况和连续性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态  <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[报告](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[报告](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |活动邮箱和非活动邮箱  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |新邮箱和已删除的邮箱  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |新组和已删除的组  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -219,10 +219,10 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |邮件的主要恶意软件  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |邮件的规则匹配  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |邮件的主要规则匹配  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|邮件的主要 DLP 策略匹配  <br/> |否  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |否 <br/> |
-|按邮件严重性显示的 DLP 策略匹配  <br/> |否  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |否 <br/> |
-|邮件的 DLP 策略匹配、重写和误报  <br/> |否  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |否 <br/> |
-|邮件的主要 DLP 规则匹配  <br/> |否  <br/> |Yes<sup>15</sup> <br/> |Yes<sup>15</sup> <br/> |否 <br/> |
+|邮件的主要 DLP 策略匹配  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
+|按邮件严重性显示的 DLP 策略匹配  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
+|邮件的 DLP 策略匹配、重写和误报  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
+|邮件的主要 DLP 规则匹配  <br/> |否  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |否 <br/> |
 |IM 和音频会话  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |应用程序共享、Web 和电话拨入式会议  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |视频、应用程序共享和文件传输会话  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
@@ -231,23 +231,23 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |使用的浏览器  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |使用的操作系统  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |使用 Office 365 报告 Web 服务创建自己的报告  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
-|**[服务更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[服务更新](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |向所有客户提供的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通知发送给 消息中心（当需要操作时）  <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |是<sup>15</sup> <br/> |
 |针对某些服务更新的 Roadmap.office.com  <br/> |无<sup>10、13</sup> <br/> |无<sup>10、13</sup> <br/> |无<sup>10、13</sup> <br/> |无<sup>10、13</sup> <br/> |
 |启用目标版本的选项  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |
-|**[帮助和培训](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[帮助和培训](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |联机帮助  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |社区  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |其他自助资源  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自学培训  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[网络](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[网络](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |IPv4 和 IPv6 协议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**信任** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**信任** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |**[隐私、安全性和透明度](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |高级数据治理  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
 |云应用安全  <br/> |无<sup>12、15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |
-|高级威胁防护  <br/> |无<sup>12、18</sup> <br/> |无<sup>12、18</sup> <br/> |是<sup>18</sup>  <br/> |无<sup>12、18</sup> <br/> |
+|高级强大的威胁保护  <br/> |无<sup>12、18</sup> <br/> |无<sup>12、18</sup> <br/> |是<sup>18</sup>  <br/> |无<sup>12、18</sup> <br/> |
 |客户锁箱  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
 |Office 365 高级电子数据展示  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是  <br/> |无<sup>12</sup> <br/> |
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
@@ -264,7 +264,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |一级 PCI DSS  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 监管的 PAN 数据  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[服务连续性](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |是  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |
 |**[合作伙伴](../../office-365-platform-service-description/partners.md)** <br/> |||||
 |是  <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |无<sup>11</sup> <br/> |
@@ -272,16 +272,16 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |**[服务级别协议](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[产品使用权限](../../office-365-platform-service-description/product-use-rights.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
    
-> <sup>1</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，该订阅不包含在 Office 365 政府 G1 或 Office 365 政府 F1 中。 > 
+> <sup>1</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，该订阅不包含在 Office 365 政府 G1 或 Office 365 政府 F3 中。 > 
 <br/><sup>2</sup> 现有的 BBCS 和 BIS 客户可继续使用服务。 不接受新客户。 
 <br/><sup>3</sup> 如果使用目录同步，您必须使用 Active Directory（而不是 Office 365 门户）或使用 Windows PowerShell 的 Azure Active Directory 模块来删除帐户或更改密码。 
 <br/><sup>4</sup> 如果使用密码同步，用户必须更改本地 Active Directory 中的密码。 
 <br/><sup>5</sup> 若要了解如何为用户设置自助服务密码管理策略，请参阅 [管理 Azure AD 中的密码](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 
 <br/><sup>6</sup> Office 365 只能有一个公共网站，除非你已升级旧版 Office 365。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 若要详细了解如何处理商业版订阅的两个网站，请参阅 [处理两个 Office 365 公共网站](https://go.microsoft.com/fwlink/p/?LinkID=271589)。 如果有其他订阅，请参阅[在 Office 365 中了解合作伙伴网站托管和公共网站](https://go.microsoft.com/fwlink/p/?LinkID=325009)，详细了解公共网站。 
 <br/><sup>7</sup> 减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
-<br/><sup>8</sup>以下计划不支持来自 Microsoft 365 管理中心的许可证座位更改： Office 365 政府 G1、Office 365 政府 G3、Office 365 政府 F1。 
+<br/><sup>8</sup>以下计划不支持来自 Microsoft 365 管理中心的许可证座位更改： Office 365 政府 G1、Office 365 政府 G3、Office 365 政府 F3。 
 <br/><sup>9</sup>在 GCC 高版中尚不可用，但即将推出。
-<br/><sup>10</sup> For Office 365 政府 G1、G3 和 F1、目标版本和 Office 365 For business 路线图适用;但是，由于[合规性要求](https://www.microsoft.com/trust-center)，特定服务更新可能会存在一些差异或延迟。
+<br/><sup>10</sup>个用于 Office 365 政府 G1、G3 和 F3，目标版本和 office 365 For business 路线图适用;但是，由于[合规性要求](https://www.microsoft.com/trust-center)，特定服务更新可能会存在一些差异或延迟。
 <br/><sup>11</sup>尚不可用于 Office 365 政府产品，但即将推出。 
 <br/><sup>12</sup>不包括在内，但可以作为单独的附加项在 GCC 中购买。 
 <br/><sup>13</sup>不支持 Office 365 政府版产品。 
@@ -300,7 +300,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**功能** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |**Office 应用程序** <br/> |||||
 |[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
@@ -315,14 +315,14 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |[Office Mobile for Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
-|[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是  <br/> |Yes<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是  <br/> |
+|[Office Mobile for Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |是  <br/> |Yes<sup>4</sup> <br/> |Yes<sup>4</sup> <br/> |是  <br/> |
 |Office Mobile for Windows 10 tablets <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
 |Outlook for iOS 和 Android<sup>5，4</sup>  <br/> |是 <br/> |是 <br/> |是 <br/> |是 <br/> |
-|**企业价值** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F1** <br/> |
+|**企业价值** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多语言用户界面  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|客户端推送部署  <br/> |否  <br/> |Yes<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|客户端推送部署  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |内部部署 Exchange 的客户端支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |控制软件更新  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
@@ -350,7 +350,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |版本升级  <br/> |否  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |批量激活 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
-> <sup>1</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，该订阅不包含在 Office 365 政府 G1 或 Office 365 政府 F1 中。 
+> <sup>1</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，该订阅不包含在 Office 365 政府 G1 或 Office 365 政府 F3 中。 
 <br/><sup>2</sup> WINDOWS SERVER AD RMS 是一台本地服务器，必须单独购买并管理，才能启用受支持的 IRM 功能。 
 <br/><sup>3</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup>在 GCC 高或 DoD 环境中尚不可用，但即将推出。

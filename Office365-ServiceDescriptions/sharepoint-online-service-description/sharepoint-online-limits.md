@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Office 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 03cf3a792bb88d1a6c6d6048752fe2caaf695f35
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279865"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609973"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -24,7 +24,7 @@ ms.locfileid: "42279865"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 业务重点或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Office 365 企业版 F1** <br/> |
+|**功能** <br/> |**Office 365 业务重点或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Office 365 企业版 F3** <br/> |
 |每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每个站点的最大存储（网站集）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每个组织的网站（网站集）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |

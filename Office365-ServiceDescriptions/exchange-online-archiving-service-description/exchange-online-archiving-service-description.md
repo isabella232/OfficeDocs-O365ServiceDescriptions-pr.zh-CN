@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft exchange server、microsoft exchange server 的组织。Exchange Server 2010 （SP2 及更高版本）或订阅某些 Exchange Online 或 Office 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 12fb7da8cd3e27ff98ea8ca0f759f013eef74e5d
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: edc507790d19f8323f7cae33e70ddf7bd8a6502a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987654"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609703"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -38,11 +38,11 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
 
 可通过以下计划使用 Exchange Online Archiving。
   
-|**计划**|**描述**|
+|**计划**|**说明**|
 |:-----|:-----|
 |**适用于 Exchange Server 的 Exchange Online Archiving** <br/> |Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 （SP2 或更高版本）中具有主邮箱的用户的基于云的存档。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  <br/> |
 |**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** <br/> |Exchange server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 （SP2 或更高版本）中具有主邮箱的用户的基于云的存档。 有关详细信息，请参阅 [授权简介 - 授权 Core CAL Suite 和 Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license)。  <br/> |
-|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 基于云的存档和就地保留作为以下计划<sup>1、2</sup>的外接程序：<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商业协作版  <br/>  Help and training  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F1  <br/> Microsoft 365 企业版 F1<br/> <b>注意：</b>以下计划已包含存档，不需要作为加载项的 Exchange Online 存档：<br/>Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/> Microsoft 365 商业版 <br/>Microsoft 365 企业版 E3 <br/> Microsoft 365 企业版 E5 <br/>有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
+|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 基于云的存档和就地保留作为以下计划<sup>1、2</sup>的外接程序：<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 商业协作版  <br/>   Office 365 商业高级版  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F3  <br/> Microsoft 365 企业版 F3<br/> <b>注意：</b>以下计划已包含存档，不需要作为加载项的 Exchange Online 存档：<br/>Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版 A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/> Microsoft 365 商业版 <br/>Microsoft 365 企业版 E3 <br/> Microsoft 365 企业版 E5 <br/>有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。           |
    
 >[!NOTE]
 ><sup>1</sup> 仅使用云的组织无需混合部署，此类组织的 Exchange 本地服务器上没有邮箱。 但是，如果存在本地邮箱，则需要配置混合部署。
@@ -57,7 +57,7 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
   
 ### <a name="federated-identity-and-single-sign-on"></a>联合身份和单一登录
 
-管理员可以使用单一登录方法完成本地 Active Directory 的 Office 365 身份验证。为此，管理员可以配置本地 Active Directory 联合身份验证服务（一项 Microsoft Windows Server® 2008 服务）与 Microsoft Federation Gateway 进行联合。在 Active Directory 联合身份验证服务配置完成后，身份基于联盟域的所有 Office 365 用户都可以使用现有的公司登录信息自动完成 Office 365 的身份验证。
+管理员可以使用单一登录方法完成本地 Active Directory 的 Office 365 身份验证。 若要实现此目的，管理员可以将本地 Active Directory 联合身份验证服务（Microsoft Windows&reg; Server 2008 服务）配置为与 Microsoft 联合网关联盟。 在 Active Directory 联合身份验证服务配置完成后，身份基于联盟域的所有 Office 365 用户都可以使用现有的公司登录信息自动完成 Office 365 的身份验证。
   
 ### <a name="user-subscriptions"></a>用户订阅
 
@@ -79,32 +79,32 @@ Microsoft Exchange Online 存档是 Microsoft Office 365 基于云的企业级�
 ||||
 |:-----|:-----|:-----|
 |**功能** <br/> |**Exchange Online Archiving for Exchange Server<sup>1</sup>**          <br/> |**Exchange Online Archiving for Exchange Online<sup>2</sup>** <br/> |
-|**[Exchange Online 存档中的存档功能](archive-features.md)** <br/> |||
+|**[Exchange Online Archiving 中的存档功能](archive-features.md)** <br/> |||
 |存档邮箱  <br/> |是  <br/> |是  <br/> |
 |使用存档策略移动邮件  <br/> |是  <br/> |是  <br/> |
 |将数据导入到存档  <br/> |是  <br/> |是  <br/> |
 |已删除邮件的恢复  <br/> |是  <br/> |是  <br/> |
 |已删除邮箱的恢复  <br/> |是  <br/> |是  <br/> |
 |邮箱备份  <br/> |是  <br/> |是  <br/> |
-|**[Exchange Online 存档中的客户端功能](client-features.md)** <br/> |||
+|**[Exchange Online Archiving 中的客户端功能](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |Outlook 网页版  <br/> |是  <br/> |是  <br/> |
-|**[Exchange Online 存档中的合规性和安全功能](compliance-and-security-features.md)** <br/> |||
+|**[Exchange Online Archiving 中的合规性功能和安全功能](compliance-and-security-features.md)** <br/> |||
 |保留策略  <br/> |是  <br/> |是  <br/> |
 |就地保留和诉讼保留<sup>6</sup> <br/> |是  <br/> |是  <br/> |
 |就地电子数据展示  <br/> |是  <br/> |是  <br/> |
 |在本地服务器和 Exchange Online Archiving 之间加密  <br/> |是  <br/> |是  <br/> |
 |在客户端和 Exchange Online Archiving 之间加密  <br/> |是  <br/> |是  <br/> |
 |加密：S/MIME 和 PGP  <br/> |是  <br/> |是  <br/> |
-|使用 Azure 信息保护的 IRM  <br/> |否  <br/> |无<sup>4</sup> <br/> |
+|使用 Azure 信息保护的 IRM  <br/> |否  <br/> |否<sup>4</sup> <br/> |
 |使用 Windows Server AD RMS 的 IRM  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |
 |审核  <br/> |是  <br/> |是  <br/> |
    
 
-<sup>1</sup> 用户邮箱必须位于 Exchange 2010 SP2 或更高版本上。
+<sup>1</sup>用户邮箱必须位于 Exchange 2010 SP2 或更高版本上。
 <br/>
 <sup>2</sup>就地存档仅可用于存档已应用了许可证的单个用户或实体的邮件。 禁止使用就地存档作为存储多个用户或实体的邮件的方法。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/> 
 <sup>3</sup>有关受支持的 Microsoft Outlook 版本的列表，请参阅[Exchange Online 存档中的客户端功能](client-features.md)。 <br/>
-<sup>4</sup>不包含 Azure 信息保护，但可作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。 <br/>
+<sup>4</sup>不包含 Azure 信息保护，但可作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，该订阅不包含在 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office 365 Enterprise F3 中。 <br/>
 <sup>5</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。 <br/>
 <sup>6</sup> 当您将邮箱置于就地保留或诉讼保留中时，该保留将置于主邮箱和存档邮箱中。 

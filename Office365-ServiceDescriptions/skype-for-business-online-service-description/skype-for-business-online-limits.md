@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online 中的限制分为以下几类。
-ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263276"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609953"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -47,7 +47,7 @@ Skype for Business Online 中的限制分为以下几类：
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F1** <br/> |
+|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
 |文件传输限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |不适用  <br/> |
 |对话限制<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不适用  <br/> |
@@ -85,7 +85,7 @@ Skype for Business Online 中的限制分为以下几类：
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F1** <br/> |
+|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
 |文件上载限制  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |不适用  <br/> |
 |参加 Skype for Business 会议<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
 |Skype for Business 会议中的演示者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |

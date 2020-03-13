@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172849"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609863"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -43,7 +43,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 Office 365 推出了各种计划，旨在最大限度地满足组织需求。若要了解不同计划（包括独立计划选项），以及如何从一个计划迁移到另一个计划，请参阅 [Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立服务销售，仅作为 Firstline 订阅的一部分出售。 Firstline 工作人员将不会看到 SharePoint 导航菜单，因此 Firstline 工作人员必须通过 URL 直接导航到 SharePoint 网站。
+若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立服务销售，仅作为[Firstline 订阅](https://www.microsoft.com/microsoft-365/business/office-365-f1)的一部分出售。 
   
 ## <a name="rights-of-guests"></a>来宾的权限
 
@@ -152,7 +152,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 除非另有说明，否则以下功能在包含 SharePoint 的所有计划和所有 SharePoint 独立计划中都可用：
 
 - [辅助功能](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [向网站添加 Microsoft 团队](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 需要包含 Office 365 的订阅，并且要求用户为团队授予许可证。
+- [向网站添加 Microsoft 团队](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。
 - [访问群体设定](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [将经典团队网站连接到新的 Office 365 组](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d)。 需要包含 Office 365 的订阅。
 - [创建计划（Planner 集成）](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb)。 需要包含 Office 365 的订阅，并且要求用户为计划程序授予许可证。
@@ -163,12 +163,12 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [万像素菜单](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含 Office 365 的订阅，并且要求用户为表单授予许可证。
 - [新闻](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Office 桌面应用集成。 需要包含 Office 桌面应用程序的订阅。
+- Office 桌面应用集成。 需要包含 Office 桌面应用的订阅。
 - Office for web 集成。 需要包含 Office 365 的订阅。
 - [组织资产库](/sharepoint/organization-assets-library)
 - [组织新闻](/sharepoint/organization-news-site)
 - [页面审批](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [页面](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - 记录管理
 - [回收站](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint 移动应用程序](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -185,11 +185,11 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [团队 OneNote 笔记本](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [主题（更改外观）](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Web 部件](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [在 Microsoft 团队中处理 SharePoint 内容](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)。 需要包含 Office 365 的订阅，并且要求用户为团队授予许可证。
+- [在 Microsoft 团队中处理 SharePoint 内容](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)。 需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。
 
 若要详细了解 Microsoft Power Apps 和 Power 自动化的可用性，请参阅[Power apps And power](/power-platform/admin/powerapps-flow-licensing-faq)the
 
-有关与共享相关的功能的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
+有关与共享相关的功能的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)。
 
 ## <a name="search-features"></a>搜索功能
 

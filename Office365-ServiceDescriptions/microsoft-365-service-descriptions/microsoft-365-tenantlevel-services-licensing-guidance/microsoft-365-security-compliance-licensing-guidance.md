@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374159"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609913"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -25,7 +25,7 @@ ms.locfileid: "42374159"
 > [!NOTE]
 > 某些租户服务当前不能限制特定用户的优势。 应采取措施将服务的好处限制为许可用户。 这有助于避免您的组织在获得目标功能后对组织造成潜在的服务中断。
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
 Azure Active Directory 标识保护（AADIP）是 Azure Active Directory 高级 P2 计划的一项功能，可让你检测影响组织标识的潜在漏洞，并将自动响应配置为检测到的可疑与您的组织的标识相关的操作，并调查可疑事件并采取适当的措施来解决这些问题。
 
@@ -71,7 +71,7 @@ Azure 信息保护（AIP）可帮助组织发现、分类、标记和保护敏�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Microsoft 365 F1、Microsoft 365 商业版、Microsoft 365 E3/A3/G3 和 AIP Plan 1 的许可用户可从 AIP 计划1获益。 Microsoft 365 E5/A5/G5 的许可用户、Microsoft 365 E5/A5/G5 合规性和 AIP 计划2可从 AIP 计划2中受益。
+Microsoft 365 F3、Microsoft 365 Business、Microsoft 365 E3/A3/G3 和 AIP Plan 1 的许可用户可从 AIP 计划1获益。 Microsoft 365 E5/A5/G5 的许可用户、Microsoft 365 E5/A5/G5 合规性和 AIP 计划2可从 AIP 计划2中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -325,7 +325,7 @@ Office 365 E5/A5/G5 许可用户，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/
 
 当限制用户与其他人通信时，他们将受益于信息障碍的高级合规性功能。 例如：
 
-| 方案                                                                                                                                                                                                              | 需要许可证的是谁？ |
+| 应用场景                                                                                                                                                                                                              | 需要许可证的是谁？ |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | 两组（组1和组2）无法相互通信（即，限制组1用户与组2用户通信，而组2用户限制与组1用户通信。 | 组1和组2中的用户                    |
 | 限制组1中的用户与公司的其余用户通信。                                                                                                                                       | 仅限组1中的用户                                |
@@ -408,7 +408,7 @@ Office 365 中的监督策略使您可以捕获指定审阅者进行检查的员
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-企业移动性 + 安全 E3/A3/G3 的许可用户、Microsoft 365 F1/E3/A3/G3 和 Azure Active Directory 高级计划1可从条件访问策略中受益。 企业移动性 + 安全性 E5/A5/G5 的许可用户，Microsoft 365 E5/A5/G5，Microsoft E5 Security 和 Azure Active Directory Premium 计划2可受益于身份保护（基于风险的条件访问策略）。
+企业移动性 + Security E3/A3/G3、Microsoft 365 F3/E3/A3/G3 和 Azure Active Directory 高级计划1的许可用户可从条件访问策略中受益。 企业移动性 + 安全性 E5/A5/G5 的许可用户，Microsoft 365 E5/A5/G5，Microsoft E5 Security 和 Azure Active Directory Premium 计划2可受益于身份保护（基于风险的条件访问策略）。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

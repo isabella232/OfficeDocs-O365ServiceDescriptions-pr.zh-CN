@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810811"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42614558"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -34,7 +34,7 @@ ms.locfileid: "39810811"
 |**Office 365 服务系列**|**计划**|
 |:-----|:-----|
 |**企业版（最多为300个用户）** <br/> |[Office 365 商业协作版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t)（Office 365 商业版） <br/> [Office 365 商业高级版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**企业版（不受限制的用户数）** <br/> |[Office 365 企业版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企业版 F1](https://products.office.com/business/office-365-f1) <br/> |
+|**企业版（不受限制的用户数）** <br/> |[Office 365 企业版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企业版 F3](https://products.office.com/business/office-365-f1) <br/> |
 |**教育版（不受限制的用户数）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**政府（用户数量不受限制）** <br/> |[查看所有可用的业务计划](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**由世纪互联运营的 Office 365** <br/> |[查看所有可用的企业版计划](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
@@ -49,22 +49,22 @@ ms.locfileid: "39810811"
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F1** <br/> |
-|Office 365 平台  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|**服务** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F3** <br/> |
+|Office 365 平台  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|SharePoint Online  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>5</sup> <br/> |
 |Skype for Business Online <sup>15</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是<sup>11</sup> <br/> |是<sup>13</sup> <br/> |是<sup>14</sup> <br/> |
 |Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
-|Project Online  <br/> |无<sup>1</sup> <br/> |否  <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |无<sup>1</sup> <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
+|Project Online  <br/> |否<sup>1</sup> <br/> |否  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |
 |Power BI  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Yammer Enterprise  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Azure 信息保护<sup>3</sup> <br/> |无<sup>2</sup> <br/> |否  <br/> |无<sup>2</sup> <br/> |无<sup>2</sup> <br/> |是  <br/> |是  <br/> |无<sup>2</sup> <br/> |
+|Azure 信息保护<sup>3</sup> <br/> |否<sup>2</sup> <br/> |否  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |是 <br/> |否  <br/> |可访问 <br/> |是 <br/> |是  <br/> |是  <br/> |是 <br/> |
    
 <sup>1</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 教育版计划中。<br/>
-<sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office365 企业版 F1 并不随附。<br/>
+<sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，该订阅不包含在 Office 365 商业协作版、Office 365 商业高级版、Office 365 企业版 E1、Office 365 教育版或 Office 365 Enterprise F3 中。<br/>
 <sup>3</sup>若要详细了解 Office 365 计划中包含了哪些 Azure 信息保护功能，请参阅 [Azure 信息保护](https://azure.microsoft.com/services/information-protection/)。<br/>
 <sup>4</sup> Office 365 企业版 E5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐，必须购买附加套餐（国内或国际）。<br/>
 <sup>5</sup>包括 2GB 存储。 <br/>

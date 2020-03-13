@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强大的零天保护功能，帮助您的组织抵御未知恶意软件和病毒，并提供保护实时来自有害链接的组织。
-ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
-ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
+ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "40824986"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609833"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -47,13 +47,13 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 - Office 365 商业协作版
 
-- Help and training
+-  Office 365 商业高级版
 
 - Office 365 企业版 E1
 
 - Office 365 企业版 E3
 
-- Office 365 企业版 F1
+- Office 365 企业版 F3
 
 - Office 365 A1
 
@@ -90,10 +90,10 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 |[反网络钓鱼策略](#anti-phishing-policies)|是|是|是|
 |[实时报告](#real-time-reports)|是|是|是|
 |*自动化、调查、修正和教育*|
-|[威胁跟踪器](#threat-trackers)|否|可访问|是|
-|[资源管理器](#explorer)（高级威胁调查）|否|可访问|是|
-|[自动化事件响应](#automated-incident-response)|否|可访问|是|
-|[攻击模拟器](#attack-simulator)|否|可访问|是|
+|[威胁跟踪器](#threat-trackers)|否|必需|是|
+|[资源管理器](#explorer)（高级威胁调查）|否|必需|是|
+|[自动化事件响应](#automated-incident-response)|否|必需|是|
+|[攻击模拟器](#attack-simulator)|否|必需|是|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>高级威胁防护（ATP）功能
 

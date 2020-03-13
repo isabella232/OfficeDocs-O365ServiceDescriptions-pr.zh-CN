@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 00eb75df2e902131a2e5dd3c8d584d5f31db59db
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279805"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609943"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ ms.locfileid: "42279805"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> **Office 365 美国政府版 G1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 美国政府版 G3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F1** <br/> **Office 365 美国政府版 F1** <br/> |
+|**功能** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> **Office 365 美国政府版 G1** <br/> |**Office 365 企业版 E3** <br/> **Office 365 美国政府版 G3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> **Office 365 美国政府版 F3** <br/> |
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -46,7 +46,7 @@ ms.locfileid: "42279805"
 |[电子数据展示保留（包括基于查询的电子数据展示保留）](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold) <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
-|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
+|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |Yes<sup>4</sup> <br/> |是<sup>4</sup> <br/> |否  <br/> |
 |[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级审核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup><br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |否  <br/> |否  <br/> |是<sup>11</sup> <br/> |是  <br/> |是  <br/> |是<sup>11<br/> |
@@ -72,22 +72,22 @@ ms.locfileid: "42279805"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**OneDrive for Business 计划 1** <br/>|**OneDrive for Business 计划 2**<br/> |**Skype for Business Online 计划 1** <br/> |**Skype for Business Online 计划 2** <br/> |
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |
 |[威胁管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)，如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)，如仿冒活动的威胁资源管理器  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/>|
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否 <br/> |是<sup>10</sup> <br/>|否  <br/> |可访问  <br/> |
+|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否 <br/> |是<sup>10</sup> <br/>|否  <br/> |必需  <br/> |
 |[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[信息屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[信息管理](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
 |[高级信息治理](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[内容搜索](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/>| 是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
 |[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |否  <br/> |否  <br/> |
-|[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否 <br/> |是<sup>10</sup> <br/>|无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
-|[电子数据展示保留（包括基于查询的电子数据展示保留）](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否 <br/> |是<sup>10</sup> <br/>|无<sup>4</sup> <br/> |无<sup>4</sup> <br/> |
+|[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否 <br/> |是<sup>10</sup> <br/>|否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
+|[电子数据展示保留（包括基于查询的电子数据展示保留）](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |必需  <br/> |否 <br/> |是<sup>10</sup> <br/>|否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |否  <br/> |否  <br/> |
+|[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |是  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |否  <br/> |否  <br/> |
 |[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |否  <br/> |否  <br/> |
 |[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |是<sup>11</sup>  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是<sup>10</sup> <br/>|是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
 |[监督策略](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -105,7 +105,7 @@ ms.locfileid: "42279805"
 <sup>10</sup>限制为存储在 OneDrive for business 中的文件。<br/>
 <sup>11</sup>需要 Exchange Online 计划2许可证，才能使用保留策略将用户邮箱置于保留状态。
   
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>安全与合规中心在由世纪互联运营的 Office 365 中的可用性
 
 安全 & 合规性中心在由世纪互联运营的 Office 365 的任何计划中均不可用。
   
