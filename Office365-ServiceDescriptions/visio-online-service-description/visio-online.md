@@ -14,11 +14,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio for web 将您的 Microsoft Visio 体验扩展到浏览器，您可以在其中创建和编辑保存在云中的图表。 Microsoft Office 365 客户可以在旅途中查看、打印和共享图表以及插入注释。
 ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700214"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687815"
 ---
 # <a name="visio-for-the-web"></a>Visio 网页版
 

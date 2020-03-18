@@ -1,5 +1,5 @@
 ---
-title: Yammer 中的配置文件功能
+title: Yammer 中的个人资料功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: 以下配置文件功能在 Yammer 中可用。
 ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263153"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687808"
 ---
-# <a name="profile-features-in-yammer"></a>Yammer 中的配置文件功能
+# <a name="profile-features-in-yammer"></a>Yammer 中的个人资料功能
 
 以下配置文件功能在 Yammer 中可用。
  
@@ -43,7 +43,7 @@ ms.locfileid: "39263153"
 
 给予并接收对于出色工作的认可。 成就和徽章显示在**赞扬**选项卡中的配置文件中。
  
-## <a name="user-profiles"></a>用户个人资料
+## <a name="user-profiles"></a>用户配置文件
 
 上载图片，填写联系人详细信息，并列出您的专业技能。 配置文件聚合所有信息，包括对话和文件。
   

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性功能。
 ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546045"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687956"
 ---
 # <a name="project-publishing"></a>Project 发布
 

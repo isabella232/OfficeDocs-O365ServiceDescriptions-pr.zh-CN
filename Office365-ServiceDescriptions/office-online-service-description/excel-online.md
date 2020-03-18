@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545795"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687816"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -284,7 +284,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 是否想要自己的工作簿副本？使用"文件"选项卡上的"另存为"命令，或右键单击其文件夹中的工作簿名称，使用"下载"命令将副本发送到您的计算机。
   
-## <a name="share"></a>共享
+## <a name="share"></a>Share
 
 单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[如何使用 office for web 在 office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: 以下项目计划功能在 Project Online 中可用。
 ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546025"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687847"
 ---
 # <a name="project-planning"></a>项目计划
 

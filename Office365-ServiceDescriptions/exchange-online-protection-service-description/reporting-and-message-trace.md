@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) 提供许多不同的报告，可帮助您确定组织的总体状态和运行状况。 Microsoft 365 管理中心提供了一些报告，而其他报告在 Exchange 管理中心（EAC）中可用。
 ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545855"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687832"
 ---
 # <a name="reporting-and-message-trace"></a>报告和邮件跟踪
 

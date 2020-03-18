@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: 以下支持功能在 Yammer 中可用。
 ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726476"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687810"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支持功能
 
@@ -46,9 +46,9 @@ Microsoft FastTrack 服务可帮助您的组织移动到 Microsoft 云，具体�
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
-|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |必需  <br/> |
 |[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
-|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |可访问  <br/> |
+|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |必需  <br/> |
  
 ## <a name="technical-support-case-handling"></a>技术支持案例的处理
 

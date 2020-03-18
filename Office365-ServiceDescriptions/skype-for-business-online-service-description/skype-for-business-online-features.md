@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是管理员，则可以在设置 Skype for business Online 中查找有关设置 Skype for Business Online 功能的详细说明。
 ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545755"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687829"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 

@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection （EOP）提供了几种管理您的收件人、域和公司信息的方法。 作为管理员，您可以在 Exchange 管理中心（EAC）内执行某些管理任务，并验证在 Microsoft 365 管理中心中执行的其他管理任务。
 ms.openlocfilehash: 1183a90754edc2bab698fb4d8d8b97acff90370c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545845"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687831"
 ---
 # <a name="recipient-domain-and-company-management"></a>收件人、域和公司管理
 

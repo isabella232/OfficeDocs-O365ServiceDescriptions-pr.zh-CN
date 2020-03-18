@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供了以下核心功能功能。
 ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546015"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687960"
 ---
 # <a name="core-functionality"></a>核心功能
 
