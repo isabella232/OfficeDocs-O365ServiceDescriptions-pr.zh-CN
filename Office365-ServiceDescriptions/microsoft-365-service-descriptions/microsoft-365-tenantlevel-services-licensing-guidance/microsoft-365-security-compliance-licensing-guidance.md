@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609913"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926335"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -25,7 +25,7 @@ ms.locfileid: "42609913"
 > [!NOTE]
 > 某些租户服务当前不能限制特定用户的优势。 应采取措施将服务的好处限制为许可用户。 这有助于避免您的组织在获得目标功能后对组织造成潜在的服务中断。
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
 
 Azure Active Directory 标识保护（AADIP）是 Azure Active Directory 高级 P2 计划的一项功能，可让你检测影响组织标识的潜在漏洞，并将自动响应配置为检测到的可疑与您的组织的标识相关的操作，并调查可疑事件并采取适当的措施来解决这些问题。
 
@@ -139,7 +139,7 @@ OCAS 发现影子它，提供了 Office 365 之间的威胁防护，并可以控
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅[作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
 
 Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并&mdash;允许他们控制数据在任何云应用中的传输方式。
 
@@ -168,6 +168,29 @@ MCAS 发现和评估阴影，提供跨第一方云应用程序的威胁保护，
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 管理员可以使用服务中提供的作用域部署功能将 MCAS 部署限定为许可用户。 有关详细信息，请参阅[作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+Microsoft Defender ATP 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护;终结点检测和响应（EDR）;自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅[Microsoft DEFENDER ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1)页面。 
+
+
+### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
+
+Windows 10 企业版 E5、Windows 10 教育版 A5、Microsoft 365 E5 （M365 E5）的许可用户包括 Windows 10 企业版 E5、Microsoft 365 E5 Security、Microsoft 365 A5 （M365 A5）可以从 Microsoft Defender ATP 获益。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+SecOps 分析师和安全性专家可受益于 Microsoft Defender ATP 的终结点安全功能，以执行预防性保护、入侵后检测、自动调查以及对高级威胁的响应。 最终用户通过使用 Microsoft Defender ATP 进行监视的恶意事件来获得好处。
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+默认情况下，在租户级别为租户中的所有用户启用 Microsoft Defender ATP 功能。 有关部署的信息，请参阅[部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+Microsoft Defender ATP 管理员可以利用[基于角色的访问控制（RBAC）](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac)在安全操作团队中创建角色和组，以向 Microsoft Defender 安全中心授予适当的访问权限。
+
 
 ## <a name="office-365-advanced-data-governance"></a>Office 365 高级数据管理
 
