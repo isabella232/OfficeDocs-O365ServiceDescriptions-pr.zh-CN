@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: fa5ebea4cd3c5bd1b26e9d51e0bd8e2f9b4ea0e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: c1e424939962ab4d106bfdc3c3e8a335810ffdb0
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609713"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954799"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
@@ -98,24 +98,24 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |无<sup>20</sup>  <br/> |无<sup>20</sup>  <br/> |否  <br/> |
 |Microsoft 简介电子邮件<sup>23</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Power Automate  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |
+|Microsoft Power Automate  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics<sup>21</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
-|Microsoft Planner  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
-|Microsoft PowerApps  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
+|Microsoft Planner  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft PowerApps  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft Stream  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>18</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |
 |Office Delve  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
 |Office 365 组  <br/> |是  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 视频  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
 |OneNote 课堂笔记本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>15</sup> <br/> |否  <br/> |
-|Microsoft Kaizala<sup>19</sup> <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
+|Microsoft Kaizala<sup>19</sup> <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
 |**[用户帐户管理](user-account-management.md)** <br/> |**Office 365 商业协作版** <br/> |**Office 365 Business**（Office 365 商业版） <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |云标识、联合身份或多重身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 365 桌面安装程序  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Office 365 桌面安装程序  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 .csv 文件批量上载  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目录同步工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange 简单（直接转换）迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

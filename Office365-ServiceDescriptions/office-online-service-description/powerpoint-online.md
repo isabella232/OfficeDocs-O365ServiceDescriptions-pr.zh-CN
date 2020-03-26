@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft Office 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687834"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959320"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
@@ -117,7 +117,7 @@ PowerPoint for web 支持8个转换和37动画。 如需更多选择，请使用
   
 ## <a name="navigation---slide-sorter"></a>导航幻灯片浏览
 
-在 PowerPoint for web 中不可用。 幻灯片浏览视图提供了缩略图窗体中的幻灯片视图，便于对幻灯片进行排序和组织，在 PowerPoint for web 中不可用。 使用 PowerPoint 桌面应用程序，您可以使用幻灯片浏览视图来组织幻灯片、添加节以及将幻灯片排序为不同的类别。
+幻灯片浏览视图提供了缩略图形式的幻灯片视图，使您可以轻松地对幻灯片进行排序和整理。 您可以使用幻灯片浏览视图来组织幻灯片、添加节以及将幻灯片排序为不同的类别。
   
 ## <a name="offline-viewing-and-authoring"></a>Offline viewing and authoring
 

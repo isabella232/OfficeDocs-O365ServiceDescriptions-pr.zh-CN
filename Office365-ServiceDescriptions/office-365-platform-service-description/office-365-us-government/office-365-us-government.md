@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609893"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954809"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
+
+> [!IMPORTANT]
+> 由于 coronavirus （COVID-19） pandemic，Microsoft 团队在在线呼叫和音频/视频会议方面遇到了极大的峰值。<br/>
+> 
+>为了响应更空前的呼叫增长，并确保连续性和可用性，Microsoft 允许 Microsoft 团队拥有的音频/视频服务器利用我们的商业数据中心中的处理能力以及我们的政府数据中心。<br/>
+> 
+>这些音频/视频服务器驻留在美国的 Microsoft Azure FedRAMP 高资格鉴定边界服务器中，并且不存储任何客户内容。 但是，这些服务器正在处理通话和会议的音频和视频，并在此中间期间在商业员工下运行。<br/>
+> 
+>合格的屏蔽人员通过查看这些服务器的任何交互式登录项来监视这些服务器，以获取客户数据的潜在访问权限。 合格的人员可满足对客户内容的访问权限的 GCC 要求。 有关筛选要求的详细信息，请参阅[GCC 服务说明](gcc.md)。<br/>
+> 
+>感谢你的支持，因为我们采取措施以确保我们的服务在这些特别时间内保持可用和可靠。<br/> 
 
 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
   
@@ -247,8 +258,8 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |**[隐私、安全性和透明度](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |高级数据治理  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
 |云应用安全  <br/> |无<sup>12、15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |
-|高级强大的威胁保护  <br/> |无<sup>12、18</sup> <br/> |无<sup>12、18</sup> <br/> |是<sup>18</sup>  <br/> |无<sup>12、18</sup> <br/> |
-|客户锁箱  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
+|高级威胁防护  <br/> |无<sup>12、18</sup> <br/> |无<sup>12、18</sup> <br/> |是<sup>18</sup>  <br/> |无<sup>12、18</sup> <br/> |
+|客户密码箱  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
 |Office 365 高级电子数据展示  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是  <br/> |无<sup>12</sup> <br/> |
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |可访问 <br/> |可访问 <br/> |否  <br/> |
@@ -302,15 +313,15 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |**Office 应用程序** <br/> |||||
-|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|Microsoft Forms<sup>7</sup>| 是 <br/> | 是 <br/>| 可访问 <br/> | 否 <br/> |
-|Microsoft 白板<sup>7</sup>| 否 <br/> | 可访问 <br/> | 可访问 <br/> | 否 <br/> |
-|[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
+|[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft OneNote](../../office-applications-service-description/office-applications.md#microsoft-onenote)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook)<sup>7</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|Microsoft Forms<sup>7</sup>| 是 <br/> | 是 <br/>| 是 <br/> | 否 <br/> |
+|Microsoft 白板<sup>7</sup>| 否 <br/> | 可访问 <br/> | 是 <br/> | 否 <br/> |
+|[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
+|[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |是<sup>3</sup> <br/> |是  <br/> |是  <br/> |是<sup>3</sup> <br/> |
 |[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |[Office Mobile for iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |是  <br/> |是<sup></sup> <br/> |是<sup></sup> <br/> |是  <br/> |
@@ -331,7 +342,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Excel 电子表格比较  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |Excel 电子表格查询  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
 |Exchange Online 和 SharePoint Online 存档和合规性  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
-|组策略支持  <br/> |否  <br/> |可访问  <br/> |可访问  <br/> |否  <br/> |
+|组策略支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |
 |使用 Azure 信息保护的信息权限管理  <br/> |否<sup>1</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |否<sup>1</sup> <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |是<sup>2</sup> <br/> |
 |Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否  <br/> |

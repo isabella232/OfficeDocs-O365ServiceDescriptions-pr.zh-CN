@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609963"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959290"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -38,14 +38,14 @@ ms.locfileid: "42609963"
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是<sup>7</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Office 应用程序  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Project Online  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |
-|Power BI  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|Office 应用程序  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Project  <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |否<sup>1</sup> <br/> |
+|Power BI  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Yammer 学院  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 信息保护<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online 不包括在内，但可免费添加到 Office 365 教育计划中。 <br/> 
+> <sup>1</sup> Microsoft Project 不包含在 Office 365 中，但可以单独获取。 Project Online Essentials 是免费的。 如果你是学生或教育机构，你可能有资格购买项目计划3和计划5（教育价格）。   <br/> 
 <sup>2</sup>若要了解有关 Office 365 计划中包含哪些 Azure 信息保护功能的详细信息，请参阅[Azure 信息保护](https://azure.microsoft.com/services/information-protection/)。<br/> 
 <sup>3</sup> Office 365 A5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐，需要购买额外的计划（国内通话套餐或国际通话套餐）。 <br/> <sup>4</sup>包括 Exchange Online 计划2。 <br/> 
 <sup>5</sup>包括 Exchange Online 计划1和补充功能。 <br/> 
@@ -70,12 +70,12 @@ ms.locfileid: "42609963"
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Microsoft Bookings  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|Microsoft Bookings  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Microsoft 简介电子邮件<sup>10</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Power Automate  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Forms  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft MyAnalytics<sup>9</sup>  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Microsoft Planner  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft StaffHub  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -155,12 +155,12 @@ ms.locfileid: "42609963"
 |IPv4 和 IPv6 协议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**信任** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[隐私、安全性和透明度](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |
-|高级安全管理  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |必需  <br/> |
-|客户锁箱  <br/> |否  <br/> |否  <br/> |必需  <br/> |
-|高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|高级安全管理  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|客户锁箱  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|威胁智能  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[合规性](compliance-servicedesc.md)** <br/> ||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -202,19 +202,19 @@ ms.locfileid: "42609963"
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级安全管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|[高级安全管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)，如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级威胁管理](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)，如仿冒活动的威胁资源管理器<sup>5</sup> <br/> |否  <br/> |否  <br/> |必需  <br/> |
-|[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |否  <br/> |否  <br/> |必需  <br/> |
+|[高级威胁管理](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)，如仿冒活动的威胁资源管理器<sup>5</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |否  <br/> |否  <br/> |可访问  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据调控](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[内容搜索](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[电子数据展示保留（包括基于查询的电子数据展示保留）](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[手动保留/删除策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[统一审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -255,32 +255,32 @@ ms.locfileid: "42609963"
 |**企业价值** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |每个用户可在 5 台 PC 或 Mac 上进行安装  <br/> |否<sup>3</sup> <br/> |是  <br/> |是  <br/> |
 |自动化用户帐户配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|多语言用户界面  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|客户端推送部署  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|内部部署 Exchange 的客户端支持  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|控制软件更新  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|数据库比较  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|桌面虚拟化  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Excel 电子表格比较  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Excel 电子表格查询  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|多语言用户界面  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|客户端推送部署  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|内部部署 Exchange 的客户端支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|内部部署 SharePoint 的客户端支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|控制软件更新  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|数据库比较  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|桌面虚拟化  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Excel 电子表格比较  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Excel 电子表格查询  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Exchange Online 和 SharePoint Online 存档和合规性  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|组策略支持  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|组策略支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |使用 Azure 信息保护的信息权限管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
-|Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Office 遥测  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|客户端应用程序的脱机支持  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Power Map for Excel  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Power Pivot for Excel  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Power Query for Excel  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|Power View for Excel  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|漫游设置  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|共享计算机激活  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|支持阻止基于云的文件存储  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|点击可查找并重复使用内容  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|版本升级  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|Office 插件、ActiveX 和 BHO 支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Office 遥测  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|客户端应用程序的脱机支持  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Map for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Pivot for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power Query for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Power View for Excel  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|漫游设置  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|共享计算机激活  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|支持阻止基于云的文件存储  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|点击可查找并重复使用内容  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|版本升级  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |批量激活 (KMS/MAK)  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
@@ -345,7 +345,7 @@ ms.locfileid: "42609963"
 |自定义反恶意软件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔离 - 管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔离 - 最终用户自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |**[邮件流](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |出站邮件的自定义路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |与受信任合作伙伴的安全邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -379,7 +379,7 @@ ms.locfileid: "42609963"
 |Web 服务报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |邮件跟踪  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |审核报告  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|统一消息报告  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|统一消息报告  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |**[共享和协作](../exchange-online-service-description/sharing-and-collaboration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |联合共享（包括日历发布）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |网站邮箱  <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |是<sup>4</sup> <br/> |
@@ -395,8 +395,8 @@ ms.locfileid: "42609963"
 |SMTP  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |EWS 应用程序支持  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[语音消息服务](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|语音邮件  <br/> |否  <br/> |必需  <br/> |是  <br/> |
-|语音邮件与第三方传真的集成  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|语音邮件  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|语音邮件与第三方传真的集成  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |第三方语音邮件互操作性  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business 集成  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[高可用性和业务连续性](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -855,7 +855,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Skype for Business Online 的客户端](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
-|Skype for Business Full  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|Skype for Business Full  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |Skype for Business 基本  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
 |Lync 2013 Basic  <br/> |是<sup>1</sup> <br/> |否  <br/> |否  <br/> |
 |Skype for Business Windows 应用商店应用  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -896,7 +896,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |参与者选定的视图  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |OneNote 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |即席 Web 会议和计划 Web 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通过音频会议（第一方）拨入 Skype for Business 会议  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|通过音频会议（第一方）拨入 Skype for Business 会议  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |通过经认证的音频会议提供商（ACP）进行 Skype for Business 会议拨入  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PowerPoint 共享  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |文件传输  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -906,7 +906,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |客户端录制和播放  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |服务器端录制和播放  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |会议厅  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Skype 会议直播  <br/> |否  <br/> |必需  <br/> |是  <br/> |
+|Skype 会议直播  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |使用 Skype for Business Web 应用以来宾身份访问 Skype 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |代表他人（委派）在 Outlook 中安排 Skype for Business 会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -915,12 +915,12 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |通过 Outlook 委派安排会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |从 Outlook 创建具有静态会议 ID 的公开会议  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**语音呼叫** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|自动助理  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|自动助理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |忙选项  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |分支机构可恢复性  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |呼叫允许控制  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |呼叫应答/启动  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|呼叫委派  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|呼叫委派  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |呼叫转接和同步拨打  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫历史记录  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |呼叫保留/检索  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -931,28 +931,28 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |占线  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PC、Mac 和移动客户端  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |设备切换  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|优雅响铃  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|优雅响铃  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |防干扰路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|紧急呼叫 - 静态位置  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|紧急呼叫 - 静态位置  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |紧急呼叫 - 动态位置  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |企业日历呼叫路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |分机拨号  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |群呼代接  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|智能寻线/呼叫队列和处理  <br/> |否  <br/> |否  <br/> |必需  <br/> |
-|集成式拨号盘  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|智能寻线/呼叫队列和处理  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
+|集成式拨号盘  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |基于位置的路由  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |等待音乐  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |出站 DID 操作  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |专线  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|限定的 IP 座机  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|限定的 IP 座机  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |共享线路外观  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Skype 和联合呼叫  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|团队呼叫  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|团队呼叫  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |视频呼叫监视器  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Voicemail  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|Voicemail  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国内通话套餐，需要购买附加服务）  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |
 |[Office 365 中的通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365)（国际通话套餐，需要购买附加服务）  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |
-|[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |Skype for Business 语音  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |即时消息和媒体加密  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -960,7 +960,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |客户端版本控制  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |即时消息内容存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |会议内容存档  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|应用程序共享和桌面共享存档  <br/> |必需  <br/> |否  <br/> |否  <br/> |
+|应用程序共享和桌面共享存档  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
 |用户级存档配置  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |登录跟踪文件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[交换和 SharePoint 的互操作性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |

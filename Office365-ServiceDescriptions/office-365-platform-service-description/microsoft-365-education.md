@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
-ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
+ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41839765"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959310"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -37,7 +37,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |OneDrive for Business  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Teams  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Skype for Business Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Project Online  <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |无<sup>5</sup> <br/> |
+|Project  <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |否<sup>5</sup> <br/> |
 |Yammer 学院  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**课堂工具** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Microsoft 团队中的课堂体验  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -52,7 +52,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |设置学校电脑应用程序  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |**语音、视频和会议** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5**<sup>6</sup> <br/> |
 |Skype 会议直播  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft 预订  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft Bookings  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 音频会议  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |
 |Office 365 电话系统  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |可访问  <br/> |
 |**分析** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
@@ -92,7 +92,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |SharePoint<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Skype for Business<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>10</sup> <br/> |是  <br/> |
 |Windows Server CAL  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|Microsoft 终结点配置管理器  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
+|Microsoft Endpoint Configuration Manager  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |System Center Endpoint Protection  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
    
 > [!NOTE]
@@ -100,7 +100,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 > <sup>2</sup>包括 Exchange Online 计划2。 <br/>
 > <sup>3</sup>包括 SharePoint Online 计划1和补充功能。 <br/>
 > <sup>4</sup>包括 SharePoint Online 计划2。 <br/>
-> <sup>5</sup> Project Online Essentials 不包括在内，但可以免费添加到 Office 365 教育版计划中。 <br/>
+> <sup>5</sup> Microsoft Project 不包含在 Office 365 中，但可以单独获取。 Project Online Essentials 是免费的。 如果你是学生或教育机构，你可能有资格购买项目计划3和计划5（教育价格）。   <br/>
 > <sup>6</sup> Microsoft 365 教育版 A5 包含电话系统、音频会议和通话套餐功能。 若要实现通话套餐，需要购买额外的计划（国内通话套餐或国际通话套餐）。 <br/>
 > <sup>7</sup>若要详细了解 Office 365 计划中包含哪些 Azure 信息保护功能，请参阅[Azure 信息保护](https://go.microsoft.com/fwlink/?linkid=838357)。 <br/>
 > <sup>8</sup>包括 Intune。 <br/>

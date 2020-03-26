@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 00eb75df2e902131a2e5dd3c8d584d5f31db59db
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 8fbcf9354e116e3f924272d5ebe74a8a71369820
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609943"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959300"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
-[Office 365 安全&amp;合规中心](https://docs.microsoft.com/office365/securitycompliance/)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[Office 365 安全&amp;合规中心](https://protection.office.com/)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -72,12 +72,12 @@ ms.locfileid: "42609943"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Exchange Online 计划 1** <br/> |**Exchange Online 计划 2** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online 计划 1** <br/> |**SharePoint Online 计划 2** <br/> |**OneDrive for Business 计划 1** <br/>|**OneDrive for Business 计划 2**<br/> |**Skype for Business Online 计划 1** <br/> |**Skype for Business Online 计划 2** <br/> |
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |
+|[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |[威胁管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)，如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)，如仿冒活动的威胁资源管理器  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/>|
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否 <br/> |是<sup>10</sup> <br/>|否  <br/> |必需  <br/> |
+|[Exchange online、SharePoint online 和 OneDrive for business 的数据丢失防护](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |是 <sup>7<sup> <br/> |否 <br/> |是<sup>10</sup> <br/>|否  <br/> |可访问  <br/> |
 |[Microsoft 团队聊天和频道消息的数据丢失防护](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[信息屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |[信息管理](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是<sup>2</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>10</sup> <br/> |是<sup>10</sup> <br/> |是  <br/> |是  <br/> |
