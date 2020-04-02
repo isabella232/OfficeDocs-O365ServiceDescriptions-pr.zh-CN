@@ -1,5 +1,5 @@
 ---
-title: Exchange Online 存档中的合规性和安全功能
+title: Exchange Online Archiving 中的合规性功能和安全功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260727"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093559"
 ---
-# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online 存档中的合规性和安全功能
+# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能和安全功能
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能
 
@@ -37,9 +37,6 @@ Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留和诉讼保留
 
 当存在诉讼的合理预期时，需要组织保留与事实相关的以电子方式存储的信息 (ESI)，包括电子邮件。这种预期可能在知道事实的细节之前发生，并且保留内容通常很广泛。组织可能保留与特定主题相关的所有电子邮件，或特定个人的所有电子邮件。
-  
-> [!NOTE]
-> 就地保留和诉讼保留目前不适用于使用 POP 或 IMAP 客户端或通过使用 SMTP 协议的自定义应用程序发送的电子邮件。 
   
 在 Exchange Online 中，您可以使用就地保留或诉讼保留来完成以下目标：
   
