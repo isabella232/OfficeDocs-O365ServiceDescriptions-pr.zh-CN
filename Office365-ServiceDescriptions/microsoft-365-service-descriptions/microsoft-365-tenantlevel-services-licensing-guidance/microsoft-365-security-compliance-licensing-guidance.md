@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101111"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171138"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -323,7 +323,7 @@ Microsoft 为 Office 365 组织中的用户提供客户密码箱访问控制审�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？ 
 
-Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 E5/A5 信息保护和治理，Office 365 E5/A5/G5 和 Office 365 高级合规性为用户提供了从 PAM 中获益的权限。
+Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性以及 Microsoft 365 E5/A5 内幕会员风险管理为用户提供了从 PAM 中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -444,23 +444,23 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性�
 
 ## <a name="communication-compliance"></a>通信合规性
 
-Office 365 中的通信合规性允许您创建监督策略，以捕获指定审阅者进行检查的员工通信。 您可以定义用于捕获组织中的内部和外部电子邮件、Microsoft 团队或第三方通信的特定策略。 然后，审阅者可以检查这些邮件，以确保它们符合组织的邮件标准，并使用分类类型解决这些问题。
+Microsoft 365 中的通信合规性通过帮助您检测、捕获和采取补救措施对组织中不适当的邮件进行补救，来帮助最大限度地减少通信风险。 您可以定义用于捕获组织中的内部和外部电子邮件、Microsoft 团队或第三方通信的特定策略。 审阅者可以采取相应的更正措施，以确保它们符合组织的邮件标准。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-用户通过监督策略监视其通信，从而从服务中获益。
+合规性专家通过通信合规性策略监视组织通信，从而从服务中受益。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5 信息保护和治理以及 Office 365 高级合规性为用户提供了从通信合规性中受益的权限。
+Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 E5/A5 内部风险管理为用户提供了从通信合规性中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-管理员在安全 & 合规中心中创建监督策略。 这些策略定义哪些通信和用户将在组织中进行审阅，定义通信必须满足的自定义条件，并指定应执行审阅的用户。
+管理员和合规性专家在 Microsoft 365 合规性中心创建通信合规性策略。 这些策略定义哪些通信和用户将在组织中进行审阅，定义通信必须满足的自定义条件，并指定应执行审阅的用户。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员选择要包含在监督策略中的特定用户或组。 在选择组时，他们还可以选择组中要从监督策略中排除的特定用户。 有关监督策略的详细信息，请参阅[Office 365 中的监察策略](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)。
+管理员选择要包含在通信合规性策略中的特定用户或组。 选择组时，他们还可以选择组中要从通信合规性策略中排除的特定用户。 有关通信合规性策略的详细信息，请参阅[Microsoft 365 中的通信合规性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)。
 
 ## <a name="insider-risk-management"></a>内幕风险管理
 
