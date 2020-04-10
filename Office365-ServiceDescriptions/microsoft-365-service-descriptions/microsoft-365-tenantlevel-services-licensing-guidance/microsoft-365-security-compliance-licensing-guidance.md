@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171138"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215111"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -353,13 +353,13 @@ Microsoft 365 A1/E3/A3/G3/G3/Business、Office 365 E3/A3/G3 和 Office 365 数�
 
 管理员可以在 "Office 365 安全 & 合规中心" 中的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>工作组聊天和频道消息的数据丢失防护
+## <a name="communication-data-loss-prevention-for-teams"></a>工作组的通信数据丢失防护
 
-使用数据丢失防护（DLP）获取团队聊天和频道消息时，组织可以阻止包含敏感信息的聊天和频道消息，如财务信息、个人身份信息、与运行状况相关的信息或其他机密信息。
+使用针对团队的通信 DLP，组织可以阻止包含敏感信息（如财务信息）的聊天和频道消息，以及个人身份信息、与运行状况相关的信息或其他机密信息。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5/A5/G5 许可用户，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Office 365 高级合规性可以从 DLP for team chat and 频道消息中获益。
+Office 365 E5/A5 的许可用户，Microsoft 365 E5/A5，Microsoft 365 E5/A5 信息保护和公司治理，以及 Office 365 高级合规性可以从适用于团队的通信 DLP 中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

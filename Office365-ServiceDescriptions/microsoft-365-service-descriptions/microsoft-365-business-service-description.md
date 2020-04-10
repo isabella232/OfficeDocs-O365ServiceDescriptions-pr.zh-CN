@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business 是一个集成的解决方案，将 Office 365 的同类最佳生产力与高级安全性和设备管理功能结合在一起，以帮助保护您的业务。 此服务说明介绍了计划选项和功能。
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109442"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206619"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 商业版服务说明
 
@@ -25,7 +25,6 @@ Microsoft 365 商业版是一个集成的解决方案，将 Office 365 与高级
 
 Microsoft 365 业务基本上包括 Office 365 商业高级版中提供的所有功能以及其他 Office 365 安全功能。
 
-Microsoft 365 Business 包括以下 Azure AD 高级 P1 功能：使用 AD 写回、Azure 多重身份验证（MFA）和条件访问的自助服务密码重置。 它不包括完整的 Azure AD 高级 P1。
 
 ||||
 |:-----|:-----|:-----|
