@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 安全 & 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215111"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230792"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -37,7 +38,7 @@ SecOps 分析师和安全专家将从基于机器学习算法的已标记用户�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-企业移动性 + 安全 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 Security，Azure Active Directory Premium 计划2为用户提供了从 Azure Active Directory 标识保护中受益的权限。
+企业移动性 + 安全性 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 安全性，以及 Azure Active Directory 高级计划2为用户提供了从 Azure Active Directory 标识保护中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -57,7 +58,7 @@ SecOp 分析师和安全性专家将受益于 Azure ATP 检测和调查高级威
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-企业移动性 + 安全性 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，以及 Azure 高级威胁防护，为用户提供从 Azure ATP 获益的权限。
+企业移动性 + 安全性 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security，以及适用于 Azure 的用户的 Azure 高级威胁防护提供从 Azure ATP 获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -77,7 +78,7 @@ ATP 可保护用户免受复杂攻击（如网络钓鱼和零天恶意软件）�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？ 
 
-Office 365 高级威胁防护、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 Business 和 Office 365 ATP 计划1和2为用户提供了从 Office 365 高级威胁防护中受益的权限。
+Office 365 高级威胁防护、Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 安全性、Microsoft 365 Business 和 Office 365 ATP 计划1和2为用户提供了从 Office 365 高级威胁防护中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
