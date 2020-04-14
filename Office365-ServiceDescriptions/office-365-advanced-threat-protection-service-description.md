@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。
-ms.openlocfilehash: 83067b99f816744b6c2ec0e18c72a3e322072ea8
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230802"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285548"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -96,7 +96,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 |[攻击模拟器](#attack-simulator)|否|可访问|是|
 
 > [!TIP]
-> 想要一个可下载的 Office 365 ATP 计划1与计划2之间的差异列表吗？ [获取 PDF](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr/raw/live/Office365-ServiceDescriptions/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。 
+> 想要一个可下载的 Office 365 ATP 计划1与计划2之间的差异列表吗？ [获取 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>高级威胁防护（ATP）功能
 
@@ -144,7 +144,7 @@ Office 365 安全 & 合规性中心中提供的监视功能包括[实时报告�
 
 资源管理器（也称为威胁浏览器）是一个实时报告，它允许授权用户识别和分析最新的威胁。 默认情况下，此报告显示过去7天的数据;但是，可以对视图进行修改，以显示过去30天的数据。
 
-资源管理器包含视图，如恶意软件（电子邮件和内容）、提交、网络钓鱼和所有电子邮件。
+资源管理器包含视图，如恶意软件（电子邮件和内容）、提交、网络钓鱼和所有电子邮件。 若要查看浏览器与实时检测的比较情况，请[下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。
 
 有关浏览器（在 Office 365 高级威胁防护计划2中）和实时检测（在 Office 365 高级威胁防护计划1中）的详细信息，请参阅[威胁 Explorer （和实时检测）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
 
@@ -152,7 +152,7 @@ Office 365 安全 & 合规性中心中提供的监视功能包括[实时报告�
 
 实时检测是一份实时报告，可让授权用户识别和分析最新的威胁。 与资源管理器类似，默认情况下，此报告显示过去7天的数据。
 
-实时检测包含视图，如恶意软件（电子邮件和内容）、提交和网络钓鱼。
+实时检测包含视图，如恶意软件（电子邮件和内容）、提交和网络钓鱼。 若要查看实时检测与资源管理器的比较情况，请[下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)。
 
 有关浏览器（在 Office 365 高级威胁防护计划2中）和实时检测（在 Office 365 高级威胁防护计划1中）的详细信息，请参阅[威胁 Explorer （和实时检测）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
 
