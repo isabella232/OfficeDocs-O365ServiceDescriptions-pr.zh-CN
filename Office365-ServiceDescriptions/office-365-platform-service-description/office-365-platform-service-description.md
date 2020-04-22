@@ -1,5 +1,5 @@
 ---
-title: Office 365 平台服务说明
+title: Microsoft 365 和 Office 365 平台服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
-ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: 2e706ea6dcb85b03a40fb6790b058ceb2c23be20
+ms.sourcegitcommit: 5a76557af16611192b978d84c0b01f23edaab746
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093569"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43725131"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365 平台服务说明
 
-为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果您想了解包括 Exchange Online 计划在内的 Office 365 计划之间的区别，本文将向您介绍它们各自包含了哪些功能。
+Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组织的需求。 如果你正在寻找计划（包括 Exchange Online 计划）之间的差异，本文将向你展示每个计划中包含的功能。
   
-Microsoft Office 365 为所有各种规模的企业提供了强大的云工作效率，帮助节省时间金钱，并释放宝贵的资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务（包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 和 Microsoft Skype for Business Online），帮助用户从几乎任何地方通过 internet 实现工作效率。
+Microsoft 365 和 Office 365 可为各种规模的企业提供云生产力的强大功能，帮助节省时间、节省资金并释放宝贵资源。 Office 365 结合了熟悉的 Microsoft Office 桌面套件和基于云的 Microsoft 的下一代通信和协作服务（包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web 和 Microsoft Skype for Business Online），帮助用户从几乎任何地方通过 internet 实现工作效率。
   
-若要跨计划比较功能，请参阅[比较 Office 365 For Business 计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
+若要跨计划比较功能，请参阅[比较计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或，有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -65,7 +65,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Office 365 中的多地理位置功能
 
-多地理位置使单个 Office 365 租户可以跨多个 Office 365 数据中心地理位置，并使您能够在所选地理位置以每用户的方式存储 Exchange Online 和 OneDrive for business、rest 上的 Office 365 数据。 
+多地理位置使单个组织可以跨多个 Office 365 数据中心地理位置，并使您能够在所选地理位置以每用户的方式存储 Exchange Online 和 OneDrive for business 的 Office 365 数据。 
   
 可用信息：亚太地区、澳大利亚、加拿大、欧洲联合、印度、日本、韩国、英国、美国。 
   
@@ -77,7 +77,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 有关不同商业类型计划定价和功能的特定信息，请参阅以下页面：
   
-- 商业版：[Office 365 商业版计划和定价](https://go.microsoft.com/fwlink/?LinkID=827896)
+- 企业版： [Microsoft 365 用于商业计划和定价](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - 教育版：[Office 365 教育版计划和定价](https://go.microsoft.com/fwlink/?LinkID=827897)
     
