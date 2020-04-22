@@ -1,5 +1,5 @@
 ---
-title: 语音邮件服务
+title: 语音消息服务
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1bf261e002eb7c8a637266c3b243ad728c63be3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262685"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640310"
 ---
-# <a name="voice-message-services"></a>语音邮件服务
+# <a name="voice-message-services"></a>语音消息服务
 
 ## <a name="voice-mail"></a>语音邮件
 
@@ -80,6 +80,6 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

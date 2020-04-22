@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687833"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639670"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
 Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
   
-有关 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ Microsoft InfoPath 是一个程序，可让您设计、散布、完成和提交�
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile for iPad 和 iPhone 包括您喜爱的 Office 应用程序，如 Word for iPad/iPhone、Excel for iPad/iPhone 和 PowerPoint for iPad/iPhone。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 iPad 或 iPhone 上创建和编辑文档。 有关详细信息，请参阅[在 iOS 设备上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)。
+Office Mobile for iPad 和 iPhone 包括您喜爱的 Office 应用程序，如 Word for iPad/iPhone、Excel for iPad/iPhone 和 PowerPoint for iPad/iPhone。 这些应用程序可免费下载，并使用适用的计划，您可以在 iPad 或 iPhone 上创建和编辑文档。 有关详细信息，请参阅[在 iOS 设备上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-适用于 Android 的 office Mobile 包括您喜爱的 Office 应用程序，如 Word for Android、Excel for Android 和 PowerPoint for Android。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Android 设备上创建和编辑文档。 有关详细信息，请参阅[在 Android 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)。
+适用于 Android 的 office Mobile 包括您喜爱的 Office 应用程序，如 Word for Android、Excel for Android 和 PowerPoint for Android。 这些应用程序可免费下载，并使用适用的计划，您可以在 Android 设备上创建和编辑文档。 有关详细信息，请参阅[在 Android 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile for Windows Phone 包括您喜爱的 Office 应用程序，如 Word for Windows Phone、Excel for Windows Phone 和 PowerPoint for Windows Phone。 这些应用程序可免费下载，您可以通过适用的 Office 365 计划在 Windows Phone 上创建和编辑文档。 有关详细信息，请参阅[在 Windows Phone 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)。
+Office Mobile for Windows Phone 包括您喜爱的 Office 应用程序，如 Word for Windows Phone、Excel for Windows Phone 和 PowerPoint for Windows Phone。 这些应用程序可免费下载，并使用适用的计划，您可以在 Windows Phone 上创建和编辑文档。 有关详细信息，请参阅[在 Windows Phone 上设置 Office 应用和电子邮件](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="office-for-windows-10-mobile"></a>适用于 Windows 10 移动版的 Office
 
@@ -85,5 +85,5 @@ Office for Windows 10 移动应用在 Windows 10 电话和平板电脑上针对�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[office 应用程序服务说明](office-applications-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Office 应用程序服务说明](office-applications-service-description.md)。
   

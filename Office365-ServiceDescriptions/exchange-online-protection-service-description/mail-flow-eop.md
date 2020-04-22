@@ -11,27 +11,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: 对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。 这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection （EOP）允许你执行此操作，并在云中提供防病毒和反垃圾邮件处理。
-ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: 对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。 这是最简单的配置，意味着 Microsoft 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection （EOP）允许你执行此操作，并在云中提供防病毒和反垃圾邮件处理。
+ms.openlocfilehash: d85ae7b22be1405679ceac8d853b345d251166b6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687830"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638913"
 ---
 # <a name="mail-floweop"></a>邮件流 [EOP]
 
-对于大多数使用 Office 365 的组织，我们可以为其托管邮箱并处理邮件流。 这是最简单的配置，意味着 Office 365 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection （EOP）允许你执行此操作，并在云中提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
+对于大多数使用 Microsoft 的组织，我们会托管邮箱并处理邮件流。 这是最简单的配置，意味着 Microsoft 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection （EOP）允许你执行此操作，并在云中提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
   
 正在查找关于域管理或基于目录的边缘阻止 (DBEB) 的信息？ 请参阅[收件人、域和公司管理](recipient-domain-and-company-management.md)。 若要了解有关所有 EOP 功能的详细信息，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
-## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>在 Office 365 和自己的电子邮件服务器之间路由电子邮件
+## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>在 Microsoft 和您自己的电子邮件服务器之间路由电子邮件
 
-可以配置连接器以启用 Office 365（包括 Exchange Online 或 EOP）与基于 SMTP 的电子邮件服务器（如 Exchange）之间的邮件流。有关详细信息，请参阅[Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)？和[Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
+您可以将连接器配置为在 Microsoft （包括 Exchange Online 或 EOP）和基于 SMTP 的电子邮件服务器（如 Exchange）之间启用邮件流。 有关详细信息，请参阅[Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)？ 并[将连接器设置为在 Microsoft 和您自己的电子邮件服务器之间路由邮件](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>与受信任合作伙伴的安全邮件
 
-作为 EOP 客户，你可以使用 Office 365 连接器设置与受信任合作伙伴的安全邮件流。 Office 365 支持通过传输层安全性 (TLS) 的安全通信，并且你可以创建一个连接器，强制通过 TLS 进行加密。 [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections)是一种加密协议，提供通过 internet 进行通信的安全性。 通过使用连接器，可以使用自签名证书或经证书颁发机构 (CA) 验证的证书配置强制的入站和出站 TLS。 还可以应用其他安全限制，如指定合作伙伴组织发送邮件时使用的域名或 IP 地址范围。 
+作为 EOP 客户，您可以使用 Microsoft 连接器建立与受信任合作伙伴的安全邮件流。 Microsoft 支持通过传输层安全性（TLS）进行安全通信，并且可以创建连接器以通过 TLS 强制执行加密。 [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections)是一种加密协议，提供通过 internet 进行通信的安全性。 通过使用连接器，可以使用自签名证书或经证书颁发机构 (CA) 验证的证书配置强制的入站和出站 TLS。 还可以应用其他安全限制，如指定合作伙伴组织发送邮件时使用的域名或 IP 地址范围。 
   
 有关详细信息，请参阅[将连接器设置为确保与合作伙伴组织之间实现安全的邮件流](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)。
   
@@ -53,4 +53,4 @@ ms.locfileid: "42687830"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。

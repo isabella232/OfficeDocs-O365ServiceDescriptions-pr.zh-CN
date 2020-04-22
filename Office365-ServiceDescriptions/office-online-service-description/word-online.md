@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: 适用于 web 的 word （以前称为 Word Web App）将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545735"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640210"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 
@@ -47,7 +47,7 @@ ms.locfileid: "42545735"
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
-在 Word for web 中不可用。 通过 Office.com 上的大量精选专业设计模板开始文档处理等高级设计功能仅在 Word 桌面应用程序中可用。 不过，Office 365 客户可以将文档库配置为在用户创建新文档时启动自定义模板。 若要了解详细信息，请参阅[向列表或库中添加内容类型](https://go.microsoft.com/fwlink/p/?LinkId=391446)。
+在 Word for web 中不可用。 通过 Office.com 上的大量精选专业设计模板开始文档处理等高级设计功能仅在 Word 桌面应用程序中可用。 但是，客户可以将文档库配置为在用户创建新文档时启动自定义模板。 若要了解详细信息，请参阅[向列表或库中添加内容类型](https://go.microsoft.com/fwlink/p/?LinkId=391446)。
   
 ## <a name="bullets-and-numbering"></a>Bullets and numbering
 
@@ -297,5 +297,5 @@ Word for web 为您的文档中的单词提供了粗略的字数统计。 详细
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。 
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。 
   

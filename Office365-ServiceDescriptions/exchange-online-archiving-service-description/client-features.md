@@ -1,5 +1,5 @@
 ---
-title: Exchange Online 存档中的客户端功能
+title: Exchange Online Archiving 中的客户端功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online 存档允许用户从各种设备和平台连接到其存档邮箱。 通过 internet 进行到用户存档的所有网络连接均通过 internet 进行，而虚拟专用网络（VPN）连接则不是必需的。 组织可以发布一个本地客户端访问服务器，通过此服务器，用户可以使用 Outlook 无处不在 （而无需通过 VPN 连接）访问其主邮箱。 如果需要 VPN 接入以访问位于本地服务器上的用户主邮箱，此要求不会更改。
-ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260707"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639720"
 ---
-# <a name="client-features-in-exchange-online-archiving"></a>Exchange Online 存档中的客户端功能
+# <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的客户端功能
 
 Microsoft Exchange Online 存档允许用户从各种设备和平台连接到其存档邮箱。 通过 internet 进行到用户存档的所有网络连接均通过 internet 进行，而虚拟专用网络（VPN）连接则不是必需的。 组织可以发布一个本地客户端访问服务器，通过此服务器，用户可以使用 Outlook 无处不在 （而无需通过 VPN 连接）访问其主邮箱。 如果需要 VPN 接入以访问位于本地服务器上的用户主邮箱，此要求不会更改。
   
@@ -38,7 +38,7 @@ Outlook 2010 及更高版本和 web 上的 Outlook 为用户提供了存档的�
 Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性功能在 Outlook 2007 中均可用。例如，在 Outlook 2007 中，用户无法将保留和存档策略应用于其邮箱中的项目，而必须依赖管理员设置的策略。Outlook 2007 用户必须具有 2011 年 2 月的 Office 2007 累积更新才能访问存档。
   
 > [!NOTE]
-> Exchange Online Archiving 不提供 Outlook。 Microsoft Office 365 ProPlus（包括 Microsoft Outlook）包含在一些 Office 365 计划中，同时可以作为单独订阅购买。 有关详细信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。 有关 Office 365 专业增强版的详细信息，请参阅[office 应用程序服务说明](../office-applications-service-description/office-applications-service-description.md)。 
+> Exchange Online Archiving 不提供 Outlook。 Microsoft 365 企业版应用程序（包括 Microsoft Outlook）包含在一些计划中，可以作为单独的订阅进行购买。 有关详细信息，请参阅[Microsoft 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。 有关适用于企业的 Microsoft 365 应用的详细信息，请参阅[Office 应用程序服务说明](../office-applications-service-description/office-applications-service-description.md)。 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online Archiving 支持的客户端
 
@@ -68,4 +68,4 @@ Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。

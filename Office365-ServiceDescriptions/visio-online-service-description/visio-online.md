@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio for web 将您的 Microsoft Visio 体验扩展到浏览器，您可以在其中创建和编辑保存在云中的图表。 Microsoft Office 365 客户可以在旅途中查看、打印和共享图表以及插入注释。
-ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Visio for web 将您的 Microsoft Visio 体验扩展到浏览器，您可以在其中创建和编辑保存在云中的图表。 Microsoft 365 客户可以在旅途中查看、打印和共享图表以及插入注释。
+ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687815"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640090"
 ---
 # <a name="visio-for-the-web"></a>Visio 网页版
 
-Visio for web 将您的 Microsoft Visio 体验扩展到浏览器，您可以在其中创建和编辑保存在云中的图表。 Microsoft Office 365 客户可以在旅途中查看、打印和共享图表以及插入注释。 如果你拥有 Visio 订阅，则可以使用其他功能，如以下各节中所述。
+Visio for web 将您的 Microsoft Visio 体验扩展到浏览器，您可以在其中创建和编辑保存在云中的图表。 Microsoft 365 客户可以在旅途中查看、打印和共享图表以及插入注释。 如果你拥有 Visio 订阅，则可以使用其他功能，如以下各节中所述。
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>对文本和形状应用多种格式
 

@@ -11,29 +11,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。
-ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
+ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545785"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640130"
 ---
 # <a name="office-for-the-web-service-description"></a>Office 网页版服务说明
 
-Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft Office 365 客户可以随时随地查看、创建和编辑文件。 
+Office for web （以前称为 Office Web Apps）在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。 
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要跨计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>跨 Office 提供的 web 计划的功能可用性
 
 需要帮忙确定最适合你组织的 Office 解决方案吗？ 下表比较了 Office for web 功能和功能丰富的 Microsoft Office 桌面应用程序的功能。 使用表来发现 Office for web 中可用的功能，然后选择功能名称，以阅读有关该功能如何工作的简短说明。 您可能会发现，贵组织中的某些人需要 Excel 桌面应用程序的高级图表功能，而其他人只需要查看和编辑 web Office 中的 Word 文档和 PowerPoint 演示文稿。 
   
 > [!NOTE]
->  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。<br/>  Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。<br/>  Microsoft Office Online Server 内部部署客户如果购买了 Office 桌面套件许可证（如 Office 专业增强版、Office Standard 版或 Office 365 专业增强版许可证），则会获取适用于 web 编辑许可证的 Office。 
+>  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。<br/>  适用于企业的 microsoft Microsoft 365 应用是最新 Office 桌面套件的月度订阅。 <br/>  如果用户购买了 Office 桌面套件许可证（如 Office Professional Plus、Office Standard 或 Microsoft 365 Apps for enterprise license），Microsoft Office Online Server 内部部署客户将获取适用于 web 编辑许可证的 Office。 
   
 > [!NOTE]
-> 当您以 Outlook 电子邮件附件或从 SharePoint 文档库打开 Office 文档时，该文档将在 Office for web 中启动，并且将为只读。 若要在 Office for web 中编辑文档（编辑模式），您需要一个 Office 365 套件许可证，例如 Office 365 企业版 E1。 要在桌面应用程序中编辑文档，您需要具有 Office 桌面套件许可证，例如 Office 365 ProPlus 订阅或 Office Professional Plus 2010 的已安装版本。 
+> 当您以 Outlook 电子邮件附件或从 SharePoint 文档库打开 Office 文档时，该文档将在 Office for web 中启动，并且将为只读。 若要在 Office for web 中编辑文档（编辑模式），您需要一个套件许可证，例如 Office 365 企业版 E1。 若要在桌面应用程序中编辑文档，您需要一个 Office 桌面套件许可证，如适用于企业版订阅的 Microsoft 365 应用程序或 Office Professional Plus 2010 的已安装版本。 
   
 ### <a name="word"></a>Word
 

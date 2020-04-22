@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: 以下外部网络功能在 Yammer 中可用。
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263184"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640060"
 ---
 # <a name="external-network-features-in-yammer"></a>Yammer 中的外部网络功能
 
@@ -33,4 +33,4 @@ ms.locfileid: "39263184"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。

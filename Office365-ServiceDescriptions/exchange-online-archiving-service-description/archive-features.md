@@ -1,5 +1,5 @@
 ---
-title: Exchange Online 存档中的存档功能
+title: Exchange Online Archiving 中的存档功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987574"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639830"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online 存档中的存档功能
+# <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
   
@@ -68,7 +68,7 @@ After an item has been removed from the archive's Deleted Items folder, the item
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 
-当管理员将用户从本地 Exchange Server 删除时，也将删除用户的存档。如果需要恢复已删除的存档邮箱，Office 365 支持团队可以执行此恢复。恢复的存档将包含删除时其中存储的所有邮件。
+当管理员将用户从本地 Exchange Server 删除时，也将删除用户的存档。 如果需要恢复已删除的存档邮箱，Microsoft 支持团队可以执行此恢复。 恢复的存档将包含删除时其中存储的所有邮件。
   
 > [!IMPORTANT]
 > 用户邮箱删除后 30 天内，管理员可以请求恢复存档邮箱。30 天后，存档邮箱不可恢复。 
@@ -79,5 +79,5 @@ Exchange Online Archiving 中的存档邮箱不断复制为多个数据库副本
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
   

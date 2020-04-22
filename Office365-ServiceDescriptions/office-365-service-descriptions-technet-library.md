@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 是一项基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787014"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638720"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365 服务说明 
 
@@ -70,7 +70,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
 
 - [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 商业高级版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Microsoft 365 安全 & 合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
@@ -81,5 +81,5 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
   
 ## <a name="disclaimer"></a>免责声明
 
-© 2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 此信息不得视为服务约定，亦不得视为 Microsoft 或客户对本文提及的任何特性、功能或职责承担任何责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。
+&copy;2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 此信息不得视为服务约定，亦不得视为 Microsoft 或客户对本文提及的任何特性、功能或职责承担任何责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。
  

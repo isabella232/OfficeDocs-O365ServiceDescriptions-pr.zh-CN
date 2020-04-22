@@ -1,5 +1,5 @@
 ---
-title: Office 365 安全与合规中心
+title: 安全与合规中心
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Office 365 安全&amp;合规中心旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+description: 安全&amp;合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
+ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109432"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639680"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
+# <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[Office 365 安全&amp;合规中心](https://protection.office.com/)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+[安全&amp;合规性中心](https://protection.office.com/)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -30,7 +30,7 @@ ms.locfileid: "43109432"
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**  |**Office 365 商业协作版**  |**Office 365 商业高级版**  |**Office 365 企业版 E1**， **Office 365 美国政府版 G1**  |**Office 365 企业版 E3**， **Office 365 美国政府版 G3**  |**Office 365 企业版 E5**  |**Office 365 企业版 f3**  **Office 365 美国政府 F3**|
+|**功能**  |**Microsoft 365 商业基本版**  |**Microsoft 365 商业标准**  |**Office 365 企业版 E1**， **Office 365 美国政府版 G1**  |**Office 365 企业版 E3**， **Office 365 美国政府版 G3**  |**Office 365 企业版 E5**  |**Office 365 企业版 f3**  **Office 365 美国政府 F3**|
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否|否   |必需   |否   |
 |邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |是   |是   |是   |是   |是   |是   |
@@ -56,7 +56,7 @@ ms.locfileid: "43109432"
 |[Office 365 邮件加密 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |必需   |否   |
 |[Office 365 高级邮件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |必需   |否   |
 |[特权访问管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |必需   |否   |
-|[Office 365 客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |必需   |否   |
+|[客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |必需   |否   |
 ||||||||
 
 <sup>1</sup>信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。

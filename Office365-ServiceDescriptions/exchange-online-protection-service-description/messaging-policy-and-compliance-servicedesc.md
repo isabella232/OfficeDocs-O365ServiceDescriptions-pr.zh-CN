@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687813"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640160"
 ---
 # <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
 
@@ -77,4 +77,4 @@ Office 365 邮件加密是 Azure 信息保护的一部分，它是一种在线�
 > <sup>1</sup> EOP 和 Exchange Online 之间的可用邮件流规则条件、例外和操作略有不同。 有关这些区别，请参阅 [Exchange Online 中的邮件流规则条件和异常（谓词）](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和 [Exchange Online 中的邮件流规则](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。 <br/>
 > <sup>2</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。 <br/>
 > <sup>3</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。 <br/>
-> <sup>4</sup>支持购买 Azure 信息保护加载项并使用 Exchange online Protection 通过 exchange online 路由电子邮件的本地客户。 对于桌面体验，除了 Azure 信息保护加载项外，还需要购买 Office 365 专业增强版。 <br/>
+> <sup>4</sup>支持购买 Azure 信息保护加载项并使用 Exchange online Protection 通过 exchange online 路由电子邮件的本地客户。 对于桌面体验，除了 Azure 信息保护加载项外，还需要购买适用于企业的 Microsoft 365 应用程序。 <br/>

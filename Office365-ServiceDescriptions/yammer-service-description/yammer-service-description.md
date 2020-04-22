@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
-ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263133"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640180"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
 Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
   
-有关包含 Yammer 的 Office 365 计划的列表，请参阅 [Office 365 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
+有关包含 Yammer 的计划的列表，请参阅[Microsoft 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
-若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 > [!TIP]
-> 您可以在 Office 365 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
+> 您可以在 Microsoft 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
   
 ## <a name="system-requirements"></a>系统要求
 
-有关 Office 365（一种可供商务、教育以及政府组织使用的基于每月订阅的服务）的系统要求，请参阅 [Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="yammer-plans"></a>Yammer 计划
 
@@ -49,7 +49,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer enterprise 服务通信策略
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 是 Office 365 的一部分并遵守[office 365 更改管理策略](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不使用目标版本来推出更新。 
+Yammer 遵循[Microsoft 365 更改管理策略](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/)，但不使用目标版本来推出更新。 
   
 所有 Yammer 用户都要进行 A/B 功能测试。这样，Microsoft 就可以跨多个环境和设备测试功能的稳定性、性能和体验改善。同一网络中的用户可能会有不同的测试体验。客户不能选择停用 A/B 测试。
   
@@ -59,8 +59,8 @@ Yammer 是 Office 365 的一部分并遵守[office 365 更改管理策略](https
   
 |||
 |:-----|:-----|
-|**需要采取措施的更改（规划更改）** <br/>管理员需要进行更改以保持服务运行，这可能会对组织的合规性产生影响的更新  <br/> |-Office 365 信息中心电子邮件直接发送到 Yammer 验证管理员 <br/>-Office 365 路线图<br/>-Yammer 服务更新<br/>-外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
-|**需要感知的更改（及时了解）**<br/>不需要管理员操作的更改、可视化设计更改  <br/> |-Office 365 消息中心<br/>-Office 365 路线图<br/>-Yammer 服务更新<br/>-外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
+|**需要采取措施的更改（规划更改）** <br/>管理员需要进行更改以保持服务运行，这可能会对组织的合规性产生影响的更新  <br/> |-Office 365 信息中心电子邮件直接发送到 Yammer 验证管理员 <br/>-Microsoft 365 路线图<br/>-Yammer 服务更新<br/>-外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
+|**需要感知的更改（及时了解）**<br/>不需要管理员操作的更改、可视化设计更改  <br/> |-Office 365 消息中心<br/>-Microsoft 365 路线图<br/>-Yammer 服务更新<br/>-外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
 |**非关键** <br/>不重要且不需要操作或意识的更改，即使某些用户可能可观察到它们  <br/> |不会进行广泛通信。 |
    
 ## <a name="feature-availability-across-yammer-plans"></a>跨 Yammer 计划的功能可用性

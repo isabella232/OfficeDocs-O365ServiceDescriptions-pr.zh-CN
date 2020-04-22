@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216727"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639930"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -25,11 +25,11 @@ ms.locfileid: "41216727"
   
 ## <a name="microsoft-bookings"></a>Microsoft 预订
 
-Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客户提供约会相关服务。这类企业包括发廊、牙科诊所、温泉疗养中心、律师事务所、金融服务提供商、咨询服务提供商和汽车店。拥有 Office 365 商业高级版订阅的美国和加拿大客户可以使用 Microsoft Bookings。 
+Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客户提供约会相关服务。 这类企业包括发廊、牙科诊所、温泉疗养中心、律师事务所、金融服务提供商、咨询服务提供商和汽车店。 Microsoft 预订适用于美国和加拿大拥有 Microsoft 365 商业标准订阅的客户。 
   
-有关 Microsoft Bookings 的详细信息，请转到 [Say hello to Microsoft Bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)（Microsoft Bookings，你好）
+有关 Microsoft 预订的详细信息，请转到[使用 Microsoft 预定在线发布业务日历](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)。
 
-## <a name="microsoft-briefing-email"></a>Microsoft 简介电子邮件
+## <a name="microsoft-briefing-email"></a>Microsoft 简报电子邮件
 
 本简报电子邮件可帮助用户通过以下方式来进行日常工作：
 
@@ -39,7 +39,7 @@ Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客�
 
 将简介电子邮件自动提供给 Exchange Online 的所有用户。 若要了解详细信息，请参阅[简介电子邮件概述](https://docs.microsoft.com/Briefing/be-overview)。
 
-## <a name="microsoft-power-automate"></a>Microsoft 电力自动化
+## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
 Microsoft 电力自动化功能使您能够跨应用程序自动执行工作流。 可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。 模板可作入门之用。 要了解有关 Flow 功能及如何使用它们的详细信息，请访问 Microsoft [Flow 网站](https://flow.microsoft.com/en-us/)。
   

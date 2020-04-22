@@ -1,5 +1,5 @@
 ---
-title: Microsoft 团队服务说明
+title: Microsoft Teams 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,14 +8,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: cd16f511c5bd0af7c8e64cf4efd383ca48f74b30
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 260710e9f794c4c59447ceabd37626162e24ecbf
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609983"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640110"
 ---
-# <a name="microsoft-teams-service-description"></a>Microsoft 团队服务说明
+# <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
 Microsoft 团队是在 Microsoft 365 中进行团队合作的中心。 团队服务启用即时消息、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。 此外，团队还提供文件和数据协作和扩展性功能，并与 Microsoft 365 和其他 Microsoft 和合作伙伴应用集成。
 
@@ -23,18 +23,18 @@ Skype for Business Online 将于2021年7月31日发布，在2019年7月30日[发
 
 Microsoft 仍将致力于保护你的服务的数据和[可访问性](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 辅助功能中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 
-对于您的参考，我们包含了 Office 365 订阅的主表，这些订阅可为 Microsoft 团队用户启用用户。 有关完整的详细信息，请参阅[适用于 Microsoft 团队的 Office 365 许可](https://docs.microsoft.com/microsoftteams/office-365-licensing)。 有关政府版计划中的其他 Office 365，请参阅[Office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包括对团队功能的访问权限。
+对于您的参考，我们已将订阅的这一主表包括在为 Microsoft 团队启用用户的订阅中。 有关完整的详细信息，请参阅[Microsoft 团队的许可](https://docs.microsoft.com/microsoftteams/office-365-licensing)。 有关政府版计划中的其他 Office 365，请参阅[Office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包括对团队功能的访问权限。
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**小型企业版计划** <br/> |**企业计划** <br/> |**教育计划** <br/> |**开发人员计划** <br/> |
-|Office 365 商业协作版  <br/> |Office 365 企业版 E1  <br/> |Office 365 教育版  <br/> |Office 365 开发人员  <br/> |
-|Office 365 商业高级版  <br/> |Office 365 企业版 E3  <br/> |Office 365 教育增强版  <br/> |   <br/> |
+|Microsoft 365 商业基本版  <br/> |Office 365 企业版 E1  <br/> |Office 365 教育版  <br/> |Office 365 开发人员  <br/> |
+|Microsoft 365 商业标准  <br/> |Office 365 企业版 E3  <br/> |Office 365 教育增强版  <br/> |   <br/> |
 |Microsoft 365 商业版  <br/> |Office 365 企业版 E4 （已停用）  <br/> |Office 365 教育版 E3 （已停用）  <br/> |  <br/> |
 |  <br/> |Office 365 企业版 E5  <br/> |Office 365 教育版 E5  <br/> |  <br/> |
 |  <br/> |Office 365 企业版 F1  <br/> |  <br/> |  <br/> |
 
-有关产品功能实施指南的详细信息，请参阅[Microsoft 团队管理文档](https://docs.microsoft.com/MicrosoftTeams)。 此服务说明详细介绍了各种云安装中提供的服务之间的主要差异。 Microsoft 团队核心功能在 Office 365 订阅中不会有所不同。 合规性功能的可用性取决于你的订阅级别。 若要了解详细信息，请参阅 [Microsoft 团队中的安全性和合规性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 有关每个订阅中提供的功能的详细列表，请参阅 [Office 365 platform 服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+有关产品功能实施指南的详细信息，请参阅[Microsoft 团队管理文档](https://docs.microsoft.com/MicrosoftTeams)。 此服务说明详细介绍了各种云安装中提供的服务之间的主要差异。 Microsoft 团队核心功能在订阅中不会有所不同。 合规性功能的可用性取决于你的订阅级别。 若要了解详细信息，请参阅 [Microsoft 团队中的安全性和合规性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 有关每个订阅中提供的功能的详细列表，请参阅 [Office 365 platform 服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 
 **云语音功能**：对于音频会议，组织必须购买并将音频会议许可证分配给将设置电话拨入式会议的每个用户。 对于需要通话套餐的团队功能，每个用户都需要一个电话系统以及一个国内或国内和国际通话套餐。 若要了解详细信息，请参阅 [Microsoft 团队附加许可](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)。
 

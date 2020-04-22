@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本节介绍了可用于 Microsoft Exchange Online Protection （EOP）管理员的管理界面。
-ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 8b3f6cfceb015bc1730fe4c4d61c2fcda3f94259
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687814"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640015"
 ---
 # <a name="administration-and-managementeop"></a>管理和管理 [EOP]
 
@@ -27,11 +27,11 @@ ms.locfileid: "42687814"
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>访问 Microsoft 365 管理中心
 
-Microsoft 365 管理中心是一个 web 门户，其中每个公司的服务管理员都可以管理他们订阅的每个 Office 365 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以跟踪 EAC 的链接，在这里，他们可以管理特定于 EOP 的设置。
+Microsoft 365 管理中心是一个 web 门户，其中每个公司的服务管理员都可以管理他们订阅的每个 Microsoft 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以跟踪 EAC 的链接，在这里，他们可以管理特定于 EOP 的设置。
   
 ## <a name="access-to-the-exchange-admin-center"></a>对 Exchange 管理中心的访问权限
 
-Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用，还针对所有类型的部署进行了优化。新推出的改进后 EAC 替代了 Forefront Online Protection for Exchange 管理中心。EAC 提供与 Office 365 更为紧密的集成，并提供跨 Exchange 产品（Microsoft Exchange Online 和 Microsoft Exchange Server 2013）的一致、无缝 UI 体验。有关 EAC 的详细信息，请参阅 [Exchange Online Protection 中的 Exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)。
+Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用，还针对所有类型的部署进行了优化。 新推出的改进后 EAC 替代了 Forefront Online Protection for Exchange 管理中心。 EAC 提供了与 Microsoft 365 的更紧密的集成，以及跨 Exchange 产品（Microsoft Exchange Online 和 Microsoft Exchange Server 2013）的一致、无缝的 UI 体验。 有关 EAC 的详细信息，请参阅 [Exchange Online Protection 中的 Exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)。
   
 ## <a name="remote-windows-powershell-access"></a>远程 Windows PowerShell 访问
 
@@ -39,5 +39,5 @@ Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   

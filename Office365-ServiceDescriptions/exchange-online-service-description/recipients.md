@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262725"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639980"
 ---
 # <a name="recipients"></a>收件人
 
@@ -25,10 +25,10 @@ ms.locfileid: "39262725"
   
 ## <a name="email"></a>电子邮件
 
-每个 Microsoft Exchange Online 订户将收到一个邮箱，同时为计划设施资源（如会议室）提供专门资源和多用户访问共享电子邮件地址。最大化存储限制适用于大部分邮箱，同时管理员可以控制允许的邮箱大小。自动通知和限制可在用户的邮箱接近或达到最大容量时提醒他们。Exchange Online 还有几种邮件限制类型邮件大小、消息速率和收件人列表限制。以下提供了所有这些功能和限制的详细信息。
+每个 Microsoft Exchange Online 订户将收到一个邮箱，同时为计划设施资源（如会议室）提供专门资源和多用户访问共享电子邮件地址。最大化存储限制适用于大部分邮箱，同时管理员可以控制允许的邮箱大小。自动通知和限制可在用户的邮箱接近或达到最大容量时提醒他们。Exchange Online 还有几种邮件限制类型—邮件大小、消息速率和收件人列表限制。以下提供了所有这些功能和限制的详细信息。
   
 > [!NOTE]
-> Exchange Online 不再支持 Catch-all 地址。由于收件人进行就地筛选以阻止潜在垃圾邮件，所以您的 Office 365 中不存在的电子邮件地址将被拒绝。 
+> Exchange Online 不再支持 Catch-all 地址。 由于收件人筛选功能可防止潜在的垃圾邮件，因此组织中不存在的电子邮件地址将被拒绝。 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>邮箱类型、存储限制和容量警报
 
@@ -36,7 +36,7 @@ ms.locfileid: "39262725"
   
 有关详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)主题中的 "邮箱存储限制" 和 "容量警报" 部分。
   
-### <a name="mailtips"></a>邮件提示
+### <a name="mailtips"></a>MailTips
 
 邮件提示是当用户正在撰写或定址邮件时自动显示在"收件人:"行上方的参考信息。旨在帮助防止意外发送、违反政策或生成不必要的未送达报告 (NDR)。例如，如果发件人尝试向超大组、包含外部收件人的组或被审阅或限制的通讯组发送邮件，邮件提示可以生成警报。有关详细信息，请参阅 [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472)（邮件提示）。
   
@@ -153,7 +153,7 @@ Exchange Online 包括资源预订助理 (RBA)，这将自动计划会议室和�
 
 用户可以使用以下两种方法之一共享他们的个人日历：
   
-- **联合日历共享** 联合身份验证指支持"联盟共享"（Exchange 用户与其他外部联盟组织中的收件人共享闲/忙日历数据和联系人信息的一种简单方法）的基本信任基础结构。 这包括 Exchange Online 组织或运行 Exchange Server 2010 或 Exchange Server 2013 内部部署的组织。 Exchange Online 管理员无需设置与 Microsoft 联合网关的信任，因为在创建 Office 365 租户服务时已为所有 Exchange Online 客户预配置该信任。 默认共享策略允许用户从 web 或 Outlook 2010 发送来自 Outlook 的日历共享邀请。 管理员使用远程 Windows PowerShell 禁用该策略，或配置用户可以共享的闲/忙日历数据级别。 管理员还可以创建与另一个联合组织的组织对组织关系，这允许所需闲/忙信息级别对跨组织的每个用户可见，而无需单个用户进行共享邀请。 在管理员定义的共享策略和/或组织对组织关系范围内，用户可以单独进一步限制他们共享的详细信息。 
+- **联合日历共享** 联合身份验证指支持"联盟共享"（Exchange 用户与其他外部联盟组织中的收件人共享闲/忙日历数据和联系人信息的一种简单方法）的基本信任基础结构。 这包括 Exchange Online 组织或运行 Exchange Server 2010 或 Exchange Server 2013 内部部署的组织。 Exchange Online 管理员无需设置与 Microsoft 联合网关的信任，因为在创建 Microsoft 服务时，将为所有 Exchange Online 客户预配置此信任。 默认共享策略允许用户从 web 或 Outlook 2010 发送来自 Outlook 的日历共享邀请。 管理员使用远程 Windows PowerShell 禁用该策略，或配置用户可以共享的闲/忙日历数据级别。 管理员还可以创建与另一个联合组织的组织对组织关系，这允许所需闲/忙信息级别对跨组织的每个用户可见，而无需单个用户进行共享邀请。 在管理员定义的共享策略和/或组织对组织关系范围内，用户可以单独进一步限制他们共享的详细信息。 
     
 - **Internet 日历共享** Exchange Online 允许用户使用 iCal 格式发布他们的日历，以由组织内外的任何人匿名访问。 收件人可以使用 Exchange（另一个平台）或仅仅使用 Web 浏览器。 Exchange Online 用户也可以通过 iCal 订阅其他人已发布到 internet 位置的日历。 该个人日历共享与联合日历共享不同，它由管理员配置并提供组织对组织的闲/忙共享。 任何用户都不能以 iCal 格式发布日历数据，直到管理员设置并应用了允许它的共享策略。 管理员可以使用远程 Windows PowerShell，禁用组织用户的 iCal 发布和 iCal 订阅。
     
@@ -169,5 +169,5 @@ Exchange Online 支持 Outlook 2010 的会议室查找工具功能，它可将�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: 以下配置文件功能在 Yammer 中可用。
-ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 88203bd0a62a8094596a3719e5dc3eff09cd6e31
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687808"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640010"
 ---
 # <a name="profile-features-in-yammer"></a>Yammer 中的个人资料功能
 
@@ -49,6 +49,6 @@ ms.locfileid: "42687808"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: 以下管理和安全功能在 Yammer 中可用。
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263194"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640080"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的管理和安全功能
 
@@ -55,10 +55,10 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="network-migration"></a>网络迁移
 
-将多个 Yammer 网络合并成一个。有关详细信息，请参阅[网络迁移：合并多个 Yammer 网络](https://go.microsoft.com/fwlink/?LinkID=617488)。
+将多个 Yammer 网络合并成一个。 有关详细信息，请参阅[网络迁移：合并多个 Yammer 网络](https://go.microsoft.com/fwlink/?LinkID=617488)。
   
 > [!NOTE]
-> 不支持在 Office 365 租户之间迁移 Yammer 网络。 
+> 不支持跨计划迁移 Yammer 网络。 
 
 ## <a name="organization-resources"></a>组织资源
 
@@ -74,7 +74,7 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="single-identity"></a>单一标识
 
-如果选择 Yammer 作为组织的 Office 365 中的默认社交体验，则会将员工映射到其现有的 Yammer 帐户。 这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。 当员工从 Office&mdash;365、yammer 移动应用中访问 yammer 或浏览到 Yammer.com&mdash;时，他们将根据现有组织凭据自动登录。
+当您选择 Yammer 作为组织的默认社交体验时，员工将映射到其现有的 Yammer 帐户。 这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。 当员工从 Office&mdash;365、yammer 移动应用中访问 yammer 或浏览到 Yammer.com&mdash;时，他们将根据现有组织凭据自动登录。
 
 ## <a name="usage-policy"></a>使用策略
 
@@ -86,6 +86,6 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Yammer 服务说明](yammer-service-description.md)。
   
 

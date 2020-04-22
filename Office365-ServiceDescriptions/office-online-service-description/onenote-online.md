@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: 使用 onenote for web （以前称为 OneNote Web App）在 OneNote 笔记本中进行联机笔记，可以从任意位置添加笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: 使用 onenote for web （以前称为 OneNote Web App）在 OneNote 笔记本中进行联机笔记，可以从任意位置添加笔记并轻松地与其他人共享。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687964"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640220"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 网页版
 
-使用 onenote for web （以前称为 OneNote Web App）在 OneNote 笔记本中进行联机笔记，可以从任意位置添加笔记并轻松地与其他人共享。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。 
+使用 onenote for web （以前称为 OneNote Web App）在 OneNote 笔记本中进行联机笔记，可以从任意位置添加笔记并轻松地与其他人共享。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 
@@ -122,7 +122,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
 
 使用适用于 web 的 OneNote，可以从文件或必应图像插入图片。 还可以调整图片大小并添加可选文字。 若要使用更多高级图片功能（如屏幕剪辑、扫描图像或联机图片），需要使用 OneNote 桌面应用程序。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="print"></a>Print
+## <a name="print"></a>打印
 
 你可以在 OneNote 中为 web 打印笔记。
   
@@ -142,7 +142,7 @@ OneNote for web 在用户键入时自动检查拼写，并对拼写错误的文�
 
 在 OneNote for web 中不可用。 高级搜索功能（例如按标记、标题、作者/日期和音频文件搜索）仅在 OneNote 桌面应用程序中可用。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 
 如果你已将 OneNote 笔记本保存在 SharePoint 文档库中，则 OneNote 笔记本处于联机状态。 也就是说，可以通过发送链接进行共享，而无需使用电子邮件附件。 通过选择该链接，用户可以在其 web 浏览器中阅读你的笔记。 详细了解如何[联机共享 OneNote 笔记](https://go.microsoft.com/fwlink/p/?LinkID=272945)。
   
@@ -154,7 +154,7 @@ OneNote for web 在用户键入时自动检查拼写，并对拼写错误的文�
 
 使用 OneNote for web，您可以轻松地应用文本样式以快速设置格式。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
-## <a name="tables"></a>表
+## <a name="tables"></a>表格
 
 使用适用于 web 的 OneNote，可以插入表格、编辑表格文本并轻松编辑基本表格结构，例如添加或删除行和列。 若要使用更多高级表格功能（如将表格转换成 Excel 电子表格，或在表格单元格中使用单元格底纹、标题行和数据排序），需要使用 OneNote 桌面应用程序。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
@@ -176,6 +176,6 @@ OneNote for web 在用户键入时自动检查拼写，并对拼写错误的文�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性功能。
-ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687956"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638916"
 ---
 # <a name="project-publishing"></a>Project 发布
 
@@ -51,6 +51,6 @@ Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online service description](project-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online 服务说明](project-online-service-description.md)。
   
 

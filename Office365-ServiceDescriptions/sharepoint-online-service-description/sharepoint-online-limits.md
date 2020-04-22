@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: 了解 Office 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609973"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638918"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -24,7 +24,7 @@ ms.locfileid: "42609973"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Office 365 业务重点或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Microsoft 365 业务基本或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Office 365 企业版 F3** <br/> |
 |每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每个站点的最大存储（网站集）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每个组织的网站（网站集）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
@@ -32,7 +32,7 @@ ms.locfileid: "42609973"
    
 <sup>1</sup> [了解如何查找组织的总存储空间和可用存储空间](/sharepoint/manage-site-collection-storage-limits)。 您可以购买不受限制的额外 SharePoint 存储空间。 请参阅[更改订阅的存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
 <br/><sup>2</sup>我们建议您对回收站进行监视并定期清空该回收站。 它使用的存储空间是组织总存储限制的一部分。 
-<br/> <sup>3</sup>如果你有 office 365 订阅和 Office 365 额外文件存储加载项，则会添加存储量。 
+<br/> <sup>3</sup>如果你有 Microsoft 365 订阅和 Office 365 额外文件存储加载项，则会添加存储量。 
 <br/> <sup>4</sup>这是单个网站（之前称为 "网站集"）的存储*限制*，而不是为每个网站*提供*的存储量。 此限制适用于所有类型的网站，包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以[手动设置较低的存储限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
 <br/> <sup>5</sup> Firstline 工作线程无法管理 SharePoint 网站。 
 <br/> <sup>6</sup>不包含为每个许可的用户创建的 OneDrive。 

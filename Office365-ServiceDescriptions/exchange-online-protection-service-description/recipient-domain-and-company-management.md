@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection （EOP）提供了几种管理您的收件人、域和公司信息的方法。 作为管理员，您可以在 Exchange 管理中心（EAC）内执行某些管理任务，并验证在 Microsoft 365 管理中心中执行的其他管理任务。
-ms.openlocfilehash: 1183a90754edc2bab698fb4d8d8b97acff90370c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dcd039eab77c1b9df638df5ac3a3e5f6373e852d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687831"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640260"
 ---
 # <a name="recipient-domain-and-company-management"></a>收件人、域和公司管理
 
@@ -41,12 +41,12 @@ Microsoft Exchange Online Protection （EOP）提供了几种管理您的收件�
 
 在 EOP 中，可以启用流向托管域的子域的邮件流。有关详细信息，请参阅[在 EOP 中为子域启用电子邮件流](https://go.microsoft.com/fwlink/p/?LinkId=397213)。 
   
-## <a name="directory-based-edge-blocking-dbeb"></a>Directory Based Edge Blocking (DBEB)
+## <a name="directory-based-edge-blocking-dbeb"></a>基于目录的边缘阻止 (DBEB)
 
-通过基于目录的边缘阻止功能，您可以在服务网络外围拒绝发送至无效收件人的邮件。通过 DBEB，管理员可以向 Office 365 添加已启用邮件的收件人，并阻止发送到 Office 365 中不存在的电子邮件地址的所有邮件。如果邮件发送到 Office 365 中存在的有效电子邮件地址，则会继续通过其余服务筛选层（反恶意邮件、反垃圾邮件、传输规则）。如果地址不存在，服务甚至会在进行筛选之前阻止邮件，并向发件人发送未送达报告 (NDR) 以通知其邮件未送达。 
+通过基于目录的边缘阻止功能，您可以在服务网络外围拒绝发送至无效收件人的邮件。 DBEB 允许管理员将已启用邮件的收件人添加到 Microsoft，并阻止发送到 Microsoft 中不存在的电子邮件地址的所有邮件。 如果将邮件发送到 Microsoft 中存在的有效电子邮件地址，则邮件将继续执行服务筛选层（反恶意软件、反垃圾邮件、传输规则）中的其余部分。 如果地址不存在，服务甚至会在进行筛选之前阻止邮件，并向发件人发送未送达报告 (NDR) 以通知其邮件未送达。 
   
 必须执行一些用户和域配置，才能启用 DBEB。有关详细信息，请参阅[使用基于目录的边缘阻止拒绝发送给无效收件人的邮件](https://go.microsoft.com/fwlink/p/?LinkId=390676)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。

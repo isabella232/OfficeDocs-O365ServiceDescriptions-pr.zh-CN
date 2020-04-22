@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262655"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639990"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>互操作性、连接性和兼容性
 
@@ -36,7 +36,7 @@ ms.locfileid: "39262655"
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-对于已经部署 Microsoft SharePoint Server 或 SharePoint Online 作为 Office 365 订阅计划一部分的客户来说，SharePoint 可以作为集成服务连接到 Exchange Online。
+对于已部署 Microsoft SharePoint Server 或 SharePoint Online 作为订阅计划一部分的客户，SharePoint 可以连接到 Exchange Online 以获取集成服务。
   
 若要详细了解如何将 SharePoint 连接到 Exchange Online，请参阅 [Use SharePoint Online on a custom domain together with other services](https://go.microsoft.com/fwlink/?LinkId=271805)（在自定义域上结合使用 SharePoint Online 与其他服务）。
   
@@ -58,6 +58,6 @@ Exchange Online 可以作为 SMTP 送达服务设置，以中继来自传真网�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

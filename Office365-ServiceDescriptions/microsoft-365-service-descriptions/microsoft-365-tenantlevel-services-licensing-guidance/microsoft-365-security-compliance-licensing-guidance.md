@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529205"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639800"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -78,7 +78,7 @@ ATP 可保护用户免受复杂攻击（如网络钓鱼和零天恶意软件）�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？ 
 
-Office 365 高级威胁防护、Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 安全性、Microsoft 365 Business 和 Office 365 ATP 计划1和2为用户提供了从 Office 365 高级威胁防护中获益的权限。
+Office 365 高级威胁防护，Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 Security，Microsoft 365 商业高级版和 Office 365 ATP 计划1和2为用户提供了从高级威胁防护中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -102,7 +102,7 @@ OCAS 使组织能够深入了解他们的工作效率云应用和服务，提供
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-OCAS 发现影子它，提供了 Office 365 之间的威胁防护，并可以控制哪些应用有权访问 Office 365 数据。
+OCAS 发现影子它，提供跨 Office 365 的威胁防护，并可以控制哪些应用有权访问数据。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
@@ -288,7 +288,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 E5/A5 信息
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-若要将加密密钥分配给 Office 365 和/或 Microsoft 365 租户中的数据以供许可用户使用，请按照客户密钥加密密钥的部署说明进行操作。
+若要将加密密钥分配给 Office 365 和/或 Microsoft 365 组织中的数据以供许可用户使用，请按照客户密钥加密密钥的部署说明进行操作。
 
 - 对于 SharePoint Online、OneDrive for Business 和团队文件，可以使用客户密钥对一个或多个网站上的文件进行加密。
 
@@ -312,7 +312,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-Microsoft 为 Office 365 组织中的用户提供客户密码箱访问控制审批请求。
+Microsoft 为组织中的用户提供客户密码箱访问控制审批请求。
 
 ## <a name="privileged-access-management-in-office-365"></a>Office 365 中的特权访问管理
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/a/Business、Office 365 E3/A3 和 Office 365 数据丢失
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 "Office 365 安全 & 合规中心" 中的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
+管理员可以在安全 & 合规性中心的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>工作组的通信数据丢失防护
 
@@ -372,7 +372,7 @@ Office 365 E5/A5 的许可用户，Microsoft 365 E5/A5，Microsoft 365 E5/A5 信
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 "Office 365 安全 & 合规中心" 中的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
+管理员可以在安全 & 合规性中心的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
 
 ## <a name="information-barriers"></a>信息屏障
 
@@ -399,13 +399,13 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 E5/A5 信息
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 Office 365 安全 & 合规中心中自定义位置（工作负荷）、包含的用户以及排除的用户。 例如，如果所有用户均为 Office 365 E3 许可，并且没有许可 Office 365 高级合规性/E5，则无需为组织创建任何信息障碍策略。 有关详细信息，请参阅[Microsoft 团队中的信息障碍](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)。
+管理员可以在安全 & 合规中心中自定义位置（工作负载）、包含的用户以及排除的用户。 例如，如果所有用户均为 Office 365 E3 许可，并且没有许可 Office 365 高级合规性/E5，则无需为组织创建任何信息障碍策略。 有关详细信息，请参阅[Microsoft 团队中的信息障碍](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)。
 
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 
 Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构建的服务，允许您向组织内外发送经加密的电子邮件，而无需考虑目标电子邮件地址（Gmail、Yahoo!Mail、Outlook.com 等）。
 
-若要查看加密邮件，收件人可以使用一次性密码、通过 Microsoft 帐户登录或使用与 Office 365 关联的工作或学校帐户登录。 此外，收件人也可发送加密回复。 他们无需 Office 365 订阅就可以查看加密邮件或发送加密回复。
+若要查看加密邮件，收件人可以使用一次性密码、通过 Microsoft 帐户登录或使用与 Office 365 关联的工作或学校帐户登录。 此外，收件人也可发送加密回复。 他们不需要订阅即可查看加密邮件或发送加密回复。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

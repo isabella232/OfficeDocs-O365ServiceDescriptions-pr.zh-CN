@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: 以下任务管理功能在 Project Online 中可用。
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546095"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640270"
 ---
 # <a name="task-management"></a>任务管理
 
@@ -29,7 +29,7 @@ ms.locfileid: "42546095"
 
 停用任务后，任务仍会保留在项目计划中，但不会影响资源可用性、项目日程安排或其他任务的日程安排。详细了解如何[停用任务](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
   
-## <a name="auto-complete"></a>Auto-complete
+## <a name="auto-complete"></a>自动完成
 
 键入任务或资源名称时，获得其相关建议。 
   
@@ -67,5 +67,5 @@ ms.locfileid: "42546095"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online service description](project-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online 服务说明](project-online-service-description.md)。
   

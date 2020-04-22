@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft Office 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959320"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640280"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
-PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft Office 365 客户可以在旅途中查看、创建和编辑文件。
+PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
   
 PowerPoint 编辑器是一个 web 前端组件，可创建基于浏览器的编辑图面，使用户可以在不丢失保真度的情况下处理文档。
   
 如果选择 "PowerPoint for the web" 工具栏上的 "**在 powerpoint 中打开**" 按钮，演示文稿将在 powerpoint 桌面应用程序中打开（如果计算机上安装了 Microsoft PowerPoint 2010 或更高版本）。
   
-了解如何[在电脑上使用 office 365 for business 下载和安装 office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
+了解如何[在电脑上使用 Microsoft 365 for business 下载和安装 Office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
@@ -171,7 +171,7 @@ PowerPoint for web 在您每次进行更改时都保存您的工作。 没有 "*
 
 无法在 PowerPoint for web 中插入艺术字和图表，但 PowerPoint for web 将按预期方式显示它们。 在"编辑"视图中，编辑文本并设置其格式。 如果要将文本效果应用于艺术字，则需要使用 Microsoft PowerPoint 桌面应用程序。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 
 如果将演示文稿保存在 SharePoint 文档库中，演示文稿会处于联机状态，可以通过发送链接（而非电子邮件附件）进行共享。拥有适当权限的人员可以在其 Web 浏览器或移动设备上查看演示文稿。详细了解如何[共享演示文稿](https://go.microsoft.com/fwlink/?LinkId=272776)。
   
@@ -211,4 +211,4 @@ PowerPoint for web 在全屏幕窗口中播放幻灯片放映。 按下空格键
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。 
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。 

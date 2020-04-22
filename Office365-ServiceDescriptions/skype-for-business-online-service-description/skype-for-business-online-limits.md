@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online 中的限制分为以下几类。
-ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609953"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639700"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -34,7 +34,7 @@ Skype for Business Online 中的限制分为以下几类：
 - [分钟限制](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> 应用于 Office 365 组织的限制可能因组织已在服务中登记的时间长度而异。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 
+> 应用于 Microsoft 365 组织的限制可能会有所不同，具体取决于组织已在服务中注册的时间。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 
   
 ## <a name="peer-to-peer-limits"></a>对等限制
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
@@ -43,11 +43,11 @@ Skype for Business Online 中的限制分为以下几类：
     
 - **打开选项卡式的对话限制** Skype for Business 用户一次可以打开的对话选项卡的最大数量。 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>Office 365 选项之间的对等限制
+### <a name="peer-to-peer-limits"></a>对等限制 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业标准** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
 |文件传输限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |不适用  <br/> |
 |对话限制<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不适用  <br/> |
@@ -81,11 +81,11 @@ Skype for Business Online 中的限制分为以下几类：
     
 - **来宾通过电话加入** 可以通过电话拨入会议的来宾最大数量。 
     
-### <a name="meeting-limits-across-office-365-options"></a>跨 Office 365 选项的会议限制
+### <a name="meeting-limits"></a>会议限制
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 商业协作版** <br/> |**Office 365 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业标准** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
 |文件上载限制  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |不适用  <br/> |
 |参加 Skype for Business 会议<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
 |Skype for Business 会议中的演示者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
@@ -116,7 +116,7 @@ Skype for Business Online 中的限制分为以下几类：
     
 - **会议有效期** 在会议结束后，用户可访问该会议的时间。 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>跨 Office 365 选项和独立计划会议保留限制
+### <a name="meeting-retention-limits-across-plans"></a>跨计划的会议保留限制
 
 > [!NOTE]
 > 每个人在数据库中最多可以有1000个会议。 
@@ -131,5 +131,5 @@ Skype for Business Online 中的限制分为以下几类：
 
 ## <a name="minute-limits"></a>分钟限制
 
-有关 Office 365 国内呼叫计划或 Office 365 国际呼叫计划中的分钟限制的信息，请转到[音频会议和通话套餐的国家/地区可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
+有关国内通话套餐或国际呼叫计划中的分钟限制的信息，请转到[音频会议和通话套餐的国家/地区可用性](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)。
   

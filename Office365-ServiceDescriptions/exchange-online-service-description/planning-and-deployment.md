@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262735"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639960"
 ---
 # <a name="planning-and-deployment"></a>计划和部署
 
@@ -86,7 +86,7 @@ Exchange Online 提供基于 Web 的工具，以从内部部署 Exchange Server 
     
 4. 在完成初始迁移后，会每 24 小时将更改同步到云，直到管理员停止或删除此迁移批次。
     
-要切换用户到云邮箱，管理员可以配置 MX 记录指向 Office 365 并在 Outlook 中重新配置用户配置文件。当用户切换到云邮箱时，将重新同步他们的本地脱机文件夹（.ost 文件），以下载迁移的邮件到客户端工作站。迁移后，用户可以在他们的邮箱中回复旧邮件。
+若要将用户切换到其云邮箱，管理员需要将其 MX 记录配置为指向 Microsoft 并在 Outlook 中重新配置用户的配置文件。 当用户切换到云邮箱时，将重新同步他们的本地脱机文件夹（.ost 文件），以下载迁移的邮件到客户端工作站。 迁移后，用户可以在他们的邮箱中回复旧邮件。
   
 有关直接转换 Exchange 迁移的详细信息，请参阅[有关直接转换电子邮件迁移到 Office 365 您需要了解的信息](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da)。
   
@@ -136,6 +136,6 @@ Microsoft 提供几个工具帮助迁移现有电子邮件环境到 Exchange Onl
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和内部部署解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和内部部署解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
   
 

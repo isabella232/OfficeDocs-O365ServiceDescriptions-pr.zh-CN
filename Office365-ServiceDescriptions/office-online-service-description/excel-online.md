@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687816"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639880"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
-Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有 Office 365 客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
+Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
   
 > [!NOTE]
 > 在 Microsoft SharePoint Online 中，不能在 Excel 中从 Excel 中查看超过 50 mb 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
 
 > [!NOTE]
-> 为帮助您比较提供的服务，本文中所列的高级功能包括只在 Office 套件中提供的 Excel 桌面应用程序功能（例如 Office Professional Plus、Office Standard 或 Office 365 ProPlus）。 有关 web 功能的所有 Office 的列表，如适用于 web 的 Word 和 PowerPoint for web，请参阅[跨 Office 的功能可用性的 web 计划](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。
+> 为帮助您比较优惠，本文中列出的高级功能包括仅适用于 Office 套件的 Excel 桌面应用程序功能（如 Office Professional Plus、Office Standard 或 Microsoft 365 Apps for 企业版）。 有关 web 功能的所有 Office 的列表，如适用于 web 的 Word 和 PowerPoint for web，请参阅[跨 Office 的功能可用性的 web 计划](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。
 
 若要查看 Excel 对 web 所支持的文件类型，请参阅[支持的适用于 web 的 Office 文件类型](office-online-service-description.md#supported-file-types-for-office-for-the-web)。 若要了解有关 web Excel 和 Excel 桌面应用程序之间的差异的详细信息，请参阅在[浏览器和 excel 中使用工作簿之间的差异](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)。
   
@@ -244,7 +244,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 您可以在工作簿中查看 Power View 工作表并与之交互，但不能使用 Excel for web 来创建 Power View。 只能使用桌面应用程序进行 Power View 创建。 Power View 允许你在可进行展示的交互式视图中创建、共享和探索数据。 查看在一个工作表中彼此相链接的交互式地图、图表和表中的信息。 了解有关 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674) 的详细信息。
   
-## <a name="print"></a>Print
+## <a name="print"></a>打印
 
 使用 Excel for web 中的 "打印" 命令将整个工作表或当前所选内容发送到打印机。 了解有关[如何在 Excel for web 中打印](https://go.microsoft.com/fwlink/p/?LinkId=271676)的详细信息。
   
@@ -284,7 +284,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 是否想要自己的工作簿副本？使用"文件"选项卡上的"另存为"命令，或右键单击其文件夹中的工作簿名称，使用"下载"命令将副本发送到您的计算机。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 
 单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[如何使用 office for web 在 office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   
@@ -330,7 +330,7 @@ Excel for web 将自动保存您的工作。 如果出错，请使用 "撤消" �
   
 ## <a name="vba-and-macro-scripting"></a>VBA 和宏脚本
 
-Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作、分析和呈现数据。 有时，尽管有一组丰富的功能，但您的组织可能会发现，使用 Visual Basic for Applications （VBA）（一种编程语言）来创建执行常见的重复性任务的宏，或执行用户界面（UI）所执行的一些任务似乎不是地址。 您不能在 Excel for the web 中创建带有 VBA 的宏，但是，您可以打开和编辑启用 VBA 的电子表格，而无需删除（或损坏）文件中包含的 VBA。 了解有关[宏入门的](https://go.microsoft.com/fwlink/p/?LinkId=271678)详细信息。
+Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作、分析和呈现数据。 有时，尽管有丰富的功能集，但您的组织可能会发现，使用 Visual Basic for Applications （VBA）、编程语言，可以创建执行常见的重复性任务的宏，或执行用户界面（UI）不会解决的某些任务。 您不能在 Excel for the web 中创建带有 VBA 的宏，但是，您可以打开和编辑启用 VBA 的电子表格，而无需删除（或损坏）文件中包含的 VBA。 了解有关[宏入门的](https://go.microsoft.com/fwlink/p/?LinkId=271678)详细信息。
   
 ## <a name="view-3d-charts"></a>查看 3D 图表
 
@@ -342,4 +342,4 @@ Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 office](office-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。

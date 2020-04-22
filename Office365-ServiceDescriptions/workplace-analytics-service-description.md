@@ -1,5 +1,5 @@
 ---
-title: Workplace Analytics 服务说明
+title: 工作区分析服务说明
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-midehm
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft 工作区分析为您组织的通信和协作趋势提供了丰富、可操作的见解，可帮助您做出更有效的业务决策。
-ms.openlocfilehash: 55d452bb8fadf9ec4dd4a1f086f0835838184657
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263242"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640100"
 ---
-# <a name="workplace-analytics-service-description"></a>Workplace Analytics 服务说明
+# <a name="workplace-analytics-service-description"></a>工作区分析服务说明
 
 Microsoft 工作区分析为您组织的通信和协作趋势提供了丰富、可操作的见解，可帮助您做出更有效的业务决策。
 
@@ -38,13 +38,13 @@ Microsoft 工作区分析为您组织的通信和协作趋势提供了丰富、�
 
 ## <a name="drive-organizational-change-with-data"></a>对数据进行驱动器组织更改
 
-工作区分析提供了一组丰富的客观数据，以做出更好的业务决策。 引导式浏览仪表板突出显示潜在的问题区域，而灵活的查询则回答有关聘用策略、新组织结构和业务程序的有针对性的业务问题。 使用业务成果信息扩充 Office 365 数据，以建立最佳实践、预测模型和基准。 基于行为数据引入更改计划，并在一段时间内衡量程序的成功。 请联系你的 Microsoft 客户服务代表，了解有关可用于量化业务挑战和实施更改的咨询服务的详细信息。
+工作区分析提供了一组丰富的客观数据，以做出更好的业务决策。 引导式浏览仪表板突出显示潜在的问题区域，而灵活的查询则回答有关聘用策略、新组织结构和业务程序的有针对性的业务问题。 使用业务成果信息扩充数据，以建立最佳实践、预测模型和基准。 基于行为数据引入更改计划，并在一段时间内衡量程序的成功。 请联系你的 Microsoft 客户服务代表，了解有关可用于量化业务挑战和实施更改的咨询服务的详细信息。
 
 ## <a name="privacy-and-compliance-designed-for-you"></a>为你设计的隐私和合规性
 
-工作区分析提供隐私控制以满足你的需求和合规性，以保护你的数据。 客户决定分析和维护对数据聚合和取消识别标准的控制的人口。 工作区分析仅分析 Office 365 元数据。 数据 viewability 和聚合级别基于角色和客户首选项。
+工作区分析提供隐私控制以满足你的需求和合规性，以保护你的数据。 客户决定分析和维护对数据聚合和取消识别标准的控制的人口。 工作区分析仅分析 Microsoft 元数据。 数据 viewability 和聚合级别基于角色和客户首选项。
 
-有关详细信息，请参阅[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492)。 若要了解有关如何使用工作区分析的详细信息，请参阅[Workplace analytics 文档](https://docs.microsoft.com/workplace-analytics/)。
+有关详细信息，请参阅[工作区分析](https://go.microsoft.com/fwlink/?linkid=852492)。 若要了解有关如何使用工作区分析的详细信息，请参阅[Workplace analytics 文档](https://docs.microsoft.com/workplace-analytics/)。
   
 ## <a name="licensing-requirements"></a>许可要求
 

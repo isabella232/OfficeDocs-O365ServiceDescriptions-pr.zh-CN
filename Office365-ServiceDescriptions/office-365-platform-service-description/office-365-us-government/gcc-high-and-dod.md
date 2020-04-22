@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: 为了满足美国国防部的独特和不断发展的要求，以及持有或处理 DoD 控制的未分类信息（CUI）或遵守了 Arm 规章（ITAR）的国际流量的承包商，Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。
-ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
-ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
+description: 了解与 Office 365 商业环境相比的 Office 365 GCC 高和 DoD 环境的独特承诺和差异。
+ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40003957"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639050"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
-为了满足美国国防部的独特和不断发展的要求，以及持有或处理 DoD 控制的未分类信息（CUI）或遵守了 Arm 规章（ITAR）的国际流量的承包商，Microsoft 提供了GCC 高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。 
+为了满足美国国防部的独特和不断发展的要求，以及持有或处理 DoD 控制的未分类信息（CUI）或遵守了 Arm 规章（ITAR）的国际流量的承包商，Microsoft 提供了 GCC 的高和 DoD 环境。 为确保有资格建立环境，感兴趣的组织可以通过批量许可完成验证流程。 暂不提供试用。 
   
 若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。 有关如何购买的详细信息，请参阅[Microsoft 365 政府-如何购买](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。
   
@@ -58,44 +58,21 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
 <sup>1</sup>仅适用于具有临时或有权访问托管在 OFFICE 365 美国 GCC （高或 DOD 云）中的客户内容的人员。
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>基于符合性云体系结构的功能细微
 
-在 GCC 高和 DoD 环境中的 Office 365 订阅包括核心 Exchange Online、SharePoint Online 和 Skype for Business 功能。 如果基础结构的认证和资格鉴定增多，则一般商业版 Office 365 产品与 GCC 高和 DoD 中提供的功能之间存在一些功能差异。
+在 GCC 高和 DoD 环境中的订阅包括核心 Exchange Online、SharePoint 和 Skype for Business 功能。 如果基础结构的认证和资格鉴定增多，则一般商业版 Office 365 产品与 GCC 高和 DoD 中提供的功能之间存在一些功能差异。
   
 ### <a name="exchange-online"></a>Exchange Online
 
  **适用于本地 ip-pbx 的 Exchange Online 统一消息支持**-支持将本地 IP-pbx 系统与 Exchange Online 统一消息集成在 GCC 高级和 DoD 订阅中不受支持。 
   
-### <a name="sharepoint-online"></a>SharePoint Online
+### <a name="file-sharing"></a>文件共享
 
- **文档共享**-SharePoint Online 和 OneDrive for business 实现了用户和团队之间的无缝信息共享和协作。 文档所有者可以通过 web 界面或 Outlook 中的新式附件向其他用户提供对其文档的访问权限。 共享文档时，有多个选项可用于管理权限： 
-  
-1. 仅我
-    
-2. 公司内的任何人
-    
-3. 具有此链接的任何人
-    
-4. 特定人员
-    
-在 GCC 高或 DoD 环境中使用 SharePoint Online 和 OneDrive for business 的客户可以让文档保持专用（第一个选项），与组织中的任何人共享（第二个选项），与任何有该文档链接的人共享（第三个选项），以及与特定人员共享（第四个选项）。 这些选项也可以基于租户级别的访问控制进行限制。
+用户可以使用多个选项在 SharePoint 和 OneDrive 中共享文件和文件夹。 所有选项在 GCC 的高和 DoD 环境中都可用。 若要了解有关管理这些选项的信息，请参阅[管理共享设置](/sharepoint/turn-external-sharing-on-or-off)。 当用户使用 "特定人员" 选项共享，并选择组织外部的人员时，SharePoint 通常会在电子邮件中发送验证代码。 收件人需要输入代码才能访问共享项目。 当 GCC 高组织中的用户与非 GCC 的高组织中的人员共享时，也是如此，反之亦然。 （有关外部共享体验的详细信息，请参阅[当用户共享时会发生什么情况](/sharepoint/external-sharing-overview#what-happens-when-users-share)。）但是，当一个 GCC-高组织中的用户与另一个 GCC-高组织中的人员共享时，将在 Azure AD 中为该收件人创建来宾帐户，并且他们将使用用户名和密码登录。 
 
-当与特定人员共享时，SharePoint 将验证用户是否为链接的预期收件人，方法是向其发送一次性密码到共享的电子邮件地址。 但是，当与另一个 GCC-高租户共享 GCC 高租户时，将在 Azure AD 中为该收件人创建来宾帐户，并且他们将使用用户名和密码登录。
+[文件请求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)不适用于 Office 365 政府版。
+
+此外，不支持附加到用户配置文件的非 GCC 高电子邮件地址，也不允许发送警报电子邮件。 例如，在本地用户 A 分配了 Gmail 电子邮件地址，然后同步到 Azure GCC 高组织。 用户 A 导航到库并为任何更改创建警报。 将不会向 Gmail 地址发送通知。
   
-其他示例：
-  
-- GCC High 租户 A 可以与 GCC 高租户 B 共享，而 B 用户使用 Azure AD 用户名和密码登录。
-    
-- 非 GCC 高租户 C 可以与 GCC 高租户 A 或 B 共享，A 或 B 用户使用一次性密码进行登录。
-    
-- GCC High 租户 A 或 B 可以与非 GCC 高租户 C 共享，而 C 用户则使用一次性密码登录。
-    
-此外，不支持附加到用户配置文件的非 GCC 高电子邮件地址，也不允许发送警报电子邮件。 例如，在本地用户 A 分配了 Gmail 电子邮件地址，然后同步到 Azure GCC High 租户。 用户 A 导航到库并为任何更改创建警报。 将不会向 Gmail 地址发送通知。
-  
- **外部应用程序访问**-与外部应用程序（如外接程序的数据源）的连接仅限于位于 GCC High and DoD 支持的系统安全边界内的源。 
-  
- **Business Connectivity Services** -BCS 功能受支持的连接方案，其中数据源在云服务的安全边界内仍可访问。 
-  
- **沙盒解决方案**-此功能已被弃用，不可用。 应将任何沙盒解决方案迁移到[SharePoint 加载项扩展性模型]( https://msdn.microsoft.com/library/office/fp179930.aspx)。
-  
+
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **PSTN 呼叫&amp; pstn 会议**-由于需要使用面向电话服务的公用电话交换网（PSTN），因此在 GCC 高和 DOD 中，Pstn &amp;呼叫 pstn 会议服务目前不可用。
@@ -105,7 +82,7 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
 **电话系统和音频会议（通过直接路由）**：通过直接路由传递针对 GCC 高和 DoD 环境的电话系统和音频会议。 有关详细信息，请参阅此处的服务级别文档：
 
 - [通过直接路由的电话系统](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
-- [适用于 GCC 高和 DoD 的直接路由的音频会议](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+- [适用于 GCC High 和 DoD 且含直接路由的音频会议](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
 ### <a name="identity"></a>标识
 
