@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
+ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640000"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43790453"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -360,7 +360,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件速率限制|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|
 
 > [!NOTE]
-> <sup>1</sup>达到收件人速率限制后，将无法从邮箱发送邮件，直到在过去24小时内发送的邮件的收件人数低于限制。 例如，用户在 09:00 AM 向5000收件人发送一封电子邮件，然后将另一封邮件发送给2，在 10:00 AM 为1000个收件人发送一封邮件，然后将另一封邮件发送给2500收件人（采用 11:00 AM），从而达到10000邮件的限制。 用户将无法再次发送邮件，直到下一天的 09:00 AM。
+> <sup>1</sup>达到收件人速率限制后，将无法从邮箱发送邮件，直到在过去24小时内发送的邮件的收件人数低于限制。 例如，用户在 09:00 am 向5000收件人发送一封电子邮件，然后将另一封2500邮件发送给在上午10:00 的收件人，然后将另一封邮件发送给位于 2500 AM 的11:00 收件人，从而达到10000邮件的限制。 用户将无法再次发送邮件，直到下一天的 09:00 AM。
 > <sup>2</sup>可以为现有邮箱和将来将创建的新邮箱自定义介于1和1000之间的收件人限制。 使用 Exchange 管理中心单独或批量编辑现有邮箱的收件人限制，并通过远程 PowerShell 自定义新邮箱的默认设置。 有关详细信息，请参阅[Office 365 中的可自定义收件人限制](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)。
 
 #### <a name="sending-limits-across-standalone-options"></a>跨独立选项的发送限制
@@ -434,7 +434,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |限制向大型通讯组发送邮件|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|
 |拥有 5,000 到 99,999 个成员的分配组的最大邮件大小|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |拥有 100,000 个成员的分配组的最大邮件大小|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|通讯组所有者的最大数量|10 |10 |10 |10 |10 |10 |
+|通讯组所有者的最大数量|10  |10  |10  |10  |10  |10  |
 |用户可创建的组的最大数目|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -447,7 +447,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |通讯组成员的最大数目|100,000 个成员<sup>1</sup>|100,000 个成员|100,000 个成员|100,000 个成员|
 |限制向大型通讯组发送邮件|5,000 个成员或更多成员<sup>1</sup>|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|
-|通讯组所有者的最大数量|10 |10 |10 |10 |
+|通讯组所有者的最大数量|10  |10  |10  |10  |
 |用户可创建的组的最大数目|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
