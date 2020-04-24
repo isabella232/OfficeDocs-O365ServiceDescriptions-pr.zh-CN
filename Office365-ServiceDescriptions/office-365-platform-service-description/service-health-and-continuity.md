@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理员可以查看服务的状态，并了解何时安排了维护。 服务运行状况信息随时通过登录提供。
-ms.openlocfilehash: 6ac04087599b2ddbe212a1f292b06b7d5b22a378
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
+ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640231"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796713"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -43,6 +43,13 @@ Microsoft 管理员可以查看服务的状态，并了解何时安排了维护�
 ### <a name="recent-worldwide-uptimes"></a>最近的全球保障
 
 移动到云服务并不意味着能够知道即将发生的情况。 在 Office 365 中，它不会。 我们在操作中的目标是透明的，因此您可以监视服务的状态，跟踪问题，并提供可用性的历史视图。 下表显示了最近的全球正常运行时间数据。
+
+<br/>
+
+|**2020 年** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
+| 99.98% <br/> | <br/> | <br/> |<br/> |
 
 <br/>
 
