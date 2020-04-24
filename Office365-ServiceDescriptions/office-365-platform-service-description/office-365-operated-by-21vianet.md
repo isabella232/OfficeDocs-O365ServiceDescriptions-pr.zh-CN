@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
+ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639850"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43800618"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -1084,7 +1084,6 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 - 精品
 - 播放我的电子邮件
 - 外接程序
-- 组
 - 智能回复
 - Office 源
 - 保留时间
@@ -1109,30 +1108,30 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |**核心功能（桌面客户端）**||||||
 |[Add columns](../project-online-service-description/core-functionality.md#add-columns)|否|可访问|是|是|否|
 |[Backstage](../project-online-service-description/core-functionality.md#backstage)|否|可访问|是|是|否|
-|[即点即用](../project-online-service-description/core-functionality.md#click-to-run)|否|可访问|是|是|否|
-|[Contextual right-click menus](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|否|可访问|是|是|否|
-|[Custom fields](../project-online-service-description/core-functionality.md#custom-fields)|否|可访问|是|是|否|
-|[Enhanced copy and paste across Microsoft Office applications](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|否|可访问|是|是|否|
+|[即点即用](../project-online-service-description/core-functionality.md#click-to-run)|否|可访问|是|可访问|否|
+|[Contextual right-click menus](../project-online-service-description/core-functionality.md#contextual-right-click-menus)|否|可访问|是|可访问|否|
+|[Custom fields](../project-online-service-description/core-functionality.md#custom-fields)|否|可访问|是|可访问|否|
+|[Enhanced copy and paste across Microsoft Office applications](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|否|可访问|是|可访问|否|
 |[Gantt chart, calendar, and task sheet views](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|否|可访问|是|可访问|否|
-|[Microsoft Fluent user interface, the ribbon](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|否|可访问|是|是|否|
-|[Multiple-level undo](../project-online-service-description/core-functionality.md#multiple-level-undo)|否|可访问|是|是|否|
-|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|否|可访问|是|是|否|
+|[Microsoft Fluent user interface, the ribbon](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|否|可访问|是|可访问|否|
+|[Multiple-level undo](../project-online-service-description/core-functionality.md#multiple-level-undo)|否|可访问|是|可访问|否|
+|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|否|可访问|是|可访问|否|
 |[Office 应用商店](../project-online-service-description/core-functionality.md#office-store)|否|否|否|否|否|
-|[Online help](../project-online-service-description/core-functionality.md#online-help)|否|可访问|是|是|否|
-|[PDF and XPS output](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|否|可访问|是|是|否|
+|[Online help](../project-online-service-description/core-functionality.md#online-help)|否|可访问|是|可访问|否|
+|[PDF and XPS output](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|否|可访问|是|可访问|否|
 |[Placeholder text in Project fields](../project-online-service-description/core-functionality.md#placeholder-text-in-project-fields)|否|可访问|是|是|否|
 |[Project templates](../project-online-service-description/core-functionality.md#project-templates)|否|可访问|是|是|否|
 |[Start experience](../project-online-service-description/core-functionality.md#start-experience)|否|可访问|是|可访问|否|
 |[Text wrap](../project-online-service-description/core-functionality.md#text-wrap)|否|可访问|是|是|否|
-|[日程表视图](../project-online-service-description/core-functionality.md#timeline-view)||是|是|是|否|
-|[Zoom controls](../project-online-service-description/core-functionality.md#zoom-controls)|否|可访问|是|是|否|
+|[日程表视图](../project-online-service-description/core-functionality.md#timeline-view)||是|是|可访问|否|
+|[Zoom controls](../project-online-service-description/core-functionality.md#zoom-controls)|否|可访问|是|可访问|否|
 |**项目规划（桌面客户端）**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[Baseline rollup](../project-online-service-description/project-planning.md#baseline-rollup)|否|可访问|是|是|否|
+|[Baseline rollup](../project-online-service-description/project-planning.md#baseline-rollup)|否|可访问|是|可访问|否|
 |[Budget planning](../project-online-service-description/project-planning.md#budget-planning)|否|可访问|是|是|否|
 |[Compare project versions](../project-online-service-description/project-planning.md#compare-project-versions)|否|可访问|是|是|否|
 |[Deadlines](../project-online-service-description/project-planning.md#deadlines)|否|可访问|是|是|否|
 |[筛选](../project-online-service-description/project-planning.md#filtering)|否|可访问|是|是|否|
-|[Formulas and graphical indicators](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators)|否|可访问|是|可访问|否|
+|[Formulas and graphical indicators](../project-online-service-description/project-planning.md#formulas-and-graphical-indicators)|否|可访问|是|是|否|
 |[Group and sort Project data](../project-online-service-description/project-planning.md#group-and-sort-project-data)|否|可访问|是|是|否|
 |[报表](../project-online-service-description/project-planning.md#reports)|否|可访问|是|是|否|
 |[Team Planner](../project-online-service-description/project-planning.md#team-planner)|否|可访问|是|是|否|
@@ -1158,38 +1157,38 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |**项目发布（桌面客户端）**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
 |[Create a Project site](../project-online-service-description/project-publishing.md#create-a-project-site)|否|可访问|是|是|否|
 |[Master projects on SharePoint](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|否|可访问|是|是|否|
-|[Presence with Skype for Business](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|否|可访问|是|可访问|否|
+|[Presence with Skype for Business](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|否|可访问|是|是|否|
 |[将项目发布到 Project Server 或 Project Online](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|否|可访问|是|是|否|
-|[将 Project MPP 文件保存到 SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|否|可访问|是|是|否|
-|[任务列表同步到 SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|否|可访问|是|是|否|
+|[将 Project MPP 文件保存到 SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|否|是|是|是|否|
+|[任务列表同步到 SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|否|是|是|是|否|
 |**核心服务功能**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
 |[Active Directory 集成](../project-online-service-description/core-services-functionality.md#active-directory-integration)|是<sup>1</sup>|是|可访问|否|可访问|
-|[管理、部署和扩展性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|是|否|是|
-|[入门](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|是|否|是|
-|[问题和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|是|否|是|
+|[管理、部署和扩展性](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|否<sup>2</sup>|是|可访问|否|是|
+|[入门](../project-online-service-description/core-services-functionality.md#getting-started)|是|是|可访问|否|是|
+|[问题和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|是|是|可访问|否|是|
 |[Office 365 信任中心](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|否|否|否|不适用|不适用|
-|[PPM Partner ecosystem](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|是|否|是|
+|[PPM Partner ecosystem](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|是|是|可访问|否|是|
 |[Service reliability](../project-online-service-description/core-services-functionality.md#service-reliability)|是|是|是|不适用|不适用|
 |[服务更新](../project-online-service-description/core-services-functionality.md#service-updates)|是|是|是|不适用|不适用|
 |[团队成员协作](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|是|是|可访问|否|是|
 |[时间和风险管理（适用于团队成员）](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|是|是|可访问|否|是|
 |**项目管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[问题和风险管理](../project-online-service-description/project-management.md#issues-and-risk-management)|否|可访问|可访问|否|是|
-|[管理项目资源](../project-online-service-description/project-management.md#manage-project-resources)|否|可访问|可访问|否|是|
-|[计划管理](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|否|可访问|是|是|是|
-|[时间和任务管理](../project-online-service-description/project-management.md#time-and-task-management)|否|可访问|可访问|否|是|
+|[问题和风险管理](../project-online-service-description/project-management.md#issues-and-risk-management)|否|是|可访问|否|可访问|
+|[管理项目资源](../project-online-service-description/project-management.md#manage-project-resources)|否|可访问|可访问|否|可访问|
+|[计划管理](../project-online-service-description/project-management.md#reporting-and-business-intelligence)|否|是|是|是|是|
+|[时间和任务管理](../project-online-service-description/project-management.md#time-and-task-management)|否|是|可访问|否|可访问|
 |**项目组合管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
-|[对项目进行分析和优化产品组合](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|否|否|必需|否|是|
-|[创建和编辑项目](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|否|可访问|可访问|否|是|
+|[对项目进行分析和优化产品组合](../project-online-service-description/portfolio-management.md#analyze-projects-and-optimize-portfolio)|否|否|必需|否|可访问|
+|[创建和编辑项目](../project-online-service-description/portfolio-management.md#create-and-edit-projects)|否|是|可访问|否|可访问|
 |[财务管理](../project-online-service-description/portfolio-management.md#financial-management)|否|否|必需|否|可访问|
 |[参与工作流](../project-online-service-description/portfolio-management.md#participate-in-workflow)|否|可访问|可访问|否|是|
 |[项目组合的分析与选择](../project-online-service-description/portfolio-management.md#portfolio-analytics-and-selection)|否|否|必需|否|是|
-|[方案管理](../project-online-service-description/portfolio-management.md#program-management)|否|否|必需|否|是|
+|[方案管理](../project-online-service-description/portfolio-management.md#program-management)|否|否|必需|否|可访问|
 |**报告和商业智能**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
 |[OData 数据源](../project-online-service-description/reporting-and-business-intelligence.md#odata-feeds)|否|可访问|可访问|否|可访问|
 |[现成的项目组合仪表板](../project-online-service-description/reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards)|否|否|必需|否|否|
 |Power BI 内容包|否|否|必需|否|否|
-|[Project 桌面报表](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|否|可访问|是|可访问|否|
+|[Project 桌面报表](../project-online-service-description/reporting-and-business-intelligence.md#project-desktop-reporting)|否|是|是|可访问|否|
 |**资源管理**|**适于由世纪互联运营的 Office 365 的 Project Online 协作版**|**适于由世纪互联运营的 Office 365 的 Project Online Professional**|**适于由世纪互联运营的 Office 365 的 Project Online Premium**|**适于由世纪互联运营的 Office 365 的 Project Professional 2016**|**适于由世纪互联运营的 Office 365 的 Project Server 2016**|
 |[批准/拒绝/修改传入资源预订请求](../project-online-service-description/resource-management.md#approverejectmodify-incoming-resource-engagement-requests)|否|否|必需|否|是|
 |[管理资源池](../project-online-service-description/resource-management.md#manage-resource-pool)|否|否|必需|否|可访问|
