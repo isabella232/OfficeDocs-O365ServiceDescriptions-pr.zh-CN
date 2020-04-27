@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609873"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639870"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -44,10 +44,10 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 
 **1 TB**
 
-- Office 365 商业协作版
-- Office 365 商业版
-- Office 365 商业高级版
-- Office 365 专业增强版
+- Microsoft 365 商业基础版
+- Microsoft 365 商业应用版
+- Microsoft 365 商业标准版
+- Microsoft 365 企业应用版
 - Office 365 企业版 E1
 - Office 365 政府版 G1
 - Office 365 非盈利商业协作版
@@ -55,7 +55,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 - Office 365 非营利版 E1
 - OneDrive for Business 计划 1
 - SharePoint Online 计划 1
-- Microsoft 365 商业版
+- Microsoft 365 商业高级版
 
 **超过 1 TB，不设上限**
  
