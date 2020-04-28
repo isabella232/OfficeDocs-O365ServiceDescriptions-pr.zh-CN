@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 870e30135f7537f898f5550c6e45f5c8eb92b743
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639800"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914768"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -28,7 +28,7 @@ ms.locfileid: "43639800"
 
 若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
 Azure Active Directory 标识保护（AADIP）是 Azure Active Directory 高级 P2 计划的一项功能，可让您检测影响组织标识的潜在漏洞，配置对检测到的与您组织的标识相关的可疑操作的自动响应，并调查可疑事件并采取适当的措施来解决这些问题。
 
@@ -119,7 +119,7 @@ Office 365 E5/A5/G5 为用户提供了从 OCAS 获益的权限。
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅[作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
 
 Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并&mdash;允许他们控制数据在任何云应用中的传输方式。
 
@@ -175,7 +175,7 @@ Microsoft Defender ATP 管理员可以利用[基于角色的访问控制（RBAC�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-用户优势在于能够将灵敏度标签手动应用于其内容，也可以通过将其内容自动分类。
+用户可以通过将灵敏度标签手动应用于其内容或通过将其内容自动分类来获得好处。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
@@ -314,7 +314,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性�
 
 Microsoft 为组织中的用户提供客户密码箱访问控制审批请求。
 
-## <a name="privileged-access-management-in-office-365"></a>Office 365 中的特权访问管理
+## <a name="privileged-access-management-in-office-365"></a>Office 365 中的 Privileged Access Management
 
 [特权访问管理（PAM）](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration)提供对 Office 365 中的特权管理任务的精细访问控制。 启用 PAM 后，用户将需要通过高度范围和时间限制的审批工作流请求实时访问，以完成提升和特权的任务。
 
