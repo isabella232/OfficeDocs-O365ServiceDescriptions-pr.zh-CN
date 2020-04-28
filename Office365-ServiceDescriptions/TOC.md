@@ -3,7 +3,7 @@
 ## [Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 系统要求](office-365-platform-service-description/office-365-system-requirements.md)
-### [Office 365 安全与合规中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [安全与合规中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Office 365 套件功能](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 美国政府版](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -11,6 +11,7 @@
 #### [Microsoft 365 政府版购买方式](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 #### [适用于美国政府的 OneDrive](office-365-platform-service-description\office-365-us-government\onedrive.md)
 #### [适用于美国政府的 SharePoint](office-365-platform-service-description\office-365-us-government\sharepoint.md)
+#### [适用于美国政府的 Exchange Online](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [由世纪互联运营的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 德国版](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 教育版](office-365-platform-service-description/office-365-education.md)
@@ -102,7 +103,7 @@
 ### [Yammer 中的支持功能](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 服务说明
 ### [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 商业版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 商业高级版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Microsoft 365 安全性与合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
