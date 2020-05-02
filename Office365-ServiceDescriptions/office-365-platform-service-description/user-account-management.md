@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639820"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002309"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ Microsoft 支持以下用于创建、管理和对用户进行身份验证的方�
 > [!NOTE]
 > 本主题不包含允许或禁止访问单个 Microsoft 资源（例如，Microsoft Exchange Online 中的基于角色的访问控制或在 Microsoft SharePoint Online 中配置安全性）的安全功能的相关信息。 有关这些功能的详细信息，请参阅[Exchange online 服务说明](../exchange-online-service-description/exchange-online-service-description.md)和[SharePoint online 服务说明](../sharepoint-online-service-description/sharepoint-online-service-description.md)。 
   
-如果您需要有关可帮助您执行管理任务的工具的信息，请参阅[tools to Manage Microsoft accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)。 要了解如何执行日常管理任务，请参阅 [Common management tasks for Office 365](https://docs.microsoft.com/office365/admin/manage/manage)（Office 365 的常见管理任务）。
+如果您需要有关可帮助您执行管理任务的工具的信息，请参阅[tools to Manage Microsoft accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts)。 若要了解如何执行日常管理任务，请参阅[常见管理任务](https://docs.microsoft.com/office365/admin/manage/manage)。
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>需要获取有关登录、安装/卸载或取消订阅方面的帮助吗？
 
-Get help with [signing into Office 365](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [Installing or uninstalling Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Canceling Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+获取有关[在](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [安装或卸载 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | 时进行登录的帮助[取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 有关其他问题，请访问[Microsoft 支持中心](https://support.microsoft.com/contactus/)。 若要获取由中国的世纪互联运营的 Office 365 的支持，请联系[世纪互联支持团队](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 对于 Office 365 Germany，请联系 [Office 365 Germany 支持团队](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
   
@@ -48,7 +48,7 @@ Microsoft 有两个可用于用户标识的系统：
   
 ### <a name="custom-domains-and-identity-options"></a>自定义域和身份选项
 
-当您创建新用户时，用户的登录名和电子邮件地址将被分配给 Microsoft 365 管理中心中设置的默认域。 若要了解详细信息，请参阅[将用户和域添加到 Office 365](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
+当您创建新用户时，用户的登录名和电子邮件地址将被分配给 Microsoft 365 管理中心中设置的默认域。 若要了解详细信息，请参阅[添加你的用户和域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
 默认情况下，订阅使用在\<帐户中创建的_公司名称_\> **onmicrosoft.com**域。\*您可以将一个或多个自定义域添加到 Microsoft，而不是保留 onmicrosoft.com 域，并可分配用户以使用任何经过验证的域进行登录。 每个用户分配的域是将显示在发送和接收的电子邮件上的电子邮件地址。 
   
@@ -74,9 +74,9 @@ Microsoft 有两个可用于用户标识的系统：
     
 Microsoft 使用基于表单的身份验证，并且通过网络的身份验证通信始终使用端口443通过 TLS/SSL 进行加密。 身份验证流量使用的是 Microsoft 服务的带宽的不计百分比。 
   
-### <a name="multi-factor-authentication-for-office-365"></a>适用于 Office 365 的 Multi-Factor Authentication
+### <a name="multi-factor-authentication"></a>多因素身份验证
 
-对于 Office 365 的多重身份验证，用户在正确输入密码后需要确认电话呼叫、短信或智能手机上的应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Microsoft 管理员可以在 Microsoft 365 管理中心中为用户注册多重身份验证。 详细了解 [Office 365 多重身份验证](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
+通过多重身份验证，用户在正确输入其密码后，需要用户确认其智能手机上的电话呼叫、短信或应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Microsoft 管理员可以在 Microsoft 365 管理中心中为用户注册多重身份验证。 了解有关[多因素身份验证](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)的详细信息。
   
 ### <a name="rich-client-authentication"></a>富客户端身份验证
 
@@ -117,7 +117,7 @@ Microsoft 使用基于表单的身份验证，并且通过网络的身份验证�
   
 ## <a name="creating-user-accounts"></a>创建用户帐户
 
-有多种方法可以将用户添加到 Office 365。 若要了解详细信息，请参阅在 Microsoft 365 管理中心预览版中[单独添加用户或在批量管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)中[添加、删除和管理用户](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+您可以通过多种方式添加用户。 若要了解详细信息，请参阅在 Microsoft 365 管理中心预览版中[单独添加用户或在批量管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)中[添加、删除和管理用户](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
 ## <a name="deleting-accounts"></a>删除帐户
 
@@ -127,7 +127,7 @@ Microsoft 使用基于表单的身份验证，并且通过网络的身份验证�
     
 - 如果正在使用目录同步，您必须从本地 Active Directory 而不是 Office 365 删除用户。
     
-帐户删除后，它将变为非活动状态。 若要在删除后大约30天，可以还原帐户。 若要详细了解如何删除和还原帐户，请参阅[在 office 365 中删除用户](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)和[在 Office 365 中还原用户](https://docs.microsoft.com/office365/admin/add-users/restore-user); 或者，如果使用由世纪互联运营的 Office 365 （由中国运营），请参阅[在 office 365 中创建或编辑用户帐户-管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+帐户删除后，它将变为非活动状态。 若要在删除后大约30天，可以还原帐户。 有关删除和还原帐户的详细信息，请参阅[删除用户](https://docs.microsoft.com/office365/admin/add-users/delete-a-user)和[还原用户](https://docs.microsoft.com/office365/admin/add-users/restore-user)或者，如果使用由世纪互联运营的 office 365，请参阅[在由世纪互联运营的 office 365 中创建或编辑用户帐户-管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
 ## <a name="password-management"></a>密码管理
 
@@ -188,5 +188,5 @@ Azure Active Directory (AD) 将身份和访问管理综合功能引入 Office 36
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
   

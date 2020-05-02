@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版和政府版订阅提供全局性技术支持、售前支持、帐单和订阅支持。 通过 Microsoft365 管理中心以及通过电话拨打付费订阅和试用订阅均可在线提供支持。 有关详细信息，请参阅 Microsoft 支持选项。
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639900"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002319"
 ---
 # <a name="support"></a>支持
 
@@ -27,11 +27,11 @@ Microsoft Support 借助每一份 Office 365 企业版、商业版、教育版�
   
 授权管理员可以使用 Microsoft 365 管理中心来在线提交服务请求、访问支持电话号码以及查看所有打开和最近关闭的服务请求。 在该请求关闭后，可以重新打开在管理中心提交的服务请求，最长可达14天。 有关说明，请参阅[联系 Microsoft 365 以获取商业支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products)。
   
-O365 技术支持团队仅解决与 Office 365 相关的问题。 客户网络中的问题超出支持范围，在这些情况下，客户必须使用网络团队或接洽[Microsoft 网络团队](https://support.microsoft.com/gp/contactus81?Audience=Commercial)寻求协助。
+Microsoft 365 技术支持团队仅对与 Microsoft 365 和 Office 365 相关的问题进行故障排除。 客户网络中的问题超出支持范围，在这些情况下，客户必须使用网络团队或接洽[Microsoft 网络团队](https://support.microsoft.com/gp/contactus81?Audience=Commercial)寻求协助。
   
 ## <a name="community-and-self-service-support-options"></a>社区和自助服务支持选项
 
-自助服务支持适用于所有计划，其中包括故障排除工具和视频、帮助文章和视频以及[Office 365 社区](https://go.microsoft.com/fwlink/p/?LinkID=279811)中的论坛和 wiki。 有关自助服务支持资源的详细信息，请参阅[帮助和培训](help-and-training.md)服务说明。
+自助服务支持适用于所有计划，其中包括故障排除工具和视频、帮助文章和视频以及[Microsoft 365 社区](https://go.microsoft.com/fwlink/p/?LinkID=279811)中的论坛和 wiki。 有关自助服务支持资源的详细信息，请参阅[帮助和培训](help-and-training.md)服务说明。
   
 ## <a name="pre-sales-support"></a>售前支持
 
@@ -201,4 +201,4 @@ Microsoft 了解到及时从合格的专业人员获取技术支持是云服务�
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个计划的功能可用性，请参阅[Office 365 platform 服务说明](office-365-platform-service-description.md)。
+若要查看各个计划的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。

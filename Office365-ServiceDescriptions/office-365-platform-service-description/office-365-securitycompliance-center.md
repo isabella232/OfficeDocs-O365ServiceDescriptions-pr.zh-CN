@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全&amp;合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813385"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001988"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -32,7 +32,7 @@ ms.locfileid: "43813385"
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能**  |**Microsoft 365 商业基本版**  |**Microsoft 365 商业标准版**  |**Microsoft 365 商业高级版**  |**Office 365 企业版 E1**， **Office 365 美国政府版 G1**  |**Office 365 企业版 E3**， **Office 365 美国政府版 G3**  |**Office 365 企业版 E5**  |**Office 365 企业版 f3**  **Office 365 美国政府 F3**|
 |[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
-|[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否|否   |必需   |否   |
+|[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否|否   |否   |可访问   |
 |邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |是   |是   |是   |是   |是   |是   |是   |
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)，如仿冒活动的威胁资源管理器<sup>6</sup>  |否   |否   |否   |否   |否   |必需   |否   |
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |否   |否   |否   |否   |否   |必需   |否   |

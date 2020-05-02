@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639930"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001998"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -69,7 +69,7 @@ Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及�
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream 是企业视频服务，组织中的人员可以使用它来安全地上载、查看和共享视频。 您可以共享类、会议、演示文稿、培训会话或其他帮助您的团队协作的视频的唱片。 Microsoft Stream 还使您可以轻松地在注释和说明中共享视频和标记时间代码的注释，以引用视频中的特定点。
+Microsoft Stream 是企业视频服务，组织中的人员可以使用它来安全地上载、查看和共享视频。 可以共享课堂、会议、演示文稿、培训课程或其他有助于团队协作的视频的录制。 Microsoft Stream 还使您可以轻松地在注释和说明中共享视频和标记时间代码的注释，以引用视频中的特定点。
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
@@ -83,9 +83,9 @@ Microsoft Teams 是 Office 365 中一个基于聊天的工作区，可促进团�
 
 通过 office Delve，用户可以根据个性化见解在 Office 365 中搜索和发现内容。 Delve 是 Office Graph 支持的第一种体验。 若要了解有关 Office Delve 的详细信息，请转到[什么是 Office delve？](https://go.microsoft.com/fwlink/?LinkId=511463)。 
   
-## <a name="office-365-groups"></a>Office 365 组
+## <a name="microsoft-365-groups"></a>Microsoft 365 组
 
-Office 365 中的组将用户与同事、他们处理更多任务所需的信息以及应用程序组合在一起。默认情况下，打开组以加强可发现性和共享，但是对于敏感内容用户也可以创建隐私组。要了解有关组的更多信息，请参阅 [Office 365 中的组](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。有关组限制的信息，请参阅[了解 Office 365 组](https://go.microsoft.com/fwlink/?linkid=846714)中的"如何管理我的组"。
+Microsoft 365 中的组将用户与同事、信息和应用程序连接起来，以实现更多的协作。 默认情况下，打开组以加强可发现性和共享，但是对于敏感内容用户也可以创建隐私组。 若要了解有关组的详细信息，请参阅[Microsoft 365 中的组](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。 有关组限制的信息，请参阅[了解 Microsoft 365 组](https://go.microsoft.com/fwlink/?linkid=846714)中的 "如何管理我的组"。
   
 ## <a name="office-365-video"></a>Office 365 视频
 

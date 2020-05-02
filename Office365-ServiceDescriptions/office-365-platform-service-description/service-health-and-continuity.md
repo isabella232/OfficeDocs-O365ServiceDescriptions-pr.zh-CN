@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理员可以查看服务的状态，并了解何时安排了维护。 服务运行状况信息随时通过登录提供。
-ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
-ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
+ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796713"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001948"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -86,19 +86,17 @@ Microsoft 管理员可以查看服务的状态，并了解何时安排了维护�
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
-Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Microsoft 管理员现在可以选择导入 Office 365 管理包，这样他们就可以在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请参阅 [New Office 365 admin tools](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)（新增的 Office 365 管理工具）博文。 
+Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Microsoft 管理员现在可以选择导入 Office 365 管理包，这样他们就可以在 System Center 中查看 Operations Manager 中的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请在 Microsoft 下载中心获取[适用于 Office 365 的 Microsoft System Center 管理包](https://www.microsoft.com/download/details.aspx?id=43708)。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 
-Office 365 服务通信 API 允许您按所需的方式访问服务通信。 使用此新管理工具，您现在可以创建或连接工具以实现服务通信，从而可能简化您监视环境的方式。 服务通信 API 允许您在环境中监视以下内容：
+Office 365 服务通信 API 允许您按所需的方式访问服务通信。 使用此 API，您可以创建或连接工具以实现服务通信，从而可能简化您监视环境的方式。 服务通信 API 允许您在环境中监视以下内容：
   
 - 实时服务运行状况
     
 - 消息中心通信
     
-- 计划的维护通知
-    
-有关详细信息，请访问[新的管理工具](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/)博客文章。 
+有关详细信息，请参阅[Office 365 服务通信 API 参考](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference)。 
   
 ## <a name="post-incident-reviews"></a>事后评审
 

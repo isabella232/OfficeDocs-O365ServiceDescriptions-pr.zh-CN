@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638730"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002329"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -152,7 +152,7 @@ Microsoft Project 可通过三种不同的订阅使用，以最大限度地满�
 |时间表审批 | 工作组成员可以提交时间表以供审批。 资源经理和主管可以审阅、批准和拒绝已提交的时间表。 | 是 | 是 |
 |非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | 否 | 可访问 |
 |**协作** ||||
-|Attachments | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
+|附件 | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予用户查看和交互项目、任务和文档的访问权限，可与组织外部的人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档的中心。 | 是 | 是 |
 Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</sup> | 是 | 是 |
@@ -188,12 +188,12 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |用户管理 | 管理项目、团队和组织级别的用户和组角色以及权限。 | 否 | 可访问 |
 |服务管理 | 在 Office 365<sup>1</sup>环境中规划、安装和配置、维护和扩展 Microsoft Project 环境。  | 否 | 可访问 |
 
-#### <a name="notes"></a>注释
+#### <a name="notes"></a>备注
 
 <sup>1</sup>需要 Office 或 Microsoft 365 商业版订阅。</br>
 <sup>2</sup>个独立购买的 Azure 主板。</br>
 <sup>3</sup>可使用 Power BI 获取 Web 和 project Online 的 project 的报告。 查看、编辑和创建报表需要使用 Power BI Pro 订阅。 Microsoft 提供了一组预建的 Power BI 报告。 用户可以使用 Power BI 来自定义这些报告或生成其他报告。</br> 
-<sup>4</sup>生成 web 数据的 access 项目的自定义 PowerApps 移动应用程序需要 PowerApps 订阅和项目计划3或项目计划5订阅。</br>
+<sup>4</sup>生成和使用访问 web 数据的项目的自定义 powerapps 移动应用程序需要 PowerApps 订阅和项目计划3或项目计划5订阅。</br>
 <sup>5</sup>通过使用 web 数据的 Project 自动执行自动化和集成业务流程的过程需要使用 power 自动化订阅和项目计划3或项目计划5订阅。</br>
 <sup>6</sup>外部用户的 Project Online 许可遵循与内部用户相同的策略。 在 Project Online 网站上进行任何交互都需要项目计划3或项目计划5订阅。</br>
 <sup>7</sup>具有项目计划3或项目计划5订阅的用户可以提交资源预订请求。 他们无法查看、履行或批准资源预订请求。</br>
@@ -288,7 +288,7 @@ Web 的项目有一些限制，如下表所述。
 |最大 摘要任务的持续时间 | 3650天（10年） |
 |最大 可分配给任务的资源 | 20个资源 |
 |任务的受支持日期范围 | 1/1/1984 &ndash; 12/31/2149 |
-|**项目** ||
+|**Project** ||
 |最大 项目的任务总数 | 500 |
 |最大 项目的总持续时间 | 3650天（10年） |
 |最大 项目的总资源 | 150 |
