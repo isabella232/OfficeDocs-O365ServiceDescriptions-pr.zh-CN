@@ -1,5 +1,5 @@
 ---
-title: Office 365 suite features
+title: Microsoft 365 套件功能
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
+ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001998"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44022832"
 ---
-# <a name="office-365-suite-features"></a>Office 365 suite features
+# <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
   
 ## <a name="microsoft-bookings"></a>Microsoft 预订
 
-Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客户提供约会相关服务。 这类企业包括发廊、牙科诊所、温泉疗养中心、律师事务所、金融服务提供商、咨询服务提供商和汽车店。 Microsoft 预订适用于美国和加拿大拥有 Microsoft 365 商业标准订阅的客户。 
+Microsoft 预订是企业的在线和移动应用，希望在约会基础上为客户提供服务。 此类公司的示例包括头发发廊、牙科办事处、spa、法律公司、金融服务提供商、顾问、医疗保健专业人员、教育机构和自动商店。 Microsoft 预订适用于美国和加拿大拥有 Microsoft 365 商业版订阅的客户。
   
 有关 Microsoft 预订的详细信息，请转到[使用 Microsoft 预定在线发布业务日历](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)。
 
@@ -41,11 +41,11 @@ Microsoft Bookings 是一款适用于小型企业的联机移动应用，为客�
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft 电力自动化功能使您能够跨应用程序自动执行工作流。 可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。 模板可作入门之用。 要了解有关 Flow 功能及如何使用它们的详细信息，请访问 Microsoft [Flow 网站](https://flow.microsoft.com/en-us/)。
+Microsoft 电力自动化功能使您能够跨应用程序自动执行工作流。 可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。 模板可作入门之用。 若要了解有关流功能以及如何使用它们的详细信息，请转到[Power 自动化网站](https://preview.flow.microsoft.com/en-us/)。
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms 是 Office 365 教育的一个新部件，可让你快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据（如测验结果）导出到 Excel，以进行其他分析或评分。 若要了解详细信息，请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
+通过 Microsoft 表单，您可以快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据（如测验结果）导出到 Excel，以进行其他分析或评分。 若要了解详细信息，请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
@@ -53,7 +53,7 @@ Microsoft Forms 是 Office 365 教育的一个新部件，可让你快速轻松�
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
-MyAnalytics 为您的个人工作效率提供了两个关键因素：您花费了时间和使用时间的人。 MyAnalytics 查看你的日常工作模式，找出可帮助你关注的领域，并提供工具以实现更多的时间使用。 有关详细信息，请参阅[Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics)和[Microsoft MyAnalytics for Office 365 admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)。
+MyAnalytics 为您的个人工作效率提供了两个关键因素：您花费了时间和使用时间的人。 MyAnalytics 查看你的日常工作模式，找出可帮助你关注的领域，并提供工具以实现更多的时间使用。 有关详细信息，请参阅[Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics)和[microsoft MyAnalytics for admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins)。
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
@@ -61,11 +61,11 @@ Microsoft Planner 是一种使用户能够以可视化的方式来组织团队�
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps 是一种企业服务，可帮助你快速生成、集成和共享能在任何设备上运行的应用。PowerApps 允许使用内置连接或公司生成的连接将应用连接到云和本地服务，包括 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。只需键入电子邮件地址即可轻松地与同事共享你的 PowerApps。要了解详细信息，请访问 Microsoft [PowerApps 网站](https://powerapps.microsoft.com/en-us/)。
+Microsoft PowerApps 是一种企业服务，可帮助你快速生成、集成和共享能在任何设备上运行的应用。 PowerApps 允许您使用内置连接或由贵公司构建的内置连接，将应用连接到云和本地服务，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。 只需键入电子邮件地址即可轻松地与同事共享你的 PowerApps。 要了解详细信息，请访问 Microsoft [PowerApps 网站](https://powerapps.microsoft.com/en-us/)。
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及其管理人员使用自己的移动设备来管理计划并保持联系。员工可以使用 StaffHub 申请休假、交易转移以及与其他员工沟通。员工也可以直接在彼此之间发送邮件或向整个团队发送邮件。管理人员可以使用 StaffHub 发送邮件、创建计划以及发送团队新闻或公司公告。要了解有关 StaffHub 的详细信息，请转到 Microsoft [StaffHub 网站](https://staffhub.office.com/)和 [Office 365 Team blog](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)（Office 365 团队博客）。
+Microsoft StaffHub 是一个基于云的应用程序，可以让工作人员及其管理人员使用自己的移动设备来管理计划并保持联系。 员工可以使用 StaffHub 申请休假、交易转移以及与其他员工沟通。 员工也可以直接在彼此之间发送邮件或向整个团队发送邮件。 管理人员可以使用 StaffHub 发送邮件、创建计划以及发送团队新闻或公司公告。 若要了解有关 StaffHub 的详细信息，请转到 Microsoft [StaffHub 网站](https://staffhub.office.com/)和[microsoft 365 团队博客](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/)。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,11 +77,11 @@ Microsoft Sway 是一个专业的数字 storytelling 应用程序，可帮助你
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams 是 Office 365 中一个基于聊天的工作区，可促进团队成员之间更好地协作。 Microsoft Teams 作为团队工作的中心，可提供从 Office 365 到单个工作区针对聊天对话、内容和工具的即时访问。 SharePoint 和 OneNote 内置其中，团队成员可以直接在应用中处理 Office 文档。 除聊天之外，Microsoft 团队还支持视频呼叫和会议，使团队能够在活动、按需或计划时开会。 团队成员可以随时与多个团队进行轻松协作，并可以搜索人员、聊天内容和文件。 Microsoft 团队在 Windows、Mac、web、Android 和 iOS 平台上工作。 若要了解详细信息，请参阅 [Microsoft Teams Online Help](https://go.microsoft.com/fwlink/?linkid=834413)（Microsoft Teams 联机帮助）。 Teams 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
+Microsoft 团队是一个以聊天为中心的工作区，可帮助工作组成员实现更多协作。 Microsoft 团队担任团队合作，提供将聊天对话、内容和工具的即时访问到单个工作区。 SharePoint 和 OneNote 内置其中，团队成员可以直接在应用中处理 Office 文档。 除聊天之外，Microsoft 团队还支持视频呼叫和会议，使团队能够在活动、按需或计划时开会。 团队成员可以随时与多个团队进行轻松协作，并可以搜索人员、聊天内容和文件。 Microsoft 团队在 Windows、Mac、web、Android 和 iOS 平台上工作。 若要了解详细信息，请参阅 [Microsoft Teams Online Help](https://go.microsoft.com/fwlink/?linkid=834413)（Microsoft Teams 联机帮助）。 Teams 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
   
 ## <a name="office-delve"></a>Office Delve
 
-通过 office Delve，用户可以根据个性化见解在 Office 365 中搜索和发现内容。 Delve 是 Office Graph 支持的第一种体验。 若要了解有关 Office Delve 的详细信息，请转到[什么是 Office delve？](https://go.microsoft.com/fwlink/?LinkId=511463)。 
+通过 Office Delve，用户可以根据个性化见解在 Microsoft 365 中搜索和发现内容。 Delve 是 Office Graph 支持的第一种体验。 若要了解有关 Office Delve 的详细信息，请转到[什么是 Office delve？](https://go.microsoft.com/fwlink/?LinkId=511463)。 
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365 组
 
@@ -97,10 +97,10 @@ Office 365 视频是全公司范围内的安全目标，可供跨设备上载、
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序，它为 Microsoft 365 提供了独特的功能，并能够在组织的目录内和外部（包括合同工作人员、供应商、合作伙伴、供应商、客户和公民）使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)连接和接洽用户。 Kaizala 的开放目录模型支持基于电话号码的标识，以便于进行轻松加入，并提供了简单的用户体验，用于邮件和工作管理。 Kaizala 移动应用程序允许用户发送即时消息和附件（如图片、文档、视频、audios 等），以及使用用于调查、轮询、作业分配、通知、培训等的操作卡。 [Kaizala 适用于 Office 365](https://products.office.com/en/business/microsoft-kaizala) ，适用于 IPhone 和 Android。 若要了解详细信息，请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。 
+Microsoft Kaizala 是一种简单且安全的移动工作管理应用程序，它为 Microsoft 365 提供了独特的功能，并能够在组织的目录内和外部（包括合同工作人员、供应商、合作伙伴、供应商、客户和公民）使用大型且[灵活的组类型](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)连接和接洽用户。 Kaizala 的开放目录模型支持基于电话号码的标识，以便于进行轻松加入，并提供了简单的用户体验，用于邮件和工作管理。 Kaizala 移动应用程序允许用户发送即时消息和附件（如图片、文档、视频、audios 等），以及使用用于调查、轮询、作业分配、通知、培训等的操作卡。 [Kaizala](https://products.office.com/en/business/microsoft-kaizala)在 IPhone 和 Android 上工作正常。 若要了解详细信息，请转到[Kaizala 网站](https://products.office.com/en/business/microsoft-kaizala)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
+若要查看各个计划的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
   
 
