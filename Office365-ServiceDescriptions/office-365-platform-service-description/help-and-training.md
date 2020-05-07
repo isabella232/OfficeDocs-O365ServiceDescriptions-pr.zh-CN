@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供以下帮助和培训资源。
-ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262885"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045024"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -149,4 +149,4 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划、独立选项和本地解决方案的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。

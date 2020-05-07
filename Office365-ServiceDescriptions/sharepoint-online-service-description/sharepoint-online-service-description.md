@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639840"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044784"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -82,7 +82,7 @@ Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过�
 
 若要详细了解 Microsoft Power Apps 和 Power 自动化的可用性，请参阅[Power apps And power](/power-platform/admin/powerapps-flow-licensing-faq)the
 
-若要了解有关 Microsoft Graph 可用性的详细信息，请参阅[Office 365 Platform 服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+若要了解有关 Microsoft Graph 的可用性的详细信息，请参阅[microsoft 365 And Office 365 platform service description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)。
 
 ## <a name="it-admin-features"></a>IT 管理员功能
 
@@ -203,6 +203,6 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [搜索中心（经典搜索）](/sharepoint/manage-search-center)
 - [搜索架构（经典和新式搜索）](/sharepoint/manage-search-schema)
 
-有关 Delve 的信息，请参阅[Office 365 platform 服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
+有关 Delve 的信息，请参阅[Microsoft 365 和 Office 365 platform 服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
 
 

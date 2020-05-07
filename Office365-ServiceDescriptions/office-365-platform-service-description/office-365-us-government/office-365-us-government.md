@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: 1040e396b63341879ee0293b4fb0ec53d296af67
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638790"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045034"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -30,7 +30,7 @@ ms.locfileid: "43638790"
 > 
 >感谢你的支持，因为我们采取措施以确保我们的服务在这些特别时间内保持可用和可靠。<br/> 
 
-为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
+为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本节概述了特定于 Office 365 政府美国环境的功能。 我们建议您阅读此补充部分，其中是[Microsoft 365 和 Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)。
   
 ## <a name="how-to-use-this-service-description"></a>如何使用此服务说明
 
@@ -144,7 +144,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365 服务** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |Office 网页版  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|适用于企业的 Microsoft 365 应用程序  <br/> |否 <br/> |可访问 <br/> |可访问 <br/> |否  <br/> |
+|Microsoft 365 企业应用版  <br/> |否 <br/> |可访问 <br/> |可访问 <br/> |否  <br/> |
 |Exchange Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online Protection  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -154,7 +154,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |Power BI Pro  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |Project Online  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |
 |Visio 网页版  <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |否<sup>6</sup> <br/> |
-|Yammer 企业版  <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
+|Yammer Enterprise  <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |否<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 适用于企业、G3 和 G5 的 Microsoft 365 应用程序包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。
 <br/><sup>2</sup>不包括在内，但可以作为单独的附加项购买。 Project Online 包括 Project Online 桌面客户端作为订阅的一部分。
@@ -257,7 +257,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |**信任** <br/> |**Office 365 政府版 G1** <br/> |**Office 365 政府版 G3** <br/> |**Office 365 政府版 G5** <br/> |**Office 365 政府 F3** <br/> |
 |**[隐私、安全性和透明度](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |高级数据治理  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |无<sup>12、15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |
+|云应用安全  <br/> |无<sup>12、15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |是<sup>15、19</sup> <br/> |无<sup>12、15、19</sup> <br/> |
 |高级威胁防护  <br/> |无<sup>12、18</sup> <br/> |无<sup>12、18</sup> <br/> |是<sup>18</sup>  <br/> |无<sup>12、18</sup> <br/> |
 |客户密码箱  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
 |高级电子数据展示  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是  <br/> |无<sup>12</sup> <br/> |

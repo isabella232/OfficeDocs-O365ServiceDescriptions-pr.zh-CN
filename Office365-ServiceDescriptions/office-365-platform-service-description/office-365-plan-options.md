@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: f90bbfa85d0b3c800725a2e51c5da1ea73415434
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640250"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044984"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -33,7 +33,7 @@ ms.locfileid: "43640250"
   
 |**Office 365 服务系列**|**计划**|
 |:-----|:-----|
-|**企业版（最多为300个用户）** <br/> |[Microsoft 365 商业基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [适用于企业的 Microsoft 365 应用程序](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 商业标准](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**企业版（最多为300个用户）** <br/> |[Microsoft 365 商业基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 商业应用版](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 商业标准版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**企业版（不受限制的用户数）** <br/> |[Office 365 企业版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企业版 F3](https://products.office.com/business/office-365-f1) <br/> |
 |**教育版（不受限制的用户数）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**政府（用户数量不受限制）** <br/> |[查看所有可用的业务计划](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -49,7 +49,7 @@ ms.locfileid: "43640250"
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服务** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F3** <br/> |
+|**服务** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F3** <br/> |
 |Office 365 平台  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -115,7 +115,7 @@ ms.locfileid: "43640250"
 |SharePoint Online  <br/> |[SharePoint Online 计划 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online 计划 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business 计划 1](https://onedrive.live.com/about/business/) <br/> [OneDrive for Business 计划 2](https://onedrive.live.com/about/business/) <br/> |
 |Skype for Business Online  <br/> |[Skype for Business Online 计划 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype for Business Online 计划 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Office 应用程序  <br/> |[适用于企业的 Microsoft 365 应用程序](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [适用于企业的 Microsoft 365 应用程序](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 商业标准](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Office 应用程序  <br/> |[Microsoft 365 企业应用版](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 商业应用版](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 商业标准版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |项目组合管理  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |组织见解  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |
@@ -126,4 +126,4 @@ ms.locfileid: "43640250"
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 和 Office 365 计划的功能可用性，请参阅[microsoft 365 And office 365 platform service description](office-365-platform-service-description.md)。

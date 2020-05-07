@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组织的需求。 如果你正在寻找计划（包括 Exchange Online 计划）之间的差异，本文将向你展示每个计划中包含的功能。
-ms.openlocfilehash: d6ec64226e4a61c2e5e5063d7f89d7e33bdb6688
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002052"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044974"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -27,7 +27,7 @@ Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组
   
 Microsoft 365 和 Office 365 可为各种规模的企业提供云生产力的强大功能，帮助节省时间、节省资金并释放宝贵资源。 Microsoft 365 和 Office 365 计划将熟悉的 Microsoft Office 桌面套件与 Microsoft 的下一代 Exchange 通信和协作服务（包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web）和 Microsoft Skype for Business Online 结合在一起，以帮助用户从几乎任何位置通过 internet 实现工作效率。
   
-若要跨计划比较功能，请参阅[比较计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或，有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
+若要跨计划比较功能，请参阅[比较计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或，有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -43,17 +43,17 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 若要了解批量许可，请参阅[许可条款和文档](https://go.microsoft.com/fwlink/?linkid=848696)。
   
-## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 非营利组织版计划和定价
+## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 和 Office 365 非盈利计划和定价
 
-对于符合 Office 365 非营利组织版计划条件的组织，这些计划包含的功能与相应的商业版计划完全相同（例如，Office 365 非盈利企业版 E5 包含与 Office 365 企业版 E5 完全相同的功能）。同等计划的唯一区别是价格。有关 Office 365 非营利组织版计划的详细信息，请参阅 [Office 365 非营利组织版计划和定价](https://go.microsoft.com/fwlink/?LinkID=627221)以及此 [FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)。
+对于符合 Microsoft 365 或 Office 365 非盈利性计划的组织，这些计划包含的功能与相应的商业计划完全相同（例如，Office 365 非盈利 E5 包含与 Office 365 E5 相同的功能）。 同等计划的唯一区别是价格。 有关 Microsoft 365 和 Office 365 非盈利计划的详细信息，请参阅[比较 Microsoft 365 和 office 365 非盈利服务](https://go.microsoft.com/fwlink/?LinkID=627221)和此[FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系统要求
 
-有关 Office 365（一种可供商务、教育以及政府组织使用的基于每月订阅的服务）的系统要求，请参阅 [Office 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关 Microsoft 365 和 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 And Office 的系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="service-level-agreement"></a>服务级别协议
 
-有关服务级别协议的信息，请参阅[服务级别协议](https://go.microsoft.com/fwlink/?linkid=843153)。 有关 Office 365 最近运行时间的信息，请参阅 [Transparent operations from Office 365](https://go.microsoft.com/fwlink/?linkid=848695)（Office 365 透明操作）。
+有关服务级别协议的信息，请参阅[服务级别协议](https://go.microsoft.com/fwlink/?linkid=843153)。 有关 Office 365 的最近保障的信息，请参阅[服务运行状况和连续性](https://go.microsoft.com/fwlink/?linkid=848695)。
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -61,7 +61,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 ## <a name="data-storage-location"></a>数据存储位置
 
-若要了解数据存储位置，请参阅[数据存储地图](https://products.office.com/where-is-your-data-located)。 
+若要了解数据的存储位置，请参阅[客户数据的存储位置](https://docs.microsoft.com/office365/enterprise/o365-data-locations)。 
   
 ## <a name="multi-geo-capabilities"></a>多地理位置功能 
 
@@ -69,7 +69,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 可用信息：亚太地区、澳大利亚、加拿大、欧洲联合、印度、日本、韩国、英国、美国。 
   
-若要了解详细信息，请参阅[介绍多地理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)位置。
+若要了解详细信息，请参阅[Office 365 中的简介多地理位置](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)。
   
 ## <a name="feature-availability-across-plans"></a>跨计划的功能可用性
 
@@ -83,19 +83,19 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
     
 - 政府版：[Office 365 美国政府版计划](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- 非盈利组织版：[Office 365 非盈利组织版计划和定价](https://go.microsoft.com/fwlink/?LinkID=733237)
-    
+- 非盈利：[比较 Microsoft 365 和 Office 365 非盈利产品](https://go.microsoft.com/fwlink/?LinkID=733237)
+
 - Office 365 Germany:[Office 365 Germany 计划](https://go.microsoft.com/fwlink/?linkid=839016)
     
 Microsoft 365 for business 计划中有几个是可以为订阅购买的加载项。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅[购买或编辑加载](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)项中的 "适用于 Microsoft 365 的不同版本的加载项"。
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |**[Microsoft 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Azure 信息保护保护内容  <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
-|**[Office 365 套件功能](office-365-suite-features.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[Microsoft 365 套件功能](office-365-suite-features.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |Microsoft Bookings  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |无<sup>19</sup>  <br/> |无<sup>19</sup>  <br/> |否  <br/> |
 |Microsoft 简介电子邮件<sup>22</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Power Automate  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>13</sup> <br/> |
@@ -113,7 +113,7 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |Office 365 视频  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
 |OneNote 课堂笔记本  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是<sup>14</sup> <br/> |否  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
-|**[用户帐户管理](user-account-management.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[用户帐户管理](user-account-management.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |云标识、联合身份或多重身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 桌面安装程序  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 .csv 文件批量上载  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -126,7 +126,7 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |多个管理员角色可用  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允许合作伙伴为你管理 Microsoft 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure Active Directory 服务<sup>21</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[域](domains.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[域](domains.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |添加第二级自定义域，如 fourthcoffee.com  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |添加第三级自定义域，如 marketing.fourthcoffee.com是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |添加多达 900 个自定义域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -139,10 +139,10 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |对电子邮件和 IM 使用不同的提供商  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自定义域需要域所有权验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自动域购买和域验证适用于通过 Go Daddy 购买的域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[报告](reports.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[报告](reports.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |活动邮箱和非活动邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新邮箱和已删除的邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |新组和已删除的组  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -167,19 +167,19 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |使用的浏览器  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用的操作系统  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |使用 Microsoft 365 报告 web 服务创建自己的报告  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[服务更新](service-updates.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[服务更新](service-updates.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |向所有客户提供的定期更新  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |通知发送给 消息中心（当需要操作时）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |针对某些服务更新的 Roadmap.office.com  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目标发布的启用选项  <br/> |是  <br/> |--  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[帮助和培训](help-and-training.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[帮助和培训](help-and-training.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |联机帮助  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |社区  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |其他自助资源  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自学培训  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**[网络](networking.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[网络](networking.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |IPv4 和 IPv6 协议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|**信任** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**信任** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |**[隐私、安全性和透明度](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 云应用安全  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
@@ -197,8 +197,8 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |FISMA 操作授权  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 数据处理协议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 监管的 PAN 数据  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[服务连续性](service-health-and-continuity.md)** <br/> ||||||||
-|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**适用于企业的 Microsoft 365 应用程序** <br/> |**Microsoft 365 商业标准版** <br/> **Office 365 Germany 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> ||||||||
+|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> **Office 365 Germany 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[合作伙伴](partners.md)** <br/> ||||||||
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

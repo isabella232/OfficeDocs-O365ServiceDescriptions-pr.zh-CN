@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: f78ad545436952325d74964ae1ea228796290b0e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639920"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044944"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
@@ -58,5 +58,5 @@ Office 365 高级威胁防护可帮助您的组织抵御恶意软件和病毒攻
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个计划的功能可用性，请参阅[Office 365 platform 服务说明](office-365-platform-service-description.md)。
+若要查看各个计划的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
   

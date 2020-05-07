@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足企业的法规要求。 有关详细信息，请参阅合规性服务。
-ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a88255e948deab39e10116463130e2e8087abec5
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262865"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044774"
 ---
 # <a name="compliance"></a>合规性
 
@@ -33,7 +33,7 @@ Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足�
   
 ## <a name="industry-certifications"></a>行业认证
 
-为了帮助组织遵守管理个人数据的收集和使用的国家、地区和特定于行业的要求，Office 365 符合或可帮助您的组织遵守最全面的政府组或任何云服务提供商的第三方要求、认证和 attestations：
+为了帮助组织遵守管理个人数据的收集和使用的国家、地区和特定于行业的要求，Office 365 符合或可帮助您的组织遵守任何云服务提供商的一组最全面的政府或第三方要求、认证和 attestations：
   
 - 阿根廷 PDPA
     
@@ -111,5 +111,5 @@ Microsoft Office 365 遵循行业标准和管理法规，旨在帮助您满足�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划的功能可用性，请参阅[office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨 Office 365 计划的功能可用性，请参阅[Microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。
   

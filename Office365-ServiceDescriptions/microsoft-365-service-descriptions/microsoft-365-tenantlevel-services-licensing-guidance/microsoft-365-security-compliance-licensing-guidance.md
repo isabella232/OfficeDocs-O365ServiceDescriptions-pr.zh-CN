@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: abeb93c0eee7f783601ae755f40f6f8cf8163d11
-ms.sourcegitcommit: a475f562af23f1591b4962651affef8c23c8051d
+ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
+ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005958"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44090135"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -129,13 +129,13 @@ MCAS 发现和评估阴影，提供跨第一方云应用程序的威胁保护，
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-MCAS，企业移动性 + 安全 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，Microsoft 365 内幕风险管理为用户提供了从 MCAS 获益的权限。
+MCAS，企业移动性 + 安全性 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，Microsoft 365 信息保护和治理为用户提供了从 MCAS 获益的权限。
 
 Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 若要从 MCAS 中的条件访问应用程序控制功能中受益，还必须为 Azure Active Directory P1 （包括在企业移动性 + 安全 E3/A3/G3、企业移动性 + 安全 E5/A5/G5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/g5 安全性）授予许可证。
 
-若要从自动标记中受益，用户必须获得 Azure 信息保护 P2 的许可，该版本包含在企业移动性 + 安全 E5/A5/G5 中，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，以及 Microsoft 365 内幕风险管理。
+若要从自动标记中受益，用户必须获得 Azure 信息保护 P2 的许可，这些 P2 包含在企业移动性 + 安全 E5/A5/G5 中，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息保护和治理。
 
 有关详细信息，请参阅[Microsoft Cloud App Security 授权数据表](https://www.aka.ms/mcaslicensing)。
 
@@ -181,7 +181,7 @@ Microsoft Defender ATP 管理员可以利用[基于角色的访问控制（RBAC�
 
 Microsoft 365 E5/A5/G5/AIP/AIP/E3//A3/A3/G3/的 F1/F3/microsoft、企业移动性 + 安全 F3/E3/E5、Office 365 E5/A5/E3/A3/F3、Plan 1 和 Plan 2 为用户提供了从手动敏感度标签中受益的权限。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 内幕风险管理、Office 365 E5、Office 365 高级合规性、企业移动性 + 安全 E5 和 AIP Plan 2 为用户提供了从自动敏感度标记中受益的权限。
+Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息保护和治理、Office 365 E5、Office 365 高级合规性、企业移动性 + 安全 E5 和 AIP Plan 2 为用户提供了从自动敏感度标记中受益的权限。
 
 有关许可证的具体权限，请参阅[详细的 Microsoft 365 合规性许可比较（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
 
@@ -209,9 +209,9 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 内幕
 
 Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 为用户提供了从单个组织范围或位置范围内的保留策略和/或手动保留标记中获益的权限。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 内幕风险管理 Office 365 E5/A5 和 Office 365 高级合规性为用户提供了一项好处：根据自定义事件自动应用保留标签或策略，从保留期开始，在标签保留期结束时触发手动处置检查，通过本机数据连接器导入第三方数据，从而发现已标记的内容并监视标记活动。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理 Office 365 E5/A5 和 Office 365 高级合规性为用户提供了一项好处：根据自定义事件自动应用保留标签或策略，从保留期开始，在标签保留期结束时触发手动处置检查，通过本机数据连接器导入第三方数据，从而发现已标记的内容并监视标记活动。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 内幕风险管理为用户提供了根据 trainable 分类程序自动应用保留标签的好处。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了为基于 trainable 分类程序自动应用保留标签而受益的权限。
 
 有关许可证的具体权限，请参阅[详细的 Microsoft 365 合规性许可比较（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
 
@@ -231,9 +231,9 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 内幕风险
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 内幕风险管理，Office 365 E5/A5，Office 365 高级合规性为用户提供了从记录管理中受益的权限，包括将项目声明为记录、自动应用保留或记录标签和执行处置审核过程（排除基于 trainable 的分类程序自动应用保留标签）。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理，Office 365 E5/A5，Office 365 高级合规性为用户提供了从记录管理中受益的权限，包括将项目声明为记录、自动应用保留或记录标签和执行处置审核过程（排除基于 trainable 的分类程序自动应用保留标签）。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 内幕风险管理为用户提供了为基于 trainable 分类程序自动应用保留或记录标签的好处。
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了从基于 trainable 分类程序自动应用保留或记录标签的好处。
 
 有关许可证的具体权限，请参阅[详细的 Microsoft 365 合规性许可比较（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
 
@@ -280,7 +280,7 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 E5/A5 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 内幕风险管理、Office 365 E5/A5 和 Office 365 高级合规性为用户提供了从客户密钥中获益的权限。 若要获得客户密钥的全部好处，您还必须具有 Azure Key Vault 的订阅。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护和治理、Office 365 E5/A5 和 Office 365 高级合规性为用户提供了从客户密钥获益的权限。 若要获得客户密钥的全部好处，您还必须具有 Azure Key Vault 的订阅。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -324,7 +324,7 @@ Microsoft 为组织中的用户提供客户密码箱访问控制审批请求。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？ 
 
-Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性以及 Microsoft 365 E5/A5 内幕会员风险管理为用户提供了从 PAM 中获益的权限。
+Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 E5/A5 信息保护和治理为用户提供了从 PAM 中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -344,7 +344,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性以及 Mic
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和数据丢失防护为用户提供了对 Exchange Online、SharePoint Online 和 OneDrive for business 中的 Office 365 DLP 的好处的权限。
+Microsoft 365 A1/E3/A3/a/Business、Office 365 E3/A3 和 Office 365 数据丢失防护为用户提供了从 Office 365 DLP for Exchange Online、SharePoint Online 和 OneDrive for business 中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -360,7 +360,7 @@ Microsoft 365 A1/E3/A3/Business、Office 365 E3/A3 和数据丢失防护为用�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 内幕风险管理和 Office 365 高级合规性可以从适用于团队的通信 DLP 中受益。
+Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保护和治理以及 Office 365 高级合规性可以从适用于团队的通信 DLP 中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -433,7 +433,7 @@ Office 365 高级邮件加密帮助客户满足合规性义务，这些要求对
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性、Microsoft 365 内幕风险管理和 Office 365 高级合规性为用户提供了从高级邮件加密中获益的权限。
+Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护和治理以及 Office 365 高级合规性为用户提供了从高级邮件加密中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -510,7 +510,7 @@ Microsoft 365 中的高级审核为用户和管理员活动提供了为期一年
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5、Microsoft 365 E5 和 Microsoft 365 E5 合规性的用户可从高级审核中受益。
+Office 365 E5、Microsoft 365 E5、Microsoft 365 E5 合规性和 Microsoft 365 电子数据展示和审核的许可用户可从高级审核中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

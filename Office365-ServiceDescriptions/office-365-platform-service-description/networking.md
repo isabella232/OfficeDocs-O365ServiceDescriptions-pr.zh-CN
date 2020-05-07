@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft 支持以下网络功能。
-ms.openlocfilehash: 62a474c9fe0161f7b4d876d8ca462e6bfe5e962d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2f0daecb96564043a6bd734f158fad272dc1812b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639760"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045004"
 ---
 # <a name="networking"></a>网络
 
@@ -64,6 +64,6 @@ Microsoft 网络基础结构由一系列大型的数据中心、服务器、内�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个计划的功能可用性，请参阅[Office 365 platform 服务说明](office-365-platform-service-description.md)。
+若要查看各个计划的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
   
 

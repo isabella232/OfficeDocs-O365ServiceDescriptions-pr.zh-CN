@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: 5c8df6d3faaba680046b6b2f808fe1aa74bffa73
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639940"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044992"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
   
-本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或者有关更详细的功能列表，请参阅[Office 365 服务说明](../office-365-service-descriptions-technet-library.md)中的相关服务说明。
+本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或者有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。
   
 若要搜索支持文章和信息，请参阅[Office &amp;帮助培训](https://support.office.com/)。
   
@@ -709,7 +709,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
 |限制向大型通讯组发送邮件  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |
 |大型通讯组的最大邮件大小  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|通讯组所有者的最大数量  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|通讯组所有者的最大数量  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |用户可创建的组的最大数目  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

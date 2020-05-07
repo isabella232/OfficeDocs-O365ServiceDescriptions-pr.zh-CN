@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172254"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045044"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
-为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。 本节概述了环境以及如何购买的详细信息。 建议您在[Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)旁边阅读此补充部分。
+为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。 本节概述了环境以及如何购买的详细信息。 建议在[Microsoft 365 和 Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)中阅读此补充部分。
   
 ## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府？
 
-Microsoft 365 政府是一组工作效率、安全性和移动性云软件功能，专门为美国政府机构和合同工提供了受控制的未分类信息的赞助商。 通过在满足最严格的合规性要求的独特环境中进行传递，Microsoft 365 政府是为美国政府客户提供的云，与 Microsoft 商业云的特性和功能尽可能密切匹配企业服务。 
+Microsoft 365 政府是一组工作效率、安全性和移动性云软件功能，专门为美国政府机构和合同工提供了受控制的未分类信息的赞助商。 通过在满足最严格的合规性要求的独特环境中进行传递，Microsoft 365 政府是为美国政府客户提供的云，与 Microsoft 商业云企业版产品的特性和功能尽可能相匹配。 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府的价值是什么？
 
-通过帮助机构有效管理法规数据合规性，Microsoft 365 政府可随时帮助我们的政府领导人和工作人员通过合规性实现工作效率和安全协作满足. 下表提供了主要政府角色的示例。
+通过帮助机构有效管理法规数据遵从性要求，Microsoft 365 政府可随时帮助我们的政府领导人和工作人员通过合规性实现工作效率和安全协作。 下表提供了主要政府角色的示例。
 
  
 ||||||
@@ -69,7 +69,7 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 - 一家联邦机构，定义为美国政府的部门、办公室、机构、部门或其他实体
 - State/local 实体，定义为以下项之一：
     1. 州或地方政府在美国的任何机构
-    2. 任何美国县、borough、英联邦、城市、municipality、城镇、township、特殊用途地区或其他类似类型的政府 instrumentality 由客户状态的法律建立，位于客户的 state's 辖区内和地理边界
+    2. 任何美国县、borough、英联邦、城市、municipality、城镇、township、特殊用途地区或其他类似类型的政府 instrumentality 由客户州的法律建立，位于客户的 state's 辖区和地域边界内
     3. 哥伦比亚地区，波多黎各、关岛、美洲萨摩亚、美国维尔京群岛和北马里亚纳群岛的马萨诸塞州
 - 一个部落实体，定义为 federally 公认的部落实体，其状态为 "印度 tribe"，或者在阿拉斯加中，在阿拉斯加本地村庄或阿拉斯加地区的本地公司中提供资金和服务的资格。
 
