@@ -8,15 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045044"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213714"
 ---
----
-
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 为美国公共事业部门客户创建了特定的 Microsoft 365 政府环境。 本节概述了环境以及如何购买的详细信息。 建议在[Microsoft 365 和 Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)中阅读此补充部分。

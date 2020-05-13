@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组织的需求。 如果你正在寻找计划（包括 Exchange Online 计划）之间的差异，本文将向你展示每个计划中包含的功能。
-ms.openlocfilehash: be73f1d01d166697377f9670759810b7d738f2cd
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 8c050d771976fb70707f0d781edaa9fdcbcb76fe
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044974"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214004"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -27,7 +27,7 @@ Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组
   
 Microsoft 365 和 Office 365 可为各种规模的企业提供云生产力的强大功能，帮助节省时间、节省资金并释放宝贵资源。 Microsoft 365 和 Office 365 计划将熟悉的 Microsoft Office 桌面套件与 Microsoft 的下一代 Exchange 通信和协作服务（包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for web）和 Microsoft Skype for Business Online 结合在一起，以帮助用户从几乎任何位置通过 internet 实现工作效率。
   
-若要跨计划比较功能，请参阅[比较计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或，有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。
+若要跨计划比较功能，请参阅[支持企业的强大工具](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409); 有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -45,11 +45,11 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 ## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 和 Office 365 非盈利计划和定价
 
-对于符合 Microsoft 365 或 Office 365 非盈利性计划的组织，这些计划包含的功能与相应的商业计划完全相同（例如，Office 365 非盈利 E5 包含与 Office 365 E5 相同的功能）。 同等计划的唯一区别是价格。 有关 Microsoft 365 和 Office 365 非盈利计划的详细信息，请参阅[比较 Microsoft 365 和 office 365 非盈利服务](https://go.microsoft.com/fwlink/?LinkID=627221)和此[FAQ](https://go.microsoft.com/fwlink/?LinkID=786641)。
+对于符合 Microsoft 365 或 Office 365 非盈利性计划的组织，这些计划包含的功能与相应的商业计划完全相同（例如，Office 365 非盈利 E5 包含与 Office 365 E5 相同的功能）。 同等计划的唯一区别是价格。 有关 Microsoft 365 和 Office 365 非盈利计划的详细信息，请参阅[比较 Microsoft 365 和 office 365 非盈利产品](https://go.microsoft.com/fwlink/?LinkID=627221)和[非营利组织的生产力解决方案](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系统要求
 
-有关 Microsoft 365 和 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 And Office 的系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关 Microsoft 365 和 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 和 Office 资源的系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="service-level-agreement"></a>服务级别协议
 
@@ -57,7 +57,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-有关安全&amp;合规性中心的信息以及指向其他信息和可用性的链接，请参阅[ &amp;安全合规中心](office-365-securitycompliance-center.md)。
+有关安全 &amp; 合规性中心的信息以及指向其他信息和可用性的链接，请参阅[安全 &amp; 合规中心](office-365-securitycompliance-center.md)。
   
 ## <a name="data-storage-location"></a>数据存储位置
 
@@ -197,7 +197,6 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |FISMA 操作授权  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 数据处理协议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 监管的 PAN 数据  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> ||||||||
 |**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> **Office 365 Germany 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[合作伙伴](partners.md)** <br/> ||||||||
@@ -209,9 +208,9 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 > <sup>1</sup> Microsoft 365 和 Office 365 不提供对其制造商不支持的任何操作系统的支持。 
 <br/><sup>2</sup> Azure 信息保护不包括在内，但可以作为单独的附加项购买，并将启用受支持的信息权限管理（IRM）功能。 某些 Azure 信息保护功能需要订阅适用于企业的 Microsoft 365 应用程序，这不包含在 Microsoft 365 商业版、Microsoft 365 商业标准、Office 365 企业版 E1、Office 365 教育或 Office 365 Enterprise F3 中。 Microsoft 365 的商业应用程序附带的 Office 客户端应用还支持完整的 Azure 信息保护（计划1）功能。
 <br/><sup>3</sup>如果使用与本地 active directory 的目录同步，您必须使用本地 active directory （而非 Microsoft 365 门户）删除帐户或更改密码（使用 Windows PowerShell 的 Azure Active directory 模块）。 
-<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup>若要了解如何为用户设置自助服务密码管理策略，请参阅[使用安全信息重置工作或学校密码](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 
 <br/><sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
-<br/><sup>7</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息，请参阅[介绍 Microsoft 安全分数](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
+<br/><sup>7</sup>在[Microsoft 安全记分](https://securescore.office.com)安全页上提供。 必须拥有管理员权限。 有关详细信息，请参阅[Microsoft 安全分数](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
 <br/><sup>8</sup>特定地理位置的客户暂无法使用 Microsoft Sway。 某些自 2015 年 8 月起市场中不再提供的旧版 Office 365 可能也无法使用 Microsoft Sway。 
 <br/><sup>9</sup>降低了体验。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
 <br/><sup>10 个</sup>microsoft 团队在 Microsoft 365 业务基本版、Microsoft 365 商业标准版、Office 365 企业版（E1、E3、E5、F3）和 Office 365 教育版计划中提供。 
@@ -225,5 +224,5 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 <br/><sup>18</sup>从5月2019开始，Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。
 <br/><sup>19</sup>可作为免费加载项提供。 有关详细信息，请参阅[获取 Microsoft 预订的访问权限](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce)。
 <br/><sup>20</sup>有关详细信息，请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>21</sup>包括 Azure active [directory 定价页面](https://azure.microsoft.com/pricing/details/active-directory/)上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5，才能获取高级 Azure AD 功能。<br/>
-<sup>22</sup>将简报电子邮件自动提供给 Exchange Online 的所有用户。 有关详细信息，请参阅[Configure The 简报 email](https://docs.microsoft.com/Briefing/be-admin)。<br>
+<br/><sup>21</sup>包括 Azure active [directory 定价](https://azure.microsoft.com/pricing/details/active-directory/)页面上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5，才能获取高级 Azure AD 功能。<br/>
+<sup>22</sup>将简报电子邮件自动提供给 Exchange Online 的所有用户。 有关详细信息，请参阅[配置简报电子邮件](https://docs.microsoft.com/Briefing/be-admin)。<br>

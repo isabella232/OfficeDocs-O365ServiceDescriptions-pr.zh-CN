@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002329"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213874"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -43,13 +43,13 @@ Web 的项目是基于 Microsoft Power Platform 建立的。 电源平台由 Pow
 
 ### <a name="project-online"></a>Project Online
  
-Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 Project Online 提供强大的项目管理功能，以便在几乎任何设备上的几乎任何位置&mdash;规划、确定项目和项目组合投资的优先级并对其进行管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
+Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 Project Online 提供强大的项目管理功能，以便在 &mdash; 几乎任何设备上的几乎任何位置规划、确定项目和项目组合投资的优先级并对其进行管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
 
 Project Online 在 SharePoint 平台上构建，并将数据存储在 SharePoint 数据存储中。
 
 Project Online 可通过以下两项订阅进行：项目计划3和项目计划5。 [Project online 功能](#project-online-features)部分中列出的功能仅与 Project online SharePoint 数据存储中的数据进行交互。
 
-Project Online 的工作组成员功能通过 Project Online Essentials 订阅提供。 Project Online Essentials 是针对具有项目计划3或项目计划5订阅的客户的工作组成员 *附加* 订阅。 它为团队成员提供了一个 web 界面，用于对 Project Online 中管理的项目执行任务和时间更新。
+Project Online 的工作组成员功能通过 Project Online Essentials 订阅提供。 Project Online Essentials 是 *add-on*   针对具有项目计划3或项目计划5订阅的客户的工作组成员附加订阅。 它为团队成员提供了一个 web 界面，用于对 Project Online 中管理的项目执行任务和时间更新。
 
 具有 Project Online Essentials 的团队成员可以执行以下 Project Online 函数：
 
@@ -188,7 +188,7 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 |用户管理 | 管理项目、团队和组织级别的用户和组角色以及权限。 | 否 | 可访问 |
 |服务管理 | 在 Office 365<sup>1</sup>环境中规划、安装和配置、维护和扩展 Microsoft Project 环境。  | 否 | 可访问 |
 
-#### <a name="notes"></a>备注
+#### <a name="notes"></a>注释
 
 <sup>1</sup>需要 Office 或 Microsoft 365 商业版订阅。</br>
 <sup>2</sup>个独立购买的 Azure 主板。</br>
@@ -248,9 +248,7 @@ Microsoft 团队集成 | 在 Microsoft 团队中对项目进行协作。<sup>1</
 ## <a name="service-considerations"></a>服务注意事项
 
 > [!NOTE]
-> - 当前不提供用于&ndash; web 的法国和韩国项目。 我们正在努力将网站的项目传递到你的区域，并将在下面指示的通信通道中通知你其可用性。
-> - 教育&ndash;版客户即将向我们提供教育项目。 精确的时间范围已挂起。
-> - GCC、gcc 高、DoD &ndash;目前，Web 的项目不适用于 GCC、Gcc 和 DoD。 我们正在努力为你提供网站的项目，但目前无法共享一个固定的时间范围。
+> 适用于 web 的 Project 当前不可用于 GCC、GCC 高和 DoD。 我们正在努力为你提供 web 项目，但目前无法共享一个固定的时间范围。
 
 ### <a name="licensing-considerations"></a>许可注意事项
 

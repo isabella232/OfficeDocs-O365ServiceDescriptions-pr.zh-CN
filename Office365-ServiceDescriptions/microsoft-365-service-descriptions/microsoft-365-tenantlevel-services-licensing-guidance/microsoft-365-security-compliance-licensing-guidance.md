@@ -12,21 +12,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090135"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214014"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
-在本文中，租户级服务是一种在线服务，&mdash;在为租户中的任何用户购买（独立或作为 Office 365 或 Microsoft 365 计划的一部分）&mdash;时，将为租户中的所有用户激活或完全激活。 尽管一些未经许可的用户在技术上能够访问该服务，但您希望从该服务获益的任何用户都需要许可证。
+在本文中，租户级服务是一种在线服务，在为租户中的 &mdash; 任何用户购买（独立或作为 Office 365 或 Microsoft 365 计划的一部分）时，将为 &mdash; 租户中的所有用户激活或完全激活。 尽管一些未经许可的用户在技术上能够访问该服务，但您希望从该服务获益的任何用户都需要许可证。
 
 > [!NOTE]
 > 某些租户服务当前不能限制特定用户的优势。 应采取措施将服务的好处限制为许可用户。 这有助于避免您的组织在获得目标功能后对组织造成潜在的服务中断。
 
-若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -96,7 +96,7 @@ Office 365 高级威胁防护，Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，M
 
 Office 365 云应用安全（OCAS）是 Microsoft 云应用安全性的子集，其中的功能仅限于 Office 365，而无需对第三方云应用和 IaaS 服务进行额外的安全性。
 
-OCAS 使组织能够深入了解他们的工作效率云应用和服务，提供了完善的分析来识别和防御网络威胁，并使&mdash;他们可以控制数据在 Office 365 之间的传输方式。
+OCAS 使组织能够深入了解他们的工作效率云应用和服务，提供了完善的分析来识别和防御网络威胁，并使他们可以控制数据 &mdash; 在 Office 365 之间的传输方式。
 
 若要比较功能，请参阅[Microsoft Cloud App security 与 Office 365 云应用安全性之间的差异](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365)。
 
@@ -121,7 +121,7 @@ Office 365 E5/A5/G5 为用户提供了从 OCAS 获益的权限。
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并&mdash;允许他们控制数据在任何云应用中的传输方式。
+Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并允许他们控制数据 &mdash; 在任何云应用中的传输方式。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -352,7 +352,7 @@ Microsoft 365 A1/E3/A3/a/Business、Office 365 E3/A3 和 Office 365 数据丢失
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在安全 & 合规性中心的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
+管理员可以在安全 & 合规性中心的 "**数据丢失防护**位置" 下自定义位置（工作负荷）、包含的用户和排除的用户  >  **Locations**。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>工作组的通信数据丢失防护
 
@@ -372,7 +372,7 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在安全 & 合规性中心的 "**数据丢失防护** > **位置**" 下自定义位置（工作负荷）、包含的用户和排除的用户。
+管理员可以在安全 & 合规性中心的 "**数据丢失防护**位置" 下自定义位置（工作负荷）、包含的用户和排除的用户  >  **Locations**。
 
 ## <a name="information-barriers"></a>信息屏障
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/A3、Office 365 E3/A3 和 Azure Information Protection Plan 1 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-管理员在 "**邮件流** > **规则**" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息，请参阅[设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
+管理员在 "**邮件流**规则" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略  >  **Rules**。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息，请参阅[设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
@@ -514,7 +514,7 @@ Office 365 E5、Microsoft 365 E5、Microsoft 365 E5 合规性和 Microsoft 365 �
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-由于 Microsoft 365 服务中与用户活动相关的审核记录可保留最多一年，因此用户从高级审核中受益。 此外，还记录了高值审核事件，如访问或读取用户邮箱中的项目的时间。 有关详细信息，请参阅[高价值审核事件](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events)。
+由于 Microsoft 365 服务中与用户活动相关的审核记录可保留最多一年，因此用户从高级审核中受益。 此外，还记录了高值审核事件，如访问或读取用户邮箱中的项目的时间。 有关详细信息，请参阅[Microsoft 365 中的高级审核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 

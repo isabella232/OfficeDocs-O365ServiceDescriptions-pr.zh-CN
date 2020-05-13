@@ -1,5 +1,5 @@
 ---
-title: 适用于 web 服务说明的 Visio
+title: Visio 网页版服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 对于 web Visio，您可以在 web 上查看、编辑和共享 Visio 图表。
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263225"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213645"
 ---
-# <a name="visio-for-the-web-service-description"></a>适用于 web 服务说明的 Visio
+# <a name="visio-for-the-web-service-description"></a>Visio 网页版服务说明
 
 对于 web Visio，您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始，以表达常见想法，如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和富形状集创建第一类图表非常简单且容易。 Visio for web 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
   
-有关详细信息和入门，请参阅适用于[web 的 Visio](https://products.office.com/en-US/visio/visio-online)。
+有关详细信息和入门，请参阅[Visio 计划 1](https://products.office.com/en-US/visio/visio-online)。
   
-若要获取有关对 web 使用 Visio 的帮助，请参阅[Visio 帮助中心](https://support.office.com/visio)。
+若要获取有关对 web 使用 Visio 的帮助，请参阅[Visio 帮助 & 学习](https://support.office.com/visio)。
   
 ## <a name="feature-availability-and-comparison"></a>功能可用性和比较
 

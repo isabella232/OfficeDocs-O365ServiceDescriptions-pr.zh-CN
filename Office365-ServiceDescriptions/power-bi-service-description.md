@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI 是一个基于云的业务分析工具套件，使任何人都能够以更快、更高的效率和理解方式连接、可视化和分析数据。 通过简单易用的仪表板将用户连接到各种实时数据，提供交互式报表，并提供极具吸引力的可视化效果，使数据更加生动。
-ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0e73585454ad28c79253c2ccd860969313c7790d
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638970"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213934"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服务说明
 
@@ -25,7 +25,7 @@ Power BI 是一个基于云的业务分析工具套件，使任何人都能够�
   
 Power BI 目前属于 Office 365 企业版 E5。 有关详细信息，请参阅 [Power BI](https://powerbi.microsoft.com/)。
   
-若要跨计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
+若要跨计划比较功能，请参阅[强大的工具来支持您的企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="power-bi-plans"></a>Power BI 计划
 

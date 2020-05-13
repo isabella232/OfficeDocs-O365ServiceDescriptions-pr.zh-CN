@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。
-ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640140"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213944"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -45,9 +45,9 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 - Exchange Online Protection
 
-- Microsoft 365 商业基本版
+- Microsoft 365 商业基础版
 
-- Microsoft 365 商业标准
+- Microsoft 365 商业标准版
 
 - Office 365 企业版 E1
 
@@ -61,7 +61,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 若要购买 Office 365 高级威胁防护，请参阅[office 365 高级威胁防护](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
 
-若要跨计划比较功能，请参阅[比较 Microsoft 365 应用程序的商业计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)和[发现适合你的 microsoft 365 企业解决方案](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
+若要跨计划比较功能，请参阅[强大的工具来支持您的企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)并[使用 Microsoft 365 转换企业](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护（ATP）的新增功能
 
@@ -73,7 +73,7 @@ ATP 包含在 Office 365 企业版 E5、Office 365 教育版 A5 和 Microsoft 36
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Office 365 高级威胁防护（ATP）的要求
 
-ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一起使用。 若要了解 ATP 支持的操作系统、Web 浏览器和语言，请参阅 [Exchange Online Protection 中的 Exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)的"支持的浏览器"和"支持的语言"部分。
+ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一起使用。 有关 ATP 支持的操作系统、web 浏览器和语言的信息，请参阅 exchange [Online Protection 中 exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)的 "支持的浏览器" 和 "支持的语言" 部分。
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>跨高级威胁防护（ATP）计划的功能可用性
 
@@ -122,7 +122,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 - Microsoft Teams 频道和聊天
 
 > [!NOTE]
-> 用户必须获得 ATP<sup>\*</sup>许可，必须包含在 Atp 安全链接策略中，并且必须在其设备上登录，才能就地保护。
+> 用户必须获得 ATP 许可 <sup>\*</sup> ，必须包含在 Atp 安全链接策略中，并且必须在其设备上登录，才能就地保护。
 >
 > <sup>\*</sup>对于组织范围的 ATP 许可证（例如，ATP_ENTERPRISE_FACULTY），无需向单个用户分配 ATP 许可证。
 >
@@ -146,7 +146,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 资源管理器包含视图，如恶意软件（电子邮件和内容）、提交、网络钓鱼和所有电子邮件。 若要查看浏览器与实时检测的比较情况，请[下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
-有关浏览器（在 Office 365 高级威胁防护计划2中）和实时检测（在 Office 365 高级威胁防护计划1中）的详细信息，请参阅[威胁 Explorer （和实时检测）](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+有关浏览器（在 Office 365 高级威胁防护计划2中）和实时检测（在 Office 365 高级威胁防护计划1中）的详细信息，请参阅[威胁资源管理器和实时检测](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
 
 ### <a name="real-time-detections"></a>实时检测
 

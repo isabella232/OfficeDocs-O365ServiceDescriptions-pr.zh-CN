@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业高级版是适用于中小型企业客户的 Microsoft 一流产品。 Microsoft 365 商业高级版是一个集成的解决方案，可将 Microsoft 365 的工作效率、高级安全性和设备管理结合在一起。
-ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640300"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213954"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
@@ -24,7 +24,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>功能比较： Microsoft 365 商业标准和 Microsoft 365 商业高级版
 
-|**服务区域** |**功能** | **Microsoft 365 商业标准** | **Microsoft 365 商业高级版** |
+|**服务区域** |**功能** | **Microsoft 365 商业标准版** | **Microsoft 365 商业高级版** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**可用的许可证** | 最大用户数 | 300  | 300  |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商业版 | 商业版 |
@@ -32,8 +32,8 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 |是 |
 |**文件存储** | OneDrive for Business  | 每个用户 1 TB | 每个用户 1 TB |
 |**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online、PowerApps、增强功能自动化 | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;预订<sup>1</sup> | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>1</sup> | 是 | 是 |
+|**业务应用程序** | 计划应用 &ndash; 预订<sup>1</sup> | 是 | 是 |
+|   | 业务应用程序 &ndash; MileIQ<sup>1</sup> | 是 | 是 |
 |**威胁防护** | Office 365 高级威胁防护 | 否 | 可访问 |
 |   | Windows 入侵防护强制实施 | 否 | 可访问  |
 |**身份管理** | 混合 Azure Active Directory 帐户的自助服务密码重置 | 否 | 可访问 |
@@ -63,8 +63,8 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 | 是 |
 |**文件存储** | OneDrive for Business | 无限制 | 每个用户 1 TB |
 |**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Power 自动化<sup>1</sup> | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;程序预订<sup>2</sup> | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>2</sup> | 否 | 可访问 |
+|**业务应用程序** | 计划应用程序 &ndash; 预订<sup>2</sup> | 是 | 是 |
+|   | 业务应用程序 &ndash; MileIQ<sup>2</sup> | 否 | 可访问 |
 |**威胁防护** | Office 365 高级威胁防护 | 否 | 可访问 |
 |   | Windows 入侵防护强制实施 | 否 | 可访问 |
 |**身份管理** | 混合 Azure Active Directory 帐户的自助服务密码重置 | 否 | 可访问 |
@@ -88,7 +88,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>功能比较： Microsoft 365 商业标准、Microsoft 365 商业高级版和 Office 365 E3
 
-|**服务区域**   |**功能** | **Microsoft 365 商业标准** | **Microsoft 365 商业高级版** | **Office 365 E3** |
+|**服务区域**   |**功能** | **Microsoft 365 商业标准版** | **Microsoft 365 商业高级版** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**可用的许可证** | 最大用户数 | 300 | 300 | 无限制 |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商业版 | 商业版 | 专业增强版 |
@@ -96,8 +96,8 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |**用于团队合作的中心** | Microsoft 团队中的基于聊天的工作区、联机会议和更多内容 | 是 | 是 | 是 |
 |**文件存储** | OneDrive for Business | 每个用户 1 TB | 每个用户 1 TB | 无限制 |
 |**社交、视频、网站** | Stream、Yammer、Planner、SharePoint Online<sup>1</sup>、PowerApps<sup>1</sup>、Power 自动化<sup>1</sup> | 是 | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;程序预订<sup>2</sup> | 是 | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>2</sup> | 是 | 是 | 否 |
+|**业务应用程序** | 计划应用程序 &ndash; 预订<sup>2</sup> | 是 | 是 | 是 |
+|   | 业务应用程序 &ndash; MileIQ<sup>2</sup> | 是 | 是 | 否 |
 |**威胁防护** | Office 365 高级威胁防护 | 否 | 必需 | 否 |
 |   | Windows 入侵防护强制实施 | 否 | 必需 | 否 |
 |**身份管理** | 混合 Azure Active Directory 帐户的自助服务密码重置 | 否 | 必需 | 否 |
@@ -121,7 +121,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>功能比较： Microsoft 365 商业标准版和 Microsoft 365 商业版计划
 
-|**服务区域**   |**功能** | **Microsoft 365 商业标准** | **Microsoft 365 商业高级版** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**服务区域**   |**功能** | **Microsoft 365 商业标准版** | **Microsoft 365 商业高级版** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**可用的许可证** | 最大用户数 | 300 | 300 | 无限制 | 无限制 |
 |**Office 应用** | 在最多5台 Pc 上安装 Office + Mac + 5 平板电脑 + 5 智能手机（Word、Excel、PowerPoint、OneNote、Access）、Office Online | 商业版 | 商业版 | 专业增强版 | 专业增强版 |
@@ -130,12 +130,12 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |**文件存储** | OneDrive for Business | 每个用户 1 TB | 每个用户 1 TB | 不限制 | 不限制 |
 |**社交、视频、网站** | Yammer、SharePoint Online、Planner | 是 | 是 | 是 | 是 |
 |   | Stream | | 是 | 是 | 是 |
-|**业务应用程序** | 计划应用&ndash;预订<sup>1</sup> | 是 | 是 | 是 | 是 |
-|   | 业务应用&ndash;程序 MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
+|**业务应用程序** | 计划应用 &ndash; 预订<sup>1</sup> | 是 | 是 | 是 | 是 |
+|   | 业务应用程序 &ndash; MileIQ<sup>1</sup> | 是 | 是 | 否 | 否 |
 |**威胁防护** | Microsoft 高级威胁分析、设备防护、Credential Guard、AppLocker、企业数据保护 | 否 | 否 | 可访问 | 是 |
 |   | Office 365 高级威胁防护 | 否 | 必需 | 否 | 可访问 |
 |   | Windows Defender 高级威胁防护 | 否 | 否 | 否 | 可访问 |
-|   | Office 365 Threat Intelligence | 否 | 否  | 否 | 可访问 |
+|   | Office 365 威胁智能 | 否 | 否  | 否 | 可访问 |
 |**身份管理** | 混合 Azure Active Directory 帐户、Azure MFA、条件访问的自助服务密码重置   | 否 | 可访问 | 是 | 是 |
 |   | Azure AD：云应用发现，Azure AD Connect Health，SSO 适用于10个以上的应用程序 | 否 | 否 | 可访问 | 是 |
 |   | Azure Active Directory 计划2 | 否 | 否 | 否 | 可访问 |
@@ -160,7 +160,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 
 ## <a name="office-client-commercial-plans"></a>Office 客户端商业版计划
 
-| **应用** | **适用于企业的 Microsoft 365 应用程序** | **适用于企业的 Microsoft 365 应用程序** |
+| **应用** | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
 |------------------|-------------------------|------------------------|
 | Word             | 是                     | 是                    |
 | Excel            | 是                     | 是                    |
@@ -170,7 +170,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 | Publisher        | 是                     | 是                    |
 | Access           | 是                     | 是                    |
 | Microsoft Teams  | 是                     | 是                    |
-| **津贴价值**                             | **适用于企业的 Microsoft 365 应用程序** | **适用于企业的 Microsoft 365 应用程序** |
+| **津贴价值**                             | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
 | 批量激活                             | 否                      | 否                     |
 | 组策略<sup>1</sup>                      | 否                      | 可访问                    |
 | 共享计算机激活                    | 是<sup>7</sup>        | 是                    |
@@ -183,12 +183,12 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 | 商业智能                         | 否                      | 是<sup>5</sup>        |
 | 创建 IRM<sup>3</sup>                        | 是<sup>7</sup>        | 是                    |
 | 数据丢失防护<sup>3</sup>              | 是<sup>7</sup>        | 是<sup>5</sup>        |
-| **云值**                  | **适用于企业的 Microsoft 365 应用程序** | **适用于企业的 Microsoft 365 应用程序** |
+| **云值**                  | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
 | 组                           | 是                     | 是                    |
 | Office 部署工具           | 是                     | 是                    |
 | 漫游文档 & 设置     | 是                     | 是                    |
 | 1 TB OneDrive for Business       | 是                     | 是                    |
-| **许可**                                   | **适用于企业的 Microsoft 365 应用程序** | **适用于企业的 Microsoft 365 应用程序** |
+| **许可**                                   | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
 | 许可模型                                 | 每个用户                | 每个用户               |
 | 许可证类型                                    | 订阅            | 订阅           |
 | 电脑/Mac 安装<sup>6</sup>                     | 5                        | 5                      |
@@ -204,11 +204,11 @@ Microsoft 365 商业高级版包括 Microsoft 365 商业客户端，这与 Micro
 
 <sup>1</sup>允许组织将 Office 的某些配置设置（安全设置、应用设置、Active Directory 漫游等）推送到企业网络的计算机上。
 
-<sup>2</sup>使用 office Standard 2016 和 Office Professional Plus 2016，它具有对使用 MSI 模型的更新的完全控制。 对于面向企业的 Microsoft 365 应用程序和**microsoft 365 应用程序**，安装和更新通过即点即用进行管理。
+<sup>2</sup>使用 office Standard 2016 和 Office Professional Plus 2016，它具有对使用 MSI 模型的更新的完全控制。 对于面向企业的 Microsoft 365 应用程序和 Microsoft 365 应用程序，安装和更新通过即点即用进行管理。
 
 <sup>3</sup>这些套件提供了与业务生产力服务器的不同级别的集成。
 
-<sup>4</sup>存档来自 Outlook&mdash;的电子邮件无需&mdash;.pst 文件和设置自动存档或删除电子邮件的保留策略。 IT 管理员可以集中管理就地存档。
+<sup>4</sup>存档来自 Outlook 的电子邮件 &mdash; 无需 .pst 文件 &mdash; 和设置自动存档或删除电子邮件的保留策略。 IT 管理员可以集中管理就地存档。
 
 <sup>5</sup>需要其他联机服务。
 

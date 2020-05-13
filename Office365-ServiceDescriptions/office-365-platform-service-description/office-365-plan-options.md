@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044984"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213904"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -38,7 +38,7 @@ ms.locfileid: "44044984"
 |**教育版（不受限制的用户数）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**政府（用户数量不受限制）** <br/> |[查看所有可用的业务计划](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**由世纪互联运营的 Office 365** <br/> |[查看所有可用的企业版计划](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[查看所有可用的业务计划](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Germany** <br/> |[请参阅了解 Office 365 德国](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每个 Office 365 计划中的服务可用性
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云和商业云之间的功能差异，如 Exchange Online 服务说明中所示。
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813396"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213694"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online for 美国政府环境
 
@@ -22,7 +22,7 @@ ms.locfileid: "43813396"
 
 有关政府云（包括资格和购买）的详细信息，请参阅 [Microsoft 365 政府-如何购买](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比较 Office 365 政府版计划，请参阅 [office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
-若要了解管理网络连接时所需的终结点，请参阅 [office 365 美国政府版高终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 或 [office 365 美国政府 DoD 终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
+若要了解管理网络连接时所需的终结点，请参阅 [office 365 美国政府版高终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   或 [Office 365 美国政府 DoD 终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
 除了享受 Office 365 的特性和功能外，组织还可以受益于美国政府云环境所特有的以下功能：
 
@@ -65,7 +65,7 @@ ms.locfileid: "43813396"
 |就地保留和诉讼保留|是|是|是|需要 G3 或 G5 服务计划。|
 |就地电子数据展示|是|是|是||
 |邮件流规则|是|是|是||
-|数据丢失防护|否|可访问|是|需要 G3 或 G5 服务计划。|
+|数据丢失预防|是|是|是|需要 G3 或 G5 服务计划。|
 |日记功能 |是|是|是||
 |**[反垃圾邮件和反恶意软件保护](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 高**|**DoD**|**关键注意事项**|
 |内置反垃圾邮件保护|是|是|是||
@@ -154,9 +154,9 @@ GCC 高级和 DoD 环境都是受限制的环境，需要明确批准和配置�
 
 由于这些限制，通常不支持依赖于 GCC 高/DoD 环境的此出站连接的功能，包括： 
 
-- 已连接&mdash;帐户用户无法添加/同步帐户（GOOGLE、POP/IMAP 等）。 
+- 已连接帐户 &mdash; 用户无法添加/同步帐户（Google、POP/IMAP 等）。 
 
-- 对第三方文件存储提供程序&mdash;的支持只有用户的 OneDrive for business *帐户* 可以从各种 Outlook 客户端中进行访问，以附加/共享文件。 无法添加第三方存储帐户（收存箱、Box、Google Drive）。 
+- 对第三方文件存储提供程序的支持 &mdash; 只有用户的 OneDrive for business *within GCC High/DoD*帐户   可以从各种 Outlook 客户端中进行访问，以附加/共享文件。 无法添加第三方存储帐户（收存箱、Box、Google Drive）。 
 
 - 与社交网络（如 Facebook 或 LinkedIn）的连接。 
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
-ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 02a39b94179a175a72e53c6a1d9e3ccacfca3ea3
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044814"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213674"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -25,14 +25,11 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
   
 有关包含 Yammer 的计划的列表，请参阅[Microsoft 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans)。
   
-若要跨计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
-  
-> [!TIP]
-> 您可以在 Microsoft 服务说明中导出、保存和打印页面。 了解如何[导出多个页面](https://go.microsoft.com/fwlink/?LinkId=403349)。 
+若要跨计划比较功能，请参阅[强大的工具来支持您的企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)。
   
 ## <a name="system-requirements"></a>系统要求
 
-有关 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关 Office 365 的系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 和 Office 资源](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
 ## <a name="yammer-plans"></a>Yammer 计划
 
@@ -41,7 +38,7 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 |**计划**|**说明**|
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |企业社交网络 - 随时随地。  <br/> |
-|[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |具有高级安全性、管理和集成的企业社交网络。  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |具有高级安全性、管理和集成的企业社交网络。  <br/> |
    
 > [!NOTE]
 > [Microsoft 365 和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)中所述的功能和策略不适用于 Yammer 服务。 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044784"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214034"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -31,7 +31,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 有关快速概述，请参阅[什么是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-若要查看哪些计划包含 SharePoint，请[比较 Microsoft 365 for business 计划](https://products.office.com/business/compare-more-office-365-for-business-plans)。 有关 Microsoft 365 的系统要求，请参阅[Office 的系统要求](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
+了解哪些计划包括 SharePoint、[支持企业的强大工具](https://products.office.com/business/compare-more-office-365-for-business-plans)。 有关 Microsoft 365 系统要求，请参阅[microsoft 365 和 Office 资源](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
 
 若要了解有关我们政府云客户的 SharePoint 功能的区别，请参阅[sharepoint FOR us 政府环境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   
@@ -43,7 +43,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划迁移到另一个计划的信息，请参阅[Microsoft 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立服务销售，仅作为[Firstline 订阅](https://www.microsoft.com/microsoft-365/business/office-365-f1)的一部分出售。 
+若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立产品销售，仅作为[Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)的一部分进行销售。 
   
 ## <a name="rights-of-guests"></a>来宾的权限
 
@@ -51,11 +51,11 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 
 ## <a name="onedrive"></a>OneDrive
 
-Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive 包含在 SharePoint 中，也可作为独立计划进行购买。 若要了解每个计划有多少 OneDrive 存储，请参阅[Onedrive 服务说明](../onedrive-for-business-service-description.md)。
+Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive 包含在 SharePoint 中，也可作为独立计划进行购买。 若要了解每个计划有多少 OneDrive 存储，请参阅[onedrive 服务说明](../onedrive-for-business-service-description.md)。
 
 ## <a name="apps"></a>应用
 
-若要在计算机上同步 SharePoint 文件，用户可以使用适用于 Windows 或 Mac 的[OneDrive 同步应用程序](https://onedrive.live.com/about/download/)。 有关同步应用中的功能可用性的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。 
+若要在计算机上同步 SharePoint 文件，用户可以使用适用于 Windows 或 Mac 的[OneDrive 同步应用程序](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)。 有关同步应用中的功能可用性的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。 
 
 若要在移动设备上使用 SharePoint 网站，他们可以[安装适用于 iOS、Android 或 Windows 的 sharepoint 移动应用程序](https://products.office.com/sharepoint/mobile-app)。 
   
@@ -109,7 +109,7 @@ Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过�
 - [网站治理](/sharepoint/governance-overview) 
 - [术语库-托管元数据](/sharepoint/managed-metadata)
 
-有关 FastTrack 迁移服务的可用性的信息，请参阅适用于[Microsoft 365 的 FastTrack 中心权益](/fasttrack/m365-eligible-services-and-plans)。 
+有关 FastTrack 迁移服务的可用性的信息，请参阅[符合条件的服务和计划](/fasttrack/m365-eligible-services-and-plans)。 
 
 有关与共享相关的功能的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
 
@@ -143,7 +143,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 
 有关[Azure 信息保护](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)的信息，请参阅[azure 信息保护的要求](/azure/information-protection/requirements)
 
-有关客户密钥可用性的信息，请参阅[如何许可客户密钥？](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)。 
+有关客户密钥可用性的信息，请参阅[使用客户密钥的服务加密](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)。 
 
 
 
@@ -168,7 +168,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [组织资产库](/sharepoint/organization-assets-library)
 - [组织新闻](/sharepoint/organization-news-site)
 - [页面审批](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [页面](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - 记录管理
 - [回收站](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint 移动应用程序](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -179,8 +179,8 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [网站：通信网站](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [网站：主网站](/sharepoint/home-site)
 - [网站：中心网站](/sharepoint/planning-hub-sites)
-- 网站：新式团队网站（无 Office 365 组）
-- [网站： Office 365 组连接的团队网站](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 需要包含 Office 365 的订阅。
+- 网站：新式团队网站（无 Microsoft 365 组）
+- [网站： Microsoft 365 组连接的团队网站](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 需要包含 Office 365 的订阅。
 - [网站：根网站](/sharepoint/modern-root-site)
 - [团队 OneNote 笔记本](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [主题（更改外观）](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
