@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 当您添加域时，分步向导可帮助您添加用户并将电子邮件地址和其他服务转换为您的业务名称。 完成此向导后，你的业务电子邮件将转到 Microsoft，而不会转到你的当前电子邮件提供商。 若要了解详细信息，请参阅将用户和域添加到 Microsoft。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638860"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044824"
 ---
 # <a name="domains"></a>域
 
@@ -57,6 +57,6 @@ Microsoft 主动检查你的 DNS 记录，以查找并帮助解决 DNS 问题。
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Microsoft 365 的功能可用性、商业计划、独立选项和内部部署解决方案，请参阅[Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 的功能可用性、商业计划、独立选项和本地解决方案，请参阅[microsoft 365 和 Office 365 platform service description](office-365-platform-service-description.md)。
   
 

@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 服务说明 '
+title: Microsoft 365 和 Office 365 服务说明
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 是一项基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
+ms.openlocfilehash: 8f52de49564c07a41153b0935c27aef1277c4bb8
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002062"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044794"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 服务说明 
+# <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
-Microsoft Office 365 是一项基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。 
+Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。 
   
-此库中的主题详细描述了可与 Office 365 结合使用的服务和功能。若要跨计划比较功能，请参阅[比较 Office 365 商业版计划](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或以下列表中相关的服务描述。 
+此库中的主题提供了 Microsoft 365 和 Office 365 中提供的服务和功能的详细说明。 若要跨计划比较功能，请参阅[功能强大的工具来支持您的企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)或以下列表中的相关服务说明。 
   
-若要搜索支持文章和信息，请参阅 [Office 支持](https://support.office.com/)。
+有关支持文章和信息，请参阅[Office 帮助 & 培训](https://support.office.com/)、[管理员和 it 专业人员的 Office 文档](https://docs.microsoft.com/office/)，以及适用[于管理员和 it 专业人员的 Microsoft 365 帮助中心](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)。
   
 > [!NOTE]
 > 如果你正在查找服务说明比较电子表格，则它已停用。 每个服务说明页面上的产品功能可用性表都已更新，以更好地帮助您选择符合您的需求的 Office 365 版本。 
@@ -46,13 +46,15 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
 
 - [Exchange Online Protection 服务说明](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
 
-- [Office 365 高级威胁防护服务说明](office-365-advanced-threat-protection-service-description.md)
-
 - [Exchange Online Archiving 服务说明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [OneDrive for Business 服务说明](onedrive-for-business-service-description.md)
+- [Office 365 高级威胁防护服务说明](office-365-advanced-threat-protection-service-description.md)
 
-- [SharePoint Online 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Microsoft Teams 服务说明](teams-service-description.md)
+
+- [OneDrive 服务说明](onedrive-for-business-service-description.md)
+
+- [SharePoint 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 
@@ -64,15 +66,19 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
 
 - [Power BI 服务说明](power-bi-service-description.md)
 
-- [Project Online 服务说明](project-online-service-description/project-online-service-description.md)
+- [Microsoft 项目服务说明](project-online-service-description/project-online-service-description.md)
 
 - [Visio 网页版服务说明](visio-online-service-description/visio-online-service-description.md)
 
 - [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
 
+- [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
+
 - [Microsoft 365 商业高级版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 安全 & 合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+
+- [Microsoft 365 安全性与合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
 
