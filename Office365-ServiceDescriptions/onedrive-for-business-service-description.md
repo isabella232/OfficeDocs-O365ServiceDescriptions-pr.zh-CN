@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639870"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213924"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -27,7 +27,7 @@ ms.locfileid: "43639870"
   
 OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中，也可作为单独计划购买。 
     
-若要比较计划，请参阅[比较 Office 365 for Business 计划](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
+若要比较各计划，请参阅[支持企业的强大工具](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
   
 > [!NOTE]
 > OneDrive 独立计划包含 Office 网页版。 
