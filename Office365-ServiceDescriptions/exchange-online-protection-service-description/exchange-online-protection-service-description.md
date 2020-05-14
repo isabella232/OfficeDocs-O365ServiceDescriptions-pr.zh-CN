@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划的列表，以及这些计划之间的功能比较。
-ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213974"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226201"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -99,8 +99,9 @@ EOP 可与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一�
 |[Customize anti-malware policies](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|是|
 |[Quarantine](anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|是|是|是|
 |[Quarantine](anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|是|
-|[Outlook 的报告消息加载项](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|是|是|是|
-|[Outlook 网页版中的垃圾邮件报告](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是|是|是|
+|[提交](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|否|必需|否|
+|[Outlook 的报告消息加载项](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|是|
+|[Outlook 网页版中的垃圾邮件报告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是|是|是|
 |[在 Microsoft 和您自己的电子邮件服务器之间路由电子邮件](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[Secure messaging with a trusted partner](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|

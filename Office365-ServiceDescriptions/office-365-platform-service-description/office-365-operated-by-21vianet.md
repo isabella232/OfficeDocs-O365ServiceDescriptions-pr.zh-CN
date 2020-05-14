@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800618"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226251"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -491,8 +491,8 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Customize anti-malware policies](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|是|是|
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|是|是|
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|
-|[Outlook 的报告消息加载项](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|是|是|
-|[Outlook 网页版中的垃圾邮件报告](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|否<sup>7</sup>|否<sup>7</sup>|
+|[Outlook 的报告消息加载项](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|
+|[Outlook 网页版中的垃圾邮件报告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|否<sup>7</sup>|否<sup>7</sup>|
 |[在 Microsoft 和您自己的电子邮件服务器之间路由电子邮件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|
 |[Secure messaging with a trusted partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|
 |[合作伙伴 IP 地址安全列表](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|

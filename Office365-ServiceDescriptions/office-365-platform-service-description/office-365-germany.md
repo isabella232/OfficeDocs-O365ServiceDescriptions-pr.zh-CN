@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过提供业界领先的数字化工作效率服务（来自德国数据中心），并通过采用德国法律规定的独特的数据访问和控制措施，来帮助您满足德国最受管控客户在德国、欧盟（EU）和欧洲自由贸易协会（EFTA）的需求。
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639810"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226261"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -57,7 +57,7 @@ Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-安全&amp;合规性中心适用于 Office 365 德国。 有关详细信息和功能列表，请参阅[Office 365 安全&amp;合规中心](office-365-securitycompliance-center.md)。
+安全 &amp; 合规性中心适用于 Office 365 德国。 有关详细信息和功能列表，请参阅[Office 365 安全 &amp; 合规中心](office-365-securitycompliance-center.md)。
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>为 Office 365 德国提供了哪些合规性证书？
 
@@ -495,7 +495,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|是|
 |[高级数据调控](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|否|可访问|是|
 |[Office 365 威胁情报](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|否|可访问|是|
-|[Outlook 网页版中的垃圾邮件报告](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|是<sup>8</sup>|否<sup>8</sup>|否<sup>8</sup>|
+|[Outlook 网页版中的垃圾邮件报告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是<sup>8</sup>|否<sup>8</sup>|否<sup>8</sup>|
 |[在 Microsoft 和您自己的电子邮件服务器之间路由电子邮件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[Secure messaging with a trusted partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[合作伙伴 IP 地址安全列表](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|
@@ -633,7 +633,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |辅助功能标准支持|是|是|是|是|是|是|是|是|
 |资产库增强/视频支持|是|是|是|是|是|是|是|是|
 |审核|是|是|是|是|是|是|是|是|
-|审核&amp;报告（例如，文档编辑、策略编辑、删除|是|是|是|是|是|是|是|是|
+|审核 &amp; 报告（例如，文档编辑、策略编辑、删除|是|是|是|是|是|是|是|是|
 |内容管理器|可访问|否|可访问|是|是|是|是|是|
 |设计管理器|可访问|否|可访问|是|是|是|是|是|
 |文档集|是|是|是|是|是|是|是|是|

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
-ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
+ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022832"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226191"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -27,7 +27,7 @@ ms.locfileid: "44022832"
 
 Microsoft 预订是企业的在线和移动应用，希望在约会基础上为客户提供服务。 此类公司的示例包括头发发廊、牙科办事处、spa、法律公司、金融服务提供商、顾问、医疗保健专业人员、教育机构和自动商店。 Microsoft 预订适用于美国和加拿大拥有 Microsoft 365 商业版订阅的客户。
   
-有关 Microsoft 预订的详细信息，请转到[使用 Microsoft 预定在线发布业务日历](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)。
+有关 Microsoft 预订的详细信息，请转到[使用 Microsoft 预定在线发布业务日历](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US)。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 简报电子邮件
 
@@ -41,15 +41,15 @@ Microsoft 预订是企业的在线和移动应用，希望在约会基础上为�
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft 电力自动化功能使您能够跨应用程序自动执行工作流。 可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。 模板可作入门之用。 若要了解有关流功能以及如何使用它们的详细信息，请转到[Power 自动化网站](https://preview.flow.microsoft.com/en-us/)。
+Microsoft 电力自动化功能使您能够跨应用程序自动执行工作流。 可以使用 Flow 连接电子邮件和 IM 警报、在应用程之间同步文件、将文件从一项服务复制到另一项服务、从一个应用收集数据，然后将其存储在另一个应用中以及更多操作。 模板可作入门之用。 若要了解有关流功能以及如何使用它们的详细信息，请转到[Power 自动化网站](https://preview.flow.microsoft.com/)。
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-通过 Microsoft 表单，您可以快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据（如测验结果）导出到 Excel，以进行其他分析或评分。 若要了解详细信息，请参阅[什么是 Microsoft Forms？](https://support.office.com/en-us/forms)。
+通过 Microsoft 表单，您可以快速轻松地创建自定义测验、调查、调查表、注册等。 创建测验或表单后，甚至可以在移动设备上使用任何 Web 浏览器来邀请其他人作答。 提交结果后，可以使用内置的分析来评估这些回答内容。 可以轻松地将表单数据（如测验结果）导出到 Excel，以进行其他分析或评分。 若要了解详细信息，请参阅[什么是 Microsoft Forms？](https://support.office.com/forms)。
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph API
 
-使用 Microsoft Graph API 快速构建通过单个终结点连接到大量资源、关系和智能的应用程序： https://graph.microsoft.com。 例如，您可以生成自定义仪表板、工作流和应用程序，以检索组织的数据。 有关详细信息，请参阅[Microsoft Graph 文档](https://go.microsoft.com/fwlink/?linkid=849595)。
+使用 Microsoft Graph API 快速构建通过单个终结点连接到大量资源、关系和智能的应用程序： https://graph.microsoft.com 。 例如，您可以生成自定义仪表板、工作流和应用程序，以检索组织的数据。 有关详细信息，请参阅[Microsoft Graph 文档](https://go.microsoft.com/fwlink/?linkid=849595)。
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
@@ -61,7 +61,7 @@ Microsoft Planner 是一种使用户能够以可视化的方式来组织团队�
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps 是一种企业服务，可帮助你快速生成、集成和共享能在任何设备上运行的应用。 PowerApps 允许您使用内置连接或由贵公司构建的内置连接，将应用连接到云和本地服务，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。 只需键入电子邮件地址即可轻松地与同事共享你的 PowerApps。 要了解详细信息，请访问 Microsoft [PowerApps 网站](https://powerapps.microsoft.com/en-us/)。
+Microsoft PowerApps 是一种企业服务，可帮助你快速生成、集成和共享能在任何设备上运行的应用。 PowerApps 允许您使用内置连接或由贵公司构建的内置连接，将应用连接到云和本地服务，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。 只需键入电子邮件地址即可轻松地与同事共享你的 PowerApps。 要了解详细信息，请访问 Microsoft [PowerApps 网站](https://powerapps.microsoft.com/)。
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -77,7 +77,7 @@ Microsoft Sway 是一个专业的数字 storytelling 应用程序，可帮助你
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft 团队是一个以聊天为中心的工作区，可帮助工作组成员实现更多协作。 Microsoft 团队担任团队合作，提供将聊天对话、内容和工具的即时访问到单个工作区。 SharePoint 和 OneNote 内置其中，团队成员可以直接在应用中处理 Office 文档。 除聊天之外，Microsoft 团队还支持视频呼叫和会议，使团队能够在活动、按需或计划时开会。 团队成员可以随时与多个团队进行轻松协作，并可以搜索人员、聊天内容和文件。 Microsoft 团队在 Windows、Mac、web、Android 和 iOS 平台上工作。 若要了解详细信息，请参阅 [Microsoft Teams Online Help](https://go.microsoft.com/fwlink/?linkid=834413)（Microsoft Teams 联机帮助）。 Teams 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
+Microsoft 团队是一个以聊天为中心的工作区，可帮助工作组成员实现更多协作。 Microsoft 团队担任团队合作，提供将聊天对话、内容和工具的即时访问到单个工作区。 SharePoint 和 OneNote 内置其中，团队成员可以直接在应用中处理 Office 文档。 除聊天之外，Microsoft 团队还支持视频呼叫和会议，使团队能够在活动、按需或计划时开会。 团队成员可以随时与多个团队进行轻松协作，并可以搜索人员、聊天内容和文件。 Microsoft 团队在 Windows、Mac、web、Android 和 iOS 平台上工作。 若要了解详细信息，请参阅[Microsoft 团队服务说明](../teams-service-description.md)和[Microsoft 团队联机帮助](https://go.microsoft.com/fwlink/?linkid=834413)。 Teams 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
   
 ## <a name="office-delve"></a>Office Delve
 
@@ -85,7 +85,7 @@ Microsoft 团队是一个以聊天为中心的工作区，可帮助工作组成�
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365 组
 
-Microsoft 365 中的组将用户与同事、信息和应用程序连接起来，以实现更多的协作。 默认情况下，打开组以加强可发现性和共享，但是对于敏感内容用户也可以创建隐私组。 若要了解有关组的详细信息，请参阅[Microsoft 365 中的组](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。 有关组限制的信息，请参阅[了解 Microsoft 365 组](https://go.microsoft.com/fwlink/?linkid=846714)中的 "如何管理我的组"。
+Microsoft 365 中的组将用户与同事、信息和应用程序连接起来，以实现更多的协作。 默认情况下，打开组以加强可发现性和共享，但是对于敏感内容用户也可以创建隐私组。 若要了解有关组的详细信息，请参阅[Microsoft 365 中的组](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1)。 有关组限制的信息，请参阅[了解 Microsoft 365 组](https://go.microsoft.com/fwlink/?linkid=846714)中的 "如何管理我的组"。
   
 ## <a name="office-365-video"></a>Office 365 视频
 
