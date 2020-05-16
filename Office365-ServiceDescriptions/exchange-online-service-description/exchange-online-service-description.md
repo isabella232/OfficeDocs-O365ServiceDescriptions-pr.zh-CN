@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在寻找包括 Exchange Online 的订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213784"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267341"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -66,18 +66,18 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 
 如果你的组织当前已订阅 Office 365 小型企业版、Office 365 小型企业高级版或 Office 365 中型企业版，请访问 Microsoft 365 管理中心中的消息中心，或咨询你的提供商，了解有关新的 Microsoft 365 应用计划如何影响你的详细信息。 若要了解有关新的 Microsoft 365 应用计划系列的详细信息，请参阅[针对小型和中型企业的新计划](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)。
   
-|**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[规划和部署](planning-and-deployment.md)**|||||||||
 |支持的混合部署|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是<sup>16</sup>|
 |支持的 IMAP 迁移|是|是|是|是|是|是|是|是|
 |支持的直接转换迁移|是|是|是|是|是|是|是|是|
 |支持的暂存迁移|否|否|可访问|是|是|是|是|是|
-|**[权限](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[权限](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |基于角色的权限|是|是|是|是|是|是|可访问|否|
 |角色组|是|是|是|是|是|是|可访问|否|
 |角色分配策略|是|是|是|是|是|是|可访问|否|
-|**[邮件策略和合规性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[邮件策略和合规性](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |存档基于 Exchange Online 的邮箱| 否|否|可访问|是|是|是|可访问|否|
 |内部部署邮箱的基于云的存档|是 <sup>1</sup>|是<sup>1</sup>|否|否|可访问|是|可访问|否|
 |Messaging Records Management (MRM) |是|是|是|是|是|是|是|是|
@@ -93,7 +93,7 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |Transport rules|是 <sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
 |数据丢失防护|是<sup>5、14</sup>|是<sup>5、14</sup>|否|否|否|可访问|可访问|否|
 |日记功能 |是|是|是|是|是|是|是|是|
-|**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |内置反垃圾邮件保护|是 <sup>6</sup>|是 <sup>6</sup>|是|是|是|是|是|是|
 |自定义反垃圾邮件策略|是，但仅限通过 PowerShell 自定义|是，但仅限通过 PowerShell 自定义|是|是|是|是|是|是 <sup>7</sup>|
 |内置反恶意软件保护|是 <sup>8</sup>|是 <sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|是<sup>8</sup>|
@@ -101,13 +101,13 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |隔离 - 管理员管理|是|是|是|是|是|是|是|是 <sup>7</sup>|
 |隔离 - 最终用户自我管理|否|否|可访问|是|是|是|是|是|
 |高级强大的威胁保护|否|必需|否|否|否|否|必需|否|
-|**[邮件流](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[邮件流](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |出站邮件的自定义路由|是|是|是|是|是|是|是|是|
 |与受信任合作伙伴的安全邮件|是|是|是|是|是|是|是|是|
 |有条件的邮件路由|否|否|可访问|是|是|是|是|是|
 |向入站安全列表添加合作伙伴|否|否|可访问|是|是|是|是|是|
 |混合电子邮件路由|是|是|是<sup>16</sup>|是<sup>16</sup>|是|是|是|是|
-|**[收件人](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[收件人](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |容量报警|是|是|是|是|是|是|是|是|
 |混乱邮件|可访问|否|可访问|是|是|是|是|是|
 |MailTips|是|是|是|是|是|是|是|是|
@@ -119,7 +119,7 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |通讯簿策略|是|是|是|是|是|是|是|是|
 |分层通讯簿|是|是|是|是|是|是|可访问|否|
 |地址列表和全局地址列表|是|是|是|是|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|是<sup>18</sup>|
-|Office 365 组|否|否|可访问|是|是|是|是|是|
+|Microsoft 365 组|否|否|可访问|是|是|是|是|是|
 |通讯组|是|是|是|是|是|是|是|是|
 |外部联系人（全局）|是|是|是|是|是|是|是|是|
 |通用联系人卡片|是|是|是|是|是|是|是|是|
@@ -128,18 +128,18 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |会议室管理|是|是|是|是|是|是|是|是|
 |“外出”回复|是|是|是|是|是|是|是|是|
 |日历共享|是|是|是|是|是|是|是|是|
-|**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |Microsoft 365 管理中心报告|否|否|可访问|是|是|是|是|是|
 |Excel 报告工作簿|否|否|可访问|是|是|是|是|是|
 |Web 服务报告|否|否|可访问|是|是|是|是|是|
 |邮件跟踪|否|可访问|是|是|是|是|是|是|
 |审核报告|是|是|是|是|是|是|是|是 <sup>3</sup>|
 |统一消息报告|是|可访问|否|否|否|可访问|可访问|否|
-|**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[共享和协作](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |联合共享（包括日历发布）|是|是|是|是|是|是|是|是|
 |网站邮箱|是<sup>10</sup>|是<sup>10</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|
 |公用文件夹|是|是|是|是|是|是|可访问|否|
-|**[客户端和移动设备](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[客户端和移动设备](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |Outlook for Windows <sup>21</sup>|是|是|是|是|是|是|可访问| 否|
 |Outlook 网页版<sup>21</sup>|是|是|是|是|是|是|是|是|
 |Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|可访问| 否|
@@ -149,29 +149,29 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |POP 和 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
 |SMTP|是|是|是|是|是|是|是|是|
 |EWS 应用程序支持|是|是|是|是|是|是|可访问|否|
-|**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |语音邮件<sup>23</sup>|是|可访问|否|否|否|可访问|可访问|否|
 |语音邮件和第三方传真<sup>23</sup>之间的集成|是|可访问|否|否|否|可访问|可访问|否|
 |第三方语音邮件互操作性<sup>23</sup>|是|是|是|是|是|是|是|是|
 |Skype for Business 集成|是|是|是|是|是|是|是|是|
-|**[高可用性和业务连续性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[高可用性和业务连续性](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |数据中心的邮箱复制|否|否|可访问|是|是|是|是|是|
 |已删除邮箱的恢复|是|是|是|是|是|是|是|是|
 |已删除邮件的恢复|是|是|是|是|是|是|是|是|
 |单个项目恢复|是|是|是|是|是|是|可访问|否||
-|**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|是|是|是|
 |SharePoint 互操作性|是|是|是|是|是|是|是|是|
 |EWS 连接性支持|是|是|是|是|是|是|可访问|否|
 |SMTP 中继支持|是|是|是|是|是|是|是|是|
-|**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |Microsoft Office 365 门户访问|否|否|可访问|是|是|是|是|是|
 |Microsoft 365 管理中心访问|否|否|可访问|是|是|是|是|是|
 |Exchange 管理中心访问|是|是|是|是|是|是|是|是|
 |远程 Windows PowerShell 访问|是|是|是|是|是|是|是|是|
 |移动设备的 ActiveSync 策略|是|是|是|是|是|是|是|是|
 |使用情况报告|是|是|是|是|是|是|是|是|
-|**扩展服务 - 自定义、外接程序和资源**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**扩展服务 - 自定义、外接程序和资源**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |Outlook 加载项和 Outlook MAPI|是<sup>19</sup>|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|否|
 
 <sup>1</sup>对于具有基于云的存档的每个本地邮箱用户，需要一个 Exchange Online 存档订阅。 <br/>

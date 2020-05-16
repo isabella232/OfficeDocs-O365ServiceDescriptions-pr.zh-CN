@@ -9,36 +9,36 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: 安全&amp;合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: 安全 &amp; 合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001988"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267321"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[安全&amp;合规性中心](https://protection.office.com/)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+[安全 &amp; 合规性中心](https://protection.office.com/)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf) |  [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>商业&amp;和企业版计划的安全合规性中心可用性
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;商业和企业版计划的安全合规性中心可用性
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**  |**Microsoft 365 商业基本版**  |**Microsoft 365 商业标准版**  |**Microsoft 365 商业高级版**  |**Office 365 企业版 E1**， **Office 365 美国政府版 G1**  |**Office 365 企业版 E3**， **Office 365 美国政府版 G3**  |**Office 365 企业版 E5**  |**Office 365 企业版 f3**  **Office 365 美国政府 F3**|
-|[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
+|**功能**  |**Microsoft 365 商业基础版**  |**Microsoft 365 商业标准版**  |**Microsoft 365 商业高级版**  |**Office 365 企业版 E1**， **Office 365 美国政府版 G1**  |**Office 365 企业版 E3**， **Office 365 美国政府版 G3**  |**Office 365 企业版 E5**  |**Office 365 企业版 f3**  **Office 365 美国政府 F3**|
+|[对安全合规中心的访问权限 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否|否   |否   |可访问   |
 |邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |是   |是   |是   |是   |是   |是   |是   |
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)，如仿冒活动的威胁资源管理器<sup>6</sup>  |否   |否   |否   |否   |否   |必需   |否   |
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |否   |否   |否   |否   |否   |必需   |否   |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |是   |是   |是   |是   |是   |是   |是   |
 |[Exchange online、SharePoint online 和 OneDrive for](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)business<sup>7、9</sup>的数据丢失防护 |否   |否   |否   |否   |可访问   |是   |否   |
-|[Microsoft 团队的通信数据丢失防护](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |必需   |否  |
+|[Microsoft 团队的通信数据丢失防护](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |否   |可访问  |
 |[手动敏感度标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否  |否   | 可访问 | 是 | 是 | 否  |
 |自动灵敏度标签| 否 | 否  |否  | 否 | 否 | 是<sup>13</sup> | 否  |
 |[信息屏障](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |否   |否   |否   |否   |否   |必需   |否  |
@@ -53,8 +53,8 @@ ms.locfileid: "44001988"
 |[基本审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |是   |是   |是|是   |是   |是   |是   |
 |[高级审核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |否   |否   |否   |否   |否   |必需   |否   |
 |[通信合规性（监察策略）](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |否   |否   |否   |否   |否   |必需   |否   |
-|[Office 365 邮件加密 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |否   |必需   |否   |
-|[Office 365 高级邮件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |否   |必需   |否   |
+|[Office 365 邮件加密（OME） Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |可访问  |是   |否   |
+|[Office 365 高级邮件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |否 |必需   |否   |
 |[特权访问管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |否   |必需   |否   |
 |[客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |否   |必需   |否   |
 |||||||||
@@ -85,12 +85,12 @@ ms.locfileid: "44001988"
 
 <sup>13</sup>不包含基于机器学习的标记（trainable 分类器）。
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立&amp;计划的安全合规性中心可用性
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;独立计划的安全合规性中心可用性
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**功能**  |**Exchange Online 计划 1**  |**Exchange Online 计划 2**  |**Exchange Online Kiosk**  |**SharePoint Online 计划 1**  |**SharePoint Online 计划 2**  |**OneDrive for Business 计划 1** |**OneDrive for Business 计划 2** |**Skype for Business Online 计划 1**  |**Skype for Business Online 计划 2**  |
-|[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |是   |
+|[对安全合规中心的访问权限 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否   |否   |否   |否   |否   |否   |可访问   |
 |[威胁管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)，如邮件筛选和反恶意软件   |是   |是   |是   |是   |是   |是   |是   |是   |是   |
 |[高级威胁管理](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)，如仿冒活动的威胁资源管理器   |否   |否   |否   |否   |否   |否   |否   |否   |否  |
