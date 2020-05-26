@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638918"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356880"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -85,6 +85,10 @@ ms.locfileid: "43638918"
 ### <a name="managed-metadata"></a>托管元数据
 
 200000术语库中的术语，1000全局术语集，1000组。
+
+### <a name="overall-site-metadata"></a>总体网站元数据
+
+每个站点 1000 GB （元数据很少会达到此大小）。
 
 ### <a name="subsites"></a>出错 
 
