@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267331"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408922"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -30,7 +30,7 @@ ms.locfileid: "44267331"
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure Active Directory 标识保护（AADIP）是 Azure Active Directory 高级 P2 计划的一项功能，可让您检测影响组织标识的潜在漏洞，配置对检测到的与您组织的标识相关的可疑操作的自动响应，并调查可疑事件并采取适当的措施来解决这些问题。
+Azure Active Directory 标识保护是 Azure Active Directory 高级 P2 认证计划的一项功能，可让您检测到影响组织标识的潜在漏洞，并将自动响应配置为检测到的与您的组织的身份相关的可疑操作，并调查可疑事件并采取适当的措施来解决这些问题。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -42,11 +42,11 @@ SecOps 分析师和安全专家将从基于机器学习算法的已标记用户�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，AADIP 功能在租户级别为租户中的所有用户启用。 有关 AADIP 的信息，请参阅[什么是 Azure Active Directory 身份保护？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+默认情况下，Azure AD Identity Protection 功能在租户级别为租户中的所有用户启用。 有关 Azure AD Identity Protection 的信息，请参阅[什么是 Azure Active Directory 身份保护？](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以通过分配定义密码重置级别的风险策略并仅允许许可用户访问，来对 AADIP 进行作用域。 有关如何对 AADIP 部署进行作用域的说明，请参阅[配置登录风险策略](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
+管理员可以通过分配定义密码重置级别的风险策略并仅允许许可用户访问，来对 Azure AD 标识保护进行作用域。 有关如何对 Azure AD 标识保护部署进行作用域的说明，请参阅[配置登录风险策略](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
 ## <a name="azure-advanced-threat-protection"></a>Azure 高级威胁防护
 
