@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 创建了 Office 365 美国政府版计划（或 Office 365 政府版）。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045034"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429057"
 ---
 # <a name="office-365-us-government"></a>Office 365 美国政府版
 
@@ -134,7 +134,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-有关安全&amp;合规性中心的信息以及指向其他信息和可用性的链接，请参阅[ &amp;安全合规中心](../../office-365-platform-service-description/office-365-securitycompliance-center.md)。
+有关安全 &amp; 合规性中心的信息以及指向其他信息和可用性的链接，请参阅[安全 &amp; 合规中心](../../office-365-platform-service-description/office-365-securitycompliance-center.md)。
   
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
@@ -264,7 +264,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |安全分数<sup>14</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9</sup> <br/> |是<sup>9，15</sup> <br/> |是<sup>9，15</sup> <br/> |
 |Office 邮件加密  <br/> |否  <br/> |可访问 <br/> |可访问 <br/> |否  <br/> |
 |威胁智能  <br/> |无<sup>12</sup> <br/> |无<sup>12</sup> <br/> |是 <br/> |无<sup>12</sup> <br/> |
-|**[合规性](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[合规性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -296,7 +296,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 <br/><sup>11</sup>尚不可用于 Office 365 政府产品，但即将推出。 
 <br/><sup>12</sup>不包括在内，但可以作为单独的附加项在 GCC 中购买。 
 <br/><sup>13</sup>不支持 Office 365 政府版产品。 
-<br/><sup>14</sup>可在[https://securescore.office.com](https://securescore.office.com)中找到。 必须拥有管理员权限。 有关详细信息，请参阅[简介 Office 365 安全分数](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。
+<br/><sup>14</sup>可在中找到 [https://securescore.office.com](https://securescore.office.com) 。 必须拥有管理员权限。 有关详细信息，请参阅[简介 Office 365 安全分数](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。
 ). 
 <br/><sup>15</sup>在 DoD 环境中尚不可用，但即将推出。 
 <br/><sup>16</sup>管理中心不包括 DOD 或 GCC 高级环境中的使用情况分析。

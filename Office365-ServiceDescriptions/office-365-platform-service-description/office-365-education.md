@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起， &mdash; 其中包括 Microsoft Exchange online、Microsoft SharePoint online、Office for web 和 Microsoft Skype For Business Online， &mdash; 以帮助用户从几乎任何位置通过 internet 实现工作效率。
+ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044992"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429127"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
-为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起，&mdash;其中包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office for Web 和 microsoft Skype For business Online&mdash;，以帮助用户从几乎任何位置通过 internet 实现工作效率。
+为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起， &mdash; 其中包括 Microsoft Exchange online、Microsoft SharePoint online、Office for web 和 Microsoft Skype For Business Online， &mdash; 以帮助用户从几乎任何位置通过 internet 实现工作效率。
   
 本文列出了 Office 365 教育版计划的功能（A1、A3 和 A5）。 若要跨企业和企业计划比较功能，请参阅[比较 Office 365 For business 计划](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)，或者有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。
   
-若要搜索支持文章和信息，请参阅[Office &amp;帮助培训](https://support.office.com/)。
+若要搜索支持文章和信息，请参阅[Office 帮助 &amp; 培训](https://support.office.com/)。
   
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
@@ -161,7 +161,7 @@ ms.locfileid: "44044992"
 |高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |威胁智能  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**[合规性](compliance-servicedesc.md)** <br/> ||||
+|**[合规性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
 |SAS 70 / SSAE16 评估  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |ISO 27001 认证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |欧盟模式条款  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -184,16 +184,16 @@ ms.locfileid: "44044992"
 <sup>2</sup>如果对本地 active directory 使用目录同步，您必须使用本地 active directory （而不是 Office 365 门户或使用 Windows PowerShell 的 Azure Active directory 模块）删除帐户或更改密码。 <br/> 
 <sup>3</sup>若要了解如何为用户设置自助服务密码管理策略，请参阅[在 Azure AD 中管理密码](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 <br/> 
 <sup>4</sup>减少随术语折扣购买的座位可能受提前终止费用的制约。 这不适用于按月支付的订阅。 <br/> 
-<sup>5</sup>适用于[https://securescore.office.com](https://securescore.office.com/) （链接需要管理员权限）。 有关详细信息，请参阅[简介 Office 365 安全分数](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/> 
+<sup>5</sup>适用于 [https://securescore.office.com](https://securescore.office.com/) （链接需要管理员权限）。 有关详细信息，请参阅[简介 Office 365 安全分数](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/> 
 <sup>6</sup> Microsoft Sway 目前对某些地区的客户不可用。 某些自 2015 年 8 月起市场中不再提供的旧版 Office 365 可能也无法使用 Microsoft Sway。 <br/> 
 <sup>7</sup>美国和西欧（荷兰）地区支持高级电子数据展示。 （来自加拿大和亚太地区的客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 <br>
 <sup>8</sup>有关每个计划中包含的 Microsoft Stream 功能的信息，请参阅[Stream 授权概述](https://stream.microsoft.com/documentation/stream-license-overview/)。<br>
 <sup>9</sup>有关详细信息，请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。<br>
 <sup>10</sup>将简报电子邮件自动提供给 Exchange Online 的所有用户。 有关详细信息，请参阅[Configure The 简报 email](https://docs.microsoft.com/Briefing/be-admin)。<br>
 
-## <a name="security-amp-compliance-center-features"></a>安全&amp;合规中心功能
+## <a name="security-amp-compliance-center-features"></a>安全 &amp; 合规中心功能
 
-[安全&amp;合规性中心](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+[安全 &amp; 合规性中心](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center)旨在帮助您在组织的 Office 365 中管理合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -201,7 +201,7 @@ ms.locfileid: "44044992"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[对安全&amp;合规中心的访问权限](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[对安全合规中心的访问权限 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级安全管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |否  <br/> |可访问  <br/> |是  <br/> |
 |[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)，如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级威胁管理](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)，如仿冒活动的威胁资源管理器<sup>5</sup> <br/> |否  <br/> |否  <br/> |可访问  <br/> |

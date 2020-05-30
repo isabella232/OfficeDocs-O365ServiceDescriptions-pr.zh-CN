@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过提供业界领先的数字化工作效率服务（来自德国数据中心），并通过采用德国法律规定的独特的数据访问和控制措施，来帮助您满足德国最受管控客户在德国、欧盟（EU）和欧洲自由贸易协会（EFTA）的需求。
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226261"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429117"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -162,7 +162,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |客户锁箱|否|否|否|否|否|否|必需|否|
 |高级电子数据展示|否|否|否|否|否|否|否|否|
 |安全功能分数|否|否|否|否|否|否|否|否|
-|**[合规性](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[合规性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |SAS 70 / SSAE16 评估|是|是|是|是|是|是|是|是|
 |ISO 27001 认证|是|是|是|是|是|是|是|是|
 |欧盟模式条款|是|是|是|是|是|是|是|是|
