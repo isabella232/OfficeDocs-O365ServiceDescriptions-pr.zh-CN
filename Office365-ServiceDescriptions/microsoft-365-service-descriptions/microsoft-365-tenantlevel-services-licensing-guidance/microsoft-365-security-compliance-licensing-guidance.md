@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
-ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
+ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
+ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44412691"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44524175"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -180,6 +180,11 @@ Microsoft Defender ATP 管理员可以利用[基于角色的访问控制（RBAC�
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
 Microsoft 365 E5/A5/G5/AIP/AIP///A3/A3/G3/F1/F3/Business Premium、企业移动性 + 安全 F3/E3/E5、Office 365 E5/A5/E3/A3/F3、Plan 1 和 Plan 2 为用户提供了从手动敏感度标记中受益的权限。
+
+Microsoft 365 E5/A5/G5/AIP/AIP//？//A3/A3/G3/F1/F3/Business Premium、Enterprise 可移动性 + Security F3/E3/E5、Plan 1 和 Plan 2 为用户提供了一些权限，以便用户能够在 Power bi 中应用和查看敏感度标签并在将数据从 Power BI 导出到 
+
+> [!NOTE]
+> Power BI 包含在 Microsoft 365 E5/A5/G5 中;在所有其他计划中，Power BI 必须单独获得许可。
 
 Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息保护和治理、Office 365 E5、Office 365 高级合规性、企业移动性 + 安全 E5 和 AIP Plan 2 为用户提供了从自动敏感度标记中受益的权限。
 
