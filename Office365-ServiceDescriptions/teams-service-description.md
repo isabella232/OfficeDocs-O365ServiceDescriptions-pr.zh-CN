@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356890"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679579"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
 Microsoft 团队是在 Microsoft 365 中进行团队合作的中心。 团队服务启用即时消息、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。 此外，团队还提供文件和数据协作和扩展性功能，并与 Microsoft 365 和其他 Microsoft 和合作伙伴应用集成。
 
-Skype for Business Online 将于2021年7月31日发布，在2019年7月30日[发布](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)。 Microsoft 团队是全新的服务，通过利用 Microsoft 提供的 Azure 和其他服务创新，从头开始为云构建全新服务。 Microsoft 团队构建在 Office 365 组、Microsoft Graph 上，并具有与 Office 365 的其余部分相同的企业级安全性、合规性和可管理性。 团队利用 Azure Active Directory （Azure AD）中存储的标识。 这些服务是从 Microsoft 数据中心提供的，可供用户从公司网络或 internet 内部的多种设备上访问。 有关详细信息，请参阅[Microsoft 团队 IT 体系结构和电话解决方案海报](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)。
+Skype for Business Online 将于2021年7月31日发布，在2019年7月30日[发布](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)。 Microsoft 团队是全新的服务，通过利用 Microsoft 提供的 Azure 和其他服务创新，从头开始为云构建全新服务。 Microsoft 团队构建在 Microsoft 365 组、Microsoft Graph 上，并具有与 Office 365 的其余部分相同的企业级安全性、合规性和可管理性。 团队利用 Azure Active Directory （Azure AD）中存储的标识。 这些服务是从 Microsoft 数据中心提供的，可供用户从公司网络或 internet 内部的多种设备上访问。 有关详细信息，请参阅[Microsoft 团队 IT 体系结构和电话解决方案海报](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)。
 
 Microsoft 仍将致力于保护你的服务的数据和[可访问性](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅[Microsoft 信任中心](https://www.microsoft.com/trust-center)和[Office 辅助功能中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 

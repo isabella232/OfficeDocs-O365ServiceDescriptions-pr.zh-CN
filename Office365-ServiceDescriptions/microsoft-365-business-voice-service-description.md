@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业语音是一项外接程序服务，允许你使用 Microsoft 团队进行电话呼叫。 这将组合电话系统、国内通话套餐、短信和音频会议。
-ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213964"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679589"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商务语音服务说明
 
@@ -25,16 +25,20 @@ Microsoft 365 商业语音是基于云的电话服务解决方案，它提供电
 - Microsoft 365 商务语音
 - Microsoft 365 不带通话套餐的商业语音
 
-Microsoft 365 商业语音适用于以下具有最高300许可证的中小型企业版订阅：
+Microsoft 365 商业语音适用于以下订阅，订阅最高300个许可证：
 
-- [Microsoft 365 商业基本版](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 商业标准版](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 商业高级版](microsoft-365-business-service-description.md)
-- [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
-- [Microsoft 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
-- [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
+- Microsoft 365 商业基础版
+- Microsoft 365 商业标准版
+- Microsoft 365 商业高级版
+- Microsoft 365 F1
+- Microsoft 365 F3
+- Office 365 F3
+- Microsoft 和 Office 365 企业版 E1、E3 或 E5
+- Microsoft 365 和 Office 365 教育版 A1、A3 或 A5
+- Microsoft 365 和 Office 365 政府 G1、G3 或 G5 （仅限 GCC）
+- Microsoft 365 非盈利业务基本
+- Microsoft 365 非盈利商业标准
+- Microsoft 365 和 Office 365 非盈利性 E1、E3 或 E5
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 商业语音功能
 
