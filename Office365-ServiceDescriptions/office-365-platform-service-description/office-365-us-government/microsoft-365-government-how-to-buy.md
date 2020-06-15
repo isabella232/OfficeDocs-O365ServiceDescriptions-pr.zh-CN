@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: b8adbcee90fbdbd014656f8f0e497821d37adfc2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6a3bdafcdd7b18f64fd6894d1a4ab3612d392ae2
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213714"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711122"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
@@ -136,6 +136,7 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 **AOS-G 合作伙伴 GCC 和 GCC 高（低于500个座位）**
 
 - 敏捷 IT
+- 已应用的信息科学（AIS） 
 - C3 集成解决方案
 - Gendox 电子产品（Inc.）。
 - F1 解决方案，Inc.。

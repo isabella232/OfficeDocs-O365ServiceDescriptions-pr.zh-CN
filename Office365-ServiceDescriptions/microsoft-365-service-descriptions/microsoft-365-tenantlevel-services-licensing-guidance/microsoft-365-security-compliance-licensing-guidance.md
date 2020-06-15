@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
-ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
+ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44524175"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711132"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -188,9 +188,7 @@ Microsoft 365 E5/A5/G5/AIP/AIP//？//A3/A3/G3/F1/F3/Business Premium、Enterpris
 
 Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息保护和治理、Office 365 E5、Office 365 高级合规性、企业移动性 + 安全 E5 和 AIP Plan 2 为用户提供了从自动敏感度标记中受益的权限。
 
-有关许可证的具体权限，请参阅[详细的 Microsoft 365 合规性许可比较（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
-
-不包括根据机器学习（trainable 分类器）自动分类的权限。
+有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)不包括根据机器学习（trainable 分类器）自动分类的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -218,7 +216,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了为基于 trainable 分类程序自动应用保留标签而受益的权限。
 
-有关许可证的具体权限，请参阅[详细的 Microsoft 365 合规性许可比较（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
+有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 不包括根据机器学习（trainable 分类器）自动保留的权限。
 
@@ -240,7 +238,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了从基于 trainable 分类程序自动应用保留或记录标签的好处。
 
-有关许可证的具体权限，请参阅[详细的 Microsoft 365 合规性许可比较（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)。
+有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679579"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711142"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -25,14 +25,17 @@ Microsoft 仍将致力于保护你的服务的数据和[可访问性](https://ww
 
 对于您的参考，我们已将订阅的这一主表包括在为 Microsoft 团队启用用户的订阅中。 有关详细的计划信息，请参阅为[你的企业查找合适的 Microsoft 团队](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1)。 有关政府版计划中的其他 Office 365，请参阅[Office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365 G1 到 G5 包括对团队功能的访问权限。
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**小型企业版计划** <br/> |**企业计划** <br/> |**教育计划** <br/> |**开发人员计划** <br/> |
-|Microsoft 365 商业基础版  <br/> |Office 365 企业版 E1  <br/> |Office 365 教育版  <br/> |Office 365 开发人员  <br/> |
-|Microsoft 365 商业标准版  <br/> |Office 365 企业版 E3  <br/> |Office 365 教育增强版  <br/> |   <br/> |
-|Microsoft 365 商业版  <br/> |Office 365 企业版 E4 （已停用）  <br/> |Office 365 教育版 E3 （已停用）  <br/> |  <br/> |
-|  <br/> |Office 365 企业版 E5  <br/> |Office 365 教育版 E5  <br/> |  <br/> |
-|  <br/> |Office 365 企业版 F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 商业基础版 <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 开发人员 <br/> |
+|Microsoft 365 商业标准版 <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 商业高级版 <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 有关产品功能实施指南的详细信息，请参阅[Microsoft 团队管理文档](https://docs.microsoft.com/MicrosoftTeams)。 此服务说明详细介绍了各种云安装中提供的服务之间的主要差异。 Microsoft 团队核心功能在订阅中不会有所不同。 合规性功能的可用性取决于你的订阅级别。 若要了解详细信息，请参阅 [Microsoft 团队中的安全性和合规性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 有关每个订阅中可用功能的详细列表，请参阅[Microsoft 365 和 Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 

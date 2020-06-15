@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267321"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711112"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -59,7 +59,7 @@ ms.locfileid: "44267321"
 |[客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |否   |必需   |否   |
 |||||||||
 
-<sup>1</sup>信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。
+<sup>1</sup>信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。 这些功能在 E3 和 E5 中可用，在 E1 中仅具有有限的可用性。 有关 E1、E3 和 E5 中提供的功能的完整列表，请参阅详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup>高级信息治理允许您保留重要信息，并根据保留或删除策略或这两者来分类信息，从而删除不重要的信息。 它包括智能/自动化操作，如推荐策略、自动将标签应用于数据、应用基于敏感数据类型或查询的标签、对智能导入筛选器的使用、处置评审和使用。 它还包括用于出于安全和合规目的检查员工通信的监督功能。
 
@@ -115,7 +115,7 @@ ms.locfileid: "44267321"
 |[特权访问管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |必需   |否   |否|否|否|
 |||||||||
 
-<sup>1</sup>信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。
+<sup>1</sup>信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。 这些功能在 E3 和 E5 中可用，在 E1 中仅具有有限的可用性。 有关 E1、E3 和 E5 中提供的功能的完整列表，请参阅详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup>需要购买 Exchange Online 存档加载项。
 
