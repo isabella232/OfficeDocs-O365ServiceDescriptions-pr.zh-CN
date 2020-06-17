@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356880"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768108"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -25,7 +25,7 @@ ms.locfileid: "44356880"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Microsoft 365 业务基本或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Office 365 企业版 F3** <br/> |
-|每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |10 GB 加上每个许可证购买了 2 GB<sup>3</sup> <br/> |
 |每个站点的最大存储（网站集）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每个组织的网站（网站集）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
 |用户数  <br/> |最高为300  <br/> |1-500000<sup>7</sup> <br/> |1-500000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ ms.locfileid: "44356880"
 
 ### <a name="file-size-and-file-path-length"></a>文件大小和文件路径长度
 
-15 GB。 附加到列表项的文件的最大大小为 250 MB。 若要了解有关使用新 OneDrive 同步应用（OneDrive）时的限制和限制的详细信息，请参阅[无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+15 GB。 附加到列表项的文件的最大大小为 250 MB。 若要了解有关使用新 OneDrive 同步应用（OneDrive.exe）时的限制和限制的详细信息，请参阅[无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨网站移动和复制
 
@@ -63,7 +63,7 @@ ms.locfileid: "44356880"
 
 **新建 OneDrive 同步应用**-为了获得最佳性能，建议在所有已同步的文档库中存储不超过300000个文件，即使您按需使用文件或仅选择库中的某些文件夹进行同步也是如此。
 
-**以前的 OneDrive For business 同步应用（Groove）** -最多可同步所有同步的库中的全部20000个项目。 这包括 OneDrive 库和/或工作组网站库。 与整体同步限制分开，可为每个库类型同步的项目数有限制：
+**以前的 OneDrive For business 同步应用（Groove.exe）** -最多可以同步所有同步的库中的全部20000个项目。 这包括 OneDrive 库和/或工作组网站库。 与整体同步限制分开，可为每个库类型同步的项目数有限制：
 
    - 你最长可同步 OneDrive 库中的20000个项目。 其中包括文件夹和文件。 
    - 您可以同步 SharePoint 库中的最大为5000项。 其中包括文件夹和文件。 这些库是在各种 SharePoint 网站上找到的库，如工作组网站和社区网站、其他人创建的库或您通过网站页面创建的库。 您可以同步多个 SharePoint 库。 您同步的任何工作组网站也会在所有同步的库中计算出全部20000项目限制。

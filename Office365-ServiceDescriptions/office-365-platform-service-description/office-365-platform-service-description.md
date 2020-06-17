@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组织的需求。 如果你正在寻找计划（包括 Exchange Online 计划）之间的差异，本文将向你展示每个计划中包含的功能。
-ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679569"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768128"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -103,7 +103,8 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |Microsoft Graph API  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft MyAnalytics<sup>20</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
 |Microsoft Planner  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Microsoft PowerApps  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> |
+|Microsoft PowerApps  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>12</sup> <br/> | 
+|适用于 web <sup>23</sup>的 Microsoft Project <br/> |可访问 <br/> |否 <br/>|可访问 <br/> |是 <br/> |是 <br/> |是 <br/> | 是 <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Stream  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
@@ -226,3 +227,4 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 <br/><sup>20</sup>有关详细信息，请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
 <br/><sup>21</sup>包括 Azure active [directory 定价](https://azure.microsoft.com/pricing/details/active-directory/)页面上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5，才能获取高级 Azure AD 功能。<br/>
 <sup>22</sup>将简报电子邮件自动提供给 Exchange Online 的所有用户。 有关详细信息，请参阅[配置简报电子邮件](https://docs.microsoft.com/Briefing/be-admin)。<br>
+<sup>23</sup>有关功能的详细信息，请参阅[Microsoft Project 服务说明](../project-online-service-description/project-online-service-description.md)。 授予用户对 web 项目的受限制的权限访问权限。 这些权限仅用于 web 应用程序的项目，并且仅适用于具有项目计划1、项目计划3或项目计划5许可证的租户。 这些权限不授予对 Power Platform 应用程序或其他数据集、Project Online 桌面客户端或 Project Online 的访问权限。
