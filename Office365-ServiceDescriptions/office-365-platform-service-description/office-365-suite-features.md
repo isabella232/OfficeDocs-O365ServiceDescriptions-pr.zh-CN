@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 web 的工具的集合，可帮助您跨多个设备和多个 Office 365 服务安全地进行协作和通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226191"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820600"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -57,11 +57,15 @@ MyAnalytics 为您的个人工作效率提供了两个关键因素：您花费�
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner 是一种使用户能够以可视化的方式来组织团队合作的工具。团队可以创建新的计划、组织和分配任务、共享文件、讨论他们正在处理的事务、设置截止日期以及更新状态。Microsoft 规划器还提供将文档与特定任务关联，将其共同编辑并围绕任务进行对话的功能。若要了解详细信息，请参阅 [Microsoft 365 Planner 简介](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809)。Planner 在 [Office 365 Germany](office-365-germany.md) 中尚不可用。
+Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
 Microsoft PowerApps 是一种企业服务，可帮助你快速生成、集成和共享能在任何设备上运行的应用。 PowerApps 允许您使用内置连接或由贵公司构建的内置连接，将应用连接到云和本地服务，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。 只需键入电子邮件地址即可轻松地与同事共享你的 PowerApps。 要了解详细信息，请访问 Microsoft [PowerApps 网站](https://powerapps.microsoft.com/)。
+
+## <a name="microsoft-project-for-the-web"></a>Microsoft Project for web
+
+对于基于云的工作和项目管理，web 的项目是最新的 Microsoft 产品。 Web 项目为满足大多数需求和角色提供了简单、强大的工作管理功能。 项目经理和工作组成员可以使用 web 项目来规划和管理任何规模的工作。 若要了解详细信息，请转到[Microsoft Project 网站](https://aka.ms/MicrosoftProject)。
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -89,7 +93,7 @@ Microsoft 365 中的组将用户与同事、信息和应用程序连接起来，
   
 ## <a name="office-365-video"></a>Office 365 视频
 
-Office 365 视频是全公司范围内的安全目标，可供跨设备上载、共享和发现视频，由 Microsoft Azure 媒体服务提供技术支持。Office 365 视频可帮助查看者参与其中且随时掌握最新资讯，从而广泛传播思想，并帮助组织保持一致。若要了解详细信息，请参阅 [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/)（Office 365 视频简介）。
+Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
 
