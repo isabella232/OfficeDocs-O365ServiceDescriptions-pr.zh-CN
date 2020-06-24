@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在寻找包括 Exchange Online 的订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267341"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845016"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -33,7 +33,7 @@ ms.locfileid: "44267341"
 [Exchange Online 中的电子邮件未送达报告](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online 帮助](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基于云的服务提供的托管消息传递解决方案。它支持用户从电脑、Web 和移动设备访问电子邮件、日历、联系人和任务。它与 Active Directory 全面集成，支持管理员使用组策略以及其他管理工具来管理整个环境中的 Exchange Online 功能。
+Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
   
 那些已订阅 Exchange Online 的组织仍可有效控制自身为用户提供的消息服务，但免去了内部服务器软件的运营负担。 利用本文档中描述的 Exchange Online 托管计划，电子邮件将托管在同时支持多个客户的服务器上。 这些服务器驻留在 Microsoft 数据中心中，用户可从企业网络或 internet 上的各种设备访问这些服务器。
   
@@ -50,9 +50,9 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
 
 Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-每位访问 Exchange Online 服务的用户均必须分配一个订阅计划，且每个用户订阅均具有自身的邮箱。这些邮箱中的文件夹和邮件均位于 Microsoft 数据中心内运行 Exchange Server 的计算机上。
+Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
   
-会议室和共享邮箱不需要用户订阅。这些特殊类型的邮箱没有登录凭据。相反，具有适当权限的许可用户通过委派即可对其进行管理和访问。
+User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系统要求
 
@@ -244,7 +244,7 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |容量报警|是|是|是|是|是|
 |混乱邮件|否|否|可访问|是|是|
 |MailTips|是|是|是|是|是|
-|委托访问|是|是|是 \| "是|否|
+|委托访问|是|是|是|可访问|否|
 |收件箱规则|是|是|是|是|是|
 |已连接帐户|是|是|是<sup>19</sup>|是<sup>19</sup>|是<sup>19</sup>|
 |非活动邮箱|否|否|否 <sup>6</sup>|是|否 <sup>6</sup>|
