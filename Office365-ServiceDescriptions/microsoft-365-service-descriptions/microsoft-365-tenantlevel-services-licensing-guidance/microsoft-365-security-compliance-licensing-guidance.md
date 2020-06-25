@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845006"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873621"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -210,17 +210,21 @@ Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Office 365 E5/A5/E3/A3/A3/E1/A1 提供了基本的信息管理功能，以手动应用非记录保留标签、导入 PST 文件和存档电子邮件。
+Microsoft 365 F3/Business 高级版、Office 365 E1/A1/F3 和独立 Exchange 计划为用户提供了从手动对邮箱数据应用非记录保留标签的好处。
 
-Microsoft 365 E5/A5/E3/A3、Office 365 E5/A5/E3/A3 为用户提供了从单个组织范围或位置范围内的保留策略和/或手动保留标记中获益的权限。
+Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3 和独立 SharePoint 计划为用户提供了从手动将非记录保留标签应用于 SharePoint 或 OneDrive 中的文件的权限。 
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理 Office 365 E5/A5 和 Office 365 高级合规性为用户提供了一项好处：根据自定义事件自动应用保留标签或策略，从保留期开始，在标签保留期结束时触发手动处置检查，通过本机数据连接器导入第三方数据，从而发现已标记的内容并监视标记活动。
+Microsoft 365 E5/A5/E3/A5/A3、Office 365 E5/A5//A3/A3、Exchange Plan 2 和 Exchange Online 存档为用户提供了从单个基本组织范围或位置范围内的邮箱保留策略中获益的权限，并/或将非记录保留标记手动应用于邮箱数据。
+
+Microsoft 365 E5/A5/E3/A5/A3、Office 365 E5/A5/a5/A3 和 SharePoint 计划2为用户提供了从基本 SharePoint 或 OneDrive 保留策略中获益的权限，以及/或手动将非记录保留标签应用于 SharePoint 或 OneDrive 中的文件。
+
+Microsoft 365 E5/A5/E3/A3 和 Office 365 E5/A5/E3/A3 为用户提供了从团队保留策略中获益的权限。
+
+Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理、Office 365 E5/A5 和 Office 365 高级合规性为用户提供了从自动应用保留标签或策略中获益的权限。应用默认保留标签或策略，基于自定义事件启动保留期的保留期，在标签保留期结束时触发手动处置评审，通过本机数据连接器导入第三方数据，将文件声明为记录，发现已标记的内容，并监视标记活动。
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了为基于 trainable 分类程序自动应用保留标签而受益的权限。
 
 有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [（PDF）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [（Excel）](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 高级合规性不包括根据机器学习（trainable 分类器）自动保留的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -390,9 +394,7 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 | 应用场景 | 需要许可证的是谁？ |
 |:-------|:------|
 | 两组（组1和组2）无法相互通信（即，限制组1用户与组2用户通信，而组2用户限制与组1用户通信。 | 组1和组2中的用户 |
-| 限制组1中的用户与公司的其余用户通信。 | 仅限组1中的用户 |
-| 公司的其余部分受到限制，无法与组1通信。 | 除组1中的用户之外的所有用户 |
-| 限制组1用户与组2用户通信，但组2用户可以与组1用户进行通信。 | 仅限组1中的用户 ||
+| 限制组1中的用户与公司的其余用户通信。 | 仅限组1中的用户 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 

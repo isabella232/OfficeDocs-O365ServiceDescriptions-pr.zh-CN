@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768108"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873612"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -25,7 +25,7 @@ ms.locfileid: "44768108"
 |||||
 |:-----|:-----|:-----|:-----|
 |**功能** <br/> |**Microsoft 365 业务基本或商业高级版** <br/> |**Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Office 365 企业版 F3** <br/> |
-|每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |10 GB 加上每个许可证购买了 2 GB<sup>3</sup> <br/> |
+|每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 加上购买的每个许可证 10 GB  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每个站点的最大存储（网站集）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每个组织的网站（网站集）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
 |用户数  <br/> |最高为300  <br/> |1-500000<sup>7</sup> <br/> |1-500000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ ms.locfileid: "44768108"
 
 ### <a name="file-size-and-file-path-length"></a>文件大小和文件路径长度
 
-15 GB。 附加到列表项的文件的最大大小为 250 MB。 若要了解有关使用新 OneDrive 同步应用（OneDrive.exe）时的限制和限制的详细信息，请参阅[无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+100 GB。 附加到列表项的文件的最大大小为 250 MB。 若要了解有关使用新 OneDrive 同步应用（OneDrive.exe）时的限制和限制的详细信息，请参阅[无效文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨网站移动和复制
 
