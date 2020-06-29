@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873621"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909445"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -119,7 +119,7 @@ Office 365 E5/A5/G5 为用户提供了从 OCAS 获益的权限。
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅[作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security （MCAS）是一个云访问安全代理（CASB）解决方案，它为组织提供了其云应用和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并允许他们控制数据 &mdash; 在任何云应用中的传输方式。
 
@@ -129,7 +129,7 @@ MCAS 发现和评估阴影，提供跨第一方云应用程序的威胁保护，
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-MCAS，企业移动性 + 安全性 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 安全性，Microsoft 365 信息保护和治理为用户提供了从 MCAS 获益的权限。
+MCAS，企业移动性 + 安全 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 Security，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息保护和治理为用户提供了从 MCAS 获益的权限。
 
 Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business 高级版、Office 365 E1/A1/F3 和独立 Exchange 计
 
 Microsoft 365 F3/F1/Business Premium、Office 365 E1/A1/F3 和独立 SharePoint 计划为用户提供了从手动将非记录保留标签应用于 SharePoint 或 OneDrive 中的文件的权限。 
 
-Microsoft 365 E5/A5/E3/A5/A3、Office 365 E5/A5//A3/A3、Exchange Plan 2 和 Exchange Online 存档为用户提供了从单个基本组织范围或位置范围内的邮箱保留策略中获益的权限，并/或将非记录保留标记手动应用于邮箱数据。
+Microsoft 365 E5/A5/E3/A5/A3/A3/？ Premium、Office 365 E5/A5/E3/A3、Exchange Plan 2 和 Exchange Online 存档为用户提供了从基本组织范围或位置范围内的邮箱保留策略中获益的权限，并/或将非记录保留标记手动应用于邮箱数据。
 
 Microsoft 365 E5/A5/E3/A5/A3、Office 365 E5/A5/a5/A3 和 SharePoint 计划2为用户提供了从基本 SharePoint 或 OneDrive 保留策略中获益的权限，以及/或手动将非记录保留标签应用于 SharePoint 或 OneDrive 中的文件。
 

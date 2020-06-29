@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873612"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909435"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -49,7 +49,9 @@ ms.locfileid: "44873612"
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>对列表或库中的项目的独有权限
 
-支持的限制为50000，但建议的常规限制为5000。 一次对超过5000个唯一具有独特权限的项目进行更改会花费更长时间。 对于大型列表，设计应具有尽可能少的唯一权限。
+支持的限制为50000唯一具有独特权限项目，但建议的常规限制为5000。 一次对超过5000个唯一具有独特权限的项目进行更改会花费更长时间。 对于大型列表，设计应具有尽可能少的唯一权限。
+
+另一种限制是每个具有独特权限项唯一5000的角色分配。 
 
 ### <a name="file-size-and-file-path-length"></a>文件大小和文件路径长度
 
