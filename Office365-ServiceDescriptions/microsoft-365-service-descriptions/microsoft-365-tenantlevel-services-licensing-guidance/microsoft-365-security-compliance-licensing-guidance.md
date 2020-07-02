@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909445"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988866"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -497,7 +497,7 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性和 Microsoft 365 内幕风�
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-企业移动性 + 安全 E3/A3、Microsoft 365 F3/E3/A3 和 Azure Active Directory 高级计划1的许可用户可从条件访问策略中受益。 企业移动性 + 安全性 E5/A5/G5 的许可用户，Microsoft 365 E5/A5，Microsoft E5 Security 和 Azure Active Directory 高级计划2可受益于身份保护（基于风险的条件访问策略）。
+企业移动性 + 安全 E3/A3、Microsoft 365 F3/E3/A3/商业高级版和 Azure Active Directory 高级计划1的许可用户可从条件访问策略中受益。 企业移动性 + 安全性 E5/A5/G5 的许可用户，Microsoft 365 E5/A5，Microsoft E5 Security 和 Azure Active Directory 高级计划2可受益于身份保护（基于风险的条件访问策略）。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

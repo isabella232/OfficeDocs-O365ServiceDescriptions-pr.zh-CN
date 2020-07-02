@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业高级版是适用于中小型企业客户的 Microsoft 一流产品。 Microsoft 365 商业高级版是一个集成的解决方案，可将 Microsoft 365 的工作效率、高级安全性和设备管理结合在一起。
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213954"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988856"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
@@ -137,7 +137,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |   | Windows Defender 高级威胁防护 | 否 | 否 | 否 | 可访问 |
 |   | Office 365 威胁智能 | 否 | 否  | 否 | 可访问 |
 |**身份管理** | 混合 Azure Active Directory 帐户、Azure MFA、条件访问的自助服务密码重置   | 否 | 可访问 | 是 | 是 |
-|   | Azure AD：云应用发现，Azure AD Connect Health，SSO 适用于10个以上的应用程序 | 否 | 否 | 可访问 | 是 |
+|   | Azure AD：云应用发现，Azure AD Connect Health，SSO 适用于10个以上的应用程序 | 是 | 是 | 是 | 是 |
 |   | Azure Active Directory 计划2 | 否 | 否 | 否 | 可访问 |
 |**设备 & 应用程序管理** | Microsoft Intune、Windows AutoPilot | 否 | 可访问 | 是 | 是 |
 |   | 共享计算机激活，Windows 虚拟桌面 | 否 | 可访问 | 是 | 是 |
