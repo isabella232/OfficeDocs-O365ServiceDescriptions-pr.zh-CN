@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711112"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043034"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ ms.locfileid: "44711112"
 |[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |否   |否   |否   |否   |可访问   |是   |否   |
 |[高级电子数据展示](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |否   |否   |否   |否   |否   |必需   |否   |
 |[存档](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |是<sup>3</sup>  |是<sup>3</sup>  |是<sup>3</sup>   |是<sup>3</sup>  |Yes<sup>4</sup>  |是<sup>4</sup>  |否   |
+|[警报策略](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |是   |是   |是|是   |是   |是   |是   |
 |[基本审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |是   |是   |是|是   |是   |是   |是   |
 |[高级审核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |否   |否   |否   |否   |否   |必需   |否   |
 |[通信合规性（监察策略）](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |否   |否   |否   |否   |否   |必需   |否   |
