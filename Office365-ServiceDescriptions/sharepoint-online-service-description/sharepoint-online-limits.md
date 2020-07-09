@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
+ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909435"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45082254"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -59,7 +59,11 @@ ms.locfileid: "44909435"
 
 ### <a name="moving-and-copying-across-sites"></a>跨网站移动和复制
 
-每个操作 100 GB。 Web 浏览器必须保持打开状态。
+在单个操作中复制/移动多个文件具有三个要求： 
+
+- 总文件大小不超过 100 GB 
+- 文件数不超过30000
+- 每个文件都必须小于 2 GB
 
 ### <a name="sync"></a>同步
 
