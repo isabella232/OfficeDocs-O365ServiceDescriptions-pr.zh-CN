@@ -1,8 +1,7 @@
 ---
 title: 客户端和移动设备
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639710"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132966"
 ---
 # <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
@@ -26,11 +25,11 @@ Microsoft Outlook 是一个电子邮件程序，其中包括对日历、联系�
   
 - **MAPI OVER HTTP**通过 HTTP 的邮件应用程序接口（MAPI）允许 Outlook 用户从其组织的防火墙外部连接到 internet 上的 Exchange Online 邮箱。 MAPI over HTTP，适用于 Outlook 无处不在的长期替换。 此连接方法提供改进的连接弹性、更安全的登录、可扩展性以及 IT 和支持的增强功能。 若要了解详细信息，请参阅[RPC OVER http 在 Office 365](https://go.microsoft.com/fwlink/?linkid=863890)和[MAPI over http](https://go.microsoft.com/fwlink/?linkid=393041)中达到支持的结尾。
 
-- **自动发现** 自动发现服务功能自动配置 Outlook 以用于 Exchange Online。首次使用电子邮件地址和密码登录时，Outlook 用户可以直接从 Exchange Online 收到他们的所需配置文件设置。这些设置可以使用创建和维护用户配置文件所需的信息自动更新 Outlook 客户端。使用自动发现服务需要 SSL 证书。此 SSL 证书仅限于单个主 SSL 域。 
+- **Autodiscover** The Autodiscover service feature automatically configures Outlook to work with Exchange Online. Outlook users can receive their required profile settings directly from Exchange Online the first time they sign in with their email address and password. These settings automatically update the Outlook client with the information necessary to create and maintain the user's profile. An SSL certificate is required to use the Autodiscover service. This SSL certificate is limited to a single primary SSL domain. 
 
 - **缓存 Exchange 模式**当 Outlook 用户未连接到 internet 时，缓存 Exchange 模式功能允许 Outlook 用户访问其 Exchange Online 邮箱的本地副本。 缓存 Exchange 模式在 Outlook 中保存用户 Exchange 邮箱的客户端副本，并与电子邮件服务器自动同步该副本。 我们建议在缓存 Exchange 模式中使用 Outlook，因为它提供脱机访问并帮助提供响应用户体验，即使客户端和服务器之间的网络条件不理想。 
 
-默认情况下，所有用户启用 Outlook 访问。管理员可以通过 Windows PowerShell 禁用对特定用户的访问权限。我们建议使用最新版本的 Outlook装有最新的 service pack以访问 Exchange Online。 
+By default, Outlook access is enabled for all users. Administrators can disable access for specific users or groups through Windows PowerShell. We recommend using the latest version of Outlook—with the latest service pack installed—to access Exchange Online. 
   
 有关 Exchange 2016 和 Exchange Online 支持的 Outlook 客户端的信息，请参阅[Office 的系统要求](https://products.office.com/office-system-requirements)。 
 
@@ -136,24 +135,24 @@ Exchange Online 支持 Microsoft Exchange ActiveSync 协议，这将在移动设
   
 ## <a name="pop-and-imap"></a>POP 和 IMAP
 
-Exchange Online 通过 POP3 和 IMAP4 协议支持邮箱访问。POP 和 IMAP 访问要求使用 SSL 加密。默认情况下，为所有用户启用 POP。用户可以在 Outlook 网页版中查看他们的 POP 和 IMAP 连接设置。管理员可以在每个用户的基础上禁用 POP 和 IMAP 访问。
+Exchange Online supports mailbox access through both POP3 and IMAP4 protocols. POP and IMAP access requires encryption using SSL. POP is enabled by default for all users. Users can view their POP and IMAP connection settings in Outlook on the web. Administrators can disable POP and IMAP access on a per-user basis.
   
 有关 POP3 和 IMAP4 连接性的详细信息，请参阅 [POP3 和 IMAP4](https://go.microsoft.com/fwlink/p/?LinkId=272070)。
   
 ## <a name="smtp"></a>SMTP
 
-简单邮件传输协议 (SMTP) 用于为通过 IMAP 或 POP 连接到 Exchange Online 的客户端发送出站邮件。它是通过 Exchange Server 路由和递送的主协议。Exchange Online 支持两种类型的 SMTP 中继服务，用于需要 SMTP 邮件提交的授权内部客户应用程序：
+Simple Mail Transfer Protocol (SMTP) is used to send outbound mail for clients that connect to Exchange Online through IMAP or POP. It is the primary protocol for routing and delivery through Exchange Server. Exchange Online supports two types of SMTP relay services for authorized internal customer applications that require SMTP mail submission:
   
 - SMTP 邮件提交给托管环境内的用户。
 
 - 通过身份验证的 SMTP 邮件中继到托管环境外的地址。
 
 > [!IMPORTANT]
-> 授权源服务器的 IP 地址需要允许 SMTP 中继。当使用 SMTP 发送电子邮件时需要传输层安全性 (TLS) 加密和身份验证。 
+> IP addresses for authorized source servers are required to allow SMTP relay. Transport Layer Security (TLS) encryption and authentication is required when using SMTP to send email. 
   
-## <a name="blackberryreg-devices"></a>BlackBerry&reg;设备
+## <a name="blackberryreg-devices"></a>BlackBerry &reg; 设备
 
-可通过 Exchange ActiveSync 在&reg; BlackBerry 设备上提供电子邮件。 若要了解你的选项是什么，请参阅以下主题：
+可通过 Exchange ActiveSync 在 BlackBerry 设备上提供电子邮件 &reg; 。 若要了解你的选项是什么，请参阅以下主题：
   
 - [在 BlackBerry 设备上设置电子邮件](https://go.microsoft.com/fwlink/?linkid=863394)
 
@@ -162,7 +161,7 @@ Exchange Online 通过 POP3 和 IMAP4 协议支持邮箱访问。POP 和 IMAP �
 有关详细信息，请参阅 [BlackBerry](../office-365-platform-service-description/blackberry.md)。
   
 > [!NOTE]
-> 如果使用的是由中国世纪互联运营的 Office 365，则 BlackBerry 商业云服务 不可用，但是你可以使用 Exchange ActiveSync 设备和 Research in Motion（RIM，BlackBerry 无线电子邮件解决方案）中的产品运行 Blackberry Enterprise Server (BES)。 
+> If you are using Office 365 operated by 21Vianet in China, BlackBerry Business Cloud Services is not available. However, you can use Exchange ActiveSync devices or an offering from Research in Motion (RIM, the BlackBerry wireless email solution) to run Blackberry Enterprise Server (BES). 
   
 ## <a name="feature-availability"></a>功能可用性
 

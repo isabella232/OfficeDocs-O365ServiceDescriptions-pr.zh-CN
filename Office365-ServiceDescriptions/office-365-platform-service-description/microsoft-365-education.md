@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 教育版
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。
-ms.openlocfilehash: 7f4d24a32afa116632358ec6560414f7e2d74289
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 63d34a19286ba5fa4719a890df89b732e9f84aeb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045054"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132406"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 如果您正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将向您介绍其中每个功能中包含的功能。 
   
-Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365，以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。 若要搜索支持文章和信息，请参阅[Office &amp;帮助培训](https://support.office.com/)。
+Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了适用于教育版 A1、A3 和 A5 功能的 Office 365，以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨企业和企业计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关更详细的功能列表，请参阅[Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)下的相关服务说明。 若要搜索支持文章和信息，请参阅[Office 帮助 &amp; 培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
@@ -63,7 +63,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |Azure Active Directory Basic  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure Active Directory 计划1  <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Azure Active Directory 计划2  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |
-|**Compliance** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
+|**合规性** <br/> |**Office 365 教育版 A1** <br/> |**Office 365 教育版 A3** <br/> |**Office 365 教育版 A5** <br/> |**Microsoft 365 教育版 A3** <br/> |**Microsoft 365 教育版 A5** <br/> |
 |Office 365 权限管理  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure 信息保护计划 1<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |必需  <br/> |否  <br/> |
 |Azure 信息保护计划 2<sup>7</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |可访问  <br/> |

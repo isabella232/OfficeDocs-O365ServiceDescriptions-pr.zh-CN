@@ -1,7 +1,7 @@
 ---
-title: 简报电子邮件服务说明
-ms.author: sharik
-author: skjerland
+title: 电子邮件服务说明简介
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: 简报电子邮件可帮助用户每天进行最多工作。 它标识了各种元素的商机，并提供及时提醒。
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260657"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132006"
 ---
-# <a name="briefing-email-service-description"></a>简报电子邮件服务说明
+# <a name="briefing-email-service-description"></a>电子邮件服务说明简介
 
 简报电子邮件可帮助用户控制其日历，并故意在其日期内进行控制。 在其工作日的前两个小时内（在 Outlook 中设置），他们将收到有关任何相关项目的电子邮件，以帮助更好地准备前一天的准备工作，包括：
 

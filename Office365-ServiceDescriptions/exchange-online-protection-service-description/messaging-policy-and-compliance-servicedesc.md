@@ -1,8 +1,7 @@
 ---
 title: 邮件策略和遵从性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640160"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132786"
 ---
-# <a name="messaging-policy-and-compliance"></a>邮件策略和合规性
+# <a name="messaging-policy-and-compliance"></a>邮件策略和符合性
 
 Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
 
@@ -56,7 +55,7 @@ Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子�
 - 查看 DLP 报告中的事件数据，或通过使用生成事件报告操作来添加自己的特定报告。
 
 > [!NOTE]
-> DLP 策略仅适用于传进或传出组织的邮件。组织内（内部）邮件没有适用的 DLP 策略，除非您运行包含本地 DLP 的 Exchange Server 2013。这还适用于 DLP 策略提示，可以在敏感数据被错误发送到未经授权收件人之前通知用户潜在的策略违反。
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 若要了解有关 DLP 的详细信息，请参阅[Exchange Online 中的数据丢失防护](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
 
@@ -66,7 +65,7 @@ Office 365 邮件加密是 Azure 信息保护的一部分，它是一种在线�
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>跨 EOP 选项的邮件策略和合规性功能
 
-|**功能**|**独立 EOP**|**Exchange Online 中<br/>的 EOP 功能**|**Exchange Enterprise <br/> CAL with Services**|
+|**功能**|**独立 EOP**|**Exchange Online 中的 EOP 功能 <br/>**|**Exchange Enterprise <br/> CAL With Services**|
 |:-----|:-----|:-----|:-----|
 |邮件流规则|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、3</sup>|
 |审核日志记录|是<sup>2</sup>|是|是|

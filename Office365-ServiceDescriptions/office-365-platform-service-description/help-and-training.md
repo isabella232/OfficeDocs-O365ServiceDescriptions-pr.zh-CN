@@ -1,8 +1,7 @@
 ---
 title: Help and training
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 提供以下帮助和培训资源。
-ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 7c34c20d9f2231f278442137f1b615be4201d4c8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045024"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132316"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -29,7 +28,7 @@ Microsoft Office 365 提供以下帮助和培训资源。
   
 ## <a name="training"></a>培训
 
-可通过视频、网络研讨会和授课获得有关认证的培训。有关详细信息，请参阅：
+Training is available through videos, webinars, and classes leading to certification. For more information, see:
   
 - [Office 365 视频培训](https://go.microsoft.com/fwlink/p/?LinkId=286119)
     
@@ -46,13 +45,13 @@ Microsoft Office 365 提供以下帮助和培训资源。
 ## <a name="community"></a>社区
 
 > [!NOTE]
-> 社区资源适用于全球各种版本的 Office 365。如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)，并滚动到 QR 码的页面底部。 
+> Community resources apply to worldwide versions of Office 365. If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
   
-Office 365 社区是获取自助支持信息的单个目标地址。它提供最新信息，通过支持论坛、维基百科和博客帮助客户查找各种技术、账单和服务问题的答案。支持论坛由 Microsoft 支持代理提供员工和管理。
+The Office 365 Community is a single destination for self-help support information. It has the latest information to help customers find answers to a variety of technical, billing, and service questions through support forums, wikis, and blogs. The support forums are staffed and moderated by Microsoft Support agents.
   
 从 Office 365 社区主页，客户可以访问以下资源：
   
-- **论坛** 论坛用于为社区参与者提供联机目的地，其中他们可以发布与 Office 365 服务相关的技术支持问题和讨论主题。以下是可用的论坛： 
+- **Forums** Forums are intended to provide community participants with an online destination where they can post technical support questions and discuss topics related to the Office 365 services. Here are the forums that are available: 
     
   - 部署 Office 365
     
@@ -84,9 +83,9 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
     
   - Yammer
     
-- **维基百科** 维基百科包括 Microsoft 员工和认证社区成员创建的维基页面。本协作网站包含有关特定 Office 365 技术场景的最新集合性内容。每个单独维基页面通常包括有关某个特定技术场景的网站、网络直播、疑难解答视频、常见问题页面、文档和下载的链接。提供历史跟踪每个修订日期和作者别名以及比较版本的能力。 
+- **Wikis** Wikis include wiki pages created by Microsoft employees and authenticated community members. This collaborative site encompasses the latest collective content about specific Office 365 technical scenarios. Each individual wiki page typically includes links to websites, webcasts, troubleshooting videos, FAQ pages, documents, and downloads about that specific technical scenario. Historical tracking of every revision date and author alias is provided along with the ability to compare versions. 
     
-- **博客** Office 365 技术博客是一个很好的资源，从中可获取有关 Office 365 联机服务的最新信息以及学习 Office 365 特点和功能优势。主题包括产品洞察、新产品公告、客户访问和名人博客系列。 
+- **Blogs** The Office 365 Technical Blog is a good resource for obtaining current information about Office 365 online services and for learning about the benefits of Office 365 features and functions. Topics include product insights, new product announcements, customer interviews, and a guest blog series. 
     
 有关详细信息，请访问 [Office 365 社区](https://techcommunity.microsoft.com/)。
   
@@ -100,13 +99,13 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
 
 除了 Office 365 社区和联机帮助之外，Office 365 还包括以下自助资源：
   
-- **用于 Office 365 的疑难解答工具** 在你回答完与所遇问题相关的一系列小问题后，用于 Office 365 的疑难解答工具会根据你的回答提出实用工具和信息建议。若要使用此工具，请转到 Office 365 社区的 [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113)（用于 Office 365 的疑难解答工具）页面。 
+- **Troubleshooting tool for Office 365** After answering a series of short questions about your issue, the Troubleshooting tool for Office 365 suggests helpful tools and information based on your answers. To use the tool, go to the [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) page of the Office 365 Community. 
     
-- **技术支持视频** 我们已根据客户最常提出的问题制作了疑难解答教学视频，但只有英文版本。现有超过 35 个视频，今后我们每周都会发布更多视频。涉及很多方面的主题，从 BlackBerry® 管理中心概述到激活和迁移目录同步。若要观看这些视频，请转到 Office 365 社区网站，然后搜索视频。建议客户通过社区门户提交视频请求。客户还可转到 [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) 和 [展示](https://go.microsoft.com/fwlink/?LinkId=272060)频道。 
+- **Technical support videos** English language-only instructional troubleshooting videos have been developed based on the most commonly asked questions from customers. There are more than 35 individual videos and more coming every week. Topics range from an overview of the BlackBerry® Administration Center to activating and migrating directory synchronization. To view these videos, go to the Office 365 Community site and search for videos. Customers are encouraged to submit a request for a video through the community portal. Customers can also navigate to the [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) and [Showcase](https://go.microsoft.com/fwlink/?LinkId=272060) channels. 
     
-- **社交媒体** 在 [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061)、[Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) 和 [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) 上关注 Office 365 后，客户和合作伙伴可以学习有关 Office 365 的知识。通过这种可轻松快速了解 Office 365 的方式，客户能够聆听其他人的想法，并发布自己的意见和推文。Microsoft 技术支持人员监视与 Microsoft 相关的 Facebook 和 Twitter 活动，以帮助解答与支持相关的查询。若要查看最新 Facebook 源和推文，请转到 Office 365 社区主页底部，查看客户和合作伙伴的日常讨论。 
+- **Social media** Following Office 365 on [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062), and [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) provides a way for customers and partners to become more educated about Office 365. This fast and easy way of learning about Office 365 allows customers to listen to what others are saying and be able to add their own comments and tweets. Microsoft support professionals monitor the Microsoft-related Facebook and Twitter activity to assist with any support-related inquiries. To find the most current Facebook feeds along with the most recent tweets, go to the bottom of the Office 365 Community homepage to hear the daily discussions among customers and partners. 
     
-    如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)，并滚动到 QR 码的页面底部。 
+    If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
     
 ## <a name="languages"></a>语言
 

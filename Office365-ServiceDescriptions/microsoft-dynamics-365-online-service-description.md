@@ -1,8 +1,7 @@
 ---
 title: Microsoft Dynamics 365（在线版）服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 自2016年12月12日的 Dynamics 365 （联机和本地）更新后，Dynamics CRM 功能现在作为 Dynamics 365 （一系列智能业务应用程序）的一部分包括在内。 Dynamics 365 通过提供新的应用程序来帮助管理特定的业务功能，从而统一了客户关系管理（CRM）和企业资源规划（ERP）功能。
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213914"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132446"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365（在线版）服务说明
 

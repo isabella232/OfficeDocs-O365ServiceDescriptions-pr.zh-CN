@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的管理和安全功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: 以下管理和安全功能在 Yammer 中可用。
-ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640080"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132096"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Yammer 中的管理和安全功能
 
@@ -27,11 +26,11 @@ ms.locfileid: "43640080"
 
 ## <a name="admin-private-content-mode"></a>管理员专用内容模式
 
-Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。验证管理员只有在为了调查问题而临时授予自己访问私人内容的权限时，才能查看私人内容。有关详细信息，请参阅 [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479)（监视 Yammer 中的私人内容（验证管理员））。
+A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
 
 ## <a name="analytics"></a>分析
 
-从网络分析中获取见解以了解员工使用 Yammer 的方式。从使用情况度量标准到成员统计信息，找出可以推动成长和使网络值增的方式。
+Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
 
 ## <a name="custom-network-branding"></a>自定义网络品牌
 
@@ -74,7 +73,7 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="single-identity"></a>单一标识
 
-当您选择 Yammer 作为组织的默认社交体验时，员工将映射到其现有的 Yammer 帐户。 这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。 当员工从 Office&mdash;365、yammer 移动应用中访问 yammer 或浏览到 Yammer.com&mdash;时，他们将根据现有组织凭据自动登录。
+当您选择 Yammer 作为组织的默认社交体验时，员工将映射到其现有的 Yammer 帐户。 这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。 当员工 &mdash; 从 Office 365、yammer 移动应用中访问 yammer 或浏览到 Yammer.com 时，他们将根据 &mdash; 现有组织凭据自动登录。
 
 ## <a name="usage-policy"></a>使用策略
 

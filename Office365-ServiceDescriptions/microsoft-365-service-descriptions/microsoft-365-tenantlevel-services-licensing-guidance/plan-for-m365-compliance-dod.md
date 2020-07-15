@@ -1,29 +1,28 @@
 ---
 title: Microsoft 365 合规性计划 - DoD 部署
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，在其中使用 Microsoft 365 政府– DoD 适用于满足这些要求。
-ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中使用 Microsoft 365 政府– DoD 适用于满足这些要求的 IT 专业人员。
+ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262835"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132486"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
-本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，在其中使用 Microsoft 365 政府– DoD 适用于满足这些要求。
+本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中使用 Microsoft 365 政府– DoD 适用于满足这些要求的 IT 专业人员。
 
 > [!NOTE]
 > 如果您的组织已满足 Microsoft 365 政府– DoD 资格要求并已应用并被接受到程序中，则可以跳过步骤1和步骤2，直接转到步骤3。
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>第 1 步： 确定您的组织是否需要 Microsoft 365 政府-DoD 并满足资格要求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>步骤 1. 确定您的组织是否需要 Microsoft 365 政府-DoD 并满足资格要求
 
 Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 
@@ -48,17 +47,17 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 > [!NOTE]
 > Microsoft 365 政府-DoD 仅适用于美国国家/地区。 非美国政府客户可以从多个[Office 365 政府计划](https://products.office.com/government/compare-office-365-government-plans)中进行选择。
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>第 2 步： 适用于 Microsoft 365 政府-DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>步骤 2. 适用于 Microsoft 365 政府-DoD
 
 如果认为此服务适合您的组织，请启动[应用此服务](https://products.office.com/government/eligibility-validation)的过程。
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>第 3 步： 了解 Microsoft 365 政府版-DoD 默认安全设置
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>步骤 3. 了解 Microsoft 365 政府版-DoD 默认安全设置
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
 **决策点**：*决定是否要修改任何默认的 Microsoft 365 政府-DoD 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>第 4 步： 了解在 Microsoft 365 政府– DoD<sup>1</sup>中默认情况下当前不可用或禁用的功能。
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>步骤 4. 了解在 Microsoft 365 政府– DoD<sup>1</sup>中默认情况下当前不可用或禁用的功能。
 
 为了满足政府云客户的要求，Microsoft 365 政府 DoD 和企业版计划之间存在一些差异。 请参阅下表以查看哪些功能可用。
 
@@ -82,9 +81,9 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                        |标签活动资源管理器                         | 在工程工作积压 |
 |                                        |Trainable 类元                           | 在工程工作积压 |
 |                                        |统一的标签和敏感度标签         | 在工程工作积压 |
-|**内幕风险管理**             |高级邮件加密                     | 可用              |
-|                                        |内幕风险管理                         | 在工程工作积压 |
-|                                        |沟通合规性                        | 在工程工作积压 |
+|**内部风险管理**             |高级邮件加密                     | 可用              |
+|                                        |内部风险管理                         | 在工程工作积压 |
+|                                        |通信合规性                        | 在工程工作积压 |
 |                                        |客户密码箱                                | 可用              |
 |                                        |客户密钥                                    | 可用              |
 |                                        |特权访问管理                    | 在工程工作积压 |

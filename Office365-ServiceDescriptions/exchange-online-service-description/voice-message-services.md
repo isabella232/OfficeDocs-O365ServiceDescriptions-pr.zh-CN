@@ -1,8 +1,7 @@
 ---
 title: 语音消息服务
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: f1bf261e002eb7c8a637266c3b243ad728c63be3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: a6245acdeaeda173f1a675d1ce34d9086e3f077a
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640310"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132546"
 ---
 # <a name="voice-message-services"></a>语音消息服务
 
@@ -63,13 +62,13 @@ Exchange Online 中提供的语音邮件服务功能与本地 Exchange Server 20
 >
 > 客户必须使用 VoIP 网关和 PBX、IP PBX 或 Skype for business Server 2015，通过公用电话交换网（PSTN）提供电话连接。 
 >
-> 客户必须提供内部 SBC 硬件设备，并确保 SBC 已正确配置为连接到联机语音邮件服务。这包括通过使用证书以及公用和专用 IP 接口，并支持正确的 TCP 端口通过内部防火墙，从而配置适当的安全级别。 
+> The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. 
 >
 > 托管语音邮件仅适用于 Exchange Online 计划2和 Office 365 企业版 E3 订阅者。 
   
 ## <a name="third-party-voice-mail-interoperability"></a>第三方语音邮件互操作性
 
-如果第三方提供商提供的内部语音留言解决方案能够通过 SMTP 转发语音留言，或者支持 Microsoft Exchange Web 服务，则可与 Exchange Online 进行互操作。如果语音邮件系统本身不支持通过 SMTP 转发语音留言，则电子邮件服务器可保存在内部，以便接收语音邮件系统中的邮件，然后使用 SMTP 将其转发到云。由于许多第三方语音邮件系统均使用 MAPI/CDO 与 Exchange Server 进行互操作，以便提供高级 UM 功能，因此当 SMTP 用于与 Exchange Online 进行互操作时，这些系统的完整功能将无法使用。
+On-premises voice mail solutions from third-party providers can interoperate with Exchange Online if they can forward voice messages through SMTP or if they support Microsoft Exchange Web Services. If the voice mail system does not natively support forwarding voice messages through SMTP, an email server can be kept on-premises to receive messages from the voice mail system and then forward them to the cloud using SMTP. Because many third-party voice mail systems use MAPI/CDO to interoperate with Exchange Server for advanced UM features, the full capabilities of these systems may not be available when SMTP is used for interoperability with Exchange Online.
   
 > [!NOTE]
 > Exchange Online UM 对第三方 PBX 系统的支持通过从客户端运营的直接连接来实现。2018年7月将结束。 有关详细信息，请参阅[停产支持 Exchange Online 统一消息中的会话边界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117)。 

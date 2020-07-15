@@ -1,20 +1,19 @@
 ---
 title: Microsoft 365 合规性计划 - GCC High
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中 Microsoft 365 政府– GCC High 的使用适用于满足这些要求。
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089633"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132496"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划 Microsoft 365 合规性– GCC High
 
@@ -73,7 +72,7 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 基于事件的保留                           | 在工程工作积压 |
 |                                         | 处置评审                              | 在工程工作积压 |
 |                                         | 信息屏障                            | 可用              |
-|                                         | 文件和电子邮件的数据丢失防护 (DLP)   | 可用              |
+|                                         | 文件和电子邮件的数据丢失防护（DLP）  | 可用              |
 |                                         | 适用于团队聊天和频道对话的 DLP    | 在工程工作积压 |
 |                                         | DLP 精确数据匹配                            | 在工程工作积压 |
 |                                         | 标签活动资源管理器                         | 在工程工作积压 |
@@ -110,7 +109,7 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 | **遵从性管理**               | 合规性分数                                | 在工程工作积压 |
 
 <sup>1</sup>标识的状态可能会随着项目计划和优先级的重新评估而发生更改。<br/>
-<sup>2</sup>手动应用标签需要[Azure 信息保护 (AIP) 客户端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
+<sup>2</sup>手动应用标签需要[Azure 信息保护（AIP）客户端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
 
 
 **决策点**：*决定合规性功能是否满足组织的需求。*

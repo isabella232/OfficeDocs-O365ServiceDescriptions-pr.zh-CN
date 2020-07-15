@@ -1,8 +1,7 @@
 ---
 title: Excel 网页版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226221"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131416"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -39,7 +38,7 @@ Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验�
 
 ## <a name="add-hyperlinks"></a>添加超链接
 
-通过在单元格中添加超链接，链接到网页或打开 Web 上的文件。您可以在单元格中直接键入 Web 地址，也可以使用“插入超链接”命令。
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>高级数据类型：股票和地理位置
 
@@ -47,7 +46,7 @@ Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验�
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-时间线控制让你能够筛选模型化的数据。利用它可以通过可视方式查看和更改连续的日期范围，并筛选基于透视的对象（例如，数据透视表和数据透视图）。  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>Alignment
 
@@ -71,11 +70,11 @@ Excel for web 可以完成您要键入到单元格中的内容，如果有多个
   
 ## <a name="autosum"></a>AutoSum
 
-选择您要求和的单元格以计算总列数或总行数，然后双击“自动求和”。结果将显示在下一个空白单元格中。
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>计算
 
-可以使用 Excel 执行各种自动、手动和迭代计算。Excel 使用函数来执行这些计算。有关详细信息，请参阅 [Excel 函数（按类别）](https://go.microsoft.com/fwlink/?linkid=847459)。
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>公式中的单元格引用
 
@@ -138,7 +137,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在 web 或博客页面上嵌入工作簿（OneDrive）
 
-如果你将 Excel 工作簿存储在 OneDrive.com 上，则可以直接将其嵌入博客或网站中。你的读者可以在那里排序、筛选和计算数据，如果你在 OneDrive 中更新工作簿，他们下次刷新页面时将会看到最新更改。了解有关 [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673)（在博客中嵌入 Excel 工作簿）的详细信息。
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>外部引用（链接）
 
@@ -194,7 +193,7 @@ Excel 中的想法可帮助您通过高级可视化摘要、趋势和模式了�
   
 ## <a name="insert-charts"></a>Insert charts
 
-创建图表以直观地呈现数据。从各种图表类型（例如，柱形图、折线图、饼图或条形图）中进行选择。了解有关[可用图表类型](https://go.microsoft.com/fwlink/p/?LinkId=273899)的详细信息。
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -222,7 +221,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="number-formatting"></a>数值格式
 
-更改数值的格式。从格式列表中选取一种格式（例如“货币”或“简写日期”），更改小数位数，或插入千位分隔符。
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Office 外接程序
 
@@ -254,7 +253,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
-两个人或更多人在他们的 Web 浏览器而不是 Excel 桌面应用中打开同一个电子表格时，他们可以同时在该电子表格中进行操作。实时状态可帮助你查看共同创作者在文档中的编辑位置，从而不会在编辑时产生冲突，并且你可以在发生更改时进行查看。有关实时共同创作的详细信息，请参阅 [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793)（通过共同创作功能同时协作处理 Excel 工作簿）。
+Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>创建推荐的图表并使用格式控件进行编辑
 
@@ -286,7 +285,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-是否想要自己的工作簿副本？使用"文件"选项卡上的"另存为"命令，或右键单击其文件夹中的工作簿名称，使用"下载"命令将副本发送到您的计算机。
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>敏感度标签
 

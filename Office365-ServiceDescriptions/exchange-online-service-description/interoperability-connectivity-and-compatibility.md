@@ -1,8 +1,7 @@
 ---
 title: 互操作性、连接性和兼容性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639990"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132746"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>互操作性、连接性和兼容性
 
@@ -32,7 +31,7 @@ ms.locfileid: "43639990"
     
 - 语音邮件互操作性
     
-若要详细了解如何使用 Exchange Online 配置 Skype for Business Server 2015，请参阅[配置本地 Skype for Business Server 2015 与 Exchange Online 之间的集成](https://go.microsoft.com/fwlink/p/?LinkId=271804)。有关混合配置，请参阅[支持的 Skype for Business Server 2015 混合配置](https://go.microsoft.com/fwlink/?LinkID=513084)。
+For more information about how to configure Skype for Business Server 2015 with Exchange Online, see [Configuring On-premises Skype for Business Server 2015 Integration with Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). For hybrid configurations, see [Supported Skype for Business Server 2015 hybrid configurations](https://go.microsoft.com/fwlink/?LinkID=513084).
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
@@ -44,7 +43,7 @@ ms.locfileid: "43639990"
 
 Exchange Online 提供以下功能以与外部应用程序和设备连接：
   
-- **通过 MAPI over HTTP、SMTP、POP3、IMAP4 或 Exchange Web Services 等消息协议** 通过使用 MAPI over HTTP、SMTP、POP3 和 IMAP4 等消息协议，本地运行的、在 Azure 或其他托管服务中运行的外部应用程序可以访问使用 Exchange Online 存储的数据。建议为应用程序开发使用 Exchange Web Services 或 Exchange Web Services 托管 API。 
+- **Through messaging protocols such as MAPI over HTTP, SMTP, POP3, IMAP4, or Exchange Web Services** External applications that are running on-premises, in Azure, or in other hosted services can access data stored with Exchange Online by using messaging protocols such as MAPI over HTTP, SMTP, POP3, and IMAPv4. Exchange Web Services or the Exchange Web Services Managed API is recommended for application development. 
     
 - **作为 SMTP 中继** Exchange Online 可以设置为 SMTP 送达服务，以中继来自传真网关、网络设备和自定义应用程序的电子邮件消息。 
     
@@ -54,7 +53,7 @@ Exchange Web 服务 (EWS) 是 Exchange Server 和 Exchange Online 的首选开�
   
 ### <a name="smtp-relay"></a>SMTP 中继
 
-Exchange Online 可以作为 SMTP 送达服务设置，以中继来自传真网关、网络设备和定制应用程序的电子邮件消息。例如，如果业务线应用程序发送电子邮件报警给用户，它可配置以使用 Exchange Online 作为邮件送达系统。应用程序或服务必须使用经过许可的有效 Exchange Online 邮箱的用户名和密码进行身份验证，并使用传输层安全性 (TLS) 连接。
+Exchange Online can be used as an SMTP delivery service to relay email messages sent from fax gateways, network appliances, and custom applications. For example, if a line-of-business application sends email alerts to users, it can be configured to use Exchange Online as the mail delivery system. The application or service must authenticate with the username and password of a valid, licensed Exchange Online mailbox, and connect by using Transport Layer Security (TLS).
   
 ## <a name="feature-availability"></a>功能可用性
 

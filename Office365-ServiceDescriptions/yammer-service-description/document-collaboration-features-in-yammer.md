@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的文档协作功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: 以下文档协作功能在 Yammer 中可用。
-ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 3eb187a72179c108516b86934388ff6460324191
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687812"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132086"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Yammer 中的文档协作功能
 
@@ -25,12 +24,12 @@ ms.locfileid: "42687812"
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>跨 Yammer 计划的文档协作功能
 
-需要帮忙找出最适合您组织需求的 Yammer 计划吗？使用下表可查看每个计划中可用的文档协作功能。
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
 |[文件](document-collaboration-features-in-yammer.md#files) <br/> |是  <br/> |是  <br/> |
-|[官方内容](document-collaboration-features-in-yammer.md#official-content) <br/> |否  <br/> |必需  <br/> |
+|[官方内容](document-collaboration-features-in-yammer.md#official-content) <br/> |否  <br/> |可访问  <br/> |
 |[最近更改](document-collaboration-features-in-yammer.md#recent-changes) <br/> |是  <br/> |是  <br/> |
 
 ## <a name="files"></a>文件

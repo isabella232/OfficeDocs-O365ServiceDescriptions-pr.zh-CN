@@ -1,8 +1,7 @@
 ---
 title: Exchange Online Protection 服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划的列表，以及这些计划之间的功能比较。
-ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 74a2d3a1af3e369e51e1f9b3b4e1cf5cc981c0d8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226201"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132836"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划的列表，以及这些计划之间的功能比较。
 
-Microsoft Exchange Online Protection (EOP) 是基于云的电子邮件筛选服务，可帮助您的组织防御垃圾邮件和恶意邮件，并包括用于保护您的组织避免违反邮件策略的功能。EOP 可以简化对邮件环境的管理，缓解由于维护内部部署硬件和软件而产生的许多负担。
+Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
 
 下面的列表介绍了使用 EOP 进行邮件保护的主要方式：
 
@@ -67,7 +66,7 @@ Microsoft Exchange Enterprise CAL with Services 提供 EOP 的电子邮件保护
 如果您具有具有服务许可证的 Exchange Enterprise CAL，并且您想要设置 EOP，请按照[设置 EOP 服务](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)中的说明操作。 设置步骤与设置 EOP 独立的步骤相同。
 
 > [!NOTE]
-> Exchange Enterprise CAL with Services 的新功能同时部署为 Exchange Online，而不是独立 EOP。请注意，独立 EOP 与 Exchange Online/Exchange Enterprise CAL with Services 的部署计划可能略有不同。
+> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) 的要求
 
@@ -79,7 +78,7 @@ EOP 可与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一�
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>跨 Exchange Online Protection (EOP) 计划的功能可用性
 
-下面列出了每个功能。有关 EOP 功能的更多详细信息，请单击下表中的链接。提到 Exchange Online 时，通常指的是 Office 365 企业版 服务系列。
+Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |||||
 |:-----|:-----|:-----|:-----|

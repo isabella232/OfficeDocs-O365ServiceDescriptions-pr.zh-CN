@@ -1,8 +1,7 @@
 ---
 title: Office 365 教育版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起， &mdash; 其中包括 Microsoft Exchange online、Microsoft SharePoint online、Office for web 和 Microsoft Skype For Business Online， &mdash; 以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: f75d1127e81d1b9f85b96b7ca0e92d1a63423185
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429127"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132346"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -477,7 +476,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
   
 #### <a name="address-book-limits"></a>通讯簿限制
 
-- **地址列表限制** 在 Exchange Online 或 Exchange Server 2013 组织中可以创建的地址列表最大数量。此数目包括 Exchange Online 中的默认地址列表，如"所有联系人"和"所有组"。 
+- **Address list limit** The maximum number of address lists that can be created in an Exchange Online or Exchange Server 2013 organization. This number includes the default address lists in Exchange Online, such as All Contacts and All Groups. 
     
 - **脱机通讯簿限制** 在 Exchange Online 或 Exchange Server 2013 组织中可以创建的脱机通讯簿 (OAB) 最大数量。 
     
@@ -495,7 +494,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
    
 #### <a name="mailbox-storage-limits"></a>邮箱存储限制
 
-可用邮箱存储量由邮箱类型和用户的订阅许可证决定。管理员可以减小每位用户或全局的最大邮箱大小。
+The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
   
 > [!NOTE]
 > 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 用户的存档邮箱只供该用户使用。 Microsoft 保留在用户的存档邮箱用于存储其他用户的存档数据或不适当使用的情况下，拒绝无限存档的权利。
@@ -524,11 +523,11 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 
 Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种通知类型：
   
-- **警告** 用户收到电子邮件警告，其中指出邮箱正接近最大大小限制。此警告旨在建议用户删除不需要的邮件。 
+- **Warning** The user receives an email warning that the mailbox is approaching the maximum size limit. This warning is intended to encourage users to delete unwanted mail. 
     
-- **禁止发送** 达到邮箱大小限制时，用户将收到禁止发送的通知电子邮件。在删除足够邮件以便邮箱低于大小限制之前，用户将无法发送新邮件。 
+- **Prohibit Send** The user receives a prohibit-send notification email when the mailbox size limit is reached. The user cannot send new messages until enough email is deleted to bring the mailbox below the size limit. 
     
-- **禁止发送/接收** Exchange Online 将在达到邮箱大小限制时拒绝任何传入邮件，并发送未送达报告 (NDR) 给发件人。发件人可选择稍后尝试重新发送该邮件。若要再次接收邮件，用户必须删除邮件，直到邮箱的使用容量低于大小限制为止。 
+- **Prohibit Send/Receive** Exchange Online rejects any incoming mail when the mailbox size limit is reached, and sends a non-delivery report (NDR) to the sender. The sender has the option to try resending the mail later. To receive messages again, the user must delete email until the mailbox is below the size limit. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -539,29 +538,29 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
    
 #### <a name="mailbox-folder-limits"></a>邮箱文件夹限制
 
-这些限制旨在将邮箱限制为在 Exchange Online 中受支持的已知尺寸。这些限制旨在防止文件夹中存在不限数量的邮箱项目，邮箱中存在不限数量的文件夹或 Exchange Online 组织中存在不限数量的公用文件夹。出于实用目的，邮箱文件夹限制实际上不受限制，足以支持大多数迁移到 Exchange Online 的 Exchange Online 邮箱和内部部署邮箱。
+These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
   
-- **每个邮箱文件夹的邮件的最大数量** 为邮箱文件夹指定邮件的最大数量。达到该限制时，将无法传递新邮件或无法将其保存在某个文件夹中。 
+- **Maximum number of messages per mailbox folder** Specifies the maximum number of messages for a mailbox folder. New messages can't be delivered or saved in a folder when this limit is reached. 
     
-- **每个邮箱文件夹的邮件数量的警告** 指定 Exchange Online 向邮箱所有者发送警告邮件前邮箱文件夹可以保留的邮件数量。达到此配额时，将每天发送一次警告消息。 
+- **Warning for number of messages per mailbox folder** Specifies the number of messages that a mailbox folder can hold before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **"可恢复邮件"文件夹中的每个文件夹的邮件最大数量** 指定"可恢复邮件"文件夹中每个文件夹可以包含的邮件的最大数量。文件夹超出此限制时，将无法存储新邮件。例如，如果"可恢复邮件"文件夹中的"删除"文件夹超出邮件计数限制，而邮箱所有者试图从邮箱中永久删除邮件，删除将会失败。 
+- **Maximum number of messages per folder in the Recoverable Items folder** Specifies the maximum number of messages that can be contained in each folder in the Recoverable Items folder. When a folder exceeds this limit, it can't store new messages. For example, if the Deletions folder in the Recoverable Items folder has exceeded the message count limit and the mailbox owner attempts to permanently delete items from their mailbox, the deletion will fail. 
     
 - **"可恢复邮件"文件夹中的每个文件夹的邮件数量警告** 指定 Exchange Online 将事件记录到应用程序事件日志前，"可恢复邮件"文件夹中的每个文件夹可以保留的邮件数量。 
     
-- **每个邮箱文件夹的子文件夹的最大数量** 指定可以在邮箱文件夹中创建的子文件夹的最大数量。达到此限制时，邮箱所有者将不能创建新的子文件夹。 
+- **Maximum number of subfolders per mailbox folder** Specifies the maximum number of subfolders that can be created in a mailbox folder. The mailbox owner won't be able to create a new subfolder when this limit is reached. 
     
-- **每个邮箱文件夹的子文件夹数量的警告** 指定 Exchange Online 向邮箱所有者发送警告消息之前，可以在邮箱文件夹中创建的子文件夹数量。达到此配额时，将每天发送一次警告消息。 
+- **Warning for number of subfolders per mailbox folder** Specifies the number of subfolders that can be created in a mailbox folder before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **最大文件夹层次结构的深度** 指定邮箱的文件夹层次结构中级别的最大数量。达到此限制时，邮箱所有者将无法在邮箱文件夹的文件夹层次结构中创建其他级别。 
+- **Maximum folder hierarchy depth** Specifies the maximum number of levels in the folder hierarchy of a mailbox. The mailbox owner won't be able to create another level in the folder hierarchy of the mailbox folder when this limit is reached. 
     
-- **文件夹层次结构深度的警告** 指定 Exchange Online 向邮箱所有者发送警告消息之前，可以创建的邮箱文件夹的文件夹层次结构中的级别数量。达到此配额时，将每天发送一次警告消息。 
+- **Warning for folder hierarchy depth** Specifies the number of levels in the folder hierarchy of a mailbox folder that can be created before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
     
-- **公用文件夹最大数** 指定完整公用文件夹层次结构中公用文件夹最大数。达到此限制后，必须删除现有公用文件夹，才可以创建新的公用文件夹。 
+- **Maximum number of public folders** Specifies the maximum number of public folders in the complete public folder hierarchy. When this limit is reached, existing public folders must be deleted before new public folders can be created. 
     
-- **每个公用文件夹的子文件夹的最大数量** 指定可以在公用文件夹中创建的子文件夹的最大数量。当达到此限制时，无法在公用文件夹中创建新的子文件夹。 
+- **Maximum number of subfolders per public folder** Specifies the maximum number of subfolders that can be created in a public folder. New subfolders can't be created in a public folder when this limit is reached. 
     
-- **每个公用文件夹的子文件夹数量的警告** 指定 Exchange Online 向文件夹所有者发送警告消息之前，可以在公用文件夹中创建的子文件夹数量。如果不存在所有者，则警告消息会发送到具有所有者权限的用户。达到此配额时，将每天发送一次警告消息。 
+- **Warning for number of subfolders per public folder** Specifies the number of subfolders that can be created in a public folder before Exchange Online sends a warning message to the folder owner. If no owner exists, warning messages are sent to users with Owner permissions. When this quota is reached, warning messages are sent once a day. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -594,14 +593,14 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
   
 - **主题长度限制** 电子邮件的主题行中允许的文本字符的最大数目。 
     
-- **文件附件限制** 电子邮件中允许的最大文件附件数。即使所有文件附件的总大小并不违反邮件大小限制，邮件中允许的附件数量也仍具有限制。限制由多部分邮件限制进行控制。 
+- **File attachments limit** The maximum number of file attachments allowed in an email message. Even if the total size of all the file attachments doesn't violate the message size limit, there is still a limit on how many attachments are allowed in the message. This limit is controlled by the multipart message limit. 
     
 - **文件附件大小限制** 单个附件的最大文件大小。 
     
     > [!NOTE] 
     > 此为单个附件的最大文件大小。 单个客户端程序（包括 web 上的 Outlook）可能会限制此最大附件的大小。 Exchange ActiveSync 不基于个别附件实施附件大小限制。 Exchange ActiveSync 邮件的所有附件总大小必须低于邮件大小限制。 
   
-- **多部分邮件限制** MIME 多部分邮件中允许的邮件正文部分的最大数目。此限制还会控制邮件中允许的文件附件的最大数量。 
+- **Multipart message limit** The maximum number of message body parts that are allowed in a MIME multipart message. This limit also controls the maximum number of file attachments that are allowed in a message. 
     
 - **邮件嵌入深度限制** 电子邮件中允许的最大转发电子邮件数。 
     
@@ -631,11 +630,11 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
   
 #### <a name="receiving-and-sending-limits"></a>接收和发送限制
 
-接收和发送限制可用于防止出现垃圾邮件和大量邮件蠕虫或病毒。这些限制可以帮助保护系统的运行状况和我们用户的安全。
+Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
   
 #### <a name="receiving-limits"></a>接收限制
 
-接收限制应用于用户、组或公用文件夹每小时可以接收的邮件数。这适用于从 Internet 和本地服务器收到的邮件。超出接收限制时，只要有电子邮件发送到此邮箱，都会收到未送达报告，指出邮箱已超出最大发送阈值。一个小时后，限制会进行刷新，邮箱将能够再次接收邮件。
+Receiving limits apply to the number of messages that a user, group, or public folder can receive per hour. This applies for both messages received from the Internet and from on-premises servers. When the receiving limit has been exceeded, any emails sent to that mailbox will receive a non-delivery report stating that the mailbox has exceeded the maximum delivery threshold. After one hour, the limit will refresh and the mailbox will once again be able to receive messages.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -647,9 +646,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 发送限制应用于收件人数、邮件数和用户可以从其 Exchange Online 帐户发送的每封邮件的收件人数。
   
 > [!NOTE]
-> 对于存储在组织的通讯簿中的通讯组，这类组计数为一个收件人。对于存储在邮箱的“联系人”文件夹中的通讯组，单独计数组的各个成员。 
+> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually. 
   
-- **收件人速率限制** 为了阻止送达未经请求的批量邮件，Exchange Online 提供收件人限制以防止用户和应用程序发送大量电子邮件。这些限制适用于每个用户的所有出站和内部邮件。 
+- **Recipient rate limit** To discourage the delivery of unsolicited bulk messages, Exchange Online has recipient limits that prevent users and applications from sending large volumes of email. These limits are applied per-user to all outbound and internal messages. 
     
     > [!NOTE]
     > 需要发送合法批量电子邮件的 Exchange Online 客户（例如，客户新闻通讯）应使用专门提供这些服务的第三方提供商。 
@@ -657,9 +656,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 - **收件人限制** 一封电子邮件的"收件人:"、"抄送:"和"密件抄送:"字段中允许的最大邮件收件人数。 
     
     > [!NOTE]
-    > 出于收件人速率限制和收件人限制的目的，组织共享通讯簿中存储的通讯组作为一个收件人计数。在个人通讯列表中，每个收件人单独计数。 
+    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately. 
   
-- **邮件速率限制** 邮件速率限制确定用户在指定时间段内可以从其 Exchange Online 帐户发送的邮件数。此限制有助于防止单个发件人过多消耗系统资源。如果用户提交邮件的速度超过了通过 SMTP 客户端提交邮件的限制，邮件将被拒绝，并且客户端将需要重试。 
+- **Message rate limit** Message rate limits determine how many messages a user can send from their Exchange Online account within a specified period of time. This limit helps prevent overconsumption of system resources by a single sender. If a user submits messages at a rate that exceeds the limit via SMTP client submission, the messages will be rejected and the client will need to retry. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -691,7 +690,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |“垃圾邮件”文件夹保留期  <br/> |30 天  <br/> |30 天  <br/> |30 天  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 这是默认限制。管理员可以为其组织更改此值。 
+> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. 
   
 #### <a name="distribution-group-limits"></a>通讯组限制
 
@@ -699,9 +698,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
   
 - **Maximum number of distribution group members** The total recipient count is determined after distribution group expansion. 
     
-- **限制向大型通讯组发送邮件** 包含此限制所指定数目的成员的通讯组必须已配置传递管理或邮件审批选项。传递管理选项将指定一个允许向通讯组发送邮件的发件人的列表。邮件审批选项将指定一个或多个必须审批发送到通讯组的所有邮件的审阅人。 
+- **Limit sending messages to large distribution groups** Distribution groups that contain the number of members specified by this limit must have delivery management or message approval options configured. Delivery management specifies a list of senders who are allowed to send messages to the distribution group. Message approval specifies one or more moderators who must approve all messages sent to the distribution group. 
     
-- **大型通讯组的最大邮件大小** 如果将一封邮件发送给 5,000 个收件人或更多收件人，则此邮件的大小不能超出此限制。如果此邮件的大小超出此限制，则不会传递此邮件，并且发件人会收到一份未送达报告 (NDR)。在通讯组扩展后确定总收件人计数。 
+- **Maximum message size for large distribution groups** If a message is sent to 5,000 or more recipients, the message size can't exceed this limit. If the message size exceeds the limit, the message isn't delivered, and the sender receives a non-delivery report (NDR). The total recipient count is determined after distribution group expansion. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -709,7 +708,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
 |限制向大型通讯组发送邮件  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |
 |大型通讯组的最大邮件大小  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|通讯组所有者的最大数量  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|通讯组所有者的最大数量  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |用户可创建的组的最大数目  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -718,7 +717,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>日记、传输和收件箱规则限制
 
-以下列表包含适用于日记规则、传输规则的限制（也称为组织范围规则）以及适用于收件箱规则的限制。收件箱规则由单个用户设置，并适用于该用户邮箱发送和接收的邮件。
+The following list includes limits that apply to journal rules, transport rules (also known as organization-wide rules), and limits that apply to Inbox rules. Inbox rules are set up by individual users and applied to messages sent and received by the individual user's mailbox.
   
 - **最大日记规则数** 组织中可具有的日志规则的最大数目。 
     
@@ -726,15 +725,15 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
     
-- **所有传输规则中使用的所有正则表达式的字符限制** 组织的所有传输规则条件和例外中的所有正则表达式所使用的字符总数。可具有少量使用长而复杂的正则表达式的规则，也可具有多个使用简单正则表达式的规则。 
+- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions. 
     
 - **附件内容的扫描限制**传输规则条件允许您检查邮件附件的内容，但只检查从附件提取的前 1 MB 文本。 1 MB 的限制指的是从附件中提取的文本，而不是附件的文件大小。 例如，一个 2 MB 的文件可能包含小于 1 MB 的文本，因此将检查整个文本 
     
-- **所有传输规则向一封邮件添加的收件人的最大数目** 当一封邮件由不同的传输规则使用时，只能向该邮件添加有限数目的收件人。在达到此限制后，不会再向该邮件添加任何其余的收件人。此外，传输规则不能向邮件添加通讯组。 
+- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule. 
     
-- **转发邮件的收件人限制** 可以为收件箱或包含重定向操作的传输规则配置的收件人的最大数目。如果某个规则配置为将邮件重定向到比此数目多的收件人，则不应用该规则，任何满足该规则条件的邮件将不重定向到该规则中列出的任何收件人。 
+- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule. 
     
-- **重定向邮件的次数** 将根据收件箱规则自动重定向、转发或答复邮件的次数。例如，用户 A 有一个根据发件人将邮件重定向到用户 B 的收件箱规则。用户 B 有一个根据主题行中的关键字将邮件转发到用户 C 的收件箱规则。如果某邮件同时满足这两个条件，则由于仅允许一次重定向，该邮件仅发送到用户 B，不会转发到用户 C。在这种情况下，邮件将被丢弃，而不会向用户 B 发送未送达报告 (NDR) 以指明邮件未发送给用户 C。 
+- **Number of times a message is redirected** The number of times a message will be redirected, forwarded, or replied to automatically based on Inbox rules. For example, User A has an Inbox rule that redirects messages to User B, based on the sender. User B has an Inbox rule that forwards messages to User C based on keywords in the subject line. If a message satisfies both of these conditions, the message is only sent to User B; it's not forwarded to User C because only one redirection is allowed. In this case, the message is dropped without sending a non-delivery report (NDR) to User B indicating that the message wasn't delivered to User C. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -756,11 +755,11 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     
 - **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
     
-- **等待审阅的邮件的过期时间** 默认情况下，等待审阅的邮件在 2 天后过期。但每 7 天将处理一次已过期的中继邮件。这意味着，中继邮件会在 2 到 9 天内随时过期。 
+- **Expiration for messages waiting for moderation** By default, a message waiting for moderation expires after two days. However, the processing of expired moderated messages runs every seven days. This means that a moderated message can expire at any time between two and nine days. 
     
-- **过期的审阅通知邮件的最大速率** 此限制将设置 1 个小时内过期中继邮件的通知邮件的最大数目。对数据中心内的每个邮箱数据库施加了此限制。 
+- **Maximum rate for expired moderation notification messages** This limit sets the maximum number of notification messages for expired moderated messages in a one-hour period. This limit is placed on each mailbox database in the datacenter. 
     
-    在使用率较高的时段内，一些发件人可能无法收到已过期的中继邮件的通知邮件。但仍可使用送达报告来发现这些通知。
+    During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -884,7 +883,7 @@ OneDrive for Business 计划2适用于 Office 365 A1、A3 和 A5。 若要查看
 |Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证  <br/> |否  <br/> |否  <br/> |否  <br/> |
 | Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|AOL 和 Yahoo! 联合身份验证  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|AOL and Yahoo! federation  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |即席音频会议和计划音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |即席视频会议和计划视频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -1001,7 +1000,7 @@ Skype for Business Online 中的限制分为以下几类：
   
 #### <a name="peer-to-peer-limits"></a>对等限制
 
-- **文件传输限制** 在 Skype for Business Online IM 对话中可以传输的文件大小上限。若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)的 Microsoft 支持文章。
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **打开选项卡式的对话限制** Skype for Business 用户一次可以打开的对话选项卡的最大数量。 
     

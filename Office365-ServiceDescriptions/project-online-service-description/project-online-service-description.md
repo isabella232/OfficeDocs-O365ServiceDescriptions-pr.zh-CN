@@ -1,8 +1,7 @@
 ---
 title: Microsoft 项目服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是用于项目组合管理（PPM）和日常工作的灵活联机解决方案。 通过 Office 365，Project Online 提供能够几乎从任何位置的任何设备上对项目和项目组合投资进行计划、设置优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820610"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131156"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -286,7 +285,7 @@ Web 的项目有一些限制，如下表所述。
 |最大 摘要任务的持续时间 | 3650天（10年） |
 |最大 可分配给任务的资源 | 20个资源 |
 |任务的受支持日期范围 | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**项目** ||
 |最大 项目的任务总数 | 500 |
 |最大 项目的总持续时间 | 3650天（10年） |
 |最大 项目的总资源 | 150 |

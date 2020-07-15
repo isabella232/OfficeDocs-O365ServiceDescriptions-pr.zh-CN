@@ -1,8 +1,7 @@
 ---
 title: 隐私、安全性和透明度
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,19 +11,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044944"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131666"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
 > [!NOTE]
-> 本文中的信息适用于 Office 365 的全球各种版本。如果使用的是 Office 365 国家/地区云实例（包括 Office 365 美国政府版、Office 365 Germany 和由世纪互联运营的 Office 365），请参阅 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)（Microsoft 国家/地区云）。 
+> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 [Microsoft 信任中心](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)。
+Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>隐私
 
@@ -50,7 +49,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
 
 作为 Microsoft 管理员，你可以使用客户密码箱控制 Microsoft 支持工程师在帮助会话过程中访问你的数据的方式。 如果工程师需要访问您的数据以进行故障排除和解决问题，那么您可以使用客户锁箱批准或拒绝该访问请求。 如果您批准访问请求，工程师就可以访问您的数据。 每个请求都有过期时间，一旦问题得以解决，即关闭请求并吊销该访问权限。
   
-客户锁箱包含在 Office 365 Enterprise 5 计划中，或者您可以通过任何其他 Office 365 Enterprise 计划来购买单独的订阅。有关详细信息，请参阅 [Office 365 客户锁箱请求](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409)。
+Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>高级威胁防护
 

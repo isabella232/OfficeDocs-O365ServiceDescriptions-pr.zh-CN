@@ -1,8 +1,7 @@
 ---
 title: 任务管理
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: 以下任务管理功能在 Project Online 中可用。
-ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640270"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131066"
 ---
 # <a name="task-management"></a>任务管理
 
@@ -27,7 +26,7 @@ ms.locfileid: "43640270"
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-停用任务后，任务仍会保留在项目计划中，但不会影响资源可用性、项目日程安排或其他任务的日程安排。详细了解如何[停用任务](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
+When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>自动完成
 
@@ -43,7 +42,7 @@ ms.locfileid: "43640270"
   
 ## <a name="cross-project-critical-path"></a>跨项目的关键路径
 
-关键路径是为了使项目按计划完成而必须按计划完成的一系列任务。您可以创建、编辑和删除与另一个项目中任务的依赖关系。 
+A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
   
 ## <a name="task-inspector"></a>任务检查器
 
@@ -51,7 +50,7 @@ ms.locfileid: "43640270"
   
 ## <a name="task-path-analysis"></a>任务路径分析
 
-通过突出显示任务在整个项目中的路径，查看一个任务与其他任务的关联。详细了解如何[突出显示任务之间的关联](https://go.microsoft.com/fwlink/p/?LinkId=271345)。
+See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>自上而下摘要任务
 

@@ -1,7 +1,7 @@
 ---
 title: 工作区分析服务说明
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft 工作区分析为您组织的通信和协作趋势提供了丰富、可操作的见解，可帮助您做出更有效的业务决策。
-ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640100"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132926"
 ---
 # <a name="workplace-analytics-service-description"></a>工作区分析服务说明
 

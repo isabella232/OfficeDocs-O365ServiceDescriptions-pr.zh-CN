@@ -1,8 +1,7 @@
 ---
 title: 项目组合管理
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Project Online 中提供了以下项目组合管理功能。
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546065"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131226"
 ---
 # <a name="portfolio-management"></a>项目组合管理
 
@@ -37,19 +36,19 @@ Project Online 中提供了以下项目组合管理功能。
   
 ## <a name="financial-management"></a>财务管理
 
-采用财务管理流程，改善成本和收益的预估。有效跟踪成本绩效，确保每个项目均在预算范围内交付，并确保项目组合能够达到预期效果。若要了解详细信息，请参阅[项目组合管理解决方案指南（白皮书）](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>参与工作流
 
-借助工作流，可以结构化方式分阶段完成项目。工作流包括项目生命周期阶段（如创建项目建议和初始审批等）的定义。工作流设置了每个阶段中必需或锁定的信息。
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>项目组合分析和选择
 
-有效发现、选择并交付与组织的业务战略最为一致且能最大限度地提高投资回报率 (ROI) 的项目组合。若要了解详细信息，请参阅[项目组合管理解决方案指南（白皮书）](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>方案管理
 
-计划管理中的每个项目均有自身的一组目标。如果将这些目标结合在一起，则可实现整个计划的预期收益。若要了解详细信息，请参阅[项目组合管理解决方案指南（白皮书）](https://go.microsoft.com/fwlink/p/?LinkId=402633)。
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>路线图
 

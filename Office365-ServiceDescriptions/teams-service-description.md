@@ -1,19 +1,18 @@
 ---
 title: Microsoft Teams 服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711142"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131986"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 

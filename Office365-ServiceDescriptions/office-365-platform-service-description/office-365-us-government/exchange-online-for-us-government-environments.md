@@ -1,20 +1,19 @@
 ---
 title: Exchange Online for 美国政府环境
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云和商业云之间的功能差异，如 Exchange Online 服务说明中所示。
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213694"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131926"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online for 美国政府环境
 
@@ -117,7 +116,7 @@ ms.locfileid: "44213694"
 |Outlook for Mac|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
 |Outlook for iOS 和 Outlook for Android|是|是|是||
 |Exchange ActiveSync|是|是|是||
-|Office 365 移动设备管理|是|是|是||
+|Microsoft 365 的基本移动性和安全性|是|是|是||
 |POP 和 IMAP|是|是|是||
 |SMTP|是|是|是||
 |EWS 应用程序支持|是|是|是||

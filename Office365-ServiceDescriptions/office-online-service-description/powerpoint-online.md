@@ -1,8 +1,7 @@
 ---
 title: PowerPoint 网页版
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640280"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131316"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
@@ -89,7 +88,7 @@ PowerPoint for web 允许您对文本应用加粗、倾斜、下划线、字体�
   
 ## <a name="full-fidelity-reading-view"></a>全保真阅读视图
 
-查看演示文稿，使其&mdash;显示动画、切换和音频/视频。
+查看演示文稿，使其 &mdash; 显示动画、切换和音频/视频。
   
 ## <a name="full-ink-support"></a>Full ink support
 
@@ -125,7 +124,7 @@ PowerPoint for web 从 web 浏览器启动，并依赖于 internet 连接。 要
   
 ## <a name="picture-cropping"></a>图片裁剪
 
-使用裁剪工具提高图片的主题帧。只需单击图片边缘的其中一个裁剪控点并拖动，直到获得所需的图片。
+Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
   
 ## <a name="pictures"></a>图片
 
@@ -173,7 +172,7 @@ PowerPoint for web 在您每次进行更改时都保存您的工作。 没有 "*
   
 ## <a name="share"></a>共享
 
-如果将演示文稿保存在 SharePoint 文档库中，演示文稿会处于联机状态，可以通过发送链接（而非电子邮件附件）进行共享。拥有适当权限的人员可以在其 Web 浏览器或移动设备上查看演示文稿。详细了解如何[共享演示文稿](https://go.microsoft.com/fwlink/?LinkId=272776)。
+If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 

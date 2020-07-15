@@ -1,8 +1,7 @@
 ---
 title: Skype for Business Online 限制
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Skype for Business Online 中的限制分为以下几类。
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639700"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131016"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -39,7 +38,7 @@ Skype for Business Online 中的限制分为以下几类：
 ## <a name="peer-to-peer-limits"></a>对等限制
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **文件传输限制** 在 Skype for Business Online IM 对话中可以传输的文件大小上限。若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](https://go.microsoft.com/fwlink/?LinkId=398280)的 Microsoft 支持文章。
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **打开选项卡式的对话限制** Skype for Business 用户一次可以打开的对话选项卡的最大数量。 
     
@@ -47,7 +46,7 @@ Skype for Business Online 中的限制分为以下几类：
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业标准** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
 |文件传输限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |无限制  <br/> |不适用  <br/> |
 |对话限制<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不适用  <br/> |
@@ -85,7 +84,7 @@ Skype for Business Online 中的限制分为以下几类：
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业标准** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 F3** <br/> |
 |文件上载限制  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |不适用  <br/> |
 |参加 Skype for Business 会议<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |
 |Skype for Business 会议中的演示者  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |暂无  <br/> |

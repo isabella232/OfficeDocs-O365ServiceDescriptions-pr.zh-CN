@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002309"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131656"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ Microsoft 支持以下用于创建、管理和对用户进行身份验证的方�
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>需要获取有关登录、安装/卸载或取消订阅方面的帮助吗？
 
-获取有关[在](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [安装或卸载 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | 时进行登录的帮助[取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+获取有关[在](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [安装或卸载 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)时进行登录的帮助  |  [取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 有关其他问题，请访问[Microsoft 支持中心](https://support.microsoft.com/contactus/)。 若要获取由中国的世纪互联运营的 Office 365 的支持，请联系[世纪互联支持团队](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 对于 Office 365 Germany，请联系 [Office 365 Germany 支持团队](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
   
@@ -50,7 +49,7 @@ Microsoft 有两个可用于用户标识的系统：
 
 当您创建新用户时，用户的登录名和电子邮件地址将被分配给 Microsoft 365 管理中心中设置的默认域。 若要了解详细信息，请参阅[添加你的用户和域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
-默认情况下，订阅使用在\<帐户中创建的_公司名称_\> **onmicrosoft.com**域。\*您可以将一个或多个自定义域添加到 Microsoft，而不是保留 onmicrosoft.com 域，并可分配用户以使用任何经过验证的域进行登录。 每个用户分配的域是将显示在发送和接收的电子邮件上的电子邮件地址。 
+默认情况下，订阅使用在 \< _company name_\> **.onmicrosoft.com**帐户 \* 中创建的. onmicrosoft.com 域。您可以将一个或多个自定义域添加到 Microsoft，而不是保留 onmicrosoft.com 域，并可分配用户以使用任何经过验证的域进行登录。 每个用户分配的域是将显示在发送和接收的电子邮件上的电子邮件地址。 
   
 最多可以承载900个已注册的 internet 域，每个域都由不同的命名空间表示。 
   
@@ -58,7 +57,7 @@ Microsoft 有两个可用于用户标识的系统：
   
 有关 Office 365 中的域的详细信息，请参阅[域](domains.md)服务说明。 
   
-\* 如果你使用的是由中国世纪互联运营的 Office 365，则默认域是 \<companyname\> **.onmsChina.cn**。如果你使用的是 Office 365 Germany，则默认域是 \<companyname\> **.onmicrosoft.de**
+\*如果您在中国使用由世纪互联运营的 Office 365，则默认域为 \<companyname\> **onmsChina.cn**。 如果使用的是 Office 365 德国，则默认域为 \<companyname\> **onmicrosoft.de。**
   
 ## <a name="authentication"></a>身份验证
 
@@ -184,7 +183,7 @@ Office 365 企业版采用基于角色的访问控制 (RBAC) 模型：权限和�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 服务
 
-Azure Active Directory (AD) 将身份和访问管理综合功能引入 Office 365。不仅整合了目录服务、高级身份管理、应用程序访问管理，并为开发者提供了一个基于标准的丰富平台。若要详细了解 Office 365 中的 AD 功能，请参阅 [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)（登录页品牌塑造和云用户自助服务密码重置）。详细了解 [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx)（Azure Active Directory 免费版、基本版和高级版）。 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>功能可用性
 

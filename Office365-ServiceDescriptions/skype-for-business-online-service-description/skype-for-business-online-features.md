@@ -1,7 +1,7 @@
 ---
 title: Skype for Business Online 功能
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 manager: supotter
 audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果您是管理员，则可以在设置 Skype for business Online 中查找有关设置 Skype for Business Online 功能的详细说明。
-ms.openlocfilehash: 90d5e7ab138d3bb2098cd279dcf7431043107a57
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: be40d66d6a59bc69f90b354d3df82393921d1163
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638800"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132106"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 
@@ -40,7 +40,7 @@ Skype for Business 为此处列出的会议室设备提供支持。 有关其他
 
 使用 Skype for Business，用户可以：
   
-- 显示其状态&mdash;例如，"可用"、"离开"、"请勿打扰"&mdash;或 "脱机" 以让其他人了解其可用性。 Skype for business 状态信息在整个套件中提供。
+- 显示其状态 &mdash; 例如，"可用"、"离开"、"请勿打扰" 或 "脱机" &mdash; 以让其他人了解其可用性。 Skype for business 状态信息在整个套件中提供。
     
 - 通过 Internet 协议（IP）网络（如 internet）或组织的公司网络实时发送和接收短信。 Skype 到 Skype 和多方通信均可使用即时消息。 对 IM 文本进行加密以增强安全性。
     
@@ -140,4 +140,4 @@ Skype for Business 包括在公共交换电话网络（PSTN）上的呼叫功能
   
 有关详细信息，请转到[什么是 Skype 会议直播？](https://support.office.com/article/c472c76b-21f1-4e4b-ab58-329a6c33757d)。
   
-可以在上[https://portal.broadcast.skype.com](https://portal.broadcast.skype.com/)找到 Skype 会议直播门户。
+可以在上找到 Skype 会议直播门户 [https://portal.broadcast.skype.com](https://portal.broadcast.skype.com/) 。

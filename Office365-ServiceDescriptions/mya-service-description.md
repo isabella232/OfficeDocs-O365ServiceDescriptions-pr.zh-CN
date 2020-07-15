@@ -1,7 +1,7 @@
 ---
 title: MyAnalytics 服务说明
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分发、隐私和先决条件
-ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262855"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132426"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服务说明
 
@@ -37,13 +37,13 @@ MyAnalytics 包含以下元素：
 
 通过遵守以下准则，MyAnalytics 保护员工隐私并支持遵守本地法规：
 
-* MyAnalytics 不能用于启用员工评估、跟踪、自动化决策、分析或监控。
+* MyAnalytics 并不旨在启用员工评估、跟踪、自动决策、分析或监视。
 * MyAnalytics 不会向员工提供对其他同事的新个人身份信息的访问权限。
-* MyAnalytics 数据经过处理并存储在员工的 Exchange Online 邮箱中。
-* MyAnalytics 支持常规数据保护法规（GDPR）合规性。
-* 可以对 MyAnalytics 进行配置，以便个人必须 purposefully 自愿加入。
+* 处理 MyAnalytics 数据并将其存储在员工的 Exchange Online 邮箱中。
+* MyAnalytics 支持一般数据保护条例 (GDPR) 合规性。
+* 可对 MyAnalytics 进行配置，以便个人必须专门选择加入。
 * MyAnalytics 和 Delve 是没有相互依赖关系的独立应用程序。
-* MyAnalytics 提醒用户自己的数据是私有且安全的。
+* MyAnalytics 提醒用户其数据是安全的私有数据。
 
 有关详细信息，请参阅[MyAnalytics 隐私声明指南](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)。
 

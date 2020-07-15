@@ -1,8 +1,7 @@
 ---
 title: Exchange Online Archiving 服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online 存档是365一个基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 （SP2 及更高版本）或订阅特定 Exchange Online 或 Microsoft 365 计划的组织。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213724"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131516"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -51,7 +50,7 @@ ms.locfileid: "44213724"
   
 是否正在寻找有关所有 Microsoft 365 计划的信息？ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>要求
 
 若要对 Exchange Server 使用 Exchange Online 存档，用户邮箱必须驻留在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange Server 2010 （SP2 或更高版本）上。
   
@@ -61,7 +60,7 @@ ms.locfileid: "44213724"
   
 ### <a name="user-subscriptions"></a>用户订阅
 
-访问 Exchange Online Archiving 服务的每个用户都必须拥有一个 Exchange Online Archiving 订阅。每个电子邮件存档订阅只能用于存储一名用户的邮件数据。
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>无限制存档存储配额
 

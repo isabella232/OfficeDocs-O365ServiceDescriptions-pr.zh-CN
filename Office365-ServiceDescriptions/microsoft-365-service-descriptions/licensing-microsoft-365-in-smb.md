@@ -1,20 +1,19 @@
 ---
 title: Microsoft 365 针对中小型企业的许可
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业高级版是适用于中小型企业客户的 Microsoft 一流产品。 Microsoft 365 商业高级版是一个集成的解决方案，可将 Microsoft 365 的工作效率、高级安全性和设备管理结合在一起。
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988856"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132536"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
@@ -45,7 +44,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |   | Windows 虚拟桌面 | 否 | 可访问 |
 |**信息保护** | Microsoft 数据丢失防护 | 否 | 可访问 |
 |   | Azure 信息保护计划1，BitLocker 强制 | 否 | 可访问 |
-|**Compliance** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 |
+|**合规性** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 |
 
 **注释**
 
@@ -76,7 +75,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |**信息保护** | Microsoft 数据丢失防护 | 是 | 是 |
 |   | Azure 信息保护计划1，BitLocker 强制 | 否 | 可访问 |
 |**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype） | 是 | 否 |
-|**Compliance** | 无限制的电子邮件存档<sup>3</sup> | 是 | 是 |
+|**合规性** | 无限制的电子邮件存档<sup>3</sup> | 是 | 是 |
 
 **注释**
 
@@ -109,7 +108,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 |**信息保护**  | Microsoft 数据丢失防护 | 否 | 可访问 | 是 |
 |   | Azure 信息保护计划1，BitLocker 强制 | 否 | 必需 | 否 |
 |**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype） | 否 | 否 | 可访问 |
-|**Compliance** | 无限制的电子邮件存档<sup>3</sup> | 否 | 可访问 | 是 |
+|**合规性** | 无限制的电子邮件存档<sup>3</sup> | 否 | 可访问 | 是 |
 
 **注释**
 
@@ -145,7 +144,7 @@ Microsoft 365 商业高级版是适用于中小型企业（SMB）客户的 Micro
 | **信息保护** | Microsoft 数据丢失防护，Azure 信息保护计划1 | 否 | 可访问 | 是 | 是 |
 |   | Azure 信息保护计划2，Microsoft 云应用安全性，Office 365 云应用安全 | 否 | 否 | 否 | 可访问 |
 |**本地 CAL 权限** | ECAL 套件（Exchange、SharePoint、Skype、Windows、Microsoft 终结点配置管理器、Windows 权限管理） | 否 | 否 | 可访问 | 是 |
-|**Compliance** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 | 是 | 是 |
+|**合规性** | 无限制的电子邮件存档<sup>2</sup> | 否 | 可访问 | 是 | 是 |
 |   | 高级电子数据展示、客户密码箱、高级数据管理 | 否 | 否 | 否 | 可访问 |
 |**分析** | Power BI Pro，MyAnalytics | 否 | 否 | 否 | 可访问 |
 | | 通过 MyAnalytics 的见解 | 是 | 是 | 是 | 是 |

@@ -1,8 +1,7 @@
 ---
 title: 服务运行状况和连续性
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理员可以查看服务的状态，并了解何时安排了维护。 服务运行状况信息随时通过登录提供。
-ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044954"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131796"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -126,7 +125,7 @@ Microsoft 产品通过高度强健的系统提供，可帮助保持最佳服务�
 
 Microsoft 可以通过以下功能确保客户数据随时可用：
   
-- **数据存储和冗余：** 客户数据存储在具有强大数据保护功能的冗余环境中，以支持可用性、业务连续性和快速恢复。实施了多级数据冗余，从冗余磁盘到防止本地磁盘故障，从完整的持续数据复制到地理分散的数据中心。 
+- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
     
 - **数据监控：** Microsoft 服务通过以下方式维护高级别的性能： 
     
@@ -146,13 +145,13 @@ Microsoft 可以通过以下功能确保客户数据随时可用：
 
 Microsoft 开发和运营团队通过专用的支持组织进行补充，这在为客户提供业务连续性方面起着重要作用。 支持员工拥有深厚的服务及其相关应用程序的知识，并可直接接触架构、开发和测试方面的 Microsoft 专家。
   
-支持组织与运营和产品团队紧密合作，提供快速的解决时间，并提供倾听客户意见的渠道。来自客户的反馈为计划、开发和运营流程提供输入。
+The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
   
 - **在线问题跟踪：** 客户需要知道他们的问题正在得到解决，同时需要能够跟踪及时解决。 Microsoft 365 padmin center ortal 提供了一个基于 web 的界面来支持。 Customers can use the portal to add and monitor service requests and receive feedback from Microsoft support teams. 
     
 - **自助，由持续员工支持提供支持：** Microsoft 提供了范围广泛的自助资源和工具，可帮助客户解决服务相关问题，而无需 Microsoft 支持。 
     
-在客户输入服务请求之前，他们可以访问知识库文章和常见问题，其中提供了最常见问题的立即帮助。我们以最新信息持续更新这些资源，通过提供已知问题的解决方案帮助避免延迟。然而，当出现的问题需要支持专业人员帮助时，员工成员可以通过电话和管理门户全天候提供立即帮助。
+Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
   
 若要详细了解支持，请参阅[支持](support.md)主题。 
   

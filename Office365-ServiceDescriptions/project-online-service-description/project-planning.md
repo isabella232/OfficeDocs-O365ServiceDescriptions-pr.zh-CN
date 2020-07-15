@@ -1,8 +1,7 @@
 ---
 title: 项目计划
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: 以下项目计划功能在 Project Online 中可用。
-ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640200"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131096"
 ---
 # <a name="project-planning"></a>项目计划
 
@@ -31,11 +30,11 @@ ms.locfileid: "43640200"
   
 ## <a name="budget-planning"></a>Budget planning
 
-使用预算计划，可以将项目当前进度与项目开始时设定的基线进行比较。详细了解[挣值分析](https://go.microsoft.com/fwlink/p/?LinkId=271336)。
+Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>比较项目版本
 
-对项目的两个版本进行比较。系统将创建一个报告，显示已更改的内容（如新任务的添加）。
+Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
   
 ## <a name="deadlines"></a>Deadlines
 
@@ -55,7 +54,7 @@ ms.locfileid: "43640200"
   
 ## <a name="reports"></a>报告
 
-使用 Project 2016，可以创建简洁明快、色彩丰富的专业报告，而无需将数据导出到另一程序中。 添加图片、图表、动画、链接和更多&mdash;必须与利益干系人和工作组成员清楚和有效地共享项目状态信息的所有内容。 详细了解如何[创建项目报告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
+使用 Project 2016，可以创建简洁明快、色彩丰富的专业报告，而无需将数据导出到另一程序中。 添加图片、图表、动画、链接和更多 &mdash; 必须与利益干系人和工作组成员清楚和有效地共享项目状态信息的所有内容。 详细了解如何[创建项目报告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
   
 ## <a name="team-planner"></a>工作组规划器
 

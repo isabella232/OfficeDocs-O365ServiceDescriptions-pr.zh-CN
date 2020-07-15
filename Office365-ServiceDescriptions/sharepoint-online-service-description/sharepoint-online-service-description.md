@@ -1,8 +1,7 @@
 ---
 title: SharePoint 服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214034"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131026"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -53,7 +52,7 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 
 Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive 包含在 SharePoint 中，也可作为独立计划进行购买。 若要了解每个计划有多少 OneDrive 存储，请参阅[onedrive 服务说明](../onedrive-for-business-service-description.md)。
 
-## <a name="apps"></a>应用
+## <a name="apps"></a>Apps
 
 若要在计算机上同步 SharePoint 文件，用户可以使用适用于 Windows 或 Mac 的[OneDrive 同步应用程序](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)。 有关同步应用中的功能可用性的信息，请参阅[OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。 
 
@@ -136,7 +135,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [电子数据展示](/microsoft-365/compliance/ediscovery-cases)（内容搜索、保留、导出）
 - [信息屏障](/microsoft-365/compliance/information-barriers)
-- [Office 365 高级威胁防护（ATP）](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Office 365 高级威胁防护 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留标签和策略](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [敏感度标签](/microsoft-365/compliance/sensitivity-labels)
 - [统一审核](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)（审核 SharePoint 用户和管理活动）

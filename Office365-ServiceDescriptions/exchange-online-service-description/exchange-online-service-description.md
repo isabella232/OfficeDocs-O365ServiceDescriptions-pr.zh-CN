@@ -1,8 +1,7 @@
 ---
 title: Exchange Online 服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在寻找包括 Exchange Online 的订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845016"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131536"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -145,7 +144,7 @@ User subscriptions are not required for conference rooms and shared mailboxes. T
 |Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|可访问| 否|
 |Outlook for iOS 和 Outlook for Android<sup>21</sup>|是|是|是|是|是|是|是|是|
 |Exchange ActiveSync|是|是|是|是|是|是|是|是|
-|Office 365 移动设备管理|否|否|可访问|是|是|是|是|是|
+|Microsoft 365 的基本移动性和安全性|否|否|可访问|是|是|是|是|是|
 |POP 和 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
 |SMTP|是|是|是|是|是|是|是|是|
 |EWS 应用程序支持|是|是|是|是|是|是|可访问|否|

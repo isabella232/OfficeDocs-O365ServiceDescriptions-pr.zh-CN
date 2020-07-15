@@ -1,8 +1,7 @@
 ---
 title: 域
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 当您添加域时，分步向导可帮助您添加用户并将电子邮件地址和其他服务转换为您的业务名称。 完成此向导后，你的业务电子邮件将转到 Microsoft，而不会转到你的当前电子邮件提供商。 若要了解详细信息，请参阅将用户和域添加到 Microsoft。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
-ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044824"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132395"
 ---
 # <a name="domains"></a>域
 

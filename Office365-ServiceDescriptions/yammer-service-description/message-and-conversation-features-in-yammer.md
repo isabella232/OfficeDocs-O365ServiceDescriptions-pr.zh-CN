@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的消息和对话功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: 以下邮件和对话功能在 Yammer 中可用。
-ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640030"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133036"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的消息和对话功能
 
@@ -37,7 +36,7 @@ ms.locfileid: "43640030"
 
 ## <a name="online-now"></a>立即联机
 
-查看在线用户并立即与一个或多个同事开始限定讨论。联系人列表将按您互动最多的用户顺序自动排序。
+See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
 
 ## <a name="polls"></a>投票
 

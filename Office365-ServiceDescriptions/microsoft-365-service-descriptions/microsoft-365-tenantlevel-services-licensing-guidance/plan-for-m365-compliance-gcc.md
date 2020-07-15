@@ -1,29 +1,28 @@
 ---
 title: Microsoft 365 合规性计划 - GCC
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 本指南适用于在美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求（在其中使用 Microsoft）的数据的公司中部署 Office 365 的 IT 专业人员。365政府版-GCC 适用于满足这些要求。
-ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: 本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
+ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262815"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132456"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
-本指南适用于在美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求（在其中使用 Microsoft）的数据的公司中部署 Office 365 的 IT 专业人员。365政府版-GCC 适用于满足这些要求。
+本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
 
 > [!NOTE]
 > 如果您的组织已满足 Microsoft 365 政府-GCC 的资格要求，并已应用并接受到程序，则可以跳过步骤1和步骤2，直接转到步骤3。
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>第 1 步： 确定您的组织是否需要 Microsoft 365 政府-GCC 并满足资格要求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>步骤 1. 确定您的组织是否需要 Microsoft 365 政府-GCC 并满足资格要求
 
 Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括 FedRAMP 中型和刑事审判和联邦税务信息系统的要求（CJI 和 FTI data types）。
 
@@ -42,7 +41,7 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 [Office 365 美国政府版服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)介绍了平台的优势，这些优点在美国的符合合规性要求中居中显示。
 
 > [!TIP]
-> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n** 相关并 **满足我的组织的需要 y/n**。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
+> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关**   并 **满足我的组织的需要 y/n**。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
 
 > [!NOTE]
 > Microsoft 365 政府版-GCC 仅适用于美国。 非美国政府客户可以从多个[Office 365 政府计划](https://products.office.com/government/compare-office-365-government-plans)中进行选择。
@@ -51,17 +50,17 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 - *确定 Microsoft 365 政府版（GCC）是否适合您的组织。*
 - *确认您的组织满足资格要求。*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>第 2 步： 适用于 Microsoft 365 政府版-GCC
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>步骤 2. 适用于 Microsoft 365 政府版-GCC
 
 如果认为此服务适合您的组织，请启动[应用此服务](https://products.office.com/government/eligibility-validation)的过程。
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>第 3 步： 了解 Microsoft 365 政府版-GCC 默认安全设置
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>步骤 3. 了解 Microsoft 365 政府版-GCC 默认安全设置
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
 **决策点**：*决定是否要修改任何默认的 Microsoft 365 政府-GCC 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>第 4 步： 了解默认情况下在 Microsoft 365 政府中当前不可用或禁用的功能（GCC<sup>1</sup> ）
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>步骤 4. 了解默认情况下在 Microsoft 365 政府中当前不可用或禁用的功能（GCC<sup>1</sup> ）
 
 为了满足政府云客户的要求，Microsoft 365 政府-GCC 和企业版计划存在一些差异。 请参阅下表以查看哪些功能可用。
 
@@ -84,9 +83,9 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 标签活动资源管理器                         | 在工程工作积压 |
 |                                         | Trainable 类元                           | 在工程工作积压 |
 |                                         | 统一的标签和敏感度标签         | 在工程工作积压 |
-| **内幕风险管理**             | 高级邮件加密                     | 可用              |
-|                                         | 内幕风险管理                         | 在工程工作积压 |
-|                                         | 沟通合规性                        | 在工程工作积压 |
+| **内部风险管理**             | 高级邮件加密                     | 可用              |
+|                                         | 内部风险管理                         | 在工程工作积压 |
+|                                         | 通信合规性                        | 在工程工作积压 |
 |                                         | 客户密码箱                                | 可用              |
 |                                         | 客户密钥                                    | 可用              |
 |                                         | 特权访问管理                    | 在工程工作积压 |

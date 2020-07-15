@@ -1,8 +1,7 @@
 ---
 title: Office 365 计划选项
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213904"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132126"
 ---
 # <a name="office-365-plan-options"></a>Office 365 计划选项
 
@@ -33,7 +32,7 @@ ms.locfileid: "44213904"
   
 |**Office 365 服务系列**|**计划**|
 |:-----|:-----|
-|**企业版（最多为300个用户）** <br/> |[Microsoft 365 商业基本版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 商业应用版](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 商业标准版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**企业版（最多为300个用户）** <br/> |[Microsoft 365 商业基础版](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 商业应用版](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 商业标准版](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**企业版（不受限制的用户数）** <br/> |[Office 365 企业版 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 企业版 F3](https://products.office.com/business/office-365-f1) <br/> |
 |**教育版（不受限制的用户数）** <br/> |[Office 365 教育版](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 教育版 E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**政府（用户数量不受限制）** <br/> |[查看所有可用的业务计划](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -42,14 +41,14 @@ ms.locfileid: "44213904"
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每个 Office 365 计划中的服务可用性
 
-每个 Office 365 计划都包括许多单个服务，例如 Exchange Online 和 SharePoint Online。下表显示了每个 Office 365 计划中可用的服务。
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
 >  尽管一个服务可能在多个 Office 365 计划中可用，但每个计划中可用的功能会有所不同。 若要查看适用于每个计划的功能的详细信息，请参阅单个服务说明或与您的经销商或 Microsoft 销售代表联系，以获取更多信息。 <br/>  多个 Office 365 商业版计划包含可购买用于订阅的附加内容。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅 [购买或编辑 Office 365 商业版加载项](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6) 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**服务** <br/> |**Microsoft 365 商业基本版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F3** <br/> |
+|**服务** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5<sup>4</sup>、<sup>16</sup>** <br/> |**Office 365 企业版 F3** <br/> |
 |Office 365 平台  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>6</sup> <br/> |否  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>7</sup> <br/> |是<sup>7</sup> <br/> |是<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |可访问  <br/> |否  <br/> |可访问  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |

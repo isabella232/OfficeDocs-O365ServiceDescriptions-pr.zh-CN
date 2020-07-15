@@ -1,8 +1,7 @@
 ---
 title: Office 365 高级威胁防护服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,24 +11,24 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。
-ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213944"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132359"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
 Microsoft Office 365 高级威胁防护（ATP）是一项基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。 ATP 具有丰富的报告功能和 URL 跟踪功能，可让管理员了解组织中发生的攻击种类。
 
-以下是您可以使用 ATP 进行邮件保护的主要方式：
+以下是你可以使用 ATP 进行邮件保护的主要方式：
 
-- 在 Office 365 ATP 仅筛选方案中，ATP 为本地 Exchange Server 环境或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
+- 在 Office 365 ATP 仅筛选方案中，ATP 将为你的本地 Exchange Server 环境或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
 
-- 可以启用 Office 365 ATP 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅[Exchange online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以启用 Office 365 ATP 来保护 Exchange Online 的云托管邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅[Exchange online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
 
-- 在混合部署中，如果您将本地和云邮箱与入站电子邮件筛选的 Exchange Online 保护结合在一起，则可以将 ATP 配置为保护您的邮件环境并控制邮件路由。
+- 在混合部署中，当邮箱中混合了本地邮箱和云邮箱并且使用 Exchange Online Protection 筛选入站电子邮件时，可配置 ATP 以保护邮件环境和控制邮件路由。
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Office 365 高级威胁防护（ATP）可用性
 
@@ -77,7 +76,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>跨高级威胁防护（ATP）计划的功能可用性
 
-下面列出了每个功能。当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。
+Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |**功能**|**ATP 计划1**<br>（以前的 ATP 独立）|**ATP 计划2**<br>（以前称为威胁智能 <br>独立主机| Office 365 企业版 E5|
 |:-----|:-----|:-----|:-----|
@@ -91,14 +90,14 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 |[实时报告](#real-time-reports)|是|是|是|
 |*自动化、调查、修正和教育*|
 |[威胁跟踪器](#threat-trackers)|否|可访问|是|
-|威胁调查（高级威胁调查）|[实时检测](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
+|威胁调查（高级威胁调查）|[实时检测](#real-time-detections)|[资源管理器](#explorer)|[资源管理器](#explorer)|
 |[自动化事件响应](#automated-incident-response)|否|可访问|是|
 |[攻击模拟器](#attack-simulator)|否|可访问|是|
 
 > [!TIP]
 > 想要一个可下载的 Office 365 ATP 计划1与计划2之间的差异列表吗？ [获取 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>高级威胁防护（ATP）功能
+## <a name="advanced-threat-protection-atp-capabilities"></a>高级威胁防护 (ATP) 功能
 
 ### <a name="safe-attachments"></a>安全附件
 
@@ -109,7 +108,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ### <a name="safe-links"></a>安全链接
 
-[ATP 安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次选择该链接时，都会保持保护，因为在可以访问正确的链接时，会动态阻止恶意链接。
+[ATP 安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次选择链接时，将继续提供保护，因为会在访问良好的链接时动态地阻挡恶意链接。
 
 安全链接可用于以下应用程序中的 Url：
 
@@ -134,15 +133,15 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ### <a name="anti-phishing-policies"></a>防钓鱼策略
 
-[ATP 反网络钓鱼](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)检查传入的邮件，以指示邮件可能是网络钓鱼尝试。 当 ATP 策略（安全附件、安全链接或反网络钓鱼）覆盖了用户时，将通过分析邮件的多个机器学习模型来评估传入的邮件，并根据配置的策略采取相应的操作。
+[ATP 反网络钓鱼](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)检查传入的邮件，以指示邮件可能是网络钓鱼尝试。 当用户在 ATP 策略（安全附件、安全链接或防钓鱼）涵盖范围内时，将通过多个可分析邮件的机器学习模型来评估传入的邮件，然后根据配置的策略采取相应操作。
 
 ### <a name="real-time-reports"></a>实时报告
 
 安全 & 合规性中心中提供的监视功能包括[实时报告和见解](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)，使您的安全和合规性能够重点关注高优先级问题，如安全攻击或更高的可疑活动。 除了突出显示问题区域之外，智能报告和见解还包括用于查看和浏览数据的建议和链接，同时还采取快速操作。
 
-### <a name="explorer"></a>Explorer
+### <a name="explorer"></a>资源管理器
 
-资源管理器（也称为威胁浏览器）是一个实时报告，它允许授权用户识别和分析最新的威胁。 默认情况下，此报告显示过去7天的数据;但是，可以对视图进行修改，以显示过去30天的数据。
+资源管理器（也称为威胁资源管理器）是一种实时报告，可让授权用户能够识别和分析最近的威胁。 默认情况下，此报告显示过去 7 天的数据；但是，可以修改视图以显示过去 30 天的数据。
 
 资源管理器包含视图，如恶意软件（电子邮件和内容）、提交、网络钓鱼和所有电子邮件。 若要查看浏览器与实时检测的比较情况，请[下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
@@ -150,7 +149,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ### <a name="real-time-detections"></a>实时检测
 
-实时检测是一份实时报告，可让授权用户识别和分析最新的威胁。 与资源管理器类似，默认情况下，此报告显示过去7天的数据。
+实时检测是一种实时报告，可让授权用户能够识别和分析最近的威胁。 此报告与资源管理器类似，默认情况下显示过去 7 天的数据。
 
 实时检测包含视图，如恶意软件（电子邮件和内容）、提交和网络钓鱼。 若要查看实时检测与资源管理器的比较情况，请[下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 

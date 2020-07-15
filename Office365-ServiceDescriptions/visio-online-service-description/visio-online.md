@@ -1,7 +1,7 @@
 ---
 title: Visio 网页版
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio for web 将您的 Microsoft Visio 体验扩展到浏览器，您可以在其中创建和编辑保存在云中的图表。 Microsoft 365 客户可以在旅途中查看、打印和共享图表以及插入注释。
-ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6c0b05a7e2365ebf517048aeb008ebf098053a52
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640090"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132116"
 ---
 # <a name="visio-for-the-web"></a>Visio 网页版
 
@@ -122,5 +122,5 @@ Visio 中的 "撤消" 和 "恢复" 功能可用于 web。
   
 ## <a name="zoom"></a>缩放
 
-Visio for web 包含一个滑块，可以通过它来放大和缩小。此外，您还可以使用全景&amp;缩放功能放大图的某个区域。
+Visio for web 包含一个滑块，可以通过它来放大和缩小。此外，您还可以使用全景 &amp; 缩放功能放大图的某个区域。
   

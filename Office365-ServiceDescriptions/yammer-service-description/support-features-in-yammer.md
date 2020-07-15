@@ -1,8 +1,7 @@
 ---
 title: Yammer 中的支持功能
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: 以下支持功能在 Yammer 中可用。
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687810"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131996"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支持功能
 
 以下支持功能在 Yammer 中可用。
   
 > [!IMPORTANT]
-> Yammer 不支持恢复已删除的&mdash;内容（如外部网络、用户、邮件、组和文件&mdash;），包括网络管理员意外删除的内容。
+> Yammer 不支持恢复已删除 &mdash; 的内容（如外部网络、用户、邮件、组和文件）， &mdash; 包括网络管理员意外删除的内容。
 >
 > Microsoft 不提供 Yammer 中适用的分析功能外部的自定义或临时报告。 有时 Microsoft 可以在支持请求过程中提供自定义报告，但在大多数情况下，它们无法满足直接请求数据的要求。
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise 管理员负责帐户维护，并有权直接与 Microsoft 支持团队进行通信。如果您是 Yammer Enterprise 管理员且要搜索支持，请参阅 [Microsoft 支持](https://go.microsoft.com/fwlink/p/?LinkId=330922)。
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>客户支持
 
@@ -42,17 +41,17 @@ Microsoft FastTrack 服务可帮助您的组织移动到 Microsoft 云，具体�
 
 ## <a name="support-features-across-yammer-plans"></a>跨 Yammer 计划的支持功能
 
-需要帮忙找出最适合您组织需求的 Yammer 计划吗？使用下表可查看每个计划中可用的支持功能。
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
-|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |必需  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
 |[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
-|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |必需  <br/> |
+|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |可访问  <br/> |
  
 ## <a name="technical-support-case-handling"></a>技术支持案例的处理
 
-示例 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**严重级别**|**说明**|**示例**|
 |:-----|:-----|:-----|

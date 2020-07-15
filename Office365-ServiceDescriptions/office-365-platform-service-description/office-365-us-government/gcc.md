@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 63cd26644cfdfc218026d120b73574ad1dc14c00
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262533"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131736"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 为了满足美国联邦、州、地方和部落政府的独特和不断发展的要求，以及代表美国政府持有或处理数据的承包商，Microsoft 提供了 Office 365 美国政府社区（GCC）服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。 
   
-若要了解详细信息或启动验证流程，请与你的帐户团队或首选合作伙伴联系。有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/government/compare-office-365-government-plans)页面。 
+Please engage your account team or preferred partner to learn more, or initiate the validation process. Additional information can be found on the [Compare Office 365 Government Plans](https://products.office.com/government/compare-office-365-government-plans) page. 
   
 ## <a name="how-to-use-this-service-description-section"></a>"如何使用此服务说明" 部分
 
@@ -29,7 +28,7 @@ Office 365 美国政府版服务说明旨在用作常规 Office 365 服务说明
   
 ## <a name="us-government-community-compliance"></a>美国政府社区版合规性
 
-Office 365 美国政府版支持在中度影响级别进行联邦风险与授权管理计划 (FedRAMP) 资格鉴定。FedRAMP 项目可供要求符合 FedRAMP 的联邦客户查看。联邦机构可以查看这些项目，以支持其审查并授予操作授权 (ATO)。
+Office 365 US Government supports the Federal Risk and Authorization Management Program (FedRAMP) accreditation at a Moderate Impact level. FedRAMP artifacts are available for review by federal customers who are required to comply with FedRAMP. Federal agencies can review these artifacts in support of their review to grant an Authority to Operate (ATO).
   
 Office 365 美国政府版 同样支持针对二级（不受控非机密信息）系统的美国国防部云计算二级安全条例指南。 
   
@@ -57,7 +56,7 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
   
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 美国政府版社区和 Yammer
 
-虽然 Yammer Enterprise 不是 Office 365 美国政府版 的组件，但是 Office 365 美国政府版 E1 和 E3 计划许可的每个用户都可以将其作为独立产品免费获取。根据企业协议和企业订阅协议购买 Office 365 美国政府版 的客户当前不能享有此项优惠。 
+Yammer Enterprise is not a component of Office 365 US Government, but may be acquired at no cost as a standalone offer for each user licensed for Office 365 US Government Plan E1 and E3. This offer is currently limited to customers who purchase Office 365 US Government under Enterprise Agreement and Enterprise Subscription Agreements. 
   
 目前，Yammer 提供应用层的客户数据逻辑隔离。 然而，Yammer 不提供与 Office 365 美国政府版 相同的数据位置和数据访问权限功能，不支持 FedRAMP 资格鉴定，并受 Office 365 服务的不同合同条款的约束。 建议您在评估您的组织的 Yammer 的适当使用情况时，查看[yammer 服务说明](../../yammer-service-description/yammer-service-description.md)和隐私条款。 若要了解哪些 Office 365 政府版计划包括 Yammer，请参阅 [Office 365 美国政府版](office-365-us-government.md)。
   
@@ -65,7 +64,7 @@ Office 365 工作人员无权访问 Office 365 美国政府社区版中托管的
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 美国政府版社区和 MyAnalytics
 
-MyAnalytics 是根据 Office 365 服务的 FedRAMP 控件实现进行设计和运行，但尚未经 3PAO 进行 Office 365 年度 FedRAMP 审核。如有必要，请先咨询合规性主管，然后再为组织中的用户启用 MyAnalytics 服务。
+MyAnalytics is designed and operated in accordance with the FedRAMP control implementation for Office 365 services, but has not yet been reviewed by a 3PAO as part of the Office 365 annual FedRAMP audit. If necessary, please consult with your compliance office before enabling MyAnalytics services for users in your organization.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 美国政府社区云（GCC）客户支持
 

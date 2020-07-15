@@ -1,25 +1,24 @@
 ---
 title: 由世纪互联运营的 Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
-description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+description: Office 365 operated by 21Vianet is designed to meet the needs for secure, reliable, and scalable cloud services in China. This service is powered by technology that Microsoft has licensed to 21Vianet.
+ms.openlocfilehash: b5980a138152f874f75e10056c98da10bd9aa9ae
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429107"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132226"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
-由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
+Office 365 operated by 21Vianet is designed to meet the needs for secure, reliable, and scalable cloud services in China. This service is powered by technology that Microsoft has licensed to 21Vianet.
 
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
@@ -29,11 +28,11 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 > [!NOTE]
 > 这些服务受到中国法律的制约。
 
-鉴于中国服务的独特性（由来自中国境内的数据中心合作伙伴运营），还有一些功能尚未启用。随着时间的推移，客户将能使用功能越来越完整的服务。有关功能差异，请参阅服务说明脚注。有关功能差异的简要概述，请参阅[了解由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
+Due to the unique nature of the China services—operated by a partner from datacenters inside China—there are some features that have not yet been enabled. Customers will see the services come closer to full feature parity over time. See the service description footnotes for differences. For a higher-level overview of differences, see [Learn about Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china).
 
 ## <a name="service-availability-within-each-plan"></a>每个计划中的服务可用性
 
-由世纪互联运营的每个 Office 365 计划都包括许多单个服务，例如 Exchange Online 和 SharePoint Online。下表显示了每个 Office 365 计划中可用的服务。
+Each Office 365 plan operated by 21Vianet includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
 
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
@@ -295,7 +294,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 下表提供了一些链接，可通过它们查看 Office 网页版功能与功能丰富的 Microsoft Office 桌面应用之间的比较结果。 通过比较结果可了解到 Office 网页版中提供了哪些功能，然后选择功能名称，查看关于其工作原理的简短说明。
 
 > [!NOTE]
-> - 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。此比较表并未列出全部 Microsoft Office 功能。
+> - A limited selection of Office features has been chosen to represent the advanced capabilities of the Office desktop suite. The comparison tables are not a comprehensive list of Microsoft Office features.
 > - Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。
 > - 如果 Microsoft Office Web Apps Server 2013 本地客户已购买 Office 桌面套件许可证（例如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证），则可获得 Office 网页版编辑许可证。
 
@@ -529,7 +528,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 
 |**计划**|**说明**|
 |:-----|:-----|
-|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
+|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> If you want to add a cloud-based archive to a primary mailbox that's located on an on-premises Exchange server, you need to configure a hybrid deployment. For more information about hybrid deployments see [Exchange Server Hybrid Deployments](https://docs.microsoft.com/exchange/exchange-hybrid).|
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online**| 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
 
 下表显示由世纪互联运营的 Office 365 中可用的 Exchange Online Archiving 功能。
@@ -566,7 +565,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online 功能
 
-所有 Office 365 计划都包括 SharePoint Online 服务，但并非所有计划均支持所有 SharePoint 功能。下表显示了功能在计划中是否可用。
+All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
 
 > [!NOTE]
 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
@@ -867,7 +866,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）|是|否|是|是|是|是|否|
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证|否|否|否|否|否|否|否|
 | Skype 联合身份验证|否|否|否|否|否|否|否|
-|AOL 和 Yahoo! 联合身份验证|否|否|否|否|否|否|否|
+|AOL and Yahoo! federation|否|否|否|否|否|否|否|
 |**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业 F3**|
 |即席音频会议和计划音频会议|是|是|是|是|是|是|否|
 |即席视频会议和计划视频会议|是|是|是|是|是|是|否|
@@ -970,11 +969,11 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 
 ### <a name="skype-for-business-online-features-across-office-365-standalone-plans"></a>Office 365 独立计划中的 Skype for Business Online 功能
 
-下表列出了包括 SharePoint Online 服务的 Office 365 计划，但并非所有计划均支持所有 SharePoint 功能。下表显示了功能在计划中是否可用。
+The following table lists Office 365 plans that include the SharePoint Online service, but not all plans support all SharePoint features. The following table shows whether a feature is available in a plan.
 
 > [!NOTE]
 > - 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
-> - Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。
+> - Skype for Business Online Standalone Plan 2 licensed users will get the Skype for Business Basic client, not the full Skype for Business client. If you want users to have the Skype for Business client, you will need to upgrade them to a license that includes it, such as an Enterprise-based license. To deploy the Skype for Business client to your users, see [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
 
 ||||
 |:-----|:-----|:-----|
@@ -1011,7 +1010,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）|是|是|
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证|否|否|
 | Skype 联合身份验证|否|否|
-|AOL 和 Yahoo! 联合身份验证|否|否|
+|AOL and Yahoo! federation|否|否|
 |**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1**|**由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 2**|
 |即席音频会议和计划音频会议|否|是|
 |即席视频会议和计划视频会议|否|是|
