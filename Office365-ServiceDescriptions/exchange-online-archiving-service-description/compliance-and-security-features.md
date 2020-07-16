@@ -27,15 +27,15 @@ ms.locfileid: "45132736"
 
 Exchange Online Archiving 提供了保留策略，可帮助组织减少与电子邮件和其他通信有关的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以向用户提供保留策略的菜单，并允许他们使用 Outlook 2010 或更高版本或 web 上的 Outlook 将策略应用于特定项目、对话或文件夹。 在 Exchange Online Archiving 中，管理员负责管理内部部署基础结构中的保留策略。
   
-Exchange Online Archiving offers two types of policies: archive and delete. Both types can be applied to the same item or folder. For example, a user can tag an email message so that it is automatically moved to the personal archive in a specified number of days and deleted after another span of days.
+Exchange Online Archiving 提供两种策略：存档和删除。这两种策略可以应用于相同的项目或文件夹。例如，用户可以标记电子邮件以便在特定天数后自动将其移到个人存档，再过几天后将其删除。
   
 在 Outlook 2010 及更高版本和 web 上的 Outlook 中，用户可以将保留策略应用到文件夹、对话或单个邮件，还可以查看已应用的保留策略和邮件的预期删除日期。 其他电子邮件客户端的用户可根据管理员设置的服务器端保留策略删除或存档电子邮件，但他们的可见性和控制级别并不相同。
   
-The retention policy capabilities offered in Exchange Online Archiving are the same as those offered in Exchange Server 2010 Service Pack 2 (SP2) and later. Administrators can manage retention policies from on-premises Exchange Server 2010 and later environments. Managed Folders, an older approach to messaging records management that was introduced in Exchange 2007, are not available in and not compatible with Exchange Online Archiving. For more details, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 (SP2) 及更高版本中提供的保留策略功能相同。管理员可以管理本地 Exchange Server 2010 及更高版本环境中的保留策略。托管文件夹是 Exchange 2007 中引入的邮件记录管理旧方法，在 Exchange Online Archiving 中不可用且不兼容。有关详细信息，请参阅[保留标记和保留策略](https://go.microsoft.com/fwlink/p/?LinkID=314153)。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留和诉讼保留
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+当存在诉讼的合理预期时，需要组织保留与事实相关的以电子方式存储的信息 (ESI)，包括电子邮件。这种预期可能在知道事实的细节之前发生，并且保留内容通常很广泛。组织可能保留与特定主题相关的所有电子邮件，或特定个人的所有电子邮件。
   
 在 Exchange Online 中，您可以使用就地保留或诉讼保留来完成以下目标：
   
@@ -67,19 +67,19 @@ When a reasonable expectation of litigation exists, organizations are required t
   
 ### <a name="in-place-ediscovery"></a>就地电子数据展示
 
-Exchange Online Archiving supports In-Place eDiscovery for searching the contents of mailboxes in an organization. Using the Exchange admin center or remote Windows PowerShell from an on-premises Exchange 2013 server, administrators or authorized Discovery managers can search a variety of mailbox items - including email messages, attachments, calendar appointments, tasks, and contacts. In-Place eDiscovery can search simultaneously across primary mailboxes and archives. Rich filtering capabilities include sender, receiver, message types, sent date, received date, carbon copy, and blind carbon copy, along with Keyword Query Language (KQL) syntax. For more details, see [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Exchange Online Archiving 支持就地电子数据展示，可在组织中搜索邮箱内容。通过本地 Exchange 2013 服务器中的 Exchange 管理中心或远程 Windows PowerShell，管理员或或授权的发现管理员可以搜索各种邮箱项目（包括电子邮件、附件、日历约会、任务和联系人）。就地电子数据展示可以同时搜索主邮箱和存档。丰富的筛选功能包括发件人、收件人、邮件类型、发送日期、接收日期、抄送、密送以及关键字查询语言 (KQL) 语法。如需了解更多详情，请参阅[就地电子数据展示](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
   
-The Exchange admin center and remote Windows PowerShell can be used to search up to 5,000 mailboxes at a time in an In-Place eDiscovery search. For details about using remote Windows PowerShell to run In-Place eDiscovery searches, see [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
-  
-> [!NOTE]
-> In remote Windows PowerShell, the  `Search-Mailbox` cmdlet can be used to search more than 5,000 mailboxes. For details about searching large numbers of mailboxes using remote Windows PowerShell, see [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
-  
-Results of an In-Place eDiscovery search can be previewed in the Exchange admin center, exported to a .pst file, or copied to a special type of mailbox, called a discovery mailbox. Administrators or compliance officers can connect to the discovery mailbox to review messages. For details, see [Create an In-Place eDiscovery Search](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+Exchange 管理中心和远程 Windows PowerShell 可用于在就地电子数据展示搜索中一次最多搜索 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 运行就地电子数据展示搜索，请参阅 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)。 
   
 > [!NOTE]
-> When copying search results for an In-Place eDiscovery search performed across on-premises and cloud-based mailboxes or archives, you must select an on-premises discovery mailbox. Messages from the on-premises primary mailbox and the cloud-based archive are copied to the on-premises discovery mailbox. 
+> 在远程 Windows PowerShell 中， `Search-Mailbox` cmdlet 可用于搜索超过 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 搜索大量邮箱，请参阅 [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171)。 
   
-Administrators can also search for and delete inappropriate email messages sent to multiple mailboxes across their organizations. For example, if confidential salary information was accidentally sent to all employees, an administrator can delete the email from the users' mailboxes. This type of search is not available in the Exchange admin center. It must be performed using Remote PowerShell. For details on how to delete messages from users' mailboxes, see [Search and Delete Messages](https://go.microsoft.com/fwlink/p/?LinkId=314173).
+就地电子数据展示搜索的结果可以在 Exchange 管理中心内进行预览、导出到 .pst 文件中或复制到一种特殊类型的邮箱（即发现邮箱）中。管理员或合规部主管可以连接发现邮箱来查看邮件。有关详细信息，请参阅[创建就地电子数据展示搜索](https://go.microsoft.com/fwlink/p/?LinkId=314172)。
+  
+> [!NOTE]
+> 在复制跨内部部署和基于云的邮箱或存档执行的就地电子数据展示搜索的搜索结果时，您必须选择一个内部部署发现邮箱。将内部部署主邮箱和基于云的存档中的邮件复制到内部部署发现邮箱。 
+  
+管理员还可以搜索并删除发送到跨组织的多个邮箱的不当电子邮件。例如，如果不小心将机密的工资信息发送给了所有员工，管理员可以从用户邮箱中删除此邮件。无法 Exchange 管理中心内执行此类搜索。必须使用远程 PowerShell 执行。若要详细了解如何从用户邮箱中删除邮件，请参阅[搜索和删除邮件](https://go.microsoft.com/fwlink/p/?LinkId=314173)。
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 的安全功能
 
@@ -99,13 +99,13 @@ TLS 用于加密电子邮件服务器之间的连接，以帮助阻止电子诈�
     
 ### <a name="encryption-smime-and-pgp"></a>加密：S/MIME 和 PGP
 
-Exchange Online Archiving will store Secure/Multipurpose Internet Mail Extensions (S/MIME) messages. However, Exchange Online Archiving does not host S/MIME functions or host the public keys, nor does it provide key repository, key management, or key directory services because all of these services attach to the on-premises Exchange infrastructure.
+Exchange Online Archiving 将会存储安全/多用途 Internet 邮件扩展 (S/MIME) 邮件。但是，Exchange Online Archiving 不托管 S/MIME 功能或公共密钥，也不提供密钥存储库、密钥管理或关键目录服务，因为这些服务附加在内部部署 Exchange 基础结构上。
   
 同样，Exchange Online Archiving 将会存储通过第三方客户端加密解决方案（如 Pretty Good Privacy (PGP)）加密的邮件。
   
 ### <a name="information-rights-management"></a>信息权限管理
 
-Exchange Online Archiving does not provide hosted Information Rights Management (IRM) services, but administrators can use on-premises Active Directory Rights Management Services (AD RMS). If an AD RMS server is deployed, Outlook can communicate directly with that server, enabling users to compose and read IRM-protected messages. If interoperability between the AD RMS server and the on-premises Exchange environment is configured, users will be able to compose and read IRM-protected messages.
+Exchange Online Archiving 不提供托管信息权限管理 (IRM) 服务，但管理员可以使用内部部署 Active Directory 权限管理服务 (AD RMS)。如果部署了 AD RMS 服务器，则 Outlook 可以直接与此服务器通信，让用户可以撰写和读取受 IRM 保护的邮件。如果在 AD RMS 服务器和内部部署 Exchange 环境之间配置了互操作性，则用户可以撰写和读取受 IRM 保护的邮件。
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>在 Outlook 网页版中支持 IRM
 
@@ -123,9 +123,9 @@ Exchange Online Archiving 提供两种内置审核功能：
     
 - **邮箱审核日志记录** 邮箱审核日志记录允许客户按用户跟踪邮箱访问，而不是根据邮箱所有者进行跟踪。 
     
-Several predefined audit reports are available in the Exchange admin center, including Administrator Role Changes, Litigation Hold, and Non-Owner Mailbox Access. Administrators can filter reports by date and role, and they can export all audit events for specified mailboxes in XML format for long-term retention or custom reporting.
+Exchange 管理中心提供几个预定义审核报告，包括管理员角色更改、诉讼保留和非所有者邮箱访问。管理员可以按日期和角色筛选报告，用 XML 格式导出指定邮箱的所有审核事件以用于长期保留或自定义报告。
   
-Administrator audit logging is on by default, and mailbox audit logging is off by default. Administrators can use remote Windows PowerShell to enable mailbox audit logging for some or all mailboxes in their organization. For more information, see [Auditing Reports](https://go.microsoft.com/fwlink/p/?LinkId=314175).
+管理员审核日志记录默认启用，而邮箱审核日志记录则默认禁用。管理员可以使用远程 Windows PowerShell 为组织中的部分或全部邮箱启用邮箱审核日志记录。有关详细信息，请参阅[审核报告](https://go.microsoft.com/fwlink/p/?LinkId=314175)。
   
 ## <a name="feature-availability"></a>功能可用性
 

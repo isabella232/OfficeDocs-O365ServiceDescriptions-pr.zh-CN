@@ -24,7 +24,7 @@ ms.locfileid: "45132086"
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>跨 Yammer 计划的文档协作功能
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+需要帮忙找出最适合您组织需求的 Yammer 计划吗？使用下表可查看每个计划中可用的文档协作功能。
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

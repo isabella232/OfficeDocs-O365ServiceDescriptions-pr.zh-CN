@@ -26,7 +26,7 @@ Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性
   
 ## <a name="create-a-project-site"></a>创建项目网站
 
-If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+如果使用的是 Project Web App，可以在 SharePoint 中新建项目网站或与现有网站同步，从而与他人共享项目。网站将项目任务作为 SharePoint 任务列表进行共享。详细了解如何[与 SharePoint 同步](https://go.microsoft.com/fwlink/p/?LinkId=271352)。
   
 ## <a name="master-projects-on-sharepoint"></a>SharePoint 中的主项目
 
@@ -46,7 +46,7 @@ If you are using Project Web App, you can share a project with others by creatin
   
 ## <a name="task-list-sync-to-sharepoint"></a>任务列表同步到 SharePoint
 
-After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+首次将项目与 SharePoint 任务列表配对后，可以继续在更新项目时与任务列表保持同步。在同步期间，任务、里程碑和字段映射（包括备注）之间的前置任务关系将会保留。团队成员无需安装 Project Professional 2013，即可访问其任务。详细了解如何[与 SharePoint 任务列表同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   
 ## <a name="feature-availability"></a>功能可用性
 

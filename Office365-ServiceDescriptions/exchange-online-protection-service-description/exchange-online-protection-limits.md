@@ -25,13 +25,13 @@ Exchange Online Protection 当前存在以下限制。 除非另行指定，否�
 > [!TIP]
 > 有关 Exchange Online 中的限制的详细信息，请参阅[Exchange online 限制](../exchange-online-service-description/exchange-online-limits.md)。 传输规则限制也适用于 EOP 独立客户。 Exchange Online 的收件人比率和邮件比率限制不适用于 EOP 独立客户。 
   
-- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **域限制** 最多可以为每个租户添加 900 个域。这 900 个域的限制包含子域，也可以根据需要使用笼统选项对子域进行匹配。有关详细信息，请参阅 [在 EOP 中管理接受的域](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
     
 - **邮件大小限制** EOP 独立客户的邮件大小上限（包括附件）为 150 MB。 
     
-- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
+- **发送的出站邮件的数量** 通过 EOP 发送的出站邮件的数量限制较高，足以保证常规电子邮件通信不会被识别为垃圾邮件通信。如果您想要批量发送商业电子邮件，而不是通过 EOP 发送出站邮件，则我们建议您要么使用第三方电子邮件服务提供商 (ESP)，要么通过本地电子邮件服务器发送邮件。 
     
-- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
+- **收件人限制** 只要发送主机可以将邮件划分为收件人不足 500 个的"区块"，则对限制没有明确的定义。但是，每个"区块"将被有效地视为一封新邮件。邮件如果在短时间里聚集过多、或来自信誉不佳的主机，或含可疑内容，就会受到限制或阻止。 
     
 - **IP 允许列表或 IP 阻止列表限制** 在连接筛选器中配置 IP 允许列表或 IP 阻止列表时，您最多可以指定 1273 个条目，每个条目可以是单个 IP 地址或从 /24 到 /32 的 IP 地址的 CIDR 范围。 
     
@@ -39,7 +39,7 @@ Exchange Online Protection 当前存在以下限制。 除非另行指定，否�
     
 - **垃圾邮件隔离保留期**默认情况下，发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
     
-- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
+- **最终用户的垃圾邮件隔离通知** 默认情况下，如果启用，最终用户垃圾邮件隔离通知将每 3 天发送一次。它们可以配置为每 1 至 15 天发送一次。 
     
 - **报告和邮件跟踪限制**有关报告和邮件跟踪限制，请参阅[Exchange Online Protection 中的报告和邮件跟踪](https://go.microsoft.com/fwlink/?LinkId=394248)中的 "报告和邮件跟踪数据可用性和延迟" 部分。
     

@@ -41,7 +41,7 @@ ms.locfileid: "45132126"
    
 ### <a name="service-availability-within-each-office-365-plan"></a>每个 Office 365 计划中的服务可用性
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+每个 Office 365 计划都包括许多单个服务，例如 Exchange Online 和 SharePoint Online。下表显示了每个 Office 365 计划中可用的服务。
   
 > [!IMPORTANT]
 >  尽管一个服务可能在多个 Office 365 计划中可用，但每个计划中可用的功能会有所不同。 若要查看适用于每个计划的功能的详细信息，请参阅单个服务说明或与您的经销商或 Microsoft 销售代表联系，以获取更多信息。 <br/>  多个 Office 365 商业版计划包含可购买用于订阅的附加内容。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅 [购买或编辑 Office 365 商业版加载项](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6) 

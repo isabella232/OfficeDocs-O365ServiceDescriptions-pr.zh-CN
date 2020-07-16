@@ -76,7 +76,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>跨高级威胁防护（ATP）计划的功能可用性
 
-Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+下面列出了每个功能。当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。
 
 |**功能**|**ATP 计划1**<br>（以前的 ATP 独立）|**ATP 计划2**<br>（以前称为威胁智能 <br>独立主机| Office 365 企业版 E5|
 |:-----|:-----|:-----|:-----|

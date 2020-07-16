@@ -65,7 +65,7 @@ Office 365 美国政府版适用于 (1) 美国联邦、州、地方、部族和�
   
 ## <a name="customer-content-located-within-the-united-states"></a>位于美国境内的客户内容
 
-Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
+Office 365 美国政府版服务从物理上位于美国的数据中心提供。下面的客户内容存储在仅物理上位于美国的数据中心中的其余部分： 
   
 - Exchange Online 邮箱内容（电子邮件正文、日历条目和电子邮件附件的内容）
     
@@ -137,7 +137,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
   
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
+每个 Office 365 计划都包括许多单个服务，例如 Exchange Online 和 SharePoint Online。下表显示了每个 Office 365 美国政府版 计划中可用的服务。
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

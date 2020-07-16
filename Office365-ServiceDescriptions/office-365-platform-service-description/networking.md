@@ -29,7 +29,7 @@ Microsoft 使用 IPv4 和 IPv6 地址。 可选择使用 IPv6 寻址，并且不
 Microsoft 在 Microsoft 帮助中维护允许的 IP 地址的列表。 有关详细信息，请参阅[url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。 有关由世纪互联运营的 Office 365 的信息，请参阅[由世纪互联运营的 Office 365 的 URL 和 IP 地址](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints)。 有关 Office 365 Germany，请参阅 [Office 365 Germany 终结点](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)。
   
 > [!IMPORTANT]
-> We strongly recommend that you enable routing to the root domain names listed in the articles above (such as \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com) instead of routing to specific IP address subnets. Relying on IP address subnets runs the risk of outages for your users as changes are made. 
+> 我们强烈建议您允许路由到上述文章中列出的根域名（如 \*.Outlook.com、\*.MicrosoftOnline.com 和 \*.SharePoint.com），而不是路由到特定的 IP 地址子网。如果依赖 IP 地址子网，则进行更改时您的用户会有中断风险。 
   
 ## <a name="bandwidth-requirements"></a>带宽要求
 
@@ -43,7 +43,7 @@ Microsoft 在 Microsoft 帮助中维护允许的 IP 地址的列表。 有关详
   
 ### <a name="wan-accelerators"></a>WAN 加速器
 
-Microsoft does not provide support for customer-owned WAN acceleration and caching devices with Office 365. If you decide to use a WAN optimization controller to improve performance under conditions of high latency or low bandwidth, you'll need to disable it while troubleshooting service requests with Microsoft, and work with your device vendor for device support. For more information, see [WAN Acceleration and caching devices with Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
+Microsoft 不支持对 Office 365 使用客户拥有的 WAN 加速和缓存设备。如果决定使用 WAN 优化控制器在高延迟和低带宽的条件下改善性能，将需要在使用 Microsoft 解决服务请求问题时禁用此控制器，并与设备供应商合作以获取设备支持。有关详细信息，请参阅[对 Office 365 使用 WAN 加速和缓存设备](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365)。
   
 ## <a name="the-global-microsoft-network"></a>Microsoft 全球网络
 
@@ -51,9 +51,9 @@ Microsoft 网络基础结构由一系列大型的数据中心、服务器、内�
   
 为了维护客户数据的机密性和完整性，Microsoft 保留了独立于 Microsoft 网络的消费者服务网络。 使用多种技术控制信息流，包括但不限于：
   
-- Physical separation. Network segments are physically separated by routers that are configured to prevent specific communication patterns.
+- 物理分离。通过配置为阻止特定通信模式的路由器在物理上分隔网络段。
     
-- Logical separation. Virtual LAN (VLAN) technology is used to further separate communications.
+- 逻辑分离。虚拟 LAN (VLAN) 技术用来进一步分隔通信。
     
 - 防火墙。 防火墙和其他网络安全强制点用于限制与向 internet 公开的系统进行的数据交换，并将系统与 Microsoft 托管的后端系统隔离。 
     
