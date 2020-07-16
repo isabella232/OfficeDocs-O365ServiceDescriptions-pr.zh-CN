@@ -1,8 +1,7 @@
 ---
 title: OneDrive 服务说明
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213924"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131286"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -50,9 +49,9 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 - Microsoft 365 企业应用版
 - Office 365 企业版 E1
 - Office 365 政府版 G1
-- Office 365 非盈利商业协作版
-- Office 365 非盈利商业高级版
-- Office 365 非营利版 E1
+- 适用于非营利组织的 Microsoft 365 Business Basic 版
+- 适用于非营利组织的 Microsoft 365 商业标准版
+- 适用于非营利组织的 Office 365 E1
 - OneDrive for Business 计划 1
 - SharePoint Online 计划 1
 - Microsoft 365 商业高级版
@@ -68,8 +67,8 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 - Office 365 A5
 - Office 365 美国政府版 G3
 - Office 365 美国政府版 G5
-- Office 365 非营利版 E3
-- Office 365 非赢利组织版 E5
+- 适用于非营利组织的 Office 365 E3
+- 适用于非营利组织的 Office 365 E5
 - OneDrive for Business 计划 2
 - SharePoint Online 计划 2
 - Microsoft 365 企业版 E3
@@ -78,8 +77,8 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 - Microsoft 365 A5
 - Microsoft 365 美国政府版 G3
 - Microsoft 365 美国政府版 G5
-- Microsoft 365 非营利组织版 E3
-- Microsoft 365 非营利组织版 E5
+- 适用于非营利组织的 Microsoft 365 E3
+- 适用于非营利组织的 Microsoft 365 E5
 
 > [!NOTE]
 > 必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。 
