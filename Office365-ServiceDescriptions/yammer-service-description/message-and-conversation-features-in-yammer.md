@@ -36,7 +36,7 @@ ms.locfileid: "45133036"
 
 ## <a name="online-now"></a>立即联机
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+查看在线用户并立即与一个或多个同事开始限定讨论。联系人列表将按您互动最多的用户顺序自动排序。
 
 ## <a name="polls"></a>投票
 

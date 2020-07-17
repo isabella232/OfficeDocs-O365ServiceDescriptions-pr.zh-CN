@@ -21,7 +21,7 @@ ms.locfileid: "45131476"
 # <a name="service-updates"></a>服务更新
 
 > [!NOTE]
-> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。 
   
 若要了解刚发布或即将发布的功能，请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
   

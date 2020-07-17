@@ -28,7 +28,7 @@ ms.locfileid: "45131526"
 
 Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。 存档邮箱是在 Outlook 或 web 上的 Outlook 中显示在用户的主邮箱文件夹旁边的专用邮箱。 用户可以像访问其主邮箱一样访问存档。 此外，用户还可以搜索归档邮箱和主邮箱。
   
-Administrators can use the Exchange admin center (EAC) or remote Windows PowerShell to enable the archive feature for specific users. For more information, see [Enable or disable archive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)（在 Exchange Online 中启用或禁用存档邮箱）。
   
 > [!IMPORTANT]
 >  不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 <br/>
@@ -48,18 +48,18 @@ Administrators can use the Exchange admin center (EAC) or remote Windows PowerSh
     
 - 将电子邮件从主邮箱拖到存档中。
     
-- Let archive policies automatically move email messages from the primary mailbox, based on the age of the messages. For more information, see [Retention Tags and Retention Policies](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
+- 让存档策略根据邮件的存在时间自动移动主邮箱中的电子邮件。有关详细信息，请参阅[保留标记和保留策略](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)。
     
 > [!NOTE]
-> Administrators can also use Office 365 Import service to import .pst files to users' cloud-based archive mailboxes. For more information, see [Use network upload to import PST files to Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files). 
+> 管理员还可以使用 Office 365 导入服务将 .pst 文件导入用户的基于云的存档邮箱。有关详细信息，请参阅 [Use network upload to import PST files to Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)（使用网络上载将 PST 文件导入 Office 365）。 
   
 ## <a name="deleted-item-recovery"></a>已删除邮件的恢复
 
-Users can restore items they have deleted from any email folder in their archive. When an item is deleted, it is kept in the archive's Deleted Items folder. It remains there until it is manually removed by the user, or automatically removed by retention policies.
+用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。
   
 After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 用户可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 "**恢复已删除邮件**" 功能来恢复这些项目。 
   
-If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same 14 day window, through a feature called Single Item Recovery. This feature allows administrators to conduct a multi-mailbox search to find purged items and then use the  `Search-Mailbox` Windows PowerShell cmdlet to move the items from the discovery mailbox to users' mailboxes. For more information, see [Enable or disable single item recovery for a mailbox](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)（为邮箱启用或禁用"单个项目恢复"）。
   
 > [!NOTE]
 >  默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。 <br/>
@@ -70,7 +70,7 @@ If a user has manually purged an item from the Recoverable Items folder, an admi
 当管理员将用户从本地 Exchange Server 删除时，也将删除用户的存档。 如果需要恢复已删除的存档邮箱，Microsoft 支持团队可以执行此恢复。 恢复的存档将包含删除时其中存储的所有邮件。
   
 > [!IMPORTANT]
-> Administrators have 30 days from the time a user's mailbox is deleted to request an archive mailbox recovery. After 30 days, the archive mailbox is not recoverable. 
+> 用户邮箱删除后 30 天内，管理员可以请求恢复存档邮箱。30 天后，存档邮箱不可恢复。 
   
 ## <a name="mailbox-service-redundancy"></a>邮箱服务冗余
 

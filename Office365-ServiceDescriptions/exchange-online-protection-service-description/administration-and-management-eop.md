@@ -34,7 +34,7 @@ Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用�
   
 ## <a name="remote-windows-powershell-access"></a>远程 Windows PowerShell 访问
 
- Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ 管理员可以使用远程 Windows PowerShell 命令行执行管理任务。若要详细了解如何使用 Windows PowerShell（包括如何创建远程 Shell 会话以及每个 cmdlet 的相关文档），请参阅 [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266)。
   
 ## <a name="feature-availability"></a>功能可用性
 

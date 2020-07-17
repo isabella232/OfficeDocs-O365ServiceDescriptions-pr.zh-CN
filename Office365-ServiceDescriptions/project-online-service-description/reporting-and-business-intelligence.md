@@ -22,7 +22,7 @@ Project Online 中提供了以下报告和商业智能功能。
   
 ## <a name="odata-feeds"></a>OData 源
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+OData 源启用 REST 查询和各种 OData 客户端库，对 Project Web App 实例中的报表数据执行两种查询。例如，可以直接在 Web 浏览器中使用 REST 查询，也可以使用 JavaScript 为移动设备、平板电脑、个人电脑和 Mac 计算机生成 Web 应用和客户端应用。有关详细信息，请参阅 [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409)（Project 2013 OData 服务参考）。
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>现有项目组合仪表板
 
@@ -30,5 +30,5 @@ OData feeds enable REST queries and a variety of OData client libraries to make 
   
 ## <a name="project-desktop-reporting"></a>项目桌面报表
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+借助项目桌面报表，可以创建并自定义包含所需任意项目数据的醒目图形报表，而无需依赖其他任何软件。有关详细信息，请参阅[创建项目报表](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409)。
   

@@ -29,7 +29,7 @@ ms.locfileid: "45131996"
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise 管理员负责帐户维护，并有权直接与 Microsoft 支持团队进行通信。如果您是 Yammer Enterprise 管理员且要搜索支持，请参阅 [Microsoft 支持](https://go.microsoft.com/fwlink/p/?LinkId=330922)。
 
 ## <a name="customer-support"></a>客户支持
 
@@ -41,7 +41,7 @@ Microsoft FastTrack 服务可帮助您的组织移动到 Microsoft 云，具体�
 
 ## <a name="support-features-across-yammer-plans"></a>跨 Yammer 计划的支持功能
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
+需要帮忙找出最适合您组织需求的 Yammer 计划吗？使用下表可查看每个计划中可用的支持功能。
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Need help figuring out which Yammer plan best fits your organization's needs? Us
  
 ## <a name="technical-support-case-handling"></a>技术支持案例的处理
 
-Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
+示例 
   
 |**严重级别**|**说明**|**示例**|
 |:-----|:-----|:-----|

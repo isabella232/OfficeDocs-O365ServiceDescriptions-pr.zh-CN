@@ -42,7 +42,7 @@ ms.locfileid: "45131296"
   
 ## <a name="autotext"></a>AutoText
 
-You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
+你可以使用自动图文集库中的自动图文集插入预设格式的文本块。例如，在需要重复输入相同的大型文本块并且文本包含大量格式的情况下，这很有用。你可以通过将所选文本添加到自动图文集库来创建自动图文集条目。若要了解详细信息，请参阅[自动插入文本](https://go.microsoft.com/fwlink/?linkid=846739)。
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
@@ -70,11 +70,11 @@ You can insert blocks of preformatted text using AutoText from your AutoText gal
   
 ## <a name="content-controls"></a>内容控制
 
-Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+内容控件是单独的控件，可以进行添加和自定义，以用于模板、表单和文档。若要了解有关内容控件的信息，请参阅[内容控件](https://go.microsoft.com/fwlink/p/?LinkId=846741)。
   
 ## <a name="cover-pages"></a>封面页
 
-Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
+Microsoft Word 提供预设计的便捷封面库。你可以轻松地选择一个封面，并用自己的文本替换示例文本。
   
 ## <a name="creation-of-advanced-document-elements"></a>高级文档元素的创建
 
@@ -86,7 +86,7 @@ Microsoft Word offers a gallery of convenient predesigned cover pages. You can s
   
 ## <a name="document-translation"></a>文档翻译
 
-Translate documents directly in the browser. Even document comments are translated.
+直接在浏览器中翻译文档。即使文档注释也会被翻译。
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -126,7 +126,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="index"></a>索引
 
-An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
+索引列出文档中讨论的术语和主题，以及它们所在的页码。要创建索引，通过在文档中提供主条目和交叉引用的名称来标记索引条目，然后生成索引。
   
 ## <a name="ink-editor"></a>笔迹编辑器
 
@@ -184,7 +184,7 @@ Word 的 web 显示受信息权限管理（IRM）保护的文档。 但是，不
   
 ## <a name="preformatted-font-and-color-schemes"></a>预设格式的字体和配色方案
 
-You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
+可以使用主题来简化创建专业外观的匹配文档的过程。主题可以应用于表、图表、形状和关系图，以提供一致的字体、效果和配色方案。
   
 ## <a name="present-online"></a>联机演示
 
@@ -212,7 +212,7 @@ You can use themes to simplify the process of creating matching, professional-lo
   
 ## <a name="reference-tools"></a>引用工具
 
-Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
+在查看模式下，书目、目录和索引功能按预期方式显示在文档中。在编辑模式下，它们显示为占位符，您可以删除这些占位符，但无法进行编辑或更新。创建书目、目录、索引或引文目录等高级引用工具仅在 Word 桌面应用程序中可用。
   
 ## <a name="rendering-of-text-boxesshapes"></a>文本框/形状呈现
 
@@ -220,7 +220,7 @@ Bibliography, table of contents, and index features display in the document as e
   
 ## <a name="researcher"></a>研究工具
 
-Researcher helps you find and incorporate reliable sources and content for your document. Researcher uses Bing to pull in the appropriate content from the web. For more information, see [Research for your paper easily within Word](https://go.microsoft.com/fwlink/?linkid=839490).
+研究工具可以帮助用户查找和合并可靠源和文档的内容。研究工具使用必应从 Web 中拉取适当内容。有关详细信息，请参阅 [Research for your paper easily within Word](https://go.microsoft.com/fwlink/?linkid=839490)（在 Word 中轻松地研究文章）。
   
 ## <a name="rich-media"></a>Rich media
 
@@ -260,7 +260,7 @@ Researcher helps you find and incorporate reliable sources and content for your 
   
 ## <a name="tap"></a>点击
 
-Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
+使用点击功能查找并重复使用内容。点击最常使用的曲面相关文件，使你专注于创建文档，而不是搜索文件和信息。有关详细信息，请参阅[查找和使用所需的内容](https://go.microsoft.com/fwlink/?linkid=825878)。
   
 ## <a name="tell-me"></a>操作说明搜索
 
@@ -284,7 +284,7 @@ Use the Tap feature to find and reuse content. Tap surfaces relevant files that 
   
 ## <a name="watermarks"></a>水印
 
-Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
+水印是放置在文档中文本后的文字或图片；例如，你可以添加文本水印（如“草稿”或“机密”）。Word 有一个水印库可供选择，或者你也可以创建自己的自定义水印（如为文档创建公司徽标）。  
   
 ## <a name="word-count"></a>字数统计
 

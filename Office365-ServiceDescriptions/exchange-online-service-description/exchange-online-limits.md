@@ -91,7 +91,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 
 ## <a name="mailbox-storage-limits"></a>邮箱存储限制
 
-The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
+可用邮箱存储量由邮箱类型和用户的订阅许可证决定。管理员可以减小每位用户或全局的最大邮箱大小。
 
 > [!NOTE]
 > 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 用户的存档邮箱只供该用户使用。 Microsoft 保留在用户的存档邮箱用于存储其他用户的存档数据或不适当使用的情况下，拒绝无限存档的权利。
@@ -125,7 +125,7 @@ The amount of mailbox storage available is determined by the mailbox type and th
 |组邮箱|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> 这是 Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 本地邮箱没有最大存储限制。 <br/> <sup>2</sup> 每个用户的存档邮箱中最初会有 100 GB 存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060)（Office 365 中的无限制存档概述）。 有关自动扩展存档的可用性的详细信息，请参阅[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup>若要访问共享邮箱，用户必须具有 Exchange Online 许可证，但共享邮箱不需要单独的许可证。 如果没有许可证，共享邮箱限制为 50 GB。 若要将大小限制增加到 100 GB，必须为共享邮箱分配 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 这还使您能够启用自动扩展存档，以实现无限量的存档存储容量。 同样，如果您想要在诉讼保留中放置共享邮箱，共享邮箱必须具有 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 如果您想要应用 Office 365 高级威胁防护、高级电子数据展示或自动保留策略等高级功能，必须为这些功能许可共享邮箱。 <br/> <sup>4</sup> 资源邮箱无需许可证。 但是，如果没有许可证，资源邮箱限制为 50 GB。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>5</sup> 存档邮箱不包含在 Exchange Online Kiosk 中。 不过，可以通过 Exchange Online Archiving 以附加内容的形式购买。 有关详细信息，请参阅[Exchange Online 存档服务说明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>6</sup> 这是 Microsoft Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 Exchange Server 2013 具有 100 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。 <br/> <sup>7</sup> In Exchange Online, you are limited to 1,000 public folder mailboxes, and the maximum total size of all public folder mailboxes is 50 TB. <br/> <sup>8</sup> 存档邮箱仅可用于为已应用其许可证的单个用户或实体存档邮件。 禁止将存档邮箱作为一种为多个用户存档邮件的方式。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/> <sup>9</sup> 如果已在 Exchange Online 中创建保留策略，则仅当用户的主邮箱大于 10 MB 时邮件才会自动移至用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 <br/> <sup>10 个</sup>共享邮箱和资源邮箱不需要许可证。 但是，如果没有许可证，则这些邮箱具有 50 GB 限制。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>11</sup>默认情况下，共享邮箱具有一个与系统生成（未知）密码关联的活动用户帐户。 若要阻止登录以获取关联的共享邮箱帐户，请参阅[共享邮箱帐户的阻止登录](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
+> <sup>1</sup> 这是 Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 本地邮箱没有最大存储限制。 <br/> <sup>2</sup> 每个用户的存档邮箱中最初会有 100 GB 存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060)（Office 365 中的无限制存档概述）。 有关自动扩展存档的可用性的详细信息，请参阅[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup>若要访问共享邮箱，用户必须具有 Exchange Online 许可证，但共享邮箱不需要单独的许可证。 如果没有许可证，共享邮箱限制为 50 GB。 若要将大小限制增加到 100 GB，必须为共享邮箱分配 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 这还使您能够启用自动扩展存档，以实现无限量的存档存储容量。 同样，如果您想要在诉讼保留中放置共享邮箱，共享邮箱必须具有 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 如果您想要应用 Office 365 高级威胁防护、高级电子数据展示或自动保留策略等高级功能，必须为这些功能许可共享邮箱。 <br/> <sup>4</sup> 资源邮箱无需许可证。 但是，如果没有许可证，资源邮箱限制为 50 GB。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>5</sup> 存档邮箱不包含在 Exchange Online Kiosk 中。 不过，可以通过 Exchange Online Archiving 以附加内容的形式购买。 有关详细信息，请参阅[Exchange Online 存档服务说明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>6</sup> 这是 Microsoft Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 Exchange Server 2013 具有 100 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。 <br/> <sup>7</sup> Exchange Server 具有 1,000 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。  <br/> <sup>8</sup> 存档邮箱仅可用于为已应用其许可证的单个用户或实体存档邮件。 禁止将存档邮箱作为一种为多个用户存档邮件的方式。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/> <sup>9</sup> 如果已在 Exchange Online 中创建保留策略，则仅当用户的主邮箱大于 10 MB 时邮件才会自动移至用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 <br/> <sup>10 个</sup>共享邮箱和资源邮箱不需要许可证。 但是，如果没有许可证，则这些邮箱具有 50 GB 限制。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>11</sup>默认情况下，共享邮箱具有一个与系统生成（未知）密码关联的活动用户帐户。 若要阻止登录以获取关联的共享邮箱帐户，请参阅[共享邮箱帐户的阻止登录](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
 
 ## <a name="capacity-alerts"></a>容量报警
 
@@ -156,11 +156,11 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |禁止发送/接收|2.3 GB<sup>1</sup>|50 GB|100 GB|2 GB|
 
 > [!NOTE]
-> <sup>1</sup> This is the default value for Exchange Server 2013 organizations. Administrators can change this value for their organization.
+> <sup>1</sup> 这是 Exchange Server 2013 组织的默认值。管理员可以为其组织更改此值。
 
 ## <a name="mailbox-folder-limits"></a>邮箱文件夹限制
 
-These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
+这些限制旨在将邮箱限制为在 Exchange Online 中受支持的已知尺寸。这些限制旨在防止文件夹中存在不限数量的邮箱项目，邮箱中存在不限数量的文件夹或 Exchange Online 组织中存在不限数量的公用文件夹。出于实用目的，邮箱文件夹限制实际上不受限制，足以支持大多数迁移到 Exchange Online 的 Exchange Online 邮箱和内部部署邮箱。
 
 - **每个邮箱文件夹的最大邮件数**：指定邮箱文件夹的邮件的最大数量。 达到该限制时，将无法传递新邮件或无法将其保存在某个文件夹中。
 
@@ -316,7 +316,7 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
 
 ## <a name="receiving-and-sending-limits"></a>接收和发送限制
 
-Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
+接收和发送限制可用于防止出现垃圾邮件和大量邮件蠕虫或病毒。这些限制可以帮助保护系统的运行状况和我们用户的安全。
 
 ### <a name="receiving-limits"></a>接收限制
 
@@ -332,7 +332,7 @@ Receiving and sending limits are applied to combat spam and mass-mailing worms o
 发送限制应用于收件人数、邮件数和用户可以从其 Exchange Online 帐户发送的每封邮件的收件人数。
 
 > [!NOTE]
-> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually.
+> 对于存储在组织的通讯簿中的通讯组，这类组计数为一个收件人。对于存储在邮箱的“联系人”文件夹中的通讯组，单独计数组的各个成员。
 
 - **收件人速率限制**：为了防止传递未经请求的批量邮件，Exchange Online 具有限制用户和应用程序发送大量电子邮件的收件人限制。 这些限制适用于每个用户的所有出站和内部邮件。
 
@@ -342,7 +342,7 @@ Receiving and sending limits are applied to combat spam and mass-mailing worms o
 - **收件人限制**：这是单个电子邮件的 "收件人："、"抄送：" 和 "密件抄送：" 字段中允许的最大收件人数。
 
     > [!NOTE]
-    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately.
+    > 出于收件人速率限制和收件人限制的目的，组织共享通讯簿中存储的通讯组作为一个收件人计数。在个人通讯列表中，每个收件人单独计数。
 
 - **收件人代理地址限制**：收件人代理地址限制是收件人邮箱可以拥有的最大别名数（电子邮件地址）。 
 
@@ -415,7 +415,7 @@ Receiving and sending limits are applied to combat spam and mass-mailing worms o
 |“垃圾邮件”文件夹保留期|2 年<sup>1</sup>|30 天|30 天|30 天|
 
 > [!NOTE]
-> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. <br/> <sup>2</sup> 这是 Exchange Online 组织的默认值。 管理员可以将其组织中的邮箱的此值更改为最大 30 天。
+> <sup>1</sup> 这是默认限制。管理员可以为其组织更改此值。<br/> <sup>2</sup> 这是 Exchange Online 组织的默认值。 管理员可以将其组织中的邮箱的此值更改为最大 30 天。
 
 ## <a name="distribution-group-limits"></a>通讯组限制
 
@@ -465,13 +465,13 @@ Receiving and sending limits are applied to combat spam and mass-mailing worms o
 
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
 
-- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions.
+- **所有传输规则中使用的所有正则表达式的字符限制** 组织的所有传输规则条件和例外中的所有正则表达式所使用的字符总数。可具有少量使用长而复杂的正则表达式的规则，也可具有多个使用简单正则表达式的规则。
 
 - **附件内容的扫描限制**传输规则条件允许您检查邮件附件的内容，但只检查从附件提取的前 1 MB 文本。 1 MB 的限制指的是从附件中提取的文本，而不是附件的文件大小。 例如，一个 2 MB 的文件可能包含小于 1 MB 的文本，因此将检查整个文本。
 
-- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule.
+- **所有传输规则向一封邮件添加的收件人的最大数目** 当一封邮件由不同的传输规则使用时，只能向该邮件添加有限数目的收件人。在达到此限制后，不会再向该邮件添加任何其余的收件人。此外，传输规则不能向邮件添加通讯组。
 
-- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule.
+- **转发邮件的收件人限制** 可以为收件箱或包含重定向操作的传输规则配置的收件人的最大数目。如果某个规则配置为将邮件重定向到比此数目多的收件人，则不应用该规则，任何满足该规则条件的邮件将不重定向到该规则中列出的任何收件人。
     
 - **重定向邮件的次数** 将根据收件箱规则自动重定向、转发或答复邮件的次数。 例如，用户 A 有一个根据发件人将邮件重定向到用户 B 的收件箱规则。 用户 B 有一个根据主题行中的关键字将邮件转发到用户 C 的收件箱规则。 如果某邮件同时满足这两个条件，则由于仅允许一次重定向，该邮件仅发送到用户 B，不会转发到用户 C。 在这种情况下，邮件将被丢弃，而不会向用户 B 发送未送达报告（NDR），这表明该邮件未传递到用户 C。我们使用了 X MS--"收件箱" 规则-循环标头来确定邮件被重定向的次数。 此标头还会跨 Exchange 组织边界保留。
 
@@ -518,7 +518,7 @@ Receiving and sending limits are applied to combat spam and mass-mailing worms o
 
 - **过期裁决通知邮件的最大速率**：此限制设置一小时内过期的仲裁邮件的最大通知邮件数。 对数据中心内的每个邮箱数据库施加了此限制。
 
-During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
+在使用率较高的时段内，一些发件人可能无法收到已过期的中继邮件的通知邮件。但仍可使用送达报告来发现这些通知。
 
 ### <a name="moderation-limits"></a>审阅限制
 
@@ -541,7 +541,7 @@ During periods of heavy usage, some senders may not receive notification message
 |过期的审阅通知邮件的最大速率|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|
 
 > [!NOTE]
-> <sup>1</sup> This is the default limit for Exchange Server 2013 organizations. Administrators can change this value for their organization.
+> <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。管理员可以为其组织更改此值。
 
 ## <a name="exchange-activesync-limits"></a>Exchange ActiveSync 限制
 

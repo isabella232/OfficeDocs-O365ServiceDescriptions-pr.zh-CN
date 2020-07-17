@@ -30,11 +30,11 @@ ms.locfileid: "45131106"
   
 ## <a name="manage-nonworking-time"></a>管理非工作时间
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+将假期、假日、病假以及其他非工作时间添加到项目计划中。详细了解如何[将假日和假期天数添加到项目中](https://go.microsoft.com/fwlink/p/?LinkId=271337)。
   
 ## <a name="resource-leveling"></a>Resource leveling
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+当项目中的人员同时执行过多任务时，可以自动调整其任务分配。我们将这称为"资源调配"。请参阅[调配资源分配](https://go.microsoft.com/fwlink/p/?LinkId=271348)。
   
 ## <a name="resource-sheet-and-usage-views"></a>资源工作表和使用状况视图
 
@@ -50,7 +50,7 @@ When people in your project are working on too many assignments at the same time
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+向项目添加资源，如人员等工作资源、木工等常规资源，以及计算机和水泥等材料资源。请参阅[输入设备成本和其他成本资源](https://go.microsoft.com/fwlink/?LinkId=402922)。
   
 ## <a name="feature-availability"></a>功能可用性
 

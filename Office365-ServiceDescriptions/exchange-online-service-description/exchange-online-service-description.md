@@ -32,7 +32,7 @@ ms.locfileid: "45131536"
 [Exchange Online 中的电子邮件未送达报告](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Exchange Online 帮助](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
+Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基于云的服务提供的托管消息传递解决方案。它支持用户从电脑、Web 和移动设备访问电子邮件、日历、联系人和任务。它与 Active Directory 全面集成，支持管理员使用组策略以及其他管理工具来管理整个环境中的 Exchange Online 功能。
   
 那些已订阅 Exchange Online 的组织仍可有效控制自身为用户提供的消息服务，但免去了内部服务器软件的运营负担。 利用本文档中描述的 Exchange Online 托管计划，电子邮件将托管在同时支持多个客户的服务器上。 这些服务器驻留在 Microsoft 数据中心中，用户可从企业网络或 internet 上的各种设备访问这些服务器。
   
@@ -49,9 +49,9 @@ Microsoft Exchange Online is a hosted messaging solution that delivers the capab
 
 Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划移到另一个计划的信息，请参阅[Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
+每位访问 Exchange Online 服务的用户均必须分配一个订阅计划，且每个用户订阅均具有自身的邮箱。这些邮箱中的文件夹和邮件均位于 Microsoft 数据中心内运行 Exchange Server 的计算机上。
   
-User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
+会议室和共享邮箱不需要用户订阅。这些特殊类型的邮箱没有登录凭据。相反，具有适当权限的许可用户通过委派即可对其进行管理和访问。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系统要求
 

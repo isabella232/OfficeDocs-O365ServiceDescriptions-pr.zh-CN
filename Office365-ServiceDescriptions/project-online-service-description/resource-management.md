@@ -22,15 +22,15 @@ ms.locfileid: "45131136"
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>批准/拒绝/修改传入资源预订请求
 
-You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
+可以根据整个资源视图接受、拒绝或修改传入的资源请求。有关详细信息，请参阅[接受或拒绝预订请求](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409)。
   
 ## <a name="manage-resource-pool"></a>管理资源池
 
-Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
+可以单独和批量管理企业资源池。有关详细信息，请参阅[将资源添加到 Project Web App](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) 和 [使用外部数据文件添加或更新企业资源](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409)。
   
 ## <a name="plan-resource-capacity"></a>规划资源容量
 
-When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
+如果需要确定资源是否超量预订，可以使用资源中心内的"容量计划"视图，比较一项资源可以投入的小时数和项目需要资源投入的小时数。有关详细信息，请参阅[计算资源容量](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409)。
   
 ## <a name="request-resource-agreements"></a>请求资源协议
 

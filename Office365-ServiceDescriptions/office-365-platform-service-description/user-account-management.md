@@ -183,7 +183,7 @@ Office 365 企业版采用基于角色的访问控制 (RBAC) 模型：权限和�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 服务
 
-Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) 将身份和访问管理综合功能引入 Office 365。不仅整合了目录服务、高级身份管理、应用程序访问管理，并为开发者提供了一个基于标准的丰富平台。若要详细了解 Office 365 中的 AD 功能，请参阅 [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)（登录页品牌塑造和云用户自助服务密码重置）。详细了解 [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx)（Azure Active Directory 免费版、基本版和高级版）。 
   
 ## <a name="feature-availability"></a>功能可用性
 

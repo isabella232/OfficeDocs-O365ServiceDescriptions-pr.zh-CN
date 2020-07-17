@@ -24,7 +24,7 @@ Yammer 中提供了以下 Yammer 平台功能。
  
 ## <a name="activity-stream-api"></a>活动流 API
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+通过将数据添加到社交图形集成现有企业业务应用程序。快速发现所有现有业务应用程序中正在进行的活动。
   
 ## <a name="browser-extension"></a>浏览器扩展
 

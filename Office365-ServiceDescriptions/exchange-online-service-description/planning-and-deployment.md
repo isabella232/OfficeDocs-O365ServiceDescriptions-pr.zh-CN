@@ -31,20 +31,20 @@ ms.locfileid: "45132656"
     
 ### <a name="cloud-only"></a>仅限云
 
-A cloud-only deployment is one where your organization in the Exchange Online service isn't connected with an on-premises Exchange organization. All users and mailboxes are hosted and managed in Exchange Online and Office 365.
+仅限于部署是您在 Exchange Online 服务中的组织不与内部部署 Exchange 组织连接的部署。所有用户和邮箱在 Exchange Online 和 Office 365 中托管和管理。
   
 ### <a name="hybrid"></a>混合
 
-Available for Microsoft Exchange 2003, Exchange 2007, Exchange 2010 and Exchange 2013 on-premises organizations, a hybrid deployment offers either a long-term coexistence configuration with some mailboxes hosted on-premises and some mailboxes hosted in Exchange Online or a migration path to hosting all user mailboxes in Exchange Online. A hybrid deployment offers organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. Hybrid deployment features include secure mail transport, shared calendar free/busy information, and message tracking between the on-premises and Exchange Online organizations.
+对 Microsoft Exchange 2003、Exchange 2007、Exchange 2010 和 Exchange 2013 内部部署组织可用的混合部署提供与一些在内部部署托管的邮箱和一些在 Exchange Online 邮箱托管的长期共存配置，或托管 Exchange Online 所有用户邮箱的迁移路径。混合部署使组织可以将随其现有内部部署 Microsoft Exchange 组织提供的功能丰富的体验和管理控制扩展到云。混合部署功能包括安全邮件传输、共享日历闲/忙信息以及内部部署和 Exchange Online 组织之间的邮件跟踪。
   
-For more information about hybrid deployments, see [Exchange Server 2013 Hybrid Deployments](https://go.microsoft.com/fwlink/p/?LinkId=287035). If you are using Office 365 operated by 21Vianet, see [Configuring Exchange hybrid deployment features with Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+有关混合部署的详细信息，请参阅 [Exchange Server 2013 混合部署](https://go.microsoft.com/fwlink/p/?LinkId=287035)。如果使用的是由世纪互联运营的 Office 365，请参阅[使用由世纪互联运营的 Office 365 配置 Exchange 混合部署功能](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409)。
   
 > [!IMPORTANT]
-> On-premises Exchange 2003 organizations must install at least one Exchange 2010 Client Access/Mailbox server to configure a hybrid deployment with Exchange Online. On-premises Exchange 2007 organizations must install at least one Exchange 2010 or Exchange 2013 Client Access and Mailbox server to configure a hybrid deployment with Exchange Online. On-premises Exchange 2010 and Exchange 2013 organizations natively support hybrid deployments with Exchange Online. For more information about Exchange server compatibility in hybrid deployments, see [Hybrid Deployment Prerequisites](https://go.microsoft.com/fwlink/p/?LinkId=243541)> On-premises Exchange organizations must configure their organization for a hybrid deployment. We strongly recommend that administrators use the Exchange Server Deployment Assistant and the Hybrid Configuration Wizard to configure the hybrid deployment. Learn more at [Exchange Server Deployment Assistant](https://go.microsoft.com/fwlink/p/?LinkId=287036)
+> 本地 Exchange 2003 组织至少必须安装一个 Exchange 2010 客户端访问/邮箱服务器，才能使用 Exchange Online 配置混合部署。本地 Exchange 2007 组织至少必须安装一个 Exchange 2010 或 Exchange 2013 客户端访问和邮箱服务器，才能使用 Exchange Online 配置混合部署。本地 Exchange 2010 和 Exchange 2013 组织使用 Exchange Online 本地支持混合部署。若要详细了解混合部署中的 Exchange 服务器兼容性，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/p/?LinkId=243541)。 > 本地 Exchange 组织必须为其组织配置混合部署。我们强烈建议管理员使用 Exchange Server 部署助理和"混合配置"向导配置混合部署。有关详细信息，请参阅 [Exchange Server 部署助理](https://go.microsoft.com/fwlink/p/?LinkId=287036)
   
 ## <a name="migration-options"></a>迁移选项
 
-Organizations should choose migration options based on their source email systems, the desired end state (fully hosted or partially hosted), the number of users to migrate, and how quickly the end state needs to be reached. Possible migration options are:
+组织应基于他们的源电子邮件系统、所需结束状态（完全托管或部分托管）、要迁移的用户数量和实现最终状态的速度选择迁移选项。可能的迁移选项是：
   
 - **IMAP 迁移** 从基于 IMAP 的电子邮件系统迁移邮箱数据到 Exchange Online。 
     
@@ -52,13 +52,13 @@ Organizations should choose migration options based on their source email system
     
 - **暂存 Exchange 迁移** 执行暂存迁移，以使用基于 Web 的迁移工具从 Exchange Server 2003 或 Exchange Server 2007 迁移邮箱，并减少内部部署基础结构的变化。 
     
-- **Remote move migration** Migrate on-premises Exchange mailboxes to Exchange Online in an Exchange hybrid deployment. You must have an Exchange hybrid deployment to use a remote move migration. 
+- **远程移动迁移** 将内部部署 Exchange 邮箱迁移至 Exchange 混合部署中的 Exchange Online。必须拥有 Exchange 混合部署，才能使用远程移动迁移。 
     
 有关将电子邮件和邮箱迁移到 Exchange Online 的详细信息，请参阅[到 Exchange Online 的邮箱迁移](https://support.office.com/en-us/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)。
   
 ### <a name="imap-migration"></a>IMAP 迁移
 
-Exchange Online offers a web-based tool for migrating mailbox data from email systems that support IMAP. It guides administrators through the following migration steps: 
+Exchange Online 提供基于 Web 的工具，以从支持 IMAP 的电子邮件系统迁移邮箱数据。它将指导管理员完成以下迁移步骤： 
   
 1. 为组织中的用户在云中创建空邮箱（这通常通过上载 .csv 文件或使用远程 Windows PowerShell 完成）。
     
@@ -75,13 +75,13 @@ Exchange Online offers a web-based tool for migrating mailbox data from email sy
   
 ### <a name="cutover-exchange-migration"></a>切换 Exchange 迁移
 
-Exchange Online offers a web-based tool for migrating data from on-premises Exchange Server 2003, Exchange Server 2007, or Exchange Server 2010 environments. It guides an administrator through the following migration steps:
+Exchange Online 提供基于 Web 的工具，以从内部部署 Exchange Server 2003、Exchange Server 2007 或 Exchange Server 2010 环境迁移数据。它将指导管理员完成以下迁移步骤：
   
 1. 为内部部署管理员帐户使用电子邮件地址和凭据，Exchange Online 使用自动发现服务连接到内部部署电子邮件组织。
     
 2. Exchange Online 使用 RPC/HTTP 连接读取远程服务器的目录信息，并在 Exchange Online 中创建邮箱。
     
-3. Exchange Online synchronizes the mailbox content to the cloud mailboxes. Users remain connected to their original mailboxes while their data is being migrated to Exchange Online.
+3. Exchange Online 同步邮箱内容到云邮箱。用户保持连接到原始邮箱，同时他们的数据将被迁移到 Exchange Online。
     
 4. 在完成初始迁移后，会每 24 小时将更改同步到云，直到管理员停止或删除此迁移批次。
     
@@ -90,28 +90,28 @@ Exchange Online offers a web-based tool for migrating data from on-premises Exch
 有关直接转换 Exchange 迁移的详细信息，请参阅[有关直接转换电子邮件迁移到 Office 365 您需要了解的信息](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da)。
   
 > [!IMPORTANT]
-> An organization can migrate a maximum of 2,000 Exchange 2003, Exchange 2007, Exchange 2010, or Exchange 2013 mailboxes to the cloud using a cutover Exchange migration. > Exchange Online must connect to an on-premises Exchange Server, so the on-premises server must have a certificate issued by a trusted certificate authority and a public IP address. 
+> 组织可使用直接转换 Exchange 迁移将最多 2,000 个 Exchange 2003、Exchange 2007、Exchange 2010 或 Exchange 2013 邮箱迁移到云。 > Exchange Online 必须连接到内部部署 Exchange Server，以便内部部署服务器必须拥有受信任的证书颁发机构颁发的证书和公共 IP 地址。 
   
 ### <a name="staged-exchange-migration"></a>暂存 Exchange 迁移
 
-With a staged migration, users can be migrated to the cloud using the web-based Exchange migration tool and the Directory Synchronization tool. Instead of migrating all users at once, like a cutover Exchange migration, administrators migrate users in batches. This is accomplished by uploading a .csv file to specify a partial list of users to migrate. In a staged migration, all of the users in an organization can share the same email domain name.
+对于暂存迁移，用户可以使用基于 Web 的 Exchange 迁移工具和目录同步工具迁移到云。与一次性迁移所有用户的直接转换 Exchange 迁移不同的是，管理员可以分批迁移用户。这可通过上载 .csv 文件以指定要迁移的部分用户列表实现。在暂存迁移中，组织中的所有用户可以共享相同的电子邮件域名。
   
-Staged Exchange migration requires administrators to use the Online Services Directory Synchronization tool. This provides users with a unified Global Address List (GAL) where the online environment is continuously synchronized with the on-premises environment.
+暂存 Exchange 迁移要求管理员使用 Online Services 目录同步工具。这将为用户提供统一全局地址列表 (GAL)，其中在线环境与内部部署环境持续同步。
   
 有关暂存 Exchange 迁移的详细信息，请参阅[有关暂存电子邮件迁移您需要了解的信息](https://support.office.com/en-ie/article/What-you-need-to-know-about-a-staged-email-migration-to-Office-365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207)。
   
 > [!IMPORTANT]
-> Organizations can't use a staged Exchange migration to migrate Exchange 2010 and Exchange 2013 mailboxes. If you have fewer than 2,000 Exchange 2010 or Exchange 2013 mailboxes in your organization, you can use a cutover Exchange migration. If you have more than 2,000 Exchange 2010 or Exchange 2013 mailboxes, you can implement a hybrid deployment. > During migration, administrators must use the Online Services Directory Synchronization tool to provide users with a unified Global Address List where the online environment is continuously synchronized with the on-premises environment. 
+> 组织无法使用暂存 Exchange 迁移来迁移 Exchange 2010 和 Exchange 2013 邮箱。如果您组织中的 Exchange 2010 或 Exchange 2013 邮箱数少于 2,000，则可使用直接转换 Exchange 迁移。如果您的 Exchange 2010 或 Exchange 2013 邮箱数多于 2,000，则可实施混合部署。 > 在迁移期间，管理员必须使用 Online Services 目录同步工具为用户提供统一全局地址列表，其中在线环境与内部部署环境持续同步。 
   
 ## <a name="migration-tools"></a>迁移工具
 
-Microsoft provides several tools to help migrate an existing email environment to Exchange Online. Which ones are appropriate depends on the organization's current environment and deployment goals:
+Microsoft 提供几个工具帮助迁移现有电子邮件环境到 Exchange Online。适用工具取决于组织的当前环境和部署目标：
   
-- **Migration dashboard** Administrators can use the Migration dashboard in the Exchange admin center to manage mailbox migration to Exchange Online in a cutover or staged Exchange migration. Administrators can also use the dashboard to migrate the contents of users' mailboxes from an on-premises IMAP server to existing Exchange Online mailboxes. The dashboard gives administrators the following capabilities: 
+- **迁移主控板** 管理员可以使用 Exchange 管理中心的迁移主控板，在直接转换或暂存 Exchange 迁移中管理 Exchange Online 的邮箱迁移。管理员还可以使用主控板，将用户邮箱的内容从内部部署 IMAP 服务器迁移到 Exchange Online 的现有邮箱。主控板为管理员提供了以下功能： 
     
-  - **Create and start multiple migration batches** Administrators can create and queue up to 100 migration batches. Only one migration batch runs at a time, but administrators can queue up multiple batches, so when a migration batch is finished running the next batch in the queue starts. 
+  - **创建并启动多个迁移批次** 管理员可以创建并排队多达 100 个迁移批次。一次仅能运行一个迁移批次，但是管理员可以排队多个批次，以便在完成一个迁移批次后运行队列的下一个批次。 
     
-  - **Restart a migration batch with failures** After the initial synchronization for a migration batch, where items are copied from on-premises mailboxes to the cloud mailboxes for each user in the migration batch, some mailboxes may fail synchronization. Administrators can restart that migration batch to try to synchronize the failed mailboxes. 
+  - **失败后重新启动迁移批次** 在初始同步迁移批次后（其中为迁移批次中的每个用户从内部部署邮箱复制项目到云邮箱），一些邮箱可能同步失败。管理员可以重新启动该迁移批次，以重试同步失败的邮箱。 
     
   - **获得有关跳过项目的详细信息** 对于 IMAP 迁移、直接转换迁移和暂存迁移，迁移主控板将显示跳过的特定项目的有关信息，包括跳过原因和跳过项目在用户邮箱中的位置。 
     
@@ -119,11 +119,11 @@ Microsoft provides several tools to help migrate an existing email environment t
     
   - **编辑迁移批次** 如果暂存 Exchange 迁移或 IMAP 迁移的迁移批次位于迁移队列但是当前未运行，管理员可以编辑迁移批次。 
     
-- **Azure Active Directory Sync tool** The Azure Active Directory Sync tool plays an important role in migration to hybrid email scenarios that utilize both Exchange Online and an on-premises Exchange Server. The tool performs a one-way synchronization from on-premises Active Directory to Exchange Online. After migration is complete, administrators only need to use Exchange Online to manage Active Directory users and groups. The tool also provides users with a unified Global Address List where the online environment is continuously synchronized with the on-premises environment. 
+- **Azure Active Directory 同步工具**Azure Active Directory 同步工具在使用 Exchange Online 和内部部署 Exchange Server 的混合电子邮件方案迁移中具有重要作用。该工具将执行从 Active Directory 到 Exchange Online 的单向同步。完成迁移后，管理员仅需要使用 Exchange Online 就可管理 Active Directory 用户和组。该工具还为用户提供统一全局地址列表，其中在线环境与内部部署环境持续同步。 
     
     有关 Azure Active Directory 同步工具的详细信息，请参阅 [Directory synchronization: Roadmap](https://go.microsoft.com/fwlink/p/?LinkId=287034)（目录同步：路线图）。
     
-- **Hybrid Configuration Wizard** The Hybrid Configuration Wizard streamlines the hybrid deployment process by simplifying the on-premises and Exchange Online configuration of features and services. Introduced as part of Exchange Server 2010 Service Pack 2, the Hybrid Configuration Wizard is run only in on-premises organizations and has the following components: 
+- **混合配置向导** 混合配置向导可简化内部部署和 Exchange Online 配置的功能和服务，从而简化混合部署流程。作为 Exchange Server 2010 Service Pack 2 一部分推出的混合配置向导仅在内部部署组织中运行，同时拥有以下组件： 
     
   - Exchange 管理中心 (EAC) 向导指导管理员完成配置混合部署的端到端流程。
     
@@ -131,7 +131,7 @@ Microsoft provides several tools to help migrate an existing email environment t
     
     有关"混合配置"向导的详细信息，请参阅["混合配置"向导](https://go.microsoft.com/fwlink/p/?LinkId=271734)。
     
-- **Remote Windows PowerShell** As part of the Exchange Online December 2011 Service Update, remote Windows PowerShell can be used to help troubleshoot migration errors. For instance, administrators can display diagnostic information for migration batches, as well as migration statistics and diagnostic information for users based on their primary SMTP addresses. 
+- **远程 Windows PowerShell** 作为 Exchange Online 2011 年 11 月服务更新的远程 Windows PowerShell 可用于帮助故障排除迁移错误。例如，管理员可以显示迁移批次的诊断信息，以及迁移统计数据和基于主 SMTP 地址为用户显示诊断信息。 
     
 ## <a name="feature-availability"></a>功能可用性
 

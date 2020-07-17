@@ -408,7 +408,7 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 内幕风险
 
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 
-Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
+Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构建的服务，允许您向组织内外发送经加密的电子邮件，而无需考虑目标电子邮件地址（Gmail、Yahoo!Mail、Outlook.com 等）。
 
 若要查看加密邮件，收件人可以使用一次性密码、通过 Microsoft 帐户登录或使用与 Office 365 关联的工作或学校帐户登录。 此外，收件人也可发送加密回复。 他们不需要订阅即可查看加密邮件或发送加密回复。
 

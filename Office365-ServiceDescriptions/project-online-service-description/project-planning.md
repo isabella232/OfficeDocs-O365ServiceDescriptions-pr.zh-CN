@@ -30,11 +30,11 @@ ms.locfileid: "45131096"
   
 ## <a name="budget-planning"></a>Budget planning
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+使用预算计划，可以将项目当前进度与项目开始时设定的基线进行比较。详细了解[挣值分析](https://go.microsoft.com/fwlink/p/?LinkId=271336)。
   
 ## <a name="compare-project-versions"></a>比较项目版本
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+对项目的两个版本进行比较。系统将创建一个报告，显示已更改的内容（如新任务的添加）。
   
 ## <a name="deadlines"></a>Deadlines
 

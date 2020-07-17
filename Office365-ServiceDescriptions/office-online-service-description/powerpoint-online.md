@@ -124,7 +124,7 @@ PowerPoint for web 从 web 浏览器启动，并依赖于 internet 连接。 要
   
 ## <a name="picture-cropping"></a>图片裁剪
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+使用裁剪工具提高图片的主题帧。只需单击图片边缘的其中一个裁剪控点并拖动，直到获得所需的图片。
   
 ## <a name="pictures"></a>图片
 
@@ -172,7 +172,7 @@ PowerPoint for web 在您每次进行更改时都保存您的工作。 没有 "*
   
 ## <a name="share"></a>共享
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+如果将演示文稿保存在 SharePoint 文档库中，演示文稿会处于联机状态，可以通过发送链接（而非电子邮件附件）进行共享。拥有适当权限的人员可以在其 Web 浏览器或移动设备上查看演示文稿。详细了解如何[共享演示文稿](https://go.microsoft.com/fwlink/?LinkId=272776)。
   
 ## <a name="slide-show"></a>Slide show
 

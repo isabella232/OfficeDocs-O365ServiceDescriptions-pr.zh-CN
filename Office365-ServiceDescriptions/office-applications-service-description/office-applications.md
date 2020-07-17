@@ -10,7 +10,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
 ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
@@ -20,7 +20,7 @@ ms.locfileid: "45131426"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
-Microsoft Office is a powerful service that helps you unleash your best ideas, get things done, and stay connected on the go. Simply sign in for a personalized experience and all the most up-to-date Office applications, with new and enhanced features continually being added.
+Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
   
 有关系统要求、适用于商业、教育和政府组织的基于每月订阅的服务，请参阅[Microsoft 365 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
   
@@ -58,7 +58,7 @@ Skype for Business 是一款即时消息客户端和统一通信应用程序。 
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath 是一个程序，可让您设计、散布、完成和提交电子表格。您可选择将 InfoPath 表单 Web 部件添加至 SharePoint Online 站点。有关更多信息，请参阅 [InfoPath 表单 Web 部件](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 若要了解在不编写代码的情况下，InfoPath 的后续任务如何在 SharePoint 中提高业务效率，请参阅[使用 PowerApps 自定义 SharePoint](https://powerapps.microsoft.com/infopath/)。
   

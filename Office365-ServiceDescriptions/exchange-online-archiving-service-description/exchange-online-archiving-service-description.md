@@ -60,7 +60,7 @@ ms.locfileid: "45131516"
   
 ### <a name="user-subscriptions"></a>用户订阅
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+访问 Exchange Online Archiving 服务的每个用户都必须拥有一个 Exchange Online Archiving 订阅。每个电子邮件存档订阅只能用于存储一名用户的邮件数据。
   
 ## <a name="unlimited-archive-storage-quota"></a>无限制存档存储配额
 

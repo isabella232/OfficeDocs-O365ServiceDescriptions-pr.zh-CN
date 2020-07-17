@@ -55,7 +55,7 @@ Microsoft Exchange Online Protection （EOP）提供了可帮助您管理电子�
 - 查看 DLP 报告中的事件数据，或通过使用生成事件报告操作来添加自己的特定报告。
 
 > [!NOTE]
-> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
+> DLP 策略仅适用于传进或传出组织的邮件。组织内（内部）邮件没有适用的 DLP 策略，除非您运行包含本地 DLP 的 Exchange Server 2013。这还适用于 DLP 策略提示，可以在敏感数据被错误发送到未经授权收件人之前通知用户潜在的策略违反。
 
 若要了解有关 DLP 的详细信息，请参阅[Exchange Online 中的数据丢失防护](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)。
 

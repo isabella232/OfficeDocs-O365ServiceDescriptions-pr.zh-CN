@@ -27,14 +27,14 @@ Microsoft Exchange Online 存档允许用户从各种设备和平台连接到其
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
+Microsoft Outlook 是一款丰富的电子邮件程序，包括对日历、联系人和任务的支持。Exchange Online Archiving 支持 Outlook 2013、Outlook 2010 和 Outlook 2007。关键功能包括：
   
 - **Outlook 无处**不在通过 outlook 无处不在，outlook 用户可以通过 internet 连接到 Exchange Server 和 Exchange Online 存档，而无需 VPN 连接。 Outlook 和 Exchange Online Archiving 之间的通信通过 SSL 保护的隧道使用 RPC-over-HTTP Windows 网络组件进行。    
 - **自动发现** Exchange 自动发现服务自动配置 Outlook 以用于 Exchange Online Archiving。 通过自动发现，Outlook 用户可以在首次（按照此后的固定间隔）使用其电子邮件地址和密码登录，直接从 Exchange 中接收所需的配置文件设置。 
 
 Outlook 2010 及更高版本和 web 上的 Outlook 为用户提供了存档的全部功能，以及保留和存档策略等相关功能。
   
-Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
+Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性功能在 Outlook 2007 中均可用。例如，在 Outlook 2007 中，用户无法将保留和存档策略应用于其邮箱中的项目，而必须依赖管理员设置的策略。Outlook 2007 用户必须具有 2011 年 2 月的 Office 2007 累积更新才能访问存档。
   
 > [!NOTE]
 > Exchange Online Archiving 不提供 Outlook。 Microsoft 365 企业版应用程序（包括 Microsoft Outlook）包含在一些计划中，可以作为单独的订阅进行购买。 有关详细信息，请参阅[Microsoft 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。 有关适用于企业的 Microsoft 365 应用的详细信息，请参阅[Office 应用程序服务说明](../office-applications-service-description/office-applications-service-description.md)。 

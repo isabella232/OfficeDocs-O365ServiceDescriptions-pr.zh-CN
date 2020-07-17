@@ -30,7 +30,7 @@ ms.locfileid: "45133066"
 
  **您想知道需要购买哪些许可证才能获取特定的 Skype for Business 功能吗？请参阅[Skype For business 附加许可](https://go.microsoft.com/fwlink/?LinkID=799524)。**
   
-Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
+Skype for Business Online 是一款通信服务，支持你随时随地与参加会议和通话的人员联系。它支持用户访问出席信息，并支持即时消息、音频和视频呼叫、丰富的在线会议和一系列 Web 会议功能。 
   
 Skype for Business 托管在同时支持多个客户的多租户服务器上。 这些服务器驻留在 Microsoft 数据中心中，用户可从企业网络或 internet 上的各种设备访问这些服务器。 
   
@@ -81,7 +81,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 |Office 通信服务器 2007 R2 和 Lync Server 2010 （即时消息、状态、音频、视频、会议）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 | Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|AOL and Yahoo! federation  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|AOL 和 Yahoo! 联合身份验证  <br/> |可访问  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |即席音频会议和计划音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
 |即席视频会议和计划视频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |可访问  <br/> |否  <br/> |
@@ -230,7 +230,7 @@ Skype for Business 托管在同时支持多个客户的多租户服务器上。 
 |Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
 | Skype 联合身份验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|AOL and Yahoo! federation  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
+|AOL 和 Yahoo! 联合身份验证  <br/> |可访问  <br/> |否  <br/> |否  <br/> |
 |**[Skype 业务联机会议](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online 独立计划 1** <br/> |**Skype for Business Online 独立计划 2** <br/> |
 |即席音频会议和计划音频会议  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |即席视频会议和计划视频会议  <br/> |是  <br/> |否  <br/> |是  <br/> |

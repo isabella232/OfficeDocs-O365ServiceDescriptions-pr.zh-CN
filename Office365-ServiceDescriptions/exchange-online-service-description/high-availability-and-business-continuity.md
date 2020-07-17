@@ -24,9 +24,9 @@ Microsoft Exchange Online 为组织的电子邮件基础结构提供了广泛的
   
 ## <a name="mailbox-replication-at-data-centers"></a>数据中心的邮箱复制
 
-Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
+Exchange Online 邮箱不断复制为多个数据库副本，存储在多个地理位置分散的 Microsoft 数据中心内，以便在本地邮件基础结构出现故障的情况下，能够为客户提供数据恢复功能。对于大规模的故障，启动服务连续性管理程序。
   
-For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+若要详细了解 Microsoft 如何保护数据，请访问 [Office 365 信任中心](https://go.microsoft.com/fwlink/p/?LinkId=299135)。如果使用的是由世纪互联运行的 Office 365，请访问[世纪互联信任中心](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl)。
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 
@@ -38,9 +38,9 @@ Exchange Online 允许用户从任何电子邮件文件夹（包括 "已删除�
   
 邮件从"已删除邮件"文件夹中删除之后，将在"可恢复邮件"文件夹中继续保留 14 天，然后永久删除，但管理员可以使用远程 Windows PowerShell 最多将保留期限延长至 30 天。 在此时间段内，用户可以使用 Outlook 网页或 Outlook 中的 "恢复已删除邮件" 功能来恢复项目。 了解如何[更改已删除邮件的保留期限](https://go.microsoft.com/fwlink/p/?LinkId=286940)。
   
-If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+如果用户已从"可恢复邮件"文件夹中手动清除邮件，管理员可以结合使用"单个项目恢复"功能和远程 Windows PowerShell 恢复同期邮件。默认情况下，创建邮箱时会启用"单个项目恢复"功能。若要了解详细信息，请参阅[启用或禁用邮箱的单个项目恢复](https://go.microsoft.com/fwlink/p/?LinkID=286941)。
   
-To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+若要在"可恢复邮件"文件夹中保留邮件 30 天以上，组织可以实现长期电子邮件保留或基于时间的就地保留。详细了解如何[将邮箱置于就地保留](https://go.microsoft.com/fwlink/p/?LinkId=271746)。
   
 ## <a name="feature-availability"></a>功能可用性
 

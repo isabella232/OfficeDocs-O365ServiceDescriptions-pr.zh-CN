@@ -28,7 +28,7 @@ ms.locfileid: "45133026"
 
 ## <a name="leaderboards"></a>排行榜
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+识别网络中有影响力的同事。排行榜将显示发布消息、回复消息和关注消息最多的用户。
 
 ## <a name="member-directory"></a>成员目录
 

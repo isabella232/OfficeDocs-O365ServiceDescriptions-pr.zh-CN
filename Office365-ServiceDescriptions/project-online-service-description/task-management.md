@@ -26,7 +26,7 @@ ms.locfileid: "45131066"
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+停用任务后，任务仍会保留在项目计划中，但不会影响资源可用性、项目日程安排或其他任务的日程安排。详细了解如何[停用任务](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
   
 ## <a name="auto-complete"></a>自动完成
 
@@ -42,7 +42,7 @@ When you inactivate a task, it stays in the project plan but does not affect the
   
 ## <a name="cross-project-critical-path"></a>跨项目的关键路径
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+关键路径是为了使项目按计划完成而必须按计划完成的一系列任务。您可以创建、编辑和删除与另一个项目中任务的依赖关系。 
   
 ## <a name="task-inspector"></a>任务检查器
 
@@ -50,7 +50,7 @@ A critical path is the series of tasks that must be completed on schedule for a 
   
 ## <a name="task-path-analysis"></a>任务路径分析
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+通过突出显示任务在整个项目中的路径，查看一个任务与其他任务的关联。详细了解如何[突出显示任务之间的关联](https://go.microsoft.com/fwlink/p/?LinkId=271345)。
   
 ## <a name="top-down-summary-tasks"></a>自上而下摘要任务
 

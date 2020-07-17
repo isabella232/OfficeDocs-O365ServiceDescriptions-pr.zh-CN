@@ -38,7 +38,7 @@ Skype for Business Online 中的限制分为以下几类：
 ## <a name="peer-to-peer-limits"></a>对等限制
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **文件传输限制** 在 Skype for Business Online IM 对话中可以传输的文件大小上限。若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](https://go.microsoft.com/fwlink/?LinkId=398280)的 Microsoft 支持文章。
     
 - **打开选项卡式的对话限制** Skype for Business 用户一次可以打开的对话选项卡的最大数量。 
     
