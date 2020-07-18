@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131286"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154400"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -40,6 +40,8 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 **2 GB**
 
 - Office 365 企业版 F3
+- Microsoft 365 F1
+- Microsoft 365 F3
 
 **1 TB**
 
