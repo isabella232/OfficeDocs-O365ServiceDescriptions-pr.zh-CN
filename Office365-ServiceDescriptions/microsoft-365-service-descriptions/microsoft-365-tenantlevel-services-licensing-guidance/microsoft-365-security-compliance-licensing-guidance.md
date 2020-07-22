@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137558"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201547"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -341,6 +341,26 @@ Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microso
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 客户可以通过审核人组和访问策略（可应用于许可用户）在每用户的基础上管理 PAM。 有关详细信息，请参阅[Office 365 中的特权访问管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)。
+
+## <a name="double-key-encryption-for-microsoft-365"></a>适用于 Microsoft 365 的双重密钥加密 
+
+对 Microsoft 365 的双重密钥加密允许您保护高度敏感的数据，以满足特殊要求并保持对加密密钥的完全控制。 双密钥加密使用两个密钥来保护你的数据，并在你的控制中使用一个密钥，并将第二个密钥安全地存储在 Microsoft Azure 中。 若要查看数据，您必须具有对这两个键的访问权限。 由于 Microsoft 只能访问一个密钥，因此你的密钥和你的数据在 Microsoft 中不可用，从而确保你能够完全控制你的数据的隐私和安全。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+用户可以将加密的数据迁移到云中，并防止第三方访问，前提是用户可以将其加密数据迁移到云中，从而使用户受益于双密钥加密。 最终用户可以保护和使用与任何其他敏感度标签保护的内容类似的双密钥加密内容。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
+
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护和治理、Office 365 E5/A5 和 Office 365 高级合规性为用户提供了从双密钥加密中获益的权限。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+双密钥加密支持 Microsoft Office for Windows 的桌面版本。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+若要将加密密钥分配给 Office 365 和/或 Microsoft 365 组织中的数据以供许可用户使用，请按照双重密钥加密部署说明进行操作。
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>适用于 Exchange Online、SharePoint Online 和 OneDrive for business 的 Office 365 数据丢失防护
 
