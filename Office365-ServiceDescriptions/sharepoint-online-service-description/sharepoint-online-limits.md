@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154360"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229638"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -24,7 +24,7 @@ ms.locfileid: "45154360"
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**功能** <br/> |**Microsoft 365 业务基本或商业高级版** <br/> |**Microsoft 365 E3 或 E5、Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Microsoft 365 F1 或 F3，Office 365 企业版 F3** <br/> |
+|**功能** <br/> |**Microsoft 365 业务基本、商业标准或商业高级版** <br/> |**Microsoft 365 E3 或 E5、Office 365 企业版 E1、E3 或 E5 或 SharePoint 计划1或2** <br/> | **Microsoft 365 F1 或 F3，Office 365 企业版 F3** <br/> |
 |每个组织的总存储量<sup>1、2、6</sup> <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup>  <br/> |1 TB 再加上每个购买的 10 GB 的许可证<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |每个站点的最大存储（网站集）<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |每个组织的网站（网站集）  <br/> |2000000<sup>6</sup> <br/> |2000000<sup>6</sup> <br/> |2000000<br/> |
@@ -83,7 +83,7 @@ ms.locfileid: "45154360"
 
 ### <a name="sharepoint-groups"></a>SharePoint 组数
 
-一个用户可以属于5000个组，每个组最长可有5000个用户。 每个站点（网站集）最高可达10000个组。
+用户可以属于每个站点的5000个组（网站集），每个组最长可包含5000个用户。 每个站点（网站集）最高可达10000个组。
 
 > [!NOTE]
 > 对于 Azure AD 组限制，请参阅[AZURE ad 服务限制和限制](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因为这种限制可能会影响公用和专用组站点成员身份管理。 
