@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131986"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388088"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -56,19 +56,18 @@ Microsoft 团队不作为独立服务提供。
 |聊天  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是<sup>1</sup>  <br/> |是<sup>1</sup>  <br/> |是  <br/> |
 |通道-标准  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通道-私有  <br/> |是  <br/> |是<sup>2</sup>  <br/> |否<sup>3</sup>  <br/> |否<sup>3</sup>  <br/> |否<sup>3</sup>  <br/> |是  <br/> |
+|通道-私有  <br/> |是  <br/> |是<sup>2</sup>  <br/> |否  <br/> |否  <br/> |否 <br/> |可访问  <br/> |
 |会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |屏幕共享 PowerPoint 音频/视频桌面 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|应用、Bot、& 连接器  <br/> |是  <br/> |是  <br/> |Yes<sup>4</sup>  <br/> |Yes<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是  <br/> |
-|Live 事件  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
+|应用、Bot、& 连接器  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
+|Live 事件  <br/> |否  <br/> |可访问  <br/> |是  <br/> |否<sup>4</sup>  <br/> |否<sup>4</sup>  <br/> |是  <br/> |
 
 <sup>1</sup>个 Microsoft 团队（GCC）-高和 DOD 支持每个团队中的成员为2500。<br/>
 <sup>2</sup> Microsoft Planner 目前不可用于在专用通道中进行访问。<br/>
-<sup>3</sup>此时，GCC 云中不提供专用通道。 将在邮件中心中发布有关可用性的进一步更新。<br/>
-<sup>4</sup> Microsoft ONENOTE 在 DOD 云中不可用。 此时，应用程序和应用程序发布在这些云中不可用。<br/>
-<sup>5</sup>实时事件在 GCC-HIGH 或 DOD 中不可用。<br/>
+<sup>3</sup> Microsoft ONENOTE 在 DOD 云中不可用。 此时，应用程序和应用程序发布在这些云中不可用。<br/>
+<sup>4</sup>实时事件在 GCC-HIGH 或 DOD 中不可用。<br/>
 
 ## <a name="next-steps"></a>后续步骤
 

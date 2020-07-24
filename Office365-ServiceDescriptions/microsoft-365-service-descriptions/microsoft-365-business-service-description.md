@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商业高级版是一个集成的解决方案，通过高级安全性和设备管理功能将一流的工作效率结合在一起，以帮助保护您的业务。 此服务说明介绍了计划选项和功能。
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201548"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388108"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商业高级版服务说明
 
@@ -73,19 +73,19 @@ Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供
 |Microsoft Identity Manager （MIM）用户 CAL  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
 |Connect Health  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|[设备和应用程序管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商业高级版包括适用于 iOS、Android、Mac OS 和其他跨平台设备管理的完整 Intune 功能。<sup>8</sup> <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |**企业移动性 + 安全 E3** <br/> |
-|适用于电脑、Mac 和移动设备的 Intune 移动设备管理（MDM）<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|移动设备管理（MDM）自动注册  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|适用于 Office 应用程序和 LOB 应用程序的 Intune 移动应用程序管理（MAM）<br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|Windows update management、Defender、防火墙策略<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|数据保护-选择性擦除  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|为策略设定的安全组（SG）  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|在已注册的 Windows 10 设备上安装 Office 应用  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|Windows Defender 配置  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|部署设备配置文件和安全配置<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|使用 Azure AD 加入的 Windows 10 企业版状态漫游  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|自助服务 BitLocker 恢复  <br/> |否  <br/> |可访问  <br/> |是  <br/> |
-|Windows 虚拟桌面 <br/> |否 <br/> |可访问 <br/> |是 <br/> |
+|[设备和应用程序管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商业高级版包括适用于 iOS、Android、Mac OS 和其他跨平台设备管理的完整 Intune 功能。<sup>8</sup> <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |
+|适用于电脑、Mac 和移动设备的 Intune 移动设备管理（MDM）<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |
+|移动设备管理（MDM）自动注册  <br/> |否  <br/> |可访问  <br/> |
+|适用于 Office 应用程序和 LOB 应用程序的 Intune 移动应用程序管理（MAM）<br/> |否  <br/> |可访问  <br/> |
+|Windows update management、Defender、防火墙策略<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |
+|数据保护-选择性擦除  <br/> |是  <br/> |是  <br/> |
+|为策略设定的安全组（SG）  <br/> |否  <br/> |可访问  <br/> |
+|在已注册的 Windows 10 设备上安装 Office 应用  <br/> |否  <br/> |可访问  <br/> |
+|Windows Defender 配置  <br/> |否  <br/> |可访问  <br/> |
+|部署设备配置文件和安全配置<sup>5</sup> <br/> |否  <br/> |可访问  <br/> |
+|使用 Azure AD 加入的 Windows 10 企业版状态漫游  <br/> |否  <br/> |可访问  <br/> |
+|自助服务 BitLocker 恢复  <br/> |否  <br/> |是  <br/> |
+|Windows 虚拟桌面 <br/> |否 <br/> |是 <br/> |
 
 |||
 |:-----|:-----|
