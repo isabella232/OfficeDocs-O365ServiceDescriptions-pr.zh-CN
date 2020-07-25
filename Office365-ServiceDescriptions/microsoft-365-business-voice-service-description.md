@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业语音是一项外接程序服务，允许你使用 Microsoft 团队进行电话呼叫。 这将组合电话系统、国内通话套餐、短信和音频会议。
-ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
+ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679589"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410213"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商务语音服务说明
 
@@ -33,12 +33,12 @@ Microsoft 365 商业语音适用于以下订阅，订阅最高300个许可证：
 - Microsoft 365 F1
 - Microsoft 365 F3
 - Office 365 F3
-- Microsoft 和 Office 365 企业版 E1、E3 或 E5
-- Microsoft 365 和 Office 365 教育版 A1、A3 或 A5
-- Microsoft 365 和 Office 365 政府 G1、G3 或 G5 （仅限 GCC）
+- Microsoft 和 Office 365 企业版 E1 或 E3
+- Microsoft 365 和 Office 365 教育版 A1 或 A3
+- Microsoft 365 和 Office 365 政府 G1 或 G3
 - Microsoft 365 非盈利业务基本
 - Microsoft 365 非盈利商业标准
-- Microsoft 365 和 Office 365 非盈利性 E1、E3 或 E5
+- Microsoft 365 和 Office 365 非盈利 E1 或 E3
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 商业语音功能
 
