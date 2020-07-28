@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201566"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501711"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -489,8 +489,13 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |附件内容的扫描限制|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |所有传输规则添加到邮件的收件人的最大数目|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 位收件人|
 |转发邮件的收件人限制|10 个收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|
-|重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
-|传输规则重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|传输规则重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|收件箱规则|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
+
+> [!NOTE]
+> <sup>1</sup>如果邮箱已迁移到 Exchange Online，则收件箱规则限制可能设置为低于默认 EXO 值的值。 如果是这种情况，可以按以下方式增加值。 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>跨独立选项的日记、传输和收件箱规则限制
 
