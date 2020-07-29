@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: 8a22154cf97031518fac99a5b7052c00e0bdb214
+ms.sourcegitcommit: 31ef23008777fe063df8c9abca75292f6991b8a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388088"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46513888"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -56,7 +56,7 @@ Microsoft 团队不作为独立服务提供。
 |聊天  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是<sup>1</sup>  <br/> |是<sup>1</sup>  <br/> |是  <br/> |
 |通道-标准  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|通道-私有  <br/> |是  <br/> |是<sup>2</sup>  <br/> |否  <br/> |否  <br/> |否 <br/> |可访问  <br/> |
+|通道-私有  <br/> |是  <br/> |是<sup>2</sup>  <br/> |否  <br/> |必需  <br/> |否 <br/> |可访问  <br/> |
 |会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |屏幕共享 PowerPoint 音频/视频桌面 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
