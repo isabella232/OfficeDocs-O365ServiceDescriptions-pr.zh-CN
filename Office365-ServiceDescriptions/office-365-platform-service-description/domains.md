@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 当您添加域时，分步向导可帮助您添加用户并将电子邮件地址和其他服务转换为您的业务名称。 完成此向导后，你的业务电子邮件将转到 Microsoft，而不会转到你的当前电子邮件提供商。 若要了解详细信息，请参阅将用户和域添加到 Microsoft。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132395"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531215"
 ---
 # <a name="domains"></a>域
 
@@ -26,7 +26,7 @@ ms.locfileid: "45132395"
   
 ## <a name="custom-domains"></a>自定义域
 
-你可以向订阅中添加最多900个域。 不过，无法将域添加到已在另一个 Microsoft 云服务中使用的 Office 365 中。 这意味着您不能将同一个域添加到多个订阅。 有关详细信息，请参阅[域 FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
+您可以向订阅（包括子域）中添加最多900个域。 您不能将域添加到已在另一个 Microsoft 云服务中使用的 Microsoft 365。 这意味着您不能将同一个域添加到多个订阅。 有关详细信息，请参阅[域 FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)。
   
 ### <a name="second-and-third-level-domains"></a>第二级域和第三级域
 
