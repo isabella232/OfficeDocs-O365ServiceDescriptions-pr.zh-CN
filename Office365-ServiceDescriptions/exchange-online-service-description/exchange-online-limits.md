@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
+ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501711"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580825"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
 
 > [!NOTE]
-> 如果需要任务协助，或者如果正在对问题进行故障排除，以下文章可能会很有帮助：  <br/> *  [电子邮件](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed)（用于帮助创建和发送电子邮件）  <br/> *  [Microsoft 365 for business 中的电子邮件-管理员帮助](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [使用 Microsoft 支持和恢复助手修复 Outlook 和 Microsoft 365 问题](https://diagnostics.office.com/) <br/>  *  [电子邮件未送达报告](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online 帮助](https://go.microsoft.com/fwlink/?linkid=825607)
+> 如果需要任务协助，或者如果正在对问题进行故障排除，以下文章可能会很有帮助：  <br/> *  [电子邮件](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (，用于帮助创建和发送电子邮件)   <br/> *  [Microsoft 365 for business 中的电子邮件-管理员帮助](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [使用 Microsoft 支持和恢复助手修复 Outlook 和 Microsoft 365 问题](https://diagnostics.office.com/) <br/>  *  [电子邮件未送达报告](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online 帮助](https://go.microsoft.com/fwlink/?linkid=825607)
 
 Microsoft Exchange Online 的限制可归为以下几个类别：
 
@@ -54,7 +54,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 - [Exchange ActiveSync 限制](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  应用于 Microsoft 365 组织的限制可能会有所不同，具体取决于组织在服务中已注册多长时间。 <br/> * 当 Microsoft 数据中心中的限制更改时，可能需要一段时间才能将更改应用于所有现有客户。 <br/> * 您无法修改这些限制，但您和您的用户应了解这些限制。 <br/> * 这些限制适用于内部收件人和外部收件人。 <br/> * 默认情况下，Exchange Online Protection （EOP）可保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 <br/> * 有关 Office 365 组限制的信息，请参阅 "如何管理我的组？" [了解有关 Microsoft 365 组的信息](https://go.microsoft.com/fwlink/?linkid=846714)。
+> *  应用于 Microsoft 365 组织的限制可能会有所不同，具体取决于组织在服务中已注册多长时间。 <br/> * 当 Microsoft 数据中心中的限制更改时，可能需要一段时间才能将更改应用于所有现有客户。 <br/> * 您无法修改这些限制，但您和您的用户应了解这些限制。 <br/> * 这些限制适用于内部收件人和外部收件人。 <br/> * 默认情况下，Exchange Online Protection (EOP) 保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。 <br/> * 有关 Office 365 组限制的信息，请参阅 "如何管理我的组？" [了解有关 Microsoft 365 组的信息](https://go.microsoft.com/fwlink/?linkid=846714)。
 
 ## <a name="address-book-limits"></a>通讯簿限制
 
@@ -63,17 +63,17 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
     > [!NOTE]
     > 最多可以将 20 个地址列表分配给一个脱机通讯簿 (OAB)。
 
-- **脱机通讯簿限制**：可以在 exchange Online 或 exchange Server 2013 组织中创建的脱机通讯簿（OAB）的最大数量。
+- **脱机通讯簿限制**：可以在 Exchange Online 或 exchange Server 2013 组织中创建 (OAB) 的最大脱机通讯簿数。
 
-- **通讯簿策略限制**：在 Exchange Online 或 exchange Server 2013 组织中创建的通讯簿策略的最大数量（ABP）。
+- **通讯簿策略限制**：在 Exchange Online 或 exchange Server 2013 组织中创建 (ABP) 的通讯簿策略的最大数量。
 
-- **全局地址列表**：在 Exchange Online 或 exchange Server 2013 组织中创建的全局地址列表（GAL）的最大数量。
+- **全局地址列表**：在 Exchange Online 或 exchange Server 2013 组织中创建 (GAL) 的全局地址列表的最大数量。
 
 ### <a name="address-book-limits"></a>通讯簿限制
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |地址列表限制|1000|1000|1000|1000|1000|1000|
 |脱机通讯簿 (OAB) 限制|250|250|250|250|250|250|
 |通讯簿策略 (ABP) 限制|250|250|250|250|250|250|
@@ -100,7 +100,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |用户邮箱|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |存档邮箱<sup>7、8</sup>|50 GB|50 GB|50 GB|Unlimited<sup>1</sup>|Unlimited<sup>1</sup>|不可用<sup>4</sup>|
 |共享邮箱<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2、9</sup>|50/100 GB<sup>2、9</sup>|50 GB<sup>2</sup>|
@@ -110,7 +110,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 |组邮箱|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> 每个用户最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060)（Office 365 中的无限制存档概述）。 <br/> <sup>2</sup>若要访问共享邮箱，用户必须具有 Exchange Online 许可证，但共享邮箱不需要单独的许可证。 如果没有许可证，共享邮箱限制为 50 GB。 若要将大小限制增加到 100 GB，必须为共享邮箱分配 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 这还使您能够启用自动扩展存档，以实现无限量的存档存储容量。 同样，如果您想要在诉讼保留中放置共享邮箱，共享邮箱必须具有 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 如果您想要应用 Office 365 高级威胁防护、高级电子数据展示或自动保留策略等高级功能，必须为这些功能许可共享邮箱。 <br/> <sup>3</sup> 资源邮箱不需要许可证。 但是，如果没有许可证，资源邮箱限制为 50 GB。 若要增加邮箱大小，必须分配 E3 或 E5 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>4</sup>存档邮箱不包含在 Exchange Online Kiosk 中。 不过，可以通过 Exchange Online Archiving 以附加内容的形式购买。 有关详细信息，请参阅[Exchange Online 存档服务说明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> 在2017中，从 Exchange Online 和 SharePoint Online 中删除了<sup>5 个</sup>网站邮箱。 <br/> <sup>6</sup> 只能拥有 1000 个公用文件夹邮箱，所有公用文件夹邮箱的总大小上限为 50 TB。 层次结构服务邮箱限制为 100 个公共文件夹邮箱。 <br/> <sup>7</sup> 存档邮箱仅可用于为已应用其许可证的单个用户或实体（例如共享邮箱）存档邮件。 禁止将存档邮箱用作为一种多个用户或实体存储邮件的方式。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此，共享邮箱中仅存储以共享邮箱的*名义*往来发送的电子邮件。 <br/> <sup>8</sup> 如果在 Exchange Online 中创建了保留策略，则仅当用户的主邮箱大于 10 MB 时，邮件才会自动移动到用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 <br/> <sup>9</sup> 共享和资源邮箱无需许可证。 但是，如果没有许可证，则这些邮箱具有 50 GB 限制。 若要增加邮箱大小，必须分配 E3 或 E5 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>10</sup>默认情况下，共享邮箱具有一个与系统生成（未知）密码关联的活动用户帐户。 若要阻止登录以获取关联的共享邮箱帐户，请参阅[共享邮箱帐户的阻止登录](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
+> <sup>1</sup> 每个用户最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060)（Office 365 中的无限制存档概述）。 <br/> <sup>2</sup>若要访问共享邮箱，用户必须具有 Exchange Online 许可证，但共享邮箱不需要单独的许可证。 如果没有许可证，共享邮箱限制为 50 GB。 若要将大小限制增加到 100 GB，必须为共享邮箱分配 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 这还使您能够启用自动扩展存档，以实现无限量的存档存储容量。 同样，如果您想要在诉讼保留中放置共享邮箱，共享邮箱必须具有 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 如果您想要应用 Office 365 高级威胁防护、高级电子数据展示或自动保留策略等高级功能，则必须为共享邮箱 (s) 授予这些功能。 <br/> <sup>3</sup> 资源邮箱不需要许可证。 但是，如果没有许可证，资源邮箱限制为 50 GB。 若要增加邮箱大小，必须分配 E3 或 E5 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>4</sup>存档邮箱不包含在 Exchange Online Kiosk 中。 不过，可以通过 Exchange Online Archiving 以附加内容的形式购买。 有关详细信息，请参阅[Exchange Online 存档服务说明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> 在2017中，从 Exchange Online 和 SharePoint Online 中删除了<sup>5 个</sup>网站邮箱。 <br/> <sup>6</sup> 只能拥有 1000 个公用文件夹邮箱，所有公用文件夹邮箱的总大小上限为 50 TB。 层次结构服务邮箱限制为 100 个公共文件夹邮箱。 <br/> <sup>7</sup> 存档邮箱仅可用于为已应用其许可证的单个用户或实体（例如共享邮箱）存档邮件。 禁止将存档邮箱用作为一种多个用户或实体存储邮件的方式。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此，共享邮箱中仅存储以共享邮箱的*名义*往来发送的电子邮件。 <br/> <sup>8</sup> 如果在 Exchange Online 中创建了保留策略，则仅当用户的主邮箱大于 10 MB 时，邮件才会自动移动到用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 <br/> <sup>9</sup> 共享和资源邮箱无需许可证。 但是，如果没有许可证，则这些邮箱具有 50 GB 限制。 若要增加邮箱大小，必须分配 E3 或 E5 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>10</sup>默认情况下，共享邮箱具有一个相关联的活动用户帐户，其中包含系统生成的 (未知) 密码。 若要阻止登录以获取关联的共享邮箱帐户，请参阅[共享邮箱帐户的阻止登录](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
 
 ### <a name="storage-limits-across-standalone-plans"></a>跨独立计划的存储限制
 
@@ -125,7 +125,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 |组邮箱|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> 这是 Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 本地邮箱没有最大存储限制。 <br/> <sup>2</sup> 每个用户的存档邮箱中最初会有 100 GB 存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060)（Office 365 中的无限制存档概述）。 有关自动扩展存档的可用性的详细信息，请参阅[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup>若要访问共享邮箱，用户必须具有 Exchange Online 许可证，但共享邮箱不需要单独的许可证。 如果没有许可证，共享邮箱限制为 50 GB。 若要将大小限制增加到 100 GB，必须为共享邮箱分配 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 这还使您能够启用自动扩展存档，以实现无限量的存档存储容量。 同样，如果您想要在诉讼保留中放置共享邮箱，共享邮箱必须具有 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 如果您想要应用 Office 365 高级威胁防护、高级电子数据展示或自动保留策略等高级功能，必须为这些功能许可共享邮箱。 <br/> <sup>4</sup> 资源邮箱无需许可证。 但是，如果没有许可证，资源邮箱限制为 50 GB。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>5</sup> 存档邮箱不包含在 Exchange Online Kiosk 中。 不过，可以通过 Exchange Online Archiving 以附加内容的形式购买。 有关详细信息，请参阅[Exchange Online 存档服务说明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>6</sup> 这是 Microsoft Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 Exchange Server 2013 具有 100 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。 <br/> <sup>7</sup> Exchange Server 具有 1,000 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。  <br/> <sup>8</sup> 存档邮箱仅可用于为已应用其许可证的单个用户或实体存档邮件。 禁止将存档邮箱作为一种为多个用户存档邮件的方式。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/> <sup>9</sup> 如果已在 Exchange Online 中创建保留策略，则仅当用户的主邮箱大于 10 MB 时邮件才会自动移至用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 <br/> <sup>10 个</sup>共享邮箱和资源邮箱不需要许可证。 但是，如果没有许可证，则这些邮箱具有 50 GB 限制。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>11</sup>默认情况下，共享邮箱具有一个与系统生成（未知）密码关联的活动用户帐户。 若要阻止登录以获取关联的共享邮箱帐户，请参阅[共享邮箱帐户的阻止登录](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
+> <sup>1</sup> 这是 Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 本地邮箱没有最大存储限制。 <br/> <sup>2</sup> 每个用户的存档邮箱中最初会有 100 GB 存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [Overview of unlimited archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060)（Office 365 中的无限制存档概述）。 有关自动扩展存档的可用性的详细信息，请参阅[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。 <br/> <sup>3</sup>若要访问共享邮箱，用户必须具有 Exchange Online 许可证，但共享邮箱不需要单独的许可证。 如果没有许可证，共享邮箱限制为 50 GB。 若要将大小限制增加到 100 GB，必须为共享邮箱分配 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 这还使您能够启用自动扩展存档，以实现无限量的存档存储容量。 同样，如果您想要在诉讼保留中放置共享邮箱，共享邮箱必须具有 exchange Online 计划2许可证或 exchange online 计划1许可证和 Exchange Online 存档附加许可证。 如果您想要应用 Office 365 高级威胁防护、高级电子数据展示或自动保留策略等高级功能，则必须为共享邮箱 (s) 授予这些功能。 <br/> <sup>4</sup> 资源邮箱无需许可证。 但是，如果没有许可证，资源邮箱限制为 50 GB。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>5</sup> 存档邮箱不包含在 Exchange Online Kiosk 中。 不过，可以通过 Exchange Online Archiving 以附加内容的形式购买。 有关详细信息，请参阅[Exchange Online 存档服务说明](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)。 <br/> <sup>6</sup> 这是 Microsoft Exchange Server 2013 组织的默认邮箱大小。 管理员可以为其组织更改此值。 Exchange Server 2013 具有 100 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。 <br/> <sup>7</sup> Exchange Server 具有 1,000 个公共文件夹邮箱的限制，且所有公共文件夹邮箱的最大总大小为 50 TB。  <br/> <sup>8</sup> 存档邮箱仅可用于为已应用其许可证的单个用户或实体存档邮件。 禁止将存档邮箱作为一种为多个用户存档邮件的方式。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/> <sup>9</sup> 如果已在 Exchange Online 中创建保留策略，则仅当用户的主邮箱大于 10 MB 时邮件才会自动移至用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 <br/> <sup>10 个</sup>共享邮箱和资源邮箱不需要许可证。 但是，如果没有许可证，则这些邮箱具有 50 GB 限制。 若要增加邮箱大小，必须分配 Exchange Online 套餐 2 许可证。 这会将邮箱大小增加至 100 GB。 <br/> <sup>11</sup>默认情况下，共享邮箱具有一个相关联的活动用户帐户，其中包含系统生成的 (未知) 密码。 若要阻止登录以获取关联的共享邮箱帐户，请参阅[共享邮箱帐户的阻止登录](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)。
 
 ## <a name="capacity-alerts"></a>容量报警
 
@@ -135,13 +135,13 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 - **禁止发送**：达到邮箱大小限制时，用户收到一个 "禁止发送" 通知电子邮件。 在删除足够的电子邮件以使邮箱低于大小限制之前，用户无法发送新邮件。
 
-- **禁止发送/接收**：当达到邮箱大小限制时，Exchange Online 会拒绝所有传入邮件，并向发件人发送未送达报告（NDR）。 发件人可选择稍后尝试重新发送该邮件。 若要再次接收邮件，用户必须删除邮件，直到邮箱的使用容量低于大小限制为止。
+- **禁止发送/接收**：当达到邮箱大小限制时，Exchange Online 会拒绝所有传入邮件，并向发件人发送未送达报告 (NDR) 。 发件人可选择稍后尝试重新发送该邮件。 若要再次接收邮件，用户必须删除邮件，直到邮箱的使用容量低于大小限制为止。
 
 ### <a name="capacity-alerts"></a>容量报警
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |警告|49 GB|49 GB|49 GB|98 GB|98 GB|1.96 GB|
 |禁止发送|49.5 GB|49.5 GB|49.5 GB|99 GB|99 GB|1.98 GB|
 |禁止发送/接收|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
@@ -188,7 +188,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |每个邮箱文件夹的邮件的最大数量|1 百万|1 百万|1 百万|1 百万|1 百万|1 百万|
 |每个邮箱文件夹的邮件数量的警告|900,000|900,000|900,000|900,000|900,000|900,000|
 |“可恢复邮件”文件夹中的每个文件夹的邮件最大数量|3 百万|3 百万|3 百万|3 百万|3 百万|3 百万|
@@ -260,28 +260,28 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
-|邮件大小限制 - Outlook|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|邮件大小限制 - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|
 |邮件大小限制 - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|
-|邮件大小限制 - Outlook for Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|
+|邮件大小限制 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |邮件大小限制 - 迁移|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |邮件大小限制-Outlook for iOS 和 Outlook for Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup>|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |主题长度限制|255 个字符|255 个字符|255 个字符|255 个字符|255 个字符|255 个字符|
 |文件附件限制|250 个附件|250 个附件|250 个附件|250 个附件|250 个附件|250 个附件|
-|文件附件大小限制 - Outlook|150 MB |150 MB |150 MB |150 MB |150 MB |150 MB|
+|文件附件大小限制 - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |文件附件大小限制 - OWA |112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|
-|文件附件大小限制 - Outlook for Mac|150 MB|150 MB |150 MB |150 MB |150 MB |150 MB|
+|文件附件大小限制 - Outlook for Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |文件附件大小限制-Outlook for iOS 和 Outlook for Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |多部分邮件限制|250 个部分|250 个部分|250 个部分|250 个部分|250 个部分|250 个部分|
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
 
 > [!NOTE]
 > <sup>1</sup> Microsoft 邮箱的默认最大邮件大小为 25 MB。 Microsoft 管理员可以指定介于 1 MB 和 150 MB 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅[Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 
-<br/> <sup>2</sup>可以在用户之间发送和接收最大为 150 MB 的邮件（邮件永远不会离开 Microsoft 数据中心）。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
+<br/> <sup>2</sup>您可以在用户之间发送和接收最高 150 MB 的邮件， (邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
 <sup>3</sup> OWA 帐户可能会导致您的邮件受到33% 编码的增加，并将邮件大小限制为低于配置的设置的25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 
-<br/> <sup>4</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持的 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法（转换、暂存、IMAP、PST）和其他第三方工具受常规邮件大小限制的限制。 <br/> 
+<br/> <sup>4</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持的 Exchange 邮箱复制服务的基于移动的迁移。  (转换、暂存、IMAP、PST) 和其他第三方工具的其他迁移方法受常规邮件大小限制的限制。 <br/> 
 <sup>5</sup>有关具有新功能的 OME 的信息，请参阅[设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)。 <br/> 
 <sup>6</sup>经典文件附件的限制为 112 MB，但 OneDrive 文件附件最高可达 2 GB。
 
@@ -293,14 +293,14 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |邮件大小限制 - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |邮件大小限制 - OWA|10 MB<sup>4</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|150 MB<sup>1、2</sup>|
-|邮件大小限制 - Outlook for Mac|10 MB<sup>4</sup>|150 MB |150 MB||
+|邮件大小限制 - Outlook for Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |邮件大小限制 - 迁移|不适用|150 MB <sup>5</sup>|150 MB <sup>5</sup>|150 MB <sup>5</sup>|
 |邮件大小限制-Outlook for iOS 和 Outlook for Android |25 MB |33 MB |33 MB |33 MB |
-|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>6</sup>|150 MB|150 MB |150 MB |150 MB|
+|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>6</sup>|150 MB|150 MB|150 MB|150 MB|
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |主题长度限制|255 个字符|255 个字符|255 个字符|255 个字符|
 |文件附件限制|1024 attachments<sup>4</sup>|250 个附件|250 个附件|250 个附件|
-|文件附件大小限制 - Outlook|35 MB<sup>4</sup>|150 MB|150 MB |150 MB|
+|文件附件大小限制 - Outlook|35 MB<sup>4</sup>|150 MB|150 MB|150 MB|
 |文件附件大小限制 - OWA|35 MB<sup>4</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|112 MB<sup>3</sup>|
 |文件附件大小限制 - Outlook for Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
 |文件附件大小限制-Outlook for iOS 和 Outlook for Android|25 MB |33 MB|33 MB|33 MB|
@@ -308,7 +308,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 管理员可以指定介于 1 mb 和 150 mb 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅[Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup>可以在用户之间发送和接收最大为 150 MB 的邮件（邮件永远不会离开 Microsoft 数据中心）。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
+> <sup>1</sup> Microsoft 管理员可以指定介于 1 mb 和 150 mb 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅[Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup>您可以在用户之间发送和接收最高 150 MB 的邮件， (邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
 <sup>3</sup> OWA 帐户可能会导致您的邮件受到33% 编码的增加，并将邮件大小限制为低于配置的设置的25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> 
 <sup>4</sup>这是 Exchange Server 2013 组织的默认限制。 管理员可以为其组织更改此值。 <br/> 
 <sup>5</sup>要移到 exchange online 中的邮件的大小由 Exchange online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的项目大小。 <br/> 
@@ -324,7 +324,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版 Office**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版 Office**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |接收的邮件数|每小时 3,600 封邮件|每小时 3,600 封邮件|每小时 3,600 封邮件|每小时 3,600 封邮件|每小时 3600 封邮件|每小时 3600 封邮件|
 
 ### <a name="sending-limits"></a>发送限制
@@ -344,7 +344,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     > [!NOTE]
     > 出于收件人速率限制和收件人限制的目的，组织共享通讯簿中存储的通讯组作为一个收件人计数。在个人通讯列表中，每个收件人单独计数。
 
-- **收件人代理地址限制**：收件人代理地址限制是收件人邮箱可以拥有的最大别名数（电子邮件地址）。 
+- **收件人代理地址限制**：收件人代理地址限制是收件人邮箱可以) 的最大别名 (电子邮件地址数。 
 
 - **邮件速率限制**：邮件速率限制确定用户可以从其 Exchange Online 帐户在指定时间段内发送的邮件数。 此限制有助于单个发件人避免对系统资源进行过度消耗。 如果用户提交邮件的速度超过了通过 SMTP 客户端提交邮件的限制，邮件将被拒绝，并且客户端将需要重试。
 
@@ -352,7 +352,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |收件人速率限制<sup>1</sup>|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|每天 10,000 个收件人|
 |收件人限制<sup>2</sup>|可自定义为1000个收件人|可自定义为1000个收件人|可自定义为1000个收件人|可自定义为1000个收件人|可自定义为1000个收件人|可自定义为1000个收件人|
 |收件人代理服务器地址限制|400|400|400|400|400|400|
@@ -397,10 +397,10 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |“已删除邮件”文件夹保留期|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|无限制<sup>1</sup>|
 |从“已删除邮件”文件夹中删除的邮件的保留期|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|14 天<sup>1</sup>|
-|"垃圾邮件"文件夹保留期|30 天|30 天|30 天|30 天|30 天|30 天|
+|“垃圾邮件”文件夹保留期|30 天|30 天|30 天|30 天|30 天|30 天|
 
 > [!NOTE]
 > <sup>1</sup>这是 Microsoft 365 组织的默认值。 管理员可以将其组织中的邮箱的此值更改为最大 30 天。
@@ -431,8 +431,8 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
-|通讯组成员的最大数目<sup>1</sup>|100,000 个成员|100,000 个成员|100,000 个成员|100,000 个成员|100,000 个成员|100,000 个成员|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|通讯组成员的最大数目<sup>1</sup>|100,000 个成员|100,000 个成员|100,000 个成员|100,000 个成员|100,000 个成员|100,000 个成员|
 |限制向大型通讯组发送邮件|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|
 |拥有 5,000 到 99,999 个成员的分配组的最大邮件大小|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |拥有 100,000 个成员的分配组的最大邮件大小|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
@@ -447,7 +447,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
-|通讯组成员的最大数目|100,000 个成员<sup>1</sup>|100,000 个成员|100,000 个成员|100,000 个成员|
+|通讯组成员的最大数目|100,000 个成员<sup>1</sup>|100,000 个成员|100,000 个成员|100,000 个成员|
 |限制向大型通讯组发送邮件|5,000 个成员或更多成员<sup>1</sup>|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|
 |通讯组所有者的最大数量|10 |10 |10 |10 |
 |用户可创建的组的最大数目|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
@@ -457,7 +457,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ## <a name="journal-transport-and-inbox-rule-limits"></a>日记、传输和收件箱规则限制
 
-以下列表包含适用于日记规则的限制、传输规则（也称为组织范围的规则）以及适用于收件箱规则的限制。 收件箱规则由单个用户设置，并适用于该用户邮箱发送和接收的邮件。
+以下列表包含适用于日记规则的限制，传输规则 (也称为组织范围的规则) 和应用于收件箱规则的限制。 收件箱规则由单个用户设置，并适用于该用户邮箱发送和接收的邮件。
 
 - **最大日记规则数** 组织中可具有的日志规则的最大数目。
 
@@ -473,29 +473,29 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 - **转发邮件的收件人限制** 可以为收件箱或包含重定向操作的传输规则配置的收件人的最大数目。如果某个规则配置为将邮件重定向到比此数目多的收件人，则不应用该规则，任何满足该规则条件的邮件将不重定向到该规则中列出的任何收件人。
     
-- **重定向邮件的次数** 将根据收件箱规则自动重定向、转发或答复邮件的次数。 例如，用户 A 有一个根据发件人将邮件重定向到用户 B 的收件箱规则。 用户 B 有一个根据主题行中的关键字将邮件转发到用户 C 的收件箱规则。 如果某邮件同时满足这两个条件，则由于仅允许一次重定向，该邮件仅发送到用户 B，不会转发到用户 C。 在这种情况下，邮件将被丢弃，而不会向用户 B 发送未送达报告（NDR），这表明该邮件未传递到用户 C。我们使用了 X MS--"收件箱" 规则-循环标头来确定邮件被重定向的次数。 此标头还会跨 Exchange 组织边界保留。
+- **重定向邮件的次数** 将根据收件箱规则自动重定向、转发或答复邮件的次数。 例如，用户 A 有一个根据发件人将邮件重定向到用户 B 的收件箱规则。 用户 B 有一个根据主题行中的关键字将邮件转发到用户 C 的收件箱规则。 如果某邮件同时满足这两个条件，则由于仅允许一次重定向，该邮件仅发送到用户 B，不会转发到用户 C。 在这种情况下，邮件将被丢弃，而不会向用户 B 发送未送达报告 (NDR) ，以表明该邮件未传递到用户 C。我们使用了 X MS--"收件箱" 规则-循环标头来确定邮件被重定向的次数。 此标头还会跨 Exchange 组织边界保留。
 
-- **传输规则重定向邮件的次数**按照传输规则重定向邮件的次数。 例如，Exchange 组织 Tailspin 玩具有一个传输规则，用于将发送给用户 A 的每封邮件重定向到位于 Exchange 组织 Contoso 中的用户 B。 在 Exchange 组织 Contoso 中，有一个传输规则，用于将发送给用户 B 的每封邮件重定向到位于 Exchange 组织 A Datum Corporation 的用户 C。 在这种情况下，邮件将被丢弃，并带有状态代码的未送达报告（NDR），并拒绝邮件*550 5.7.128 传输。原则.RejectMessage超过了传输规则循环计数，邮件被拒绝*将发送给用户 A。我们使用了 X MS 交换-Rules-Loop 标头来确定传输规则重定向邮件的次数。 此标头还会跨 Exchange 组织边界保留。
+- **传输规则重定向邮件的次数**按照传输规则重定向邮件的次数。 例如，Exchange 组织 Tailspin 玩具有一个传输规则，用于将发送给用户 A 的每封邮件重定向到位于 Exchange 组织 Contoso 中的用户 B。 在 Exchange 组织 Contoso 中，有一个传输规则，用于将发送给用户 B 的每封邮件重定向到位于 Exchange 组织 A Datum Corporation 的用户 C。 在这种情况下，邮件将被丢弃，未送达报告 (NDR) ，状态代码为，并拒绝邮件*550 5.7.128 传输。原则.RejectMessage超过了传输规则循环计数，邮件被拒绝*将发送给用户 A。我们使用了 X MS 交换-Rules-Loop 标头来确定传输规则重定向邮件的次数。 此标头还会跨 Exchange 组织边界保留。
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>日记、传输和收件箱规则限制
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |日记规则的最大数目|300 条规则|300 条规则|300 条规则|300 条规则|300 条规则|300 条规则|
 |传输规则的最大数目|300 条规则|300 条规则|300 条规则|300 条规则|300 条规则|300 条规则|
 |单个传输规则的最大大小|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |所有传输规则中使用的所有正则表达式的字符限制|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |附件内容的扫描限制|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
-|所有传输规则添加到邮件的收件人的最大数目|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 个收件人|100 位收件人|
-|转发邮件的收件人限制|10 个收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|10 位收件人|
+|所有传输规则添加到邮件的收件人的最大数目|100 位收件人|100 位收件人|100 位收件人|100 位收件人|100 位收件人|100 位收件人|
+|转发邮件的收件人限制|10 位收件人|10 个收件人|10 个收件人|10 个收件人|10 个收件人|10 个收件人|
 |重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |传输规则重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |收件箱规则|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
 
 > [!NOTE]
-> <sup>1</sup>如果邮箱已迁移到 Exchange Online，则收件箱规则限制可能设置为低于默认 EXO 值的值。 如果是这种情况，可以按以下方式增加值。 
+> <sup>1</sup>如果邮箱已迁移到 Exchange Online，则收件箱规则限制可能设置为低于默认 EXO 值的值。 如果是这种情况，则可以增加收件箱规则值。 有关说明，请参阅[在 Exchange Online 中修改收件箱规则使用的空间](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules)。 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>跨独立选项的日记、传输和收件箱规则限制
 
@@ -506,16 +506,16 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |传输规则的最大数目|无限制|300 条规则|300 条规则|300 条规则|
 |单个传输规则的最大大小|40 KB|8 KB|8 KB|8 KB|
 |所有传输规则中使用的所有正则表达式的字符限制|无限制|20 KB|20 KB|20 KB|
-|所有传输规则添加到邮件的收件人的最大数目|无限制|100 位收件人|100 个收件人|100 位收件人|
-|转发邮件的收件人限制|无限制|10 个收件人|10 位收件人|10 位收件人|
-|重定向邮件的次数|3 次重定向|1 次重定向|1 次重定向|1 次重定向|
-|传输规则重定向邮件的次数|无限制|1 次重定向|1 次重定向|1 次重定向|
+|所有传输规则添加到邮件的收件人的最大数目|无限制|100 位收件人|100 位收件人|100 位收件人|
+|转发邮件的收件人限制|无限制|10 个收件人|10 个收件人|10 个收件人|
+|重定向邮件的次数|3 次重定向|1 次重定向|1 次重定向|1 次重定向|
+|传输规则重定向邮件的次数|无限制|1 次重定向|1 次重定向|1 次重定向|
 
 ## <a name="moderation-limits"></a>审阅限制
 
 这些限制将控制用于适用于通讯组和传输规则的邮件审批的审阅设置。
 
-- **仲裁邮箱的最大大小**：如果仲裁邮箱超出此限制，则需要审核的邮件将在未送达报告（NDR）中返回给发件人。
+- **仲裁邮箱的最大大小**：如果仲裁邮箱超出此限制，则需要审批的邮件会在未送达报告 (NDR) 中返回给发件人。
 
 - **最大审阅者数**：可以分配给单个仲裁通讯组的审阅者的最大数目，也可以使用单个传输规则添加到邮件中。 Note that you can't specify a distribution group as a moderator.
 
@@ -529,9 +529,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |仲裁邮箱的最大大小|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
-|审阅人的最大数目|10 个审阅人|10 个审阅人|10 个审阅人|10 个审阅人|10 个审阅人|10 个审阅人|
+|审阅人的最大数目|10 个审阅人|10 个审阅人|10 个审阅人|10 个审阅人|10 个审阅人|10 个审阅人|
 |等待审阅的邮件的过期时间|2 天|2 天|2 天|2 天|2 天|2 天|
 |过期的审阅通知邮件的最大速率|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|
 
@@ -541,7 +541,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |:-----|:-----|:-----|:-----|:-----|
 |**功能**|**Exchange Server 2013**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |仲裁邮箱的最大大小|无限制<sup>1</sup>|10 GB|10 GB|10 GB|
-|审阅人的最大数目|无限制|10 个审阅人|10 个审阅人|10 个审阅人|
+|审阅人的最大数目|无限制|10 个审阅人|10 个审阅人|10 个审阅人|
 |等待审阅的邮件的过期时间|5 天<sup>1</sup>|2 天|2 天|2 天|
 |过期的审阅通知邮件的最大速率|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|每小时 300 个过期通知|
 
@@ -560,7 +560,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
+|**功能**|**Microsoft 365 商业基本版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |Exchange ActiveSync 设备限制|100|100|100|100|100|100|
 |Exchange ActiveSync 设备删除限制|20|20|20|20|20|20|
 
