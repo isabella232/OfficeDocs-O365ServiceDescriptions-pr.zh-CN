@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: 适用于 web 的 word （以前称为 Word Web App）将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Word for web (以前的 Word Web App) 将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131296"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616908"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 
-适用于 web 的 word （以前称为 Word Web App）将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。 
+Word for web (以前的 Word Web App) 将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。 
   
 ## <a name="alignment-guides-and-live-layout"></a>Alignment guides and live layout
 
@@ -128,17 +128,13 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
 
 索引列出文档中讨论的术语和主题，以及它们所在的页码。要创建索引，通过在文档中提供主条目和交叉引用的名称来标记索引条目，然后生成索引。
   
-## <a name="ink-editor"></a>笔迹编辑器
-
-借助笔迹编辑器，可以使用自然手势（例如，圈住以选择文本，划掉以删除文本）编辑和格式化文档。
-  
-## <a name="insert-online-pictures"></a>插入联机图片
+## <a name="insert-online-pictures"></a>Insert online pictures
 
 使用适用于 web 的 Word，可以从保存在本地硬盘驱动器或 Bing 图像中的文件插入图片。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="irm-and-password-protection"></a>IRM 和密码保护
 
-Word 的 web 显示受信息权限管理（IRM）保护的文档。 但是，不能在浏览器中编辑这些文档，也不能在 Word for web 中创建受 IRM 保护的文档。 Word for web 无法打开使用密码加密的文档。 高级文档保护功能（例如创建受 IRM 保护的文档和应用密码保护）仅在 Word 桌面应用程序中可用。
+用于 web 的 Word 显示受 "信息权限管理" (IRM) 保护的文档。 但是，不能在浏览器中编辑这些文档，也不能在 Word for web 中创建受 IRM 保护的文档。 Word for web 无法打开使用密码加密的文档。 高级文档保护功能（例如创建受 IRM 保护的文档和应用密码保护）仅在 Word 桌面应用程序中可用。
   
 ## <a name="learning-tools"></a>学习工具
 
@@ -238,7 +234,7 @@ Word 的 web 显示受信息权限管理（IRM）保护的文档。 但是，不
 
 您可以使用 Word 将文件保存或转换为 Pdf，以便您可以共享这些文件或使用专业打印机打印它们。 该过程不需要任何其他软件或外接程序。
   
-## <a name="share"></a>共享
+## <a name="share"></a>Share
 
 对于 web 上的 Word，它是一个单击过程，用于发送其他人可用于查看或编辑文档的链接。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
@@ -297,4 +293,8 @@ Word for web 为您的文档中的单词提供了粗略的字数统计。 详细
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>操作参数限制和规范
+
+有关操作参数限制的信息，请参阅[Word 中的操作参数限制和规范](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
   
