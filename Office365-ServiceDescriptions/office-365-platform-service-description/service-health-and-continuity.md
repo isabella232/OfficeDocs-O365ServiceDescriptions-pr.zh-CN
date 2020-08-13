@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理员可以查看服务的状态，并了解何时安排了维护。 服务运行状况信息随时通过登录提供。
-ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131796"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649602"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -48,7 +48,7 @@ Microsoft 管理员可以查看服务的状态，并了解何时安排了维护�
 |**2020 年** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **季** <br/> |**3** <br/> |**起** <br/> |
-| 99.98% <br/> | <br/> | <br/> |<br/> |
+| 99.98% <br/> | 99.99%<br/> | <br/> |<br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Microsoft 管理员可以查看服务的状态，并了解何时安排了维护�
 
 ## <a name="notification-policy"></a>通知策略
 
-当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新 Microsoft 365 管理中心上特定于租户的服务运行状况仪表板（SHD）来通知管理员。 服务事件更新在每小时节奏上提供，如果需要不同的节奏，则会在 SHD 通信发布中进行说明。 
+当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 在 Microsoft 365 管理中心 (SHD) 更新租户特定的服务运行状况仪表板，从而通知管理员。 服务事件更新在每小时节奏上提供，如果需要不同的节奏，则会在 SHD 通信发布中进行说明。 
   
 ## <a name="service-health-communication-channels"></a>服务运行状况的通信通道
 
@@ -103,7 +103,7 @@ Microsoft 致力于持续改进，包括分析影响客户的计划外服务事�
   
 计划外服务事件定义为影响服务使用者定义的服务使用情况的多租户服务中断，并已在服务运行状况仪表板中声明为这样。
   
- 对于在大量组织中有广泛且显著影响的未计划客户影响的服务事件，在事件解决的48小时内，将通过您的服务运行状况仪表板（PIR）提供初步的后期事件检查（），后跟五个工作日内的最终 PIR。 详细的 PIR 报告包括： 
+ 对于在大量组织中有广泛且显著影响的未计划客户影响的服务事件，在事件解决的48小时内，将通过您的服务运行状况仪表板 (PIR) 提供初步的后续审核，并在五个工作日内完成最终 PIR。 详细的 PIR 报告包括： 
   
 - 用户体验和客户影响
     
@@ -119,7 +119,7 @@ Microsoft 致力于持续改进，包括分析影响客户的计划外服务事�
 
 Microsoft 产品通过高度强健的系统提供，可帮助保持最佳服务性能。 服务连续性设置是系统设计的一部分。 这些设置使 Microsoft 能够快速从意外事件（如硬件或应用程序故障、数据损坏或其他影响用户的事件）进行恢复。 这些服务连续性解决方案还适用于灾难性中断（例如，自然灾害或 Microsoft 数据中心内的事件导致整个数据中心无法运营）。
   
-请注意，从灾难性故障恢复后，可能需要经过一段时间才能还原服务的完整数据中心冗余。 例如，如果数据中心 1 出现故障，则服务通过数据中心 2 的资源进行还原。 不过，可能需要经过一段时间，数据中心 2 中的服务才会获得服务连续性支持（要么通过数据中心 1 中已还原的资源获得，要么通过数据中心 3 中的新资源获得）。 在此期间应用 Microsoft[服务级别协议](service-level-agreement.md)（SLA）。 由世纪互联运营的 Office 365 具有不同的 SLA。 有关详细信息，请访问 [世纪互联网站](https://www.21vbluecloud.com/office365/O365-SLA/)。 
+请注意，从灾难性故障恢复后，可能需要经过一段时间才能还原服务的完整数据中心冗余。 例如，如果数据中心 1 出现故障，则服务通过数据中心 2 的资源进行还原。 不过，可能需要经过一段时间，数据中心 2 中的服务才会获得服务连续性支持（要么通过数据中心 1 中已还原的资源获得，要么通过数据中心 3 中的新资源获得）。 在这段时间，Microsoft[服务级别协议](service-level-agreement.md) (SLA) 适用。 由世纪互联运营的 Office 365 具有不同的 SLA。 有关详细信息，请访问 [世纪互联网站](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="ensuring-data-availability"></a>确保数据可用性
 
