@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在寻找包括 Exchange Online 的订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315373"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337858"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -198,9 +198,9 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 <sup>21</sup> 该表指示客户端是否与关联的计划一起使用。 这并不意味着购买这些计划时必须包括客户端。 <br/>
 <sup>22</sup> 有关详细信息，请参阅 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> 对第三方 PBX 系统的 EXCHANGE Online UM 支持通过从客户操作的直接连接到2019年4月结束。 有关详细信息，请参阅 exchange team 博客 [终止支持 Exchange Online 统一消息中的会话边界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) 。 <br/>
-<sup>24</sup> ： F3 用户不能向自己的邮箱中添加委派，但可以访问另一个邮箱 (包括共享邮箱) 并执行已委派给它们的任何操作。
+<sup>24</sup> ： F3 用户不能向自己的邮箱中添加委派，但可以访问另一个邮箱 (包括共享邮箱) 并执行已委派给它们的任何操作。<br/>
 <sup>25</sup> exchange server 2013 和 exchange server 2016 也需要对适用于企业的 Microsoft 365 应用程序进行订阅。
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>跨 Exchange Online 独立计划的功能可用性
 
 |**功能**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
@@ -282,6 +282,7 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 |SMTP|是|是|是|是|是|
 |EWS 应用程序支持|是|是|是|是|否|
 |Outlook for Mac|是|是|是|是|否|
+|Outlook for iOS 和 Outlook for Android<sup>21</sup>|是<sup>25</sup>|是<sup>25</sup>|是|是|是|
 |**[语音消息服务](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online 计划 1**|**Exchange Online 计划 2**|**Exchange Online Kiosk**|
 |语音邮件|是|是|否|是|否|
 |第三方语音邮件互操作性|是|是|是|是|是|
@@ -330,4 +331,5 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 <sup>21</sup> 某些第三方 web 部件和外接程序可能不可用。 <br/>
 <sup>22</sup> 对于电子数据展示，您需要对本地和云使用单独的查询。 <br/>
 <sup>23</sup> Exchange Online 展台不提供对本地服务器的使用的访问权限。 为了遵从相关规定，客户必须购买或之前已购买相应的 CAL，或升级至提供这些访问权限的企业版 SKU。 <br/>
-<sup>24</sup> 个可用的功能更少的 Microsoft 365 组。
+<sup>24</sup> 个可用的功能更少的 Microsoft 365 组。<br/>
+<sup>25</sup> exchange server 2013 和 exchange server 2016 也需要对适用于企业的 Microsoft 365 应用程序进行订阅。
