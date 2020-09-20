@@ -6,23 +6,22 @@ ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
-ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分发、隐私和先决条件
-ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dc92292e5211324a761714544abe381e48c05418
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132426"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134019"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服务说明
 
-MyAnalytics 总结了您在工作中花费的时间，并提出了更聪明的工作方式。 MyAnalytics 通过可在 Microsoft Outlook 中或通过 web 浏览器访问的[元素](#elements)提供这些见解。
+MyAnalytics 总结了您在工作中花费的时间，并提出了更聪明的工作方式。 MyAnalytics 通过可在 Microsoft Outlook 中或通过 web 浏览器访问的 [元素](#elements) 提供这些见解。
 
-MyAnalytics 的一些元素将自动提供给各种 Office 365 计划的用户。 若要了解哪些元素包含在 Office 365 和 Microsoft 365 计划中，请参阅[MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。  
+MyAnalytics 的一些元素将自动提供给各种 Office 365 计划的用户。 若要了解哪些元素包含在 Office 365 和 Microsoft 365 计划中，请参阅 [MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。  
 
-MyAnalytics 以保护员工隐私的方式处理信息。 有关详细信息，请参阅[Data 隐私声明](#data-privacy)。
+MyAnalytics 以保护员工隐私的方式处理信息。 有关详细信息，请参阅 [Data 隐私声明](#data-privacy)。
 
 ## <a name="elements"></a>元素
 
@@ -45,7 +44,7 @@ MyAnalytics 包含以下元素：
 * MyAnalytics 和 Delve 是没有相互依赖关系的独立应用程序。
 * MyAnalytics 提醒用户其数据是安全的私有数据。
 
-有关详细信息，请参阅[MyAnalytics 隐私声明指南](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)。
+有关详细信息，请参阅 [MyAnalytics 隐私声明指南](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide)。
 
 [了解有关 MyAnalytics 如何帮助您更智能地工作的详细信息](https://products.office.com/business/myanalytics-personal-analytics)。
 

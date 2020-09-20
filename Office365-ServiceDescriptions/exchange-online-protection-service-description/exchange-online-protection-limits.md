@@ -11,21 +11,23 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Exchange Online Protection 当前存在以下限制。 除非另行指定，否则无法配置这些限制。
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133006"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134049"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
 Exchange Online Protection 当前存在以下限制。 除非另行指定，否则无法配置这些限制。 
   
 > [!TIP]
-> 有关 Exchange Online 中的限制的详细信息，请参阅[Exchange online 限制](../exchange-online-service-description/exchange-online-limits.md)。 传输规则限制也适用于 EOP 独立客户。 Exchange Online 的收件人比率和邮件比率限制不适用于 EOP 独立客户。 
+> 有关 Exchange Online 中的限制的详细信息，请参阅 [Exchange online 限制](../exchange-online-service-description/exchange-online-limits.md)。 传输规则限制也适用于 EOP 独立客户。 Exchange Online 的收件人比率和邮件比率限制不适用于 EOP 独立客户。 
   
 - **域限制** 最多可以为每个租户添加 900 个域。这 900 个域的限制包含子域，也可以根据需要使用笼统选项对子域进行匹配。有关详细信息，请参阅 [在 EOP 中管理接受的域](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
+
+- **远程域限制** 您最多可以为每个租户添加200个远程域。
     
 - **邮件大小限制** EOP 独立客户的邮件大小上限（包括附件）为 150 MB。 
     
@@ -35,13 +37,13 @@ Exchange Online Protection 当前存在以下限制。 除非另行指定，否�
     
 - **IP 允许列表或 IP 阻止列表限制** 在连接筛选器中配置 IP 允许列表或 IP 阻止列表时，您最多可以指定 1273 个条目，每个条目可以是单个 IP 地址或从 /24 到 /32 的 IP 地址的 CIDR 范围。 
     
-- **邮件延迟限制**延迟中的邮件将保留在队列中24小时之内。 重试发送邮件的依据为从收件人的邮件系统收到的错误类型。 邮件每 15 分钟重试一次。 
+- **邮件延迟限制** 延迟中的邮件将保留在队列中24小时之内。 重试发送邮件的依据为从收件人的邮件系统收到的错误类型。 邮件每 15 分钟重试一次。 
     
-- **垃圾邮件隔离保留期**默认情况下，发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
+- **垃圾邮件隔离保留期** 默认情况下，发送到隔离的垃圾邮件将保留30天。 管理员可通过内容筛选器策略降低此值。 
     
 - **最终用户的垃圾邮件隔离通知** 默认情况下，如果启用，最终用户垃圾邮件隔离通知将每 3 天发送一次。它们可以配置为每 1 至 15 天发送一次。 
     
-- **报告和邮件跟踪限制**有关报告和邮件跟踪限制，请参阅[Exchange Online Protection 中的报告和邮件跟踪](https://go.microsoft.com/fwlink/?LinkId=394248)中的 "报告和邮件跟踪数据可用性和延迟" 部分。
+- **报告和邮件跟踪限制** 有关报告和邮件跟踪限制，请参阅 [Exchange Online Protection 中的报告和邮件跟踪](https://go.microsoft.com/fwlink/?LinkId=394248)中的 "报告和邮件跟踪数据可用性和延迟" 部分。
     
 ### <a name="limits-across-eop-options"></a>各个 EOP 选项的限制
 

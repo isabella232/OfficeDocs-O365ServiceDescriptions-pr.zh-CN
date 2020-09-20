@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一种基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318939"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134039"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
-Microsoft Office 365 高级威胁防护 (ATP) 是一种基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。 ATP 具有丰富的报告功能和 URL 跟踪功能，可让管理员了解组织中发生的攻击种类。
+Microsoft Office 365 高级威胁防护 (ATP) 是一种基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。 ATP 拥有各种报告和 URL 跟踪功能，可以让管理员深入了解组织中发生的攻击类型。
 
 以下是你可以使用 ATP 进行邮件保护的主要方式：
 
@@ -111,13 +111,13 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 
 [ATP 安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次选择链接时，将继续提供保护，因为会在访问良好的链接时动态地阻挡恶意链接。
 
-安全链接可用于以下应用程序中的 Url：
+安全链接可用于以下应用中的 URL：
 
 - 适用于 Windows 或 Mac 的 Microsoft 365 企业版应用程序
 
-- Office for web (Word for web、适用于 web 的 Excel、PowerPoint for web 以及适用于 web 的 OneNote) 
+- Office web 版（Word 网页版、Excel 网页版、PowerPoint 网页版、OneNote 网页版）
 
-- Windows 上的 Word、Excel、PowerPoint 和 Visio，以及 iOS 和 Android 设备上的 Office 应用
+- Windows 上的 Word、Excel 和 PowerPoint
 
 - Microsoft Teams 频道和聊天
 
