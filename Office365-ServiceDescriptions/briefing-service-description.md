@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: 简报电子邮件可帮助用户每天进行最多工作。 它标识了各种元素的商机，并提供及时提醒。
-ms.openlocfilehash: 57d12fa0edd5f91184084c3c6e49e16266ff7bf4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 06509aafad67451fb1f75d15649351ec2101689a
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134029"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170527"
 ---
 # <a name="briefing-email-service-description"></a>电子邮件服务说明简介
 

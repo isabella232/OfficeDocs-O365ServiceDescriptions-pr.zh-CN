@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 高级威胁防护 (ATP) 是一种基于云的电子邮件筛选服务，通过提供强健的零天保护来帮助您的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害链接的功能。
-ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134039"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170537"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 高级威胁防护服务说明
 
@@ -94,6 +94,7 @@ ATP 可以与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）�
 |威胁调查 (高级威胁调查) |[实时检测](#real-time-detections)|[资源管理器](#explorer)|[资源管理器](#explorer)|
 |[自动化事件响应](#automated-incident-response)|否|是|是|
 |[攻击模拟器](#attack-simulator)|否|是|是|
+|*与 Microsoft 威胁防护的集成*|否|否|是|
 
 > [!TIP]
 > 想要一个可下载的 Office 365 ATP 计划1与计划2之间的差异列表吗？ [获取 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。 
