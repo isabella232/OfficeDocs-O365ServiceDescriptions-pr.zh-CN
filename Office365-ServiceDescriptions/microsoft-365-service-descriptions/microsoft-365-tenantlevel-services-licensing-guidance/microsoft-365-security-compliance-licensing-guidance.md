@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798378"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214381"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -27,7 +27,7 @@ ms.locfileid: "46798378"
 
 若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
 
 Azure Active Directory 标识保护是 Azure Active Directory 高级 P2 认证计划的一项功能，可让您检测到影响组织标识的潜在漏洞，并将自动响应配置为检测到的与您的组织的身份相关的可疑操作，并调查可疑事件并采取适当的措施来解决这些问题。
 
@@ -148,6 +148,32 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 管理员可以使用服务中提供的作用域部署功能将 MCAS 部署限定为许可用户。 有关详细信息，请参阅 [作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
+## <a name="compliance-manager"></a>合规性管理器
+
+通过合规性管理器简化合规性并降低风险。 合规性管理器可帮助组织满足法规、标准、公司策略或其他所需控制框架的要求。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+以下是用户对合规性管理器服务的好处：
+
+- 将复杂的法规、标准、公司策略或其他所需的控制框架转换为简单语言
+- 提供对广泛的现成评估和自定义评估库的访问权限，以满足独特的合规性需求
+- 将规章控制映射到建议的改进操作
+- 提供有关如何实施解决方案以满足管理法规要求的分步指南
+- 帮助用户通过将分数与每个操作相关联来确定对组织合规性影响最大的操作。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
+
+具有 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 许可证的客户将能够访问数据保护基准评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 22701 开箱即用评估。 高级评估版将适用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+默认情况下，合规性管理器是为你的租户设置的。 管理员设置用户权限并分配角色，以便组织中的非管理员用户可以开始使用合规性管理器。 有关详细信息，请参阅 [文档](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+对合规性管理器的访问权限是通过设置用户权限和分配角色来控制的。 有关详细信息，请参阅 [文档](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护; (EDR) 的终结点检测和响应自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 页面。
@@ -227,11 +253,11 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，在租户级别为租户中的所有用户启用信息管理功能。 有关配置信息管理以将自动标记和策略应用于许可用户的信息，请参阅 [管理信息治理](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)。
+默认情况下，在租户级别为租户中的所有用户启用信息管理功能。 有关配置信息管理以将 autolabeling 和策略应用于许可用户的信息，请参阅 [管理信息治理](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-信息治理功能可应用于特定位置 (工作组网站、组网站等等 ) 的许可用户。 有关配置信息管理以将自动标记和策略应用于许可用户的信息，请参阅 [管理信息治理](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)。
+信息治理功能可应用于特定位置 (工作组网站、组网站等等 ) 的许可用户。 有关配置信息管理以将 autolabeling 和策略应用于许可用户的信息，请参阅 [管理信息治理](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)。
 
 ## <a name="records-management"></a>记录管理
 
@@ -256,6 +282,61 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 记录管理功能可应用于特定位置 (工作组网站、组网站等等 ) 的许可用户。 有关配置要应用于许可用户的记录管理的信息，请参阅 [Microsoft 365 中的记录管理](https://docs.microsoft.com/microsoft-365/compliance/records-management)。
+
+## <a name="data-connectors"></a>数据连接器 
+
+Microsoft 提供可在 Microsoft 365 合规性中心中配置的第三方数据连接器。 有关由 Microsoft 提供的数据连接器的列表，请参阅 [第三方数据连接器](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) 表。 此表还概述了在 Microsoft 365 中导入和存档数据后，您可以应用于第三方数据的合规性解决方案，并提供了有关每个连接器的分步说明的链接。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+使用数据连接器在 Microsoft 365 中导入和存档第三方数据的主要好处在于，在导入后，可以将各种 Microsoft 365 合规性解决方案应用于该解决方案。 这有助于确保贵组织的非 Microsoft 数据符合影响组织的法规和标准。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
+
+以下许可证为用户提供了从数据连接器获益的权限：
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 Info Protection & 调控
+- Microsoft 365 E5/A5 合规性
+- Microsoft 365 E5/A5 内幕人士风险管理 
+- Microsoft 365 E5/A5 电子数据展示和审核 
+- Office 365 E5/A5
+- Office 365 高级合规版
+
+对于由 Microsoft 合作伙伴提供的 M365 Security & 合规中心中的数据连接器，贵组织将需要与合作伙伴建立业务关系，然后才能部署这些连接器。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+连接器是使用安全 & 合规中心和连接器目录配置的。
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+数据连接器服务是租户级别的值。 每个旨在受益于此服务的用户都必须获得许可。
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>适用于团队 DLP 的 Microsoft Graph Api
+
+在今年早些时候 [，我们宣布了 Microsoft Graph 更改通知 API 的公共预览，用于团队中的邮件](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages)。 通过此 API，开发人员可以生成可实时收听 Microsoft 团队邮件的应用程序，并为客户和 Isv 启用 DLP 方案实现。 此外，Microsoft Graph 修补程序 API 还允许对工作组邮件应用 DLP 操作。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+[数据丢失防护 (DLP) ](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) 功能在 Microsoft 团队中广泛使用，尤其是在组织已移动到远程工作时。 如果你的组织拥有 DLP，你现在可以定义策略，以防止用户在 Microsoft 团队频道或聊天会话中共享敏感信息。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
+
+你将需要以下 E5 许可证之一，以支持数据丢失防护 (DLP) protection 在团队聊天中：
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 合规性
+- Microsoft 365 E5/A5 信息保护和治理
+- Office 365 E5/A5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+API 访问是在租户级别配置的。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+适用于团队 DLP 的 Microsoft Graph API 是租户级别值。 每个旨在受益于此服务的用户都必须获得许可。
 
 ## <a name="ediscovery"></a>电子数据展示
 
@@ -533,9 +614,13 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性和 Microsoft 365 内幕风�
 
 Microsoft 365 中的高级审核为用户和管理员活动提供了为期一年的审核日志保留，并提供了创建自定义审核日志保留策略以管理其他 Microsoft 365 服务的审核日志保留的功能。 此外，它还提供对 Office 365 管理活动 API 的调查和高带宽访问的关键事件的访问。 有关详细信息，请参阅 [Microsoft 365 中的高级审核](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)。
 
+您还可以使用附加 SKU 为10年启用保留期。 将需要在2021早些时候启动附加 SKU。
+
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
 Office 365 E5、Microsoft 365 E5、Microsoft 365 E5 合规性和 Microsoft 365 电子数据展示和审核的许可用户可从高级审核中受益。
+
+具有高级审核的许可用户和为期10年的审核日志保留加载项可以从10年审核日志保留中受益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -543,8 +628,10 @@ Office 365 E5、Microsoft 365 E5、Microsoft 365 E5 合规性和 Microsoft 365 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，在租户级别为拥有 Office 365 或 Microsoft 365 E5 订阅的所有组织启用高级审核，并自动为用户在 Azure Active Directory、Exchange 和 SharePoint 中具有相应许可证) 的用户执行的 (活动提供一年审核日志保留。 此外，组织可以使用审核日志保留策略来管理其他 Microsoft 365 服务中的活动生成的审核记录的保留期。 有关详细信息，请参阅[管理审核日志保留策略](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
+默认情况下，在租户级别为拥有 Office 365 或 Microsoft 365 E5 订阅的所有组织启用高级审核，并自动为用户在 Azure Active Directory、Exchange 和 SharePoint 中具有相应许可证) 的用户执行的 (活动提供一年审核日志保留。 此外，组织可以使用审核日志保留策略来管理其他 Microsoft 365 服务中的活动生成的审核记录的保留期。 还可以使用相同的保留策略启用10年审核日志保留功能。 有关详细信息，请参阅[管理审核日志保留策略](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 审核日志的一年保留时间和关键事件的审核仅适用于具有相应许可证的用户。 此外，管理员还可以使用审核日志保留策略为特定用户的审核日志指定较短的保留期限。
+
+10年的审核日志保留仅适用于具有相应加载项许可证的用户。 将需要在2021早些时候启动附加 SKU。
