@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商业高级版是一个集成的解决方案，通过高级安全性和设备管理功能将一流的工作效率结合在一起，以帮助保护您的业务。 此服务说明介绍了计划选项和功能。
-ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
-ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
+ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947826"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245707"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商业高级版服务说明
 
@@ -22,11 +22,10 @@ Microsoft 365 商业高级版是一个集成的解决方案，将 Microsoft 365 
   
 ## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>跨 Microsoft 365 商业标准和 Microsoft 365 商业高级版计划的功能可用性
 
-Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供的所有功能以及其他 Microsoft 安全功能。
+Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供的所有功能以及其他 Microsoft 安全功能。<br><br>
 
-||||
+| 计划选项 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 |
 |:-----|:-----|:-----|
-|**计划选项** <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |
 |Office 365 平台  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |是  <br/> |是  <br/> |
@@ -86,9 +85,6 @@ Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供
 |使用 Azure AD 加入的 Windows 10 企业版状态漫游  <br/> |否  <br/> |是  <br/> |
 |自助服务 BitLocker 恢复  <br/> |否  <br/> |是  <br/> |
 |Windows 虚拟桌面 <br/> |否 <br/> |是 <br/> |
-
-|||
-|:-----|:-----|
 |**Windows 10 专业版管理** <br/>如果你有适用于 Windows 7 和8.1 专业人员的设备，Microsoft 365 商业高级版将提供升级到 Windows 10 专业版的<sup>许可证。</sup> <br/>|**Microsoft 365 商业高级版** <br/> |
 |使用 Windows AutoPilot 进行简化部署  <br/> |是  <br/> |
 |订阅激活  <br/> |是  <br/> |

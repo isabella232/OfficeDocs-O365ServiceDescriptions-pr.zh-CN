@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214381"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245727"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -168,11 +168,11 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，合规性管理器是为你的租户设置的。 管理员设置用户权限并分配角色，以便组织中的非管理员用户可以开始使用合规性管理器。 有关详细信息，请参阅 [文档](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)。
+默认情况下，合规性管理器是为你的租户设置的。 管理员设置用户权限并分配角色，以便组织中的非管理员用户可以开始使用合规性管理器。 有关详细信息，请参阅 [合规性管理器入门：设置用户权限和分配角色](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-对合规性管理器的访问权限是通过设置用户权限和分配角色来控制的。 有关详细信息，请参阅 [文档](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+对合规性管理器的访问权限是通过设置用户权限和分配角色来控制的。 有关详细信息，请参阅 [合规性管理器入门：设置用户权限和分配角色](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)。
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -489,11 +489,11 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-当限制用户与其他人通信时，他们将受益于信息障碍的高级合规性功能。 例如：
+当限制用户与其他人通信时，他们将受益于信息障碍的高级合规性功能。 例如：<br><br>
 
 | 方案 | 需要许可证的是谁？ |
-|:-------|:------|
-|  (组1和组 2) 的两个组无法相互通信 (也就是说，组1用户限制为与组2用户通信，而组2用户限制与组1用户通信。 | 组1和组2中的用户 ||
+|:------|:------|:------|
+|  (组 &nbsp; 1 和组 &nbsp; 2) 的两个组无法相互通信 (也就是说，组 &nbsp; 1 用户限制为与组 &nbsp; 2 用户通信，而组 &nbsp; 2 用户限制与组 &nbsp; 1 用户通信。 | 组 &nbsp; 1 和组2中的 &nbsp; 用户 |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
