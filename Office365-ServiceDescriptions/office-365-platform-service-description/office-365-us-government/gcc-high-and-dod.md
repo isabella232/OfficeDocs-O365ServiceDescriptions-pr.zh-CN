@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 了解与 Office 365 商业环境相比的 Office 365 GCC 高和 DoD 环境的独特承诺和差异。
-ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214331"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261514"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC 高和 DoD
 
@@ -22,9 +22,9 @@ ms.locfileid: "48214331"
   
 与你的帐户团队或首选合作伙伴联系，了解详细信息或启动验证流程。 有关如何购买的详细信息，请参阅 [Microsoft 365 政府-如何购买](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。
   
-## <a name="how-to-use-this-service-description-section"></a>"如何使用此服务说明" 部分
+## <a name="how-to-use-this-service-description"></a>如何使用本服务说明
 
-Office 365 美国政府版服务说明旨在用作常规 Office 365 服务说明的覆盖。 它定义了唯一承诺以及与 Office 365 企业版产品的差异。
+Office 365 美国政府版服务说明旨在用作常规 Office 365 服务说明的覆盖。 它定义了与 Office 365 for enterprise 产品相比的独特承诺和差异。
   
 ## <a name="compliance"></a>合规性
 
@@ -38,11 +38,10 @@ Office 365 的国防部订阅者将从符合 DOD SRG L5 的 DOD 独家环境中�
   
 ## <a name="background-screening"></a>后台筛选
 
-Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任何请求临时权限提升（以授予客户内容访问权限）的人员都必须先通过以下背景检查。
+Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任何请求临时权限提升（以授予客户内容访问权限）的人员都必须先通过以下背景检查。<br><br>
   
-|||
+| Microsoft 人员筛选和背景检查<sup>1</sup> | Description |
 |:-----|:-----|
-|**Microsoft 人员筛选和背景检查**<sup>1</sup> <br/> |**说明** <br/> |
 |美国公民身份  <br/> |核实美国公民身份  <br/> |
 |工作经历调查  <br/> |核实七 (7) 年的工作经历  <br/> |
 |核实教育背景  <br/> |核实最高学历  <br/> |
@@ -78,7 +77,7 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**通过直接路由)  (的电话系统和音频会议 **：通过直接路由传递针对 GCC 高和 DoD 环境的电话系统和音频会议。 有关详细信息，请参阅此处的服务级别文档：
+**通过直接路由) 的电话系统和音频会议 (** -通过直接路由传递针对 GCC 高和 DoD 环境的电话系统和音频会议。 有关详细信息，请参阅此处的服务级别文档：
 
 - [通过直接路由的电话系统](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [适用于 GCC High 和 DoD 且含直接路由的音频会议](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
@@ -89,7 +88,7 @@ Office 365 员工不具有对 GCC 高和 DoD 生产的长期访问权限。 任�
   
 ### <a name="yammer"></a>Yammer
 
-Yammer Enterprise 在 GCC 高和 DoD 环境中不可用。
+适用于 enterprise 的 Yammer 在 GCC 高和 DoD 环境中不可用。
   
 ## <a name="customer-support"></a>客户支持
 

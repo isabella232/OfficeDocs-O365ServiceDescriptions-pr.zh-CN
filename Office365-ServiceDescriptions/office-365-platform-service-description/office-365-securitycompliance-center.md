@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300526"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261594"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -27,9 +27,8 @@ ms.locfileid: "47300526"
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;商业和企业版计划的安全合规性中心可用性
 
-|||||||||
+| 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1，Office 365 美国政府版 G1 | Office 365 E3，Office 365 美国政府版 G3 | Office 365 E5 | Office 365 F3，Office 365 美国政府 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**  |**Microsoft 365 商业基础版**  |**Microsoft 365 商业标准版**  |**Microsoft 365 商业高级版**  |**Office 365 企业版 E1**， **Office 365 美国政府版 G1**  |**Office 365 企业版 E3**， **Office 365 美国政府版 G3**  |**Office 365 企业版 E5**  |**Office 365 企业版 f3**  **Office 365 美国政府 F3**|
 |[对安全合规中心的访问权限 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否|否   |否   |是   |
 |邮件筛选和反恶意软件等[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) |是   |是   |是   |是   |是   |是   |是   |
@@ -57,7 +56,6 @@ ms.locfileid: "47300526"
 |[Office 365 高级邮件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |否 |是   |否   |
 |[特权访问管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |否   |是   |否   |
 |[客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |否   |否   |否   |否   |否   |是   |否   |
-|||||||||
 
 <sup>1</sup> 信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。 这些功能在 E3 和 E5 中可用，在 E1 中仅具有有限的可用性。 有关 E1、E3 和 E5 中提供的功能的完整列表，请参阅详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ ms.locfileid: "47300526"
 
 <sup>5</sup> 美国和西欧 (荷兰) 地区支持高级电子数据展示。 从加拿大和亚太地区 (客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 ) 
 
-<sup>6</sup> office 365 企业版 E5 中提供了高级威胁防护，作为 Office 365 企业版 E1 和 Office 365 企业版 E3 的独立服务。
+<sup>6</sup> Office 365 E5 中提供了高级威胁防护，作为 Office 365 E1 和 Office 365 E3 的独立服务。
 
 <sup>7</sup> 包括存储在 Microsoft 团队存储库中的文件。
 
@@ -87,9 +85,8 @@ ms.locfileid: "47300526"
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;独立计划的安全合规性中心可用性
 
-|||||||||
+| 功能 | Exchange Online 计划 1 | Exchange Online 计划 2 | Exchange Online Kiosk | SharePoint Online 计划 1 | SharePoint Online 计划 2 | OneDrive for Business 计划 1 | OneDrive for Business 计划 2 | Skype for Business Online 计划 1 | Skype for Business Online 计划 2|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**功能**  |**Exchange Online 计划 1**  |**Exchange Online 计划 2**  |**Exchange Online Kiosk**  |**SharePoint Online 计划 1**  |**SharePoint Online 计划 2**  |**OneDrive for Business 计划 1** |**OneDrive for Business 计划 2** |**Skype for Business Online 计划 1**  |**Skype for Business Online 计划 2**  |
 |[对安全合规中心的访问权限 &amp;](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |否   |否   |否   |否   |否   |否   |否   |否   |是   |
 |[威胁管理](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)，如邮件筛选和反恶意软件   |是   |是   |是   |是   |是   |是   |是   |是   |是   |
@@ -113,7 +110,6 @@ ms.locfileid: "47300526"
 |[Office 365 邮件加密 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |是   |否   |否|否|否|
 |[Office 365 高级邮件加密](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |是   |否   |否|否|否|
 |[特权访问管理](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |是   |否   |否|否|否|
-|||||||||
 
 <sup>1</sup> 信息管理允许用户创建、发布并手动将标签应用于文档;使用驱动器传送或通过网络导入数据。 这些功能在 E3 和 E5 中可用，在 E1 中仅具有有限的可用性。 有关 E1、E3 和 E5 中提供的功能的完整列表，请参阅详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ ms.locfileid: "47300526"
 
 <sup>4</sup> Skype 对话作为邮箱的一部分存储。
 
-<sup>5</sup> 高级电子数据展示需要 Office 365 企业版 E5 或附加许可证。
+<sup>5</sup> 高级电子数据展示需要 Office 365 E5 或附加许可证。
 
 <sup>6</sup> Skype 存档在用户邮箱中。
 
