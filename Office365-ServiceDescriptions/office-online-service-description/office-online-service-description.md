@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616918"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276785"
 ---
 # <a name="office-for-the-web-service-description"></a>Office 网页版服务说明
 
 Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office for web 使其更易于工作，并从几乎所有设备与 internet 连接共享 Office 文件。 使用 Word、Excel、OneNote 或 PowerPoint 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。 
   
-若要跨计划比较功能，请参阅[强大的工具来支持您的企业](https://products.office.com/business/compare-more-office-365-for-business-plans)。
+若要跨计划比较功能，请参阅 [强大的工具来支持您的企业](https://products.office.com/business/compare-more-office-365-for-business-plans)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>跨 Office 提供的 web 计划的功能可用性
 
-需要帮忙确定最适合你组织的 Office 解决方案吗？ 下表比较了 Office for web 功能和功能丰富的 Microsoft Office 桌面应用程序的功能。 使用表来发现 Office for web 中可用的功能，然后选择功能名称，以阅读有关该功能如何工作的简短说明。 您可能会发现，贵组织中的某些人需要 Excel 桌面应用程序的高级图表功能，而其他人只需要查看和编辑 web Office 中的 Word 文档和 PowerPoint 演示文稿。 
+在找出最适合您的组织的 Office 解决方案时，需要帮助？ 下表比较了 Office for web 功能和功能丰富的 Microsoft Office 桌面应用程序的功能。 使用表来发现 Office for web 中可用的功能，然后选择功能名称，以阅读有关该功能如何工作的简短说明。 您可能会发现，贵组织中的某些人需要 Excel 桌面应用程序的高级图表功能，而其他人只需要查看和编辑 web Office 中的 Word 文档和 PowerPoint 演示文稿。 
   
 > [!NOTE]
 >  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。<br/>  适用于企业的 microsoft Microsoft 365 应用是最新 Office 桌面套件的月度订阅。 <br/>  Microsoft Office Online Server 内部部署客户在购买了 office 桌面套件许可证 (（如 Office Professional Plus、Office Standard 或 Microsoft 365 Apps for enterprise license) ）后获取 Office for web 编辑许可证。 
@@ -36,10 +36,9 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
   
 ### <a name="word"></a>Word
 
-||||
+| 应用程序功能 | Word 网页版 | Word 桌面应用 |
 |:-----|:-----|:-----|
-|**应用程序功能** <br/> |**Word 网页版** <br/> |**Word 桌面应用** <br/> |
-|[对齐参考线和实时布局](word-online.md#alignment-guides-and-live-layout) <br/> |否  <br/> |是  <br/> |
+|[Alignment guides and live layout](word-online.md#alignment-guides-and-live-layout) <br/> |否  <br/> |是  <br/> |
 |[应用样式](word-online.md#apply-styles) <br/> |是  <br/> |是  <br/> |
 |[自动保存](word-online.md#autosave) <br/> |是  <br/> |是  <br/> |
 |[自动图文集](word-online.md#autotext) <br/> |是  <br/> |是  <br/> |
@@ -107,14 +106,13 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 |[缩放](word-online.md#zoom) <br/> |是  <br/> |是  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>这些呈现在查看器中，但不能在 Office for web 中创建或编辑它们。 <br/>
+> <sup>1</sup> 这些呈现在查看器中，但不能在 Office for web 中创建或编辑它们。 <br/>
 > <sup>2</sup> 某些（并非所有）Office 外接程序可用。 <br/>
   
 ### <a name="excel"></a>Excel
 
-||||
+| 应用程序功能 | Excel 网页版 | Excel 桌面应用 |
 |:-----|:-----|:-----|
-|**应用程序功能** <br/> |**Excel 网页版** <br/> |**Excel 桌面应用** <br/> |
 |[辅助功能检查器](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
 |[向工作表选项卡添加背景色](excel-online.md#add-background-color-to-sheet-tabs) <br/> |是  <br/> |是  <br/> |
 |[添加超链接](excel-online.md#add-hyperlinks) <br/> |是  <br/> |是  <br/> |
@@ -156,7 +154,7 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 |[合并单元格](excel-online.md#merge-cells) <br/> |是  <br/> |是  <br/> |
 |[命名区域](excel-online.md#named-ranges) <br/> |是  <br/> |是  <br/> |
 |[数值格式](excel-online.md#number-formatting) <br/> |是  <br/> |是  <br/> |
-|[Office 加载项](excel-online.md#office-add-ins) <br/> |是<sup>5</sup>  <br/> |是  <br/> |
+|[Office 外接程序](excel-online.md#office-add-ins) <br/> |是<sup>5</sup>  <br/> |是  <br/> |
 |[脱机查看和创作](excel-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
 |[数据透视图](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |是<sup>1</sup>  <br/> |是  <br/> |
 |[PivotTables](excel-online.md#pivottables) <br/> |是  <br/> |是  <br/> |
@@ -189,18 +187,17 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 |[What if 分析工具](excel-online.md#what-if-analysis-tools) <br/> |否  <br/> |是  <br/> |
 
 > [!NOTE] 
-> <sup>1</sup>无法创建数据透视图，只能查看。
- <br/><sup>2</sup>根据您的环境的配置方式，在 Excel 中为 web 显示的工作簿支持某些类型的数据连接。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
- <br/><sup>3</sup>您不能在 Excel for the web 中创建或运行带有 vba 的宏，但是，您可以打开和编辑启用 VBA 的电子表格，而不删除 (或损坏) 文件中包含的 vba。
- <br/><sup>4</sup>在 Excel for web 中，最后一个已知的引用值显示在浏览器窗口中;但是，必须使用 Excel 桌面应用程序对其进行更新。 
+> <sup>1</sup> 无法创建数据透视图，只能查看。
+ <br/><sup>2</sup> 根据您的环境的配置方式，在 Excel 中为 web 显示的工作簿支持某些类型的数据连接。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
+ <br/><sup>3</sup> 您不能在 Excel for the web 中创建或运行带有 vba 的宏，但是，您可以打开和编辑启用 VBA 的电子表格，而不删除 (或损坏) 文件中包含的 vba。
+ <br/><sup>4</sup> 在 Excel for web 中，最后一个已知的引用值显示在浏览器窗口中;但是，必须使用 Excel 桌面应用程序对其进行更新。 
  <br/><sup>5</sup> 某些（并非所有）Office 外接程序可用。 
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| 应用程序功能 | OneNote 网页版 | OneNote 桌面应用 |
 |:-----|:-----|:-----|
-|**应用程序功能** <br/> |**OneNote 网页版** <br/> |**OneNote 桌面应用** <br/> |
-|[高级协作：新内容显示为未读状态](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |否  <br/> |是  <br/> |
+|[Advanced collaboration: New content shows as unread, presence](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |否  <br/> |是  <br/> |
 |[应用标记](onenote-online.md#apply-tags) <br/> |是  <br/> |是  <br/> |
 |[项目符号和编号](onenote-online.md#bullets-and-numbering) <br/> |是  <br/> |是  <br/> |
 |[剪贴板](onenote-online.md#clipboard) <br/> |是  <br/> |是  <br/> |
@@ -219,8 +216,8 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 |[墨迹：文本着色和数学、可自定义笔、绘图工具](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |否  <br/> |是  <br/> |
 |[墨迹查看](onenote-online.md#ink-viewing) <br/> |是  <br/> |是  <br/> |
 |[导航](onenote-online.md#navigation) <br/> |是  <br/> |是  <br/> |
-|[笔记本管理：跨分区/笔记本页面归档、分区重新排序、创建/删除分区组](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |是<sup>1</sup> <br/> |是  <br/> |
-|[Office 加载项](onenote-online.md#office-add-ins) <br/> |是<sup>2</sup> <br/> |是  <br/> |
+|[笔记本管理：横截面/笔记本页面归档、分区重新排序、创建/删除分区组](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |是<sup>1</sup> <br/> |是  <br/> |
+|[Office 外接程序](onenote-online.md#office-add-ins) <br/> |是<sup>2</sup> <br/> |是  <br/> |
 |[Outlook 集成（任务）](onenote-online.md#outlook-integration-tasks) <br/> |否  <br/> |是  <br/> |
 |[段落格式](onenote-online.md#paragraph-formatting) <br/> |是  <br/> |是  <br/> |
 |[图片](onenote-online.md#pictures) <br/> |是  <br/> |是  <br/> |
@@ -239,17 +236,16 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 |[查看以前的页面版本](onenote-online.md#view-previous-page-versions) <br/> |是  <br/> |是  <br/> |
 
 > [!NOTE]
-> <sup>1</sup>在 OneNote for web 中，可以移动笔记本内的分区，以及将页面从一个分区复制并粘贴到另一个分区。 
+> <sup>1</sup> 在 OneNote for web 中，可以移动笔记本内的分区，以及将页面从一个分区复制并粘贴到另一个分区。 
  <br/> <sup>2</sup> 某些（并非所有）Office 外接程序可用。 
  <br/><sup>3</sup> 虽然可以在页面或分区上执行搜索，但不能搜索整个笔记本或跨笔记本搜索（就像在桌面版中一样）。
  <br/><sup>4</sup> 在桌面版中，虽然没有"下载"选项，但可以使用"另存为"选项保存到其他位置上。 
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| 应用程序功能 | PowerPoint 网页版 | PowerPoint 桌面应用 |
 |:-----|:-----|:-----|
-|**应用程序功能** <br/> |**PowerPoint 网页版** <br/> |**PowerPoint 桌面应用** <br/> |
-|[对齐方式、项目符号、编号](powerpoint-online.md#alignment-bullets-numbers) <br/> |是  <br/> |是  <br/> |
+|[Alignment, bullets, numbers](powerpoint-online.md#alignment-bullets-numbers) <br/> |是  <br/> |是  <br/> |
 |[应用基本切换和动画](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |是<sup>1</sup> <br/> |是  <br/> |
 |[对文本、形状和图片应用多种格式](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |否  <br/> |是  <br/> |
 |[应用主题和主题变量](powerpoint-online.md#apply-themes-and-theme-variants) <br/> |是  <br/> |是  <br/> |
@@ -269,7 +265,7 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 |[插入联机视频](powerpoint-online.md#insert-online-video) <br/> |是  <br/> |是  <br/> |
 |[与 Excel 图表的集成](powerpoint-online.md#integration-with-excel-for-charts) <br/> |否  <br/> |是  <br/> |
 |[导航幻灯片浏览](powerpoint-online.md#navigation---slide-sorter) <br/> |是  <br/> |是  <br/> |
-|[Office 加载项](powerpoint-online.md#office-add-ins) <br/> |是<sup>3</sup> <br/> |是  <br/> |
+|[Office 外接程序](powerpoint-online.md#office-add-ins) <br/> |是<sup>3</sup> <br/> |是  <br/> |
 |[脱机查看和创作](powerpoint-online.md#offline-viewing-and-authoring) <br/> |否  <br/> |是  <br/> |
 |[图片裁剪](powerpoint-online.md#picture-cropping) <br/> |是  <br/> |是  <br/> |
 |[图片](powerpoint-online.md#pictures) <br/> |是  <br/> |是  <br/> |
@@ -297,14 +293,13 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
 ><sup>1</sup> PowerPoint for web 支持包含8个转换和37个动画的库。 若要扩大选择范围或创建自定义动画，请使用 PowerPoint 桌面应用程序。 
  <br/>
 <sup>2</sup> 使用的设备需要支持墨迹。 <br/> 
-<sup>3</sup> 某些（并非所有）Office 外接程序可用。 <br/>
+<sup>3</sup> 某些（并非所有） Office 外接程序可用。 <br/>
 <sup>4</sup> 虽然无法创建数据透视图或数据透视表，但可以在查看器中查看它们。 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>适用于 web 的 Office 的受支持的文件类型
 
-||||
+| 在 Word 2.0 或更高版本中创建的 Word 文档 | 查看模式 | 编辑模式 |
 |:-----|:-----|:-----|
-|**在 Word 2.0 或更高版本中创建的 Word 文档** <br/> |**查看模式** <br/> |**编辑模式** <br/> |
 |Open XML (.docx)  <br/> |是  <br/> |是  <br/> |
 |二进制 (.doc)  <br/> |是  <br/> |转换到 .docx  <br/> |
 |宏 (.docm)  <br/> |是<sup>1</sup> <br/> |是<sup>1</sup> <br/> |
@@ -329,7 +324,7 @@ Office for web (以前的 Office Web Apps) 在 web 浏览器中打开 Word、Exc
    
 > [!NOTE]
 > <sup>1</sup> 无法运行或更改宏。<br/>
-> <sup>2</sup>如果存在宏，则系统会提示用户保存删除了宏的文件副本。<br/> 
+> <sup>2</sup> 如果存在宏，则系统会提示用户保存删除了宏的文件副本。<br/> 
   
 > [!NOTE]
 > 可以在具有兼容包的 Office 2016、2013、2010、2007 或 Office 2000 及更高版本中创建较新的文件格式（如 .docx, .xlsl 和 .pptx）。 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245727"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284984"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -164,7 +164,7 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-具有 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 许可证的客户将能够访问数据保护基准评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 22701 开箱即用评估。 高级评估版将适用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。
+具有 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 许可证的客户将能够访问数据保护基准评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 22701 开箱即用评估。 客户需要至少有一个 Office 365 E5/A5 或 Microsoft 365 E5/A5 许可证，才能使用自定义评估功能。 高级评估版将适用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -174,7 +174,7 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 对合规性管理器的访问权限是通过设置用户权限和分配角色来控制的。 有关详细信息，请参阅 [合规性管理器入门：设置用户权限和分配角色](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)。
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-atp"></a>每个租户
 
 Microsoft Defender ATP 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护; (EDR) 的终结点检测和响应自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 页面。
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/AIP/AIP//？//A3/A3/G3/F1/F3/Business Premium、Enterpris
 > [!NOTE]
 > Power BI 包含在 Microsoft 365 E5/A5/G5 中;在所有其他计划中，Power BI 必须单独获得许可。
 
-Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 合规性，Microsoft 365 信息保护和治理、Office 365 E5、Office 365 高级合规性、企业移动性 + 安全 E5 和 AIP Plan 2 为用户提供了从自动敏感度标记中受益的权限。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 信息保护和治理、Office 365 E5、Office 365 高级合规性、企业移动性 + 安全 E5 和 AIP Plan 2 为用户提供了从自动敏感度标记中受益的权限。
 
 有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)不包括基于机器学习 (trainable 类元) 自动分类的权限。
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/A3 和 Office 365 E5/A5/E3/A3 为用户提供了从团队
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理、Office 365 E5/A5 和 Office 365 高级合规性为用户提供了从自动应用保留标签或策略中获益的权限。应用默认保留标签或策略，基于自定义事件启动保留期的保留期，在标签保留期结束时触发手动处置评审，通过本机数据连接器导入第三方数据，将文件声明为记录，发现已标记的内容，并监视标记活动。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了为基于 trainable 分类程序自动应用保留标签而受益的权限。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护和治理为用户提供了从基于 trainable 分类程序自动应用保留标签中获益的权限。
 
 有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护
 
 Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理，Office 365 E5/A5，Office 365 高级合规性为用户提供了从记录管理中受益的权限，包括将项目声明为记录、自动应用保留或记录标签和执行处置审核流程 (排除基于 trainable 的分类程序) 自动应用保留标签。
 
-Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microsoft 365 信息保护和治理为用户提供了从基于 trainable 分类程序自动应用保留或记录标签的好处。
+Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护和治理为用户提供了从基于 trainable 分类程序自动应用保留或记录标签方面的好处的权限。
 
 有关许可证的具体权限，请参阅详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
