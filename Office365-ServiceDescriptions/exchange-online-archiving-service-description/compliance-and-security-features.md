@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 阅读本文，了解 Microsoft Exchange Online 存档中提供的合规性功能。
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132736"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293618"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能和安全功能
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能
 
-以下部分介绍了 Microsoft Exchange Online Archiving 的合规性功能。
+本文介绍了 Microsoft Exchange Online 存档的合规性功能。
   
 ### <a name="retention-policies"></a>保留策略
 
@@ -31,7 +32,7 @@ Exchange Online Archiving 提供两种策略：存档和删除。这两种策略
   
 在 Outlook 2010 及更高版本和 web 上的 Outlook 中，用户可以将保留策略应用到文件夹、对话或单个邮件，还可以查看已应用的保留策略和邮件的预期删除日期。 其他电子邮件客户端的用户可根据管理员设置的服务器端保留策略删除或存档电子邮件，但他们的可见性和控制级别并不相同。
   
-Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 (SP2) 及更高版本中提供的保留策略功能相同。管理员可以管理本地 Exchange Server 2010 及更高版本环境中的保留策略。托管文件夹是 Exchange 2007 中引入的邮件记录管理旧方法，在 Exchange Online Archiving 中不可用且不兼容。有关详细信息，请参阅[保留标记和保留策略](https://go.microsoft.com/fwlink/p/?LinkID=314153)。
+Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 (SP2) 及更高版本中提供的保留策略功能相同。 管理员可以管理本地 Exchange Server 2010 及更高版本环境中的保留策略。 托管文件夹是 Exchange 2007 中引入的邮件记录管理旧方法，在 Exchange Online Archiving 中不可用且不兼容。 有关详细信息，请参阅[保留标记和保留策略](https://go.microsoft.com/fwlink/p/?LinkID=314153)。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留和诉讼保留
 
@@ -67,7 +68,7 @@ Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010
   
 ### <a name="in-place-ediscovery"></a>就地电子数据展示
 
-Exchange Online Archiving 支持就地电子数据展示，可在组织中搜索邮箱内容。通过本地 Exchange 2013 服务器中的 Exchange 管理中心或远程 Windows PowerShell，管理员或或授权的发现管理员可以搜索各种邮箱项目（包括电子邮件、附件、日历约会、任务和联系人）。就地电子数据展示可以同时搜索主邮箱和存档。丰富的筛选功能包括发件人、收件人、邮件类型、发送日期、接收日期、抄送、密送以及关键字查询语言 (KQL) 语法。如需了解更多详情，请参阅[就地电子数据展示](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
+Exchange Online Archiving 支持就地电子数据展示，可在组织中搜索邮箱内容。 通过本地 Exchange 2013 服务器中的 Exchange 管理中心或远程 Windows PowerShell，管理员或或授权的发现管理员可以搜索各种邮箱项目（包括电子邮件、附件、日历约会、任务和联系人）。 就地电子数据展示可以同时搜索主邮箱和存档。 丰富的筛选功能包括发件人、收件人、邮件类型、发送日期、接收日期、抄送、密送以及关键字查询语言 (KQL) 语法。 有关详细信息，请参阅[就地电子数据展示](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
   
 Exchange 管理中心和远程 Windows PowerShell 可用于在就地电子数据展示搜索中一次最多搜索 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 运行就地电子数据展示搜索，请参阅 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)。 
   
@@ -109,19 +110,19 @@ Exchange Online Archiving 不提供托管信息权限管理 (IRM) 服务，但�
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>在 Outlook 网页版中支持 IRM
 
-用户可以在 web 上的 Outlook 中以本机方式读取和创建受 IRM 保护的邮件，就像在 Outlook 中一样。 可以通过 Internet Explorer、Firefox、Safari 和 Chrome （无需插件）访问 web 上的 Outlook 中的受 IRM 保护的邮件。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
+用户可以在 web 上的 Outlook 中以本机方式读取和创建受 IRM 保护的邮件，就像在 Outlook 中一样。 可以通过 Internet Explorer、Firefox、Safari 和 Chrome (访问 web 上的 Outlook 受 IRM 保护的邮件，而无需使用任何插件) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
   
 #### <a name="irm-search"></a>IRM 搜索
 
-受 IRM 保护的邮件已编制索引，可以进行搜索，包括标头、主题、正文和附件。 用户可以在 Outlook 和 web 上的 Outlook 中搜索受 IRM 保护的项，管理员可以使用就地电子数据展示或**搜索邮箱**cmdlet 搜索受 irm 保护的项。
+受 IRM 保护的邮件已编制索引，可以进行搜索，包括标头、主题、正文和附件。 用户可以在 Outlook 和 web 上的 Outlook 中搜索受 IRM 保护的项，管理员可以使用就地电子数据展示或 **搜索邮箱** cmdlet 搜索受 irm 保护的项。
   
 ### <a name="auditing"></a>审核
 
 Exchange Online Archiving 提供两种内置审核功能：
   
-- **管理员审核日志记录** 管理员审核日志记录允许客户在 Exchange Online Archiving 环境中跟踪其管理员所做的更改，包括对 RBAC 角色或 Exchange 策略和设置的更改。 
+- **管理员审核日志记录** -管理员审核日志记录允许客户跟踪其管理员对 Exchange Online 存档环境所做的更改，包括对 RBAC 角色或 Exchange 策略和设置所做的更改。 
     
-- **邮箱审核日志记录** 邮箱审核日志记录允许客户按用户跟踪邮箱访问，而不是根据邮箱所有者进行跟踪。 
+- **邮箱审核日志记录** -邮箱审核日志记录允许客户按邮箱所有者之外的用户跟踪对邮箱的访问。 
     
 Exchange 管理中心提供几个预定义审核报告，包括管理员角色更改、诉讼保留和非所有者邮箱访问。管理员可以按日期和角色筛选报告，用 XML 格式导出指定邮箱的所有审核事件以用于长期保留或自定义报告。
   
@@ -129,6 +130,6 @@ Exchange 管理中心提供几个预定义审核报告，包括管理员角色�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和内部部署解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
+若要查看跨计划、独立选项和内部部署解决方案的功能可用性，请参阅 [Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
   
 

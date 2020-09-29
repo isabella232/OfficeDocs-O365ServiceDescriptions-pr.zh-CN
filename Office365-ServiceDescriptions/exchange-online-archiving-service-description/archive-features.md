@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: 以下部分介绍了 Microsoft Exchange Online 存档的存档功能。
-ms.openlocfilehash: 7f6b5863d94862644fb90d1d0d85c3765ad05e9b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 了解 Microsoft Exchange Online 存档中提供的存档功能。
+ms.openlocfilehash: da7b9fd7583904424300dff010117e50a6193552
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131526"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293648"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
@@ -57,7 +57,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
 
 用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。
   
-After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 用户可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 "**恢复已删除邮件**" 功能来恢复这些项目。 
+After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 用户可以使用 Microsoft Outlook 或 web 上的 Outlook 中的 " **恢复已删除邮件** " 功能来恢复这些项目。 
   
 如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)（为邮箱启用或禁用"单个项目恢复"）。
   
@@ -78,5 +78,5 @@ Exchange Online Archiving 中的存档邮箱不断复制为多个数据库副本
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
   

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起， &mdash; 其中包括 Microsoft Exchange online、Microsoft SharePoint online、Office for web 和 Microsoft Skype For Business Online， &mdash; 以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: feb7ce1db3b904218a0a4a9df994cb8500cfd2ca
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214371"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293878"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -202,7 +202,7 @@ ms.locfileid: "48214371"
 |[威胁管理](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)，如邮件筛选和反恶意软件  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级威胁管理](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)，如仿冒活动的威胁资源管理器 <sup>5</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |[客户密码箱](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |否  <br/> |否  <br/> |是  <br/> |
-|[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |是  <br/> |是  <br/> |是  <br/> |
+|[移动设备管理](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据丢失预防](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[数据调控](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[高级数据治理](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
@@ -426,7 +426,7 @@ ms.locfileid: "48214371"
   
 > [!NOTE]
 > 如果需要任务协助，或者如果正在对问题进行故障排除，以下文章可能会很有帮助：<br/> 
-> - [电子邮件](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) ，帮助创建和发送电子邮件。 
+> - [电子邮件](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) ，帮助创建和发送电子邮件。 
 >- [Office 365 商业版中的电子邮件 - 管理员帮助](https://docs.microsoft.com/microsoft-365/admin/email/)
 >- [邮件大小限制](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [使用 Microsoft 支持和 Office 365 的 Microsoft 支持和恢复助理解决 Outlook 和 Office 365 问题](https://diagnostics.office.com/)
@@ -574,7 +574,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
   
 #### <a name="message-limits"></a>邮件限制
 
-- **邮件大小限制** -需要邮件大小限制，以防止较大的邮件阻止传递其他邮件，并影响所有用户的服务性能。 这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。 将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。 尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。 若要了解详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
+- **邮件大小限制** -需要邮件大小限制，以防止较大的邮件阻止传递其他邮件，并影响所有用户的服务性能。 这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。 将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。 尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。 若要了解详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://go.microsoft.com/fwlink/?linkid=2144144)。
     
    > [!NOTE]
     > 某些电子邮件客户端的邮件大小限制可能较低，或者可能将单个文件附件的大小限制为小于 Exchange Online 邮件大小限制的值。 
@@ -609,11 +609,11 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件嵌入深度限制  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |30 封嵌入邮件  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft 管理员可以指定介于 1 mb 和 150 mb 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。<br/> 
+> <sup>1</sup> Microsoft 管理员可以指定介于 1 mb 和 150 mb 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://go.microsoft.com/fwlink/?linkid=2144144)。<br/> 
 <sup>2</sup> 您可以在用户之间发送和接收最高 150 MB 的邮件， (邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
 <sup>3</sup> OWA 帐户可能会导致您的邮件受到33% 编码的增加，并将邮件大小限制为低于配置的设置的25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> 
 <sup>4</sup> 要移动到 exchange online 中的邮件的大小由 Exchange online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。  (转换、暂存、IMAP、PST) 和其他第三方工具的其他迁移方法受常规邮件大小限制的限制。 <br/> 
-<sup>5</sup> 有关具有新功能的 OME 的信息，请参阅 [设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+<sup>5</sup> 有关具有新功能的 OME 的信息，请参阅 [设置基于 Azure 信息保护基础构建的新 Office 365 邮件加密功能](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)。 
   
 #### <a name="receiving-and-sending-limits"></a>接收和发送限制
 

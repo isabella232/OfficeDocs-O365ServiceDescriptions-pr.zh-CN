@@ -12,23 +12,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: PowerPoint for web (以前的 PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上使用演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131316"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294060"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
-PowerPoint for web （以前称为 PowerPoint Web App）将您的 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上处理演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
+PowerPoint for web (以前的 PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 web 浏览器，您可以直接在存储演示文稿的网站上使用演示文稿。 使用 Office for web 的 Microsoft 365 客户可以在旅途中查看、创建和编辑文件。
   
 PowerPoint 编辑器是一个 web 前端组件，可创建基于浏览器的编辑图面，使用户可以在不丢失保真度的情况下处理文档。
   
-如果选择 "PowerPoint for the web" 工具栏上的 "**在 powerpoint 中打开**" 按钮，演示文稿将在 powerpoint 桌面应用程序中打开（如果计算机上安装了 Microsoft PowerPoint 2010 或更高版本）。
+如果选择 "PowerPoint for the web" 工具栏上的 " **在 powerpoint 中打开** " 按钮，演示文稿将在 powerpoint 桌面应用程序 (中打开，前提是在计算机上安装了 Microsoft PowerPoint 2010 或更高版本) 。
   
-了解如何[在电脑上使用 Microsoft 365 for business 下载和安装 Office](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c)。
+了解如何 [在电脑上使用 Microsoft 365 for business 下载和安装 Office](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)。
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
@@ -140,7 +140,7 @@ PowerPoint for web 从 web 浏览器启动，并依赖于 internet 连接。 要
   
 ## <a name="print-to-pdf"></a>打印为 PDF 格式
 
-在 PowerPoint for web 中，您可以将演示文稿打印到 PDF 阅读器，在该阅读器中，幻灯片的所有版式和格式将按预期的方式打印。 详细了解[可以使用 PowerPoint for web 执行的基本任务](https://go.microsoft.com/fwlink/?LinkId=272775)。
+在 PowerPoint for web 中，您可以将演示文稿打印到 PDF 阅读器，在该阅读器中，幻灯片的所有版式和格式将按预期的方式打印。 详细了解 [可以使用 PowerPoint for web 执行的基本任务](https://go.microsoft.com/fwlink/?LinkId=272775)。
   
 ## <a name="proofing-tools"></a>校对工具
 
@@ -148,7 +148,7 @@ PowerPoint for web 从 web 浏览器启动，并依赖于 internet 连接。 要
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
-在 PowerPoint 中，多个作者可以同时在 web 和 PowerPoint 2016 中工作。 实时状态可帮助您查看共同创作者在演示文稿中的编辑位置，从而不会在编辑时产生冲突，并且您可以在发生更改时进行查看。 PowerPoint 2013 支持同时编辑，但没有状态指示，并且在保存文档之前多个作者无法看到更改。 有关 PowerPoint 中的实时共同创作的详细信息，请参阅[在 powerpoint 演示文稿](https://go.microsoft.com/fwlink/?linkid=844014)中协同工作。
+在 PowerPoint 中，多个作者可以同时在 web 和 PowerPoint 2016 中工作。 实时状态可帮助您查看共同创作者在演示文稿中的编辑位置，从而不会在编辑时产生冲突，并且您可以在发生更改时进行查看。 PowerPoint 2013 支持同时编辑，但没有状态指示，并且在保存文档之前多个作者无法看到更改。 有关 PowerPoint 中的实时共同创作的详细信息，请参阅 [在 powerpoint 演示文稿](https://go.microsoft.com/fwlink/?linkid=844014)中协同工作。
   
 ## <a name="reviewer-tools-advanced"></a>审阅者工具、高级
 
@@ -156,15 +156,15 @@ PowerPoint for web 从 web 浏览器启动，并依赖于 internet 连接。 要
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>权限管理：应用和使用 IRM 和密码保护
 
-在 PowerPoint for web 中不可用。 PowerPoint for web 显示受信息权限管理（IRM）保护的演示文稿。 但是，不能在浏览器中编辑这些演示文稿，也不能在 PowerPoint for web 中创建受 IRM 保护的演示文稿。 PowerPoint for web 无法打开使用密码进行数字签名或加密的演示文稿。 
+在 PowerPoint for web 中不可用。 PowerPoint for web 显示受 (IRM) 的信息权限管理保护的演示文稿。 但是，不能在浏览器中编辑这些演示文稿，也不能在 PowerPoint for web 中创建受 IRM 保护的演示文稿。 PowerPoint for web 无法打开使用密码进行数字签名或加密的演示文稿。 
   
 ## <a name="run-slide-show"></a>Run slide show
 
-使用 PowerPoint for web，可以只使用 web 浏览器和 internet 连接运行演示文稿。 详细了解[可以使用 PowerPoint for web 执行的基本任务](https://go.microsoft.com/fwlink/?LinkId=272775)。
+使用 PowerPoint for web，可以只使用 web 浏览器和 internet 连接运行演示文稿。 详细了解 [可以使用 PowerPoint for web 执行的基本任务](https://go.microsoft.com/fwlink/?LinkId=272775)。
   
 ## <a name="save-as-or-download-a-copy"></a>另存为或下载副本
 
-PowerPoint for web 在您每次进行更改时都保存您的工作。 没有 "**保存**" 命令。 您可以下载副本，但必须具有 Microsoft PowerPoint 桌面应用程序才能编辑本地副本。
+PowerPoint for web 在您每次进行更改时都保存您的工作。 没有 " **保存** " 命令。 您可以下载副本，但必须具有 Microsoft PowerPoint 桌面应用程序才能编辑本地副本。
   
 ## <a name="shapes"></a>形状
 
@@ -192,7 +192,7 @@ PowerPoint for web 在全屏幕窗口中播放幻灯片放映。 按下空格键
   
 ## <a name="undo-and-redo"></a>撤消和恢复
 
-在活动演示文稿的当前编辑会话期间，可撤消 (Ctrl + Z) 和重做 (Ctrl + Y) 无限次最近的操作。 如果编辑会话超时或切换到阅读视图的时间超过 30 秒，则会重置撤消历史记录。 了解有关[PowerPoint for the web 中的键盘快捷方式](https://go.microsoft.com/fwlink/?LinkId=272950)的详细信息。
+在活动演示文稿的当前编辑会话期间，可撤消 (Ctrl + Z) 和重做 (Ctrl + Y) 无限次最近的操作。 如果编辑会话超时或切换到阅读视图的时间超过 30 秒，则会重置撤消历史记录。 了解有关 [PowerPoint for the web 中的键盘快捷方式](https://go.microsoft.com/fwlink/?LinkId=272950)的详细信息。
   
 ## <a name="view-and-add-comments"></a>查看和添加注释
 
@@ -210,4 +210,4 @@ PowerPoint for web 在全屏幕窗口中播放幻灯片放映。 按下空格键
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。 
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [适用于 web 服务说明的 Office](office-online-service-description.md)。 

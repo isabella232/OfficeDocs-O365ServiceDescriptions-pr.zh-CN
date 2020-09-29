@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word for web (以前的 Word Web App) 将您的 Microsoft Word 体验扩展到 web 浏览器，您可以直接在存储文档的网站上处理文档。
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616908"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294048"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 
@@ -40,7 +40,7 @@ Word for web (以前的 Word Web App) 将您的 Microsoft Word 体验扩展到 w
 
 当您进行更改时，Word 会自动保存您的文档。
   
-## <a name="autotext"></a>AutoText
+## <a name="autotext"></a>自动图文集
 
 你可以使用自动图文集库中的自动图文集插入预设格式的文本块。例如，在需要重复输入相同的大型文本块并且文本包含大量格式的情况下，这很有用。你可以通过将所选文本添加到自动图文集库来创建自动图文集条目。若要了解详细信息，请参阅[自动插入文本](https://go.microsoft.com/fwlink/?linkid=846739)。
   
@@ -50,7 +50,7 @@ Word for web (以前的 Word Web App) 将您的 Microsoft Word 体验扩展到 w
   
 ## <a name="bullets-and-numbering"></a>Bullets and numbering
 
-使用 Word for web，可以应用三种项目符号样式或五种编号样式的选择。 单击 "**增加缩进量**" 和 "**减少缩进量**" 按钮，以更改文档中现有项目符号和编号列表的列表级别，以及在 Word 桌面应用程序中创建的列表级别。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
+使用 Word for web，可以应用三种项目符号样式或五种编号样式的选择。 单击 " **增加缩进量** " 和 " **减少缩进量** " 按钮，以更改文档中现有项目符号和编号列表的列表级别，以及在 Word 桌面应用程序中创建的列表级别。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="captions"></a>题注
 
@@ -62,7 +62,7 @@ Word for web (以前的 Word Web App) 将您的 Microsoft Word 体验扩展到 w
   
 ## <a name="clipboard"></a>剪贴板
 
-由于 web 浏览器技术的限制，在 Office for web 中复制和粘贴文本不同于在 Office 桌面应用程序中复制和粘贴文本。 了解有关[在 Office for web 中复制和粘贴](https://go.microsoft.com/fwlink/p/?LinkId=282321)的详细信息。
+由于 web 浏览器技术的限制，在 Office for web 中复制和粘贴文本不同于在 Office 桌面应用程序中复制和粘贴文本。 了解有关 [在 Office for web 中复制和粘贴](https://go.microsoft.com/fwlink/p/?LinkId=282321)的详细信息。
   
 ## <a name="collaboration-advanced"></a>协作、高级
 
@@ -98,7 +98,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="find-and-replace"></a>查找和替换
 
-使用在 web 和 Word 桌面应用程序的两个 Word 中的 "查找和替换" 工具查找和替换文档中的文本。 若要了解有关在 Word for web 中使用 "查找和替换" 的详细信息，请参阅[find and replace text](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)。
+使用在 web 和 Word 桌面应用程序的两个 Word 中的 "查找和替换" 工具查找和替换文档中的文本。 若要了解有关在 Word for web 中使用 "查找和替换" 的详细信息，请参阅 [find and replace text](https://support.office.com/article/c6728c16-469e-43cd-afe4-7708c6c779b7#ID0EAABAAA=Web)。
   
 ## <a name="font-formatting"></a>字体格式
 
@@ -106,7 +106,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="footnotes-and-endnotes"></a>Footnotes and endnotes
 
-可以在 Word for web 中向文档中添加脚注和尾注。 了解有关[在 Word for web 中添加脚注和尾注](https://go.microsoft.com/fwlink/p/?LinkId=397306)的详细信息。
+可以在 Word for web 中向文档中添加脚注和尾注。 了解有关 [在 Word for web 中添加脚注和尾注](https://go.microsoft.com/fwlink/p/?LinkId=397306)的详细信息。
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 
@@ -118,11 +118,11 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="headers-and-footers"></a>页眉和页脚
 
-在 web 和 Word 桌面应用程序的两个 Word 中插入文档的页眉和页脚。 还可以将页眉和页脚应用到除文档第一页之外的其他所有页面。 若要了解有关在 Word for web 中使用页眉和页脚的详细信息，请参阅[word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
+在 web 和 Word 桌面应用程序的两个 Word 中插入文档的页眉和页脚。 还可以将页眉和页脚应用到除文档第一页之外的其他所有页面。 若要了解有关在 Word for web 中使用页眉和页脚的详细信息，请参阅 [word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-使用 Word for the web，您可以轻松地创建指向文档中的书签的链接，并设置当光标指向链接时显示的屏幕提示。 有关详细信息，请参阅[Word for web 中的超链接](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
+使用 Word for the web，您可以轻松地创建指向文档中的书签的链接，并设置当光标指向链接时显示的屏幕提示。 有关详细信息，请参阅 [Word for web 中的超链接](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
   
 ## <a name="index"></a>索引
 
@@ -142,7 +142,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="lists"></a>列表
 
-在 Word for web 中，开始直接在现有编号列表下方键入，下一行将自动成为列表的一部分。 了解有关[在 Word for web 中创建列表](https://go.microsoft.com/fwlink/p/?LinkId=397307)的详细信息。
+在 Word for web 中，开始直接在现有编号列表下方键入，下一行将自动成为列表的一部分。 了解有关 [在 Word for web 中创建列表](https://go.microsoft.com/fwlink/p/?LinkId=397307)的详细信息。
   
 ## <a name="mail-merge"></a>Mail merge
 
@@ -160,7 +160,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
 
 使用 Word for the web，您可以调整页边距、纸张大小，以及页面是在文档中垂直还是水平布局。 用于 web 的 Word 不显示标尺和网格线。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。 
   
-了解如何[删除 Word for web 中的空白页](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1)。
+了解如何 [删除 Word for web 中的空白页](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)。
   
 ## <a name="page-layout-tools-advanced"></a>页面布局工具，高级
 
@@ -168,7 +168,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="page-numbers"></a>Page numbers
 
-在 web 和 Word 桌面应用程序的两个 Word 中插入文档的页码。 还可以将页码应用到除文档第一页之外的其他所有页面。 若要了解有关在 Word for web 中使用页码的详细信息，请参阅[word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
+在 web 和 Word 桌面应用程序的两个 Word 中插入文档的页码。 还可以将页码应用到除文档第一页之外的其他所有页面。 若要了解有关在 Word for web 中使用页码的详细信息，请参阅 [word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="paragraph-formatting"></a>Paragraph formatting
 
@@ -188,7 +188,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="print-to-pdf"></a>打印为 PDF 格式
 
-使用适用于 web 的 Word，可以获取一个单击过程来生成 PDF 并显示 "打印" 对话框。 了解有关[在 Word for web 中打印文档](https://go.microsoft.com/fwlink/p/?LinkId=271860)的详细信息。
+使用适用于 web 的 Word，可以获取一个单击过程来生成 PDF 并显示 "打印" 对话框。 了解有关 [在 Word for web 中打印文档](https://go.microsoft.com/fwlink/p/?LinkId=271860)的详细信息。
   
 ## <a name="printing-advanced"></a>打印，高级
 
@@ -204,7 +204,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
-多个用户可以同时对文档进行操作。 在 Word for web 和 Word 2016 中，实时状态可帮助您查看你的共同作者在文档中工作的位置，以便在编辑时不会创建冲突，并且可以在进行更改时看到所做的更改。 Word 2013 支持同时编辑，但没有状态指示，并且在文档保存之前多个作者无法看到更改。 若要了解有关实时共同创作的详细信息，请参阅[word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)和[实时共同创作的 word 文档协作](https://go.microsoft.com/fwlink/?linkid=798760)。
+多个用户可以同时对文档进行操作。 在 Word for web 和 Word 2016 中，实时状态可帮助您查看你的共同作者在文档中工作的位置，以便在编辑时不会创建冲突，并且可以在进行更改时看到所做的更改。 Word 2013 支持同时编辑，但没有状态指示，并且在文档保存之前多个作者无法看到更改。 若要了解有关实时共同创作的详细信息，请参阅 [word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520) 和 [实时共同创作的 word 文档协作](https://go.microsoft.com/fwlink/?linkid=798760)。
   
 ## <a name="reference-tools"></a>引用工具
 
@@ -224,7 +224,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="rich-table-formatting"></a>富表格式
 
-在 web 和 Word 桌面应用程序的两个 Word 中均提供了高级表格格式（例如，选择预设表格样式、设置标题行和列的选项以及设置阴影和边框的选项）。 若要了解有关 web Word 中表格格式的详细信息，请参阅[word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
+在 web 和 Word 桌面应用程序的两个 Word 中均提供了高级表格格式（例如，选择预设表格样式、设置标题行和列的选项以及设置阴影和边框的选项）。 若要了解有关 web Word 中表格格式的详细信息，请参阅 [word for web 中的新增功能](https://go.microsoft.com/fwlink/?LinkId=389520)。
   
 ## <a name="save-as-and-download-a-copy"></a>另存为和下载副本
 
@@ -234,7 +234,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
 
 您可以使用 Word 将文件保存或转换为 Pdf，以便您可以共享这些文件或使用专业打印机打印它们。 该过程不需要任何其他软件或外接程序。
   
-## <a name="share"></a>Share
+## <a name="share"></a>共享
 
 对于 web 上的 Word，它是一个单击过程，用于发送其他人可用于查看或编辑文档的链接。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
@@ -284,17 +284,17 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="word-count"></a>字数统计
 
-Word for web 为您的文档中的单词提供了粗略的字数统计。 详细了解[word for web 中](https://go.microsoft.com/fwlink/p/?LinkId=271864)的字数。
+Word for web 为您的文档中的单词提供了粗略的字数统计。 详细了解 [word for web 中](https://go.microsoft.com/fwlink/p/?LinkId=271864)的字数。
   
 ## <a name="zoom"></a>缩放
 
-缩放在查看模式下可用。 使用适用于 web 的 Word，使用浏览器的视图设置在编辑模式下放大或缩小。 详细了解[word for web 中](https://go.microsoft.com/fwlink/p/?LinkId=271864)的字数。
+缩放在查看模式下可用。 使用适用于 web 的 Word，使用浏览器的视图设置在编辑模式下放大或缩小。 详细了解 [word for web 中](https://go.microsoft.com/fwlink/p/?LinkId=271864)的字数。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。 
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [适用于 web 服务说明的 Office](office-online-service-description.md)。 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>操作参数限制和规范
 
-有关操作参数限制的信息，请参阅[Word 中的操作参数限制和规范](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
+有关操作参数限制的信息，请参阅 [Word 中的操作参数限制和规范](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation)。
   

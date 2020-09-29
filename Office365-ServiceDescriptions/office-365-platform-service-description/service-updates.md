@@ -11,37 +11,37 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
-ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 43a8517a71e42e74e8d044b1c98c7b5b21fe2145
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131476"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294198"
 ---
 # <a name="service-updates"></a>服务更新
 
 > [!NOTE]
-> 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)。 
+> 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350)。 
   
-若要了解刚发布或即将发布的功能，请查看[Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
+若要了解刚发布或即将发布的功能，请查看 [Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
 > [!NOTE]
 > 根据许多因素（如地理位置、语言、数据中心和订阅）向客户推出更新和升级。 也就是说，不是所有更新都可供 现有用户立即使用。 
   
 ## <a name="targeted-release"></a>定向发布
 
-在目标版本中，您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 若要了解详细信息，请参阅[Microsoft release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide)。 
+在目标版本中，您的组织或一组用户会在开始我们的标准发布过程之前大约一周内收到一组选定的服务更新。 若要了解详细信息，请参阅 [Microsoft release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365)。 
   
 ## <a name="update-notifications"></a>更新通知
 
-Microsoft 致力于在发生任何更改时提前通知客户，这需要管理员采取行动以保持服务正常运行。 除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide)至少提前 30 天发出通知。 
+Microsoft 致力于在发生任何更改时提前通知客户，这需要管理员采取行动以保持服务正常运行。 除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](https://docs.microsoft.com/office365/admin/manage/message-center)至少提前 30 天发出通知。 
   
 大多数服务更新都是错误修复、性能改进以及要求代表客户零操作的安全更新。 [Microsoft 365 for business 路线图中提供](https://roadmap.office.com/)了新的和改进的功能。
   
-请注意，Microsoft 遵循[在线生命周期策略](https://support.microsoft.com/lifecycle#gp/osslpolicy)。
+请注意，Microsoft 遵循 [在线生命周期策略](https://support.microsoft.com/lifecycle#gp/osslpolicy)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个计划的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看各个计划的功能可用性，请参阅 [Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
   
 

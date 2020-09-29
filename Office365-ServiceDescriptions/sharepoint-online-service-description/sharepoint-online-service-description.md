@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300506"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294097"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -90,7 +90,7 @@ Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过�
 - [应用程序使用和错误监视](/sharepoint/monitor-apps)
 - [SharePoint](/office365/admin/activity-reports/sharepoint-activity)和[OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)的活动和使用情况报告
 - [更改网站 URL](/sharepoint/change-site-address)
-- [OneDrive 的默认存储和保留设置](/en-us/onedrive/set-default-storage-space)
+- [OneDrive 的默认存储和保留设置](/onedrive/set-default-storage-space)
 - [SharePoint Server 的混合](/sharepoint/hybrid/hybrid)。 Firstline 工作人员需要客户端访问许可证 (CAL) 才能访问 SharePoint Server。
 - [网站创建设置的管理](/sharepoint/manage-site-creation)
 - [管理网站存储限制](/sharepoint/manage-site-collection-storage-limits)
@@ -103,8 +103,8 @@ Microsoft 365 中的 OneDrive 是组织中各个用户的联机存储。 通过�
 - [根网站替换](/sharepoint/modern-root-site)
 - [恢复已删除的组](/sharepoint/restore-deleted-site-collection)
 - [SharePoint 管理中心](/sharepoint/get-started-new-admin-center)。 具有 Firstline 工作人员的组织至少需要一个企业用户才能访问管理中心。
-- [SharePoint 新式化扫描程序](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online 命令行管理](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)程序。 具有 Firstline 工作人员的组织至少需要一个企业用户才能访问管理中心。
+- [SharePoint 现代化扫描程序](/sharepoint/dev/transform/modernize-scanner)
+- [SharePoint Online 命令行管理](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true)程序。 具有 Firstline 工作人员的组织至少需要一个企业用户才能访问管理中心。
 - [网站治理](/sharepoint/governance-overview) 
 - [术语库-托管元数据](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [组织资产库](/sharepoint/organization-assets-library)
 - [组织新闻](/sharepoint/organization-news-site)
 - [页面审批](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [页面](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - 记录管理
 - [回收站](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint 移动应用程序](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

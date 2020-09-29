@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过在德国法律管辖的唯一数据受信者模型中提供了我们业界一流的数字工作工作效率服务（从德国数据中心起，通过 EFTA 中的数据访问和控制措施），帮助您满足德国最受管控客户的需求、欧盟 (EU) 和欧洲免费贸易协会 () 。
-ms.openlocfilehash: 1f2ef704626f32e78fe0f7806e5fe669c12e3c5c
-ms.sourcegitcommit: 0d192547dda1adc93616996972490f50d8068981
+ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48268484"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293848"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -22,7 +22,7 @@ Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选
 
 数据被信任方 T-Systems International 是一家独立的德国公司，同时也是德国电信的子公司，负责控制对客户数据的物理和逻辑访问。德国法律规定，未经数据被信任方的批准或监督，不能访问客户数据。
 
-根据客户需求的这一发展，我们的云策略将重点放在德国与我们的全球云产品保持一致的新云区域的交付中。 使用此焦点，我们将不再接受新客户或从当前可用的 Microsoft 云德国部署任何新服务。 现有客户可以继续使用目前可用的云服务，我们将使用所需的安全更新进行维护。 [了解 Office 365 德国](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US)。
+根据客户需求的这一发展，我们的云策略将重点放在德国与我们的全球云产品保持一致的新云区域的交付中。 使用此焦点，我们将不再接受新客户或从当前可用的 Microsoft 云德国部署任何新服务。 现有客户可以继续使用目前可用的云服务，我们将使用所需的安全更新进行维护。 [了解 Office 365 德国](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c)。
 
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
@@ -192,7 +192,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 ## <a name="office-application-features"></a>Office 应用程序功能  
 
 > [!NOTE]
-> Office 365 Germany 计划包括在最终用户设备（"客户端软件应用程序"）上安装和运行的客户端软件应用程序，例如 Office 365 ProPlus、Office 2013\* 和 Office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非 [德语 Online 服务](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/> \*适用于 Office 365 Germany 的 Office 2013 要求[启用新式验证](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。
+> Office 365 Germany 计划包括在最终用户设备（"客户端软件应用程序"）上安装和运行的客户端软件应用程序，例如 Office 365 ProPlus、Office 2013\* 和 Office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非 [德语 Online 服务](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/> \*适用于 Office 365 Germany 的 Office 2013 要求[启用新式验证](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)。
 
 使用下表比较不同 Office 365 Germany 计划之间的功能可用性。<br><br>
 
@@ -209,7 +209,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是|是|是<sup>6</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|否|否|否|否<sup>7</sup>|否|是|是|否|
 |[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps)|是|是|是|是|是|是|是|否|
-|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|是|否|是|否<sup>7</sup>|否|是|是|否|
+|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|是|否|是|否<sup>7</sup>|否|是|是|否|
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|否|是|否<sup>7</sup>|否|是|是|否|
 |[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|是|否|是|否<sup>7</sup>|否|是|是|否|
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|是|否|是|否<sup>7</sup>|否|是|是|否|
@@ -249,7 +249,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 > [!NOTE]
 > <sup>1</sup> Office 365 德国计划包括在最终用户的设备上安装和运行的客户端软件应用程序， ( "客户端软件应用程序" ) ，例如 Office 365 专业增强版、office 2013 和 office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非德语 Online 服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
-<sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。<br/>
+<sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)。<br/>
 <sup>3</sup> 不包含 Azure 信息保护，但可作为单独的附加项购买，以便启用支持的 IRM 功能。<br/>
 <sup>4</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。<br/>
 <sup>5</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。 <br/>
@@ -257,7 +257,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>7</sup> 一些学校有资格享受教育增强版，其中包括 Office 365 ProPlus，并允许学生和教职员工在多达五个 PC 或 Mac 计算机上和其他移动设备（其中包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。<br/>
 <sup>8</sup> 可以安装但不可激活 Office 2011 for Mac。 <br/>
 <sup>9</sup> 批量激活 Office 365 Germany 企业版 E3，Office 365 ProPlus 仅限于安装在 Windows Server 2008 R2 和启用了 RDS 角色或安装了 Windows To Go 的更新版本上。 在任一情况下，访问这些安装的用户应是 Office 365 Germany 企业版 E3 或 Office 365 ProPlus 许可的用户。<br/>
-如果你在当前频道或延期频道的目标版本上，则当前提供<sup>10</sup>项访问权限。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅[包含在 Office 365 商业版和商业高级版中的 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)。<br/>
+如果你在当前频道或延期频道的目标版本上，则当前提供<sup>10</sup>项访问权限。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅[包含在 Office 365 商业版和商业高级版中的 Access](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef)。<br/>
 <sup>11</sup> 不适用于 Office 365 Germany，但即将适用。
 
 | 功能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 专业增强版<sup>10</sup> |
@@ -273,7 +273,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|是<sup>7</sup>|是<sup>7</sup>|是<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|是|是|否|
 |[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps)|是|是|是|
-|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|否|是|是|
+|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|是|
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|否|是|是|
 |[Office Mobile for Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|否|是|是|
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|是|是|
@@ -313,7 +313,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 > [!NOTE]
 > <sup>1</sup> Office 365 德国计划包括在最终用户的设备上安装和运行的客户端软件应用程序， ( "客户端软件应用程序" ) ，例如 Office 365 专业增强版、office 2013 和 office 2016。 客户端软件应用程序不以独占方式在德国数据中心内运行，并且可能允许最终用户访问非德语 Online 服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
-<sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。<br/>
+<sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)。<br/>
 <sup>3</sup> 此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。<br/> <sup>4</sup> 不包含 Azure 信息保护，但可作为单独的附加项购买，以便启用支持的 IRM 功能。<br/> <sup>5</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。<br/>
 <sup>6</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。<br/>
 <sup>7</sup> Skype For business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
@@ -448,7 +448,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |Outlook 加载项和 Outlook MAPI|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|
 
 > [!NOTE]
-> <sup>1</sup> Exchange 2010 仅支持最少量的混合部署。 Exchange 2010 不支持 (完整混合部署。 ) 有关最小混合部署的详细信息，请参阅 [Use express 迁移 to 将 Exchange 邮箱迁移到 Office 365](https://support.office.com/article/Use-express-migration-to-migrate-Exchange-mailboxes-to-Office-365-fdecceed-0702-4af3-85be-f2a0013937ef?ui=en-US&amp;rs=en-US&amp;ad=US)。<br/>
+> <sup>1</sup> Exchange 2010 仅支持最少量的混合部署。 Exchange 2010 不支持 (完整混合部署。 ) 有关最小混合部署的详细信息，请参阅 [Use express 迁移 to 将 Exchange 邮箱迁移到 Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)。<br/>
 <sup>2</sup> Office 365 德国商业 Essentials 和 Office 365 德国企业高级版不提供访问权限以实现本地服务器的使用。 为了兼容，客户必须购买或先前购买了相应的 CAL 或升级至企业版 SKU，后者提供这些访问权限。<br/>
 <sup>3</sup> 不适用于 Office 365 德国，但即将推出。<br/>
 <sup>4</sup> 不包括 Azure 信息保护，但可以作为单独的附加 (购买，也可以免费添加到 Office 365 德国教育版 A1 计划) 中，以便启用支持的 IRM 功能。 Office 365 邮件加密取决于 Azure 信息保护。<br/>
@@ -486,7 +486,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|是|是|是|
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|是|
 |[高级数据调控](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|否|是|是|
-|[Office 365 威胁情报](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|否|是|是|
+|[Office 365 威胁情报](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|否|是|是|
 |[Outlook 网页版中的垃圾邮件报告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是<sup>8</sup>|否<sup>8</sup>|否<sup>8</sup>|
 |[在 Microsoft 和您自己的电子邮件服务器之间路由电子邮件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[Secure messaging with a trusted partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
@@ -531,10 +531,9 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 ## <a name="project-online-features"></a>Project Online 功能
 
-下表列出了 Office 365 Germany 计划中所提供的 Project Online 功能。若要了解 Project Online 的详细信息，请参阅 [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/)（Project Online 入门）。<br><br>
-<!-- Do not remove "en-us" from this URL. Since blog posts aren't localized, we need to keep "en-us" in the URL or users in non-English locales will get an error when they click the link. -->
+下表列出了 Office 365 Germany 计划中所提供的 Project Online 功能。若要了解 Project Online 的详细信息，请参阅 [Getting Started with Project Online](https://go.microsoft.com/fwlink/?linkid=2144053)（Project Online 入门）。<br><br>
 
-| 套餐 | Description | 目标用户 |
+| 套餐 | 说明 | 目标用户 |
 |:-----|:-----|:-----|
 |Project Online 协作版| 团队成员基于 Web 的界面  <br/>  更新任务、问题和风险  <br/>  提交时间表  <br/>  共享文档并使用 Skype for Business 状态协作|团队成员|
 |Project Online Professional| 所有 Project Online 协作版功能，外加：  <br/>  桌面客户端丰富的用户界面  <br/>  通过 web 界面随时随地访问  <br/>  项目日程安排和成本计算  <br/>  资源管理  <br/>  将项目发布到云  <br/>  包括可立即将最新版本的 Project 桌面应用程序传输到 Windows PC。  <br/>  每个订阅许可证允许 Project 应用程序的最多五个并发安装。|项目经理|

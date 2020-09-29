@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Microsoft Exchange Online 存档是一种 Microsoft 365 基于云的企业级存档解决方案，适用于已部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013、Microsoft Exchange Server 2010 (SP2 及更高版本) 的组织，或订阅特定 Exchange Online 或 Microsoft 365 计划。 Exchange Online Archiving 可以帮助组织解决存档、相容性、监管和电子数据展示难题，同时简化本地基础结构，从而降低成本和减轻 IT 负担。
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: 阅读本文，了解有关 Microsoft Exchange Online 存档的信息。
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214301"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293628"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 

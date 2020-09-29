@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Project Online 中提供了以下 core services 功能功能。
-ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5876a9f7df783a30fdc774efacf5828fdc4f64e5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131236"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294062"
 ---
 # <a name="core-services-functionality"></a>核心服务功能
 
 Project Online 中提供了以下 core services 功能功能。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 
@@ -32,7 +32,7 @@ Project Online 和 Project Server 2013 为管理员提供了计划、安装、�
   
 ## <a name="getting-started"></a>入门
 
-Project Online 可使用入门内容。 请参阅 [Project Online 入门](https://support.office.com/en-us/article/Get-started-with-Project-Online-E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11?ui=en-US&amp;rs=en-US&amp;ad=US)。
+Project Online 可使用入门内容。 请参阅 [Project Online 入门](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)。
   
 ## <a name="issues-and-risk-management-for-team-members"></a>问题和风险管理（适用于团队成员）
 
@@ -52,11 +52,11 @@ Microsoft PPM 解决方案已得到数百个 Microsoft 合作伙伴的支持，�
   
 ## <a name="service-updates"></a>服务更新
 
-我们定期使用新的特性和功能更新 Microsoft 服务。 请参阅[服务更新](../office-365-platform-service-description/service-updates.md)。
+我们定期使用新的特性和功能更新 Microsoft 服务。 请参阅 [服务更新](../office-365-platform-service-description/service-updates.md)。
   
 ## <a name="team-member-collaboration"></a>团队成员协作
 
-团队协作支持并推动整个项目取得成功和效果。 若要了解 Project Server 2013 如何使组织协作处理项目，请参阅[视频：与团队协作](https://go.microsoft.com/fwlink/?LinkId=402628)。
+团队协作支持并推动整个项目取得成功和效果。 若要了解 Project Server 2013 如何使组织协作处理项目，请参阅 [视频：与团队协作](https://go.microsoft.com/fwlink/?LinkId=402628)。
   
 ## <a name="time-and-task-management-for-team-members"></a>时间和风险管理（适用于团队成员）
 

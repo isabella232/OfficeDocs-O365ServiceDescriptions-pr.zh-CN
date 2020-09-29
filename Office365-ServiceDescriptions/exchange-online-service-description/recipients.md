@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: 本主题介绍 Microsoft Exchange Online 中包含的收件人相关功能。 这包括电子邮件、联系人、通讯组、日历和日程安排功能。
-ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132636"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293858"
 ---
 # <a name="recipients"></a>收件人
 
@@ -33,7 +33,7 @@ ms.locfileid: "45132636"
 
 对用户可用的邮箱存储量和默认邮箱大小由邮箱类型和用户的订阅许可证确定。管理员可以减小每位用户或全局的最大邮箱大小。Exchange Online 还在用户的邮箱接近或达到最大容量时提供通知。
   
-有关详细信息，请参阅[Exchange Online 限制](exchange-online-limits.md)主题中的 "邮箱存储限制" 和 "容量警报" 部分。
+有关详细信息，请参阅 [Exchange Online 限制](exchange-online-limits.md)主题中的 "邮箱存储限制" 和 "容量警报" 部分。
   
 ### <a name="mailtips"></a>邮件提示
 
@@ -57,11 +57,11 @@ Exchange Online 允许用户创建收件箱规则，在邮件抵达后基于条�
   
 ### <a name="clutter"></a>混乱邮件
 
-待筛选邮件旨在帮助你重点关注收件箱中最重要的邮件。它优先级较低的邮件移除到新的"待筛选邮件"文件夹，使用机器学习从收件箱删除待筛选邮件。待筛选邮件遵循现有的电子邮件规则。因此，如果已创建电子邮件整理规则，这些规则会继续适用，待筛选邮件功能不会对这些邮件产生影响。默认情况下，收件箱禁用待筛选邮件功能。若要了解详细信息，请参阅 [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/)（在 Office 365 中从收件箱删除待筛选邮件）。
+待筛选邮件旨在帮助你重点关注收件箱中最重要的邮件。它优先级较低的邮件移除到新的"待筛选邮件"文件夹，使用机器学习从收件箱删除待筛选邮件。待筛选邮件遵循现有的电子邮件规则。因此，如果已创建电子邮件整理规则，这些规则会继续适用，待筛选邮件功能不会对这些邮件产生影响。默认情况下，收件箱禁用待筛选邮件功能。若要了解详细信息，请参阅 [De-clutter your inbox in Office 365](https://go.microsoft.com/fwlink/?linkid=2144145)（在 Office 365 中从收件箱删除待筛选邮件）。
   
 ### <a name="connected-accounts"></a>已连接帐户
 
-通过 "已连接帐户" 功能，Exchange Online 用户可以将外部电子邮件帐户（如个人帐户）连接到 Exchange Online 中的内部电子邮件帐户，然后使用 web 上的 Outlook 将其所有邮件与一个位置进行交互。 在登录到 Outlook 网页时，已连接的帐户将自动同步。用户还可以手动从 web 上的 Outlook 同步帐户。 通过 [Exchange 管理中心](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)，管理员可以为特定用户或所有用户启用和禁用该功能。
+通过 "已连接帐户" 功能，Exchange Online 用户可以将外部电子邮件 (帐户（例如个人帐户) ）连接到 Exchange Online 中的内部电子邮件帐户，然后使用 web 上的 Outlook 在一个位置与他们的所有邮件进行交互。 在登录到 Outlook 网页时，已连接的帐户将自动同步。用户还可以手动从 web 上的 Outlook 同步帐户。 通过 [Exchange 管理中心](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)，管理员可以为特定用户或所有用户启用和禁用该功能。
   
 ### <a name="inactive-mailboxes"></a>非活动邮箱
 
@@ -84,7 +84,7 @@ Exchange Online 提供无限期保留已删除邮箱内容的功能。此功能�
 
 ### <a name="offline-address-book"></a>脱机通讯簿
 
-脱机通讯簿功能提供了 Outlook 全局地址列表（GAL）中可用的 Active Directory 信息的快照。 它在 Outlook 中本地缓存，以便在用户脱机工作时可用。
+脱机通讯簿功能提供了 Outlook 全局地址列表 (GAL) 中可用的 Active Directory 信息的快照。 它在 Outlook 中本地缓存，以便在用户脱机工作时可用。
   
 ### <a name="address-book-policies"></a>通讯簿策略
 
@@ -168,5 +168,5 @@ Exchange Online 支持 Outlook 2010 的会议室查找工具功能，它可将�
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
   

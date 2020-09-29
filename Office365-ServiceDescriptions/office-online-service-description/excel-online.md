@@ -12,29 +12,29 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Excel for web (以前的 Excel Web App) 将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131416"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294076"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
-Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
+Excel for web (以前的 Excel Web App) 将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
   
 > [!NOTE]
-> 在 Microsoft SharePoint Online 中，不能在 Excel 中从 Excel 中查看超过 50 mb 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
+> 在 Microsoft SharePoint Online 中，不能在 Excel 中查看超过 50 mb (MB) 的工作簿。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
 
 > [!NOTE]
-> 为帮助您比较优惠，本文中列出的高级功能包括仅适用于 Office 套件的 Excel 桌面应用程序功能（如 Office Professional Plus、Office Standard 或 Microsoft 365 Apps for 企业版）。 有关 web 功能的所有 Office 的列表，如适用于 web 的 Word 和 PowerPoint for web，请参阅[跨 Office 的功能可用性的 web 计划](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。
+> 为帮助您比较优惠，本文中列出的高级功能包括仅在 Office (套件中可用的 Excel 桌面应用程序功能，例如 Office Professional Plus、Office Standard 或 Microsoft 365 Apps for enterprise) 。 有关 web 功能的所有 Office 的列表，如适用于 web 的 Word 和 PowerPoint for web，请参阅 [跨 Office 的功能可用性的 web 计划](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。
 
-若要查看 Excel 对 web 所支持的文件类型，请参阅[支持的适用于 web 的 Office 文件类型](office-online-service-description.md#supported-file-types-for-office-for-the-web)。 若要了解有关 web Excel 和 Excel 桌面应用程序之间的差异的详细信息，请参阅在[浏览器和 excel 中使用工作簿之间的差异](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)。
+若要查看 Excel 对 web 所支持的文件类型，请参阅 [支持的适用于 web 的 Office 文件类型](office-online-service-description.md#supported-file-types-for-office-for-the-web)。 若要了解有关 web Excel 和 Excel 桌面应用程序之间的差异的详细信息，请参阅在 [浏览器和 excel 中使用工作簿之间的差异](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)。
   
 ## <a name="add-background-color-to-sheet-tabs"></a>向工作表选项卡添加背景色 
 
-将背景填充颜色添加到工作表中的工作表标签以使其突出放置。有关详细信息，请参阅[向工作表选项卡添加背景颜色](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59)。
+将背景填充颜色添加到工作表中的工作表标签以使其突出放置。有关详细信息，请参阅 [向工作表选项卡添加背景颜色](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59)。
 
 ## <a name="add-hyperlinks"></a>添加超链接
 
@@ -42,7 +42,7 @@ Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验�
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>高级数据类型：股票和地理位置
 
-您可以在 Excel 中获取股票和地理数据。 与在单元格中键入文本，然后将其转换为 "股票" 数据类型或 "地理" 数据类型一样简单。 了解有关[股票和地理数据类型](https://support.office.com/article/e61a33056-9935-484f-8ac8-f1a89e210877)的详细信息。
+您可以在 Excel 中获取股票和地理数据。 与在单元格中键入文本，然后将其转换为 "股票" 数据类型或 "地理" 数据类型一样简单。 了解有关 [股票和地理数据类型](https://support.office.com/article/e61a33056-9935-484f-8ac8-f1a89e210877)的详细信息。
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
@@ -54,7 +54,7 @@ Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验�
   
 ## <a name="apply-conditional-formatting"></a>应用条件格式
 
-使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何[在 Excel for web 中使用条件格式](https://go.microsoft.com/fwlink/p/?LinkId=282326)的详细信息。
+使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何 [在 Excel for web 中使用条件格式](https://go.microsoft.com/fwlink/p/?LinkId=282326)的详细信息。
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -62,7 +62,7 @@ Excel for web （以前称为 Excel Web App）将您的 Microsoft Excel 体验�
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-在 Excel for web 中不可用。 在 Excel 桌面应用程序中，推荐的图表允许您从最适合呈现数据的各种图表中进行选择。 了解有关[如何在 Excel 中使用图表建议的](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)详细信息。
+在 Excel for web 中不可用。 在 Excel 桌面应用程序中，推荐的图表允许您从最适合呈现数据的各种图表中进行选择。 了解有关 [如何在 Excel 中使用图表建议的](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)详细信息。
   
 ## <a name="autocomplete"></a>"
 
@@ -78,30 +78,30 @@ Excel for web 可以完成您要键入到单元格中的内容，如果有多个
 
 ## <a name="cell-references-in-formulas"></a>公式中的单元格引用
 
-您可以在公式中使用单元格引用。 当[引用公式中的单元格或区域](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)时，被引用的单元格或区域将突出显示为一种颜色。 有关详细信息，请参阅[在公式中使用单元格引用](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)。
+您可以在公式中使用单元格引用。 当 [引用公式中的单元格或区域](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa)时，被引用的单元格或区域将突出显示为一种颜色。 有关详细信息，请参阅 [在公式中使用单元格引用](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03)。
   
 ## <a name="chart-animations-adapt-to-new-data"></a>适应新数据的图表动画
 仅 Microsoft Excel 桌面应用程序支持高级图表功能。 了解有关 [how to animate a SmartArt graphic](https://go.microsoft.com/fwlink/p/?LinkId=271668)（如何将 SmartArt 图形制作成动画）的详细信息。
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>图表和表格，包括数据透视图报表和数据透视表
 
-Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 若要了解详细信息，请参阅[创建和设置表格式](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664)以及[数据透视表和数据透视图报表概述](https://go.microsoft.com/fwlink/?linkid=55417)。
+Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 若要了解详细信息，请参阅 [创建和设置表格式](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) 以及 [数据透视表和数据透视图报表概述](https://go.microsoft.com/fwlink/?linkid=55417)。
 
 ## <a name="check-spelling"></a>检查拼写
 
-若要检查工作表上的任何文本的拼写，请选择 "**查看**  >  **校对**  >  **拼写**"。 了解有关[拼写检查](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)的详细信息。
+若要检查工作表上的任何文本的拼写，请选择 "**查看**  >  **校对**  >  **拼写**"。 了解有关 [拼写检查](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)的详细信息。
 
 ## <a name="comment-creation"></a>Comment creation
 
-您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 [使用您的注释中的 @mentions](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online)将电子邮件发送给您提到的人。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
+您可以在 Excel 中插入、编辑和删除对 web 的注释。 您还可以解析注释线程，使其关闭以进行编辑和添加到新注释，但不将其保留在原处。 这使您可以在需要时重新打开线程以进行注释。 [使用您的注释中的 @mentions](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) 将电子邮件发送给您提到的人。 了解有关[向 Excel 中添加批注](https://go.microsoft.com/fwlink/p/?LinkId=271670)的详细信息。
 
 ## <a name="convert-a-table-to-a-range"></a>将表转换为区域
 
-创建 Excel 表后，可能只需要没有表功能的表格样式。 若要停止处理表中的数据，而不丢失应用的任何表样式格式，可以将表转换为工作表中的常规数据区域。 了解有关如何[将 Excel 表转换为数据区域的](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web)详细信息。
+创建 Excel 表后，可能只需要没有表功能的表格样式。 若要停止处理表中的数据，而不丢失应用的任何表样式格式，可以将表转换为工作表中的常规数据区域。 了解有关如何 [将 Excel 表转换为数据区域的](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web)详细信息。
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-您可以剪切、复制和粘贴文本、超链接、数字、公式、形状、图表和图像。 如果您在列中有需要旋转以按行重新排列的数据，请使用 "**粘贴**" 菜单上的 "**转置**" 功能。 有关详细信息，请参阅[在 Excel for web 中复制和粘贴](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。 将 Edge 或 Chrome 用作浏览器时，可以复制其他应用程序的超链接，并将其粘贴到 Excel for web 中。 粘贴的超链接将正常工作。
+您可以剪切、复制和粘贴文本、超链接、数字、公式、形状、图表和图像。 如果您在列中有需要旋转以按行重新排列的数据，请使用 "**粘贴**" 菜单上的 "**转置**" 功能。 有关详细信息，请参阅 [在 Excel for web 中复制和粘贴](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline)。 将 Edge 或 Chrome 用作浏览器时，可以复制其他应用程序的超链接，并将其粘贴到 Excel for web 中。 粘贴的超链接将正常工作。
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -109,7 +109,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="create-tables"></a>创建表格
 
-创建表格以组织和分析相关数据。 表格便于进行排序、筛选和设置数据的格式。 使用[表格格式选项](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)（包括样式库）添加一些波兰语。
+创建表格以组织和分析相关数据。 表格便于进行排序、筛选和设置数据的格式。 使用 [表格格式选项](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)（包括样式库）添加一些波兰语。
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>创建高级分析视图（Power View、Power Pivot、切片器）
 
@@ -117,7 +117,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="data-validation"></a>数据有效性
 
-可以使用数据验证来限制数据类型或用户输入到单元格的值。 若要了解详细信息，请参阅[向单元格应用数据验证](https://go.microsoft.com/fwlink/?linkid=844735)。
+可以使用数据验证来限制数据类型或用户输入到单元格的值。 若要了解详细信息，请参阅 [向单元格应用数据验证](https://go.microsoft.com/fwlink/?linkid=844735)。
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
@@ -125,17 +125,17 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
 
 ## <a name="draw-cell-borders"></a>绘制单元格边框
 
-您可以在工作表上的单元格周围绘制边框，以帮助用户直观地组织数据。 了解有关[Excel 中的单元格边框的](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web)详细信息。
+您可以在工作表上的单元格周围绘制边框，以帮助用户直观地组织数据。 了解有关 [Excel 中的单元格边框的](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web)详细信息。
   
 ## <a name="dropbox"></a>Dropbox
 
 Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的服务的文件。
   
-## <a name="duplicate-copy-worksheets"></a>复制（复制）工作表
+## <a name="duplicate-copy-worksheets"></a>复制 (复制) 工作表
 
-您可以在工作簿或 Excel for web 中的其他工作簿中复制（或复制）工作表。 了解有关[在 Excel for web 中复制工作表](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web)的详细信息。
+您可以复制工作簿中的 (或复制工作簿中的) 工作表或在 Excel for web 中复制其他工作簿。 了解有关 [在 Excel for web 中复制工作表](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web)的详细信息。
 
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在 web 或博客页面上嵌入工作簿（OneDrive）
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>在 web 或博客页面上嵌入工作簿 (OneDrive) 
 
 如果你将 Excel 工作簿存储在 OneDrive.com 上，则可以直接将其嵌入博客或网站中。你的读者可以在那里排序、筛选和计算数据，如果你在 OneDrive 中更新工作簿，他们下次刷新页面时将会看到最新更改。了解有关 [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673)（在博客中嵌入 Excel 工作簿）的详细信息。
   
@@ -149,7 +149,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="find"></a>查找
 
-在活动工作表中查找单元格内容。 易于使用的对话框提供了从工作表中的当前选定范围向上或向下搜索的选项。 **查找全部**允许您突出显示搜索词的每个实例。
+在活动工作表中查找单元格内容。 易于使用的对话框提供了从工作表中的当前选定范围向上或向下搜索的选项。 **查找全部** 允许您突出显示搜索词的每个实例。
   
 ## <a name="font-and-cell-formatting"></a>字体和单元格格式
 
@@ -161,11 +161,11 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="formula-tools-advanced"></a>公式工具，高级
 
-Microsoft Excel 桌面应用程序提供了最高级的公式工具，如3D 参考样式。 Excel for web 支持越来越多的高级 Excel 公式，如[动态数组公式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)。 了解有关[公式](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US)的详细信息。
+Microsoft Excel 桌面应用程序提供了最高级的公式工具，如3D 参考样式。 Excel for web 支持越来越多的高级 Excel 公式，如 [动态数组公式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)。 了解有关[公式](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173)的详细信息。
   
 ## <a name="freeze-panes"></a>Freeze panes
 
-"冻结窗格" 功能在 Excel for web 功能区中可用。 了解有关[冻结窗格在 excel 中的工作方式](https://go.microsoft.com/fwlink/p/?LinkId=282331)的详细信息，并[查看适用于 web 的 excel 提示](https://go.microsoft.com/fwlink/?linkid=869873)。
+"冻结窗格" 功能在 Excel for web 功能区中可用。 了解有关 [冻结窗格在 excel 中的工作方式](https://go.microsoft.com/fwlink/p/?LinkId=282331) 的详细信息，并 [查看适用于 web 的 excel 提示](https://go.microsoft.com/fwlink/?linkid=869873)。
   
 ## <a name="full-fidelity-reading-view"></a>全保真阅读视图
 
@@ -173,7 +173,7 @@ Microsoft Excel 桌面应用程序提供了最高级的公式工具，如3D 参�
   
 ## <a name="functions"></a>函数
 
-您可以在 Excel for web 中的公式中使用大多数超过400的 Excel 工作表函数，包括在[动态数组公式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)中使用的函数，例如[FILTER 函数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)。
+您可以在 Excel for web 中的公式中使用大多数超过400的 Excel 工作表函数，包括在 [动态数组公式](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)中使用的函数，例如 [FILTER 函数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)。
   
 ## <a name="goto"></a>GoTo
 
@@ -181,7 +181,7 @@ Microsoft Excel 桌面应用程序提供了最高级的公式工具，如3D 参�
  
 ## <a name="group-data"></a>组数据
 
-您可以对 web 电子表格的 Excel 中的行和列进行分组或分级显示。 通过键盘快捷方式，可以轻松地快速展开或折叠所创建的组。 了解有关[在 Excel for web 中对数据进行分组](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)的详细信息。
+您可以对 web 电子表格的 Excel 中的行和列进行分组或分级显示。 通过键盘快捷方式，可以轻松地快速展开或折叠所创建的组。 了解有关 [在 Excel for web 中对数据进行分组](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)的详细信息。
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -189,7 +189,7 @@ Microsoft Excel 桌面应用程序提供了最高级的公式工具，如3D 参�
 
 ## <a name="ideas"></a>想法
 
-Excel 中的想法可帮助您通过高级可视化摘要、趋势和模式了解数据。 只需选择数据区域中的某个单元格，然后选择 "**开始**" 选项卡上的 "**想法**" 按钮。 Excel 中的想法将分析您的数据，并在任务窗格中返回有关它的感兴趣的可视化效果。 了解有关[Excel 中的想法的](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)详细信息。
+Excel 中的想法可帮助您通过高级可视化摘要、趋势和模式了解数据。 只需选择数据区域中的单元格，然后选择 "**开始**" 选项卡上的 "**想法**" 按钮。Excel 中的创意将分析您的数据，并在任务窗格中返回有关它的感兴趣的可视化效果。 了解有关 [Excel 中的想法的](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)详细信息。
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -201,11 +201,11 @@ Excel 中的想法可帮助您通过高级可视化摘要、趋势和模式了�
 
 ## <a name="insert-pictures"></a>插入图片
 
-通过在电子表格中插入图片来添加一些视觉意义。 了解有关[在 Excel for web 中插入图片](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3)的详细信息。
+通过在电子表格中插入图片来添加一些视觉意义。 了解有关 [在 Excel for web 中插入图片](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3)的详细信息。
 
 ## <a name="insert-shapes"></a>插入形状
 
-为 web 电子表格的 Excel 添加和设置形状（如方框、圆形、线条、连接符或箭头）。 了解有关[添加形状](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)的详细信息。
+为 web 电子表格的 Excel 添加和设置形状（如方框、圆形、线条、连接符或箭头）。 了解有关 [添加形状](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)的详细信息。
 
 ## <a name="keyboard-shortcuts"></a>键盘快捷方式
 
@@ -233,7 +233,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="pivottables"></a>数据透视表
 
-您可以在 Excel 中插入 web 电子表格的数据透视表，并计算、汇总和分析数据。 了解有关如何[在 Excel 中为 web 插入数据透视表](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)的详细信息。
+您可以在 Excel 中插入 web 电子表格的数据透视表，并计算、汇总和分析数据。 了解有关如何 [在 Excel 中为 web 插入数据透视表](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)的详细信息。
 
 ## <a name="post-to-social-network-and-present-online"></a>发布到社交网络并联机演示
 
@@ -249,7 +249,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="print"></a>打印
 
-使用 Excel for web 中的 "打印" 命令将整个工作表或当前所选内容发送到打印机。 了解有关[如何在 Excel for web 中打印](https://go.microsoft.com/fwlink/p/?LinkId=271676)的详细信息。
+使用 Excel for web 中的 "打印" 命令将整个工作表或当前所选内容发送到打印机。 了解有关 [如何在 Excel for web 中打印](https://go.microsoft.com/fwlink/p/?LinkId=271676)的详细信息。
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
@@ -265,7 +265,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 ## <a name="remove-duplicate-values"></a>删除重复值
 
-您可以删除区域或表中的重复值。 有关详细信息，请参阅[筛选唯一值或删除重复值](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
+您可以删除区域或表中的重复值。 有关详细信息，请参阅 [筛选唯一值或删除重复值](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2)。
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
@@ -277,7 +277,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="replace"></a>替换
 
-在 Excel for web 中不可用。 如果你在计算机上安装了 Excel 桌面应用程序，则可以使用 Excel 查找并替换文档中的内容。 了解有关[在 Excel 中使用查找和替换的](https://go.microsoft.com/fwlink/p/?LinkId=282333)详细信息。
+在 Excel for web 中不可用。 如果你在计算机上安装了 Excel 桌面应用程序，则可以使用 Excel 查找并替换文档中的内容。 了解有关 [在 Excel 中使用查找和替换的](https://go.microsoft.com/fwlink/p/?LinkId=282333)详细信息。
   
 ## <a name="rights-management-irm-and-password-security"></a>权限管理：IRM 和密码安全
 
@@ -293,7 +293,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="share"></a>共享
 
-单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[如何使用 office for web 在 office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
+单击一下即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解 [如何使用 office for web 在 office 365 中协同工作](https://go.microsoft.com/fwlink/p/?linkid=272770)。
   
 ## <a name="sheet-protection"></a>工作表保护
 
@@ -301,7 +301,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 ## <a name="sheet-views"></a>工作表视图
 
-[工作表视图](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)允许您创建 Excel 工作表的自定义视图，而不会被其他人中断。 例如，您可以设置筛选器以仅显示对您非常重要的记录，而不受文档中的其他排序和筛选的影响。 您甚至可以在同一工作表上设置多个工作表视图。
+[工作表视图](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) 允许您创建 Excel 工作表的自定义视图，而不会被其他人中断。 例如，您可以设置筛选器以仅显示对您非常重要的记录，而不受文档中的其他排序和筛选的影响。 您甚至可以在同一工作表上设置多个工作表视图。
   
 ## <a name="slicers"></a>切片器
 
@@ -309,7 +309,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-在 Excel for web 中，您可以查看和重新排序所有工作表、排序和筛选数据（从上到下或从左到右的多个级别），并深入了解数据透视表的详细信息。 使用图标集或颜色值对使用图标集或颜色缩放的按条件格式的数据进行排序。 了解有关对[数据进行排序和筛选](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)的详细信息。
+在 Excel for web 中，可以查看和重新排序所有工作表、对数据进行排序和筛选 (从上到下或从左到右的多个级别) ，并深入了解数据透视表的详细信息。 使用图标集或颜色值对使用图标集或颜色缩放的按条件格式的数据进行排序。 了解有关对 [数据进行排序和筛选](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web)的详细信息。
   
 ## <a name="spreadsheet-audit-and-compliance"></a>电子表格审核和合规性
 
@@ -321,7 +321,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
   
 ## <a name="surveys"></a>调查
 
-使用调查将 web 表单的 Excel 发送给他们可以填写的用户。响应将自动在联机工作表中进行编译。 了解有关[Excel 中的调查的](https://go.microsoft.com/fwlink/p/?LinkId=391470)详细信息。
+使用调查将 web 表单的 Excel 发送给他们可以填写的用户。响应将自动在联机工作表中进行编译。 了解有关 [Excel 中的调查的](https://go.microsoft.com/fwlink/p/?LinkId=391470)详细信息。
   
 ## <a name="tell-me"></a>操作说明搜索
 
@@ -333,7 +333,7 @@ Excel for the web 允许您查看 Power Pivot 表和图表，但您需要 Excel 
 
 ## <a name="total-data"></a>总数据
 
-通过启用 "切换汇总行" 选项，可以快速汇总表中的数据。 有关详细信息，请参阅[总计 Excel 表中的数据](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)。
+通过启用 "切换汇总行" 选项，可以快速汇总表中的数据。 有关详细信息，请参阅 [总计 Excel 表中的数据](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)。
 
 ## <a name="undo-and-redo"></a>撤消和恢复
 
@@ -341,7 +341,7 @@ Excel for web 将自动保存您的工作。 如果出错，请使用 "撤消" �
   
 ## <a name="vba-and-macro-scripting"></a>VBA 和宏脚本
 
-Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作、分析和呈现数据。 有时，尽管有丰富的功能集，但您的组织可能会发现，使用 Visual Basic for Applications （VBA）、编程语言，可以创建执行常见的重复性任务的宏，或执行用户界面（UI）不会解决的某些任务。 您不能在 Excel for the web 中创建带有 VBA 的宏，但是，您可以打开和编辑启用 VBA 的电子表格，而无需删除（或损坏）文件中包含的 VBA。 了解有关[宏入门的](https://go.microsoft.com/fwlink/p/?LinkId=271678)详细信息。
+Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作、分析和呈现数据。 有时，尽管有丰富的功能集，但您的组织可能会发现，使用 Visual Basic for Applications (VBA) （一种编程语言），可以创建执行常见的重复性任务的宏，或执行用户界面 (UI) 的某些任务似乎不是地址。 您不能在 Excel for the web 中创建带有 VBA 的宏，但是，您可以打开和编辑启用 VBA 的电子表格，而不删除 (或损坏) 文件中包含的 VBA。 了解有关 [宏入门的](https://go.microsoft.com/fwlink/p/?LinkId=271678)详细信息。
   
 ## <a name="view-3d-charts"></a>查看 3D 图表
 
@@ -353,8 +353,8 @@ Microsoft Excel 桌面应用程序是一种极其强大的工具，用于操作�
 
 ## <a name="workbook-statistics"></a>工作簿统计信息
 
-工作簿统计信息功能对工作簿的元素进行计数和标识，以帮助您发现它的所有内容。 你可以在 "**审阅**" 选项卡上找到它。
+工作簿统计信息功能对工作簿的元素进行计数和标识，以帮助您发现它的所有内容。 你可以在 " **审阅** " 选项卡上找到它。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[适用于 web 服务说明的 Office](office-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [适用于 web 服务说明的 Office](office-online-service-description.md)。

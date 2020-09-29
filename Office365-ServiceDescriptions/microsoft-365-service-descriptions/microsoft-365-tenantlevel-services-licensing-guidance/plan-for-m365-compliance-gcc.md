@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962131"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293868"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -62,9 +62,9 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>步骤 4. 了解默认情况下在 Microsoft 365 政府中当前不可用或禁用的功能（GCC<sup>1</sup> ）
 
-为了满足政府云客户的要求，Microsoft 365 政府-GCC 和企业版计划存在一些差异。 请参阅下表以查看哪些功能可用。
+为了满足政府云客户的要求，Microsoft 365 政府-GCC 和企业版计划存在一些差异。 请参阅下表以查看哪些功能可用。<br><br>
 
-|                                         | **功能**                                     | **GCC 状态**         |
+| 区域 | 功能 | GCC 状态 |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **信息保护**              | 统一的标签和敏感度标签         | 可用              |
 |                                         | Sharepoint Online 的容器标签、Office 组          | 即将推出              |

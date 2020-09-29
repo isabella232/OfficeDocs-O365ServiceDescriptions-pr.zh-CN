@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组织的需求。 如果你正在寻找计划（包括 Exchange Online 计划）之间的差异，本文将向你展示每个计划中包含的功能。
-ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261524"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293818"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -218,7 +218,7 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 <br/><sup>11</sup> 在 Office 365 企业版 F3 中，Office 365 视频仅限于查看 (不) 发布或共享。 
 <br/><sup>12</sup> 在 Office 365 企业 F3 中，流仅限于使用，每个用户每个月限制运行数为750。 
 <br/><sup>13</sup> 仅适用于 Office 365 教育版计划，包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
-<br/><sup>14</sup> 有关详细信息，请参阅 [使用客户密钥的服务加密](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US)。 
+<br/><sup>14</sup> 有关详细信息，请参阅 [使用客户密钥的服务加密](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。 
 <br/><sup>15</sup> 美国和西欧 (荷兰) 地区支持高级电子数据展示。 从加拿大和亚太地区 (客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 ) 
 <br/>仅<sup>16</sup>个 Microsoft Stream 的消耗：不发布或共享。
 <br/><sup>17</sup> 起始于5月2019，Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。

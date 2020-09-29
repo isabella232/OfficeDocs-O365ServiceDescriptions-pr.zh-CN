@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供了以下核心功能功能。
-ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131266"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294038"
 ---
 # <a name="core-functionality"></a>核心功能
 
 Project Online 中提供了以下核心功能功能。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>添加列
 
@@ -30,7 +30,7 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="backstage"></a>Backstage
 
-选择 "**文件**" 以使用 Backstage 中的功能，您可以在其中管理项目文件以及有关这些功能的数据。 使用 Backstage 进行针对项目文件执行而不在文件中执行的所有操作 - 创建、保存、检查隐藏的元数据或个人信息以及设置选项。 
+选择 " **文件** " 以使用 Backstage 中的功能，您可以在其中管理项目文件以及有关这些功能的数据。 使用 Backstage 进行针对项目文件执行而不在文件中执行的所有操作 - 创建、保存、检查隐藏的元数据或个人信息以及设置选项。 
   
 ## <a name="click-to-run"></a>即点即用
 
@@ -42,7 +42,7 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="custom-fields"></a>自定义域
 
-除了 Project 附带的字段之外，还可以使用自定义字段来满足组织需求。若要详细了解字段，请参阅 [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)（可用字段参考）。
+除了 Project 附带的字段之外，还可以使用自定义字段来满足组织需求。若要详细了解字段，请参阅 [Available fields reference](https://support.office.com/article/615a4563-1cc3-40f4-b66f-1b17e793a460)（可用字段参考）。
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
@@ -70,7 +70,7 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="online-help"></a>联机帮助
 
-Project 帮助在 Office.com 中或直接在 Project 中的入门指南（选择**文件**" \> **新建**"）中提供。 [观看这些视频，使其切换到项目 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
+Project 帮助可在 Office.com 中使用，也可在 project (中直接入门指南中选择 " **文件**" \> **新建**) 。 [观看这些视频，使其切换到项目 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
@@ -102,6 +102,6 @@ Project 2013 为您启动项目提供了一个一站式中心，而不是让您�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online 服务说明](project-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
 

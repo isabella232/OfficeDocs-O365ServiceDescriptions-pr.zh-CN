@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online 存档允许用户从各种设备和平台连接到其存档邮箱。 与用户存档的所有网络连接通过 internet 进行，而虚拟专用网络 (VPN) 连接不是必需的。 组织可以发布一个本地客户端访问服务器，通过此服务器，用户可以使用 Outlook 无处不在 （而无需通过 VPN 连接）访问其主邮箱。 如果需要 VPN 接入以访问位于本地服务器上的用户主邮箱，此要求不会更改。
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: 阅读本文，了解 Microsoft Exchange Online 存档中提供的客户端功能。
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255899"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293634"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的客户端功能
 
@@ -29,8 +29,8 @@ Microsoft Exchange Online 存档允许用户从各种设备和平台连接到其
 
 Microsoft Outlook 是一款丰富的电子邮件程序，包括对日历、联系人和任务的支持。Exchange Online Archiving 支持 Outlook 2013、Outlook 2010 和 Outlook 2007。关键功能包括：
   
-- **Outlook 无处** 不在通过 outlook 无处不在，outlook 用户可以通过 internet 连接到 Exchange Server 和 Exchange Online 存档，而无需 VPN 连接。 Outlook 和 Exchange Online Archiving 之间的通信通过 SSL 保护的隧道使用 RPC-over-HTTP Windows 网络组件进行。    
-- **自动发现** Exchange 自动发现服务自动配置 Outlook 以用于 Exchange Online Archiving。 通过自动发现，Outlook 用户可以在第一次 (时直接从 Exchange 接收所需的配置文件设置，并在此后) 它们使用其电子邮件地址和密码进行登录。 
+- **Outlook 无处** 不在，outlook Anywhere 允许 outlook 用户通过 internet 连接到 exchange Server 和 Exchange Online 存档，而无需 VPN 连接。 Outlook 和 Exchange Online Archiving 之间的通信通过 SSL 保护的隧道使用 RPC-over-HTTP Windows 网络组件进行。    
+- **自动发现** -Exchange 自动发现服务自动将 Outlook 配置为与 Exchange Online 存档配合使用。 通过自动发现，Outlook 用户可以在第一次 (时直接从 Exchange 接收所需的配置文件设置，并在此后) 它们使用其电子邮件地址和密码进行登录。 
 
 Outlook 2010 及更高版本和 web 上的 Outlook 为用户提供了存档的全部功能，以及保留和存档策略等相关功能。
   
@@ -41,9 +41,9 @@ Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性�
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Exchange Online Archiving 支持的客户端
 
-下表列出了 Exchange Online Archiving 支持的客户端：
+下表列出了 Exchange Online Archiving 支持的客户端：<br><br>
   
-|**客户端**|**EOA 支持**|
+| 客户端 | EOA 支持 |
 |:-----|:-----|
 |Outlook 2013 及更高版本  <br/> |支持 Exchange Online Archiving 中的最新功能。<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |仅在10月13日之前支持 Exchange Online 存档中的最新功能。13，2020|

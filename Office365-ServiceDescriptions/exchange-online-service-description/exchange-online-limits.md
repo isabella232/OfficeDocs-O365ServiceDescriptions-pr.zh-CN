@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214341"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293788"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -239,7 +239,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 下列限制适用于每封电子邮件。
 
-- **邮件大小限制**：需要邮件大小限制，以防止较大的邮件阻止传递其他邮件，并影响所有用户的服务性能。 这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。 将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。 尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。 若要了解详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
+- **邮件大小限制**：需要邮件大小限制，以防止较大的邮件阻止传递其他邮件，并影响所有用户的服务性能。 这些限制包括一些附件，并且适用于组织范围的所有邮件（入站、出站和内部）。 将不送达超过该限制的邮件，同时发件人将收到未送达报告 (NDR)。 尽管可以向上、向下或按每个用户配置邮件大小限制，但管理员仍可以创建传输规则以限制任何单个附件的最大大小。 若要了解详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://go.microsoft.com/fwlink/?linkid=2144144)。
 
     > [!NOTE]
     > 某些电子邮件客户端的邮件大小限制可能较低，或者可能将单个文件附件的大小限制为小于 Exchange Online 邮件大小限制的值。
@@ -280,7 +280,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 邮箱的默认最大邮件大小为 25 MB。 Microsoft 管理员可以指定介于 1 MB 和 150 MB 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 
+> <sup>1</sup> Microsoft 邮箱的默认最大邮件大小为 25 MB。 Microsoft 管理员可以指定介于 1 MB 和 150 MB 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://go.microsoft.com/fwlink/?linkid=2144144)。 
 <br/> <sup>2</sup> 您可以在用户之间发送和接收最高 150 MB 的邮件， (邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
 <sup>3</sup> OWA 帐户可能会导致您的邮件受到33% 编码的增加，并将邮件大小限制为低于配置的设置的25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 
 <br/> <sup>4</sup> 要移至 Exchange Online 的邮件大小由 Exchange Online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持的 Exchange 邮箱复制服务的基于移动的迁移。  (转换、暂存、IMAP、PST) 和其他第三方工具的其他迁移方法受常规邮件大小限制的限制。 <br/> 
@@ -309,7 +309,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft 管理员可以指定介于 1 mb 和 150 mb 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。 <br/> <sup>2</sup> 您可以在用户之间发送和接收最高 150 MB 的邮件， (邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
+> <sup>1</sup> Microsoft 管理员可以指定介于 1 mb 和 150 mb 之间的自定义限制。 不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。 有关为您的组织自定义允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://go.microsoft.com/fwlink/?linkid=2144144)。 <br/> <sup>2</sup> 您可以在用户之间发送和接收最高 150 MB 的邮件， (邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件可能会增加33% 的翻译编码，在这种情况下，最大邮件大小为 112 MB。 <br/> 
 <sup>3</sup> OWA 帐户可能会导致您的邮件受到33% 编码的增加，并将邮件大小限制为低于配置的设置的25%。 例如，如果将设置自定义为 100 MB 最大邮件大小，则你可以发送不超过 75 MB 的邮件。 <br/> 
 <sup>4</sup> 这是 Exchange Server 2013 组织的默认限制。 管理员可以为其组织更改此值。 <br/> 
 <sup>5</sup> 要移到 exchange online 中的邮件的大小由 Exchange online 计算。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的项目大小。 <br/> 

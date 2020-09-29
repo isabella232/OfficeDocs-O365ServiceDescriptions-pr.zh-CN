@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261534"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294128"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -229,7 +229,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|是|是|是|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是|是<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|否|否|否|否|否|否|否<sup>5</sup>|否|否|否|
 |[Windows 10 应用](../office-applications-service-description/office-applications.md#windows-10-apps)|是|是|是|是|是|是|是|是|是|否|
-|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|否|是|否|否|否|是|否<sup>5</sup>|否|是|否|
+|[适用于 Office 365 的 Office for Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|否|是|否|否|否|是|否<sup>5</sup>|否|是|否|
 |Android 版 Microsoft Office 应用|是|是|是|是|是|是|是|是|是|是|
 |iOS 版 Microsoft Office 应用|是|是|是|是|是|是|是|是|是|是|
 |[Office Mobile for iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|是|是|是|是|是|是|是<sup>5</sup>|是|是|是|
@@ -278,7 +278,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 <br/><sup>6</sup>可以安装但不可激活 Office 2011 for Mac。
 <br/><sup>7</sup>用户专用的虚拟桌面基础结构 (VDI) 支持 Office 365 专业增强版。 通过批量许可计划购买时，Office 365 专业增强版仅支持远程桌面服务 (RDS)。
 <br/><sup>8</sup>只能批量激活在启用了 RDS 角色或安装了 Windows To Go 的 Windows Server 2008 R2 及更高版本上安装的 Office 365 企业版 E3和 Office 365 ProPlus。 在任一情况下，访问这些安装项的用户都需要获得 Office 365 企业版 E3 或 Office 365 专业增强版的许可。
-<br/><sup>9</sup>如果使用的是当前频道或延期频道的定向版，则 Access 当前可供使用。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅[包含在 Office 365 商业版和商业高级版中的 Access](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US)。
+<br/><sup>9</sup>如果使用的是当前频道或延期频道的定向版，则 Access 当前可供使用。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅[包含在 Office 365 商业版和商业高级版中的 Access](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef)。
 <br/><sup>10</sup>对于由世纪互联运营的 Office 365，Visio 网页版当前处于预览阶段。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。
 <br/><sup>11</sup>即将在由世纪互联运营的 Office 365 中推出。
 <br/><sup>15</sup>中国境内不提供 Play Store 等 Google 服务。 一些应用商店由大型手机制造商或搜索引擎公司维护，用户可通过他们安装移动应用。
@@ -520,7 +520,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 > [!NOTE]
 > 由世纪互联运营的 Office 365 版本专为中国而设计。
 
-| 套餐 | Description |
+| 套餐 | 说明 |
 |:-----|:-----|
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online**| 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|

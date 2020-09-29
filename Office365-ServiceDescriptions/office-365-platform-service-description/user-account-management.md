@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支持以下用于创建、管理和对用户进行身份验证的方法。
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261544"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294208"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ Microsoft 支持以下用于创建、管理和对用户进行身份验证的方�
 
 获取帮助：[在](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [安装或卸载 office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)时进行登录  |  [取消 office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-有关其他问题，请访问 [Microsoft 支持中心](https://support.microsoft.com/contactus/)。 若要获取由中国的世纪互联运营的 Office 365 的支持，请联系[世纪互联支持团队](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 对于 Office 365 Germany，请联系 [Office 365 Germany 支持团队](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1)。 
+有关其他问题，请访问 [Microsoft 支持中心](https://support.microsoft.com/contactus/)。 若要获取由中国的世纪互联运营的 Office 365 的支持，请联系[世纪互联支持团队](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496)。 对于 Office 365 Germany，请联系 [Office 365 Germany 支持团队](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9)。 
   
 ## <a name="sign-in-options"></a>登录选项
 
@@ -87,7 +87,7 @@ Microsoft 使用基于表单的身份验证，并且通过网络的身份验证�
     
 - **通过 ssl 的基本/代理身份验证** -Outlook 客户端通过 ssl 将基本身份验证凭据传递到 Exchange Online。 Exchange Online 将身份验证请求代理到标识平台，然后代理到本地 Active Directory 联合服务器 (的 SSO) 。 
     
-为了确保正确发现和验证 Microsoft 服务，管理员必须将一组组件和更新应用到使用丰富客户端的每个工作站，如 Microsoft Office 2010) 并连接到 Office 365 (。 桌面安装程序是一种自动工具，用于配置具有所需更新的工作站。 有关详细信息，请参阅 [使用我当前的 Office 桌面应用](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US)。
+为了确保正确发现和验证 Microsoft 服务，管理员必须将一组组件和更新应用到使用丰富客户端的每个工作站，如 Microsoft Office 2010) 并连接到 Office 365 (。 桌面安装程序是一种自动工具，用于配置具有所需更新的工作站。 有关详细信息，请参阅 [使用我当前的 Office 桌面应用](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7)。
   
 ### <a name="sign-in-experience"></a>登录体验
 
@@ -114,7 +114,7 @@ Microsoft 使用基于表单的身份验证，并且通过网络的身份验证�
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-您可以通过多种方式添加用户。 若要了解详细信息，请参阅在 Microsoft 365 管理中心预览版中 [单独添加用户或在批量管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users) 中 [添加、删除和管理用户](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
+您可以通过多种方式添加用户。 若要了解详细信息，请参阅在 Microsoft 365 管理中心预览版中 [单独添加用户或在批量管理员帮助](https://docs.microsoft.com/office365/admin/add-users/add-users) 中 [添加、删除和管理用户](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
 ## <a name="delete-user-accounts"></a>删除用户帐户
 
@@ -181,7 +181,7 @@ Microsoft 计费管理员可以对订阅详细信息进行更改，如用户许�
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory 服务
 
-Azure Active Directory (AD) 将身份和访问管理综合功能引入 Office 365。不仅整合了目录服务、高级身份管理、应用程序访问管理，并为开发者提供了一个基于标准的丰富平台。若要详细了解 Office 365 中的 AD 功能，请参阅 [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/)（登录页品牌塑造和云用户自助服务密码重置）。详细了解 [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx)（Azure Active Directory 免费版、基本版和高级版）。 
+Azure Active Directory (AD) 将身份和访问管理综合功能引入 Office 365。 不仅整合了目录服务、高级身份管理、应用程序访问管理，并为开发者提供了一个基于标准的丰富平台。 若要了解有关 Office 365 中的广告功能的详细信息，请参阅[登录页面品牌打造和云用户自助服务密码重置]() https://go.microsoft.com/fwlink/?linkid=2144147 。 详细了解 [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx)（Azure Active Directory 免费版、基本版和高级版）。 
   
 ## <a name="feature-availability"></a>功能可用性
 
