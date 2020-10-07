@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过在德国法律管辖的唯一数据受信者模型中提供了我们业界一流的数字工作工作效率服务（从德国数据中心起，通过 EFTA 中的数据访问和控制措施），帮助您满足德国最受管控客户的需求、欧盟 (EU) 和欧洲免费贸易协会 () 。
-ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
+ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293848"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367759"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -459,7 +459,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>9</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 <br/> <sup>10</sup> 个已连接帐户受 POP &amp; IMAP 帐户支持，但对 Outlook.com (Hotmail) 禁用。 <br/>
 <sup>11</sup> 可以为需要非活动邮箱功能的每个邮箱单独购买 EOA 订阅。 <br/>
 <sup>12</sup> 不支持使用 cmdlet 来使用地址列表和全局地址列表。 <br/>
-<sup>13</sup> 需要使用可用性地址空间来支持与其他租户共享。 有关如何创建可用性地址空间的详细信息，请参阅 [外接程序 AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace)。 <br/> <sup>14</sup> 表指示客户端是否在关联的计划中运行。 这并不意味着购买这些计划时必须包括客户端。<br/>
+<sup>13</sup> 需要使用可用性地址空间来支持与其他租户共享。 有关如何创建可用性地址空间的详细信息，请参阅 [外接程序 AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace)。 <br/> <sup>14</sup> 表指示客户端是否在关联的计划中运行。 这并不意味着购买这些计划时必须包括客户端。<br/>
 <sup>15</sup> 支持 POP，但不支持 IMAP。<br/>
 <sup>16</sup> 某些第三方 web 部件和外接程序可能不可用。
 
