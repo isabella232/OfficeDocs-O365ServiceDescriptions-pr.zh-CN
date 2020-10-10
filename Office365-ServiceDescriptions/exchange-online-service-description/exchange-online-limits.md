@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: d2b3639627efbafa91ab5bb45807b83aa1b30a28
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293788"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408238"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -389,7 +389,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 - **垃圾邮件文件夹保留期**：项目在被自动删除之前可在 "垃圾邮件" 文件夹中保留的最大天数。
 
 > [!NOTE]
-> 软删除的用户邮箱 &mdash; 使用 Microsoft 365 管理中心或在 Exchange Online PowerShell 中的 Remove-邮箱 cmdlet 删除的邮箱，且仍在 Azure Active Directory 回收站中的邮箱 &mdash; 可在30天内恢复。
+> 软删除的用户邮箱 &mdash; 使用 Microsoft 365 管理中心或 Exchange Online PowerShell 中的 Remove-Mailbox cmdlet 删除的邮箱，并且仍在 Azure Active Directory 回收站中的邮箱 &mdash; 可在30天内恢复。
 
 ### <a name="retention-limits"></a>保留限制
 
@@ -431,7 +431,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |限制向大型通讯组发送邮件|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|
 |拥有 5,000 到 99,999 个成员的分配组的最大邮件大小|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |拥有 100,000 个成员的分配组的最大邮件大小|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|通讯组所有者的最大数量|10 |10 |10 |10 |10 |10 |
+|通讯组所有者的最大数量|10  |10  |10  |10  |10  |10  |
 |用户可创建的组的最大数目|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +443,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |:-----|:-----|:-----|:-----|:-----|
 |通讯组成员的最大数目|100,000 个成员<sup>1</sup>|100,000 个成员|100,000 个成员|100,000 个成员|
 |限制向大型通讯组发送邮件|5,000 个成员或更多成员<sup>1</sup>|5,000 个成员或更多成员|5,000 个成员或更多成员|5,000 个成员或更多成员|
-|通讯组所有者的最大数量|10 |10 |10 |10 |
+|通讯组所有者的最大数量|10  |10  |10  |10  |
 |用户可创建的组的最大数目|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -469,7 +469,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     
 - **重定向邮件的次数**：邮件将根据收件箱规则自动重定向、转发或答复的次数。 例如，用户 A 有一个根据发件人将邮件重定向到用户 B 的收件箱规则。 用户 B 有一个根据主题行中的关键字将邮件转发到用户 C 的收件箱规则。 如果某邮件同时满足这两个条件，则由于仅允许一次重定向，该邮件仅发送到用户 B，不会转发到用户 C。 在这种情况下，邮件将被丢弃，而不会向用户 B 发送未送达报告 (NDR) ，以表明该邮件未传递到用户 C。我们使用了 X MS--"收件箱" 规则-循环标头来确定邮件被重定向的次数。 此标头还会跨 Exchange 组织边界保留。
 
-- **传输规则重定向邮件的次数**：将根据传输规则重定向邮件的次数。 例如，Exchange 组织 Tailspin 玩具有一个传输规则，用于将发送给用户 A 的每封邮件重定向到位于 Exchange 组织 Contoso 中的用户 B。 在 Exchange 组织 Contoso 中，有一个传输规则，用于将发送给用户 B 的每封邮件重定向到位于 Exchange 组织 A Datum Corporation 的用户 C。 在这种情况下，邮件将被丢弃，未送达报告 (NDR) ，状态代码为，并拒绝邮件 *550 5.7.128 传输。原则.RejectMessage超过了传输规则循环计数，邮件被拒绝* 将发送给用户 A。我们使用了 X MS 交换-Rules-Loop 标头来确定传输规则重定向邮件的次数。 此标头还会跨 Exchange 组织边界保留。
+- **传输规则重定向邮件的次数**：将根据传输规则重定向邮件的次数。 例如，Exchange 组织 Tailspin 玩具有一个传输规则，用于将发送给用户 A 的每封邮件重定向到位于 Exchange 组织 Contoso 中的用户 B。 在 Exchange 组织 Contoso 中，有一个传输规则，用于将发送到用户 B 的每封邮件重定向到位于 Exchange 组织 A Datum Corporation 的用户 C。 在这种情况下，邮件将被丢弃，未送达报告 (NDR) ，状态代码为，并拒绝邮件 *550 5.7.128 传输。原则.RejectMessage超过了传输规则循环计数，邮件被拒绝* 发送给用户 A。我们使用了 X MS 交换-Rules-Loop 标头来确定传输规则重定向邮件的次数。 此标头还会跨 Exchange 组织边界保留。
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>日记、传输和收件箱规则限制
 
