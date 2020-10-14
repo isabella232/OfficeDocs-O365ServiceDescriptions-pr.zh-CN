@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276729"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447339"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -48,9 +48,9 @@ ms.locfileid: "48276729"
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>对列表或库中的项目的独有权限
 
-允许的限制为50000的具有独特权限项目，但建议的常规限制为5000。 一次对超过5000个具有独特权限的项目进行更改会花费更长时间。 对于大型列表，设计应具有尽可能少的唯一权限。
+允许的限制值为50000唯一具有独特权限项目，但建议的常规限制为5000。 一次对超过5000个唯一具有独特权限的项目进行更改会花费更长时间。 对于大型列表，设计应具有尽可能少的唯一权限。
 
-另一种限制5000是每个具有独特权限项唯一的角色分配。 
+另一种限制是每个具有独特权限项唯一5000的角色分配。 
 
 ### <a name="file-size-and-file-path-length"></a>文件大小和文件路径长度
 
@@ -66,9 +66,9 @@ ms.locfileid: "48276729"
 
 ### <a name="sync"></a>同步
 
-**新建 OneDrive 同步应用** -为了获得最佳性能，建议在所有同步的文档库中为每个用户存储不超过300000的文件，即使您按需使用文件或仅选择库中的某些文件夹进行同步也是如此。
+**当前 OneDrive 同步应用 ( # A0) ** -若要获得最佳性能，建议在所有同步的文档库中为每个用户存储不超过300000的文件，即使您按需使用文件或仅选择库中的某些文件夹进行同步也是如此。
 
-**以前的 OneDrive For business 同步应用 ( # A0) ** -您最多可同步20000个在所有同步的库中的项目总计。 这包括 OneDrive 库和/或工作组网站库。 与整体同步限制分开，可为每个库类型同步的项目数有限制：
+**以前的 OneDrive For business 同步应用 ( # A0-用于旧的本地 SharePoint 环境) ** -可以同步所有同步的库中的最多为20000个项目总计。 这包括 OneDrive 库和/或工作组网站库。 与整体同步限制分开，可为每个库类型同步的项目数有限制：
 
    - 你最长可同步 OneDrive 库中的20000个项目。 其中包括文件夹和文件。 
    - 您可以同步 SharePoint 库中的最大为5000项。 其中包括文件夹和文件。 这些库是在各种 SharePoint 网站上找到的库，如工作组网站和社区网站、其他人创建的库或您通过网站页面创建的库。 您可以同步多个 SharePoint 库。 您同步的任何工作组网站也会在所有同步的库中计算出全部20000项目限制。
