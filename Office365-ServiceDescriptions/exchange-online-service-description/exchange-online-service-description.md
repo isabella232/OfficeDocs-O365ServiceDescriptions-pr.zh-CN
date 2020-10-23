@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在寻找包括 Exchange Online 的订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245687"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661280"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -52,6 +52,9 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 每位访问 Exchange Online 服务的用户均必须分配一个订阅计划，且每个用户订阅均具有自身的邮箱。这些邮箱中的文件夹和邮件均位于 Microsoft 数据中心内运行 Exchange Server 的计算机上。
   
 会议室和共享邮箱不需要用户订阅。这些特殊类型的邮箱没有登录凭据。相反，具有适当权限的许可用户通过委派即可对其进行管理和访问。
+
+**Microsoft 365 F1 用户邮箱使用权限** <br/>
+Microsoft 365 F1 不包括对 Exchange 邮箱的权限。 为了启用完整的团队体验，M365 F1 许可证可能会随 Exchange Online K1 service plan 一起启用。 虽然 Exchange Online K1 service plan 将为用户设置邮箱，但 M365 F1 用户不具有使用邮箱的权利。 我们建议您通过 [这些步骤](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 禁用 web 上的 Outlook，并让您的用户不通过任何其他方法访问 Exchange 邮箱。
   
 ## <a name="system-requirements-for-exchange-online"></a>Exchange Online 的系统要求
 
@@ -198,7 +201,7 @@ Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。
 <sup>21</sup> 该表指示客户端是否与关联的计划一起使用。 这并不意味着购买这些计划时必须包括客户端。 <br/>
 <sup>22</sup> 有关详细信息，请参阅 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> 对第三方 PBX 系统的 EXCHANGE Online UM 支持通过从客户操作的直接连接到2019年4月结束。 有关详细信息，请参阅 exchange team 博客 [终止支持 Exchange Online 统一消息中的会话边界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) 。 <br/>
-<sup>24</sup> ： F3 用户不能向自己的邮箱中添加委派，但可以访问另一个邮箱 (包括共享邮箱) 并执行已委派给它们的任何操作。<br/>
+<sup>24</sup> ： F3 用户不能向自己的邮箱中添加委派，但可以访问其他邮箱 (包括共享邮箱) 并执行已委派给它们的任何操作。<br/>
 <sup>25</sup> exchange server 2013 和 exchange server 2016 也需要对适用于企业的 Microsoft 365 应用程序进行订阅。
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>跨 Exchange Online 独立计划的功能可用性

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294097"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661260"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -42,7 +42,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 Microsoft 365 提供了各种计划，以最大限度地满足组织的需求。 有关不同计划的信息，包括独立计划选项和有关从一个计划迁移到另一个计划的信息，请参阅 [Microsoft 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
-若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立产品销售，仅作为 [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1)的一部分进行销售。 
+若要访问 SharePoint，需要为组织中的用户分配包含 SharePoint 的许可证。 Firstline 计划不作为独立的产品销售，仅作为 [Office 365 f3](https://www.microsoft.com/microsoft-365/business/office-365-f1)、 [microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) 或 [microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab)的一部分。 
   
 ## <a name="rights-of-guests"></a>来宾的权限
 
@@ -158,7 +158,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [ 文档库 ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [文档集](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - 文件卡片 (活动、对话、查看器) 
-- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [列表](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [万像素菜单](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含 Office 365 的订阅，并且要求用户为表单授予许可证。
 - [新闻](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)

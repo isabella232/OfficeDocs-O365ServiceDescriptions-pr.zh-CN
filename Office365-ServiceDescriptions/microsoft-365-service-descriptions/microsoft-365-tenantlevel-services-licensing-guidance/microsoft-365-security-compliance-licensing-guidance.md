@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294158"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661290"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -164,7 +164,7 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-具有 Office 365 E1/A1/E3/A3 和 Microsoft 365 E3/A3 许可证的客户将能够访问数据保护基准评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 22701 开箱即用评估。 客户需要至少有一个 Office 365 E5/A5 或 Microsoft 365 E5/A5 许可证，才能使用自定义评估功能。 高级评估版将适用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。
+拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 27001 开箱即用评估，并利用自定义评估功能。 高级评估版将适用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -429,7 +429,7 @@ Office 365 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 合规性，Microso
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-用户可以将加密的数据迁移到云中，并防止第三方访问，前提是用户可以将其加密数据迁移到云中，从而使用户受益于双密钥加密。 最终用户可以保护和使用与任何其他敏感度标签保护的内容类似的双密钥加密内容。
+用户可以将加密数据迁移到云并阻止第三方访问，前提是用户可以将其加密数据迁移到云中，从而使用户受益于双密钥加密。 最终用户可以保护和使用与任何其他敏感度标签保护的内容类似的双密钥加密内容。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
