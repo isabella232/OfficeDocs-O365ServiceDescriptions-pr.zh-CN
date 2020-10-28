@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175179"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773436"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -35,11 +35,11 @@ Microsoft 仍将致力于保护你的服务的数据和 [可访问性](https://w
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-有关产品功能实施指南的详细信息，请参阅 [Microsoft 团队管理文档](https://docs.microsoft.com/MicrosoftTeams)。 此服务说明详细介绍了各种云安装中提供的服务之间的主要差异。 Microsoft 团队核心功能在订阅中不会有所不同。 合规性功能的可用性取决于你的订阅级别。 若要了解详细信息，请参阅 [Microsoft 团队中的安全性和合规性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 有关每个订阅中可用功能的详细列表，请参阅 [Microsoft 365 和 Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
+有关产品功能实施指南的详细信息，请参阅 [Microsoft 团队管理文档](https://docs.microsoft.com/MicrosoftTeams)。 此服务说明详细介绍了各种云安装中提供的服务之间的主要差异。 Microsoft 团队核心功能在订阅中不会有所不同。 合规性功能的可用性取决于你的订阅级别。 若要了解详细信息，请参阅 [Microsoft 团队中的安全性和合规性](https://docs.microsoft.com/microsoftteams/security-compliance-overview)。 有关每个订阅中可用功能的详细列表，请参阅 [Microsoft 365 和 Office 365 platform service description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。
 
-**云语音功能**：对于音频会议，组织必须购买并将音频会议许可证分配给将设置电话拨入式会议的每个用户。 对于需要通话套餐的团队功能，每个用户都需要一个电话系统以及一个国内或国内和国际通话套餐。 若要了解详细信息，请参阅 [Microsoft 团队附加许可证](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)。
+**云语音功能** ：对于音频会议，组织必须购买并将音频会议许可证分配给将设置电话拨入式会议的每个用户。 对于需要通话套餐的团队功能，每个用户都需要一个电话系统以及一个国内或国内和国际通话套餐。 若要了解详细信息，请参阅 [Microsoft 团队附加许可证](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)。
 
-**Live 事件**：此服务在 Office 365 中取代了退休的 Skype 会议直播。 实时事件功能可用于在 Stream service 中详细介绍的许可计划。 请在 [此处查看 Microsoft Stream 许可的详细信息](https://docs.microsoft.com/stream/license-overview)。 可以通过 Stream、Yammer 或 Microsoft 团队访问 Live 事件服务。 若要了解有关实时事件功能的详细信息，请参阅 [Yammer、Microsoft 团队和 Microsoft Stream 中跨 Microsoft 365 的实时事件](https://docs.microsoft.com/stream/live-event-m365)。
+**Live 事件** ：此服务在 Office 365 中取代了退休的 Skype 会议直播。 实时事件功能可用于在 Stream service 中详细介绍的许可计划。 请在 [此处查看 Microsoft Stream 许可的详细信息](https://docs.microsoft.com/stream/license-overview)。 可以通过 Stream、Yammer 或 Microsoft 团队访问 Live 事件服务。 若要了解有关实时事件功能的详细信息，请参阅 [Yammer、Microsoft 团队和 Microsoft Stream 中跨 Microsoft 365 的实时事件](https://docs.microsoft.com/stream/live-event-m365)。
 
 所有受支持的订阅计划都符合访问 Microsoft 团队 web 客户端、桌面客户端和移动应用的条件。
 
@@ -59,13 +59,14 @@ Microsoft 团队不作为独立服务提供。
 |屏幕共享 PowerPoint 音频/视频桌面 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|应用、Bot、& 连接器  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|Live 事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>4</sup>  <br/> |否<sup>4</sup>  <br/> |是  <br/> |
+|应用、Bot、& 连接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>3、4</sup>  <br/> |是  <br/> |
+|Live 事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
 
-> <sup>1</sup>  个 Microsoft 团队（GCC）-高和 DOD 支持每个团队中的成员为2500。<br/>
+> <sup>1</sup>  个 Microsoft 团队在 GCC-High 和 DOD 支持每个团队中的2500个成员。<br/>
 > <sup>2</sup> Microsoft Planner 目前不可用于在专用通道中进行访问。<br/>
-> <sup>3</sup> Microsoft ONENOTE 在 DOD 云中不可用。 此时，应用程序和应用程序发布在这些云中不可用。<br/>
-> <sup>4</sup> 实时事件在 GCC-HIGH 或 DOD 中不可用。<br/>
+> <sup>3</sup> Microsoft ONENOTE 在 DOD 云中不可用。<br/>
+> <sup>4</sup> 此时，这些云中不提供应用程序和应用程序发布。<br/>
+> 在 GCC-High 或 DOD 中，不提供<sup>5 个</sup>Live 事件。<br/>
 
 ## <a name="next-steps"></a>后续步骤
 
