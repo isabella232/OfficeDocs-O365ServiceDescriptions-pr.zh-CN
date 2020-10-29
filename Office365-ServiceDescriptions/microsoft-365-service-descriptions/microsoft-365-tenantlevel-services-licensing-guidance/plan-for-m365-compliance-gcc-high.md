@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中 Microsoft 365 政府– GCC High 的使用适用于满足这些要求。
-ms.openlocfilehash: df0d78d40e91c171b2a512de4b7d8371ceb59995
-ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
+ms.openlocfilehash: 3cbe9271b8e23467fc7934e5847d8433ea5a6768
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "48626883"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793663"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划 Microsoft 365 合规性– GCC High
 
@@ -36,9 +36,9 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 [Office 365 美国政府版服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)介绍了平台的优势，这些优点在美国的符合合规性要求中居中显示。
 
 > [!TIP]
-> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关**   并 **满足我的组织的需要 y/n**。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
+> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n** 。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
 
-**决策点**：<br/>
+**决策点** ：<br/>
 - *确定 Microsoft 365 政府– GCC-High 是否适合您的组织。*
 - *确认您的组织满足资格要求。*
 
@@ -53,14 +53,13 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
-**决策点**： *决定是否要修改任何默认的 Microsoft 365 政府– GCC-High 安全设置，先解决以了解您可能进行的任何更改的影响。*
+**决策点** ： *决定是否要修改任何默认的 Microsoft 365 政府– GCC-High 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>步骤 4. 了解默认情况下在 Microsoft 365 政府中目前不可用或禁用的功能。 GCC-高<sup>1</sup>
 
-为了满足政府云客户的要求，Microsoft 365 GCC-High 政府版和企业版计划之间存在一些差异。 请参阅下表以查看哪些功能可用。
+为了满足政府云客户的要求，Microsoft 365 GCC-High 政府版和企业版计划之间存在一些差异。 请参阅下表以查看哪些功能可用。<br><br>
 
-
-|                                         | 功能                                         | GCC 状态             |
+| 区域                                    | 功能                                         | GCC 状态             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **信息保护**              | 统一标签客户端和扫描程序         | 可用              |
 |                                         | 精确数据匹配          | 可用              |
@@ -176,4 +175,4 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 <sup>2</sup> 手动应用标签需要 [Azure 信息保护 (AIP) 客户端版本 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history)。 
 
 
-**决策点**： *决定合规性功能是否满足组织的需求。*
+**决策点** ： *决定合规性功能是否满足组织的需求。*

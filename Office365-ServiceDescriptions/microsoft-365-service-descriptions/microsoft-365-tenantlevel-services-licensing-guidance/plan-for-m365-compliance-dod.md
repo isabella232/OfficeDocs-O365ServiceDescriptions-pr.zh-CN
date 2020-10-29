@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中使用 Microsoft 365 政府– DoD 适用于满足这些要求的 IT 专业人员。
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769974"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793645"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
@@ -59,10 +59,9 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>步骤 4. 了解在 Microsoft 365 政府– DoD<sup>1</sup>中默认情况下当前不可用或禁用的功能。
 
-为了满足政府云客户的要求，Microsoft 365 政府 DoD 和企业版计划之间存在一些差异。 请参阅下表以查看哪些功能可用。
+为了满足政府云客户的要求，Microsoft 365 政府 DoD 和企业版计划之间存在一些差异。 请参阅下表以查看哪些功能可用。<br><br>
 
-
-|                                         | 功能                                         | GCC 状态             |
+| 区域                                    | 功能                                         | GCC 状态             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **信息保护**              | 统一标签客户端和扫描程序         | 可用              |
 |                                         | 精确数据匹配          | 可用               |

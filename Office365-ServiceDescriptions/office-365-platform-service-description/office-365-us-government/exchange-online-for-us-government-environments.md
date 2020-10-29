@@ -8,20 +8,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云和商业云之间的功能差异，如 Exchange Online 服务说明中所示。
-ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261504"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793644"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online for 美国政府环境
 
-本文概述了美国政府云和商业云之间的功能差异，如 [Exchange Online 服务说明](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)中所示。 Exchange Online 适用于政府社区云 (GCC) 、GCC 高版和国防部 (DoD) 环境。
+本文概述了美国政府云和商业云之间的功能差异，如 [Exchange Online 服务说明](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)中所示。 Exchange Online 适用于政府社区云 (GCC) 、GCC 高版和国防部 (DoD) 环境。
 
-有关政府云（包括资格和购买）的详细信息，请参阅 [Microsoft 365 政府-如何购买](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比较 Office 365 政府版计划，请参阅 [office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+有关政府云（包括资格和购买）的详细信息，请参阅 [Microsoft 365 政府-如何购买](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比较 Office 365 政府版计划，请参阅 [office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
-若要了解管理网络连接时所需的终结点，请参阅 [office 365 美国政府版高终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   或 [Office 365 美国政府 DoD 终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
+若要了解管理网络连接时所需的终结点，请参阅 [office 365 美国政府版高终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 或 [Office 365 美国政府 DoD 终结点](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
 除了享受 Office 365 的特性和功能外，组织还可以受益于美国政府云环境所特有的以下功能：
 
@@ -39,13 +39,13 @@ ms.locfileid: "48261504"
 
 下表概述了在 GCC、GCC 高和 DoD 环境中是否提供了指定的 Exchange Online 功能。 如果对支持声明 (或缺少) 方面有细微差别，则提供其他上下文。<br><br>
 
-| 功能区域 | GCC | GCC 高 | DoD | 关键注意事项 |
+| 功能 | GCC | GCC 高 | DoD | 关键注意事项 |
 |:-----|:-----|:-----|:-----|:-----|
 |**[规划和部署](../../exchange-online-service-description/planning-and-deployment.md)**|||||
 |支持的混合部署|是|是|是|若要与本地 Exchange Server 共存，Microsoft 至少需要安装一台 Exchange Server 2013 客户端访问服务器 (或 Exchange Server 2016 ) 。 不支持 Exchange Server 2010 及更早版本。|
 |支持的 IMAP 迁移|是|是|是||
 |支持的直接转换迁移|是|是|是||
-|支持的暂存迁移|是|是|是|GSuite 不支持针对 GCC 高和 DoD 的迁移。 有关详细信息，请参阅 <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">执行 GSuite 迁移</a>。|
+|支持的暂存迁移|是|是|是|GSuite 不支持针对 GCC 高和 DoD 的迁移。 有关详细信息，请参阅 <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">执行 GSuite 迁移</a>。|
 |**[权限](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC 高**|**DoD**|**关键注意事项**|
 |基于角色的权限|是|是|是||
 |角色组|是|是|是||
@@ -114,7 +114,7 @@ ms.locfileid: "48261504"
 |Outlook for Windows|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
 |Outlook 网页版|是|是|是||
 |Outlook for Mac|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
-|IOS 和 Android 版 Outlook|是|是|是||
+|Outlook for iOS 和 Outlook for Android|是|是|是||
 |Exchange ActiveSync|是|是|是||
 |Microsoft 365 的基本移动性和安全性|是|否|否||
 |POP 和 IMAP|是|是|是||
@@ -147,43 +147,43 @@ ms.locfileid: "48261504"
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>GCC 高和 DoD 环境中的功能细微差别
 
-### <a name="connectivity-with-third-party-services"></a>与第三方服务的连接  
+### <a name="connectivity-with-third-party-services"></a>与第三方服务的连接  
 
-GCC 高级和 DoD 环境都是受限制的环境，需要明确批准和配置出站连接。 此外，Microsoft 无法适应允许从这些环境到商业云服务的出站访问权限的请求 (商业版 Office 365、Google GSuite、Amazon Web Services 等等) 。     
+GCC 高级和 DoD 环境都是受限制的环境，需要明确批准和配置出站连接。 此外，Microsoft 无法适应允许从这些环境到商业云服务的出站访问权限的请求 (商业版 Office 365、Google GSuite、Amazon Web Services 等等) 。     
 
-由于这些限制，通常不支持依赖于 GCC 高/DoD 环境的此出站连接的功能，包括： 
+由于这些限制，通常不支持依赖于 GCC 高/DoD 环境的此出站连接的功能，包括： 
 
-- 已连接帐户-用户无法在 Google、POP/IMAP 等)  (添加/同步帐户。 
+- 已连接帐户-用户无法在 Google、POP/IMAP 等)  (添加/同步帐户。 
 
-- 对第三方文件存储提供程序的支持-仅可从各种 Outlook 客户端访问用户的 OneDrive for *business 帐户，*   以实现附加/共享文件的目的。 无法添加 (收存箱、Box、Google Drive) 的第三方存储帐户。 
+- 对第三方文件存储提供程序的支持-仅可从各种 Outlook 客户端访问用户的 OneDrive for *business 帐户，以实现附加* /共享文件的目的。 无法添加 (收存箱、Box、Google Drive) 的第三方存储帐户。 
 
-- 与社交网络（如 Facebook 或 LinkedIn）的连接。 
+- 与社交网络（如 Facebook 或 LinkedIn）的连接。 
 
-### <a name="azure-active-directoryb2b-collaboration"></a>Azure Active Directory B2B 协作 
+### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 协作 
 
 Azure Active Directory B2B 协作目前仅在受 Azure 美国政府云共同支持 B2B 协作的组织之间提供支持
 
-此外，在 GCC 高和 DoD 环境中，不支持将 B2B 用户用作 Office 365 组中的来宾。 
+此外，在 GCC 高和 DoD 环境中，不支持将 B2B 用户用作 Office 365 组中的来宾。 
 
-有关详细信息和最新的更新，请参阅 [Azure 政府安全性 + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)。 
+有关详细信息和最新的更新，请参阅 [Azure 政府安全性 + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)。 
 
-### <a name="office-365-message-encryptionbehavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 邮件加密行为 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 邮件加密行为 
 
-如果要在 GCC 高环境中使用 Office 365 邮件加密，请注意有关收件人体验的这些独特特征：  
+如果要在 GCC 高环境中使用 Office 365 邮件加密，请注意有关收件人体验的这些独特特征：  
 
 - 将加密的电子邮件从 GCC High 或 DoD 发送到同一环境中的收件人时：
     
-    - 发件人可以在 Outlook 中为电脑和 Mac 和 Outlook 网页版手动加密电子邮件，或者组织可以设置策略以使用 Exchange 邮件流规则对电子邮件进行加密。 
+    - 发件人可以在 Outlook 中为电脑和 Mac 和 Outlook 网页版手动加密电子邮件，或者组织可以设置策略以使用 Exchange 邮件流规则对电子邮件进行加密。 
     
-    - 在 GCC 中，高/DoD 的收件人在 Outlook 中接收与所有其他 Office 365 用户相同的嵌入式阅读体验（适用于 PC 和 Mac）和 Outlook 网页版。 
+    - 在 GCC 中，高/DoD 的收件人在 Outlook 中接收与所有其他 Office 365 用户相同的嵌入式阅读体验（适用于 PC 和 Mac）和 Outlook 网页版。 
 
 <!-- end list -->
 
 - 将加密的电子邮件从 GCC 高或 DoD 发送到该环境之外的收件人时 (包括 GCC 和商业) ：
     
-    - 在 GCC 高/DoD 内的发件人可以在 GCC 高/DoD 界限之外发送加密电子邮件。 
+    - 在 GCC 高/DoD 内的发件人可以在 GCC 高/DoD 界限之外发送加密电子邮件。 
     
-    - 所有收件人都在拥有 GCC 高/DoD 的范围内，包括商业 Office 365 用户、Outlook.com 用户和其他电子邮件提供商的其他用户，接收到包装邮件。 此包装邮件将收件人重定向到 OME 门户，收件人可在其中读取和回复邮件。 
+    - 所有收件人都在拥有 GCC 高/DoD 的范围内，包括商业 Office 365 用户、Outlook.com 用户和其他电子邮件提供商的其他用户，接收到包装邮件。 此包装邮件将收件人重定向到 OME 门户，收件人可在其中读取和回复邮件。 
 
 有关详细信息和最新更新，请参阅 [比较版本的 OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison)。
 
@@ -201,12 +201,12 @@ Azure Active Directory B2B 协作目前仅在受 Azure 美国政府云共同支�
 
   - 联合身份验证信任 (包括忙/闲共享) 目前仅在 DoD 环境中的租户之间受支持。 在 DoD 租户和 GCC 或商业租户之间不支持此方法。
 
-### <a name="client-configuration"></a>客户端配置 
+### <a name="client-configuration"></a>客户端配置 
 
-部署和配置 Office 专业增强版 (包括 Outlook) 中涉及的其他步骤。 有关这些步骤的详细说明，请参阅 [在 GCC 高或 DoD 环境中部署适用于企业的 Microsoft 365 应用程序指南 ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)。
+部署和配置 Office 专业增强版 (包括 Outlook) 中涉及的其他步骤。 有关这些步骤的详细说明，请参阅 [在 GCC 高或 DoD 环境中部署适用于企业的 Microsoft 365 应用程序指南 ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)。
 
 适用于 iOS 和 Android 的 Outlook for iOS 和适用于 GCC 的高和 DoD 环境。 若要了解有关这些环境中的功能限制和管理的详细信息，请参阅 [在政府社区云中使用 Outlook For iOS 和 Outlook For Android](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)。
 
-### <a name="add-insin-outlook-and-outlook-web-app"></a>Outlook 和 Outlook Web App 中的外接程序  
+### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Outlook 和 Outlook Web App 中的外接程序  
 
 在 GCC 高和 DoD 中，仅有一些 OWA 和 Outlook 外接程序可用。 我的模板和建议的会议可用且应正常运行。 仅支持五个默认 OWA 外接程序。 可以与第三方应用程序集成，但是，对于 GCC 高或 DoD，Microsoft 合规性承诺不会涵盖这些集成。 在为组织配置加载项之前，客户应熟悉第三方数据处理实践和合规性承诺。
