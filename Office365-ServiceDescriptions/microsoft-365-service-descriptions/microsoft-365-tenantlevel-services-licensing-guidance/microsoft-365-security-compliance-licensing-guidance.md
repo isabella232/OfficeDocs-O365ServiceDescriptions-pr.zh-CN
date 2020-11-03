@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661290"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830393"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -164,7 +164,7 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 27001 开箱即用评估，并利用自定义评估功能。 高级评估版将适用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。
+拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 27001 开箱即用评估，并利用自定义评估功能。 在第1部分的2021中，高级评估可用于购买到 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户。 他们将可以通过 VL、CSP 和 WebDirect 购买。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -457,11 +457,11 @@ Microsoft 365 A1/E3/A3/a/Business、Office 365 E3/A3 和 Office 365 数据丢失
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，Exchange Online 电子邮件、SharePoint 网站和 OneDrive 帐户为租户中所有用户的这些 DLP 功能 *启用了 (工作负荷) 的位置 * 。 有关使用 DLP 策略的详细信息，请参阅 [数据丢失防护概述](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
+默认情况下，Exchange Online 电子邮件、SharePoint 网站和 OneDrive 帐户为租户中所有用户的这些 DLP 功能 *启用了 (工作负荷) 的位置* 。 有关使用 DLP 策略的详细信息，请参阅 [数据丢失防护概述](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 "**数据丢失防护**位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations**。
+管理员可以在 " **数据丢失防护** 位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations** 。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>工作组的通信数据丢失防护
 
@@ -477,11 +477,11 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，团队聊天和频道邮件是为租户中的所有用户启用这些 DLP 功能 * (工作负荷) 的已启用位置 * 。 有关使用 DLP 策略的详细信息，请参阅 [数据丢失防护概述](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
+默认情况下，团队聊天和频道邮件是为租户中的所有用户启用这些 DLP 功能 *(工作负荷) 的已启用位置* 。 有关使用 DLP 策略的详细信息，请参阅 [数据丢失防护概述](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 "**数据丢失防护**位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations**。
+管理员可以在 " **数据丢失防护** 位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations** 。
 
 ## <a name="information-barriers"></a>信息屏障
 
@@ -491,7 +491,7 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 
 当限制用户与其他人通信时，他们将受益于信息障碍的高级合规性功能。 例如：<br><br>
 
-| 方案 | 需要许可证的是谁？ |
+| 应用场景 | 需要许可证的是谁？ |
 |:------|:------|:------|
 |  (组 &nbsp; 1 和组 &nbsp; 2) 的两个组无法相互通信 (也就是说，组 &nbsp; 1 用户限制为与组 &nbsp; 2 用户通信，而组 &nbsp; 2 用户限制与组 &nbsp; 1 用户通信。 | 组 &nbsp; 1 和组2中的 &nbsp; 用户 |
 
@@ -523,7 +523,7 @@ Microsoft 365 E3/A3、Office 365 E3/A3 和 Azure Information Protection Plan 1 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-管理员在 "**邮件流**规则" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略  >  **Rules**。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息，请参阅 [设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
+管理员在 " **邮件流** 规则" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略  >  **Rules** 。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息，请参阅 [设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 

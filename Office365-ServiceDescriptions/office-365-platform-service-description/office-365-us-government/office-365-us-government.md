@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 根据美国公共事业部门的独特和不断发展的要求，Microsoft 已创建 Office 365 美国政府版计划 (或 Office 365 政府) 。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: 0bbf94b1647496a500719cec51b25b976d2129bc
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367739"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830403"
 ---
-# <a name="office-365-us-government"></a>Office 365 美国政府版
+# <a name="office-365-government"></a>Office 365 政府版
 
 > [!IMPORTANT]
 > 由于 coronavirus (COVID-19) pandemic，Microsoft 团队在在线通话和音频/视频会议方面遇到了极大的峰值。<br/>
@@ -29,21 +29,21 @@ ms.locfileid: "48367739"
 >
 >感谢你的支持，因为我们采取措施以确保我们的服务在这些特别时间内保持可用和可靠。<br/>
 
-根据美国公共事业部门的独特和不断发展的要求，Microsoft 已创建 Office 365 美国政府版计划 (或 Office 365 政府) 。 此服务说明提供了特定于 Office 365 政府美国环境的功能的概述。 我们建议您阅读此服务说明及其他 [Microsoft 365 和 Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)。
+为了响应美国公共事业部门的独特和不断发展的需求，Microsoft 已创建 Office 365 政府计划 (或 Office 365 政府) 。 此服务说明提供了特定于 Office 365 政府美国环境的功能的概述。 我们建议您阅读此服务说明及其他 [Microsoft 365 和 Office 365 服务说明](../../office-365-service-descriptions-technet-library.md)。
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明
 
-Office 365 美国政府版服务说明旨在用作常规 Office 365 服务说明的覆盖。 它定义了唯一承诺以及与 Office 365 企业版产品的差异。
+Office 365 政府服务说明旨在用作常规 Office 365 服务说明的覆盖。 它定义了唯一承诺以及与 Office 365 企业版产品的差异。
 
-## <a name="about-office-365-us-government-environments"></a>关于 Office 365 美国政府版环境
+## <a name="about-office-365-government-environments"></a>关于 Office 365 政府环境
 
-Office 365 美国政府版计划为按月订阅，可以授权给任意数量的用户。
+Office 365 政府版计划为每月订阅，可以授权给无数用户。
 
-- **Office 365 GCC**环境符合云服务的联邦要求（包括 FedRAMP 中型）以及刑事审判和联邦税务信息系统的要求 (CJI 和 FTI data types) 。
+- **Office 365 GCC** 环境为云服务（包括 FedRAMP 高）的联邦要求和 CJI 和 FTI 税信息系统 (和 FTI data types) 提供了合规性要求。
 
-- **Office 365 GCC 高和 DoD**环境符合国防部安全要求准则、防御联邦收购规章补充 (DFARS) ，以及 arm 规章 (ITAR) 中的国际流量。
+- **Office 365 GCC 高和 DoD** 环境符合国防部安全要求准则、防御联邦收购规章补充 (DFARS) ，以及 arm 规章 (ITAR) 中的国际流量。
 
-除 Office 365 的功能之外，使用 Office 365 美国政府版 的组织还可以从以下 Office 365 美国政府版 独特功能中获益：
+除了 Office 365 的特性和功能之外，使用 Office 365 政府的组织还可受益于 Office 365 政府独有的以下功能：
 
 - 您组织的客户内容与 Microsoft 商业 Office 365 服务中的客户内容在逻辑上是隔离的。
 
@@ -51,21 +51,21 @@ Office 365 美国政府版计划为按月订阅，可以授权给任意数量的
 
 - 对组织的客户内容的访问权限只限于屏蔽的 Microsoft 员工。
 
-- Office 365 美国政府版符合美国公共部门客户所需的认证和资格鉴定。
+- Office 365 政府符合美国公共事业部门客户所需的认证和资格鉴定。
 
 ## <a name="customer-eligibility"></a>客户资格
 
-Office 365 美国政府版可用于 (1) 美国联邦、州、local、部落和 territorial 政府实体，以及 (2) 处理受政府法规和要求约束的数据的其他实体，以及 Office 365 美国政府适用于满足这些要求的情况（受资格验证）。 Microsoft 的资格验证包括确认处理的是受符合国际武器贸易条例 (ITAR) 约束的数据，还是受 FBI 的刑事司法信息服务 (CJIS) 政策约束的执法数据，亦或是其他受政府监管或控制的数据。 对于 ITAR 数据，资格验证可能需要提供美国国务院注册证明；对于数据处理的具体要求，可能需要提供政府机构资助证明。 Office 365 DoD-环境旨在专门使用美国国防部。
+Office 365 政府可用于 (1) 美国联邦、州、local、部落和 territorial 政府实体，以及 (2) 处理受政府法规和要求约束的数据的其他实体，以及 Office 365 政府在哪种情况下适用于符合这些要求的使用情况（受资格验证）。 Microsoft 的资格验证包括确认处理的是受符合国际武器贸易条例 (ITAR) 约束的数据，还是受 FBI 的刑事司法信息服务 (CJIS) 政策约束的执法数据，亦或是其他受政府监管或控制的数据。 对于 ITAR 数据，资格验证可能需要提供美国国务院注册证明；对于数据处理的具体要求，可能需要提供政府机构资助证明。 Office 365 DoD 环境专用于美国国防部的专属使用。
 
 虽然符合各 Office 365 政府产品的资格标准，但 Microsoft 仅同意 DFARS 和 ITAR 合同语言 for GCC 的高环境。
 
-对 Office 365 美国政府版 资格持有疑问的实体应向其帐户团队咨询。
+包含有关 Office 365 政府资格的问题的实体应咨询其帐户团队。
 
-续订了客户合同的 Office 365 美国政府版时，需要重新验证资格。
+续订了客户的 Office 365 政府合同后，需要重新验证资格。
 
 ## <a name="customer-content-located-within-the-united-states"></a>位于美国境内的客户内容
 
-Office 365 美国政府版服务从物理上位于美国的数据中心提供。下面的客户内容存储在仅物理上位于美国的数据中心中的其余部分：
+Office 365 政府服务是从实际位于美国的数据中心提供的。 下面的客户内容存储在仅物理上位于美国的数据中心中的其余部分：
 
 - Exchange Online 邮箱内容 (电子邮件正文、日历条目和电子邮件附件的内容) 
 
@@ -80,13 +80,13 @@ Office 365 美国政府版服务从物理上位于美国的数据中心提供。
 
 如果你的用户在美国中使用 Office (以前称为 Office Web Apps) 或者采用 Active Directory 联合身份验证服务 (AD FS) 2.0 并设置策略以帮助确保用户通过单一登录连接到服务，则在 Office 中临时缓存的任何客户内容都将位于美国中。
 
-## <a name="office-365-us-government-and-third-party-services"></a>Office 365 美国政府版和第三方服务
+## <a name="office-365-government-and-third-party-services"></a>Office 365 政府和第三方服务
 
 Office 365 提供了将第三方应用程序集成到 SharePoint Online 网站、Skype for Business、Office (相关应用程序（如 Word、Excel、PowerPoint 和 Outlook) 和 Outlook Web App）365中的 Office 应用程序的功能。 此外，Office 365 还支持与第三方服务提供商集成。 这些第三方应用程序和服务可能参与存储、传输和处理组织在 Office 365 基础结构外部的第三方系统上的客户数据，因此未涵盖在 Office 365 合规性和数据保护协议中。 我们建议您在为组织评估这些服务的相应使用情况时，查看第三方提供的隐私和合规性声明。
 
 ## <a name="restricted-data-access-by-administrators"></a>管理员受限数据访问
 
-Microsoft 管理员对 Office 365 美国政府客户内容的访问权限仅限于被筛选人员。 有关筛选级别的详细信息，请参阅每个各自的环境的 "服务说明" 页面 (GCC 或 GCC 高和 DoD) 。
+Microsoft 管理员对 Office 365 政府客户内容的访问权限仅限于被筛选的人员。 有关筛选级别的详细信息，请参阅每个各自的环境的 "服务说明" 页面 (GCC 或 GCC 高和 DoD) 。
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack Center 载入帮助
 
@@ -209,7 +209,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |添加多达 900 个自定义域|是|是|是|是|
 |自定义域需要域所有权验证|是|是|是|是|
 |**[服务运行状况和连续性](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府 F3**|
-|“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
+|“服务运行状况”  或“服务状态”  页面中显示状态信息|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
 |是|是|是|是|是|
 |**[报告](../../office-365-platform-service-description/reports.md)**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府 F3**|
@@ -417,7 +417,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |实时协作 (状态、常规合著和文档内聊天) |否|否|否|
 |语音听写|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
 |重用幻灯片|否|否|否|
-|政府群中的**Microsoft 白板**目前仅适用于中心客户端，而不是在桌面上。|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
+|政府群中的 **Microsoft 白板** 目前仅适用于中心客户端，而不是在桌面上。|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |插入粘滞便笺、文本和图像|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
 |将墨迹转换为形状和将墨迹转换为表格|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
 |墨迹 beautification|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
