@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府并介绍了购买选项。
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818662"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931032"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版-如何购买
 
@@ -133,13 +133,16 @@ GCC 和 GCC 的高产品版均可供任何符合 Microsoft 政府云的客户使
 **AOS-G 合作伙伴的 GCC 和 GCC 高 (低于500座位)**
 
 - 敏捷 IT
-- 应用的信息科学 (AIS)  
+- 应用的信息科学 (AIS) 
 - C3 集成解决方案
+- Carahsoft
 - Gendox 电子产品（Inc.）。
 - F1 解决方案，Inc.。
+- 四个点
 - KTL 解决方案，Inc.。
 - LiftOff、LLC
 - 行星技术
+- 平静的专业人员
 - 7个系统的峰会
 
 **注意：** 上述列表中 (Lsp) 的所有 Microsoft 许可解决方案提供商都可以通过 (EA) 使用 GCC 和 GCC 优质来创建客户价目表 (CPS) 。 不符合 EA 的组织可以通过列出的 AOS-G 合作伙伴或 CSP 合作伙伴计划购买 GCC 许可证。
