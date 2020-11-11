@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云和商业云之间的功能差异，如 Exchange Online 服务说明中所示。
-ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
-ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
+ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
+ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48793644"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48988079"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online for 美国政府环境
 
@@ -111,6 +111,7 @@ ms.locfileid: "48793644"
 |网站邮箱|是|是|是||
 |公用文件夹|是|是|是||
 |**[客户端和移动设备](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 高**|**DoD**|**关键注意事项**|
+|到网站|是|否|否||
 |Outlook for Windows|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
 |Outlook 网页版|是|是|是||
 |Outlook for Mac|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
@@ -149,41 +150,41 @@ ms.locfileid: "48793644"
 
 ### <a name="connectivity-with-third-party-services"></a>与第三方服务的连接  
 
-GCC 高级和 DoD 环境都是受限制的环境，需要明确批准和配置出站连接。 此外，Microsoft 无法适应允许从这些环境到商业云服务的出站访问权限的请求 (商业版 Office 365、Google GSuite、Amazon Web Services 等等) 。     
+GCC 高级和 DoD 环境都是受限制的环境，需要明确批准和配置出站连接。 此外，Microsoft 无法适应允许从这些环境到商业云服务的出站访问权限的请求 (商业版 Office 365、Google GSuite、Amazon Web Services 等等) 。
 
-由于这些限制，通常不支持依赖于 GCC 高/DoD 环境的此出站连接的功能，包括： 
+由于这些限制，通常不支持依赖于 GCC 高/DoD 环境的此出站连接的功能，包括：
 
-- 已连接帐户-用户无法在 Google、POP/IMAP 等)  (添加/同步帐户。 
+- 已连接帐户-用户无法在 Google、POP/IMAP 等)  (添加/同步帐户。
 
-- 对第三方文件存储提供程序的支持-仅可从各种 Outlook 客户端访问用户的 OneDrive for *business 帐户，以实现附加* /共享文件的目的。 无法添加 (收存箱、Box、Google Drive) 的第三方存储帐户。 
+- 对第三方文件存储提供程序的支持-仅可从各种 Outlook 客户端访问用户的 OneDrive for *business 帐户，以实现附加* /共享文件的目的。 无法添加 (收存箱、Box、Google Drive) 的第三方存储帐户。
 
-- 与社交网络（如 Facebook 或 LinkedIn）的连接。 
+- 与社交网络（如 Facebook 或 LinkedIn）的连接。
 
-### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 协作 
+### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B 协作
 
 Azure Active Directory B2B 协作目前仅在受 Azure 美国政府云共同支持 B2B 协作的组织之间提供支持
 
 此外，在 GCC 高和 DoD 环境中，不支持将 B2B 用户用作 Office 365 组中的来宾。 
 
-有关详细信息和最新的更新，请参阅 [Azure 政府安全性 + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)。 
+有关详细信息和最新的更新，请参阅 [Azure 政府安全性 + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity)。
 
-### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 邮件加密行为 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 邮件加密行为
 
 如果要在 GCC 高环境中使用 Office 365 邮件加密，请注意有关收件人体验的这些独特特征：  
 
 - 将加密的电子邮件从 GCC High 或 DoD 发送到同一环境中的收件人时：
     
-    - 发件人可以在 Outlook 中为电脑和 Mac 和 Outlook 网页版手动加密电子邮件，或者组织可以设置策略以使用 Exchange 邮件流规则对电子邮件进行加密。 
+    - 发件人可以在 Outlook 中为电脑和 Mac 和 Outlook 网页版手动加密电子邮件，或者组织可以设置策略以使用 Exchange 邮件流规则对电子邮件进行加密。
     
-    - 在 GCC 中，高/DoD 的收件人在 Outlook 中接收与所有其他 Office 365 用户相同的嵌入式阅读体验（适用于 PC 和 Mac）和 Outlook 网页版。 
+    - 在 GCC 中，高/DoD 的收件人在 Outlook 中接收与所有其他 Office 365 用户相同的嵌入式阅读体验（适用于 PC 和 Mac）和 Outlook 网页版。
 
 <!-- end list -->
 
 - 将加密的电子邮件从 GCC 高或 DoD 发送到该环境之外的收件人时 (包括 GCC 和商业) ：
     
-    - 在 GCC 高/DoD 内的发件人可以在 GCC 高/DoD 界限之外发送加密电子邮件。 
+    - 在 GCC 高/DoD 内的发件人可以在 GCC 高/DoD 界限之外发送加密电子邮件。
     
-    - 所有收件人都在拥有 GCC 高/DoD 的范围内，包括商业 Office 365 用户、Outlook.com 用户和其他电子邮件提供商的其他用户，接收到包装邮件。 此包装邮件将收件人重定向到 OME 门户，收件人可在其中读取和回复邮件。 
+    - 所有收件人都在拥有 GCC 高/DoD 的范围内，包括商业 Office 365 用户、Outlook.com 用户和其他电子邮件提供商的其他用户，接收到包装邮件。 此包装邮件将收件人重定向到 OME 门户，收件人可在其中读取和回复邮件。
 
 有关详细信息和最新更新，请参阅 [比较版本的 OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison)。
 
@@ -201,12 +202,32 @@ Azure Active Directory B2B 协作目前仅在受 Azure 美国政府云共同支�
 
   - 联合身份验证信任 (包括忙/闲共享) 目前仅在 DoD 环境中的租户之间受支持。 在 DoD 租户和 GCC 或商业租户之间不支持此方法。
 
-### <a name="client-configuration"></a>客户端配置 
+### <a name="client-configuration"></a>客户端配置
 
-部署和配置 Office 专业增强版 (包括 Outlook) 中涉及的其他步骤。 有关这些步骤的详细说明，请参阅 [在 GCC 高或 DoD 环境中部署适用于企业的 Microsoft 365 应用程序指南 ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)。
+部署和配置 Office 专业增强版 (包括 Outlook) 中涉及的其他步骤。 有关这些步骤的详细说明，请参阅 [在 GCC 高或 DoD 环境中部署适用于企业的 Microsoft 365 应用程序指南](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)。
 
 适用于 iOS 和 Android 的 Outlook for iOS 和适用于 GCC 的高和 DoD 环境。 若要了解有关这些环境中的功能限制和管理的详细信息，请参阅 [在政府社区云中使用 Outlook For iOS 和 Outlook For Android](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)。
 
 ### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Outlook 和 Outlook Web App 中的外接程序  
 
 在 GCC 高和 DoD 中，仅有一些 OWA 和 Outlook 外接程序可用。 我的模板和建议的会议可用且应正常运行。 仅支持五个默认 OWA 外接程序。 可以与第三方应用程序集成，但是，对于 GCC 高或 DoD，Microsoft 合规性承诺不会涵盖这些集成。 在为组织配置加载项之前，客户应熟悉第三方数据处理实践和合规性承诺。
+
+## <a name="feature-nuances-within-gcc-environments"></a>在 GCC 环境中的功能细微差别
+
+| 功能 | 说明 | PROPLUS.WW | 在 GCC 中的可用性 |
+|:-----|:-----|:-----|:-----|
+|支持的平台|Web、Android、iOS、Mac、Windows|全部|仅 Web|
+|M365 集线器支持|与 Outlook、团队、Planner 的集成|全部|Outlook、Planner (团队可在工作组任务应用程序中使用) |
+|Wunderlist 迁移|允许 wunderlist 用户将数据迁移到执行操作|是|否|
+|推送通知|向最终用户发送推送通知，以获取提醒等。|是|否|
+|Helpshift 支持|使用 helpshift 接口创建支持请求|是|否|
+|My Day|规划您的一天|是|是|
+|计划列表|查看具有截止日期的所有任务|是|是|
+|分配给你的列表|在共享列表、Planner 或 WXP 中分配给您的所有任务 (将来的) |是|是|
+|标记的电子邮件|查看在 outlook 中标记为任务的电子邮件|是|是|
+|多帐户支持|在一个窗格中使用家庭和办公室帐户|是|是|
+|列表共享|与同一组织中的同事共享列表|是|是|
+|跨租户共享|共享组织外部的任务列表|是|否|
+|提醒和定期|为任务设置提醒 |是|是|
+
+* 这两种环境中都提供了其他未提到的功能。
