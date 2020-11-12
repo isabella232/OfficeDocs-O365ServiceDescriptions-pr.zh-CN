@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 728dbb670449a941400a3951201413e79895b238
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 784d8c7a6d1e1d87db0982586c63fce73eb3fa33
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830423"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999725"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -268,7 +268,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |邮件大小限制 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |邮件大小限制 - 迁移|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |邮件大小限制-Outlook for iOS 和 Outlook for Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |主题长度限制|255 个字符|255 个字符|255 个字符|255 个字符|255 个字符|255 个字符|
 |文件附件限制|250 个附件|250 个附件|250 个附件|250 个附件|250 个附件|250 个附件|
