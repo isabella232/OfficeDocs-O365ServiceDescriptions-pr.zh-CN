@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft 团队提供即时消息、文件和数据协作、音频和视频呼叫、丰富的在线会议、移动体验和广泛的 web 会议功能。
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773436"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003945"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -45,7 +45,7 @@ Microsoft 仍将致力于保护你的服务的数据和 [可访问性](https://w
 
 Microsoft 团队不作为独立服务提供。
 
-## <a name="feature-category-reference"></a>功能类别参考 
+## <a name="feature-category-reference"></a>功能类别参考
 
 此表列出了 Microsoft 团队功能在许可计划或云实例方面的可用性。 将应用一些注意事项。 有关详细信息，请参阅脚注。 此表可能会更改，恕不另行通知。 有关核心服务更改消息和 [microsoft 许可条款参考文档](https://www.microsoft.com/licensing/product-licensing/products)，请参阅 Microsoft 365 消息中心通知。<br><br>
 
@@ -57,16 +57,17 @@ Microsoft 团队不作为独立服务提供。
 |通道-私有  <br/> |是  <br/> |是<sup>2</sup>  <br/> |是 <br/> |否  <br/> |否 <br/> |是  <br/> |
 |会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |屏幕共享 PowerPoint 音频/视频桌面 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|应用、Bot、& 连接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>3、4</sup>  <br/> |是  <br/> |
-|Live 事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
+|语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
+|音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
+|应用、Bot、& 连接器  <br/> |是  <br/> |是  <br/> |是<sup>5</sup>  <br/> |是<sup>5</sup>  <br/> |是<sup>4，5</sup>  <br/> |是  <br/> |
+|Live 事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>6</sup>  <br/> |否<sup>6</sup>  <br/> |是  <br/> |
 
 > <sup>1</sup>  个 Microsoft 团队在 GCC-High 和 DOD 支持每个团队中的2500个成员。<br/>
 > <sup>2</sup> Microsoft Planner 目前不可用于在专用通道中进行访问。<br/>
-> <sup>3</sup> Microsoft ONENOTE 在 DOD 云中不可用。<br/>
-> <sup>4</sup> 此时，这些云中不提供应用程序和应用程序发布。<br/>
-> 在 GCC-High 或 DOD 中，不提供<sup>5 个</sup>Live 事件。<br/>
+> <sup>3</sup> 必须为 Microsoft 团队配置要在 GCCH 和 DoD 工作的 Microsoft 团队语音和音频会议的直接路由。<br/>
+> <sup>4</sup> Microsoft ONENOTE 在 DOD 云中不可用。<br/>
+> 目前，这些云中不提供<sup>5 个</sup>应用程序和应用程序发布。<br/>
+> <sup>6</sup> 实时事件在 GCC-High 或 DOD 中不可用。<br/>
 
 ## <a name="next-steps"></a>后续步骤
 
