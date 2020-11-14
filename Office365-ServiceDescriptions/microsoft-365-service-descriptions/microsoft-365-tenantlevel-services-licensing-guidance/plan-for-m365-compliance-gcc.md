@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
-ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818642"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072673"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -106,7 +106,7 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 记录管理：规章记录 (公共预览版)                          | 在开发中 |
 |                                         | 记录管理：多阶段处置评审 | 在工程工作积压 |
 |                                         | 记录管理：使用 SharePoint Syntex 分类应用记录标签 | 在工程工作积压 |
-| **内幕风险管理**             | 客户密码箱                                | 可用            |
+| **内部风险管理**             | 客户密码箱                                | 可用            |
 |                                         | 内幕风险管理：团队、SharePoint 网站、电子邮件消息的 Office 指示器                         | 在开发中 |
 |                                         | 内幕风险管理：通过去声用户窃取数据                        | 在开发中 |
 |                                         | 内幕风险管理：常规数据泄露                                | 在开发中              |
@@ -182,7 +182,7 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 高级审核：已处理审核见解                               | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
-|                                         | 合规性管理器（预览版）                              | 在工程工作积压 |
+|                                         | 合规性管理器                              | 即将推出 |
 |                                         | Microsoft Cloud App Security                              | 在工程工作积压 |
 |                                         | 双字节字符支持                              | 在工程工作积压 |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
