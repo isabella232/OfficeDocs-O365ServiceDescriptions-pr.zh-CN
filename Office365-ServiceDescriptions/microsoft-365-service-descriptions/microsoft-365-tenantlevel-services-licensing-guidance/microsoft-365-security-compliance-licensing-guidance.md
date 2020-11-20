@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999715"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330259"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -118,7 +118,7 @@ Office 365 E5/A5/G5 为用户提供了从 OCAS 获益的权限。
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅 [作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
 
 Microsoft Cloud App Security (MCAS) 是一个云访问安全代理 (CASB) 解决方案，可向组织提供云应用程序和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并允许他们控制数据 &mdash; 在任何云应用中的传输方式。
 
@@ -298,8 +298,8 @@ Microsoft 提供可在 Microsoft 365 合规性中心中配置的第三方数据�
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/A5 Info Protection & 调控
 - Microsoft 365 E5/A5 合规性
-- Microsoft 365 E5/A5 内幕人士风险管理 
-- Microsoft 365 E5/A5 电子数据展示和审核 
+- Microsoft 365 E5/A5 内幕人士风险管理
+- Microsoft 365 E5/A5 电子数据展示和审核
 - Office 365 E5/A5
 - Office 365 高级合规版
 
@@ -377,11 +377,7 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-若要将加密密钥分配给 Office 365 和/或 Microsoft 365 组织中的数据以供许可用户使用，请按照客户密钥加密密钥的部署说明进行操作。
-
-- 对于 SharePoint Online、OneDrive for Business 和团队文件，可以使用客户密钥对一个或多个网站上的文件进行加密。
-
-- 对于 Exchange Online 和 Skype for business，可以使用客户密钥加密邮箱。
+对于 Exchange Online 和 Skype for business，可以使用客户密钥加密邮箱。 您必须先安装 Azure，然后才能使用适用于 Office 365 的客户密钥。 若要创建和配置所需的 Azure 资源以及在 Office 365 中设置客户密钥的步骤，请参阅 [设置客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) 。 完成 Azure 设置后，确定要为组织中的邮箱和文件分配的策略，并因此确定哪些密钥。 未分配策略的邮箱和文件将使用由 Microsoft 控制和管理的加密策略。 有关客户密钥的详细信息，或有关一般概述的详细信息，请参阅 [Office 365 中的使用客户密钥的服务加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客户密码箱
 
@@ -461,7 +457,7 @@ Microsoft 365 A1/E3/A3/a/Business、Office 365 E3/A3 和 Office 365 数据丢失
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 " **数据丢失防护** 位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations** 。
+管理员可以在 "**数据丢失防护** 位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations**。
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>工作组的通信数据丢失防护
 
@@ -481,7 +477,7 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-管理员可以在 " **数据丢失防护** 位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations** 。
+管理员可以在 "**数据丢失防护** 位置" 下的 "安全 & 合规中心" 中自定义位置 (工作负载) 、包含的用户和排除的用户）  >  **Locations**。
 
 ## <a name="information-barriers"></a>信息屏障
 
@@ -523,7 +519,7 @@ Microsoft 365 E3/A3、Office 365 E3/A3 和 Azure Information Protection Plan 1 �
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-管理员在 " **邮件流** 规则" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略  >  **Rules** 。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息，请参阅 [设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
+管理员在 "**邮件流** 规则" 下的 Exchange 管理中心中创建和管理 Office 365 邮件加密策略  >  **Rules**。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新的 Office 365 邮件加密功能的详细信息，请参阅 [设置新的 office 365 邮件加密功能](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
