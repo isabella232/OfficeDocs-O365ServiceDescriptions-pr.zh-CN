@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云和商业云之间的功能差异，如 Exchange Online 服务说明中所示。
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988079"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376085"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online for 美国政府环境
 
@@ -111,11 +111,11 @@ ms.locfileid: "48988079"
 |网站邮箱|是|是|是||
 |公用文件夹|是|是|是||
 |**[客户端和移动设备](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 高**|**DoD**|**关键注意事项**|
-|到网站|是|否|否||
+|在 Web 上执行的操作|是|否|否||
 |Outlook for Windows|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
 |Outlook 网页版|是|是|是||
 |Outlook for Mac|是|是|是|若要满足 GCC 的高和 DoD 合规性要求，必须至少运行版本为1803的 Office 365 专业增强版。 "Office 365 专业增强版" 不包含 G1 或 F3。|
-|Outlook for iOS 和 Outlook for Android|是|是|是||
+|IOS 和 Android 版 Outlook|是|是|是||
 |Exchange ActiveSync|是|是|是||
 |Microsoft 365 的基本移动性和安全性|是|否|否||
 |POP 和 IMAP|是|是|是||
@@ -170,7 +170,7 @@ Azure Active Directory B2B 协作目前仅在受 Azure 美国政府云共同支�
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>跨 GCC 高/DoD 界限的 Office 365 邮件加密行为
 
-如果要在 GCC 高环境中使用 Office 365 邮件加密，请注意有关收件人体验的这些独特特征：  
+如果您计划在 GCC 高环境中使用 Office 365 邮件加密，请注意有关收件人体验的这些独特特征：  
 
 - 将加密的电子邮件从 GCC High 或 DoD 发送到同一环境中的收件人时：
     
@@ -212,13 +212,13 @@ Azure Active Directory B2B 协作目前仅在受 Azure 美国政府云共同支�
 
 在 GCC 高和 DoD 中，仅有一些 OWA 和 Outlook 外接程序可用。 我的模板和建议的会议可用且应正常运行。 仅支持五个默认 OWA 外接程序。 可以与第三方应用程序集成，但是，对于 GCC 高或 DoD，Microsoft 合规性承诺不会涵盖这些集成。 在为组织配置加载项之前，客户应熟悉第三方数据处理实践和合规性承诺。
 
-## <a name="feature-nuances-within-gcc-environments"></a>在 GCC 环境中的功能细微差别
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>适用于 Microsoft 的 GCC 环境中的功能细微差别
 
 | 功能 | 说明 | PROPLUS.WW | 在 GCC 中的可用性 |
 |:-----|:-----|:-----|:-----|
 |支持的平台|Web、Android、iOS、Mac、Windows|全部|仅 Web|
 |M365 集线器支持|与 Outlook、团队、Planner 的集成|全部|Outlook、Planner (团队可在工作组任务应用程序中使用) |
-|Wunderlist 迁移|允许 wunderlist 用户将数据迁移到执行操作|是|否|
+|Wunderlist 迁移|允许 wunderlist 用户将数据迁移到 Web 上执行的操作|是|否|
 |推送通知|向最终用户发送推送通知，以获取提醒等。|是|否|
 |Helpshift 支持|使用 helpshift 接口创建支持请求|是|否|
 |My Day|规划您的一天|是|是|
