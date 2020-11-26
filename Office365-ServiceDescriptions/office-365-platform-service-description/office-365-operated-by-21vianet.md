@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294128"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411651"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -123,7 +123,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |自定义域需要域所有权验证|是|是|是|是|是|是|是|
 |自动域购买和域验证适用于通过 Go Daddy 购买的域|否|否|否|否|否|否|否|
 |**[服务运行状况和连续性](service-health-and-continuity.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业 F3**|
-|“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息|是|是|是|是|是|是|是|
+|“服务运行状况”或“服务状态”页面中显示状态信息|是|是|是|是|是|是|是|
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态|是|是|是|是|是|是|是|
 |是|是|是|是|是|是|是|是|
 |**[报告](reports.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业 F3**|
@@ -1070,7 +1070,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 - "LinkedIn" & "向人员卡片上的数据报告"
 - 精品
 - 播放我的电子邮件
-- 外接程序
+- Add-Ins
 - 智能回复
 - Office 源
 - 保留时间
@@ -1099,7 +1099,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |[Custom fields](../project-online-service-description/core-functionality.md#custom-fields)|否|是|是|是|否|
 |[Enhanced copy and paste across Microsoft Office applications](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|否|是|是|是|否|
 |[Gantt chart, calendar, and task sheet views](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|否|是|是|是|否|
-|[Microsoft Fluent user interface, the ribbon](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|否|是|是|是|否|
+|[用户界面（功能区）](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|否|是|是|是|否|
 |[Multiple-level undo](../project-online-service-description/core-functionality.md#multiple-level-undo)|否|是|是|是|否|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|否|是|是|是|否|
 |[Office 应用商店](../project-online-service-description/core-functionality.md#office-store)|否|否|否|否|否|

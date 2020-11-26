@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072673"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411641"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -41,12 +41,12 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 [Office 365 美国政府版服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)介绍了平台的优势，这些优点在美国的符合合规性要求中居中显示。
 
 > [!TIP]
-> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n** 。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
+> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n**。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
 
 > [!NOTE]
 > Microsoft 365 政府版-GCC 仅适用于美国。 非美国政府客户可以从多个 [Office 365 政府计划](https://products.office.com/government/compare-office-365-government-plans)中进行选择。
 
-**决策点** ： <br/>
+**决策点**： <br/>
 - *确定 Microsoft 365 政府版（GCC）是否适合您的组织。*
 - *确认您的组织满足资格要求。*
 
@@ -58,7 +58,7 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
-**决策点** ： *决定是否要修改任何默认的 Microsoft 365 政府-GCC 安全设置，先解决以了解您可能进行的任何更改的影响。*
+**决策点**： *决定是否要修改任何默认的 Microsoft 365 政府-GCC 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>步骤 4. 了解默认情况下在 Microsoft 365 政府中当前不可用或禁用的功能（GCC<sup>1</sup> ）
 
@@ -182,8 +182,8 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 高级审核：已处理审核见解                               | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
-|                                         | 合规性管理器                              | 即将推出 |
-|                                         | Microsoft Cloud App Security                              | 在工程工作积压 |
+|                                         | 合规性管理器                              | 可用 |
+|                                         | Microsoft 云应用安全                              | 在工程工作积压 |
 |                                         | 双字节字符支持                              | 在工程工作积压 |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
 |                                         | 第一方数据连接器                              | 在工程工作积压 |
@@ -195,4 +195,4 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 
 <sup>1</sup> 标识的状态可能会随着项目计划和优先级的重新评估而发生更改。<br/>
 
-**决策点** ： *决定合规性功能是否满足组织的需求。*
+**决策点**： *决定合规性功能是否满足组织的需求。*

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Project Online 中提供了以下核心功能功能。
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294038"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411581"
 ---
 # <a name="core-functionality"></a>核心功能
 
@@ -34,7 +34,7 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="click-to-run"></a>即点即用
 
-通过 internet、内部网络、本地文件系统或离线媒体快速安装 Project Online，以确保您使用的是最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
+通过 internet、内部网络、本地文件系统或离线媒体快速安装 Project Online，以确保您可以使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
   
 ## <a name="contextual-right-click-menus"></a>上下文右键单击菜单
 
@@ -52,13 +52,13 @@ Project Online 中提供了以下核心功能功能。
 
 使用甘特图、网络图、图表、工作表、使用情况和窗体视图以图形方式显示项目信息。 请参阅[选择合适的项目日程视图](https://go.microsoft.com/fwlink/?LinkId=402905)。
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
+## <a name="user-interface-the-ribbon"></a>用户界面（功能区）
 
-利用功能区（即选项卡界面）可以快速查找并使用 Project 功能和控件，从而提高工作效率。[详细了解功能区](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
-  
+利用功能区（即选项卡界面）可以快速查找并使用 Project 功能和控件，从而提高工作效率。
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-您可以使用 "撤消" 菜单同时撤消多个更改。 
+您可以使用 "撤消" 菜单同时撤消多个更改。
   
 ## <a name="network-diagram-view"></a>网络图视图
 
@@ -103,5 +103,3 @@ Project 2013 为您启动项目提供了一个一站式中心，而不是让您�
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Project Online 服务说明](project-online-service-description.md)。
-  
-

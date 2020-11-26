@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 根据美国公共事业部门的独特和不断发展的要求，Microsoft 已创建 Office 365 美国政府版计划 (或 Office 365 政府) 。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830403"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411611"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -209,7 +209,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |添加多达 900 个自定义域|是|是|是|是|
 |自定义域需要域所有权验证|是|是|是|是|
 |**[服务运行状况和连续性](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府 F3**|
-|“服务运行状况”  或“服务状态”  页面中显示状态信息|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
+|“服务运行状况”或“服务状态”页面中显示状态信息|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|是<sup>9，15</sup>|
 |是|是|是|是|是|
 |**[报告](../../office-365-platform-service-description/reports.md)**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府 F3**|
@@ -446,6 +446,7 @@ Office 365 美国政府版客户可以使用 Azure 政府 ExpressRoute 服务来
 |与共同作者的上下文聊天：与文档中的共同作者聊天|否|否|否|
 |语音听写|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
 
+若要了解适用于 GCC/GCC 高/DoD 中的 Microsoft 团队的功能可用性，请访问 [Microsoft 团队服务说明](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description)。
 > <sup>1</sup> 可用性即将推出。
 <br/><sup>2</sup> 在本地 Surface Hub 上的可用性 (未在) 中登录。
 <br/><sup>3</sup> 外部共享适用于 GCC 环境。 了解有关如何为你的组织 [关闭或打开 Microsoft 表单](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 的详细信息。 为 GCC 的高和 DOD 环境禁用外部共享;您组织中的用户可以执行以下操作：填写表单并提交响应、 [复制表单并将其共享为模板](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)、 [共同创作或协作处理表单](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)以及 [访问表单结果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。

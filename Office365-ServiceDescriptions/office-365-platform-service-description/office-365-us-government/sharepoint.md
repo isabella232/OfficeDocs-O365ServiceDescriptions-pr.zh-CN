@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 了解有关美国政府云客户的 SharePoint 功能可用性。
-ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294188"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411601"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>适用于美国政府环境的 SharePoint
 
@@ -58,16 +58,11 @@ ms.locfileid: "48294188"
 
 商业客户和政府云客户的安全与合规功能之间没有已知的区别。
 
-有关以下功能的信息，请参阅 [Office 365 US 政府服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)：
-- 客户密码箱
-- 数据丢失防护 (DLP)
-- 电子数据展示 (内容搜索、保留、导出) 
-- Office 365 高级威胁防护 (ATP)
-- 敏感度标签
+有关安全性和合规性功能的信息，请参阅 [安全性 & 合规性中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
 
 有关适用于政府的 Azure Active Directory 功能的信息，请参阅 [Azure 政府安全性 + 标识文档](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
-有关适用于政府的 Azure 信息保护功能的信息，请参阅 [Azure 信息保护 Premium 政府服务说明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+有关适用于政府的 Azure 信息保护功能的信息，请参阅 [Azure 信息保护 Premium 政府服务说明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。 
 
 ## <a name="sites-and-content"></a>网站和内容
 
