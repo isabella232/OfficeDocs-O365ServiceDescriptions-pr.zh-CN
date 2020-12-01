@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
-ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411641"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519033"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -115,7 +115,7 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 内幕风险管理：上报以供调查高级电子数据展示 | 在开发中|
 |                                         | 内幕风险管理： Windows 10 Build 1809 和更高版本中的活动的设备指示器 | 在工程工作积压|
 |                                         | 内幕风险管理：违反安全策略的指标 (preview)  | 在工程工作积压|
-|                                         | 内幕风险管理： Windows Defender ATP 警报 (预览的指示器)  | 在工程工作积压|
+|                                         | 内幕风险管理： Microsoft Defender for Endpoint alerts (preview 中的指标)  | 在工程工作积压|
 |                                         | 内幕风险管理：按优先级用户 (预览) 的数据泄露的策略模板 | 在工程工作积压 |
 |                                         | 内幕风险管理：不满用户 (预览) 的数据泄漏策略模板 | 在工程工作积压 |
 |                                         | 内幕风险管理：常规安全策略冲突的策略模板 (预览)  | 在工程工作积压 |

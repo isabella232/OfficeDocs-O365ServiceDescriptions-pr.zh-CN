@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云和商业云之间的功能差异，如 Exchange Online 服务说明中所示。
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376085"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519093"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online for 美国政府环境
 
@@ -73,7 +73,7 @@ ms.locfileid: "49376085"
 |自定义反恶意软件策略|是|是|是||
 |隔离 - 管理员管理|是|是|是||
 |隔离 - 最终用户自我管理|是|是|是||
-|高级强大的威胁保护|是|是|是|需要 G5 服务计划 (或购买加载项) 。<br><br>在 GCC 高和 DoD 中，用户和域模拟和欺骗情报的反网络钓鱼尚不可用。|
+|Microsoft Defender for Office 365|是|是|是|需要 G5 服务计划 (或购买加载项) 。<br><br>在 GCC 高和 DoD 中，用户和域模拟和欺骗情报的反网络钓鱼尚不可用。|
 |**[邮件流](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC 高**|**DoD**|**关键注意事项**|
 |出站邮件的自定义路由|是|是|是||
 |与受信任合作伙伴的安全邮件|是|是|是||

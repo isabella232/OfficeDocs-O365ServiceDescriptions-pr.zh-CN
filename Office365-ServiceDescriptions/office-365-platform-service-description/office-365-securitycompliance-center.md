@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 合规性中心旨在帮助您在组织的 Office 365 中管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261594"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519113"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -67,7 +67,7 @@ ms.locfileid: "48261594"
 
 <sup>5</sup> 美国和西欧 (荷兰) 地区支持高级电子数据展示。 从加拿大和亚太地区 (客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 ) 
 
-<sup>6</sup> Office 365 E5 中提供了高级威胁防护，作为 Office 365 E1 和 Office 365 E3 的独立服务。
+<sup>6</sup> Office 365 E5 中提供了 Microsoft Defender for office 365，作为 Office 365 E1 和 Office 365 E3 的独立服务。
 
 <sup>7</sup> 包括存储在 Microsoft 团队存储库中的文件。
 

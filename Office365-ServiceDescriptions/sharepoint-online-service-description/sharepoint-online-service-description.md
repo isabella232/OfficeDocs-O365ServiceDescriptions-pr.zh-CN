@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能可用于哪些计划。
-ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661260"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519153"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -34,7 +34,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 若要了解有关我们政府云客户的 SharePoint 功能的区别，请参阅 [sharepoint FOR us 政府环境](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)。
   
-## <a name="whats-new"></a>最近更新
+## <a name="whats-new"></a>新增功能
 
 有关即将发布的最新功能的信息，请参阅 [SharePoint 中的新增](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)功能。
   
@@ -135,7 +135,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成在一起
 - [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [电子数据展示](/microsoft-365/compliance/ediscovery-cases) (内容搜索、保留、导出) 
 - [信息屏障](/microsoft-365/compliance/information-barriers)
-- [Office 365 高级威胁防护 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [保留标签和策略](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [敏感度标签](/microsoft-365/compliance/sensitivity-labels)
 - 审核 SharePoint 用户和管理员活动的[统一审核](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) () 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294178"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518713"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
@@ -47,7 +47,7 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
 
 - [Exchange Online Archiving 服务说明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Office 365 高级威胁防护服务说明](office-365-advanced-threat-protection-service-description.md)
+- [Microsoft Defender for Office 365 服务说明](office-365-advanced-threat-protection-service-description.md)
 
 - [Microsoft Teams 服务说明](teams-service-description.md)
 

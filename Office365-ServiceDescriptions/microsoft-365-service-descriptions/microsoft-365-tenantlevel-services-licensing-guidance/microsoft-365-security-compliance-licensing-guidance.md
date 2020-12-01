@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
-ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
+ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49330259"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518933"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -47,49 +47,49 @@ SecOps 分析师和安全专家将从基于机器学习算法的已标记用户�
 
 管理员可以通过分配定义密码重置级别的风险策略并仅允许许可用户访问，来对 Azure AD 标识保护进行作用域。 有关如何对 Azure AD 标识保护部署进行作用域的说明，请参阅 [配置登录风险策略](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
-## <a name="azure-advanced-threat-protection"></a>Azure 高级威胁防护
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
-Azure 高级威胁防护 (ATP) 是一项云服务，可帮助从多种类型的高级目标网络攻击和内幕威胁中保护企业混合环境。
+Microsoft Defender for Identity 是一项云服务，可帮助保护企业混合环境，使其免受多种类型的高级目标网络攻击和内部威胁。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-SecOp 分析师和安全性专家将受益于 Azure ATP 检测和调查高级威胁、已泄露身份和恶意内幕活动的能力。 最终用户通过 Azure ATP 监视数据来获得好处。
+SecOp 分析师和安全专业人员可受益于 Microsoft Defender for Identity 检测和调查高级威胁、已泄露身份和恶意内幕活动的能力。 最终用户通过 Microsoft Defender for Identity 监控数据来获得好处。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-企业移动性 + 安全性 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security，以及适用于 Azure 的用户的 Azure 高级威胁防护提供从 Azure ATP 获益的权限。
+企业移动性 + 安全性 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 Security，Microsoft Defender for Users 提供了 Microsoft Defender for Identity 的好处。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，在租户级别为租户中的所有用户启用 Azure ATP 功能。 有关配置 Azure ATP 的信息，请参阅 [Create a AZURE atp instance](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)。
+默认情况下，在租户级别为租户中的所有用户启用 Microsoft Defender 标识功能。 有关为 Microsoft Defender 标识配置的信息，请参阅 [Create a Microsoft defender For identity instance](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-Azure ATP 服务当前不能限制特定用户的功能。 您必须为您想要受益的每个用户授予许可证。
+Microsoft Defender for Identity services 目前无法限制特定用户的功能。 您必须为您想要受益的每个用户授予许可证。
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 高级威胁防护
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
- (ATP) 的高级威胁防护可帮助组织防御复杂的攻击，如网络钓鱼和零日恶意软件。 ATP 还通过关联大量数据中的信号来提供可操作的见解，以帮助确定、设置优先级，并提供有关如何解决潜在威胁的建议。
+适用于 Office 365 的 Defender 可帮助组织防御复杂的攻击，如网络钓鱼和零天恶意软件。 适用于 Office 的 Defender 365 还通过关联大量数据中的信号来提供可操作的见解，以帮助确定、设置优先级，并提供有关如何解决潜在威胁的建议。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-ATP 可保护用户免受复杂攻击（如网络钓鱼和零天恶意软件）的攻击。 有关计划1和计划2中提供的服务的完整列表，请参阅 [Office 365 高级威胁防护](https://products.office.com/exchange/advance-threat-protection)。
+适用于 Office 365 的 Defender 可防止用户进行复杂的攻击，如网络钓鱼和零日恶意软件。 有关计划1和计划2中提供的服务的完整列表，请参阅 [Microsoft Defender For Office 365](https://products.office.com/exchange/advance-threat-protection)。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？ 
 
-Office 365 高级威胁防护，Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 Security，Microsoft 365 商业高级版和 Office 365 ATP 计划1和2为用户提供了从高级威胁防护中获益的权限。
+Microsoft Defender for Office 365、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 商业高级版和 Microsoft Defender for Office 365 计划1和2为用户提供了从 Defender for Office 365 中获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，在租户级别为租户中的所有用户启用 ATP 功能。 有关为许可用户配置 ATP 策略的信息，请参阅 [Office 365 高级威胁防护](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)。
+默认情况下，Microsoft Defender for Office 365 功能在租户级别为租户中的所有用户启用。 有关为许可用户配置适用于 Office 的 Defender 365 策略的信息，请参阅 [Microsoft defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-若要对 ATP 进行作用域，请遵循安全链接和安全附件部署策略：
+若要限定 Microsoft Defender for Office 365，请遵循 "安全链接" 和 "安全附件" 部署策略：
 
-- 有关为许可用户配置安全链接的信息，请参阅 [设置 Office 365 ATP 安全链接策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
+- 有关为许可用户配置安全链接的信息，请参阅 [在 Microsoft Defender For Office 365 中设置安全链接策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
 
-- 有关为许可用户配置安全附件的信息，请参阅 [设置 Office 365 ATP 安全附件策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
+- 有关为许可用户配置安全附件的信息，请参阅 [在 Microsoft Defender For Office 365 中设置安全附件策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 云应用安全
 
@@ -174,25 +174,25 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 对合规性管理器的访问权限是通过设置用户权限和分配角色来控制的。 有关详细信息，请参阅 [合规性管理器入门：设置用户权限和分配角色](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles)。
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
-Microsoft Defender ATP 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护; (EDR) 的终结点检测和响应自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅 [Microsoft DEFENDER ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 页面。
+Microsoft Defender for Endpoint 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护; (EDR) 的终结点检测和响应自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅 [Microsoft Defender For Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 页面。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Windows 10 企业版 E5 的许可用户（Windows 10 教育版 A5） Microsoft 365 E5 (M365 E5) 包括 Windows 10 企业版 E5、Microsoft 365 E5 Security、Microsoft 365 A5 (M365 A5) 可以从 Microsoft Defender ATP 获益。
+Windows 10 企业版 E5 的许可用户，Windows 10 教育版 A5，Microsoft 365 E5 (M365 E5) （包括 Windows 10 企业版 E5、Microsoft 365 E5 Security、Microsoft 365 A5 (M365 A5) 可以从 Microsoft Defender for Endpoint 获益。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-SecOps 分析师和安全性专家可受益于 Microsoft Defender ATP 的终结点安全功能，以执行预防性保护、入侵后检测、自动调查以及对高级威胁的响应。 最终用户通过使用 Microsoft Defender ATP 进行监视的恶意事件来获得好处。
+SecOps 分析师和安全性专家受益于 Microsoft Defender for Endpoint 的终结点安全功能，以实现预防性保护、入侵后检测、自动调查以及对高级威胁的响应。 最终用户通过让 Microsoft Defender for Endpoint 监视恶意事件来获得好处。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，在租户级别为租户中的所有用户启用 Microsoft Defender ATP 功能。 有关部署的信息，请参阅 [部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
+默认情况下，在租户级别为租户中的所有用户启用 Microsoft Defender for Endpoint 功能。 有关部署的信息，请参阅 [部署指南](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-Microsoft Defender ATP 管理员可以利用 [基于角色的访问控制 (RBAC) ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) 在安全操作团队中创建角色和组，以向 Microsoft Defender 安全中心授予适当的访问权限。
+Microsoft Defender for Endpoint 管理员可以利用 [基于角色的访问控制 (RBAC) ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) 在安全操作团队中创建角色和组，以向 Microsoft Defender 安全中心授予适当的访问权限。
 
 ## <a name="information-protection"></a>信息保护
 
@@ -377,7 +377,7 @@ Microsoft 365 E5/A5、Microsoft 365 E5/A5 合规性、Microsoft 365 信息保护
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
-对于 Exchange Online 和 Skype for business，可以使用客户密钥加密邮箱。 您必须先安装 Azure，然后才能使用适用于 Office 365 的客户密钥。 若要创建和配置所需的 Azure 资源以及在 Office 365 中设置客户密钥的步骤，请参阅 [设置客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) 。 完成 Azure 设置后，确定要为组织中的邮箱和文件分配的策略，并因此确定哪些密钥。 未分配策略的邮箱和文件将使用由 Microsoft 控制和管理的加密策略。 有关客户密钥的详细信息，或有关一般概述的详细信息，请参阅 [Office 365 中的使用客户密钥的服务加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide)。
+对于 Exchange Online 和 Skype for business，可以使用客户密钥加密邮箱。 您必须先安装 Azure，然后才能使用适用于 Office 365 的客户密钥。 若要创建和配置所需的 Azure 资源以及在 Office 365 中设置客户密钥的步骤，请参阅 [设置客户密钥](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) 。 完成 Azure 设置后，确定要为组织中的邮箱和文件分配的策略，并因此确定哪些密钥。 未分配策略的邮箱和文件将使用由 Microsoft 控制和管理的加密策略。 有关客户密钥的详细信息，或有关一般概述的详细信息，请参阅 [Office 365 中的使用客户密钥的服务加密](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客户密码箱
 

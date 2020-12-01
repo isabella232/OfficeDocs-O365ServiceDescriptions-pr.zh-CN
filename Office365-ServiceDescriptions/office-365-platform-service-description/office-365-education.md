@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你正在寻找 Office 365 教育版计划之间的差异，本文将向你展示每个教育版计划中所包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与基于云的 Microsoft Office 桌面套件结合在一起， &mdash; 其中包括 Microsoft Exchange online、Microsoft SharePoint online、Office for web 和 Microsoft Skype For Business Online， &mdash; 以帮助用户从几乎任何位置通过 internet 实现工作效率。
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293878"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518873"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
@@ -110,7 +110,7 @@ ms.locfileid: "48293878"
 |自定义域需要域所有权验证  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自动域购买和域验证适用于通过 Go Daddy 购买的域  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|“服务运行状况”或“服务状态”页面中显示状态信息  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[报告](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -153,7 +153,7 @@ ms.locfileid: "48293878"
 |**信任** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[隐私、安全性和透明度](privacy-security-and-transparency.md) <br/> |是  <br/> |是  <br/> |是  <br/> |
 |高级安全管理  <br/> |否  <br/> |是  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Microsoft Defender for Office 365  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |客户锁箱  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |高级电子数据展示<sup>7</sup> <br/> |否  <br/> |否  <br/> |是  <br/> |
 |安全分数<sup>5</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -220,7 +220,7 @@ ms.locfileid: "48293878"
 <sup>2</sup> 高级数据管理允许您保留重要信息，并根据保留或删除策略或这两者来分类信息，从而删除不重要的信息。 它包括智能/自动化操作，如推荐策略;将标签自动应用于数据;基于敏感数据类型或查询应用标签;智能导入筛选器的使用。 它还包括用于出于安全和合规目的检查员工通信的监督功能。 <br/> 
 <sup>3</sup> 无限制。 <br/> 
 <sup>4</sup> 美国和欧洲西部 (荷兰) 地区支持高级电子数据展示。 从加拿大和亚太地区 (客户数据将导出到美国。 将欧洲、中东和非洲的客户数据导出到西欧日 [荷兰]。 )  <br/> 
-<sup>5</sup> 高级威胁防护在 Office 365 A5 中可用，作为 Office 365 A1 和 Office 365 A3 的独立服务。<br/>
+<sup>5</sup> Office 365 A5 中提供 Microsoft Defender for office 365，作为 Office 365 A1 和 Office 365 A3 的独立服务。<br/>
 <sup>6</sup> 您还可以使用 [Office 365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一审核日志中检索事件。 <br/>
   
 ## <a name="office-application-features"></a>Office 应用程序功能  
@@ -336,7 +336,7 @@ ms.locfileid: "48293878"
 |自定义反恶意软件策略  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔离 - 管理员管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |隔离 - 最终用户自我管理  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |是  <br/> |
+|Microsoft Defender for Office 365  <br/> |否  <br/> |否  <br/> |是  <br/> |
 |**[邮件流](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |出站邮件的自定义路由  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |与受信任合作伙伴的安全邮件  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -506,7 +506,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 <sup>3</sup> 资源邮箱不需要许可证。<br/> 
 <sup>4</sup> 在 SharePoint Online 中创建和管理网站邮箱。 有关详细信息，请参阅准备在 Office 365 中使用网站邮箱。<br/> 
 <sup>5</sup> 限制为1000公用文件夹邮箱，所有公用文件夹邮箱的最大总大小为 50 TB。<br/> 
-<sup>6</sup> 就地存档仅可用于存档单个用户或实体 (的邮件，例如已对其应用许可证的共享邮箱) 。 禁止使用就地存档存储多个用户或实体的邮件。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此，共享邮箱中仅存储的电子邮件是作为共享邮箱发送或接收的。<br/> 
+<sup>6</sup> In-Place 存档仅可用于存档单个用户或实体 (的邮件，例如已对其应用了许可证的共享邮箱) 。 禁止使用就地存档存储多个用户或实体的邮件。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此，共享邮箱中仅存储的电子邮件是作为共享邮箱发送或接收的。<br/> 
 <sup>7</sup> 如果已在 Exchange Online 中创建了保留策略，则只有当用户的主邮箱大于 10 MB 时，才会自动将邮件移动到用户的存档邮箱。 小于 10 MB 的邮箱不会自动运行保留策略。 
   
 #### <a name="capacity-alerts"></a>容量报警
@@ -691,7 +691,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |通讯组成员的最大数目<sup>1</sup> <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |100,000 个成员  <br/> |
 |限制向大型通讯组发送邮件  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |5,000 个成员或更多成员  <br/> |
 |大型通讯组的最大邮件大小  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|通讯组所有者的最大数量  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|通讯组所有者的最大数量  <br/> |10    <br/> |10    <br/> |10    <br/> |
 |用户可创建的组的最大数目  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

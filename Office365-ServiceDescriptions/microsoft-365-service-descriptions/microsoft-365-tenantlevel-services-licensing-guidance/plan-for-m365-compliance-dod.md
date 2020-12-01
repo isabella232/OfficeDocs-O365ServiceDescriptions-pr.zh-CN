@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中使用 Microsoft 365 政府– DoD 适用于满足这些要求的 IT 专业人员。
-ms.openlocfilehash: c15ca172c97c6549649e44d76dca019d866a7a4f
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830409"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519043"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
@@ -38,9 +38,9 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 [Office 365 美国政府版服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)介绍了平台的优势，这些优点在美国的符合合规性要求中居中显示。
 
 > [!TIP]
-> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n** 。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
+> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n**。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
 
-**决策点** ：<br/>
+**决策点**：<br/>
 - *确定 Microsoft 365 政府-DoD 是否适合您的组织。*
 - *确认您的组织满足资格要求。*
 
@@ -55,7 +55,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
-**决策点** ： *决定是否要修改任何默认的 Microsoft 365 政府-DoD 安全设置，先解决以了解您可能进行的任何更改的影响。*
+**决策点**： *决定是否要修改任何默认的 Microsoft 365 政府-DoD 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>步骤 4. 了解在 Microsoft 365 政府– DoD<sup>1</sup>中默认情况下当前不可用或禁用的功能。
 
@@ -100,7 +100,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                         | 记录管理：法规记录 | 在工程工作积压 |
 |                                         | 记录管理：多阶段处置评审 | 在工程工作积压 |
 |                                         | 记录管理：使用 SharePoint Syntex 分类应用记录标签         | 在工程工作积压 |
-| **内幕风险管理**             | 客户密码箱                                | 可用            |
+| **内部风险管理**             | 客户密码箱                                | 可用            |
 |                                         | 内幕风险管理：团队、SharePoint 网站、电子邮件消息的 Office 指示器                         | 在工程工作积压 |
 |                                         | 内幕风险管理：通过去声用户窃取数据                        | 在工程工作积压 |
 |                                         | 内幕风险管理：常规数据泄露                                | 在工程工作积压              |
@@ -109,7 +109,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                         | 内幕风险管理：上报以供调查高级电子数据展示 |在工程工作积压|
 |                                         | 内幕风险管理： Windows 10 Build 1809 和更高版本中的活动的设备指示器 |在工程工作积压|
 |                                         | 内幕风险管理：违反安全策略的指标 (preview)  |在工程工作积压|
-|                                         | 内幕风险管理： Windows Defender ATP 警报 (预览的指示器)  |在工程工作积压|
+|                                         | 内幕风险管理： Microsoft Defender for Endpoint alerts (preview 中的指标)  |在工程工作积压|
 |                                         | 内幕风险管理：按优先级用户 (预览) 的数据泄露的策略模板 | 在工程工作积压 |
 |                                         | 内幕风险管理：不满用户 (预览) 的数据泄漏策略模板 | 在工程工作积压 |
 |                                         | 内幕风险管理：常规安全策略冲突的策略模板 (预览)  | 在工程工作积压 |
@@ -174,7 +174,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                         | 高级审核：已处理审核见解                              | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
-|                                         | Microsoft Cloud App Security                              | 在工程工作积压 |
+|                                         | Microsoft 云应用安全                              | 在工程工作积压 |
 |                                         | 合规性管理器                              | 在工程工作积压 |
 |                                         | 双字节字符支持                              | 在工程工作积压 |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
@@ -184,4 +184,4 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 
 <sup>1</sup> 标识的状态可能会随着项目计划和优先级的重新评估而发生更改。<br/>
 
-**决策点** ： *决定合规性功能是否满足组织的需求。*
+**决策点**： *决定合规性功能是否满足组织的需求。*

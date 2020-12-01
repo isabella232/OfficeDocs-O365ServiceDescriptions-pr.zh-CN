@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中 Microsoft 365 政府– GCC High 的使用适用于满足这些要求。
-ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072663"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518904"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划 Microsoft 365 合规性– GCC High
 
@@ -36,9 +36,9 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 [Office 365 美国政府版服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)介绍了平台的优势，这些优点在美国的符合合规性要求中居中显示。
 
 > [!TIP]
-> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n** 。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
+> 您可能需要将服务说明中的信息表转移到 Excel 工作簿中，并添加两列： **与我的组织的相关信息 y/n 相关** 并 **满足我的组织的需要 y/n**。 然后，您可以与同事一起查看此列表，以确认此服务是否满足组织的需求。
 
-**决策点** ：<br/>
+**决策点**：<br/>
 - *确定 Microsoft 365 政府– GCC-High 是否适合您的组织。*
 - *确认您的组织满足资格要求。*
 
@@ -53,7 +53,7 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
-**决策点** ： *决定是否要修改任何默认的 Microsoft 365 政府– GCC-High 安全设置，先解决以了解您可能进行的任何更改的影响。*
+**决策点**： *决定是否要修改任何默认的 Microsoft 365 政府– GCC-High 安全设置，先解决以了解您可能进行的任何更改的影响。*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>步骤 4. 了解默认情况下在 Microsoft 365 政府中目前不可用或禁用的功能。 GCC-高<sup>1</sup>
 
@@ -110,7 +110,7 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 内幕风险管理：上报以供调查高级电子数据展示 | 在开发中|
 |                                         | 内幕风险管理： Windows 10 Build 1809 和更高版本中的活动的设备指示器 | 在工程工作积压|
 |                                         | 内幕风险管理：违反安全策略的指标 (preview)  | 在工程工作积压|
-|                                         | 内幕风险管理： Windows Defender ATP 警报 (预览的指示器)  | 在工程工作积压|
+|                                         | 内幕风险管理： Microsoft Defender for Endpoint alerts (preview 中的指标)  | 在工程工作积压|
 |                                         | 内幕风险管理：按优先级用户 (预览) 的数据泄露的策略模板 | 在工程工作积压 |
 |                                         | 内幕风险管理：不满用户 (预览) 的数据泄漏策略模板 | 在工程工作积压 |
 |                                         | 内幕风险管理：常规安全策略冲突的策略模板 (预览)  | 在工程工作积压 |
@@ -182,7 +182,7 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
 |                                         | 合规性管理器                                 | 即将推出              |
-|                                         | Microsoft Cloud App Security                                 | 可用              |
+|                                         | Microsoft 云应用安全                                 | 可用              |
 |                                         | 双字节字符支持                                 | 在工程工作积压              |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
 |                                         | 第一方数据连接器                                 | 在工程工作积压              |
@@ -191,4 +191,4 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 
 <sup>1</sup> 标识的状态可能会随着项目计划和优先级的重新评估而发生更改。<br/>
 
-**决策点** ： *决定合规性功能是否满足组织的需求。*
+**决策点**： *决定合规性功能是否满足组织的需求。*

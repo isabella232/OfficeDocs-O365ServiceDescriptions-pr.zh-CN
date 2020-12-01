@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 德国是从欧洲可提供的 Office 365 服务中的一种区别选项。 它通过在德国法律管辖的唯一数据受信者模型中提供了我们业界一流的数字工作工作效率服务（从德国数据中心起，通过 EFTA 中的数据访问和控制措施），帮助您满足德国最受管控客户的需求、欧盟 (EU) 和欧洲免费贸易协会 () 。
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367759"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518823"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -115,7 +115,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |自定义域需要域所有权验证|是|是|是|是|是|是|是|是|
 |自动域购买和域验证适用于通过 Go Daddy 购买的域|否|否|否|否|否|否|否|否|
 |**[服务运行状况和连续性](service-health-and-continuity.md)**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
-|“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息|是|是|是|是|是|是|是|是|
+|“服务运行状况”或“服务状态”页面中显示状态信息|是|是|是|是|是|是|是|是|
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态|是|是|是|是|是|是|是|是|
 |是|是|是|是|是|是|是|是|是|
 |**[报告](reports.md)**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
@@ -156,7 +156,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |IPv4 和 IPv6 协议|是|是|是|是|是|是|是|是|
 |**信任**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
 |**[隐私、安全性和透明度](privacy-security-and-transparency.md)**|是|是|是|是|是|是|是|是|
-|高级强大的威胁保护|否|否|否|否|否|否|是|否|
+|Microsoft Defender for Office 365|否|否|否|否|否|否|是|否|
 |客户锁箱|否|否|否|否|否|否|是|否|
 |高级电子数据展示|否|否|否|否|否|否|否|否|
 |安全功能分数|否|否|否|否|否|否|否|否|
@@ -262,7 +262,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 | 功能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 专业增强版<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Office 应用程序<sup>1、2</sup>**||||
+|**Office 应用程序 <sup>1、2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|是|是|是|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|是|是|是|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|是|是|是|
@@ -375,7 +375,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 |自定义反恶意软件策略|是|是|是|是|是|是|是|是 <sup>8</sup>|
 |隔离 - 管理员管理|是|是|是|是|是|是|是|是 <sup>8</sup>|
 |隔离 - 最终用户自我管理|是|是|是|是|是|是|是|是|
-|高级强大的威胁保护|否|--|否|否|否|否|是|否|
+|Microsoft Defender for Office 365|否|--|否|否|否|否|是|否|
 |**[邮件流](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
 |出站邮件的自定义路由|是|是|是|是|是|是|是|是|
 |与受信任合作伙伴的安全邮件|是|是|是|是|是|是|是|是|
@@ -520,11 +520,11 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 <sup>17</sup> 在 Office 365 德国 E3 中可用。<br/>
 <sup>18</sup> 适用于 Office 365 德国的附加功能。
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Exchange Online 高级威胁防护功能
+## <a name="defender-for-office-365-features"></a>适用于 Office 365 的 Defender 功能
 
-下表列出了 Office 365 Germany 计划中所提供的 Exchange Online 高级威胁防护功能。 有关 EOP 功能的更多详细信息，请选择下表中的链接。 提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。<br><br>
+下表列出了 office 365 德国计划中提供的 Office 365 的 Defender 功能。 提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。<br><br>
 
-| 功能 | 独立 ATP | Exchange Online 中的 ATP 功能 |
+| 功能 | 适用于 Office 的 Defender 365 独立版 | Exchange Online 中的 Office 365 的 Defender 功能 |
 |:-----|:-----|:-----|
 |安全链接|是|是|
 |安全附件|是|是|
@@ -533,7 +533,7 @@ Office 365 德国遵循 Office 365 的云安全性和合规性标准。 Office 3
 
 下表列出了 Office 365 Germany 计划中所提供的 Project Online 功能。若要了解 Project Online 的详细信息，请参阅 [Getting Started with Project Online](https://go.microsoft.com/fwlink/?linkid=2144053)（Project Online 入门）。<br><br>
 
-| 套餐 | 说明 | 目标用户 |
+| 计划 | 说明 | 目标用户 |
 |:-----|:-----|:-----|
 |Project Online 协作版| 团队成员基于 Web 的界面  <br/>  更新任务、问题和风险  <br/>  提交时间表  <br/>  共享文档并使用 Skype for Business 状态协作|团队成员|
 |Project Online Professional| 所有 Project Online 协作版功能，外加：  <br/>  桌面客户端丰富的用户界面  <br/>  通过 web 界面随时随地访问  <br/>  项目日程安排和成本计算  <br/>  资源管理  <br/>  将项目发布到云  <br/>  包括可立即将最新版本的 Project 桌面应用程序传输到 Windows PC。  <br/>  每个订阅许可证允许 Project 应用程序的最多五个并发安装。|项目经理|

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组织的需求。 如果你正在寻找计划（包括 Exchange Online 计划）之间的差异，本文将向你展示每个计划中包含的功能。
-ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293818"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519123"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -141,7 +141,7 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |自定义域需要域所有权验证  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |自动域购买和域验证适用于通过 Go Daddy 购买的域  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[服务运行状况和连续性](service-health-and-continuity.md)** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
-|“服务运行状况”**** 或“服务状态”**** 页面中显示状态信息  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|“服务运行状况”或“服务状态”页面中显示状态信息  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[报告](reports.md)** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |活动邮箱和非活动邮箱  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -183,7 +183,7 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 |**信任** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |**[隐私、安全性和透明度](privacy-security-and-transparency.md)** <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Office 365 云应用安全  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|高级强大的威胁保护  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
+|Microsoft Defender for Office 365  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |客户锁箱  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |客户密钥<sup>14</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |高级电子数据展示<sup>15</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
@@ -223,6 +223,6 @@ Microsoft 365 for business 计划中有几个是可以为订阅购买的加载�
 <br/>仅<sup>16</sup>个 Microsoft Stream 的消耗：不发布或共享。
 <br/><sup>17</sup> 起始于5月2019，Office 365 和 Microsoft 365 的现有符合条件的 sku 将与 Kaizala Pro backfilled。 从2019年6月1日，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 Sku 中。
 <br/><sup>18</sup> 有关详细信息，请参阅 [MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>19</sup>包括 Azure active [directory 定价](https://azure.microsoft.com/pricing/details/active-directory/)页面上的**Office 365 应用程序**列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5，才能获取高级 Azure AD 功能。<br/>
+<br/><sup>19</sup>包括 Azure active [directory 定价](https://azure.microsoft.com/pricing/details/active-directory/)页面上的 **Office 365 应用程序** 列中所述的 Azure active directory 功能。 您必须添加 Azure Active Directory 计划1或计划2、企业移动安全性或 Microsoft 365 E3 或 E5，才能获取高级 Azure AD 功能。<br/>
 <sup>20</sup> 将简报电子邮件自动提供给 Exchange Online 的所有用户。 有关详细信息，请参阅 [配置简报电子邮件](https://docs.microsoft.com/Briefing/be-admin)。<br>
 <sup>21</sup> 向用户提供对 web 项目的仅查看访问权限。 这些权限仅用于 web 应用程序的项目，并且仅适用于具有项目计划1、项目计划3或项目计划5许可证的租户。 这些权限不授予对 Power Platform 应用程序或其他数据集、Project Online 桌面客户端或 Project Online 的访问权限。 有关功能的详细信息，请参阅 [Microsoft Project 服务说明](../project-online-service-description/project-online-service-description.md)。
