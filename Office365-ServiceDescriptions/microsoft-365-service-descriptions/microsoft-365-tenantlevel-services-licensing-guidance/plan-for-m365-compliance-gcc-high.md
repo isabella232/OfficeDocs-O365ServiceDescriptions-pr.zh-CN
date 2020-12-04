@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中 Microsoft 365 政府– GCC High 的使用适用于满足这些要求。
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518904"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566644"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划 Microsoft 365 合规性– GCC High
 
@@ -22,7 +22,7 @@ ms.locfileid: "49518904"
 > [!NOTE]
 >如果您的组织已满足 Microsoft 365 政府– GCC 高资格要求，并已应用并被接受到程序中，则可以跳过步骤1和步骤2，直接转到步骤3。
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>步骤 1. 确定您的组织是否需要 Microsoft 365 政府– GCC 高并满足资格要求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>第 1 步： 确定您的组织是否需要 Microsoft 365 政府– GCC 高并满足资格要求
 
 Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除了享受 Office 365 的特性和功能外，组织还可以受益于 Microsoft 365 政府（GCC 高）所特有的以下功能：
 
@@ -45,11 +45,11 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 > [!NOTE]
 > Microsoft 365 政府版-GCC 高版仅适用于美国国家/地区。 非美国政府客户可以从多个 [Office 365 政府计划](https://products.office.com/government/compare-office-365-government-plans)中进行选择。
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>步骤 2. 适用于 Microsoft 365 政府– GCC-High
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>第 2 步： 适用于 Microsoft 365 政府– GCC-High
 
 如果认为此服务适合您的组织，请启动 [应用此服务](https://products.office.com/government/eligibility-validation)的过程。
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>步骤 3. 了解 Microsoft 365 政府– GCC-High 默认安全设置
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>第 3 步： 了解 Microsoft 365 政府– GCC-High 默认安全设置
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
@@ -181,8 +181,8 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 高级审核：已处理审核见解                              | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
-|                                         | 合规性管理器                                 | 即将推出              |
-|                                         | Microsoft 云应用安全                                 | 可用              |
+|                                         | 合规性管理器                                 | 可用              |
+|                                         | Microsoft Cloud App Security                                 | 可用              |
 |                                         | 双字节字符支持                                 | 在工程工作积压              |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
 |                                         | 第一方数据连接器                                 | 在工程工作积压              |

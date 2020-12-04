@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 根据美国公共事业部门的独特和不断发展的要求，Microsoft 已创建 Office 365 美国政府版计划 (或 Office 365 政府) 。 本文概述了特定于 Office 365 政府美国环境的功能。
-ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519083"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566674"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -79,6 +79,8 @@ Office 365 政府服务是从实际位于美国的数据中心提供的。 下�
 > 对于一般用途，Skype for Business 不存储客户内容，但如果存储，内容会存储在美国的数据中心内。
 
 如果你的用户在美国中使用 Office (以前称为 Office Web Apps) 或者采用 Active Directory 联合身份验证服务 (AD FS) 2.0 并设置策略以帮助确保用户通过单一登录连接到服务，则在 Office 中临时缓存的任何客户内容都将位于美国中。
+
+SharePoint 网站的 "网站使用情况" 页可用于政府计划，但根据合规性，此页面的某些功能仅适用于商业客户。 若要了解详细信息，请参阅 [Microsoft 365 中 SharePoint 网站的 "网站使用情况" 页](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)。
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 政府和第三方服务
 

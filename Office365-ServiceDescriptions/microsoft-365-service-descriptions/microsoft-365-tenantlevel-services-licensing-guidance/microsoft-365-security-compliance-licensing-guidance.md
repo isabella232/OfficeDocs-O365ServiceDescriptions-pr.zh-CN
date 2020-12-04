@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518933"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566664"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -37,7 +37,7 @@ SecOps 分析师和安全专家将从基于机器学习算法的已标记用户�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-企业移动性 + 安全性 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 安全性，以及 Azure Active Directory 高级计划2为用户提供了从 Azure Active Directory 标识保护中获益的权限。
+具有 E1 和 E3 许可证的客户将能够仅访问默认的数据保护基准评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证 (合规性、信息保护 & 管理和电子数据展示和审核 Sku 随附) 将能够访问数据保护基准、GDPR、NIST 800-53 和 ISO 27001 开箱即用评估。 为 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户保留自定义评估功能和特优评估。 在2021到 VL、CSP 和 WebDirect 的上半年评估中将提供特优评估。 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
@@ -118,7 +118,7 @@ Office 365 E5/A5/G5 为用户提供了从 OCAS 获益的权限。
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅 [作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) 是一个云访问安全代理 (CASB) 解决方案，可向组织提供云应用程序和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并允许他们控制数据 &mdash; 在任何云应用中的传输方式。
 
@@ -487,7 +487,7 @@ Office 365 E5/A5 的许可用户、Microsoft 365 E5/A5、Microsoft 365 信息保
 
 当限制用户与其他人通信时，他们将受益于信息障碍的高级合规性功能。 例如：<br><br>
 
-| 应用场景 | 需要许可证的是谁？ |
+| 方案 | 需要许可证的是谁？ |
 |:------|:------|:------|
 |  (组 &nbsp; 1 和组 &nbsp; 2) 的两个组无法相互通信 (也就是说，组 &nbsp; 1 用户限制为与组 &nbsp; 2 用户通信，而组 &nbsp; 2 用户限制与组 &nbsp; 1 用户通信。 | 组 &nbsp; 1 和组2中的 &nbsp; 用户 |
 
