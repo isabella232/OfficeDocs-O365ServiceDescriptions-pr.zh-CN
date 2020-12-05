@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于365促使美国联邦、州、本地、部落或 territorial 政府实体或其他处理受政府法规和要求的数据的 IT 专业人员，以及使用 Microsoft 365 政府-GCC 来满足这些要求的其他实体。
-ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519033"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576005"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划 Microsoft 365 合规性– GCC
 
@@ -22,7 +22,7 @@ ms.locfileid: "49519033"
 > [!NOTE]
 > 如果您的组织已满足 Microsoft 365 政府-GCC 的资格要求，并已应用并接受到程序，则可以跳过步骤1和步骤2，直接转到步骤3。
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>步骤 1. 确定您的组织是否需要 Microsoft 365 政府-GCC 并满足资格要求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>第 1 步： 确定您的组织是否需要 Microsoft 365 政府-GCC 并满足资格要求
 
 Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括 FedRAMP 中型以及刑事审判和联邦税务信息系统的要求 (CJI 和 FTI data types) 。
 
@@ -50,11 +50,11 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 - *确定 Microsoft 365 政府版（GCC）是否适合您的组织。*
 - *确认您的组织满足资格要求。*
 
-## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>步骤 2. 适用于 Microsoft 365 政府版-GCC
+## <a name="step-2-apply-for-microsoft-365-government---gcc"></a>第 2 步： 适用于 Microsoft 365 政府版-GCC
 
 如果认为此服务适合您的组织，请启动 [应用此服务](https://products.office.com/government/eligibility-validation)的过程。
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>步骤 3. 了解 Microsoft 365 政府版-GCC 默认安全设置
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>第 3 步： 了解 Microsoft 365 政府版-GCC 默认安全设置
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
@@ -175,15 +175,15 @@ Microsoft 365 政府版的环境符合美国政府对云服务的要求，包括
 |                                         | 高级审核：对关键事件的访问 (例如，mailitemsaccessed)                               | 可用 |
 |                                         | 高级审核：增加了管理活动 API 的带宽                              | 可用 |
 |                                         | 高级审核：工作组专用频道消息的合法保留                               | 可用 |
-|                                         | 高级审核：日志保留期 (1 年)                                | 可用 |
+|                                         | 高级审核：日志保留期 (1 年)                                | 即将推出 |
 |                                         | 高级审核：安全性和合规性中心                               | 可用 |
-|                                         | 高级审核：较长的审核日志保留期限                               | 在工程工作积压 |
+|                                         | 高级审核：审核日志的长期保留时间 (10 年)                                | 在工程工作积压 |
 |                                         | 高级审核：邮件转发和邮件发送事件                               | 在工程工作积压 |
 |                                         | 高级审核：已处理审核见解                               | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
 |                                         | 合规性管理器                              | 可用 |
-|                                         | Microsoft 云应用安全                              | 在工程工作积压 |
+|                                         | Microsoft Cloud App Security                              | 在工程工作积压 |
 |                                         | 双字节字符支持                              | 在工程工作积压 |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
 |                                         | 第一方数据连接器                              | 在工程工作积压 |

@@ -1,22 +1,22 @@
 ---
 title: 适用于安全性的 Microsoft 365 许可指南 & 合规性
-ms.author: v-trscho
-author: vtrscho
+ms.author: v-smandalika
+author: v-smandalika
 audience: ITPro
 ms.topic: reference
-ms.date: 7/13/2020
+ms.date: 12/01/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566664"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576004"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -47,9 +47,33 @@ SecOps 分析师和安全专家将从基于机器学习算法的已标记用户�
 
 管理员可以通过分配定义密码重置级别的风险策略并仅允许许可用户访问，来对 Azure AD 标识保护进行作用域。 有关如何对 Azure AD 标识保护部署进行作用域的说明，请参阅 [配置登录风险策略](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
+## <a name="azure-active-directory-identity-governance"></a>Azure Active Directory 标识管理
+
+Azure Active Directory 标识调控使您能够在适当的流程和可见性之间平衡组织的安全性和员工工作效率需求。 它使用权利管理、访问审查、特权身份管理和使用条款策略，以确保正确的人员能够直接访问适当的资源。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+Azure Active Directory 身份治理通过使一个访问包中的应用、组和 Microsoft 工作组的访问更容易，提高用户的工作效率。 此外，还可以将用户配置为审批者，而无需涉及管理员。 对于访问审核，用户可以查看具有智能建议的组的成员身份，以定期采取措施。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
+
+企业移动性 + 安全性 E5/A5，Microsoft 365 E5/A5，Microsoft 365 E5/A5 安全性，以及 Azure Active Directory 高级计划2为用户提供了从 Azure Active Directory 标识管理中获益的权限。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
+
+Azure AD 标识管理功能在租户级别启用，但按用户实现。 有关 Azure AD 标识管理的信息，请参阅 [什么是 Azure Active Directory 身份治理？](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
+
+管理员可以通过为许可用户分配访问包、访问查看或特权标识管理来限定 Azure AD 标识管理。 有关如何确定 Azure AD 标识管理部署的范围的说明，请参阅：
+
+- [Azure AD 权限管理许可证要求](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview#license-requirements)
+- [Azure AD 访问审核许可证要求](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
+- [使用特权身份管理的许可证要求](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
+
 ## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
-Microsoft Defender for Identity 是一项云服务，可帮助保护企业混合环境，使其免受多种类型的高级目标网络攻击和内部威胁。
+Microsoft Defender for Identity (以前的 Azure 高级威胁防护) 是一项云服务，可帮助您从多种类型的高级目标网络攻击和内幕威胁中保护企业混合环境。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -61,7 +85,7 @@ SecOp 分析师和安全专业人员可受益于 Microsoft Defender for Identity
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，在租户级别为租户中的所有用户启用 Microsoft Defender 标识功能。 有关为 Microsoft Defender 标识配置的信息，请参阅 [Create a Microsoft defender For identity instance](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1)。
+默认情况下，在租户级别为租户中的所有用户启用 Microsoft Defender 标识功能。 有关配置 Azure ATP 的信息，请参阅 [Create a Microsoft Defender For Identity instance](https://docs.microsoft.com/defender-for-identity/install-step1)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
@@ -69,27 +93,28 @@ Microsoft Defender for Identity services 目前无法限制特定用户的功能
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-适用于 Office 365 的 Defender 可帮助组织防御复杂的攻击，如网络钓鱼和零天恶意软件。 适用于 Office 的 Defender 365 还通过关联大量数据中的信号来提供可操作的见解，以帮助确定、设置优先级，并提供有关如何解决潜在威胁的建议。
+Microsoft Defender for Office 365 (以前的 Office 365 高级威胁防护) 可帮助组织防御复杂的攻击，例如网络钓鱼和零日恶意软件。 Microsoft Defender for Office 365 还通过关联大量数据中的信号来提供可操作的见解，以帮助确定、设置优先级，并提供有关如何解决潜在威胁的建议。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-适用于 Office 365 的 Defender 可防止用户进行复杂的攻击，如网络钓鱼和零日恶意软件。 有关计划1和计划2中提供的服务的完整列表，请参阅 [Microsoft Defender For Office 365](https://products.office.com/exchange/advance-threat-protection)。
+Microsoft Defender for Office 365 保护用户免受复杂攻击，例如网络钓鱼和零日恶意软件。 有关计划1和计划2中提供的服务的完整列表，请参阅 [Microsoft Defender For Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true)。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？ 
 
-Microsoft Defender for Office 365、Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 Security、Microsoft 365 商业高级版和 Microsoft Defender for Office 365 计划1和2为用户提供了从 Defender for Office 365 中获益的权限。
+Microsoft Defender for Office 365 计划1和2，Office 365 E5/A5/G5，Microsoft 365 E5/A5/G5，Microsoft 365 E5/A5/G5 Security，Microsoft 365 Business Premium 为用户提供了从 Microsoft Defender for Office 365 获益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
 
-默认情况下，Microsoft Defender for Office 365 功能在租户级别为租户中的所有用户启用。 有关为许可用户配置适用于 Office 的 Defender 365 策略的信息，请参阅 [Microsoft defender For office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)。
+默认情况下，Microsoft Defender for Office 365 功能在租户级别为租户中的所有用户启用。 有关为许可用户配置 Microsoft Defender for Office 365 策略的信息，请参阅 [Microsoft defender For office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true)。
+
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何将服务仅应用于受该服务授权的租户中的用户？
 
 若要限定 Microsoft Defender for Office 365，请遵循 "安全链接" 和 "安全附件" 部署策略：
 
-- 有关为许可用户配置安全链接的信息，请参阅 [在 Microsoft Defender For Office 365 中设置安全链接策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
+- 有关为许可用户配置安全链接的信息，请参阅 [设置 Microsoft Defender For Office 365 安全链接策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links?view=o365-worldwide&preserve-view=true)。
 
-- 有关为许可用户配置安全附件的信息，请参阅 [在 Microsoft Defender For Office 365 中设置安全附件策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies)。
+- 有关为许可用户配置安全附件的信息，请参阅 [设置 Microsoft Defender For Office 365 安全附件策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide&preserve-view=true)。
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 云应用安全
 
@@ -105,7 +130,7 @@ OCAS 发现影子它，提供跨 Office 365 的威胁防护，并可以控制哪
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权限？
 
-Office 365 E5/A5/G5 为用户提供了从 OCAS 获益的权限。
+Office 365 E5/A3/A5/G5 为用户提供了从 OCAS 获益的权限。
 有关详细信息，请参阅 [Microsoft Cloud App Security 授权数据表](https://www.aka.ms/mcaslicensing)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>服务是如何设置/部署的？
@@ -176,7 +201,7 @@ Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权限。
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
-Microsoft Defender for Endpoint 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护; (EDR) 的终结点检测和响应自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅 [Microsoft Defender For Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) 页面。
+Microsoft defender for Endpoint (以前的 Microsoft Defender ATP) 是一个包含基于风险的漏洞管理和评估的终结点安全解决方案;攻击面减少功能;基于行为和云驱动的下一代保护; (EDR) 的终结点检测和响应自动调查和修正;和托管的搜寻服务。 若要了解详细信息，请参阅 [Microsoft Defender For Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 页面。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
