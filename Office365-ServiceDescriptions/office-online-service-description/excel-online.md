@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel for web (以前的 Excel Web App) 将您的 Microsoft Excel 体验扩展到 web 浏览器，您可以直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 为 web 查看和轻微编辑 Office 文件。
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294076"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586635"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -54,7 +54,7 @@ Excel for web (以前的 Excel Web App) 将您的 Microsoft Excel 体验扩展�
   
 ## <a name="apply-conditional-formatting"></a>应用条件格式
 
-使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何 [在 Excel for web 中使用条件格式](https://go.microsoft.com/fwlink/p/?LinkId=282326)的详细信息。
+使用条件格式可帮助您直观地浏览和分析数据、检测关键问题并确定模式和趋势。 了解有关如何 [在 Excel for web 中使用条件格式](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?)的详细信息。
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -197,7 +197,7 @@ Excel 中的想法可帮助您通过高级可视化摘要、趋势和模式了�
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-选择 "**开始**" 选项卡上的 "**插入**或**删除**" 前，先选择一个或多个行，以在工作表中一次添加或删除行或列，或一次删除多行。
+选择 "**开始**" 选项卡上的 "**插入** 或 **删除**" 前，先选择一个或多个行，以在工作表中一次添加或删除行或列，或一次删除多行。
 
 ## <a name="insert-pictures"></a>插入图片
 
