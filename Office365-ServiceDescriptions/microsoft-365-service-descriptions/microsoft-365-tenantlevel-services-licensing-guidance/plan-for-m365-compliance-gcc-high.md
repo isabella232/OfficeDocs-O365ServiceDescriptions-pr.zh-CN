@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中 Microsoft 365 政府– GCC High 的使用适用于满足这些要求。
-ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566644"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601758"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划 Microsoft 365 合规性– GCC High
 
@@ -22,7 +22,7 @@ ms.locfileid: "49566644"
 > [!NOTE]
 >如果您的组织已满足 Microsoft 365 政府– GCC 高资格要求，并已应用并被接受到程序中，则可以跳过步骤1和步骤2，直接转到步骤3。
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>第 1 步： 确定您的组织是否需要 Microsoft 365 政府– GCC 高并满足资格要求
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>步骤 1. 确定您的组织是否需要 Microsoft 365 政府– GCC 高并满足资格要求
 
 Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除了享受 Office 365 的特性和功能外，组织还可以受益于 Microsoft 365 政府（GCC 高）所特有的以下功能：
 
@@ -101,7 +101,7 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 记录管理：法规记录                         | 在工程工作积压 |
 |                                         | 记录管理：多阶段处置评审 | 在工程工作积压 |
 |                                         | 记录管理：使用 SharePoint Syntex 分类应用记录标签 | 在工程工作积压 |
-| **内部风险管理**             | 客户密码箱                                | 可用            |
+| **内幕风险管理**             | 客户密码箱                                | 可用            |
 |                                         | 内幕风险管理：团队、SharePoint 网站、电子邮件消息的 Office 指示器                         | 在开发中 |
 |                                         | 内幕风险管理：通过去声用户窃取数据                        | 在开发中 |
 |                                         | 内幕风险管理：常规数据泄露                                | 在开发中              |
@@ -174,15 +174,15 @@ Microsoft 365 政府-GCC 高环境符合美国政府对云服务的要求。 除
 |                                         | 高级审核：对关键事件的访问 (例如，mailitemsaccessed)                               | 可用 |
 |                                         | 高级审核：增加了管理活动 API 的带宽                              | 可用 |
 |                                         | 高级审核：工作组专用频道消息的合法保留                              | 可用 |
-|                                         | 高级审核：日志保留期 (1 年)                               | 可用 |
+|                                         | 高级审核：日志保留期 (1 年)                               | 即将推出 |
 |                                         | 高级审核：安全性和合规性中心可用性                              | 可用 |
-|                                         | 高级审核：较长的审核日志保留期限                              | 在工程工作积压 |
+|                                         | 高级审核：审核日志的长期保留时间 (10 年)                               | 在工程工作积压 |
 |                                         | 高级审核：邮件转发和邮件发送事件                              | 在工程工作积压 |
 |                                         | 高级审核：已处理审核见解                              | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |
 |    **遵从性管理**            | Microsoft 365 安全与合规中心                              | 可用 |
 |                                         | 合规性管理器                                 | 可用              |
-|                                         | Microsoft Cloud App Security                                 | 可用              |
+|                                         | Microsoft 云应用安全                                 | 可用              |
 |                                         | 双字节字符支持                                 | 在工程工作积压              |
 |    **生态系统**            | 用于高级电子数据展示的图形 Api                              | 在开发中 |
 |                                         | 第一方数据连接器                                 | 在工程工作积压              |

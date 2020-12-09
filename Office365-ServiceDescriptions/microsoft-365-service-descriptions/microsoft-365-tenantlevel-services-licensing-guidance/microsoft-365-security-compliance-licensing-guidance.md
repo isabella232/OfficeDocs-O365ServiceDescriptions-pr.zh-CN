@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供适用于 Microsoft 365 合规性的许可指南，以帮助避免由于未经许可访问而导致的潜在服务中断。
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576004"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601759"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>适用于安全性的 Microsoft 365 许可指南 & 合规性
 
@@ -25,7 +25,7 @@ ms.locfileid: "49576004"
 > [!NOTE]
 > 某些租户服务当前不能限制特定用户的优势。 应采取措施将服务的好处限制为许可用户。 这有助于避免您的组织在获得目标功能后对组织造成潜在的服务中断。
 
-若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=102270)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=102287)
+若要查看授权你的用户在2020年4月1日的 Microsoft 365 合规性功能中受益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=102403)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
 
@@ -143,7 +143,7 @@ Office 365 E5/A3/A5/G5 为用户提供了从 OCAS 获益的权限。
 
 管理员可以对 OCAS 部署进行作用域，以强制实施特定应用程序的访问方式并限制由 Office 365 云应用安全性监控的用户组。 有关详细信息，请参阅 [作用域部署](https://docs.microsoft.com/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
 
 Microsoft Cloud App Security (MCAS) 是一个云访问安全代理 (CASB) 解决方案，可向组织提供云应用程序和服务的可见性，提供了用于识别和防御网络威胁的高级分析，并允许他们控制数据 &mdash; 在任何云应用中的传输方式。
 

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动美国联邦政府实体或其他实体（用于处理政府法规和要求的数据）中的 Office 365 部署的 IT 专业人员，其中使用 Microsoft 365 政府– DoD 适用于满足这些要求的 IT 专业人员。
-ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: a619943b5eed63007b78613ab9b6715a52ef467d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519043"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601717"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
@@ -47,11 +47,11 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 > [!NOTE]
 > Microsoft 365 政府-DoD 仅适用于美国国家/地区。 非美国政府客户可以从多个 [Office 365 政府计划](https://products.office.com/government/compare-office-365-government-plans)中进行选择。
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>步骤 2. 适用于 Microsoft 365 政府-DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>第 2 步： 适用于 Microsoft 365 政府-DoD
 
 如果认为此服务适合您的组织，请启动 [应用此服务](https://products.office.com/government/eligibility-validation)的过程。
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>步骤 3. 了解 Microsoft 365 政府版-DoD 默认安全设置
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>第 3 步： 了解 Microsoft 365 政府版-DoD 默认安全设置
 
 我们建议您在修改管理员和安全设置之前，先仔细检查管理员和安全设置，并考虑对合规性产生的影响，然后再对默认安全设置进行任何更改。
 
@@ -100,7 +100,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                         | 记录管理：法规记录 | 在工程工作积压 |
 |                                         | 记录管理：多阶段处置评审 | 在工程工作积压 |
 |                                         | 记录管理：使用 SharePoint Syntex 分类应用记录标签         | 在工程工作积压 |
-| **内部风险管理**             | 客户密码箱                                | 可用            |
+| **内幕风险管理**             | 客户密码箱                                | 可用            |
 |                                         | 内幕风险管理：团队、SharePoint 网站、电子邮件消息的 Office 指示器                         | 在工程工作积压 |
 |                                         | 内幕风险管理：通过去声用户窃取数据                        | 在工程工作积压 |
 |                                         | 内幕风险管理：常规数据泄露                                | 在工程工作积压              |
@@ -169,7 +169,7 @@ Microsoft 365 政府-DoD 环境符合美国政府对云服务的要求。
 |                                         | 高级审核：增加了管理活动 API 的带宽                              | 即将推出 |
 |                                         | 高级审核：日志保留期 (1 年)                               | 即将推出 |
 |                                         | 高级审核：安全性和合规性中心可用性                              | 可用 |
-|                                         | 高级审核：较长的审核日志保留期限                              | 在工程工作积压 |
+|                                         | 高级审核：审核日志的长期保留时间 (10 年)                               | 在工程工作积压 |
 |                                         | 高级审核：邮件转发和邮件发送事件                              | 在工程工作积压 |
 |                                         | 高级审核：已处理审核见解                              | 在工程工作积压 |
 |                                         | 高级审核： Exchange Online 和 SharePoint Online 中的搜索词事件                              | 在工程工作积压 |

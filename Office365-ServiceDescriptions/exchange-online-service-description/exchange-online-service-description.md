@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在寻找包括 Exchange Online 的订阅的功能比较？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518893"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601747"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -116,7 +116,7 @@ Microsoft 365 F1 不包括对 Exchange 邮箱的权限。 为了启用完整的�
 |混乱邮件|是|否|是|是|是|是|是|是|
 |MailTips|是|是|是|是|是|是|是|是|
 |委托访问|是|是|是|是|是|是|是|无<sup>24</sup>|
-|收件箱规则|是|是|是|是|是|是|是|否|
+|收件箱规则|是|是|是|是|是|是|是|是|
 |已连接帐户|是|是|是|是|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|
 |非活动邮箱|否|否|无<sup>9</sup>|无<sup>9</sup>|无<sup>9</sup>|是|是|否 <sup>9</sup>|
 |脱机通讯簿|是|是|是|是|是|是|是|是|
@@ -200,7 +200,7 @@ Microsoft 365 F1 不包括对 Exchange 邮箱的权限。 为了启用完整的�
 <sup>20</sup> 对于电子数据展示，您需要对本地和云的单独查询。 <br/>
 <sup>21</sup> 该表指示客户端是否与关联的计划一起使用。 这并不意味着购买这些计划时必须包括客户端。 <br/>
 <sup>22</sup> 有关详细信息，请参阅 [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
-<sup>23</sup> 对第三方 PBX 系统的 EXCHANGE Online UM 支持通过从客户操作的直接连接到2019年4月结束。 有关详细信息，请参阅 exchange team 博客 [终止支持 Exchange Online 统一消息中的会话边界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) 。 <br/>
+<sup>23</sup> 对第三方 PBX 系统的 EXCHANGE Online UM 支持通过从客户操作的直接连接到2019年4月结束。 有关详细信息，请参阅 exchange team 博客 [终止支持 Exchange Online 统一消息中的会话边界控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
 <sup>24</sup> ： F3 用户不能向自己的邮箱中添加委派，但可以访问其他邮箱 (包括共享邮箱) 并执行已委派给它们的任何操作。<br/>
 <sup>25</sup> exchange server 2013 和 exchange server 2016 也需要对适用于企业的 Microsoft 365 应用程序进行订阅。
 

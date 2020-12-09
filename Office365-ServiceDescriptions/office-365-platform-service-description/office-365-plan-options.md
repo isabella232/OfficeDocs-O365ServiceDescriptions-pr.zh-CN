@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 9e5b88d623052d43f361c3b6c554ff7e928d42b4
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519143"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605347"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 计划选项
 
@@ -75,7 +75,7 @@ Microsoft 365 和 Office 365 在各种计划中可用以最大限度地满足组
 <sup>12</sup> 包括使用语音支持的 Skype For Business Online 计划2，无需任何客户端限制。  <br/>
 <sup>13</sup> 包括 Skype For Business Online 计划1。<br>
 <sup>14</sup> microsoft 团队现在是在 microsoft 365 中进行消息传递、会议和通话的主要客户端。 从2018年10月1日到，有500个座位或更少的新客户将载入到 Microsoft 团队，并且无权访问 Skype for business Online。 已在使用 Skype for Business Online 的租户可以继续执行此操作 (包括设置新用户) ，直到他们完成向 Microsoft 团队的过渡。<br>
-<sup>15</sup> 包括 Microsoft 365 E5 合规性，它提供自动分类和保留、客户密钥、高级邮件加密、内幕风险管理、通信合规性、信息障碍、客户密码箱、特权访问管理、高级审核、记录管理和高级电子数据展示功能;和 Microsoft 365 E5 Security，其中包括 Microsoft Defender for Office 365 Plan 2、MMicrosoft Defender for Endpoint、Azure Active Directory 计划2、Microsoft Defender for Identity、Microsoft 云应用安全和安全文档。<br>
+<sup>15</sup> 包括 Microsoft 365 E5 合规性，它提供自动分类和保留、客户密钥、高级邮件加密、内幕风险管理、通信合规性、信息障碍、客户密码箱、特权访问管理、高级审核、记录管理和高级电子数据展示功能;和 Microsoft 365 E5 Security，其中包括 Microsoft Defender for Office 365 Plan 2、Microsoft Defender for Endpoint、Azure Active Directory Plan 2、Microsoft Defender for Identity、Microsoft 云应用安全和安全文档。<br>
 <sup>16</sup> Microsoft 365 F1 不包括对 Exchange 邮箱的权限。 若要启用完整的团队体验，M365 F1 许可证可能会附带 Exchange Online K1 service plan （已启用）。 虽然 Exchange Online K1 service plan 将为用户设置邮箱，但 M365 F1 用户不具有使用邮箱的权利。 我们建议您的客户通过 [这些步骤](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) 禁用 Outlook 网页，并要求用户不要通过任何其他方法访问 Exchange 邮箱。<br>
 <sup>17</sup> 包括 SharePoint Online 展台。 不能是管理员。 无网站邮箱。 无个人网站。<br>
 <sup>18</sup> Microsoft 365 F1 用户可以使用 Office 为 web 读取文件，但不具有创建/编辑/保存权限。 
