@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解 Microsoft 365 和 Office 365 教育版计划之间的区别。
-ms.openlocfilehash: 013442afe663aa162428194777593d7c35b1c872
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
+ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072683"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49611254"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -39,6 +39,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |Project|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
 |Yammer 学院|是|是|是|是|是|是|是|是|是|
 |Microsoft Stream|是|是|是|是|是|是|是|是|是|
+|Microsoft Planner|是|是|是|是|是|是|是|是|是|
 |**课堂工具**|**Office 365 教育版 A1**|**Office 365 教育版 A3**|**Office 365 教育版 A5**|**Microsoft 365 教育版 A3**|**Microsoft 365 教育版 A5**|**Office 365 A3 学生使用权益**|**Office 365 A5 学生使用权益**|**Microsoft 365 教育版学生使用权益**|**Microsoft 365 教育版学生使用权益**|
 |Microsoft 团队中的课堂体验|是|是|是|是|是|是|是|是|是|
 |OneNote 课堂笔记本|是|是|是|是|是|是|是|是|是|
