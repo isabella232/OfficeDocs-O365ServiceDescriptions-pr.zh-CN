@@ -12,26 +12,26 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
+ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
+ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518713"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49687883"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
-Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织的强大安全性、可靠性和用户工作效率的需求。 
+Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
   
-此库中的主题提供了 Microsoft 365 和 Office 365 中提供的服务和功能的详细说明。 若要跨计划比较功能，请参阅 [功能强大的工具来支持您的企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或以下列表中的相关服务说明。 
+此库中的主题详细说明了 Microsoft 365 和 Office 365 中可用的服务和功能。 若要跨计划比较功能，请参阅以下列表中用于 [支持企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相关服务说明的强大工具。 
   
-有关支持文章和信息，请参阅 [Office 帮助 & 培训](https://support.office.com/)、 [管理员和 it 专业人员的 Office 文档](https://docs.microsoft.com/office/)，以及适用 [于管理员和 it 专业人员的 Microsoft 365 帮助中心](https://docs.microsoft.com/microsoft-365/)。
+有关支持文章和信息，请参阅 [Office 帮助](https://support.office.com/)中心&培训、适用于管理员和 IT 专业人员的 [Office](https://docs.microsoft.com/office/)文档，以及适用于管理员和 IT 专业人员的 [Microsoft 365](https://docs.microsoft.com/microsoft-365/)帮助中心。
   
 > [!NOTE]
-> 如果你正在查找服务说明比较电子表格，则它已停用。 每个服务说明页面上的产品功能可用性表都已更新，以更好地帮助您选择符合您的需求的 Office 365 版本。 
+> 如果要查找服务说明比较电子表格，则它已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择适合你需求的 Office 365 版本。 
   
-Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 的 FastTrack 中心权益。 通过此好处，你可以与 Microsoft 专家远程合作，让你的 Office 365 环境做好使用准备。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office 365 的 FastTrack 中心权益。 利用此权益，您可以与 Microsoft 专家远程合作，使 Office 365 环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
@@ -83,8 +83,10 @@ Microsoft 为符合条件的计划中的符合条件的服务提供 Office 365 �
 
 > [!NOTE]
 > <sup>1</sup> 包含 [uite features](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
+>
+> 有关 Microsoft 365 Dynamics Business Apps 详细信息，请参阅 <https://docs.microsoft.com/dynamics365/> 。
   
 ## <a name="disclaimer"></a>免责声明
 
-&copy; 2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 不打算成为服务合同，也不会将 Microsoft 或客户提交到此处提到的任何功能、功能或责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。
+&copy; 2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 它的目的不是服务合同，也不要求 Microsoft 或客户承担此处提及的任何功能、功能或责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。
  
