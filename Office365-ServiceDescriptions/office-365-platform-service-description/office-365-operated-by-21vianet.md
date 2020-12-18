@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683556"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709750"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -60,19 +60,6 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 ## <a name="system-requirements"></a>系统要求
 
 有关 Office 365 的系统要求，请参阅 [office.com](https://www.office.com) 产品网站上的 [Office 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
-
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>安全与合规中心在由世纪互联运营的 Office 365 中的可用性
-
-Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的轻松访问。 以下解决方案适用于由世纪银行运营的计划的合规性中心：
-
-- 数据丢失防护 (DLP)
-- 保留
-- 审核
-- Microsoft 信息保护 (MIP) 
-
-请参阅个别解决方案详细信息，了解由世纪银行运营的计划中可用的一组确切功能。
-
-若要详细了解 Microsoft 合规性中心[，请单击此处。](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)
 
 ## <a name="platform-features"></a>平台功能
 
@@ -220,8 +207,8 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 <sup>13</sup>体验的质量降低。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 <br/>
 <sup>14</sup> iOS 和 Outlook Mobile (Android) 中目前不支持多重) 。 <br/>
 <sup>15</sup>世纪互联提供 OneNote 课堂笔记本，但 OneNote 课堂笔记本工具栏不可用于 Windows 10 应用、iPad 和 OneNote 网页版。 <br/>
-由世纪银行运营的<sup>16</sup>个 Office 365 仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅保留 [策略入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
-Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核的活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
+由世纪银行运营的<sup>16</sup>个 Office 365 仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅 [保留策略入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
+Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
 
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能
 
@@ -535,7 +522,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 > [!NOTE]
 > 由世纪互联运营的 Office 365 版本专为中国而设计。
 
-| 规划 | 说明 |
+| 计划 | 说明 |
 |:-----|:-----|
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online**| 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
@@ -656,7 +643,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |辅助功能标准支持|是|是|是|是|是|是|是|
 |资产库增强/视频支持|是|是|是|是|是|是|是|
 |审核|是|是|是|是|是|是|是|
-|审核 &amp; 报告 (例如，文档编辑、策略编辑、) |是|是|是|是|是|是|是|
+|审核 &amp; 报告 (例如，文档编辑、策略编辑、删除) |是|是|是|是|是|是|是|
 |内容管理器|是|否|是|是|是|是|是|
 |设计管理器|是|否|是|是|是|是|是|
 |文档集|是|是|是|是|是|是|是|
@@ -935,7 +922,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |团队呼叫|否|否|否|否|否|否|否|
 |视频呼叫监视器|否|否|否|否|否|否|否|
 |Voicemail|否|否|否|否|否|否|否|
-|[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国内通话套餐，需要购买附加) |否|否|否|否|否|否|否|
+|[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国内通话套餐，以及所需的附加) |否|否|否|否|否|否|否|
 |[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国际通话套餐，需要购买) |否|否|否|否|否|否|否|
 |[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|否|否|否|否|否|否|否|
 |Skype for Business 语音|否|否|否|否|否|否|否|
@@ -1091,7 +1078,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 - 离开时间
 - Microsoft 信息保护敏感度标签
 - Dropbox 存储
-- Google Drive Storage
+- Google 驱动器存储
 - Box 存储
 - Facebook 日历
 - Helpshift
