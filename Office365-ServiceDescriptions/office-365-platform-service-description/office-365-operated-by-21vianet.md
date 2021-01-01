@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
-ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
+ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709750"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740983"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -208,7 +208,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 <sup>14</sup> iOS 和 Outlook Mobile (Android) 中目前不支持多重) 。 <br/>
 <sup>15</sup>世纪互联提供 OneNote 课堂笔记本，但 OneNote 课堂笔记本工具栏不可用于 Windows 10 应用、iPad 和 OneNote 网页版。 <br/>
 由世纪银行运营的<sup>16</sup>个 Office 365 仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅 [保留策略入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
-Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
+Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核的活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
 
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能
 
@@ -643,7 +643,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |辅助功能标准支持|是|是|是|是|是|是|是|
 |资产库增强/视频支持|是|是|是|是|是|是|是|
 |审核|是|是|是|是|是|是|是|
-|审核 &amp; 报告 (例如，文档编辑、策略编辑、删除) |是|是|是|是|是|是|是|
+|审核 &amp; 报告 (例如，文档编辑、策略编辑、) |是|是|是|是|是|是|是|
 |内容管理器|是|否|是|是|是|是|是|
 |设计管理器|是|否|是|是|是|是|是|
 |文档集|是|是|是|是|是|是|是|
@@ -922,7 +922,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |团队呼叫|否|否|否|否|否|否|否|
 |视频呼叫监视器|否|否|否|否|否|否|否|
 |Voicemail|否|否|否|否|否|否|否|
-|[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国内通话套餐，以及所需的附加) |否|否|否|否|否|否|否|
+|[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国内通话套餐，需要购买附加) |否|否|否|否|否|否|否|
 |[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国际通话套餐，需要购买) |否|否|否|否|否|否|否|
 |[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|否|否|否|否|否|否|否|
 |Skype for Business 语音|否|否|否|否|否|否|否|
@@ -1053,7 +1053,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |Windows PowerShell|是|是|
 |Microsoft 365 管理中心内的 Skype for Business Online 报告|否<sup>4</sup>|否<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序，其中包括高级电话支持、存档合规性功能等附加功能。 &amp; 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup>存档的可用性由 Exchange 就地保留功能而定，但此计划中不包含该功能。
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1076,7 +1076,6 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 - 智能答复
 - Office 源
 - 离开时间
-- Microsoft 信息保护敏感度标签
 - Dropbox 存储
 - Google 驱动器存储
 - Box 存储

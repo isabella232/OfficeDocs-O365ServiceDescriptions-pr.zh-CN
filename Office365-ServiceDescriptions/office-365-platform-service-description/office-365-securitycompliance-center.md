@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 合规中心旨在帮助你跨组织的 Office 365 管理合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730720"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740963"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -23,28 +23,26 @@ ms.locfileid: "49730720"
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-若要了解自 2020 年 4 月 1 日起授权用户从 Microsoft 365 合规性功能中获益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+若要查看自 2020 年 4 月 1 日起授权用户从 Microsoft 365 合规性功能中获益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>适用于 &amp; 企业计划的安全合规中心可用性
 
 | 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1、Office 365 美国政府版 G1 | Office 365 E3、Office 365 美国政府版 G3 | Office 365 E5 | Office 365 F3、Office 365 美国政府版 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[访问安全 &amp; 合规中心](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |
-|[Exchange Online、SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)和 OneDrive for Business<sup>1、3 的数据丢失防护</sup> |否   |是  |是   |否   |是   |是   |否   |
-|[手动敏感度标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
+|[Exchange Online、SharePoint Online](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)和 OneDrive for Business<sup>2</sup>的数据丢失防护 | 否 | 否  |否   | 是 | 是 | 是 | 否  |
+|[手动敏感度标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | 否 | 否  |否   | 是 | 是 | 是 | 否  |
 |[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |是   |是   |是   |是   |是   |是   |是   |
 |[电子数据展示保留 (包括基于查询的电子数据展示保留) ](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |否   |否   |否  |否   |是   |是   |否   |
 |[电子数据展示导出](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |否   |否   |否   |否   |是   |是   |否   |
-|[基本审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |是   |是   |是|是   |是   |是   |是   |
+|[基本审核](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |是   |是   |是|是   |是   |是   |是   |
 |[Office 365 邮件加密 (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |否   |否   |否   |否   |是  |是   |否   |
 
-<sup>1</sup> 包括存储在 Microsoft Teams 存储库中的文件。
+<sup>1</sup> 包含基本审核报告的所有计划的审核日志 (E5) 除外）保留 90 天。 由于 E5 包括高级审核，因此审核日志最多保留一年。 此外，您还可以使用 [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 管理活动 API 从统一服务器检索审核日志。
 
-<sup>2</sup> 包含基本审核报告的所有计划的审核日志 (E5) 除外）保留 90 天。 由于 E5 包括高级审核，因此审核日志最多保留一年。 此外，您还可以使用 [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 管理活动 API 从统一服务器检索审核日志。
+<sup>2</sup> 需要 Office 365 数据丢失防护加载项。
 
-<sup>3</sup> 需要 Office 365 数据丢失防护加载项。
-
-Azure 信息保护 P1 和 P2 中还包括<sup>4</sup>个敏感度标签。
+Azure 信息保护 P1 和 P2 中也包含<sup>3</sup>个敏感度标签。
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>独立 &amp; 计划的安全合规中心可用性
 
@@ -78,7 +76,7 @@ Azure 信息保护 P1 和 P2 中还包括<sup>4</sup>个敏感度标签。
 
 <sup>2</sup> 需要购买Exchange Online Archiving加载项。
 
-<sup>3</sup> 高级信息治理允许您保留重要信息，并删除不重要的信息，方法是基于保留或删除策略对信息进行分类，或同时对二者进行分类。 它包括智能/自动操作，如建议策略、自动将标签应用于数据、基于敏感数据类型或查询应用标签、处置评审以及智能导入筛选器的使用。 它还包括监督功能，用于出于安全性和合规性目的查看员工通信。
+<sup>3</sup> 高级信息治理允许您保留重要信息，并基于保留或删除策略或同时对信息进行分类来删除不重要的信息。 它包括智能/自动化操作，如建议策略、自动将标签应用于数据、基于敏感数据类型或查询应用标签、处置评审以及智能导入筛选器的使用。 它还包括监督功能，用于出于安全性和合规性目的查看员工通信。
 
 <sup>4</sup> 个 Skype 对话存储为邮箱的一部分。
 
