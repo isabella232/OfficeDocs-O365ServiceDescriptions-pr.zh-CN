@@ -10,31 +10,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Defender for Office 365 是一项基于云的电子邮件筛选服务，它通过提供强健的零天保护来帮助您的组织抵御未知的恶意软件和病毒，并包括实时保护组织免受有害链接的功能。
-ms.openlocfilehash: 1d99b59e089ecb351d436c49a4f4e3986aefa6cd
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助组织抵御未知恶意软件和病毒，并包括实时保护组织免受恶意链接危害的功能。
+ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519023"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780006"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
-Microsoft Defender for Office 365 是一项基于云的电子邮件筛选服务，它通过提供强健的零天保护来帮助您的组织抵御未知的恶意软件和病毒，并包括实时保护组织免受有害链接的功能。 适用于 Office 的 Defender 365 具有丰富的报告功能和 URL 跟踪功能，可让管理员了解组织中发生的各种类型的攻击。
+Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助组织抵御未知恶意软件和病毒，并包括实时保护组织免受恶意链接危害的功能。 Defender for Office 365 具有丰富的报告和 URL 跟踪功能，使管理员能够深入了解组织中发生的攻击类型。
 
-以下是您可以使用适用于 Office 365 的 Defender 进行邮件保护的主要方式：
+以下是可以使用适用于 Office 365 的 Defender 进行邮件保护的主要方法：
 
-- 在仅限 Defender for Office 365 仅筛选方案中，适用于 Office 365 的 Defender 为本地 Exchange Server 环境或任何其他本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
+- 在 Defender for Office 365 仅筛选方案中，Defender for Office 365 为本地 Exchange Server 环境或其他任何本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
 
-- 可以启用适用于 Office 365 的 Defender 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的详细信息，请参阅 [Exchange online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以启用 Defender for Office 365 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的更多信息，请参阅 [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
 
-- 在混合部署中，可以将适用于 Office 的 Defender 365 配置为保护您的邮件环境并控制邮件路由，同时将本地和云邮箱与用于入站电子邮件筛选的 Exchange Online 保护结合在一起。
+- 在混合部署中，可以将 Defender for Office 365 配置为在将本地邮箱和云邮箱与 Exchange Online Protection 混合用于入站电子邮件筛选时保护邮件环境和控制邮件路由。
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender for Office 365 可用性
 
-适用于 Office 365 的 Defender 计划2包含在 Office 365 E5、Office 365 A5 和 Microsoft 365 E5 中。 适用于 Office 365 的 Defender 计划1包含在 Microsoft 365 商业高级版中。
+Defender for Office 365 计划 2 包含在 Office 365 E5、Office 365 A5 和 Microsoft 365 E5 中。 Microsoft 365 商业高级版中包含 Defender for Office 365 计划 1。
 
-你可以将适用于 Office 365 的 Defender 添加到以下 Exchange 和 Microsoft 365 订阅计划：
+你可以将 Defender for Office 365 添加到以下 Exchange 和 Microsoft 365 订阅计划：
 
 - Exchange Online 计划 1
 
@@ -58,31 +58,31 @@ Microsoft Defender for Office 365 是一项基于云的电子邮件筛选服务�
 
 - Office 365 A3
 
-若要购买 Microsoft Defender for Office 365，请参阅 [Microsoft defender For office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)。
+若要购买 Microsoft Defender for Office 365，请参阅[Microsoft Defender for Office 365。](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content)
 
-若要跨计划比较功能，请参阅 [强大的工具来支持您的企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 并 [使用 Microsoft 365 转换企业](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)。
+若要跨计划比较功能，请参阅[](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)用于支持企业以及使用[Microsoft 365](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)转换企业的强大工具。
 
-## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 中的新增功能
+## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 的新增功能
 
-我们正在继续向适用于 Office 365 的 Defender 添加新功能。 若要了解有关即将在 Office 365 (或 Microsoft 365 通用) 的新功能的详细信息，请参阅以下资源：
+我们将继续向 Defender for Office 365 添加新功能。 若要了解有关适用于 Office 365 (Defender 或 Microsoft 365 的新功能) ，请参阅以下资源：
 
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Microsoft Defender for Office 365 中的新增功能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Microsoft Defender for Office 365 的新增功能](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365 的要求
 
-适用于 Office 的 Defender 365 可与任何 SMTP 邮件传输代理（如 Microsoft Exchange Server）一起使用。 有关适用于 Office 365 的操作系统、web 浏览器和语言的信息，请参阅 exchange 管理中心中的 "支持的浏览器" 和 "支持的语言" 部分 exchange [Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381)。
+Defender for Office 365 可以与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server） 一Microsoft Exchange Server。 有关适用于 Office 365 的 Defender 支持的操作系统、Web 浏览器和语言的信息，请参阅 [Exchange Online Protection 中 Exchange](https://go.microsoft.com/fwlink/p/?LinkId=282381)管理中心中的"支持的浏览器"和"支持的语言"部分。
 
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>跨 Defender for Office 365 计划的功能可用性
 
 下面列出了每个功能。 当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。<br><br>
 
-| 功能 | 适用于 Office 的 Defender 365 计划1 | 适用于 Office 的 Defender 365 计划2 | Microsoft 365 E5/E5 安全|
+| 功能 | Defender for Office 365 计划 1 | Defender for Office 365 计划 2 | Microsoft 365 E5 /E5 安全|
 |:-----|:-----|:-----|:-----|
 |*配置、保护和检测*|
 |[安全附件](#safe-attachments)|是|是|是|
-|团队中的安全附件|是|是|是|
+|Teams 中的安全附件|是|是|是|
 |[安全链接](#safe-links)|是|是|是|
 |[安全文档](#safe-documents)|否|否|是|
 |Teams 中安全链接|是|是|是|
@@ -92,29 +92,32 @@ Microsoft Defender for Office 365 是一项基于云的电子邮件筛选服务�
 |*自动化、调查、修正和教育*|
 |[威胁跟踪器](#threat-trackers)|否|是|是|
 |威胁调查 (高级威胁调查) |[实时检测](#real-time-detections)|[资源管理器](#explorer)|[资源管理器](#explorer)|
-|[自动化事件响应](#automated-incident-response)|否|是|是|
+|[自动事件响应](#automated-incident-response)|否|是|是|
 |[攻击模拟器](#attack-simulator)|否|是|是|
-|*与 Microsoft 365 Defender 的集成*|否|否|是|
+|*与 Microsoft 365 Defender 集成*|否|是|是|
 
 > [!TIP]
-> 希望 Office 365 计划1和计划2的 Defender 之间存在差异的可下载列表？ [获取 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。 
+> 想要下载 Office 365 计划 1 和计划 2 之间差异的可下载列表？ [获取 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
 
-## <a name="defender-for-office-365-capabilities"></a>适用于 Office 365 的 Defender 功能
+> [!NOTE]
+> 如果你的租户只有 Office ATP P2 试用许可证或 Office 365 E5 试用许可证，而 Microsoft 威胁防护没有其他符合条件的许可证，你将无法访问 Microsoft 威胁防护。 若要了解有关 MTP 许可证的更多信息，请参阅 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
+
+## <a name="defender-for-office-365-capabilities"></a>Defender for Office 365 功能
 
 ### <a name="safe-attachments"></a>安全附件
 
-[安全附件](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) 针对未知恶意软件和病毒提供保护，并提供为期零天的保护，以保护您的邮件系统。 所有不包含已知病毒/恶意软件签名的邮件和附件都将被路由到一个特殊环境，其中，Office 365 的 Defender 使用各种机器学习和分析技术来检测恶意意图。 如果没有检测到可疑的活动，会发布邮件并传递到邮箱中。
+[安全附件](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) 可抵御未知恶意软件和病毒，并提供零日保护来保护邮件系统。 所有没有已知病毒/恶意软件签名的邮件和附件将路由到 Defender for Office 365 使用各种机器学习和分析技术检测恶意意图的特殊环境。 如果没有检测到可疑的活动，会发布邮件并传递到邮箱中。
 
 > [!NOTE]
-> 安全附件扫描发生在 Office 365 数据所在的同一个区域中。 有关数据中心地理位置的详细信息，请参阅 [您的数据位于何处？](https://products.office.com/where-is-your-data-located?geo=All)
+> 安全附件扫描发生在 Office 365 数据所在的同一区域。 有关数据中心地理位置的信息，请参阅 [数据所在的位置？](https://products.office.com/where-is-your-data-located?geo=All)
 
 ### <a name="safe-links"></a>安全链接
 
-[安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)功能主动保护您的用户免受邮件中或 Office 文档中的恶意 url 的攻击。 每次选择链接时，将继续提供保护，因为会在访问良好的链接时动态地阻挡恶意链接。
+安全 [链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) 功能可主动保护用户免受邮件或 Office 文档中的恶意 URL 的攻击。 每次选择链接时，将继续提供保护，因为会在访问良好的链接时动态地阻挡恶意链接。
 
 安全链接可用于以下应用中的 URL：
 
-- 适用于 Windows 或 Mac 的 Microsoft 365 企业版应用程序
+- Windows 或 Mac 上的 Microsoft 365 企业应用版
 
 - Office web 版（Word 网页版、Excel 网页版、PowerPoint 网页版、OneNote 网页版）
 
@@ -123,67 +126,67 @@ Microsoft Defender for Office 365 是一项基于云的电子邮件筛选服务�
 - Microsoft Teams 频道和聊天
 
 > [!NOTE]
-> 用户必须获得适用于 Office 365 的许可证 <sup>\*</sup> ，必须包含在安全链接策略中，并且必须在其设备上登录，才能就地保护。
+> 用户必须获得 Office 365 Defender 许可，必须包含在安全链接策略中，并且必须登录其设备，保护 <sup>\*</sup> 就位。
 >
-> <sup>\*</sup> 对于组织范围内的 Office 365 许可证 (例如，ATP_ENTERPRISE_FACULTY) ，无需为单个用户分配适用于 Office 365 许可证的 Defender。
+> <sup>\*</sup> 对于组织范围内的 Defender for Office 365 许可证 (例如 ATP_ENTERPRISE_FACULTY) ，无需向单个用户分配 Defender for Office 365 许可证。
 >
-> 有关安全链接保护的详细信息，请参阅 [Microsoft Defender For Office 365 中的安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)。
+> 有关安全链接保护详细信息，请参阅 [Microsoft Defender for Office 365 中的安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)。
 
 ### <a name="safe-documents"></a>安全文档
 
-[安全文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)功能使用[Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)扫描在[受保护的视图](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)中打开的文档和文件。
+安全 [文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) 功能使用 [Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 扫描在受保护视图中打开 [的文档和文件](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)。
 
-开始前，有必要了解什么？
+在开始之前，您需要知道什么？
 
-- 安全文档现在对 Office 版本 2004 () 或更高版本的用户通常可用！ 此功能在默认情况下处于禁用状态，将需要由安全管理员启用。
+- 安全文档现在通常可供 Office 版本 2004 (12730.x) 或更高！ 默认情况下，此功能已关闭，并且需要由安全管理员启用。
 
-- 此功能仅适用于使用 Microsoft 365 E5 或 Microsoft 365 E5 安全许可证的用户 (不包含在 Office 365 计划) 中。
+- 此功能仅适用于拥有 Microsoft 365 E5 或 Microsoft 365 E5 安全许可证的用户 (Defender for Office 365 计划未) 。
 
 - Windows 上的 Word、Excel 和 PowerPoint
 
 - Microsoft Teams 频道和聊天
 
 > [!NOTE]
-> 用户必须获得 Microsoft 365 E5 或 Microsoft 365 E5 安全性 <sup>\*</sup> ，必须包含在安全文档策略中，并且必须在其设备上登录，才能就地保护。
+> 用户必须获得 Microsoft 365 E5 或 Microsoft 365 E5 安全许可，必须包含在安全文档策略中，并且必须在其设备上登录，保护就位 <sup>\*</sup> 。
 >
-> 有关安全文档保护的详细信息，请参阅 [Microsoft 365 E5 中的安全文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)。
+> 有关安全文档保护详细信息，请参阅 [Microsoft 365 E5 中的安全文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)。
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>适用于 SharePoint、OneDrive 和 Microsoft Teams 的 ATP
 
-[SharePoint、OneDrive 和 Microsoft 团队的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  可帮助检测和阻止在工作组网站和文档库中被标识为恶意的文件。 此外，安全链接保护现已在 Microsoft 团队频道和聊天中提供。
+[适用于 SharePoint、OneDrive](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  和 Microsoft Teams 的 ATP 可帮助检测和阻止团队网站和文档库中标识为恶意的文件。 此外，Microsoft Teams 频道和聊天中现在提供安全链接保护。
 
 ### <a name="anti-phishing-policies"></a>防钓鱼策略
 
-[反网络钓鱼](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) 检查传入的邮件，指示邮件可能是网络钓鱼尝试。 当用户由受 Defender for Office 365 策略覆盖时 (安全附件、安全链接或反网络钓鱼) 中，传入的邮件由分析邮件的多个机器学习模型进行评估，并根据配置的策略采取相应的操作。
+[防钓鱼功能](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) 检查传入邮件，以识别邮件可能是网络钓鱼尝试的指示器。 当 Defender for Office 365 策略 (安全附件、安全链接或防钓鱼) 涵盖用户时，传入邮件会由多个机器学习模型进行评估，这些模型可分析邮件，并基于配置的策略采取适当的操作。
 
 ### <a name="real-time-reports"></a>实时报告
 
-安全 & 合规性中心中提供的监视功能包括 [实时报告和见解](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) ，使您的安全和合规性能够重点关注高优先级问题，如安全攻击或更高的可疑活动。 除了突出显示问题区域之外，智能报告和见解还包括用于查看和浏览数据的建议和链接，同时还采取快速操作。
+安全与合规中心提供的监视功能包括实时报告和见解，让安全[](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp)与合规管理员专注于高优先级问题，例如安全攻击或可疑活动增加。 & 除了突出显示问题区域外，智能报告和见解还包括查看和浏览数据以及快速操作的建议和链接。
 
 ### <a name="explorer"></a>资源管理器
 
 资源管理器（也称为威胁资源管理器）是一种实时报告，可让授权用户能够识别和分析最近的威胁。 默认情况下，此报告显示过去 7 天的数据；但是，可以修改视图以显示过去 30 天的数据。
 
-资源管理器包含用于电子邮件和内容) 、提交、网络钓鱼和所有电子邮件的恶意软件 (的视图。 若要查看浏览器与实时检测的比较情况，请 [下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
+资源管理器包含一些视图，如 (电子邮件和内容) 、提交、网络钓鱼以及所有电子邮件。 若要了解资源管理器与实时检测的比较，[请下载此 PDF。](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
-有关浏览器 (在 Microsoft Defender for Office 365 计划2中) 和实时检测 (在 Microsoft Defender for Office 365 计划 1) 中的详细信息，请参阅 [威胁资源管理器和实时检测](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+有关适用于 Office 365 计划 2) 的 Microsoft Defender 中的资源管理器 (和 Microsoft Defender for Office 365 计划 1 (中的实时检测) ，请参阅威胁资源管理器和实时[检测。](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
 ### <a name="real-time-detections"></a>实时检测
 
 实时检测是一种实时报告，可让授权用户能够识别和分析最近的威胁。 此报告与资源管理器类似，默认情况下显示过去 7 天的数据。
 
-实时检测包含用于电子邮件和内容) 、提交和网络钓鱼的恶意软件 (的视图。 若要查看实时检测与资源管理器的比较情况，请 [下载此 PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)。
+实时检测包含视图，如电子邮件 (、提交和网络钓鱼) 恶意软件。 若要了解实时检测与资源管理器的比较，[请下载此 PDF。](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
-有关浏览器 (在 Microsoft Defender for Office 365 计划2中) 和实时检测 (在 Microsoft Defender for Office 365 计划 1) 中的详细信息，请参阅 [威胁资源管理器 (和实时检测) ](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)。
+有关适用于 Office 365 计划 2) 的 Microsoft Defender 中的资源管理器 (和 Microsoft Defender for Office 365 计划 1 (中的实时检测) ，请参阅威胁资源管理器 (和实时检测[) 。 ](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
 ### <a name="threat-trackers"></a>威胁跟踪器
 
-[威胁跟踪](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) 程序是信息小组件和视图，为授权用户提供了可能会影响您的组织的 cybersecurity 问题的智能。
+[威胁跟踪](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) 器是信息小组件和视图，可为授权用户提供可能会影响组织的网络安全问题情报。
 
-### <a name="automated-incident-response"></a>自动化事件响应
+### <a name="automated-incident-response"></a>自动事件响应
 
-适用于 Office 365 计划2的[自动事件响应](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) (空中) 功能在 Office 计划2中可以让您运行自动调查过程，以应对目前存在的已知威胁。 通过自动执行某些调查任务，安全操作团队可以更高效地运行。 安全操作团队批准执行更正操作，如删除恶意电子邮件。 若要了解详细信息，请参阅 [Office 365 中的 AIR 的工作原理](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)。
+[通过](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) Defender for Office 365 计划 2 (AIR) 功能提供的自动事件响应，可以运行自动调查流程，以响应当今存在的已知威胁。 通过自动执行某些调查任务，安全运营团队可以更高效地运行。 安全运营团队批准后，将执行修正操作，如删除恶意电子邮件。 若要了解更多信息，请参阅 [AIR 在 Office 365 中的工作原理](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)。
 
 ### <a name="attack-simulator"></a>攻击模拟器
 
-[攻击模拟器](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) 允许授权用户在您的组织中运行实际的攻击方案。 有几种不同类型的攻击可供使用，其中包括显示名称 spear 网络钓鱼攻击、密码喷涂攻击和强力密码攻击。
+[攻击模拟器](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) 允许授权用户在组织中运行真实的攻击方案。 提供了几种不同类型的攻击，包括显示名称钓鱼攻击、密码攻击和暴力密码攻击。

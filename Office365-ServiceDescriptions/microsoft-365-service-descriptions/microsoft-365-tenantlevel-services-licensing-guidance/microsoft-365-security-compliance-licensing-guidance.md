@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合规性的许可指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: 3e887ef28db0d6c806984170815c432d82573921
-ms.sourcegitcommit: d45565d6573db8368c5fcff70c585559c77f3485
+ms.openlocfilehash: 04ff448cd45ed81b17ed230547462c80d8c47669
+ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49654966"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49779986"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365 安全与合规&指南
 
@@ -37,7 +37,7 @@ SecOps 分析员和安全专业人员从具有基于机器学习算法的已标�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
-拥有 E1 和 E3 许可证的客户只能访问默认的数据保护基线评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证 (合规性、信息保护 & 治理以及电子数据展示和审核 SUS（包括) ）的客户将能够访问数据保护基线、GDPR、NIST 800-53 和 ISO 27001 开箱即用评估。 自定义评估功能及高级评估为 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户保留。 高级评估将在 2021 上半年通过 VL、CSP 和 WebDirect 进行购买。 
+拥有 E1 和 E3 许可证的客户只能访问默认的数据保护基线评估。 拥有 Office 365 E5/A5 和 Microsoft 365 E5/A5 许可证的客户 (合规性、信息保护治理以及电子数据展示和审核 SUS) 将能够访问数据保护基线 &amp; 、GDPR、NIST 800-53 和 ISO 27001 开箱即用评估。 自定义评估功能及高级评估为 Office 365 E5/A5 和 Microsoft 365 E5/A5 客户保留。 高级评估将在 2021 上半年通过 VL、CSP 和 WebDirect 进行购买。  
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
@@ -321,8 +321,8 @@ Microsoft 提供可在 Microsoft 365 合规中心配置的第三方数据连接�
 以下许可证为用户提供了从数据连接器中获益的权利：
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 信息保护&管理
-- Microsoft 365 E5/A5 合规性
+- Microsoft 365 E5/A5 信息保护和管控
+- Microsoft 365 E5/A5 合规
 - Microsoft 365 E5/A5 内部风险管理
 - Microsoft 365 E5/A5 电子数据展示和审核
 - Office 365 E5/A5
@@ -351,7 +351,7 @@ Microsoft 提供可在 Microsoft 365 合规中心配置的第三方数据连接�
 你需要以下 E5 许可证之一，才能在 Teams 聊天中获取 DLP 保护支持：
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 合规性
+- Microsoft 365 E5/A5 合规
 - Microsoft 365 E5/A5 信息保护和治理
 - Office 365 E5/A5 
 
