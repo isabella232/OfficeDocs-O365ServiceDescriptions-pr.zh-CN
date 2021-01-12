@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一种灵活的联机解决方案，用于 PPM (和) 项目组合管理。 Project Online 通过 Office 365 提供强大的项目管理功能，用于从几乎任何设备上的任何位置规划、确定项目和项目组合投资优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: af4e8aa7a7ea7adcabb2e4e6b9b8ad8040f5d03c
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780026"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794968"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -272,6 +272,8 @@ Project 路线图需要使用 Power Automate，它作为 Project 订阅的一部
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project 网页和 Microsoft Dataverse
 
 Project 网页应用需要使用 Microsoft Dataverse 来存储其数据。 Microsoft Dataverse 数据库作为 Project 订阅的一部分进行设置。 Microsoft Dataverse 功能权限仅限于存储和访问数据以支持 Project 网页版。 Project 所需的 Microsoft Dataverse 功能在 Microsoft 365 管理中心的"应用"部分显示为 Project 的 Common **Data Service** 服务计划。
+
+对于具有 5 (5) Project 网页版许可证的 Project 客户，Project 网页版客户可以部署到 Power Platform Production 和 Sandbox 环境。
 
 ### <a name="data-backup-and-retention"></a>数据备份和保留
 
