@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助组织抵御未知恶意软件和病毒，并包括实时保护组织免受恶意链接危害的功能。
-ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: b3eb9d94fdd96899a0d08e591715a07354104c25
+ms.sourcegitcommit: 29db3ccfdd875fc8968e11c040c6db46c2720134
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794958"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49799401"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
@@ -26,13 +26,13 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 
 - 在 Defender for Office 365 仅筛选方案中，Defender for Office 365 为本地 Exchange Server 环境或其他任何本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
 
-- 可以启用 Defender for Office 365 来保护 Exchange Online 云托管的邮箱。 若要了解有关 Exchange Online 的更多信息，请参阅 [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以启用 Defender for Office 365 来保护 Exchange Online 云托管的邮箱。 若要详细了解 Exchange Online，请参阅 [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)。
 
 - 在混合部署中，可以将 Defender for Office 365 配置为在将本地邮箱和云邮箱与 Exchange Online Protection 混合用于入站电子邮件筛选时保护邮件环境和控制邮件路由。
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender for Office 365 可用性
 
-Microsoft Defender for Office 365 计划 2 包含在 Office 365 E5、Office 365 A5、Microsoft 365 E5 安全与 Microsoft 365 E5 中，如此处所指定： [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Microsoft 365 商业高级版中包含 Defender for Office 365 计划 1。
+Microsoft Defender for Office 365 计划 2 包含在 Office 365 E5、Office 365 A5、Microsoft 365 E5 安全与 Microsoft 365 E5 中，如此处所 [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 指定： Microsoft 365 商业高级版中包含 Defender for Office 365 计划 1。
 
 你可以将 Defender for Office 365 添加到以下 Exchange 和 Microsoft 365 订阅计划：
 
@@ -97,7 +97,7 @@ Defender for Office 365 可以与任意 SMTP 邮件传输代理（如 Microsoft 
 |*与 [Microsoft 365 Defender 集成](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|否|是|是|
 
 > [!NOTE]
-> 如果你的租户只有 Office ATP P2 试用许可证或 Office 365 E5 试用许可证，而 Microsoft 威胁防护没有其他符合条件的许可证，你将无法访问 Microsoft 威胁防护。 若要了解有关 MTP 许可证的更多信息，请参阅 <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> 。
+> 如果你的租户只有 Microsoft Defender for Office 计划 P2 试用许可证或 Office 365 E5 试用许可证，而 Microsoft 365 Defender 没有其他符合条件的许可证，你将无法访问 Microsoft 365 Defender。 若要了解有关 MTP 许可证的更多信息，请参阅 [Microsoft 365 Defender 要求](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)。
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender for Office 365 功能
 
@@ -123,15 +123,15 @@ Defender for Office 365 可以与任意 SMTP 邮件传输代理（如 Microsoft 
 - Microsoft Teams 频道和聊天
 
 > [!NOTE]
-> 用户必须获得 Office 365 Defender 许可，必须包含在安全链接策略中，并且必须登录其设备，保护 <sup>\*</sup> 就位。
+> 用户必须获得适用于 Office 365 的 Defender 的许可，必须包含在安全链接策略中，并且必须登录其设备，保护 <sup>\*</sup> 就位。
 >
 > <sup>\*</sup> 对于组织范围内的 Defender for Office 365 许可证 (例如 ATP_ENTERPRISE_FACULTY) ，无需向单个用户分配 Defender for Office 365 许可证。
 >
-> 有关安全链接保护详细信息，请参阅 [Microsoft Defender for Office 365 中的安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)。
+> 有关安全链接保护详细信息，请参阅适用于 [Office 365 的 Microsoft Defender 中的安全链接](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)。
 
 ### <a name="safe-documents"></a>安全文档
 
-安全 [文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) 功能使用 [Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 扫描在受保护视图中打开 [的文档和文件](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)。
+安全 [文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) 功能使用 [Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) 扫描在受保护的视图中打开 [的文档和文件](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)。
 
 在开始之前，您需要知道什么？
 
@@ -144,7 +144,7 @@ Defender for Office 365 可以与任意 SMTP 邮件传输代理（如 Microsoft 
 - Microsoft Teams 频道和聊天
 
 > [!NOTE]
-> 用户必须获得 Microsoft 365 E5 或 Microsoft 365 E5 安全许可，必须包含在安全文档策略中，并且必须在其设备上登录，保护就位 <sup>\*</sup> 。
+> 用户必须获得 Microsoft 365 E5 或 Microsoft 365 E5 安全许可，必须包含在安全文档策略中，并且必须在其设备上登录，保护就位。 <sup>\*</sup>
 >
 > 有关安全文档保护详细信息，请参阅 [Microsoft 365 E5 中的安全文档](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs)。
 
@@ -158,13 +158,13 @@ Defender for Office 365 可以与任意 SMTP 邮件传输代理（如 Microsoft 
 
 ### <a name="real-time-reports"></a>实时报告
 
-安全与合规中心 () 中提供的监视功能包括实时报告和见解，让安全与合规管理员专注于高优先级问题，例如安全攻击或可疑活动增加。 & [https://protection.office.com](https://protection.office.com) [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 除了突出显示问题区域外，智能报告和见解还包括查看和浏览数据以及快速操作的建议和链接。
+安全与合规中心 () 中提供的监视功能包括实时报告和见解，让安全与合规管理员专注于高优先级问题，例如安全攻击或可疑活动增加。 & [https://protection.office.com](https://protection.office.com) [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) 除了突出显示问题区域外，智能报告和见解还包括用于查看和浏览数据以及快速操作的建议和链接。
 
 ### <a name="explorer"></a>资源管理器
 
 资源管理器（也称为威胁资源管理器）是一种实时报告，可让授权用户能够识别和分析最近的威胁。 默认情况下，此报告显示过去七天的数据;但是，可以修改视图以显示过去 30 天的数据。
 
-资源管理器包含一些视图，如 (电子邮件和内容) 、提交、网络钓鱼以及所有电子邮件。 若要了解资源管理器与实时检测的比较，[请下载此 PDF。](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
+资源管理器包含一些视图，例如 (电子邮件和内容) 、提交、网络钓鱼以及所有电子邮件的恶意软件。 若要了解资源管理器与实时检测的比较，[请下载此 PDF。](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
 有关适用于 Office 365 计划 2) 的 Microsoft Defender 中的资源管理器 (和 Microsoft Defender for Office 365 计划 1 (中的实时检测) ，请参阅威胁资源管理器和实时[检测。](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
@@ -172,7 +172,7 @@ Defender for Office 365 可以与任意 SMTP 邮件传输代理（如 Microsoft 
 
 实时检测是一种实时报告，可让授权用户能够识别和分析最近的威胁。 与资源管理器类似，默认情况下，此报告显示过去七天的数据。
 
-实时检测包含视图，如电子邮件 (、提交和网络钓鱼) 恶意软件。 若要了解实时检测与资源管理器的比较，[请下载此 PDF。](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
+实时检测包含视图，例如电子邮件 (、提交和网络钓鱼) 恶意软件。 若要了解实时检测与资源管理器的比较，[请下载此 PDF。](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
 有关适用于 Office 365 计划 2) 的 Microsoft Defender 中的资源管理器 (和 Microsoft Defender for Office 365 计划 1 (中的实时检测) ，请参阅威胁资源管理器 (和实时检测[) 。 ](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
 
