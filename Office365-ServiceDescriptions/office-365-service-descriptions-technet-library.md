@@ -13,18 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
-ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
+ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49687883"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871155"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
 Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
   
-此库中的主题详细说明了 Microsoft 365 和 Office 365 中可用的服务和功能。 若要跨计划比较功能，请参阅以下列表中用于 [支持企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相关服务说明的强大工具。 
+此库中的文章详细说明了 Microsoft 365 和 Office 365 中可用的服务和功能。 有关 Microsoft Dynamics 365 商业应用程序的信息，请参阅 [Microsoft Dynamics 365 文档](https://docs.microsoft.com/dynamics365/)。
+
+若要跨计划比较功能，请参阅以下列表中用于 [支持企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相关服务说明的强大工具。 
   
 有关支持文章和信息，请参阅 [Office 帮助](https://support.office.com/)中心&培训、适用于管理员和 IT 专业人员的 [Office](https://docs.microsoft.com/office/)文档，以及适用于管理员和 IT 专业人员的 [Microsoft 365](https://docs.microsoft.com/microsoft-365/)帮助中心。
   
@@ -79,12 +81,9 @@ Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office
 
 - [Microsoft 365 安全性与合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
-- [Microsoft Dynamics 365（在线版）服务说明](microsoft-dynamics-365-online-service-description.md)
 
 > [!NOTE]
 > <sup>1</sup> 包含 [uite features](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
->
-> 有关 Microsoft 365 Dynamics Business Apps 详细信息，请参阅 <https://docs.microsoft.com/dynamics365/> 。
   
 ## <a name="disclaimer"></a>免责声明
 
