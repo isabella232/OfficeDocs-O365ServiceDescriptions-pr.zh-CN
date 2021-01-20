@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一种灵活的联机解决方案，用于 PPM (和) 项目组合管理。 Project Online 通过 Office 365 提供强大的项目管理功能，用于从几乎任何设备上的任何位置规划、确定项目和项目组合投资优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794968"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905145"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -38,7 +38,7 @@ Project 网页应用是 Microsoft 最新提供的基于云的工作和项目管�
 
 Project 网页应用基于 Microsoft Power Platform 构建。 Power Platform 由 PowerApps、Power Automate、Power BI 和 Microsoft Dataverse 组成。 Project 网页数据存储在 Microsoft Dataverse 中。 
 
-Project 网页版通过三个订阅提供：项目计划 1、项目计划 3 和项目计划 5。 "Project [网页版功能](#project-for-the-web-features) "部分中列出的功能仅与 Project 网页数据存储中的数据进行交互。
+Project 网页版通过三个订阅提供：项目计划 1、项目计划 3 和项目计划 5。 Project [网页功能中列出的功能仅](#project-for-the-web-features) 与 Project 网页数据存储中的数据进行交互。
 
 ### <a name="project-online"></a>Project Online
  
@@ -46,7 +46,7 @@ Project Online 是一种灵活的联机解决方案，适用于 PPM (和) 项目
 
 Project Online 基于 SharePoint 平台构建，它将数据存储在 SharePoint 数据存储中。
 
-Project Online 通过两个订阅提供：项目计划 3 和项目计划 5。 Project Online 功能 [部分](#project-online-features) 中列出的功能仅与 Project Online SharePoint 数据存储中的数据进行交互。
+Project Online 通过两个订阅提供：项目计划 3 和项目计划 5。 [Project Online 功能中列出的功能](#project-online-features)仅与 Project Online SharePoint 数据存储中的数据进行交互。
 
 Project Online 的团队成员功能通过 Project Online Essentials 或 Project Plan 1 订阅提供。 Project Online Essentials 是具有 Project 计划 3 或项目计划 5 订阅的客户的团队成员加载项订阅。 Project Online Essentials 和 Project Plan 1 订阅为工作组成员提供了一个 Web 界面，用于对 Project Online 中管理的项目执行任务和时间更新。
 
@@ -274,6 +274,14 @@ Project 路线图需要使用 Power Automate，它作为 Project 订阅的一部
 Project 网页应用需要使用 Microsoft Dataverse 来存储其数据。 Microsoft Dataverse 数据库作为 Project 订阅的一部分进行设置。 Microsoft Dataverse 功能权限仅限于存储和访问数据以支持 Project 网页版。 Project 所需的 Microsoft Dataverse 功能在 Microsoft 365 管理中心的"应用"部分显示为 Project 的 Common **Data Service** 服务计划。
 
 对于具有 5 (5) Project 网页版许可证的 Project 客户，Project 网页版客户可以部署到 Power Platform Production 和 Sandbox 环境。
+
+| 包含/累算的容量                                      | Project P1 | Project P3 | Project P5 |
+|--------------------------------------------------------------------|------------|------------|------------|
+| Dataverse (以前的 Common Data Service) 数据库：包含/租户 | 3 GB        | 5 GB        | 5 GB        |
+| Dataverse 数据库：USL (/用户订阅许可证)         | 50 MB       | 250 MB      | 250 MB      |
+| Dataverse 日志：包含/租户                                     | 2 GB        | 2 GB        | 2 GB        |
+| Dataverse 文件：包含/租户                                    | 20 GB       | 20 GB       | 20 GB       |
+| Dataverse 文件：Accrued/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
 ### <a name="data-backup-and-retention"></a>数据备份和保留
 
