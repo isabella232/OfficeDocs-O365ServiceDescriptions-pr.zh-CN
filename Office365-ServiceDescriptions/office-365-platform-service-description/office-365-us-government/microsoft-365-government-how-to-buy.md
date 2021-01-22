@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版，并介绍了购买选项。
-ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878665"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919755"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -25,13 +25,13 @@ Microsoft 365 政府版是一套生产力、安全性和移动性云软件功能
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府版的价值是什么？
 
-Microsoft 365 政府版通过帮助机构有效管理法规数据合规性要求，随时随地帮助美国政府领导和工作人员提高工作效率，从而实现移动生产力和安全协作。 下表提供了关键政府角色的示例。<br><br>
+Microsoft 365 政府版通过帮助机构有效地管理法规数据合规性要求，随时随地帮助美国政府领导和工作人员提高工作效率，从而实现移动生产力和安全的合规性协作。 下表提供了关键政府角色的示例。<br><br>
  
 | 政府领导可以... | 政府员工可以... | 现场人员可以... |
 |:-----|:-----|:-----|:-----|:-----|
-|通过改进沟通和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动访问信息现场人员所需的信息来改进服务质量（当他们需要该信息时）  |
+|通过改进沟通和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动方式访问信息现场人员所需的服务质量（当他们需要该信息时）  |
 |改进对有助于制定策略和预算决策的见解的访问  <br/> |增强跨机构通信。  <br/> |启用协作和知识共享，以快速识别和解决问题  <br/> |
-|在办公室或路况中及时了解情况，与员工和公民保持联系  <br/> |使用公民参与度提升，以帮助提高员工保留率  <br/> | 跨机构地点建立更强的社区意识  <br/> |
+|在办公室或路况中及时了解情况，与员工和公民保持联系  <br/> |通过公民参与打造更深层次的参与度，以帮助提高员工保留率  <br/> | 跨机构位置建立更强的社区意识  <br/> |
 |确保符合美国政府标准的解决方案有助于降低成本并提高灵活性  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>是什么让 Microsoft 365 政府版与 Microsoft 365 企业版产品/服务不同？
@@ -72,10 +72,10 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 
 具有受法规限制的数据的商业私有实体。 接受政府数据类型包括：
 - 国际武器贸易 (ITAR) 
-- 受控的未分类 (CUI) 
+- 受控未分类信息 (CUI) 
 - 美国国防部 (DOD) UCNI (受控) 
 - 美国能源 (DoE) UCNI
-- CJI 犯罪 (信息) 
+- CJI (犯罪) 
 - 国防部影响级别数据
 - 需要 Microsoft 365 政府版的其他数据类型
 
@@ -132,18 +132,32 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 
 **AOS-G 合作伙伴 GCC 和 GCC High (500 个席位)**
 
-- 敏捷 IT
-- 应用信息科学 (AIS) 
+- Accenture Federal Services， LLC
+- 敏捷 IT， Inc.
+- Applied Information Sciences， Inc.
 - C3 集成解决方案
+- CACI
 - Carahsoft
-- Dox Electronics， Inc.
-- F1 Solutions， Inc.
-- 四个点
+- CGI Federal Inc.
+- Dox 电子产品公司
+- F1 Solutions Inc.
+- 四点技术，LLC
+- General Dynamics Information Technology， Inc.
+- 图像软件公司 d.b.a ISC
+- Jackpine
+- Jasper
 - KTL Solutions， Inc.
 - Off，LLC
-- 世界技术
-- 安静专业人员
-- 第 7 位系统
+- Northrop
+- Nove一
+- 法星技术公司
+- 安静专业人员，LLC
+- 红水
+- SAIC
+- Smartronix
+- 第 7 场服务
+- TechTrend， Inc.
+- Vexcel
 
 **注意：** 上述列表中所有 Microsoft 许可解决方案提供商 (LSP) 可以通过 企业协议 (EA) 处理 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
 

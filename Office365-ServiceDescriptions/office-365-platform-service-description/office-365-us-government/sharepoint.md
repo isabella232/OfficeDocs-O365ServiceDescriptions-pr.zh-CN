@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 了解美国政府云客户的 SharePoint 功能可用性。
-ms.openlocfilehash: c8297aaf0b33e55dab1d3babe307736de57e2066
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624513"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919745"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>适用于美国政府环境的 SharePoint
 
@@ -71,6 +71,7 @@ ms.locfileid: "49624513"
 - 依赖于连接到 Internet 服务的 Web 部件（如 Amazon Tube、必应地图、Twitter 和 YouTube Web 部件）无法正常工作
 - 组织资产库不可用
 - 向 Teams 添加列表和页面不适用于 GCC High 和 DoD 客户
+- SharePoint Online 中适用于 GCC High 的图形功能当前已禁用。 依赖 Microsoft Graph 的任何服务当前可能不可用
 
 ## <a name="search-features"></a>搜索功能
 
