@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版，并介绍了购买选项。
-ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
+ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919755"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49939197"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -28,7 +28,7 @@ Microsoft 365 政府版是一套生产力、安全性和移动性云软件功能
 Microsoft 365 政府版通过帮助机构有效地管理法规数据合规性要求，随时随地帮助美国政府领导和工作人员提高工作效率，从而实现移动生产力和安全的合规性协作。 下表提供了关键政府角色的示例。<br><br>
  
 | 政府领导可以... | 政府员工可以... | 现场人员可以... |
-|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|
 |通过改进沟通和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动方式访问信息现场人员所需的服务质量（当他们需要该信息时）  |
 |改进对有助于制定策略和预算决策的见解的访问  <br/> |增强跨机构通信。  <br/> |启用协作和知识共享，以快速识别和解决问题  <br/> |
 |在办公室或路况中及时了解情况，与员工和公民保持联系  <br/> |通过公民参与打造更深层次的参与度，以帮助提高员工保留率  <br/> | 跨机构位置建立更强的社区意识  <br/> |
@@ -75,7 +75,7 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 - 受控未分类信息 (CUI) 
 - 美国国防部 (DOD) UCNI (受控) 
 - 美国能源 (DoE) UCNI
-- CJI (犯罪) 
+- CJI 犯罪 (信息) 
 - 国防部影响级别数据
 - 需要 Microsoft 365 政府版的其他数据类型
 
@@ -112,9 +112,8 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 
 按照以下步骤购买 Microsoft 365 政府版许可证：
 
-1. [填写并提交表单](https://products.office.com/government/eligibility-validation) 以验证组织的资格。
-2. 与 Microsoft 帐户团队或合格的合作伙伴合作下订单。
-客户只能通过选择的合作伙伴购买 Microsoft 365 美国政府版许可证。
+1. 填写并提交 [GCC](https://www.microsoft.com/en-us/microsoft-365/government/eligibility-validation) 或 [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/) 表单，以验证组织的资格。
+2. 与 Microsoft 帐户团队或合格的合作伙伴合作下订单。 客户只能通过选择的合作伙伴购买 Microsoft 365 美国政府版许可证。
 
 **LSPs GCC 和 GCC 高 (+500 个席位)**
 
@@ -147,10 +146,10 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 - Jackpine
 - Jasper
 - KTL Solutions， Inc.
-- Off，LLC
+- Off、LLC
 - Northrop
 - Nove一
-- 法星技术公司
+- 一家美国技术公司。
 - 安静专业人员，LLC
 - 红水
 - SAIC
@@ -159,14 +158,14 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 - TechTrend， Inc.
 - Vexcel
 
-**注意：** 上述列表中所有 Microsoft 许可解决方案提供商 (LSP) 可以通过 企业协议 (EA) 处理 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
+**注意：** 上述列表中所有 Microsoft 许可解决方案提供商 (LSP) 可以通过 企业协议 (EA) 交易 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
 
 **如果你与云解决方案提供商合作伙伴合作，请联系他们或 [查找云解决方案提供商](https://www.microsoft.com/solution-providers/home)。**
 
 ## <a name="what-trials-are-available"></a>哪些试用版可用？
 
 - [EMS。](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 客户可以选择 EMS 页面右上方的"立即试用"按钮，以完成 Office 商务门户上的一个限制注册过程，此过程会将其路由到 Azure Active Directory (AAD) 门户。
-- [Office 365。](https://aka.ms/gcctrial) 一个月的免费试用版仅适用于美国政府组织。 这仅适用于 GCC，不包括政府承包商。  
+- [Office 365。](https://aka.ms/gcctrial) 仅 GCC 提供为期一个月的免费试用版。  
 - Microsoft 不会向商业客户提供 Office 365 GCC 试用版，也不提供 GCC High 或 DoD 试用版。
 
 ## <a name="where-can-i-learn-more"></a>在哪儿可以了解更多信息？
