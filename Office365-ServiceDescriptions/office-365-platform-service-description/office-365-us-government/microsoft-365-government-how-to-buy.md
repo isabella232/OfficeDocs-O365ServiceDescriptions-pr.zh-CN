@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版，并介绍了购买选项。
-ms.openlocfilehash: aa967e7f46ed5085384b408552e186dbb7c8bd30
-ms.sourcegitcommit: b410339b0174e2327259a71acab5bf9daac67d5b
+ms.openlocfilehash: b099adfdd4f392bcdf1f9aa383601a49026cb5c1
+ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49939197"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50031246"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -29,9 +29,9 @@ Microsoft 365 政府版通过帮助机构有效地管理法规数据合规性要
  
 | 政府领导可以... | 政府员工可以... | 现场人员可以... |
 |:-----|:-----|:-----|
-|通过改进沟通和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动方式访问信息现场人员所需的服务质量（当他们需要该信息时）  |
+|通过改进沟通和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动访问信息现场人员所需的信息来改进服务质量（当他们需要该信息时）  |
 |改进对有助于制定策略和预算决策的见解的访问  <br/> |增强跨机构通信。  <br/> |启用协作和知识共享，以快速识别和解决问题  <br/> |
-|在办公室或路况中及时了解情况，与员工和公民保持联系  <br/> |通过公民参与打造更深层次的参与度，以帮助提高员工保留率  <br/> | 跨机构位置建立更强的社区意识  <br/> |
+|在办公室或路况中及时了解情况，与员工和公民保持联系  <br/> |通过公民参与打造更深层次的参与度，以帮助提高员工保留率  <br/> | 跨机构地点建立更强的社区意识  <br/> |
 |确保符合美国政府标准的解决方案有助于降低成本并提高灵活性  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>是什么让 Microsoft 365 政府版与 Microsoft 365 企业版产品/服务不同？
@@ -72,10 +72,10 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 
 具有受法规限制的数据的商业私有实体。 接受政府数据类型包括：
 - 国际武器贸易 (ITAR) 
-- 受控未分类信息 (CUI) 
+- 受控的未分类 (CUI) 
 - 美国国防部 (DOD) UCNI (受控) 
 - 美国能源 (DoE) UCNI
-- CJI 犯罪 (信息) 
+- CJI (犯罪) 
 - 国防部影响级别数据
 - 需要 Microsoft 365 政府版的其他数据类型
 
@@ -154,11 +154,11 @@ GCC 和 GCC 高产品/服务都适用于有资格使用 Microsoft 政府云的�
 - 红水
 - SAIC
 - Smartronix
-- 第 7 场服务
+- 年会 7
 - TechTrend， Inc.
 - Vexcel
 
-**注意：** 上述列表中所有 Microsoft 许可解决方案提供商 (LSP) 可以通过 企业协议 (EA) 交易 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
+**注意：** 上述列表中所有 Microsoft 许可解决方案提供商 (LSP) 可以通过 企业协议 (EA) 处理 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
 
 **如果你与云解决方案提供商合作伙伴合作，请联系他们或 [查找云解决方案提供商](https://www.microsoft.com/solution-providers/home)。**
 
