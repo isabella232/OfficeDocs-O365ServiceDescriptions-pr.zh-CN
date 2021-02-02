@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解 Microsoft 365 和 Office 365 教育版计划之间的差异。
-ms.openlocfilehash: 2e149dc53127046bdb813bb10ca65a857fef67d8
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
+ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730730"
+ms.lasthandoff: 02/01/2021
+ms.locfileid: "50069267"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -72,7 +72,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |内容搜索|是|是|是|是|是|是|是|是|是|
 |核心电子数据展示 (包括保留和导出) |否|是|是|是|是|是|是|是|是|
 |高级电子数据展示|否|否|是|否|是|否|否|否|否|
-|电子邮件和 (DLP) 数据丢失防护|否|是|是|是|是|否|否|否|否|
+|电子邮件和 (DLP) 数据丢失防护|是|是|是|是|是|否|否|否|否|
 |终结点 DLP|否|否|否|否|是|否|否|否|否|
 |Communications DLP (Teams 聊天) |否|否|是|否|是|否|否|否|否|
 |通信合规性|否|否|是|否|是|否|否|否|否|

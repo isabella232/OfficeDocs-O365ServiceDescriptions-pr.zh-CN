@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可在各种计划中提供，以最好地满足组织的需求。 如果要了解计划（包括 Exchange Online 计划）之间的差异，本文将介绍每个计划中包含的功能。
-ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: a9aaa0e5e6ebcf4196ac89926cb88f30daaf67f0
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871145"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072285"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -104,6 +104,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> | 
 |Microsoft Project 网页 <sup>21</sup> <br/> |是 <br/> |否 <br/>|是 <br/> |是 <br/> |是 <br/> |是 <br/> | 是 <br/> |
+|Microsoft SharePoint Syntex  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Stream  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
@@ -210,22 +211,22 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 
 > <sup>1</sup> Microsoft 365 和 Office 365 不支持其制造商不支持的任何操作系统。 
 <br/><sup>2</sup> Azure 信息保护不包括在内，但可以单独购买，并启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 企业版 E1、Office 365 教育版或 Office 365 企业版 F3 中未包含此订阅。 Microsoft 365 商业应用版中的 Office 客户端应用还支持完整的 Azure 信息保护 (计划 1) 功能。
-<br/><sup>3</sup> 如果将目录同步与本地 Active Directory 一同使用，则必须使用本地 Active Directory（而不是 Microsoft 365 门户）删除帐户或更改密码，使用适用于 Windows PowerShell 的 Azure Active Directory 模块。 
+<br/><sup>3</sup> 如果对本地 Active Directory 使用目录同步，则必须使用本地 Active Directory 删除帐户或更改密码，而不是使用适用于 Windows PowerShell 的 Azure Active Directory 模块来更改 Microsoft 365 门户。 
 <br/><sup>4</sup> 若要了解如何为用户设置自助服务密码管理策略，请参阅使用安全信息重置你的工作 [或学校密码](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/)。 
 <br/><sup>6</sup>减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。 
-<br/><sup>7</sup> 在 [Microsoft 安全分数安全](https://securescore.office.com) 页中提供。 必须拥有管理员权限。 有关详细信息，请参阅 [Microsoft 安全分数](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
+<br/><sup>7</sup> 在 [Microsoft 安全分数](https://securescore.office.com) 安全页中提供。 必须拥有管理员权限。 有关详细信息，请参阅 [Microsoft 安全分数](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)。 
 <br/><sup>8</sup>特定地理位置的客户暂无法使用 Microsoft Sway。 某些自 2015 年 8 月起市场中不再提供的旧版 Office 365 可能也无法使用 Microsoft Sway。 
-<br/><sup>9</sup> 体验降低。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
-<br/>Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 企业版 (E1、E3、E5、F3) 和 Office 365 教育版计划中提供<sup>10</sup>个 Microsoft Teams。 
+<br/><sup>9</sup> 减少体验。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 
+<br/>Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 企业版 (E1、E3、E5、F3) 和 Office 365 教育版计划中提供了<sup>10</sup>个 Microsoft Teams。 
 <br/><sup>11</sup> 在 Office 365 企业版 F3 中，Office 365 视频仅限于 (发布或共享) 。 
 <br/><sup>12</sup> 在 Office 365 企业版 F3 中，Flow 仅限于使用，并且每月每个用户的运行限制为 750 个。 
 <br/><sup>13</sup> 仅适用于 Office 365 教育版计划，包括 Office 365 E5 教育版。 它在 Office 365 企业版 E5 中不可用。 
-<br/><sup>14</sup> 有关详细信息，请参阅使用 [客户密钥的服务加密](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。 
+<br/><sup>14</sup> 有关详细信息，请参阅使用客户密钥 [的服务加密](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。 
 <br/>美国和西欧地区支持<sup>15</sup>个高级电子数据展示 (荷兰) 地区。  (加拿大和亚太地区的客户数据导出到美国。 来自欧洲、中东和非洲的客户数据将导出到西欧[荷兰]) 
 <br/><sup>16</sup> 仅适用于 Microsoft Stream：不发布或共享。
-<br/><sup>17</sup> 从 2019 年 5 月开始，Office 365 和 Microsoft 365 的现有符合条件的 SUS 将回填 Kaizala Pro。 从 2019 年 6 月 1 开始，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 SUS 中。
+<br/><sup>17</sup> 从 2019 年 5 月开始，Office 365 和 Microsoft 365 的现有符合条件的 SUS 将回填为 Kaizala Pro。 从 2019 年 6 月 1 开始，Kaizala Pro 将包含在所有符合条件的 Office 365 和 Microsoft 365 SUS 中。
 <br/><sup>18</sup> 有关详细信息，请参阅 [MyAnalytics 计划和环境](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)。
 <br/><sup>19</sup> 包括 Azure Active Directory 定价页面上 **的"Office 365** 应用"列中描述的 [Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) 功能。 必须添加 Azure Active Directory 计划 1 或计划 2、企业移动安全或 Microsoft 365 E3 或 E5 才能获得高级 Azure AD 功能。<br/>
 <sup>20</sup> 自动向 Exchange Online 的所有用户提供"简介"电子邮件。 有关详细信息，请参阅配置 [简介电子邮件](https://docs.microsoft.com/Briefing/be-admin)。<br>
-<sup>21</sup> 向用户提供对 Project 网页的仅查看访问权限。 这些权限仅限于用于 Web 应用程序的 Project，并且仅适用于具有项目计划 1、项目计划 3 或项目计划 5 许可证的租户。 这些权限不会授予对 Power Platform 应用程序或其他数据集、Project Online 桌面客户端或 Project Online 的访问权限。 有关功能的详细信息，请参阅 [Microsoft Project 服务说明](../project-online-service-description/project-online-service-description.md)。<br/>
-Microsoft 365 中的<sup>"22</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
+<sup>21</sup> 向用户提供对 Project 网页的仅查看访问权限。 这些权限仅限于与 Project 网页版应用程序一同使用，并且仅适用于具有项目计划 1、项目计划 3 或项目计划 5 许可证的租户。 这些权限不授予对 Power Platform 应用程序或其他数据集、Project Online 桌面客户端或 Project Online 的访问权限。 有关功能的详细信息，请参阅 [Microsoft Project 服务说明](../project-online-service-description/project-online-service-description.md)。<br/>
+Microsoft 365 中的<sup>"22</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核的活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
