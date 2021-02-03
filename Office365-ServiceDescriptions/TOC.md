@@ -1,7 +1,7 @@
 
 # [Microsoft 365 和 Office 365 服务说明](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
-### [Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
+### [Microsoft 365 和 Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 系统要求](office-365-platform-service-description/office-365-system-requirements.md)
 ### [安全与合规中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Microsoft 365 套件功能](office-365-platform-service-description/office-365-suite-features.md)
@@ -69,6 +69,8 @@
 ## [OneDrive 服务说明](onedrive-for-business-service-description.md)
 ## [SharePoint 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint 限制](sharepoint-online-service-description/sharepoint-online-limits.md)
+## [SharePoint Syntex 服务说明](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
+### [SharePoint Syntex 功能](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online 功能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md)
