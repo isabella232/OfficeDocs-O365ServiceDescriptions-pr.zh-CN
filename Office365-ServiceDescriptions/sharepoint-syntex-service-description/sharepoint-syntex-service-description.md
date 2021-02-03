@@ -1,30 +1,30 @@
 ---
-title: SharePoint 合成服务说明
+title: SharePoint Syntex 服务说明
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和机器教学来培养人类专业知识、自动化内容处理以及将内容转换为知识。
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+description: Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动化内容处理以及将内容转换为知识。
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072429"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084725"
 ---
-# <a name="sharepoint-syntex-service-description"></a>SharePoint 合成服务说明 
+# <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服务说明 
 
-Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和机器教学来培养人类专业知识、自动化内容处理以及将内容转换为知识。
+Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动化内容处理以及将内容转换为知识。
 
-在 SharePoint 上构建的 Syntex 可提供高容量内容处理的高级功能、提取元数据实现流程自动化，以及改进安全性和合规性。 它基于 Microsoft 搜索的智能，并包含指向 [Microsoft Graph 连接器的链接](/microsoftsearch/connectors-overview)。
+在 SharePoint 上构建的 Syntex 可提供高容量内容处理的高级功能、提取元数据实现流程自动化，以及改进安全性和合规性。 它基于 Microsoft 搜索的智能构建，并包含 [指向 Microsoft Graph 连接器的链接](/microsoftsearch/connectors-overview)。
 
 有关详细概述和其他产品详细信息，请参阅 [SharePoint 合成产品页面](https://aka.ms/sharepointsyntex)。
 
 ## <a name="available-plans"></a>可用计划
 
-Syntex 通过多个订阅计划提供，以最好地满足组织的需求。 每个计划都提供一组相同的功能
+通过多个订阅计划提供联合，以最好地满足组织的需求。 每个计划都提供一组相同的功能
 
 用户必须具有有效的 Office 365、Microsoft 365 或 SharePoint Online 许可证，才能将 Syntex 与 Syntex 许可证一同使用。
 
@@ -66,7 +66,7 @@ Syntex 通过多个订阅计划提供，以最好地满足组织的需求。 每
 
   - 若要开始规划合成部署，请访问 Microsoft 技术社区资源中心的 [SharePoint](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) 合成页面。
 
-  - 若要了解有关 Syntex 及其使用方法的信息，请参阅 [SharePoint 合成器产品文档](/microsoft-365/contentunderstanding/)。
+  - 若要了解有关 Syntex 及其使用方法的信息，请参阅 [SharePoint 合成产品文档](/microsoft-365/contentunderstanding/)。
 
   - 若要随时了解 Syntex 特性和功能，请访问我们的 Microsoft [365 博客](https://go.microsoft.com/fwlink/?linkid=2084915)。
 
