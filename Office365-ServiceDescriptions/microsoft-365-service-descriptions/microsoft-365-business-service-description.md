@@ -8,21 +8,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
-description: Microsoft 365 商业高级版是一个集成的解决方案，通过高级安全性和设备管理功能将一流的工作效率结合在一起，以帮助保护您的业务。 此服务说明介绍了计划选项和功能。
-ms.openlocfilehash: dba7668a3ee06fb859210dc072011d036a5c2fdb
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: Microsoft 365 商业高级版是一个集成解决方案，将一流的工作效率与高级安全性和设备管理功能汇集在一起，以帮助保护你的业务。 此服务说明描述了计划选项和功能。
+ms.openlocfilehash: b1bdac2026d7a32aaef4af4c88a8ec75467f3074
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519063"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145989"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商业高级版服务说明
 
-Microsoft 365 商业高级版是一个集成的解决方案，将 Microsoft 365 与高级安全性和设备管理结合在一起，从而帮助保护您的业务不受高级威胁。 此服务说明介绍了计划选项和功能。 有关 Office 365 的详细信息，请参阅 [Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)。
+Microsoft 365 商业高级版是一个集成解决方案，将 Microsoft 365 的一流生产力与高级安全和设备管理汇集在一起，以帮助保护你的业务防御高级威胁。 此服务说明描述了计划选项和功能。 有关 Office 365 详细信息，请参阅 [Microsoft 365 和 Office 365 服务说明](../office-365-service-descriptions-technet-library.md)。
   
-## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>跨 Microsoft 365 商业标准和 Microsoft 365 商业高级版计划的功能可用性
+## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>跨 Microsoft 365 商业标准版和 Microsoft 365 商业高级版计划的功能可用性
 
-Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供的所有功能以及其他 Microsoft 安全功能。<br><br>
+Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准版中提供的所有功能，以及其他 Microsoft 安全功能。<br><br>
 
 | 计划选项 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 |
 |:-----|:-----|:-----|
@@ -46,7 +46,7 @@ Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供
 |共享计算机激活 <br/> |否 <br/> |是  <br/> |
 |[邮件策略和合规性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |
 |基于 Exchange Online 的邮箱的长期存档  <br/> |否  <br/> |是<sup>3</sup> <br/> |
-|Azure 信息保护计划1 |否 <br/>|是<sup>2</sup> </br>|
+|Azure 信息保护计划 1 |否 <br/>|是<sup>2</sup> </br>|
 |Office 365 邮件加密  <br/> |否  <br/> |是<sup>2</sup> <br/> |
 |就地保留和诉讼保留  <br/> |否  <br/> |是<sup>3</sup>  <br/> |
 |就地电子数据展示  <br/> |是  <br/> |是  <br/> |
@@ -58,55 +58,55 @@ Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准中提供
 |Microsoft Defender for Office 365 计划 1 <br/> |否  <br/> |是<sup>7</sup> <br/> |
 |安全功能分数<sup>4</sup> <br/> |是  <br/> |是  <br/> |
 |Microsoft Defender for Office 365 计划 2 <br/> |否  <br/> |否 <br/> |
-|**Microsoft 365 商业高级版客户可以使用 Azure AD Premium P1。**<br/>|**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |**企业移动性 + 安全 E3** <br/> |
+|**Microsoft 365 商业高级版客户可以使用 Azure AD Premium P1。**<br/>|**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |**企业移动性 + 安全性 E3** <br/> |
 |Azure 多重身份验证 (MFA)  <br/> |否  <br/> |是 <br/> |是  <br/> |
 |管理单元  <br/> |否  <br/> |是 <br/> |是  <br/> |
 |云应用发现  <br/> |否  <br/> |是 <br/> |是  <br/> |
 |动态组  <br/> |否  <br/> |是  <br/> |是  <br/> |
 |云标识的自助服务密码重置  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|使用本地 AD 写回的自助服务密码重置  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
-|设备对象本地目录与 Azure AD 之间的双向同步 (设备写回)   <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
-|基于组、位置或设备状态的条件访问 ()   <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
-|公司品牌 (登录页面/访问面板自定义)   <br/> |是  <br/> |是  <br/> |是  <br/> |
+|使用本地 AD 写回功能重置自助服务密码  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
+|设备对象在本地目录和 Azure AD 之间双向同步 (设备写回)   <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
+|基于 (、位置或设备状态设置的条件)   <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
+|公司品牌打造 (登录页面/访问面板自定义)   <br/> |是  <br/> |是  <br/> |是  <br/> |
 |应用程序代理  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
-|Microsoft Identity Manager (MIM) user CAL  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
-|Connect Health  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
+|Microsoft Identity Manager (MIM) 用户 CAL  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
+|连接运行状况  <br/> |否  <br/> |是<sup>9</sup>  <br/> |是  <br/> |
 |SLA 99.9%  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[设备和应用程序管理](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 商业高级版包括适用于 iOS、Android、Mac OS 和其他跨平台设备管理的完整 Intune 功能。<sup>8</sup> <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |
-|Intune 移动设备管理 (适用于电脑、Mac 和移动设备的 MDM) <sup>5</sup> <br/> |否  <br/> |是  <br/> |
-| (MDM) 自动注册的移动设备管理  <br/> |否  <br/> |是  <br/> |
-|适用于 Office 应用和 LOB 应用的 Intune 移动应用程序管理 (MAM) <br/> |否  <br/> |是  <br/> |
-|Windows update management、Defender、防火墙策略<sup>5</sup> <br/> |否  <br/> |是  <br/> |
-|数据保护-选择性擦除  <br/> |是  <br/> |是  <br/> |
-|为策略 (SG) 目标的安全组  <br/> |否  <br/> |是  <br/> |
+|Intune 移动设备管理 (MDM) 适用于电脑、Mac 和移动设备<sup>5</sup> <br/> |否  <br/> |是  <br/> |
+|移动设备管理 (MDM) 自动注册  <br/> |否  <br/> |是  <br/> |
+|适用于 Office 应用和 LOB 应用的 Intune 移动应用 (MAM) <br/> |否  <br/> |是  <br/> |
+|Windows 更新管理， Defender， 防火墙策略<sup>5</sup> <br/> |否  <br/> |是  <br/> |
+|数据保护 - 选择性擦除  <br/> |是  <br/> |是  <br/> |
+|安全组 (SG) 策略目标  <br/> |否  <br/> |是  <br/> |
 |在已注册的 Windows 10 设备上安装 Office 应用  <br/> |否  <br/> |是  <br/> |
-|Windows Defender 配置  <br/> |否  <br/> |是  <br/> |
+|Windows Defender配置  <br/> |否  <br/> |是  <br/> |
 |部署设备配置文件和安全配置<sup>5</sup> <br/> |否  <br/> |是  <br/> |
-|使用 Azure AD 加入的 Windows 10 企业版状态漫游  <br/> |否  <br/> |是  <br/> |
+|加入 Azure AD 的 Windows 10 企业状态漫游  <br/> |否  <br/> |是  <br/> |
 |自助服务 BitLocker 恢复  <br/> |否  <br/> |是  <br/> |
 |Windows 虚拟桌面 <br/> |否 <br/> |是 <br/> |
-|**Windows 10 专业版管理** <br/>如果你有适用于 Windows 7 和8.1 专业人员的设备，Microsoft 365 商业高级版将提供升级到 Windows 10 专业版的<sup>许可证。</sup> <br/>|**Microsoft 365 商业高级版** <br/> |
-|使用 Windows AutoPilot 进行简化部署  <br/> |是  <br/> |
+|**Windows 10 专业版管理** <br/>如果你的设备已获得 Windows 7 和 8.1 专业版许可，Microsoft 365 商业高级版将提供到 Windows 10 专业版<sup>升级。</sup> <br/>|**Microsoft 365 商业高级版** <br/> |
+|使用 Windows AutoPilot 简化部署  <br/> |是  <br/> |
 |订阅激活  <br/> |是  <br/> |
-|空闲时设备屏幕的组织控制  <br/> |是  <br/> |
-|对来自 Microsoft Store 的应用程序的用户访问的组织控制  <br/> |是  <br/> |
-|对 Cortana 的用户访问的组织控制  <br/> |是  <br/> |
-|来自 Microsoft 的 Windows 提示和广告的组织控制  <br/> |是  <br/> |
-|Windows 10 设备自动保持最新状态  <br/> |是  <br/> |
+|空闲时对设备屏幕的组织控制  <br/> |是  <br/> |
+|组织控制用户从 Microsoft Store 访问应用  <br/> |是  <br/> |
+|用户对 Cortana 的访问权限的组织控制  <br/> |是  <br/> |
+|Microsoft 对 Windows 提示和广告的组织控制  <br/> |是  <br/> |
+|Windows 10 设备自动保持最新  <br/> |是  <br/> |
 |**Windows 10 安全** <br/> |**Microsoft 365 商业高级版** <br/> |
-|使用 Windows Defender 防病毒保护电脑免受病毒和其他威胁  <br/> |是  <br/> |
-|在 Microsoft Edge 中保护电脑免受基于 web 的威胁  <br/> |是  <br/> |
+|使用防病毒功能保护电脑免受病毒Windows Defender威胁  <br/> |是  <br/> |
+|在 Microsoft Edge 中保护电脑免受基于 Web 的威胁  <br/> |是  <br/> |
 |使用减少设备攻击面的规则 <br/> |是  <br/> |
 |保护文件夹免受勒索软件等威胁 <br/> |是  <br/> |
-|帮助保护电脑上的文件和文件夹不受 Bitlocker 的未经授权的访问 <br/> |是  <br/> |
+|帮助保护电脑中的文件和文件夹，防止使用 Bitlocker 进行未经授权的访问 <br/> |是  <br/> |
 
 ### <a name="notes"></a>注释
-<sup>1</sup> 包括 Exchange Online 计划1。<br/>
-<sup>2</sup> Azure 信息保护 (AIP) 启用受支持的信息权限管理 (IRM) 功能。 AIP Plan 1 包含在 Microsoft 365 商业高级版中。 <br/>
-<sup>3</sup> Microsoft 365 商业高级版包括 Exchange Online 存档订阅。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [无限存档概述](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。 <br/>
-<sup>4</sup> 适用于 [https://securescore.office.com](https://securescore.office.com) 。 必须拥有管理员权限。 有关详细信息，请参阅 [Microsoft 安全分数](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/>
-<sup>5</sup> 简化了 Windows 10 设备管理，内置在 Microsoft 365 管理中心。 "设备管理" 管理中心中内置的 iOS、Android、macOS 和其他跨平台设备管理的 Intune 管理功能，也授权与 Microsoft 365 商业高级版配合使用。 此外，还可以在设备管理管理中心内管理与 WiFi 配置文件和 VPN 证书等内容的第三方应用程序和配置。 <br/>
-<sup>6</sup> 此计划附带 Microsoft Stream plan 2，其中包括视频门户、语音到文本对话、深度搜索和人脸检测。<br/>
-<sup>7</sup> microsoft 365 随附 microsoft Defender for Office 365 计划1。 有关详细信息，请参阅 [Microsoft 365 商业高级安全性和合规性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。<br/>
-<sup>8</sup> Microsoft 365 商业高级订阅者许可使用适用于 IOS、Android、MacOS 和其他跨平台设备管理的完整 Intune 功能。 在 Microsoft 365 商业高级版的管理中心中不可用的功能，如第三方应用管理和 WiFi 配置文件的配置、VPN 证书等。可以在完整 Intune 控制台中管理。</br>
-<sup>9</sup> 如果你有适用于 windows 7 和8.1 专业人员的设备，Microsoft 365 商业高级版将提供升级到 Windows 10 专业版的许可证。 但是，此许可证不包含 windows 10 专业版的 Windows 7.1 或8家庭版。 使用 Microsoft 365 商业高级版不仅可以获取 [Windows Pro 中已启用的 Microsoft Defender 安全功能](https://go.microsoft.com/fwlink/p/?linkid=2089903)，还可以访问高级功能（如基于 web 的威胁的网络保护）以及主机入侵防护规则来缓解勒索软件。 设置 Microsoft 365 商业高级版帐户时，请选择 "应用保护" 和 "设备配置设置"。 这些设置决定了在设备加入 Azure Active Directory 时自动应用于设备的策略。</br>
+<sup>1</sup> 包括 Exchange Online 计划 1。<br/>
+<sup>2</sup> Azure 信息 (AIP) 支持信息权限管理 (IRM) 功能。 AIP 计划 1 包含在 Microsoft 365 商业高级版中。 <br/>
+<sup>3</sup> Microsoft 365 商业高级版包括Exchange Online Archiving订阅。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，只要达到 100 GB 存储容量，就会自动添加额外存储空间。 有关详细信息，请参阅 [无限制存档概述](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving)。 <br/>
+<sup>4</sup> 可用 [https://securescore.office.com](https://securescore.office.com) 。 必须拥有管理员权限。 有关详细信息，请参阅 [Microsoft 安全分数](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)。<br/>
+内置于 Microsoft 365 管理中心的<sup>5</sup>个简化的 Windows 10 设备管理。 内置于设备管理管理中心中的 iOS、Android、macOS 和其他跨平台设备管理的 Intune 管理功能，还获得与 Microsoft 365 商业高级版一同使用的许可。 还可以在设备管理管理中心管理第三方应用和 WiFi 配置文件和 VPN 证书等内容的配置。 <br/>
+<sup>6</sup> 此计划附带了 Microsoft Stream 计划 2，其中包括视频门户、语音到文本转录、深度搜索和人脸检测。<br/>
+<sup>7</sup> Microsoft 365 随附 Microsoft Defender for Office 365 计划 1。 有关详细信息，请参阅 [Microsoft 365 商业高级版安全性和合规性功能](https://docs.microsoft.com/microsoft-365/business/security-features)。<br/>
+<sup>8</sup> 个 Microsoft 365 商业高级版订阅者已获得许可，可以使用 iOS、Android、MacOS 和其他跨平台设备管理的完整 Intune 功能。 Microsoft 365 商业高级版管理中心中不可用的功能（如第三方应用管理和 WiFi 配置文件的配置、VPN 证书等）可以在完整的 Intune 控制台中进行管理。</br>
+<sup>9</sup> 如果你的设备已获得 Windows 7 和 8.1 专业版许可，Microsoft 365 商业高级版将提供到 Windows 10 专业版升级。 但是，此许可证不包含 Windows 10 专业版的 Windows 7.1 或 8 家庭版。 借助 Microsoft 365 商业高级版，你不仅可获取 Windows 专业版中启用的 [Microsoft Defender](https://wfbdevicemanagementprod.blob.core.windows.net/windowsforbusiness/Windows10_CommercialEdition_Comparison.pdf)安全功能，还可以访问基于 Web 的威胁的网络保护等高级功能，以及主机入侵防护规则，以缓解勒索软件。 设置 Microsoft 365 商业高级版帐户时，可选择应用保护和设备配置设置。 这些设置确定在设备加入 Azure Active Directory 时自动应用的策略。</br>

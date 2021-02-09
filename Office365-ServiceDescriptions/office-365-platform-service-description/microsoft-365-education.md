@@ -9,22 +9,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解 Microsoft 365 和 Office 365 教育版计划之间的差异。
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069267"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145999"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
-Microsoft 365 可用于各种计划，以最好地满足组织的需求。 如果要了解 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将介绍每个计划中包含的功能。
+Microsoft 365 可在各种计划中提供，以最好地满足组织的需求。 如果你正在寻找 Microsoft 365 和 Office 365 教育版计划之间的差异，本文将介绍每个计划中包含的功能。
   
 Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 和企业移动性和安全性。 下表列出了 Office 365 教育版 A1、A3 和 A5 功能以及相应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨业务和企业计划比较功能，请参阅 [比较 Microsoft 365 商业](https://go.microsoft.com/fwlink/?linkid=799177)版计划，或者，有关功能的详细列表，请参阅 Microsoft [365 和 Office 365](../office-365-service-descriptions-technet-library.md)服务说明下的相关服务说明。 若要搜索支持文章和信息，请参阅 Office [帮助 &amp; 培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
-每个 Microsoft 365 教育版计划都包括许多单个服务，如 Exchange Online 和 SharePoint Online。 下表显示了每个 Office 365 和 Microsoft 365 计划中可用的服务，以便可以选择最能满足您需求的解决方案。 若要更详细地查看服务和功能，请参阅 [Office 365 教育版](office-365-education.md) 服务说明。<br></br>
+每个 Microsoft 365 教育版计划都包括许多单个服务，如 Exchange Online 和 SharePoint Online。 下表显示了每个 Office 365 和 Microsoft 365 计划中可用的服务，以便你可以选择最能满足您需求的解决方案。 若要更详细地查看服务和功能，请参阅 [Office 365 教育版](office-365-education.md) 服务说明。<br></br>
 
 | 服务 | Office 365 教育版 A1 | Office 365 教育版 A3 | Office 365 教育版 A5 | Microsoft 365 教育版 A3 | Microsoft 365 教育版 A5 | Office 365 A3 学生使用权益 | Office 365 A5 学生使用权益 | Microsoft 365 教育版 A3 学生使用权益 | Microsoft 365 教育版 A5 学生使用权益 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -72,7 +72,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |内容搜索|是|是|是|是|是|是|是|是|是|
 |核心电子数据展示 (包括保留和导出) |否|是|是|是|是|是|是|是|是|
 |高级电子数据展示|否|否|是|否|是|否|否|否|否|
-|电子邮件和 (DLP) 数据丢失防护|是|是|是|是|是|否|否|否|否|
+|电子邮件和 (DLP) 数据丢失防护|是|是|是|是|是|是|是|是|是|
 |终结点 DLP|否|否|否|否|是|否|否|否|否|
 |Communications DLP (Teams 聊天) |否|否|是|否|是|否|否|否|否|
 |通信合规性|否|否|是|否|是|否|否|否|否|
@@ -112,7 +112,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 > <sup>5</sup> Microsoft Project 未包含在 Office 365 中，但可以单独获取。 Project Online Essentials 是免费的。 如果你是学生或教育机构，你可能有资格以教育价格购买项目计划 3 和计划 5。 <br/>
 > <sup>6</sup> 包括 Intune。 <br/>
 > Exchange、SharePoint 和 Skype for Business 包含<sup>7</sup>台服务器和 CAL。 <br/>
-> <sup>8</sup> ECAL 或 Core CAL，具体取决于所购买的 A3 版本 - 对于 A5，包含 ECAL 权限。 <br/>
+> <sup>8</sup> ECAL 或 Core CAL，具体取决于所购买的 A3 版本 - 对于 A5，将包含 ECAL 权限。 <br/>
 > <sup>需要 9</sup> 个 Microsoft 365 应用才能应用保护，并发送来自 Outlook 桌面的受保护电子邮件。 <br/>
 > <sup>10</sup> 以前为 Office 365 高级威胁防护。 <br/>
 > <sup>11</sup> 以前是 Azure 高级威胁防护。 <br/>
