@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: c1c6eba5c7778e11a13abf716bd51f3068f61696
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 04b3a9f34ca50f178c2db4102fcf0607ecb3b87d
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878705"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241048"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -23,12 +23,12 @@ ms.locfileid: "49878705"
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 
-Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管理此服务的交付。 世纪互联是中国最大的运营商中立 Internet 数据中心服务提供商，提供托管、托管网络服务及云计算基础结构服务。 通过授权的 Microsoft 技术，世纪互联运营本地 Office 365 数据中心，让用户能够使用 Office 365 服务，同时将数据保留在中国。 世纪互联还提供[订阅、计费服务和支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
+Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管理此服务的交付。 世纪互联是中国最大的运营商中立 Internet 数据中心服务提供商，提供托管、托管网络服务及云计算基础结构服务。 By licensing Microsoft technologies， 21Vianet operateing local Office 365 data centers to provide the ability to use Office 365 services while keeping data within China. 世纪互联还提供[订阅、计费服务和支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
 
 > [!NOTE]
 > 这些服务受到中国法律的制约。
 
-鉴于中国服务的独特性（由来自中国境内的数据中心合作伙伴运营），还有一些功能尚未启用。随着时间的推移，客户将能使用功能越来越完整的服务。有关功能差异，请参阅服务说明脚注。有关功能差异的简要概述，请参阅[了解由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
+由于中国服务的独特性质（由合作伙伴在中国数据中心运营）某些功能尚未启用。随着时间的推移，客户将看到服务更接近完整功能奇偶校验。请参阅服务说明脚注了解差异。有关差异的更高级别概述，请参阅[了解由世纪网运营的 Office 365。](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)
 
 ## <a name="service-availability-within-each-plan"></a>每个计划中的服务可用性
 
@@ -50,27 +50,28 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 |Power BI|否|否|否|否|否|否|否|
 |Visio 网页版<sup>3</sup>|是|是|是|是|是|是|是|
 |Yammer Enterprise|否|否|否|否|否|否|否|
-|Azure 信息保护|否|否|否|否|否|是<sup>4</sup>|否|
+|Azure 信息保护 (AIP)|否|否|否|否|否|是<sup>4</sup>|否|
 
 <sup>1</sup>包括 Office 365 管理、Office 365 套件应用程序、用户帐户管理、域、服务运行状况和连续性、报告、服务更新、帮助和培训、网络等功能。 有关详细信息，请参阅[平台功能](office-365-operated-by-21vianet.md#platform-features)表。
 <br/><sup>2</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 A1 计划中。
 <br/><sup>3</sup>可免费使用 Visio 网页版的浏览功能（查看功能）。 必须有许可证，才能使用 Visio 网页版的创建和编辑功能。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。
-<br/><sup>4</sup>由世纪互联运营的 Office 365 中部分支持 Azure 信息保护 (AIP)。 有关详细信息，请参阅[由世纪互联运营的 Office 365 的 Azure 信息保护与商业产品/服务之间的等同性](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
+<br/>由世纪网运营的 Office 365 部分支持<sup>4</sup> AIP。 有关详细信息，请参阅[由世纪互联运营的 Office 365 的 Azure 信息保护与商业产品/服务之间的等同性](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
 
 ## <a name="system-requirements"></a>系统要求
 
 有关 Office 365 的系统要求，请参阅 [office.com](https://www.office.com) 产品网站上的 [Office 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>安全与合规中心在由世纪互联运营的 Office 365 中的可用性
-Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的轻松访问。 以下解决方案适用于由世纪银行运营的计划的合规性中心：
+Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的轻松访问。 以下解决方案适用于由世纪网运营的计划的合规性中心：
 
 - 数据丢失防护 (DLP)
 - 保留
 - 审核
-- Microsoft 信息保护 (Office) 和 Outlook 的 MIP 标签和敏感度标签。
+- Microsoft 信息保护 (AIP) 统一标签客户端为 Office 客户端和 Outlook 提供 MIP 标签和敏感度标签
 
 > [!NOTE]
-> 目前不支持 SharePoint Online 和 Office 网页版敏感度标签。
+> - 目前不支持用于保护 SharePoint 网站、Microsoft 365 组和 Microsoft Teams 中内容的敏感度标签。
+> - 目前不支持使用 Office 网页应用分类和保护文档和电子邮件的敏感度标签。
 
 ## <a name="platform-features"></a>平台功能
 
@@ -79,11 +80,12 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 > [!NOTE]
 > 由世纪互联运营的 Office 365 版本专为中国而设计。
 
+
 | 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Office 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365|是|是|是|是|是|是|是|
-|使用 Azure 信息保护保护内容|否|否|否|否|否|否|否|
+|使用 AIP 保护内容|否|否|否|否|否|否|否|
 |通过机器翻译手动翻译消息中心内的文章|是|是|是|是|是|是|是|
 |**[Office 365 套件功能](office-365-suite-features.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
 |Microsoft Bookings|否|否|是|否|否|否|否|
@@ -183,7 +185,7 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |安全功能分数<sup>4</sup>|否|否|否|否|否|否|否|
 |威胁智能|否|否|否|否|否|否|否|
 |信息治理 – 保留策略|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|是<sup>16</sup>|是<sup>16</sup>|是|
-|信息治理 (保留策略策略) |否|否|否|否|否|否|否|
+|信息治理 (保留策略) |否|否|否|否|否|否|否|
 |**[合规性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 评估|否|否|否|否|否|否|否|
 |ISO 27001 认证|是|是|是|是|是|是|是|
@@ -203,7 +205,7 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |**[产品使用权限](product-use-rights.md)**<sup>10</sup>|是|是|是|是|是|是|是|
 
 <sup>1</sup>由世纪互联运营的 Office 365 和 Office 365 不会为不受其制造商支持的任何操作系统提供支持。<br/>
-<sup>2</sup> 在由世纪银行运营的 Office 365 企业版 F3 中，Office 365 视频仅限于 (发布或共享) 。 <br/>
+<sup>2</sup> 在由世纪网运营的 Office 365 企业版 F3 中，Office 365 视频仅限于 (发布或共享) 。 <br/>
 <sup>3</sup>如果要将目录同步与本地 Active Directory 结合使用，必须使用本地 Active Directory（而不是 Office 365 门户），或使用 Windows PowerShell 的 Azure Active Directory 模块删除帐户或更改密码。 <br/>
 <sup>4</sup>在由世纪互联运营的 Office 365 中尚不可用，但即将可用。 <br/>
 <sup>5</sup>Office 365 只能有一个公共网站，除非已升级旧版 Office 365。 在这种情况下，你具有两个公共网站，但只能使用自定义域名托管其中一个公共网站。 若要详细了解如何处理商业版订阅的两个网站，请参阅[处理两个 Office 365 公共网站](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)。 如果有其他订阅，请参阅 [Office 365 公共网站帮助](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)，详细了解公共网站。<br/>
@@ -216,10 +218,10 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 <sup>11</sup>中国互联网合规性策略要求你具备公共网站的 Internet 内容提供商 (ICP) 编号。 有关详细信息，请参阅相应的 ICP 主题。 <br/>
 <sup>12</sup>某些内容可能不适用于由世纪互联运营的 Office 365。<br/>
 <sup>13</sup>体验的质量降低。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 <br/>
-<sup>14</sup> iOS 和 Outlook Mobile (Android) 中目前不支持多重) 。 <br/>
+<sup>14</sup> 多重身份验证当前在 Outlook 移动版 iOS 和 Android (中) 。 <br/>
 <sup>15</sup>世纪互联提供 OneNote 课堂笔记本，但 OneNote 课堂笔记本工具栏不可用于 Windows 10 应用、iPad 和 OneNote 网页版。 <br/>
-由世纪银行运营的<sup>16</sup>个 Office 365 仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅保留 [策略入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
-Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中跨不同服务的多种类型的审核活动。 使用 [安全 &amp; 合规](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 中心审核日志搜索来查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一服务器检索审核日志。 当用户或管理员执行审核的活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
+由世纪网运营的<sup>16</sup>个 Office 365 仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅保留 [策略入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
+Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中跨不同服务进行多种类型的审核活动。 使用 [安全 &amp; 合规中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 审核日志查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一管理审核日志。 当用户或管理员执行审核的活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中可搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
 
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能
 
@@ -265,7 +267,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |Excel 电子表格查询|是|是|是|否|否|否|否|否|是|否|
 |Exchange Online 和 SharePoint Online 存档和合规性|是<sup>1</sup>|是|是<sup>1</sup>|否|否|否|否|否|是|否|
 |组策略支持|是|是|是|否|否|否|否|否|是|否|
-|使用 Azure 信息保护的信息权限管理 (IRM)<sup>11</sup>|否|否|否|否|否|否|否|否|是|否|
+|使用 AIP<sup>11</sup> (IRM) 信息权限管理|否|否|否|否|否|否|否|否|是|否|
 |使用 Windows Server AD RMS 的信息权限管理 (IRM) <sup>2</sup>|是|是|是|是|是|是|是|是|是|是|
 |Office 加载项、ActiveX 和 BHO 支持|是|是|是|否|否|是|否|否|是|否|
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问|否|是|否|否|否|是|否|否|是|否|
@@ -287,7 +289,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 <br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。
 <br/><sup>3</sup>如果有 Office Professional Plus 2013 或独立版 Excel 2013，可以不受支持的外接程序的形式下载并使用 [Power Map Preview for Excel 2013](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409)。
 <br/><sup>4</sup>Skype for Business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
-<br/><sup>5</sup> 某些学校有资格享受教育增强版（包括 Office 365 专业增强版）并允许学生和教职员工在最多五台 PC 或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。
+<br/><sup>5</sup> 某些学校有资格使用教育增强版（包括 Office 365 专业增强版）并允许学生和教职员工在最多五台 PC 或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。
 <br/><sup>6</sup>可以安装但不可激活 Office 2011 for Mac。
 <br/><sup>7</sup>用户专用的虚拟桌面基础结构 (VDI) 支持 Office 365 专业增强版。 通过批量许可计划购买时，Office 365 专业增强版仅支持远程桌面服务 (RDS)。
 <br/><sup>8</sup>只能批量激活在启用了 RDS 角色或安装了 Windows To Go 的 Windows Server 2008 R2 及更高版本上安装的 Office 365 企业版 E3和 Office 365 ProPlus。 在任一情况下，访问这些安装项的用户都需要获得 Office 365 企业版 E3 或 Office 365 专业增强版的许可。
@@ -338,7 +340,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |内部部署邮箱的基于云的存档|否|否|否|是|否|否|否|
 |保留标记和保留策略|是|是|是|是|是|是|是|
 |静态状态时的数据加密 (BitLocker)|是|是|是|是|是|是|是|
-|使用 Azure 信息保护的 IRM|否|否|否|否|否|否|否|
+|使用 AIP 的 IRM|否|否|否|否|否|否|否|
 |使用 Windows Server AD RMS 的 IRM<sup>2</sup>|是|是|是|是|是|是|是|
 |Office 365 邮件加密|否|否|否|是<sup>15</sup>|否|是<sup>15</sup>|否|
 |S/MIME|是|是|是|是|是|是|是||
@@ -468,7 +470,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 - [Exchange ActiveSync limits ](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - 应用于 Microsoft 365 组织的限制可能因组织已在服务中注册时间而不同。 当某个限制在 Microsoft 数据中心中更改时，可能需要一段时间才能将更改应用于所有现有客户。
+> - 应用于 Microsoft 365 组织的限制可能因组织已在服务中注册时间而不同。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。
 > - 虽然您无法修改其中大多数限制，但您和您的用户应了解它们。
 > - 这些限制适用于内部收件人和外部收件人。
 > - Exchange Online Protection (EOP) 默认保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。
@@ -533,9 +535,9 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 > [!NOTE]
 > 由世纪互联运营的 Office 365 版本专为中国而设计。
 
-| 计划 | Description |
+| 计划 | 说明 |
 |:-----|:-----|
-|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。有关混合部署的详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。  |
+|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署的更多信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。|
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online**| 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
 
 下表显示由世纪互联运营的 Office 365 中可用的 Exchange Online Archiving 功能。<br><br>
@@ -559,7 +561,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |在本地服务器和 Exchange Online Archiving 之间加密|否|是|
 |在客户端和 Exchange Online Archiving 之间加密|否|是|
 |加密：S/MIME 和 PGP|是|是|
-|使用 Azure 信息保护的 IRM|否|否|
+|使用 AIP 的 IRM|否|否|
 |使用 Windows Server AD RMS 的 IRM|是<sup>4</sup>|是<sup>4</sup>|
 |审核|是|是|
 
@@ -654,7 +656,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |辅助功能标准支持|是|是|是|是|是|是|是|
 |资产库增强/视频支持|是|是|是|是|是|是|是|
 |审核|是|是|是|是|是|是|是|
-|审核 &amp; 报告 (例如，文档编辑、策略编辑、) |是|是|是|是|是|是|是|
+|审核 &amp; 报告 (例如，文档编辑、策略编辑、删除) |是|是|是|是|是|是|是|
 |内容管理器|是|否|是|是|是|是|是|
 |设计管理器|是|否|是|是|是|是|是|
 |文档集|是|是|是|是|是|是|是|
@@ -813,7 +815,7 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |Azure 设置的应用：访问服务<sup>3</sup>|是|是|是|是|是|是|是|
 |Azure 设置的应用：Azure 轻型 Web 角色中的自定义代码 (LWR)|是|是|是|是|是|是|是|
 
-<sup>1</sup> 若要使用文件夹同步，必须具有 Office 2013 或更高版本 (Standard 或 Professional 版本) 或包含 Office 应用程序的订阅。 Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans.
+<sup>1</sup> 若要使用文件夹同步，必须具有 Office 2013 或更高版本 (标准版) 专业版或包含 Office 应用程序的订阅。 Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans.
 <br/><sup>2</sup>Kiosk 帐户具有受限的 OneDrive for Business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB of online storage.
 <br/><sup>3</sup>不支持 Access 2010。
 <br/><sup>4</sup>Kiosk 用户不能是管理员，因此包含 Kiosk 用户的租户至少必须有一个 Enterprise 用户才能访问管理中心。
@@ -933,8 +935,8 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 |团队呼叫|否|否|否|否|否|否|否|
 |视频呼叫监视器|否|否|否|否|否|否|否|
 |Voicemail|否|否|否|否|否|否|否|
-|[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国内通话套餐，需要购买附加) |否|否|否|否|否|否|否|
-|[通话](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) 套餐 (国际通话套餐，需要购买) |否|否|否|否|否|否|否|
+|[通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (国内通话套餐，需要购买附加) |否|否|否|否|否|否|否|
+|[通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (国际通话套餐，需要购买附加) |否|否|否|否|否|否|否|
 |[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|否|否|否|否|否|否|否|
 |Skype for Business 语音|否|否|否|否|否|否|否|
 |**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
@@ -1072,12 +1074,12 @@ Microsoft 365 中的<sup>"17</sup>审核"使组织能够查看 Microsoft 365 中
 
 ## <a name="outlook-features-for-ios-and-android"></a>适用于 iOS 和 Android 的 Outlook 功能
 
-由世纪银行运营的 Office 365 同时支持 Outlook for iOS 和 Outlook for Android。
+由世纪网络运营的 Office 365 支持 Outlook for iOS 和 Outlook for Android。
 
 不支持以下移动功能：
 
 - 仅在 Android 设备上 (OneDrive for Business) 
-- 人员&日历搜索
+- 日历&人员
 - 会议室搜索&预订
 - Places Card
 - "LinkedIn"&人员卡片上的"报告对象"数据
