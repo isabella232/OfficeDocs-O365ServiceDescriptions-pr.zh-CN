@@ -14,7 +14,7 @@ ms.custom:
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
 ms.openlocfilehash: 0d6e083ff50435a151e32a0e7f052d0258725d80
 ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/14/2020
 ms.locfileid: "45131776"
@@ -34,5 +34,5 @@ ms.locfileid: "45131776"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看各个计划的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看各个计划的功能可用性，请参阅 [Microsoft 365 和 Office 365 平台服务](office-365-platform-service-description.md)说明。
   

@@ -11,7 +11,7 @@ ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
 ms.openlocfilehash: 04b3a9f34ca50f178c2db4102fcf0607ecb3b87d
 ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 02/14/2021
 ms.locfileid: "50241048"
@@ -23,12 +23,12 @@ ms.locfileid: "50241048"
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 
-Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管理此服务的交付。 世纪互联是中国最大的运营商中立 Internet 数据中心服务提供商，提供托管、托管网络服务及云计算基础结构服务。 By licensing Microsoft technologies， 21Vianet operateing local Office 365 data centers to provide the ability to use Office 365 services while keeping data within China. 世纪互联还提供[订阅、计费服务和支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
+Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管理此服务的交付。 世纪互联是中国最大的运营商中立 Internet 数据中心服务提供商，提供托管、托管网络服务及云计算基础结构服务。 通过授权的 Microsoft 技术，世纪互联运营本地 Office 365 数据中心，让用户能够使用 Office 365 服务，同时将数据保留在中国。 世纪互联还提供[订阅、计费服务和支持](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products?view=o365-21vianet&tabs=phone&preserve-view=true)。
 
 > [!NOTE]
 > 这些服务受到中国法律的制约。
 
-由于中国服务的独特性质（由合作伙伴在中国数据中心运营）某些功能尚未启用。随着时间的推移，客户将看到服务更接近完整功能奇偶校验。请参阅服务说明脚注了解差异。有关差异的更高级别概述，请参阅[了解由世纪网运营的 Office 365。](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)
+鉴于中国服务的独特性（由来自中国境内的数据中心合作伙伴运营），还有一些功能尚未启用。 随着时间的推移，客户将能使用功能越来越完整的服务。 有关功能差异，请参阅服务说明脚注。 有关功能差异的简要概述，请参阅[了解由世纪互联运营的 Office 365](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china)。
 
 ## <a name="service-availability-within-each-plan"></a>每个计划中的服务可用性
 
@@ -37,7 +37,7 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 
-| 服务 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
+| 服务 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 平台<sup>1</sup>|是|是|是|是|是|是|是|
 |Exchange Online|是|否|是|是|是|是|是|
@@ -55,22 +55,22 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 <sup>1</sup>包括 Office 365 管理、Office 365 套件应用程序、用户帐户管理、域、服务运行状况和连续性、报告、服务更新、帮助和培训、网络等功能。 有关详细信息，请参阅[平台功能](office-365-operated-by-21vianet.md#platform-features)表。
 <br/><sup>2</sup>虽然 Project Online 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 A1 计划中。
 <br/><sup>3</sup>可免费使用 Visio 网页版的浏览功能（查看功能）。 必须有许可证，才能使用 Visio 网页版的创建和编辑功能。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。
-<br/>由世纪网运营的 Office 365 部分支持<sup>4</sup> AIP。 有关详细信息，请参阅[由世纪互联运营的 Office 365 的 Azure 信息保护与商业产品/服务之间的等同性](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
+<br/><sup>4</sup>由世纪互联运营的 Office 365 中部分支持 AIP。 有关详细信息，请参阅[由世纪互联运营的 Office 365 的 Azure 信息保护与商业产品/服务之间的等同性](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)。
 
 ## <a name="system-requirements"></a>系统要求
 
 有关 Office 365 的系统要求，请参阅 [office.com](https://www.office.com) 产品网站上的 [Office 系统要求](https://products.office.com/office-system-requirements/#Office365forBEG)。
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>安全与合规中心在由世纪互联运营的 Office 365 中的可用性
-Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的轻松访问。 以下解决方案适用于由世纪网运营的计划的合规性中心：
+Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的工具。 合规性中心提供以下解决方案，适用于由世纪互联运营的计划：
 
 - 数据丢失防护 (DLP)
 - 保留
 - 审核
-- Microsoft 信息保护 (AIP) 统一标签客户端为 Office 客户端和 Outlook 提供 MIP 标签和敏感度标签
+- 使用 AIP 统一标签客户端的 Microsoft 信息保护 （MIP） 和针对 Office 客户端和 Outlook 的敏感度标签
 
 > [!NOTE]
-> - 目前不支持用于保护 SharePoint 网站、Microsoft 365 组和 Microsoft Teams 中内容的敏感度标签。
+> - 目前不支持使用敏感度标签保护 SharePoint 网站、Microsoft 365 组和 Microsoft Teams 中的内容。
 > - 目前不支持使用 Office 网页应用分类和保护文档和电子邮件的敏感度标签。
 
 ## <a name="platform-features"></a>平台功能
@@ -81,13 +81,13 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 > 由世纪互联运营的 Office 365 版本专为中国而设计。
 
 
-| 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
+| 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Office 365 管理](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-21vianet&preserve-view=true#admin-center-features-and-settings)**||||||||
 |使用 Microsoft 365 管理中心或 Windows PowerShell 管理 Office 365|是|是|是|是|是|是|是|
 |使用 AIP 保护内容|否|否|否|否|否|否|否|
 |通过机器翻译手动翻译消息中心内的文章|是|是|是|是|是|是|是|
-|**[Office 365 套件功能](office-365-suite-features.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[Office 365 套件功能](office-365-suite-features.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Microsoft Bookings|否|否|是|否|否|否|否|
 |Microsoft 简报电子邮件|否|否|是|否|否|否|否|
 |Microsoft Power Automate|否|否|否|否|否|否|否|
@@ -103,7 +103,7 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |Office 365 组|是|否|是|是|是|是|是|
 |Office 365 视频|否|否|否|是|是|是|是<sup>2</sup>|
 |OneNote 课堂笔记本|否|否|否|是<sup>15<sup>|否|否|否|
-|**[用户帐户 mManagement](user-account-management.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[用户帐户 mManagement](user-account-management.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |云标识、联合身份或多重身份验证<sup>14</sup>|是|是|是|是|是|是|是|
 |Office 365 桌面安装程序|否|否|否|否|否|否|否|
 |使用 .csv 文件批量上载|是|是|是|是|是|是|是|
@@ -116,7 +116,7 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |多个管理员角色可用|是|是|是|是|是|是|是|
 |允许合作伙伴为您管理 Office 365|否|否|否|否|否|否|否|
 |Azure Active Directory 服务|是|是|是|是|是|是|是|
-|**[域](domains.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[域](domains.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |添加第二级自定义域，如 fourthcoffee.com|是|是|是|是|是|是|是|
 |添加第三级自定义域，如 marketing.fourthcoffee.com是|是|是|是|是|是|是|是|
 |添加多达 900 个自定义域|是|是|是|是|是|是|是|
@@ -131,11 +131,11 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |使用自定义域名托管多个 SharePoint Online 公共网站<sup>5</sup>|否|否|否|否|否|否|否|
 |自定义域需要域所有权验证|是|是|是|是|是|是|是|
 |自动域购买和域验证适用于通过 Go Daddy 购买的域|否|否|否|否|否|否|否|
-|**[服务运行状况和连续性](service-health-and-continuity.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[服务运行状况和连续性](service-health-and-continuity.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |“服务运行状况”或“服务状态”页面中显示状态信息|是|是|是|是|是|是|是|
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态|是|是|是|是|是|是|是|
 |是|是|是|是|是|是|是|是|
-|**[报告](reports.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[报告](reports.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |活动邮箱和非活动邮箱|是|是|是|是|是|是|是|
 |新邮箱和已删除的邮箱|是|是|是|是|是|是|是|
 |新组和已删除的组|是|是|是|是|是|是|是|
@@ -159,21 +159,21 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |可下载的邮件保护报告|是|是|是|是|是|是|是|
 |使用的浏览器|是|是|是|是|是|是|是|
 |使用的操作系统|是|是|是|是|是|是|是|
-|使用 Microsoft 365 报告 Web 服务创建自己的报告|是|是|是|是|是|是|是|
-|**[服务更新](service-updates.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|使用 Microsoft 365 报告 Web 服务创建自己的报表|是|是|是|是|是|是|是|
+|**[服务更新](service-updates.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |向所有客户提供的定期更新|是|是|是|是|是|是|是|
 |在需要操作、解决问题、部署功能或服务更改时发送到消息的通知|是|是|是|是|是|是|是|
 |针对某些服务更新的 [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=)|是|--|是|是|是|是|是|
 |目标发布的启用选项|否|--|否|否|是|是|是|
-|**[帮助和培训](help-and-training.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[帮助和培训](help-and-training.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |联机帮助|是|是|是|是|是|是|是|
 |社区|否|否|否|否|否|否|否|
 |其他自助式资源<sup>12</sup>|是|是|是|是|是|是|是|
 |自学培训|是|是|是|是|是|是|是|
-|**[网络](networking.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[网络](networking.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |IPv4 协议|是|是|是|是|是|是|是|
 |IPv6 协议|否|否|否|否|否|否|否|
-|**信任**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**信任**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |**[隐私、安全性和透明度](privacy-security-and-transparency.md)**|是|是|是|是|是|是|是|
 |高级数据治理|否|否|否|否|否|否|否|
 |高级安全管理|否|否|否|否|否|否|否|
@@ -184,8 +184,8 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |高级审核<sup>17</sup>|否|否|否|否|否|否|否|
 |安全功能分数<sup>4</sup>|否|否|否|否|否|否|否|
 |威胁智能|否|否|否|否|否|否|否|
-|信息治理 – 保留策略|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|是<sup>16</sup>|是<sup>16</sup>|是|
-|信息治理 (保留策略) |否|否|否|否|否|否|否|
+|信息管理 – 保留策略|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|Yes<sup>16</sup>|是<sup>16</sup>|是|
+|信息管理（保留策略除外）|否|否|否|否|否|否|否|
 |**[合规性](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70 / SSAE16 评估|否|否|否|否|否|否|否|
 |ISO 27001 认证|是|是|是|是|是|是|是|
@@ -196,7 +196,7 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |Microsoft 数据处理协议|否|否|否|否|否|否|否|
 |PCI 监管的 PAN 数据|否|否|否|否|否|否|否|
 |**[服务连续性](service-health-and-continuity.md)**||||||||
-|**[BlackBerry](blackberry.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[BlackBerry](blackberry.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |是|是|是|是|是|是|是|是|
 |**[合作伙伴](partners.md)**||||||||
 |是|是|是|是|是|是|是|是|
@@ -205,7 +205,7 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 |**[产品使用权限](product-use-rights.md)**<sup>10</sup>|是|是|是|是|是|是|是|
 
 <sup>1</sup>由世纪互联运营的 Office 365 和 Office 365 不会为不受其制造商支持的任何操作系统提供支持。<br/>
-<sup>2</sup> 在由世纪网运营的 Office 365 企业版 F3 中，Office 365 视频仅限于 (发布或共享) 。 <br/>
+<sup>2</sup>在 由世纪互联运营的 Office 365 企业版 F3 中，只能观看 Office 365 视频（不得发布或共享）。 <br/>
 <sup>3</sup>如果要将目录同步与本地 Active Directory 结合使用，必须使用本地 Active Directory（而不是 Office 365 门户），或使用 Windows PowerShell 的 Azure Active Directory 模块删除帐户或更改密码。 <br/>
 <sup>4</sup>在由世纪互联运营的 Office 365 中尚不可用，但即将可用。 <br/>
 <sup>5</sup>Office 365 只能有一个公共网站，除非已升级旧版 Office 365。 在这种情况下，你具有两个公共网站，但只能使用自定义域名托管其中一个公共网站。 若要详细了解如何处理商业版订阅的两个网站，请参阅[处理两个 Office 365 公共网站](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)。 如果有其他订阅，请参阅 [Office 365 公共网站帮助](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)，详细了解公共网站。<br/>
@@ -218,10 +218,10 @@ Microsoft 365 合规中心提供对管理组织合规性需求所需的工具的
 <sup>11</sup>中国互联网合规性策略要求你具备公共网站的 Internet 内容提供商 (ICP) 编号。 有关详细信息，请参阅相应的 ICP 主题。 <br/>
 <sup>12</sup>某些内容可能不适用于由世纪互联运营的 Office 365。<br/>
 <sup>13</sup>体验的质量降低。 如果组织依赖 Internet Explorer 8 或 Internet Explorer 9 访问旧版 Web 应用和服务，不妨考虑升级到 Internet Explorer 11，并评估 Internet Explorer 11 企业模式。 此更新有助于改善与旧版 Web 应用的向后兼容性。 <br/>
-<sup>14</sup> 多重身份验证当前在 Outlook 移动版 iOS 和 Android (中) 。 <br/>
+<sup>14</sup>Outlook Mobile（iOS 和 Android）中目前不支持多重身份验证。 <br/>
 <sup>15</sup>世纪互联提供 OneNote 课堂笔记本，但 OneNote 课堂笔记本工具栏不可用于 Windows 10 应用、iPad 和 OneNote 网页版。 <br/>
-由世纪网运营的<sup>16</sup>个 Office 365 仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅保留 [策略入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
-Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中跨不同服务进行多种类型的审核活动。 使用 [安全 &amp; 合规中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 审核日志查看组织中用户和管理员活动。 您还可以使用 Office [365 管理活动 API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) 从统一管理审核日志。 当用户或管理员执行审核的活动时，会为客户组织生成审核审核日志并存储在审核记录中。 审核记录在 审核日志)  (中可搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版订阅以及分配给特定用户的许可证类型。
+<sup>16</sup> 由世纪互联运营的Office 365仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅 [保留策略](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention)。 <br/>
+<sup>17</sup> Microsoft 365中的审核使组织能够查看Microsoft 365中不同服务中的多种类型的审核活动。 使用 [安全 &amp; 合规中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 审核日志搜索来查看你的组织的用户和管理员活动。 您还可以使用[Office 365管理活动API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录保留(并可在审核日志中搜索)的时间长度取决于客户的Office 365或Microsoft 365企业订阅以及分配给特定用户的许可证类型。
 
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能
 
@@ -230,7 +230,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 
-| 功能 | 由世纪互联运营的 Office Professional Plus 2013 | 由世纪互联运营的 Office 专业增强版 2016 | 由世纪互联运营的 Office 365 ProPlus | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
+| 功能 | 由世纪互联运营的 Office Professional Plus 2013 | 由世纪互联运营的 Office 专业增强版 2016 | 由世纪互联运营的 Office 365 ProPlus | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office 应用程序**|||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|是|是|是|是|否|是|否<sup>5</sup>|否|是|否|
@@ -253,7 +253,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|是|否|否|否|是|否<sup>5</sup>|否|是|否|
 |[Office Mobile for Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|否|是|否|否|否|是|否<sup>5</sup>|否|是|否|
 |Outlook for Android|否|是|是|是|否|是|否<sup>5</sup>|否|是|否|
-|**企业价值**|**由世纪互联运营的 Office Professional Plus 2013**|**由世纪互联运营的 Office 专业增强版 2016**|**由世纪互联运营的 Office 365 ProPlus**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**企业价值**|**由世纪互联运营的 Office Professional Plus 2013**|**由世纪互联运营的 Office 专业增强版 2016**|**由世纪互联运营的 Office 365 ProPlus**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |每个用户可在 5 台 PC 或 Mac 上进行安装|否|是|是<sup>6</sup>|是<sup>6</sup>|否|是|否<sup>5</sup>|否|是|否|
 |自动化用户帐户配置|不适用|是|是|是|是|是|是|是|是|是|
 |多语言用户界面|是|是|是|否|否|是|否|否|是|否|
@@ -267,7 +267,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |Excel 电子表格查询|是|是|是|否|否|否|否|否|是|否|
 |Exchange Online 和 SharePoint Online 存档和合规性|是<sup>1</sup>|是|是<sup>1</sup>|否|否|否|否|否|是|否|
 |组策略支持|是|是|是|否|否|否|否|否|是|否|
-|使用 AIP<sup>11</sup> (IRM) 信息权限管理|否|否|否|否|否|否|否|否|是|否|
+|使用AIP的信息权限管理 (IRM)<sup>11</sup>|否|否|否|否|否|否|否|否|是|否|
 |使用 Windows Server AD RMS 的信息权限管理 (IRM) <sup>2</sup>|是|是|是|是|是|是|是|是|是|是|
 |Office 加载项、ActiveX 和 BHO 支持|是|是|是|否|否|是|否|否|是|否|
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问|否|是|否|否|否|是|否|否|是|否|
@@ -289,7 +289,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 <br/><sup>2</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。
 <br/><sup>3</sup>如果有 Office Professional Plus 2013 或独立版 Excel 2013，可以不受支持的外接程序的形式下载并使用 [Power Map Preview for Excel 2013](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409)。
 <br/><sup>4</sup>Skype for Business Basic 适用于所有客户。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
-<br/><sup>5</sup> 某些学校有资格使用教育增强版（包括 Office 365 专业增强版）并允许学生和教职员工在最多五台 PC 或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。
+<br/><sup>5</sup>一些学校有资格享受教育增强版（其中包括 Office 365 ProPlus），并允许学生和教职员工在最多五台 PC 或 Mac 计算机上和其他移动设备（其中包括 Windows 平板电脑和 iPad）上安装最新版 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。
 <br/><sup>6</sup>可以安装但不可激活 Office 2011 for Mac。
 <br/><sup>7</sup>用户专用的虚拟桌面基础结构 (VDI) 支持 Office 365 专业增强版。 通过批量许可计划购买时，Office 365 专业增强版仅支持远程桌面服务 (RDS)。
 <br/><sup>8</sup>只能批量激活在启用了 RDS 角色或安装了 Windows To Go 的 Windows Server 2008 R2 及更高版本上安装的 Office 365 企业版 E3和 Office 365 ProPlus。 在任一情况下，访问这些安装项的用户都需要获得 Office 365 企业版 E3 或 Office 365 专业增强版的许可。
@@ -310,7 +310,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 > - Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。
 > - 如果 Microsoft Office Web Apps Server 2013 本地客户已购买 Office 桌面套件许可证（例如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证），则可获得 Office 网页版编辑许可证。
 
-| 应用程序 | 由世纪互联运营的 Office 网页版 | 链接到详细的功能比较 |
+| Application | 由世纪互联运营的 Office 网页版 | 链接到详细的功能比较 |
 |:-----|:-----|:-----|
 |Word|由世纪互联运营的 Word 网页版|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|由世纪互联运营的 Excel 网页版|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -324,18 +324,18 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 > [!NOTE]
 > 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 
-| 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
+| 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[规划和部署](../exchange-online-service-description/planning-and-deployment.md)**||||||||
 |支持的混合部署|是<sup>9、10</sup>|是<sup>10</sup>|是<sup>9、10</sup>|是<sup>10</sup>|是<sup>10</sup>|是<sup>10</sup>|是<sup>10</sup>|
 |支持的 IMAP 迁移|是|是|是|是|是|是|是|
 |支持的直接转换迁移|是|是|是|是|是|是|是|
 |支持的暂存迁移|是|是|是|是|是|是|是|
-|**[权限](../exchange-online-service-description/permissions.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[权限](../exchange-online-service-description/permissions.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |基于角色的权限|是|是|是|是|是|是|否|
 |角色组|是|是|是|是|是|是|否|
 |角色分配策略|是|是|是|是|是|是|否|
-|**[邮件策略和合规性](../exchange-online-service-description/message-policy-and-compliance.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[邮件策略和合规性](../exchange-online-service-description/message-policy-and-compliance.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |存档基于 Exchange Online 的邮箱|是|是|是|是|是|是|否|
 |内部部署邮箱的基于云的存档|否|否|否|是|否|否|否|
 |保留标记和保留策略|是|是|是|是|是|是|是|
@@ -349,7 +349,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |邮件流规则（传输规则）|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
 |数据丢失防护|否|否|否|否|否|是|否|
 |日记功能 |是|是|是|是|是|是|是|
-|**[反垃圾邮件和反恶意软件保护](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[反垃圾邮件和反恶意软件保护](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |内置反垃圾邮件保护|是|是|是|是|是|是|是|
 |自定义反垃圾邮件策略|是|是|是|是|是|是|是 <sup>4</sup>|
 |内置反恶意软件保护|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|
@@ -357,13 +357,13 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |隔离 - 管理员管理|是|是|是|是|是|是|是 <sup>4</sup>|
 |隔离 - 最终用户自我管理|是|是|是|是|是|是|是|
 |高级强大的威胁保护|否|--|否|否|否|否|否|
-|**[邮件流](../exchange-online-service-description/mail-flow.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[邮件流](../exchange-online-service-description/mail-flow.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |出站邮件的自定义路由|是|是|是|是|是|是|是|
 |与受信任合作伙伴的安全邮件|是|是|是|是|是|是|是|
 |有条件的邮件路由|是|是|是|是|是|是|是|
 |向入站安全列表添加合作伙伴|是|是|是|是|是|是|是|
 |混合电子邮件路由|是<sup>9</sup>|--|是<sup>9</sup>|是|是|是|是|
-|**[收件人](../exchange-online-service-description/recipients.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[收件人](../exchange-online-service-description/recipients.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |容量报警|是|是|是|是|是|是|是|
 |混乱邮件|是|是|是|是|是|是|是|
 |MailTips|是|是|是|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
@@ -384,17 +384,17 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |会议室管理|是|是|是|是|是|是|是|
 |“外出”回复|是|是|是|是|是|是|是|
 |日历共享|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
-|**[报告功能和疑难解答工具](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[报告功能和疑难解答工具](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Microsoft 365 管理中心报告|是|是|是|是|是|是|是|
 |Excel 报告工作簿|否|是|否|否|是|是|是|
 |Web 服务报告|是|是|是|是|是|是|是|
 |邮件跟踪|是|是|是|是|是|是|是|
 |审核报告|是|是|是|是|是|是|是 <sup>2</sup>|
 |统一消息报告|否|否|否|否|否|否|否|
-|**[共享和协作](../exchange-online-service-description/sharing-and-collaboration.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[共享和协作](../exchange-online-service-description/sharing-and-collaboration.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |联合共享（包括日历发布）|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
 |公用文件夹|是|是|是|是|是|是|否|
-|**[客户端和移动设备](../exchange-online-service-description/clients-and-mobile-devices.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[客户端和移动设备](../exchange-online-service-description/clients-and-mobile-devices.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Microsoft Outlook|是|是|是|是|是|是| 否 <sup>6</sup>|
 |Outlook 网页版|是|是|是|是|是|是|是|
 |Exchange ActiveSync|是|是|是|是|是|是|是|
@@ -402,29 +402,29 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |SMTP|是|是|是|是|是|是|是|
 |EWS 应用程序支持|是|是|是|是|是|是|否|
 |Outlook for Mac|是|是|是|是|是|是| 否|
-|**[语音消息服务](../exchange-online-service-description/voice-message-services.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[语音消息服务](../exchange-online-service-description/voice-message-services.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |语音邮件|否|否|否|否|否|否|否|
 |语音邮件与第三方传真的集成|否|否|否|否|否|否|否|
 |第三方语音邮件互操作性|否|是|否|否|否|否|否|
 |Skype for Business 集成|是|是|是|是|是|是|是|
-|**[高可用性和业务连续性](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[高可用性和业务连续性](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |数据中心的邮箱复制|是|是|是|是|是|是|是|
 |已删除邮箱的恢复|是|是|是|是|是|是|是|
 |已删除邮件的恢复|是|是|是|是|是|是|是|
 |单个项目恢复|是|是|是|是|是|是|否||
-|**[互操作性、连接性和兼容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[互操作性、连接性和兼容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|是|否|
 |SharePoint 互操作性|是|是|是|是|是|是|是|
 |EWS 连接性支持|是|是|是|是|是|是|是|
 |SMTP 中继支持|是|是|是|是|是|是|是|
-|**[Exchange Online 设置和管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[Exchange Online 设置和管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Microsoft Office 365 门户访问|是|是|是|是|是|是|是|
 |Microsoft 365 管理中心访问|是|是|是|是|是|是|否|
 |Exchange 管理中心访问|是|是|是|是|是|是|是|
 |远程 Windows PowerShell 访问|是|是|是|是|是|是|是|
 |移动设备的 ActiveSync 策略|是|是|是|是|是|是|是|
 |使用情况报告|是|是|是|是|是|是|是|
-|**[扩展服务 - 自定义、外接程序和资源](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[扩展服务 - 自定义、外接程序和资源](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Outlook 加载项和 Outlook MAPI|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|否|
 
 <sup>1</sup>某些第三方 Web 部件和外接程序可能不可用。
@@ -470,7 +470,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 - [Exchange ActiveSync limits ](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - 应用于 Microsoft 365 组织的限制可能因组织已在服务中注册时间而不同。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。
+> - 应用于 Microsoft 365 组织的限制可能会有所不同，具体取决于组织在服务中的注册时间。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。
 > - 虽然您无法修改其中大多数限制，但您和您的用户应了解它们。
 > - 这些限制适用于内部收件人和外部收件人。
 > - Exchange Online Protection (EOP) 默认保护 Exchange Online 邮箱。 有关适用于 Exchange Online 中的 EOP 功能的限制，请参阅 [Exchange Online Protection 限制](../exchange-online-protection-service-description/exchange-online-protection-limits.md)。
@@ -501,7 +501,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|
 |[Outlook 的报告消息加载项](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|
 |[Outlook 网页版中的垃圾邮件报告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|否<sup>7</sup>|否<sup>7</sup>|
-|[在 Microsoft 和您自己的电子邮件服务器之间路由电子邮件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|
+|[在 Microsoft 和自己的电子邮件服务器之间路由电子邮件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|
 |[Secure messaging with a trusted partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|
 |[合作伙伴 IP 地址安全列表](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|
 |[条件邮件路由](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|是|是|
@@ -537,7 +537,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 
 | 计划 | 说明 |
 |:-----|:-----|
-|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署的更多信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。|
+|**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Server**|基于云的存档，适用于在 Exchange Server 2013 或 Exchange 2010（SP2 或更高版本）中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署详细信息，请参阅 [Exchange Server 混合部署](https://docs.microsoft.com/exchange/exchange-hybrid)。|
 |**适于由世纪互联运营的 Office 365 的 Exchange Online Archiving for Exchange Online**| 以下计划已包含存档，不需要 Exchange Online Archiving 作为外接程序：  <br/>  由世纪互联运营的 Office 365 A1  <br/>  由世纪互联运营的 Office 365 企业版 E3  <br/>  由世纪互联运营的 Exchange Online 计划 2 for Office 365  <br/>  有关 Exchange Online 邮箱的存档功能的详细信息，请参阅 [Exchange Online 中的存档邮箱](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview)。|
 
 下表显示由世纪互联运营的 Office 365 中可用的 Exchange Online Archiving 功能。<br><br>
@@ -578,7 +578,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 > [!NOTE]
 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。<br><br>
 
-| 开发人员功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
+| 开发人员功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |应用目录 (SharePoint)|是|是|是|是|是|是|是|
 |应用部署：云托管的应用|是|是|是|是|是|是|是|
@@ -615,7 +615,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |工作负载 API：ECM API|是|否|是|是|是|是|是|
 |工作负载 API：搜索 API|是|否|是|是|是|是|是|
 |工作负载 API：社交 API|是|否|是|是|是|是|是|
-|**IT 专业人员功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**IT 专业人员功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Active Directory 同步|是|是|是|是|是|是|是|
 |备用访问映射 (AAM)|否|否|否|否|否|否|否|
 |分析平台|否|否|否|否|否|否|否|
@@ -652,11 +652,11 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |升级评估网站集|否|否|否|是|是|是|是|
 |使用情况报告和日志记录|否|否|否|否|否|否|否|
 |Windows PowerShell 支持|是|是|是|是|是|是|是|
-|**内容功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**内容功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |辅助功能标准支持|是|是|是|是|是|是|是|
 |资产库增强/视频支持|是|是|是|是|是|是|是|
 |审核|是|是|是|是|是|是|是|
-|审核 &amp; 报告 (例如，文档编辑、策略编辑、删除) |是|是|是|是|是|是|是|
+|审核 &amp; 报告（例如，文档编辑、策略编辑、删除）|是|是|是|是|是|是|是|
 |内容管理器|是|否|是|是|是|是|是|
 |设计管理器|是|否|是|是|是|是|是|
 |文档集|是|是|是|是|是|是|是|
@@ -706,7 +706,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |WCM：推荐|是|否|是|是|是|是|是|
 |WCM：搜索引擎优化 (SEO)|是|否|是|是|是|是|是|
 |Word Automation Services|否|否|否|否|否|否|否|
-|**洞察力功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**洞察力功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |商业智能中心|否|否|否|否|否|否|否|
 |计算度量值和成员|否|否|否|是|否|是|否|
 |数据连接库|否|否|否|否|否|是|否|
@@ -727,7 +727,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |使用含有数据模型的 Excel 工作簿并与之进行交互|否|否|否|否|否|否|否|
 |Visio 网页版<sup>14、15</sup>|是|是|是|是|是|是|是|
 |Visio 服务<sup>14</sup>|否|否|否|否|否|否|否|
-|**搜索功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**搜索功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |高级内容处理|是|否|是|是|是|是|是|
 |连续爬网|是|是|是|是|是|是|是|
 |自定义实体提取|否|否|否|否|否|否|否|
@@ -756,7 +756,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |搜索类别：“人员”|是|是|是|是|是|是|是|
 |搜索类别：“视频”|否|否|否|否|否|是|否|
 |“此列表”搜索|是|是|是|是|是|是|是|
-|**站点功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**站点功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |更改外观|是|否|是|是|是|是|是|
 |连接到 Microsoft Office 客户端|是|是|是|是|是|是|是|
 |跨浏览器支持|是|是|是|是|是|是|是|
@@ -786,7 +786,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |网站使用情况页|否|否|否|否|否|否|否|
 |变体|是|否|是|是|是|是|否|
 |工作管理服务|是|否|是|是|是|是|是|
-|**社交功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**社交功能**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |专业领域|否|否|否|否|否|否|否|
 |个人博客|否|否|否|否|否|否|否|
 |社区信誉、徽章和主持|否|否|否|否|否|否|否|
@@ -810,12 +810,12 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |趋势标记|否|否|否|否|否|否|否|
 |Wiki|否|否|否|否|否|否|否|
 |Yammer|否|否|否|否|否|否|否|
-|**加载项**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**加载项**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |其他存储|是|否|是|是|是|是|是|
 |Azure 设置的应用：访问服务<sup>3</sup>|是|是|是|是|是|是|是|
 |Azure 设置的应用：Azure 轻型 Web 角色中的自定义代码 (LWR)|是|是|是|是|是|是|是|
 
-<sup>1</sup> 若要使用文件夹同步，必须具有 Office 2013 或更高版本 (标准版) 专业版或包含 Office 应用程序的订阅。 Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans.
+<sup>1</sup> 若要使用文件夹同步，必须拥有 Office 2013 或更高版本（标准版或专业版）或包含 Office 应用程序的订阅。 Office 365 Business Essentials, Office 365 Enterprise E1, and Office 365 Education plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans.
 <br/><sup>2</sup>Kiosk 帐户具有受限的 OneDrive for Business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB of online storage.
 <br/><sup>3</sup>不支持 Access 2010。
 <br/><sup>4</sup>Kiosk 用户不能是管理员，因此包含 Kiosk 用户的租户至少必须有一个 Enterprise 用户才能访问管理中心。
@@ -839,7 +839,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 > - 此表指明了各个 Office 365 产品可用的客户端和服务。 若要比较各种 Skype for Business 桌面客户端、Web 客户端和移动客户端的各项功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)和[移动客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables)。
 > - 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 
-| 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪银行运营的 Office 365 企业版 F3 |
+| 功能 | 由世纪互联运营的 Office 365 商业协作版 | 由世纪互联运营的 Office 365 商业版 | 由世纪互联运营的 Office 365 商业高级版 | 由世纪互联运营的 Office 365 A1 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Skype for Business Online 的客户端](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1、4</sup>|是<sup>1、4</sup>|是|否|
@@ -848,7 +848,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |Lync for Mac 2011|是|是|是|是|是|是|否|
 |Skype for Business 移动客户端|是|是|是|是|是|是|否|
 |Skype for Business Web 应用|是|是|是|是|是|是|否|
-|**[即时消息、 在线状态以及联系人](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[即时消息、 在线状态以及联系人](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |电脑间即时消息和状态|是|是|是|是|是|是|否|
 |多方即时消息和状态|是|是|是|是|是|是|否|
 |联系人卡片配置|是|是|是|是|是|是|否|
@@ -860,18 +860,18 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |通讯组列表扩展|是|是|是|是|是|是|否|
 |持久聊天|否|否|否|否|否|否|否|
 |发送者/接收者的照片|是|是|是|是|是|是|否|
-|**[Skype 于 Skype 音频、 视频和媒体](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[Skype 于 Skype 音频、 视频和媒体](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |基于视频的屏幕共享 (VbSS) 上的桌面共享|是|是|是|是|是|是|否|
 |远程桌面协议 (RDP) 上的桌面和客户端共享|是|是|是|是|是|是|否|
 |文件传输|是|是|是|是|是|是|否|
 |视频|是|是|是|是|是|是|否|
 |网络服务质量 (QoS) - 区分服务代码点 (DSCP)|否|否|否|否|否|否|否|
-|**[联盟和公用 IM 连接](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[联盟和公用 IM 连接](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Office Communications Server 2007 R2 和 Lync Server 2010（即时消息、状态、音频、视频、会议）|是|否|是|是|是|是|否|
 |XMPP（例如由 Google Talk 使用）和 Sametime 联合身份验证|否|否|否|否|否|否|否|
 | Skype 联合身份验证|否|否|否|否|否|否|否|
 |AOL 和 Yahoo! 联合身份验证|否|否|否|否|否|否|否|
-|**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[Skype 业务联机会议](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |即席音频会议和计划音频会议|是|是|是|是|是|是|否|
 |即席视频会议和计划视频会议|是|是|是|是|是|是|否|
 |当前发言人视频|是|是|是|是|是|是|否|
@@ -900,7 +900,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |在 Outlook 网页版中安排在线会议|是|是|是|是|是|是|否|
 |通过 Outlook 委派安排会议|是|是|是|是|是|是|否|
 |从 Outlook 创建具有静态会议 ID 的公开会议|否|否|否|否|否|否|否|
-|**语音呼叫**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**语音呼叫**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |忙选项|否|否|否|否|否|否|否|
 |分支机构可恢复性|否|否|否|否|否|否|否|
 |呼叫允许控制|否|否|否|否|否|否|否|
@@ -935,11 +935,11 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |团队呼叫|否|否|否|否|否|否|否|
 |视频呼叫监视器|否|否|否|否|否|否|否|
 |Voicemail|否|否|否|否|否|否|否|
-|[通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (国内通话套餐，需要购买附加) |否|否|否|否|否|否|否|
-|[通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (国际通话套餐，需要购买附加) |否|否|否|否|否|否|否|
+|[通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans)（国内通话套餐，需要购买附加服务）|否|否|否|否|否|否|否|
+|[通话套餐](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans)（国际通话套餐，需要购买附加服务）|否|否|否|否|否|否|否|
 |[通信点数](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|否|否|否|否|否|否|否|
 |Skype for Business 语音|否|否|否|否|否|否|否|
-|**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[安全保护和归档](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |即时消息和媒体加密|是|是|是|是|是|是|否|
 |即时消息和文件筛选|否|否|否|否|否|否|否|
 |客户端版本控制|是|是|是|是|是|是|否|
@@ -948,7 +948,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |应用程序共享存档和桌面共享存档|否|否|否|否|否|否|否|
 |用户级存档配置|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否|否|
 |登录跟踪文件|是|是|是|是|是|是|否|
-|**[交换和 SharePoint 的互操作性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[交换和 SharePoint 的互操作性](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |与 Exchange Server 的当前状态互操作性|是|是|是|是|是|是|否|
 |与 Exchange Online 的当前状态互操作性|是|是|是|是|是|是|否|
 |与 Exchange Server 的统一消息互操作性|否|否|否|否|否|否|否|
@@ -958,7 +958,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |与 Exchange Online 的存档互操作性|否|否|否|否|否|否|否|
 |对 SharePoint Server 使用技能搜索|否|否|否|否|否|否|否|
 |对 SharePoint Online 使用技能搜索|否|否|否|否|否|否|否|
-|**[Skype 的在线业务管理和管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪银行运营的 Office 365 企业版 F3**|
+|**[Skype 的在线业务管理和管理](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**由世纪互联运营的 Office 365 商业协作版**|**由世纪互联运营的 Office 365 商业版**|**由世纪互联运营的 Office 365 商业高级版**|**由世纪互联运营的 Office 365 A1**|**由世纪互联运营的 Office 365 企业版 E1**|**由世纪互联运营的 Office 365 企业版 E3**|**由世纪互联运营的 Office 365 企业版 F3**|
 |Microsoft Office 365 门户|是|是|是|是|是|是|否|
 |Microsoft 365 管理中心|是|是|是|是|是|是|否|
 |Skype for Business 管理中心|是|是<sup>3</sup>|是|是|是|是|否|
@@ -979,7 +979,7 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 > - 由 Office 365 的世纪互联版本运营的 Office 365 专为中国而设计。
 > - Skype for Business Online 独立计划 2 的许可用户将获得 Skype for Business 基本客户端，而不是完整的 Skype for Business 客户端。如果您想让用户拥有 Skype for Business 客户端，您需要将其升级到包括它的许可证，例如，基于企业的许可证。若要向您的用户部署 Skype for Business 客户端，请参阅[部署 Office 365 中的 Skype for Business 客户端](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365)。
 
-| 功能 | 由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1 | 由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 2 |
+| 功能 | 由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1 | 由世纪互联运营的适用于 Office 365 的 Skype for Business Online 独立计划 1 |
 |:-----|:-----|:-----|
 |**[Skype for Business Online 的客户端](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**|||
 |Skype for Business|否<sup>1</sup>|否<sup>1</sup>|
@@ -1066,35 +1066,35 @@ Microsoft 365 中的<sup>17</sup>审核使组织能够了解 Microsoft 365 中�
 |Windows PowerShell|是|是|
 |Microsoft 365 管理中心内的 Skype for Business Online 报告|否<sup>4</sup>|否<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序，其中包括高级电话支持、存档合规性功能等附加功能。 &amp; 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business （Lync） 应用程序，其中包括高级电话支持、归档和 &amp; 功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)。
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup>存档的可用性由 Exchange 就地保留功能而定，但此计划中不包含该功能。
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup>如果 Exchange Online 作为网亭计划的一部分进行购买，则不支持。
 
-## <a name="outlook-features-for-ios-and-android"></a>适用于 iOS 和 Android 的 Outlook 功能
+## <a name="outlook-features-for-ios-and-android"></a>iOS 和 Android 版 Outlook 功能
 
-由世纪网络运营的 Office 365 支持 Outlook for iOS 和 Outlook for Android。
+由世纪网运营的 Office 365 同时支持 Outlook for iOS 和 Outlook for Android。
 
 不支持以下移动功能：
 
-- 仅在 Android 设备上 (OneDrive for Business) 
-- 日历&人员
-- 会议室搜索&预订
-- Places Card
-- "LinkedIn"&人员卡片上的"报告对象"数据
+- OneDrive for Business（仅支持 Android）
+- 人及日历搜索
+- 会议室搜索和预定
+- 位置卡
+- "LinkedIn"和"报告到"数据位于人员卡片上
 - 收藏夹
 - 播放我的电子邮件
-- Add-Ins
+- 加载项
 - 智能答复
 - Office 源
-- 离开时间
-- Dropbox 存储
-- Google 驱动器存储
-- Box 存储
+- 出发时间
+- Dropbox 存储空间
+- Google Drive 存储
+- 盒装存储
 - Facebook 日历
 - Helpshift
-- Uservoice
+- UserVoice
 
 ## <a name="project-online-features"></a>Project Online 功能
 
