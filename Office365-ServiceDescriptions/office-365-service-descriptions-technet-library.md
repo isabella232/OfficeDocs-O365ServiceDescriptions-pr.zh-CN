@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: 174d30152a56e799e053d117808e566a08346ffb
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871155"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460291"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
@@ -26,14 +26,14 @@ Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对
   
 此库中的文章详细说明了 Microsoft 365 和 Office 365 中可用的服务和功能。 有关 Microsoft Dynamics 365 商业应用程序的信息，请参阅 [Microsoft Dynamics 365 文档](https://docs.microsoft.com/dynamics365/)。
 
-若要跨计划比较功能，请参阅以下列表中用于 [支持企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相关服务说明的强大工具。 
+若要跨计划比较功能，请参阅下面的列表中用于支持 [企业](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) 或相关服务说明的强大工具。 
   
-有关支持文章和信息，请参阅 [Office 帮助](https://support.office.com/)中心&培训、适用于管理员和 IT 专业人员的 [Office](https://docs.microsoft.com/office/)文档，以及适用于管理员和 IT 专业人员的 [Microsoft 365](https://docs.microsoft.com/microsoft-365/)帮助中心。
+有关支持文章和信息，请参阅 [Office 帮助&培训](https://support.office.com/)、适用于管理员和 IT 专业人员的 [Office](https://docs.microsoft.com/office/)文档，以及适用于管理员和 IT 专业人员的 [Microsoft 365](https://docs.microsoft.com/microsoft-365/)帮助中心。
   
 > [!NOTE]
-> 如果要查找服务说明比较电子表格，则它已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择适合你需求的 Office 365 版本。 
+> 如果要查找服务说明比较电子表格，则已停用。 已更新每个服务说明页面上的产品功能可用性表，以更好地帮助你选择适合您需求的 Office 365 版本。 
   
-Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office 365 的 FastTrack 中心权益。 利用此权益，您可以与 Microsoft 专家远程合作，使 Office 365 环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office 365 的 FastTrack 中心权益。 利用该优势，您可以与 Microsoft 专家远程合作，使 Office 365 环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
@@ -58,8 +58,6 @@ Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office
 - [SharePoint 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
-
-- [电子邮件服务说明简介](briefing-service-description.md)
 
 - [工作区分析服务说明](workplace-analytics-service-description.md)
 
@@ -87,5 +85,5 @@ Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office
   
 ## <a name="disclaimer"></a>免责声明
 
-&copy; 2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 它的目的不是服务合同，也不要求 Microsoft 或客户承担此处提及的任何功能、功能或责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。
+&copy; 2018 Microsoft Corporation。 保留所有权利。 Microsoft、Office 365 和其他产品与服务名称是/可能是 Microsoft Corporation 在美国和/或其他国家/地区的注册商标和/或商标。 此处提供的信息仅供参考使用，它代表 Microsoft Corporation 截止至本文档最新发布或修订日期的最新观点。 它不应成为服务合同，并且不会使 Microsoft 或客户承担此处提及的任何功能、功能或责任。 Microsoft 不对本文档中的信息作明确、暗示或法定的担保。
  
