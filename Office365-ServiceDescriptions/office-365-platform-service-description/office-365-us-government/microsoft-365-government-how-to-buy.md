@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版并介绍了购买选项。
-ms.openlocfilehash: 4949989b9c5f7b46e53e8958e88d466f58dd216f
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460261"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572708"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -21,7 +21,7 @@ ms.locfileid: "50460261"
   
 ## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府版？
 
-Microsoft 365 政府版是一套生产力、安全性和移动性云软件功能，专为美国政府机构和承包商定制，用于保存受控的未分类信息。 Microsoft 365 政府版通过满足最严格的合规性要求的独特环境提供，是美国政府客户的云产品，尽可能与 Microsoft 商业云企业产品/服务的特性和功能相匹配。
+Microsoft 365 政府版是专为美国政府政府机构和承包商定制的一组生产力、安全性和移动性云软件功能，受支持，用于保存受控的未分类信息。 Microsoft 365 政府版通过满足最严格的合规性要求的独特环境提供，是美国政府客户的云产品，尽可能与 Microsoft 商业云企业产品/服务的特性和功能相匹配。
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府版的价值是什么？
 
@@ -29,9 +29,9 @@ Microsoft 365 政府版通过帮助机构有效管理法规数据合规性要求
  
 | 政府领导可以... | 政府员工可以... | 现场人员可以... |
 |:-----|:-----|:-----|
-|通过改进沟通和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动方式访问现场人员需要的信息，提高服务质量（当他们需要该信息时）  |
+|通过改进通信和透明度提高公共信任度  <br/> |通过更好的协作改进公民服务 <br/> | 通过移动方式访问现场人员需要的信息，提高服务质量（当他们需要该信息时）  |
 |改进对有助于制定策略和预算决策的见解的访问  <br/> |增强跨机构通信。  <br/> |启用协作和知识共享以快速识别和解决问题  <br/> |
-|在办公室或路况中与员工和公民保持联系并保持联系  <br/> |与公民参与度提高，以帮助提高员工保留率  <br/> | 跨机构位置建立更强的社区意识  <br/> |
+|在办公室或路况中与员工和公民保持联系并保持联系  <br/> |与公民责任建立更深入的互动，以帮助提高员工保留率  <br/> | 跨机构位置建立更强的社区意识  <br/> |
 |确保符合美国政府标准的解决方案有助于降低成本并提高灵活性  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 政府版与 Microsoft 365 企业版产品/服务有什么不同？
@@ -64,9 +64,9 @@ GCC 和 GCC 高产品/服务都适用于符合 Microsoft 政府云资格的任�
 - 联邦机构，定义为美国政府的局、办公室、机构、部门或其他实体
 - 定义为以下之一的状态/本地实体：
     - 州或美国政府的任何机构。
-    - 根据客户所在的州的法律建立并位于客户所在的州/市/自治区和地理边界内的任何美国县、特用途学区或其他类似的政府帮助类型
+    - 根据客户所在的州的法律建立并位于客户所在的州/市/自治区和地理边界内的任何美国县、市政、特殊用途学区或其他类似的政府帮助类型
     - 哥伦比亚区、波多黎各群岛、波多黎各、美属维尔京群岛、美属维尔京群岛和北马里亚纳群岛
-- 一个部族实体，定义为联邦认可的、有资格从美国商务部获得资金和服务的实体，其身份为"印度公民"，或者，在乌克兰，是一个本地的县或一个"美国联邦地区本机公司"
+- 一个部族实体，定义为经联邦认可的、有资格从美国商务部获得资金和服务的实体，其身份是"美洲者"，或者，在美国联邦，或者，在乌克兰，是一个本地的县或一个"美国联邦地区本机公司"
 
 保留以下数据类型并且可以提供所列证明的其他组织符合 Microsoft 政府云验证流程的资格：
 
@@ -112,7 +112,7 @@ GCC 和 GCC 高产品/服务都适用于符合 Microsoft 政府云资格的任�
 
 按照以下步骤购买 Microsoft 365 政府版许可证：
 
-1. 填写并提交 [GCC](https://azure.microsoft.com/global-infrastructure/government/request/) 或 [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/) 表单以验证组织资格。
+1. 填写并提交 [GCC](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) 或 [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) 表单以验证组织资格。
 2. 与 Microsoft 帐户团队或合格的合作伙伴合作下订单。 客户只能通过选择的合作伙伴购买 Microsoft 365 美国政府版许可证。
 
 **LSPs GCC 和 GCC 高 (+500 个席位)**
@@ -158,7 +158,7 @@ GCC 和 GCC 高产品/服务都适用于符合 Microsoft 政府云资格的任�
 - TechTrend， Inc.
 - Vexcel
 
-**注意：** 上述列表中所有 Microsoft 许可解决方案提供商 (LSP) 都可以通过 企业协议 (EA) 交易 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
+**注意：** 上述列表中的所有 Microsoft 许可解决方案提供商 (LSP) 都可以通过 企业协议 (EA) 交易 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
 
 **如果你与云解决方案提供商合作伙伴合作，请联系他们或 [查找云解决方案提供商](https://www.microsoft.com/solution-providers/home)。**
 
