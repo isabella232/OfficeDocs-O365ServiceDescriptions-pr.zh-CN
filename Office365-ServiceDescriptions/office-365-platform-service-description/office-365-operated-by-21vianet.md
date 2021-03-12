@@ -1074,7 +1074,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 
 ## <a name="outlook-features-for-ios-and-android"></a>iOS 和 Android 版 Outlook 功能
 
-由世纪网运营的 Office 365 同时支持 Outlook for iOS 和 Outlook for Android。
+由世纪互联运营的 Office 365 同时支持 Outlook for iOS 和 Outlook for Android。
 
 不支持以下移动功能：
 
