@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能在哪些计划中可用。
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726697"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901928"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -30,7 +30,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 有关快速概述，请参阅 [什么是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-To see which plans include SharePoint， [Powerful tools to support your enterprise](https://products.office.com/business/compare-more-office-365-for-business-plans). 有关 Microsoft 365 系统要求，请参阅 [Microsoft 365 和 Office 资源](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4)。 
+有关允许用户使用 SharePoint 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 有关 Microsoft 365 系统要求，请参阅 [Microsoft 365 和 Office 资源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
 若要了解美国政府云客户的 SharePoint 功能差异，请参阅[适用于美国政府环境的 SharePoint。](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
   
@@ -132,7 +132,7 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有关以下功能的可用性的信息，请参阅安全与& [服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)：
 
 - [客户密码箱](/microsoft-365/compliance/customer-lockbox-requests)
-- [数据丢失防护 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
+- [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [电子数据展示](/microsoft-365/compliance/ediscovery-cases) (内容搜索、保留、导出) 
 - [信息屏障](/microsoft-365/compliance/information-barriers)
 - [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

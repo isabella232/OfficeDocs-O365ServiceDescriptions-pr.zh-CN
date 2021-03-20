@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
-ms.translationtype: HT
+ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572738"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902057"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -275,7 +275,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 |Office 遥测|是|是|是|否|否|否|否|否|是|否|
 |客户端应用程序的脱机支持|是|是|是|是|是|是|否|否|是|否|
 |优化并排客户端安装|否|是|是|是|是|是|否|否|是|否|
-|Power Map for Excel|否<sup>3</sup>|否|否|否|否|否|否|否|是|否|
+|Power Map for Excel|否|否|否|否|否|否|否|否|否|否|
 |Power Pivot for Excel|否|否|否|否|否|否|否|否|是|否|
 |Power Query for Excel|否|否|否|否|否|否|否|否|是|否|
 |Power View for Excel|否|否|否|否|否|否|否|否|是|否|
