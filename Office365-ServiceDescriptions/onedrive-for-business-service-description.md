@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154400"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901947"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -26,7 +26,7 @@ ms.locfileid: "45154400"
   
 OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中，也可作为单独计划购买。 
     
-若要比较各计划，请参阅[支持企业的强大工具](https://go.microsoft.com/fwlink/?linkid=799177)和[比较 OneDrive for Business 计划](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans)。 
+有关为 OneDrive 启用用户的订阅的详细计划信息，请参阅 [订阅的完整订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 和 [比较 OneDrive for Business 计划](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2)。
   
 > [!NOTE]
 > OneDrive 独立计划包含 Office 网页版。 
@@ -133,7 +133,7 @@ OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个�
 除非另外说明，否则以下功能可在包含 OneDrive 的所有计划以及所有 OneDrive 独立计划中使用：
 
 - [访问请求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [“任何人”链接](/Office365/Enterprise/best-practices-anonymous-sharing)（可设置为需要过期） 
+- [“任何人”链接](/Office365/Enterprise/best-practices-anonymous-sharing)（可设置为需要过期） 
 - [批注中的 @提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 需要包含 Office 365 网页版或 Office 365 桌面应用的计划。
 - [文件请求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 管理默认共享链接（[在组织级别](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links)和[按每个网站](/sharepoint/change-default-sharing-link)）
