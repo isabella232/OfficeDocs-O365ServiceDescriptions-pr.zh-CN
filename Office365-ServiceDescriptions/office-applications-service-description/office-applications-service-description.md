@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一项订阅服务，可为您提供已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902021"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173897"
 ---
 # <a name="office-applications-service-description"></a>Office 应用程序服务说明
 
@@ -36,7 +36,7 @@ Office 应用程序有 32 位和 64 位版本。
   
 一些 Microsoft 365 商业版计划具有可购买订阅的加载项。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅 [购买或编辑加载项](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。<br><br>
 
-| 应用程序/功能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 专业增强版 2019 | 适用于企业的 Microsoft 365 应用 | Microsoft 365 商业应用版 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| 应用程序/功能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 专业增强版 2019 | Microsoft 365 企业应用版 | Microsoft 365 商业应用版 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Office 应用程序** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -95,7 +95,7 @@ Office 应用程序有 32 位和 64 位版本。
 <sup>2</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，但 Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 E1、Office 365 教育版或 Office 365 F3 中未包含此订阅。<br/>
 <sup>3</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，以便启用支持的 IRM 功能。<br/>
 <sup>4</sup> 如果你有 Office 2013 Professional Plus 或独立版本的 Excel 2013，可以使用 Power Map Preview for Excel 2013，这是一个不受支持的外接程序。 早期版本的 Power Map Preview 已过期，不能在任何版本的 Excel 中运行。 如果已安装早期版本，请从控制面板中卸载它，然后下载并安装 Power Map Preview 的当前版本。 此版本的功能与随 Microsoft 365 SP1 发布的 Power Map 版本相同。<br/> 
-<sup>5</sup> Skype for Business Basic 可供所有客户使用。 Skype for Business 桌面客户端是本地安装的应用程序，为包含 Skype for Business Online 的计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和 Office 365 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关特性和功能比较，请参阅[Desktop client comparison tables for Lync Server 2013。](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
+<sup>5</sup> Skype for Business Basic 可供所有客户使用。 Skype for Business 桌面客户端是本地安装的应用程序，为包含 Skype for Business Online 的计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和 Office 365 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关特性和功能比较，请参阅[Desktop client comparison tables for Lync Server 2013。](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>6</sup> 某些学校有资格享受教育增强版，其中包括 Microsoft 365 企业应用版，并允许学生和教职员工在最多五台电脑或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/>
 <sup>7</sup> Office for Mac 2011安装但不能激活。 <br/>
 <sup>8</sup> 用户专用虚拟桌面基础结构支持 8 Microsoft 365 企业应用版， (VDI) 。 通过批量许可计划购买时，Microsoft 365 企业应用版 (RDS) 远程桌面服务。<br/>

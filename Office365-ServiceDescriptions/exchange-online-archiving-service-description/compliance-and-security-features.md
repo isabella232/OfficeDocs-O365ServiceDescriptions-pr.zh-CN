@@ -10,29 +10,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-description: 阅读本文，了解 Microsoft Exchange Online 存档中提供的合规性功能。
-ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 阅读本文，了解 Microsoft Exchange Online Archiving 中提供的合规性功能。
+ms.openlocfilehash: db2a6c515e5d438dce98a9a14d880ea40c25f505
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293618"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173307"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能和安全功能
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能
 
-本文介绍了 Microsoft Exchange Online 存档的合规性功能。
+本文介绍 Microsoft Exchange Online 存档的合规性功能。
   
 ### <a name="retention-policies"></a>保留策略
 
-Exchange Online Archiving 提供了保留策略，可帮助组织减少与电子邮件和其他通信有关的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以向用户提供保留策略的菜单，并允许他们使用 Outlook 2010 或更高版本或 web 上的 Outlook 将策略应用于特定项目、对话或文件夹。 在 Exchange Online Archiving 中，管理员负责管理内部部署基础结构中的保留策略。
+Exchange Online Archiving 提供了保留策略，可帮助组织减少与电子邮件和其他通信有关的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略的菜单，让他们使用 Outlook 2010 或更高版本或 Web 上的 Outlook 将策略应用于特定项目、对话或文件夹。 在 Exchange Online Archiving 中，管理员负责管理内部部署基础结构中的保留策略。
   
 Exchange Online Archiving 提供两种策略：存档和删除。这两种策略可以应用于相同的项目或文件夹。例如，用户可以标记电子邮件以便在特定天数后自动将其移到个人存档，再过几天后将其删除。
   
-在 Outlook 2010 及更高版本和 web 上的 Outlook 中，用户可以将保留策略应用到文件夹、对话或单个邮件，还可以查看已应用的保留策略和邮件的预期删除日期。 其他电子邮件客户端的用户可根据管理员设置的服务器端保留策略删除或存档电子邮件，但他们的可见性和控制级别并不相同。
+通过 Outlook 2010 及更高版本和 Web 上的 Outlook，用户可以将保留策略应用于文件夹、对话或单个邮件，还可以查看应用的保留策略和邮件的预期删除日期。 其他电子邮件客户端的用户可根据管理员设置的服务器端保留策略删除或存档电子邮件，但他们的可见性和控制级别并不相同。
   
-Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 (SP2) 及更高版本中提供的保留策略功能相同。 管理员可以管理本地 Exchange Server 2010 及更高版本环境中的保留策略。 托管文件夹是 Exchange 2007 中引入的邮件记录管理旧方法，在 Exchange Online Archiving 中不可用且不兼容。 有关详细信息，请参阅[保留标记和保留策略](https://go.microsoft.com/fwlink/p/?LinkID=314153)。
+Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 (SP2) 及更高版本中提供的保留策略功能相同。 管理员可以管理本地 Exchange Server 2010 及更高版本环境中的保留策略。 托管文件夹是 Exchange 2007 中引入的邮件记录管理旧方法，在 Exchange Online Archiving 中不可用且不兼容。 有关详细信息，请参阅[保留标记和保留策略](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)。
   
 ### <a name="in-place-hold-and-litigation-hold"></a>就地保留和诉讼保留
 
@@ -61,26 +61,26 @@ Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010
 > [!NOTE]
 > 当您将邮箱置于就地保留或诉讼保留中时，该保留将置于主邮箱和存档邮箱中。 
   
-有关详细信息，请参阅[就地保留和诉讼保留](https://go.microsoft.com/fwlink/p/?LinkId=271746)。
+有关详细信息，请参阅[就地保留和诉讼保留](/exchange/security-and-compliance/in-place-and-litigation-holds)。
   
 > [!NOTE]
 > 对于 Exchange Online Archiving 用户，"可恢复的项目"文件夹的默认配额为 100 GB。 
   
 ### <a name="in-place-ediscovery"></a>就地电子数据展示
 
-Exchange Online Archiving 支持就地电子数据展示，可在组织中搜索邮箱内容。 通过本地 Exchange 2013 服务器中的 Exchange 管理中心或远程 Windows PowerShell，管理员或或授权的发现管理员可以搜索各种邮箱项目（包括电子邮件、附件、日历约会、任务和联系人）。 就地电子数据展示可以同时搜索主邮箱和存档。 丰富的筛选功能包括发件人、收件人、邮件类型、发送日期、接收日期、抄送、密送以及关键字查询语言 (KQL) 语法。 有关详细信息，请参阅[就地电子数据展示](https://go.microsoft.com/fwlink/p/?LinkId=314169)。
+Exchange Online Archiving 支持就地电子数据展示，可在组织中搜索邮箱内容。 通过本地 Exchange 2013 服务器中的 Exchange 管理中心或远程 Windows PowerShell，管理员或或授权的发现管理员可以搜索各种邮箱项目（包括电子邮件、附件、日历约会、任务和联系人）。 就地电子数据展示可以同时搜索主邮箱和存档。 丰富的筛选功能包括发件人、收件人、邮件类型、发送日期、接收日期、抄送、密送以及关键字查询语言 (KQL) 语法。 有关详细信息，请参阅[就地电子数据展示](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)。
   
-Exchange 管理中心和远程 Windows PowerShell 可用于在就地电子数据展示搜索中一次最多搜索 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 运行就地电子数据展示搜索，请参阅 [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170)。 
+Exchange 管理中心和远程 Windows PowerShell 可用于在就地电子数据展示搜索中一次最多搜索 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 运行就地电子数据展示搜索，请参阅 [New-MailboxSearch](/powershell/module/exchange/new-mailboxsearch)。 
   
 > [!NOTE]
-> 在远程 Windows PowerShell 中， `Search-Mailbox` cmdlet 可用于搜索超过 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 搜索大量邮箱，请参阅 [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171)。 
+> 在远程 Windows PowerShell 中， `Search-Mailbox` cmdlet 可用于搜索超过 5,000 个邮箱。若要详细了解如何使用远程 Windows PowerShell 搜索大量邮箱，请参阅 [Search-Mailbox](/powershell/module/exchange/search-mailbox)。 
   
-就地电子数据展示搜索的结果可以在 Exchange 管理中心内进行预览、导出到 .pst 文件中或复制到一种特殊类型的邮箱（即发现邮箱）中。管理员或合规部主管可以连接发现邮箱来查看邮件。有关详细信息，请参阅[创建就地电子数据展示搜索](https://go.microsoft.com/fwlink/p/?LinkId=314172)。
+就地电子数据展示搜索的结果可以在 Exchange 管理中心内进行预览、导出到 .pst 文件中或复制到一种特殊类型的邮箱（即发现邮箱）中。管理员或合规部主管可以连接发现邮箱来查看邮件。有关详细信息，请参阅[创建就地电子数据展示搜索](/microsoft-365/compliance/content-search)。
   
 > [!NOTE]
 > 在复制跨内部部署和基于云的邮箱或存档执行的就地电子数据展示搜索的搜索结果时，您必须选择一个内部部署发现邮箱。将内部部署主邮箱和基于云的存档中的邮件复制到内部部署发现邮箱。 
   
-管理员还可以搜索并删除发送到跨组织的多个邮箱的不当电子邮件。例如，如果不小心将机密的工资信息发送给了所有员工，管理员可以从用户邮箱中删除此邮件。无法 Exchange 管理中心内执行此类搜索。必须使用远程 PowerShell 执行。若要详细了解如何从用户邮箱中删除邮件，请参阅[搜索和删除邮件](https://go.microsoft.com/fwlink/p/?LinkId=314173)。
+管理员还可以搜索并删除发送到跨组织的多个邮箱的不当电子邮件。例如，如果不小心将机密的工资信息发送给了所有员工，管理员可以从用户邮箱中删除此邮件。无法 Exchange 管理中心内执行此类搜索。必须使用远程 PowerShell 执行。若要详细了解如何从用户邮箱中删除邮件，请参阅[搜索和删除邮件](/Exchange/policy-and-compliance/ediscovery/delete-messages)。
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 的安全功能
 
@@ -88,13 +88,13 @@ Exchange 管理中心和远程 Windows PowerShell 可用于在就地电子数据
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>在本地服务器和 Exchange Online Archiving 之间加密
 
-TLS 用于加密电子邮件服务器之间的连接，以帮助阻止电子诈骗并为传送中的邮件提供保密性。 TLS 还可用于将本地邮件服务器通信的安全保护到 Microsoft 数据中心以进行 Exchange Online 存档。
+TLS 用于加密电子邮件服务器之间的连接，以帮助阻止电子诈骗并为传送中的邮件提供保密性。 TLS 还用于保护本地邮件服务器到 Microsoft 数据中心的邮件服务器通信的安全，Exchange Online Archiving。
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>在客户端和 Exchange Online Archiving 之间加密
 
 到 Exchange Online Archiving 的客户端连接使用以下加密方法来提高安全性：
   
-- SSL 用于保护 Outlook、web 上的 Outlook 以及 Exchange Web 服务流量（使用 TCP 端口443）。
+- SSL 用于使用 TCP 端口 443 保护 Outlook、Web 上的 Outlook 和 Exchange Web 服务通信。
     
 - 引入 Exchange Online Archiving 并未更改到内部部署服务器的客户端连接。
     
@@ -108,28 +108,26 @@ Exchange Online Archiving 将会存储安全/多用途 Internet 邮件扩展 (S/
 
 Exchange Online Archiving 不提供托管信息权限管理 (IRM) 服务，但管理员可以使用内部部署 Active Directory 权限管理服务 (AD RMS)。如果部署了 AD RMS 服务器，则 Outlook 可以直接与此服务器通信，让用户可以撰写和读取受 IRM 保护的邮件。如果在 AD RMS 服务器和内部部署 Exchange 环境之间配置了互操作性，则用户可以撰写和读取受 IRM 保护的邮件。
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>在 Outlook 网页版中支持 IRM
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>对 Outlook 网页中的 IRM 的支持
 
-用户可以在 web 上的 Outlook 中以本机方式读取和创建受 IRM 保护的邮件，就像在 Outlook 中一样。 可以通过 Internet Explorer、Firefox、Safari 和 Chrome (访问 web 上的 Outlook 受 IRM 保护的邮件，而无需使用任何插件) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
+用户可以像在 Outlook 中一样，在 Web 上的 Outlook 中本地读取和创建受 IRM 保护的邮件。 Outlook 网页版中受 IRM 保护的邮件可通过 Internet Explorer、Firefox、Safari 和 Chrome (访问，无需任何) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
   
 #### <a name="irm-search"></a>IRM 搜索
 
-受 IRM 保护的邮件已编制索引，可以进行搜索，包括标头、主题、正文和附件。 用户可以在 Outlook 和 web 上的 Outlook 中搜索受 IRM 保护的项，管理员可以使用就地电子数据展示或 **搜索邮箱** cmdlet 搜索受 irm 保护的项。
+受 IRM 保护的邮件已编制索引，可以进行搜索，包括标头、主题、正文和附件。 用户可以在 Outlook 和 Web 上的 Outlook 中搜索受 IRM 保护的项目，管理员可以使用 In-Place 电子数据展示或 **Search-Mailbox** cmdlet 搜索受 IRM 保护的项目。
   
 ### <a name="auditing"></a>审核
 
 Exchange Online Archiving 提供两种内置审核功能：
   
-- **管理员审核日志记录** -管理员审核日志记录允许客户跟踪其管理员对 Exchange Online 存档环境所做的更改，包括对 RBAC 角色或 Exchange 策略和设置所做的更改。 
+- **管理员审核日志记录** - 管理员审核日志记录允许客户跟踪其管理员在 Exchange Online Archiving 环境中所做的更改，包括对 RBAC 角色或 Exchange 策略和设置的更改。 
     
-- **邮箱审核日志记录** -邮箱审核日志记录允许客户按邮箱所有者之外的用户跟踪对邮箱的访问。 
+- **邮箱审核日志记录** - 邮箱审核日志记录允许客户跟踪邮箱所有者外的用户对邮箱的访问。 
     
 Exchange 管理中心提供几个预定义审核报告，包括管理员角色更改、诉讼保留和非所有者邮箱访问。管理员可以按日期和角色筛选报告，用 XML 格式导出指定邮箱的所有审核事件以用于长期保留或自定义报告。
   
-管理员审核日志记录默认启用，而邮箱审核日志记录则默认禁用。管理员可以使用远程 Windows PowerShell 为组织中的部分或全部邮箱启用邮箱审核日志记录。有关详细信息，请参阅[审核报告](https://go.microsoft.com/fwlink/p/?LinkId=314175)。
+管理员审核日志记录默认启用，而邮箱审核日志记录则默认禁用。管理员可以使用远程 Windows PowerShell 为组织中的部分或全部邮箱启用邮箱审核日志记录。有关详细信息，请参阅[审核报告](/exchange/security-and-compliance/exchange-auditing-reports/exchange-auditing-reports)。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和内部部署解决方案的功能可用性，请参阅 [Exchange Online 存档服务说明](exchange-online-archiving-service-description.md)。
-  
-
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online Archiving [说明](exchange-online-archiving-service-description.md)。

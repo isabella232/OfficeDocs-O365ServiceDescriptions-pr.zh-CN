@@ -12,21 +12,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 本文介绍可用于自定义 Exchange Online 设置并将组织的 Exchange Online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
-ms.openlocfilehash: 19ec50b3f502ee111de05e1a115d17f16fec3569
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 本文介绍了可用于自定义 Exchange Online 设置并保持组织的 Exchange Online 环境正常运行和保持最新状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
+ms.openlocfilehash: 169752df12564131e4b5fb0f95b94f62273cd5ff
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132997"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173667"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 
-本文介绍可用于自定义 Exchange Online 设置并将组织的 Exchange Online 环境保持启动、运行和当前状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
+本文介绍了可用于自定义 Exchange Online 设置并保持组织的 Exchange Online 环境正常运行和保持最新状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
   
 ## <a name="self-service-administration-tools"></a>自助服务管理工具
 
-尽管 Microsoft 直接控制所有 Exchange Online 数据中心并负责整体系统性能，但它只能控制组合在一起以提供用户的总体体验的部分元素。 组织本身负责到数据中心、客户广域网 (WAN) 和客户局域网 (LAN) 的网络连接。 此外，还负责用户设备及其配置。它们也负责维护每个用户的任何所需功能需要的授权，包括但不限于管理这些功能的能力，前提是用户需要访问此功能。
+尽管 Microsoft 直接控制所有 Exchange Online 数据中心并负责整体系统性能，但它只能控制组合在一起以为用户提供总体验的部分元素。 组织本身负责到数据中心、客户广域网 (WAN) 和客户局域网 (LAN) 的网络连接。 此外，还负责用户设备及其配置。它们也负责维护每个用户的任何所需功能需要的授权，包括但不限于管理这些功能的能力，前提是用户需要访问此功能。
   
 因此，Exchange Online 为客户管理员提供了以下工具（如下所述），帮助他们管理消息传递相关的任务：
   
@@ -44,19 +44,19 @@ Microsoft Office 365 门户 ([https://portal.office.com](https://portal.office.c
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理中心
 
-Microsoft 365 管理中心是一个 web 门户，其中每个公司的服务管理员都可以管理他们订阅的每个 Microsoft 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以访问 Exchange 管理中心（EAC）的链接，在其中可以管理特定于 Exchange Online 的设置。 若要详细了解如何使用 Microsoft 365 管理中心启动和运行，请参阅以下视频： [Office 365 企业版简介](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+Microsoft 365 管理中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个 Microsoft 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以访问指向 Exchange 管理中心 (EAC) 的链接，可以在其中管理特定于 Exchange Online 的设置。 有关开始使用和运行 Microsoft 365 管理中心的信息，请参阅以下视频： [介绍 Office 365 企业版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
   
 ### <a name="exchange-admin-center"></a>Exchange 管理中心
 
 Exchange Online 提供单一的统一管理控制台，该控制台易于使用，并针对内部部署、联机部署或混合部署进行了管理优化。在 Exchange 管理中心 (EAC) 内，管理员可以管理特定于 Exchange 的相关设置。
   
-若要详细了解如何使用 EAC 管理 Exchange Online，请参阅 [Exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=271807)。
+若要详细了解如何使用 EAC 管理 Exchange Online，请参阅 [Exchange 管理中心](/exchange/exchange-admin-center)。
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Exchange Online 的远程 Windows PowerShell
 
-使用远程 Windows PowerShell，管理员可以连接到 Exchange Online，执行使用 EAC 无法执行的管理任务。这些任务包括：自动运行重复任务、从自定义报告中提取数据、自定义策略，以及将 Exchange Online 连接到现有基础结构和流程。有关详细信息，请参阅[使用远程 PowerShell 连接到 Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=308994)。
+使用远程 Windows PowerShell，管理员可以连接到 Exchange Online，执行使用 EAC 无法执行的管理任务。这些任务包括：自动运行重复任务、从自定义报告中提取数据、自定义策略，以及将 Exchange Online 连接到现有基础结构和流程。有关详细信息，请参阅[使用远程 PowerShell 连接到 Exchange Online](/powershell/exchange/connect-to-exchange-online-powershell)。
   
-Exchange Online 使用与 Exchange Server 2013 相同的 Windows PowerShell cmdlet，但某些特定的命令和参数不可用，其原因在于这些功能在 Exchange Online 中不适用。有关可与 Exchange Online 结合使用的 cmdlet 列表，请参阅 [Exchange Online cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)。
+Exchange Online 使用与 Exchange Server 2013 相同的 Windows PowerShell cmdlet，但某些特定的命令和参数不可用，其原因在于这些功能在 Exchange Online 中不适用。有关可与 Exchange Online 结合使用的 cmdlet 列表，请参阅 [Exchange Online cmdlet](/powershell/exchange/exchange-online-powershell)。
   
 管理员无需安装任何 Exchange Server 管理或迁移工具，即可使用远程 Windows PowerShell。但是，管理员的计算机必须运行 Windows Management Framework 3.0，它包含 Windows PowerShell v3、WinRM 3.0 和 Windows .NET Framework 4.5。这些组件已安装在运行 Windows 8 或 Windows Server 2012 的计算机上。管理员可针对运行 Windows 7 或 Windows Server 2008 R2 的计算机手动下载这些组件。
   
@@ -73,7 +73,7 @@ Exchange Online 支持与 Exchange Server 2013 相同的 ActiveSync 移动设备
   
 ### <a name="message-tracking-for-exchange-online"></a>Exchange Online 的邮件跟踪功能
 
-通过送达报告功能进行邮件跟踪在以下主题中进行了介绍：[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)。
+以下主题介绍了通过送达报告功能的邮件跟踪： [报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)。
   
 ### <a name="usage-reporting-for-exchange-online"></a>Exchange Online 的使用情况报告功能
 
@@ -87,11 +87,11 @@ Exchange Online 支持与 Exchange Server 2013 相同的 ActiveSync 移动设备
     
 以 "get-" 开头的远程 Windows PowerShell cmdlet 可从 Exchange Online 系统中提取数据。管理员可从 Windows PowerShell 中以 .csv 格式导出这些信息，以便进行高级分析或报告。
   
-若要详细了解可与 Exchange Online 结合使用的 Windows PowerShell cmdlet，请参阅 [Exchange Online cmdlet](https://go.microsoft.com/fwlink/p/?LinkId=271808)。
+若要详细了解可与 Exchange Online 结合使用的 Windows PowerShell cmdlet，请参阅 [Exchange Online cmdlet](/powershell/exchange/exchange-online-powershell)。
   
 ### <a name="auditing-for-exchange-online"></a>Exchange Online 的审核功能
 
-以下主题中介绍了审核日志记录功能：[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)。
+以下主题介绍了审核日志记录功能： [报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)。
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Exchange Online 的服务和产品升级
 
@@ -101,5 +101,4 @@ Microsoft 发行 Exchange 主版本后，客户最长可在 12 个月内将服�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Exchange Online 服务说明](exchange-online-service-description.md)。
-  
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。

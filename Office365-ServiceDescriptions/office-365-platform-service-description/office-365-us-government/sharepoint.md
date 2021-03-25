@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 了解美国政府云客户的 SharePoint 功能可用性。
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902017"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172927"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>适用于美国政府环境的 SharePoint
 
-本文概述了美国政府云与商业云之间的功能差异，如 [SharePoint 服务说明所列](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)。 SharePoint 可用于政府社区云 (GCC) GCC High 和 DoD 环境。 
+本文概述了美国政府云与商业云之间的功能差异，如 [SharePoint 服务说明所列](../../sharepoint-online-service-description/sharepoint-online-service-description.md)。 SharePoint 可用于政府社区云 (GCC) GCC High 和 DoD 环境。 
 
-有关政府云（包括资格和购买）详细信息，请参阅 [Microsoft 365 政府版 - 如何购买](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)。 若要比较 Office 365 政府版计划，请参阅 [Office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+有关政府云（包括资格和购买）详细信息，请参阅 [Microsoft 365 政府版 - 如何购买](./microsoft-365-government-how-to-buy.md)。 若要比较 Office 365 政府版计划，请参阅 [Office 365 政府版计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
 若要了解管理网络连接时所需的终结点，请参阅 [Office 365 美国政府版 GCC 高](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) 终结点或 Office [365 美国政府版 DoD 终结点](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
@@ -52,13 +52,13 @@ ms.locfileid: "50902017"
 - Mover.io 尚不支持
 - 多地理位置并非适用于所有政府云客户
 
-有关 FastTrack 迁移的信息，请参阅 [Office 365 美国政府版服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)。
+有关 FastTrack 迁移的信息，请参阅 [Office 365 美国政府版服务说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
 
 ## <a name="security-and-compliance-features"></a>安全性和合规性功能
 
 商业客户的安全与合规性功能与政府云客户的安全性和合规性功能之间没有已知的差异。
 
-有关安全性和合规性功能的信息，请参阅安全与& [中心](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)。
+有关安全性和合规性功能的信息，请参阅安全与& [中心](../office-365-securitycompliance-center.md)。
 
 有关 Azure Active Directory 政府版功能的信息，请参阅 [Azure 政府安全 + 标识文档](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
@@ -83,7 +83,7 @@ ms.locfileid: "50902017"
 
 ## <a name="sharing-and-sync"></a>共享和同步
 
-有关商业云和政府云环境之间的功能差异，请参阅 [文件共享](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)。
+有关商业云和政府云环境之间的功能差异，请参阅 [文件共享](./gcc-high-and-dod.md#file-sharing)。
 
 ## <a name="plan-for-governance"></a>规划治理
 

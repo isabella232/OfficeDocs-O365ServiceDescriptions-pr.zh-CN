@@ -10,21 +10,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 提供以下帮助和培训资源。
-ms.openlocfilehash: 7c34c20d9f2231f278442137f1b615be4201d4c8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Office 365 提供了以下帮助和培训资源。
+ms.openlocfilehash: 0de5b5d18f2744799db7db0595db78a27f39992b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132316"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173477"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365 提供以下帮助和培训资源。
+Microsoft Office 365 提供了以下帮助和培训资源。
   
 ## <a name="online-help"></a>联机帮助
 
-服务中的任何内联帮助链接都提供了帮助文章和视频，其中包括 Office 365 门户和 Microsoft 365 管理中心的顶部导航栏中的 "帮助" 图标。 还可以访问 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
+可从服务中任何内联帮助链接获得帮助文章和视频，包括 Office 365 门户和 Microsoft 365 管理中心的顶部导航栏中的帮助图标。 还可以访问 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
   
 ## <a name="training"></a>培训
 
@@ -45,7 +45,7 @@ Microsoft Office 365 提供以下帮助和培训资源。
 ## <a name="community"></a>社区
 
 > [!NOTE]
-> 社区资源适用于全球各种版本的 Office 365。如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)，并滚动到 QR 码的页面底部。 
+> 社区资源适用于全球各种版本的 Office 365。如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](/microsoft-365/admin/contact-support-for-business-products)，并滚动到 QR 码的页面底部。 
   
 Office 365 社区是获取自助支持信息的单个目标地址。它提供最新信息，通过支持论坛、维基百科和博客帮助客户查找各种技术、账单和服务问题的答案。支持论坛由 Microsoft 支持代理提供员工和管理。
   
@@ -91,21 +91,21 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
   
 ## <a name="manage-office-365-guidance"></a>管理 Office 365 指南
 
-大型组织的 IT 专业人员可以访问管理 Office 365 文档主页。 此页面提供了面向大型组织的复杂部署指南的链接。
+大型组织的 IT 专业人员请访问管理 Office 365 文档主页。 此页提供适用于大型组织的复杂部署指南的链接。
   
-有关详细信息，请参阅[管理 Office 365](https://docs.microsoft.com/Office365/)。
+有关详细信息，请访问管理[Office 365。](/Office365/)
   
 ## <a name="other-self-help-resources"></a>其他自助资源
 
-除了 Office 365 社区和联机帮助之外，Office 365 还包括以下自助资源：
+除了 Office 365 社区帮助和联机帮助外，Office 365 还包括以下自助资源：
   
 - **用于 Office 365 的疑难解答工具** 在你回答完与所遇问题相关的一系列小问题后，用于 Office 365 的疑难解答工具会根据你的回答提出实用工具和信息建议。若要使用此工具，请转到 Office 365 社区的 [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113)（用于 Office 365 的疑难解答工具）页面。 
     
-- **技术支持视频** 我们已根据客户最常提出的问题制作了疑难解答教学视频，但只有英文版本。现有超过 35 个视频，今后我们每周都会发布更多视频。涉及很多方面的主题，从 BlackBerry® 管理中心概述到激活和迁移目录同步。若要观看这些视频，请转到 Office 365 社区网站，然后搜索视频。建议客户通过社区门户提交视频请求。客户还可转到 [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) 和 [展示](https://go.microsoft.com/fwlink/?LinkId=272060)频道。 
+- **技术支持视频** 我们已根据客户最常提出的问题制作了疑难解答教学视频，但只有英文版本。现有超过 35 个视频，今后我们每周都会发布更多视频。涉及很多方面的主题，从 BlackBerry® 管理中心概述到激活和迁移目录同步。若要观看这些视频，请转到 Office 365 社区网站，然后搜索视频。建议客户通过社区门户提交视频请求。客户还可转到 [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) 和 [展示](../office-365-service-descriptions-technet-library.md)频道。 
     
 - **社交媒体** 在 [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061)、[Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) 和 [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) 上关注 Office 365 后，客户和合作伙伴可以学习有关 Office 365 的知识。通过这种可轻松快速了解 Office 365 的方式，客户能够聆听其他人的想法，并发布自己的意见和推文。Microsoft 技术支持人员监视与 Microsoft 相关的 Facebook 和 Twitter 活动，以帮助解答与支持相关的查询。若要查看最新 Facebook 源和推文，请转到 Office 365 社区主页底部，查看客户和合作伙伴的日常讨论。 
     
-    如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409)，并滚动到 QR 码的页面底部。 
+    如果使用的是由世纪互联运营的 Office 365，则可以使用 WeChat。请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](/microsoft-365/admin/contact-support-for-business-products)，并滚动到 QR 码的页面底部。 
     
 ## <a name="languages"></a>语言
 
@@ -113,7 +113,7 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
   
 |**语言**|**联机帮助文章**|**Wiki 和博客**|**论坛**|**技术中心**|**疑难解答工具**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|阿拉伯语  <br/> |否  <br/> |必需  <br/> |否  <br/> |否  <br/> |否  <br/> |
+|阿拉伯语  <br/> |否  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |保加利亚语  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |简体中文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |繁体中文  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -132,7 +132,7 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
 |拉脱维亚语  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |立陶宛语  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |挪威语  <br/> |是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|波兰语  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |可访问  <br/> |
+|波兰语  <br/> |是  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |
 |葡萄牙语  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |葡萄牙语（巴西）  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |罗马尼亚语  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
@@ -148,4 +148,4 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Microsoft 365 And Office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description.md)。

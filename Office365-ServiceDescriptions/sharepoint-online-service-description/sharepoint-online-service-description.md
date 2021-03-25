@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能在哪些计划中可用。
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901928"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174097"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -32,9 +32,9 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
   
 有关允许用户使用 SharePoint 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 有关 Microsoft 365 系统要求，请参阅 [Microsoft 365 和 Office 资源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
-若要了解美国政府云客户的 SharePoint 功能差异，请参阅[适用于美国政府环境的 SharePoint。](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint)
+若要了解美国政府云客户的 SharePoint 功能差异，请参阅[适用于美国政府环境的 SharePoint。](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
-## <a name="whats-new"></a>最近更新
+## <a name="whats-new"></a>新增功能
 
 有关最新发布的功能的信息，请参阅 [SharePoint 中的新增功能](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)。
   
@@ -54,7 +54,7 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 
 ## <a name="apps"></a>应用程序
 
-若要在计算机上同步 SharePoint 文件，用户可以使用适用于 Windows 或 Mac 的 [OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 同步应用。 有关同步应用中的功能可用性的信息，请参阅 [OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。 
+若要在计算机上同步 SharePoint 文件，用户可以使用适用于 Windows 或 Mac 的 [OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) 同步应用。 有关同步应用中的功能可用性的信息，请参阅 [OneDrive 服务说明](../onedrive-for-business-service-description.md)。 
 
 若要在移动设备上使用 SharePoint 网站，他们可以安装 [适用于 iOS、Android](https://products.office.com/sharepoint/mobile-app)或 Windows 的 SharePoint 移动应用。 
   
@@ -81,7 +81,7 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 
 若要详细了解 Microsoft Power Apps 和 Power Automate 的可用性，请参阅 [Power Apps and Power Automate licensing FAQs](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-若要详细了解 Microsoft Graph 的可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)。
+若要详细了解 Microsoft Graph 的可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)。
 
 ## <a name="it-admin-features"></a>IT 管理员功能
 
@@ -110,7 +110,7 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 
 有关 FastTrack 迁移服务的可用性的信息，请参阅符合条件的 [服务和计划](/fasttrack/m365-eligible-services-and-plans)。 
 
-有关与共享相关的功能的信息，请参阅 [OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
+有关与共享相关的功能的信息，请参阅 [OneDrive 服务说明](../onedrive-for-business-service-description.md)。
 
 有关 SharePoint 的管理员帮助，请参阅 [SharePoint Online 管理员](/sharepoint/sharepoint-online)。
 
@@ -127,9 +127,9 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 - [将文档库还原到上一时间点](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [病毒扫描](/office365/securitycompliance/virus-detection-in-spo)
 
-有关与共享相关的功能的信息，请参阅 [OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)。
+有关与共享相关的功能的信息，请参阅 [OneDrive 服务说明](../onedrive-for-business-service-description.md)。
 
-SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有关以下功能的可用性的信息，请参阅安全与& [服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)：
+SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有关以下功能的可用性的信息，请参阅安全与& [服务说明](../office-365-platform-service-description/office-365-securitycompliance-center.md)：
 
 - [客户密码箱](/microsoft-365/compliance/customer-lockbox-requests)
 - [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有�
 
 若要详细了解 Microsoft Power Apps 和 Power Automate 的可用性，请参阅 [Power Apps and Power Automate licensing FAQs](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-有关与共享相关的功能的信息，请参阅 [OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features)。
+有关与共享相关的功能的信息，请参阅 [OneDrive 服务说明](../onedrive-for-business-service-description.md#sharing-and-collaboration-features)。
 
 ## <a name="search-features"></a>搜索功能
 
@@ -202,6 +202,4 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有�
 - [经典搜索 (搜索中心) ](/sharepoint/manage-search-center)
 - [经典 (新式搜索模式的搜索架构) ](/sharepoint/manage-search-schema)
 
-有关 Delve 的信息，请参阅 [Microsoft 365 和 Office 365 平台服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)。 
-
-
+有关 Delve 的信息，请参阅 [Microsoft 365 和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。

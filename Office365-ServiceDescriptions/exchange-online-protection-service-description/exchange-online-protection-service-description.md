@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划列表，以及跨这些计划的功能比较。
-ms.openlocfilehash: 187ec7cee1b045a9e859e1157cddef29059cac2b
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901929"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173807"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -65,14 +65,14 @@ Microsoft Exchange Enterprise CAL with Services 提供 EOP 的电子邮件保护
 
 有关 Exchange Enterprise CAL with Services 许可的信息，请参阅 [Exchange licensing FAQs](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)。
 
-如果你有 Exchange Enterprise CAL with Services 许可证，并且你想要设置 EOP，请按照设置 [EOP 服务 中的说明进行操作](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service)。 设置步骤与设置 EOP 独立的步骤相同。
+如果你有 Exchange Enterprise CAL with Services 许可证，并且你想要设置 EOP，请按照设置 [EOP 服务 中的说明进行操作](/microsoft-365/security/office-365-security/set-up-your-eop-service)。 设置步骤与设置 EOP 独立的步骤相同。
 
 > [!NOTE]
 > Exchange Enterprise CAL with Services 的新功能同时部署为 Exchange Online，而不是独立 EOP。请注意，独立 EOP 与 Exchange Online/Exchange Enterprise CAL with Services 的部署计划可能略有不同。
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Exchange Online Protection (EOP) 的要求
 
-EOP 可以与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server） 一Microsoft Exchange Server。 有关 EOP 支持的操作系统、Web 浏览器和语言的信息，请参阅 Exchange Online Protection 中 Exchange 管理中心中的"支持的浏览器"和"支持的语言 ["部分](https://docs.microsoft.com/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)。
+EOP 可以与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server） 一Microsoft Exchange Server。 有关 EOP 支持的操作系统、Web 浏览器和语言的信息，请参阅 Exchange Online Protection 中 Exchange 管理中心中的"支持的浏览器"和"支持的语言 ["部分](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)。
 
 ## <a name="limits"></a>限制
 
@@ -100,8 +100,8 @@ EOP 可以与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server） �
 |[Quarantine](anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|是|是|是|
 |[Quarantine](anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|是|
 |[提交](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|否|是|否|
-|[Outlook 的报告消息加载项](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|是|
-|[Outlook 网页版中的垃圾邮件报告](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是|是|是|
+|[Outlook 的报告消息加载项](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|是|是|是|
+|[Outlook 网页版中的垃圾邮件报告](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是|是|是|
 |[在 Microsoft 和自己的电子邮件服务器之间路由电子邮件](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[Secure messaging with a trusted partner](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
 |[合作伙伴 IP 地址安全列表](mail-flow-eop.md#safe-listing-a-partners-ip-address)|是|是|是|
@@ -117,10 +117,10 @@ EOP 可以与任意 SMTP 邮件传输代理（如 Microsoft Exchange Server） �
 <sup>1</sup> 邮件用户被定义为"邮箱"，并且可以在 Exchange 管理中心 (EAC) 中与外部邮件联系人一起进行添加、删除或直接管理。 <br/>
 <sup>2</sup>有 RBAC 自定义项。 只有管理员角色。 <br/>
 <sup>3</sup>可在 EAC 中查看托管域和编辑域类型。 其他所有的域管理操作必须在 Microsoft 365 管理中心进行。<br/>
-<sup>4</sup>有关 EOP 中的邮件流（也称为传输规则），请参阅 [Exchange Online 保护中的邮件流规则（传输规则）](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 EOP 与 Exchange Online 之间的可用邮件流规则条件、例外和操作有所不同。 有关这些区别，请参阅 [Exchange Online 中的邮件流规则条件和异常（谓词）](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和 [Exchange Online 中的邮件流规则](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
+<sup>4</sup>有关 EOP 中的邮件流（也称为传输规则），请参阅 [Exchange Online 保护中的邮件流规则（传输规则）](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)。 EOP 与 Exchange Online 之间的可用邮件流规则条件、例外和操作有所不同。 有关这些区别，请参阅 [Exchange Online 中的邮件流规则条件和异常（谓词）](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)和 [Exchange Online 中的邮件流规则](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)。<br/>
 <sup>5</sup>EOP 审核报告是不包括邮箱信息的 Exchange Online 审核报告的子集。 <br/>
 <sup>6</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。  <br/>
-<sup>7</sup> 默认内容筛选器操作旨在将垃圾邮件移到收件人的"垃圾邮件"文件夹中。 要将此筛选器与本地 Exchange 邮箱结合使用，还需要在本地 Exchange 组织上配置两条传输规则，用于检测 EOP 添加的垃圾邮件头。 有关详细信息，请参阅配置 [独立 EOP 以将垃圾邮件发送到混合环境中垃圾邮件文件夹](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
+<sup>7</sup> 默认内容筛选器操作旨在将垃圾邮件移到收件人的"垃圾邮件"文件夹中。 要将此筛选器与本地 Exchange 邮箱结合使用，还需要在本地 Exchange 组织上配置两条传输规则，用于检测 EOP 添加的垃圾邮件头。 有关详细信息，请参阅配置 [独立 EOP 以将垃圾邮件发送到混合环境中垃圾邮件文件夹](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。 <br/>
 <sup>9</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。<br/>
 <sup>10</sup> 包括 DLP 报告。 <br/>
 <sup>12</sup> 支持购买 Azure 信息保护并使用 Exchange Online Protection 通过 Exchange Online 路由电子邮件的本地客户。 <br/>

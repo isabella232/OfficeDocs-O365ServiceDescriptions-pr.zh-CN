@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection 中的管理和管理
+title: Exchange Online Protection 中的管理
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,33 +10,32 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: 本文介绍了可用于 Microsoft Exchange Online Protection (EOP) 管理员的管理界面。
-ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 本文介绍可供 EOP 管理员Microsoft Exchange Online保护 (管理) 接口。
+ms.openlocfilehash: 997a3446a2420815b860a1ed58c4d9c5be9c04d1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293608"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173347"
 ---
-# <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection 中的管理和管理
+# <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection 中的管理
 
-本文介绍了可用于 Microsoft Exchange Online Protection (EOP) 管理员的管理界面。
+本文介绍可供 EOP 管理员Microsoft Exchange Online保护 (管理) 接口。
   
 要查找有关 EOP 所有功能的信息吗？ 请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>访问 Microsoft 365 管理中心
 
-Microsoft 365 管理中心是一个 web 门户，其中每个公司的服务管理员都可以管理他们订阅的每个 Microsoft 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以跟踪 EAC 的链接，在这里，他们可以管理特定于 EOP 的设置。
+Microsoft 365 管理中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个 Microsoft 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以跟踪指向 EAC 的链接，可以在其中管理特定于 EOP 的设置。
   
 ## <a name="access-to-the-exchange-admin-center"></a>对 Exchange 管理中心的访问权限
 
-Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用，还针对所有类型的部署进行了优化。 新推出的改进后 EAC 替代了 Forefront Online Protection for Exchange 管理中心。 EAC 通过 Exchange 产品 (Microsoft Exchange Online 和 Microsoft Exchange Server 2013) 提供了与 Microsoft 365 的紧密集成和跨 Exchange 产品的一致、无缝的 UI 体验。 有关 EAC 的详细信息，请参阅 [Exchange Online Protection 中的 Exchange 管理中心](https://go.microsoft.com/fwlink/p/?LinkId=282381)。
+Exchange 管理中心 (EAC) 是一个统一管理控制台，不仅易于使用，还针对所有类型的部署进行了优化。 新推出的改进后 EAC 替代了 Forefront Online Protection for Exchange 管理中心。 EAC 提供与 Microsoft 365 的更紧密集成，以及跨 Exchange 产品 (Microsoft Exchange Online 和 Microsoft Exchange Server 2013) 一致的无缝 UI 体验。 有关 EAC 的详细信息，请参阅 [Exchange Online Protection 中的 Exchange 管理中心](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)。
   
 ## <a name="remote-windows-powershell-access"></a>远程 Windows PowerShell 访问
 
- 管理员可以使用远程 Windows PowerShell 命令行执行管理任务。若要详细了解如何使用 Windows PowerShell（包括如何创建远程 Shell 会话以及每个 cmdlet 的相关文档），请参阅 [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266)。
+ 管理员可以使用远程 Windows PowerShell 命令行执行管理任务。若要详细了解如何使用 Windows PowerShell（包括如何创建远程 Shell 会话以及每个 cmdlet 的相关文档），请参阅 [Exchange Online PowerShell](/powershell/exchange/exchange-online-powershell)。
   
 ## <a name="feature-availability"></a>功能可用性
 
 若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
-  

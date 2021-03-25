@@ -10,41 +10,41 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: 阅读本文，了解有关 Microsoft Exchange Online Protection (EOP) 中的收件人、域和公司管理的信息。
-ms.openlocfilehash: 7be36ecbf065eb7bc1ce2c890ac84a6fea565c68
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的收件人、域和公司) 。
+ms.openlocfilehash: a01d572ce239e7d1a6c0c57814fb7494a6670f84
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294118"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173717"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Exchange Online Protection 中的收件人、域和公司管理
 
-Microsoft Exchange Online Protection (EOP) 提供了几种管理您的收件人、域和公司信息的方法。 作为管理员，您可以在 Exchange 管理中心内执行某些管理任务 (EAC) ，并验证在 Microsoft 365 管理中心中执行的其他管理任务。
+Microsoft Exchange Online Protection (EOP) 提供了几种管理收件人、域和公司信息的方式。 作为管理员，您可以在 Exchange 管理中心 (EAC) 中执行某些管理任务，并验证在 Microsoft 365 管理中心中执行的其他管理任务。
   
 要查找有关 EOP 所有功能的信息吗？ 请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 仅在 Microsoft 365 管理中心内管理的用户无法在 EAC 中查看，但可以在 EAC 的管理员角色组中的成员身份添加或删除它们。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](https://go.microsoft.com/fwlink/p/?LinkId=280011)。
+邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 在 EAC 中无法查看仅在 Microsoft 365 管理中心中管理的用户，但可以在 EAC 的管理员角色组成员身份中添加或删除这些用户。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](/microsoft-365/security/office-365-security/manage-recipients-in-eop)。
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-在 EOP 中，只能配置管理角色。在 EAC 中，可以将用户直接添加到默认管理员角色组中，也可以直接从中删除。无可用 RBAC 自定义项。有关详细信息，请参阅[管理 EOP 中的管理员角色组权限](https://go.microsoft.com/fwlink/p/?LinkId=282238)。
+在 EOP 中，只能配置管理角色。在 EAC 中，可以将用户直接添加到默认管理员角色组中，也可以直接从中删除。无可用 RBAC 自定义项。有关详细信息，请参阅[管理 EOP 中的管理员角色组权限](/microsoft-365/security/office-365-security/manage-admin-role-group-permissions-in-eop)。
   
 ## <a name="domain-management"></a>域管理
 
-托管域是指受 EOP 保护的域。 可以在 EAC 中查看托管域并编辑域类型。 域设置和管理在 Microsoft 365 管理中心发生，并且更改在 EAC 中反映出来。 有关详细信息，请参阅[查看或编辑 EOP 中的托管域](https://go.microsoft.com/fwlink/p/?LinkId=282239)。
+托管域是指受 EOP 保护的域。 可以在 EAC 中查看托管域并编辑域类型。 域设置和管理发生在 Microsoft 365 管理中心中，更改会反映在 EAC 中。 有关详细信息，请参阅[查看或编辑 EOP 中的托管域](/microsoft-365/security/office-365-security/exchange-online-protection-overview)。
   
 ## <a name="match-subdomains"></a>Match subdomains
 
-在 EOP 中，可以启用流向托管域的子域的邮件流。有关详细信息，请参阅[在 EOP 中为子域启用电子邮件流](https://go.microsoft.com/fwlink/p/?LinkId=397213)。 
+在 EOP 中，可以启用流向托管域的子域的邮件流。有关详细信息，请参阅[在 EOP 中为子域启用电子邮件流](/microsoft-365/security/office-365-security/mail-flow-in-eop)。 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>基于目录的边缘阻止 (DBEB)
 
-通过基于目录的边缘阻止功能，您可以在服务网络外围拒绝发送至无效收件人的邮件。 DBEB 允许管理员将已启用邮件的收件人添加到 Microsoft，并阻止发送到 Microsoft 中不存在的电子邮件地址的所有邮件。 如果将邮件发送到 Microsoft 中存在的有效电子邮件地址，则邮件将继续执行 (反恶意软件、反垃圾邮件、传输规则) 的服务筛选层的其余部分。 如果地址不存在，服务甚至会在进行筛选之前阻止邮件，并向发件人发送未送达报告 (NDR) 以通知其邮件未送达。 
+通过基于目录的边缘阻止功能，您可以在服务网络外围拒绝发送至无效收件人的邮件。 DBEB 允许管理员向 Microsoft 添加启用邮件的收件人并阻止发送到 Microsoft 中不存在的电子邮件地址的所有邮件。 如果将邮件发送到 Microsoft 中提供的有效电子邮件地址，该邮件将继续通过反恶意软件、反垃圾邮件、传输规则 (其他服务筛选) 。 如果地址不存在，服务甚至会在进行筛选之前阻止邮件，并向发件人发送未送达报告 (NDR) 以通知其邮件未送达。 
   
-必须执行一些用户和域配置，才能启用 DBEB。有关详细信息，请参阅[使用基于目录的边缘阻止拒绝发送给无效收件人的邮件](https://go.microsoft.com/fwlink/p/?LinkId=390676)。
+必须执行一些用户和域配置，才能启用 DBEB。有关详细信息，请参阅[使用基于目录的边缘阻止拒绝发送给无效收件人的邮件](/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)。
   
 ## <a name="feature-availability"></a>功能可用性
 

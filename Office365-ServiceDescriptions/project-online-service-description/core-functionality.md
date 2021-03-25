@@ -10,17 +10,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Project Online 中提供了以下核心功能功能。
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: 以下核心功能功能在 Project Online 中可用。
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411581"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172707"
 ---
 # <a name="core-functionality"></a>核心功能
 
-Project Online 中提供了以下核心功能功能。
+以下核心功能功能在 Project Online 中可用。
   
 寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
@@ -30,11 +30,11 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="backstage"></a>Backstage
 
-选择 " **文件** " 以使用 Backstage 中的功能，您可以在其中管理项目文件以及有关这些功能的数据。 使用 Backstage 进行针对项目文件执行而不在文件中执行的所有操作 - 创建、保存、检查隐藏的元数据或个人信息以及设置选项。 
+选择 **"** 文件"以使用 Backstage 中的功能，您可以在其中管理项目文件及其数据。 使用 Backstage 进行针对项目文件执行而不在文件中执行的所有操作 - 创建、保存、检查隐藏的元数据或个人信息以及设置选项。 
   
 ## <a name="click-to-run"></a>即点即用
 
-通过 internet、内部网络、本地文件系统或离线媒体快速安装 Project Online，以确保您可以使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](https://go.microsoft.com/fwlink/p/?LinkId=271596)。
+通过 Internet、内部网络、本地文件系统或脱机媒体快速安装 Project Online，以确保使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
   
 ## <a name="contextual-right-click-menus"></a>上下文右键单击菜单
 
@@ -50,15 +50,15 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
-使用甘特图、网络图、图表、工作表、使用情况和窗体视图以图形方式显示项目信息。 请参阅[选择合适的项目日程视图](https://go.microsoft.com/fwlink/?LinkId=402905)。
+使用视图、网络图甘特图图表、图表、工作表、使用情况和表单视图以图形方式显示项目信息。 请参阅[选择合适的项目日程视图](https://go.microsoft.com/fwlink/?LinkId=402905)。
   
-## <a name="user-interface-the-ribbon"></a>用户界面（功能区）
+## <a name="user-interface-the-ribbon"></a>用户界面，功能区
 
 利用功能区（即选项卡界面）可以快速查找并使用 Project 功能和控件，从而提高工作效率。
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-您可以使用 "撤消" 菜单同时撤消多个更改。
+您可以使用"撤消"菜单同时撤消多个更改。
   
 ## <a name="network-diagram-view"></a>网络图视图
 
@@ -70,11 +70,11 @@ Project Online 中提供了以下核心功能功能。
   
 ## <a name="online-help"></a>联机帮助
 
-Project 帮助可在 Office.com 中使用，也可在 project (中直接入门指南中选择 " **文件**" \> **新建**) 。 [观看这些视频，使其切换到项目 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325)。
+Project 帮助可在以下位置 Office.com 或 Project 中直接在"入门指南" (" **文件** \> **""** 新建) "。 [观看这些视频以切换到 Project 2013。](https://go.microsoft.com/fwlink/p/?LinkId=271325)
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-将项目文件另存为 PDF 或 XPS 文件。 请参阅[将项目文件另存为 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
+将 Project 文件另存为 PDF 或 XPS 文件。 请参阅[将项目文件另存为 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 

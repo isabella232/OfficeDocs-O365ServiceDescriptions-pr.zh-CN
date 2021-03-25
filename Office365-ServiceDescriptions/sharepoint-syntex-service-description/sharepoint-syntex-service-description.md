@@ -6,31 +6,31 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动化内容处理以及将内容转换为知识。
-ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
-ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
+description: Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动执行内容处理以及将内容转换为知识。
+ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "50084725"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174087"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服务说明 
 
-Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动化内容处理以及将内容转换为知识。
+Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动执行内容处理以及将内容转换为知识。
 
-在 SharePoint 上构建的 Syntex 可提供高容量内容处理的高级功能、提取元数据实现流程自动化，以及改进安全性和合规性。 它基于 Microsoft 搜索的智能构建，并包含 [指向 Microsoft Graph 连接器的链接](/microsoftsearch/connectors-overview)。
+Syntex 构建于 SharePoint 上，可提供高容量内容处理的高级功能、提取元数据以便实现进程自动化，以及提高安全性和合规性。 它基于 Microsoft 搜索的智能，并包含指向 [Microsoft Graph 连接器的链接](/microsoftsearch/connectors-overview)。
 
-有关详细概述和其他产品详细信息，请参阅 [SharePoint 合成产品页面](https://aka.ms/sharepointsyntex)。
+有关详细概述和其他产品详细信息，请参阅 [SharePoint Syntex 产品页](https://aka.ms/sharepointsyntex)。
 
 ## <a name="available-plans"></a>可用计划
 
-通过多个订阅计划提供联合，以最好地满足组织的需求。 每个计划都提供一组相同的功能
+通过多个订阅计划提供 Syntex，以最好地满足组织的需求。 每个计划都提供一组相同的功能
 
 用户必须具有有效的 Office 365、Microsoft 365 或 SharePoint Online 许可证，才能将 Syntex 与 Syntex 许可证一同使用。
 
-对于 Microsoft PowerApps AI Builder 表单处理，拥有 300 个或多个 Syntex 许可用户的租户每月将收到 1M AI Builder 信用额度，以及访问 Microsoft Dataverse。 这些信用按租户而不是按用户分配，因此不会随着用户数量的增加而扩展。
+对于 Microsoft PowerApps AI Builder 表单处理，拥有 300 个或多个 Syntex 许可用户的租户每月将收到 1M AI Builder 信用额度，以及访问 Microsoft Dataverse。 这些信用按租户而不是按用户分配，因此不会随着用户数量的增加而缩放。
 
-下表显示了可以将 Syntex 添加到的计划。 有关其他计划详细信息，请参阅 [Microsoft 365 和 Office 365 计划选项](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。<br><br>
+下表显示了可以添加 Syntex 的计划。 有关其他计划的详细信息，请参阅 [Microsoft 365 和 Office 365 计划选项](../office-365-platform-service-description/office-365-plan-options.md)。<br><br>
 
 
 | 小型企业计划            | 企业版计划         | 教育计划     |
@@ -49,7 +49,7 @@ Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算�
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划提供的主要 Syntex 功能。 有一些注意事项适用。 此表可能会更改，无需通知。 有关最新、完整的功能列表，请参阅 [SharePoint 整合计划和定价页](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。<br><br>
+下表列出了跨计划提供的主要 Syntex 功能。 有一些注意事项适用。 此表可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅 [SharePoint 整合计划和定价页面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。<br><br>
 
 | 功能 | 小型企业计划 | 企业版计划 | 教育计划 |
 |--|--|--|--|
@@ -60,19 +60,19 @@ Microsoft 365 中的 SharePoint Syntex 使用高级人工智能 (AI) 和计算�
 | [Microsoft Graph 内容连接器](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | 是 | 是 | 是 |
 | [高级分类服务](sharepoint-syntex-features.md#advanced-taxonomy-services) | 是 | 是 | 是 |
 
-## <a name="learn-more"></a>了解更多
+## <a name="learn-more"></a>了解详细信息
 
-有关 Syntex 的信息，请查看以下资源：
+有关 Syntex 详细信息，请查看以下资源：
 
-  - 若要开始规划合成部署，请访问 Microsoft 技术社区资源中心的 [SharePoint](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) 合成页面。
+  - 若要开始规划合成部署，请访问 Microsoft 技术社区资源中心中的 ["SharePoint](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) 合成"页。
 
-  - 若要了解有关 Syntex 及其使用方法的信息，请参阅 [SharePoint 合成产品文档](/microsoft-365/contentunderstanding/)。
+  - 若要了解有关 Syntex 及其使用方法的信息，请参阅 [SharePoint Syntex 产品文档](/microsoft-365/contentunderstanding/)。
 
-  - 若要随时了解 Syntex 特性和功能，请访问我们的 Microsoft [365 博客](https://go.microsoft.com/fwlink/?linkid=2084915)。
+  - 若要了解合成特性和功能，请访问 [我们的 Microsoft 365 博客](https://go.microsoft.com/fwlink/?linkid=2084915)。
 
 ### <a name="licensing-terms"></a>许可条款
 
-Syntex 作为基于用户的 Microsoft 365 计划加载项提供。 若要注册免费试用版或购买 Syntex，请访问 [SharePoint 合成产品页面](https://aka.ms/sharepointsyntex)。
+Syntex 作为 Microsoft 365 计划的基于用户的加载项提供。 若要注册免费试用版或购买 Syntex，请访问 [SharePoint Syntex 产品页面](https://aka.ms/sharepointsyntex)。
 
 有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。
 
@@ -82,4 +82,4 @@ Syntex 作为基于用户的 Microsoft 365 计划加载项提供。 若要注册
 
 ### <a name="accessibility"></a>辅助功能
 
-Microsoft 始终致力于确保数据的安全性以及 [我们服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft [信任](https://www.microsoft.com/trust-center) 中心和 Office [辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft [信任中心和](https://www.microsoft.com/trust-center) Office [辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

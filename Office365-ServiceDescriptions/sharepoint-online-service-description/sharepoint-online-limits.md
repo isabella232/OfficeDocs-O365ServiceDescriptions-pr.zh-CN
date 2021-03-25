@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726757"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172607"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -72,7 +72,7 @@ ms.locfileid: "50726757"
 用户可以属于每个网站集或网站集 (5，000) 组，并且每个组最多具有 5，000 个用户。 每个网站集可包含最多 10，000 个 (组) 。
 
 > [!NOTE]
-> 有关 Azure AD 组限制，请参阅 [Azure AD 服务](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 限制和限制，因为此类限制可能会影响公共和专用组网站成员身份管理。
+> 有关 Azure AD 组限制，请参阅 [Azure AD 服务](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) 限制和限制，因为此类限制可能会影响公共和专用组网站成员身份管理。
 
 ### <a name="managed-metadata"></a>托管元数据
 
@@ -87,7 +87,7 @@ ms.locfileid: "50726757"
 每个网站集 2，000 (2，000) 。 我们建议创建网站，将它们组织到中心，而不是创建子网站。 如果使用子网站，我们建议限制其数量， (高度密集网站) 。
 
 > [!NOTE]
-> 你的组织限制为 2，000 个中心网站。 你可能不需要每个功能的中心网站，并且创建中心之前进行一些规划很重要。 有关详细信息，请访问规划 [SharePoint 中心网站](https://docs.microsoft.com/sharepoint/planning-hub-sites)。
+> 你的组织限制为 2，000 个中心网站。 你可能不需要每个功能的中心网站，并且创建中心之前进行一些规划很重要。 有关详细信息，请访问规划 [SharePoint 中心网站](/sharepoint/planning-hub-sites)。
 
 ### <a name="sharepoint-hosted-applications"></a>SharePoint 托管的应用程序
 
@@ -98,8 +98,8 @@ ms.locfileid: "50726757"
 每个网站集 200 万个。
 
 > [!NOTE]
-> 可以邀请到 SharePoint 网站的来宾数量没有明显限制。 有关外部共享的信息，请参阅外部 [共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)。
+> 可以邀请到 SharePoint 网站的来宾数量没有明显限制。 有关外部共享的信息，请参阅外部 [共享概述](/sharepoint/external-sharing-overview)。
 
 ## <a name="see-also"></a>另请参阅
 
-[SharePoint 的搜索限制](https://docs.microsoft.com/sharepoint/search-limits)
+[SharePoint 的搜索限制](/sharepoint/search-limits)

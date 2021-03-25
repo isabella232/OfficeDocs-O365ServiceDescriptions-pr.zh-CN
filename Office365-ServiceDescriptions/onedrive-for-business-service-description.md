@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901947"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172727"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -85,7 +85,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 > [!NOTE]
 > 必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。 
   
-如果需要为用户提供超过初始 5 TB 的云存储空间，管理员可以[通过 Microsoft 技术支持打开事例](https://go.microsoft.com/fwlink/?linkid=869559)以申请额外的存储空间。 额外云存储空间的授予方式如下： 
+如果需要为用户提供超过初始 5 TB 的云存储空间，管理员可以[通过 Microsoft 技术支持打开事例](/microsoft-365/admin/contact-support-for-business-products)以申请额外的存储空间。 额外云存储空间的授予方式如下： 
   
 - 如果用户已使用 5TB 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive 中的默认存储空间增加到每用户 25 TB（如有需要，管理员可以设置更低的每用户存储空间限制）。 
     
@@ -101,7 +101,7 @@ OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个�
   
 ## <a name="onedrive-limits"></a>OneDrive 限制
 
-要了解文件和同步限制，请参阅 [SharePoint 限制](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)和[无效的文件名称和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+要了解文件和同步限制，请参阅 [SharePoint 限制](./sharepoint-online-service-description/sharepoint-online-limits.md)和[无效的文件名称和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
   
 请注意，对于单个用户包含无限云存储空间的计划，非存储功能可能会有限制。 
 
@@ -185,5 +185,4 @@ OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个�
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT 管理、安全性和合规性功能
 
-要了解这些功能，请参阅 [SharePoint 服务说明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features)。
-
+要了解这些功能，请参阅 [SharePoint 服务说明](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features)。
