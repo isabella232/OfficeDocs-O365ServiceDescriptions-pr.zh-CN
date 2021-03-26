@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online 是一种灵活的联机解决方案，用于 PPM (和日常工作) 项目组合管理。 Project Online 通过 Office 365 提供强大的项目管理功能，几乎从任何位置在任何设备上规划、确定项目和项目组合投资优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172677"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215805"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -57,7 +57,7 @@ Project Online 的团队成员功能通过 Project Online Essentials 或 Project
 - 提交时间表
 - 共享文档并与 Microsoft Teams 或 Skype for Business 用户协作
 
-Project Online Essentials 不包括 Project 网页版。 项目计划 1 包括 Project 网页。
+Project Online Essentials 不包括 Project 网页版。 项目计划 1 包括 Project 网页版和 Project Online Essentials。
 
 ### <a name="project-online-desktop-client"></a>Project Online 桌面客户端
 
@@ -128,7 +128,7 @@ Microsoft Project 通过三个不同的订阅提供，以最好地满足组织�
 
 ### <a name="project-online-features"></a>Project Online 功能
 
-本节中列出的功能仅与 Project Online SharePoint 数据存储中的数据进行交互。<br><br>
+本节中列出的功能仅与 Project Online SharePoint 数据存储中的数据进行交互。 具有 Project Online Essentials 或 Project Plan 1 订阅的团队成员可以执行一些 Project Online 功能。 有关详细信息，请参阅 [Microsoft Project 服务说明 - 服务|Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)。<br><br>
 
 |功能 | 说明 | 项目计划 3 | 项目计划 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -235,7 +235,7 @@ Microsoft Project 通过三个不同的订阅提供，以最好地满足组织�
 |Out-of-box reporting | 使用预建报表了解项目、计划、项目组合和资源数据。 |
 |PDF and XPS output | 将 Project 文件另存为 PDF 或 XPS 文件。 |
 |**可用性**||
-|Auto-complete | 在键入时获取任务或资源名称和依赖项的建议。 |
+|自动完成 | 在键入时获取任务或资源名称和依赖项的建议。 |
 |筛选的视图 | 按计划中的任意值筛选项目计划 |
 |图形指示器 | 使用图形指示器了解任务状态、工作分配等。 |
 |多级撤消 | 使用"撤消"菜单同时撤消 **多个** 更改。 |

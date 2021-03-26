@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: 获取有关 Exchange Online Protection 的功能和要求的信息。 其中包括提供 Exchange Online Protection 的计划列表，以及跨这些计划的功能比较。
-ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173807"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215775"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection 服务说明
 
@@ -34,7 +34,7 @@ Microsoft Exchange Online Protection (EOP) 是基于云的电子邮件筛选服�
 
 ## <a name="available-plans"></a>可用计划
 
-有关允许用户使用 Exchange Online Protection 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+有关允许用户使用 Exchange Online Protection 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 若要购买 Exchange Online Protection，请参阅 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
 

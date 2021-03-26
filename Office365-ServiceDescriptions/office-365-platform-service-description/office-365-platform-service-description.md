@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 和 Office 365 可用于各种计划，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括 Exchange Online 计划，本文将介绍每个计划中包含的功能。
-ms.openlocfilehash: f94076fc71861bc797b9b67bfd9dca670db1f22f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 219bda9792a2b3c0fd8941b6ed4949f84a514ff9
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174007"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215851"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -26,7 +26,7 @@ Microsoft 365 和 Office 365 可用于各种计划，以最好地满足组织的
   
 Microsoft 365 和 Office 365 为各种规模的企业提供了云生产力功能，帮助节省时间、金钱并释放有价值的资源。 Microsoft 365 和 Office 365 计划将熟悉的 Microsoft Office 桌面套件与 Microsoft 的下一代通信和协作服务（包括 Microsoft Exchange Online、Microsoft SharePoint Online、Office 网页版和 Microsoft Skype for Business Online）的基于云的版本相结合，帮助用户从几乎任何位置通过 Internet 提高工作效率。
   
-有关允许用户使用 Microsoft 365 和 Office 365 平台的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 有关功能的详细列表，请参阅 [Microsoft 365 和 Office 365 服务说明下的相关服务说明](../office-365-service-descriptions-technet-library.md)。
+有关允许用户使用 Microsoft 365 和 Office 365 平台的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关功能的详细列表，请参阅 [Microsoft 365 和 Office 365 服务说明下的相关服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     

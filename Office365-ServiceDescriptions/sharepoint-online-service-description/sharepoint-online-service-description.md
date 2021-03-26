@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能在哪些计划中可用。
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174097"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215735"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -30,7 +30,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 有关快速概述，请参阅 [什么是 SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-有关允许用户使用 SharePoint 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。 有关 Microsoft 365 系统要求，请参阅 [Microsoft 365 和 Office 资源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
+有关允许用户使用 SharePoint 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关 Microsoft 365 系统要求，请参阅 [Microsoft 365 和 Office 资源](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)。
 
 若要了解美国政府云客户的 SharePoint 功能差异，请参阅[适用于美国政府环境的 SharePoint。](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
@@ -81,7 +81,7 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 
 若要详细了解 Microsoft Power Apps 和 Power Automate 的可用性，请参阅 [Power Apps and Power Automate licensing FAQs](/power-platform/admin/powerapps-flow-licensing-faq)。
 
-若要详细了解 Microsoft Graph 的可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)。
+若要详细了解 Microsoft Graph 的可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
 
 ## <a name="it-admin-features"></a>IT 管理员功能
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 了解美国政府云客户的 SharePoint 功能可用性。
-ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 69900e2da0040882992677f7db764033ff01308d
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172927"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215785"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>适用于美国政府环境的 SharePoint
 
@@ -79,7 +79,7 @@ ms.locfileid: "51172927"
 
 以下是商业客户搜索功能与政府云客户搜索功能之间的差异：
 
-- Microsoft 搜索集成不可用。
+- Microsoft 搜索在 GCC 中不可用。
 
 ## <a name="sharing-and-sync"></a>共享和同步
 

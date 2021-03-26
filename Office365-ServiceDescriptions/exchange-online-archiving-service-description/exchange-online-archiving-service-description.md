@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 阅读本文以了解 Microsoft Exchange Online Archiving。
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173367"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215765"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -30,7 +30,7 @@ Microsoft Exchange Online Archiving 是一种基于 Microsoft 365 云的企业�
   
 ## <a name="available-plans"></a>可用计划
 
-有关允许用户进行订阅订阅的详细计划Exchange Online Archiving，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+有关允许用户进行订阅订阅的详细计划Exchange Online Archiving，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 > [!TIP]
 > 可以在服务说明中导出、保存和打印页面。 了解如何导出 [内容搜索结果](/office365/securitycompliance/export-search-results)。 

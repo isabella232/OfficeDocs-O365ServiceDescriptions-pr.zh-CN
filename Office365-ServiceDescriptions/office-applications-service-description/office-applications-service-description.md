@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一项订阅服务，可为您提供已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173897"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215755"
 ---
 # <a name="office-applications-service-description"></a>Office 应用程序服务说明
 
@@ -28,7 +28,7 @@ Microsoft 365 是一项订阅服务，可为您提供已熟悉的最新版本的
   
 Office 应用程序有 32 位和 64 位版本。
   
-有关为用户启用 Office 应用程序服务说明的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+有关为用户启用 Office 应用程序服务说明的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="feature-availability-across-plans"></a>跨计划的功能可用性
 
