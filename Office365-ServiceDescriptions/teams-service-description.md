@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解 Microsoft 365 和 Office 365 计划中的 Microsoft Teams 服务和功能可用性。
-ms.openlocfilehash: 59eaee9a36eaff8dd79d5ff9690bf04e966f3dfe
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215725"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484855"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -50,15 +50,14 @@ Microsoft Teams 不作为独立服务提供。
 |屏幕共享 PowerPoint 音频/视频桌面 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
 |音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|应用、聊天机器人&连接器  <br/> |是  <br/> |是  <br/> |是<sup>5</sup>  <br/> |是<sup>5</sup>  <br/> |是<sup>4，5</sup>  <br/> |是  <br/> |
-|直播活动  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>6</sup>  <br/> |否<sup>6</sup>  <br/> |是  <br/> |
+|应用、聊天机器人&连接器  <br/> |是  <br/> |是  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是<sup>4</sup>  <br/> |是  <br/> |
+|实时事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>5</sup>  <br/> |否<sup>5</sup>  <br/> |是  <br/> |
 
 <sup>1 Microsoft</sup> Teams GCC-High DOD 支持单个团队中的 2500 个成员。<br/>
 <sup>2</sup> Microsoft Planner 当前不可在私人频道中访问。<br/>
 <sup>3</sup> 必须配置直接路由，Microsoft Teams 语音和音频会议在 GCCH 和 DoD 中工作。<br/>
-<sup>4</sup> Microsoft OneNote 在 DOD 云中不可用。<br/>
-<sup>5</sup> 目前，第三方应用程序和应用程序发布在这些云中不可用。<br/>
-<sup>6</sup> Live Events is not available in GCC-High or DOD at this time.<br/>
+<sup>4</sup> 目前，第三方应用程序和应用程序发布在这些云中不可用。<br/>
+<sup>5</sup> Live Events is not available in GCC-High or DOD at this time.<br/>
 
 ### <a name="cloud-voice-features"></a>云语音功能
 
@@ -68,7 +67,7 @@ Microsoft Teams 不作为独立服务提供。
 
 Office 365 中的此产品/服务取代了已停用的 Skype 会议直播。 实时事件功能可用于 Stream 服务中详述的许可计划。 有关详细信息，请查看 Microsoft [Stream 许可概述](/stream/license-overview)。 可通过 Stream、Yammer 或 Microsoft Teams 访问实时事件服务。 若要详细了解实时事件功能，请参阅 Yammer、Microsoft Teams 和 Microsoft Stream 中跨 [Microsoft 365 实时事件](/stream/live-event-m365)。
 
-## <a name="learn-more"></a>了解详细信息
+## <a name="learn-more"></a>了解更多
 
 有关 Teams 详细信息，请查看以下资源：
  

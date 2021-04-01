@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172607"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484775"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -29,7 +29,7 @@ ms.locfileid: "51172607"
 |每个 (网站集) 网站集  <br/> |200 万<sup>6</sup> <br/> |200 万<sup>6</sup> <br/> |200 万<br/> |
 |用户数  <br/> |最多 300 个  <br/> |1- 500，000<sup>7</sup> <br/> |1- 500，000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Learn how to find the total and available storage for your organization](/sharepoint/manage-site-collection-storage-limits). 您可以购买无限量的额外 SharePoint 存储。 请参阅 [更改订阅的存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
+<sup>1</sup> [Learn how to find the total and available storage for your organization](/sharepoint/manage-site-collection-storage-limits). 您可以购买无限量的额外 SharePoint 存储。 请参阅 [为订阅添加存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
 <br/><sup>2</sup> 我们建议监视回收站并定期清空回收站。 它使用的存储空间是组织的总存储空间上限的一部分。 
 <br/> <sup>3</sup> 如果你有 Microsoft 365 订阅和 Office 365 额外文件存储加载项，则添加存储量。 
 <br/> <sup>4</sup> 这是单个网站 *集的存储 (* 以前称为"网站集") ，而不是每个 *网站提供* 的存储量。 此限制适用于所有类型的网站，包括 Office 365 组连接的团队网站和 OneDrive。 SharePoint 管理员可以手动 [设置较低的存储限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 

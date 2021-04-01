@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 商业高级版是一个集成解决方案，将一流的工作效率与高级安全和设备管理功能汇集在一起，以帮助保护你的业务。 此服务说明介绍了计划选项和功能。
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173537"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484815"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 商业高级版服务说明
 
@@ -43,7 +43,7 @@ Microsoft 365 商业高级版基本上包括 Microsoft 365 商业标准版中提
 |Microsoft Stream  <br/> |是<sup>6</sup>  <br/> |是<sup>6</sup>  <br/> |
 |[Microsoft 365 管理](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |
 |Azure AD Connect 同步工具<br/> |是  <br/> |是  <br/> |
-|共享计算机激活 <br/> |否 <br/> |是  <br/> |
+|[共享计算机激活](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |否 <br/> |是  <br/> |
 |[邮件策略和合规性](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 商业标准版** <br/> |**Microsoft 365 商业高级版** <br/> |
 |基于 Exchange Online 的邮箱的长期存档  <br/> |否  <br/> |是<sup>3</sup> <br/> |
 |Azure 信息保护计划 1 |否 <br/>|是<sup>2</sup> </br>|

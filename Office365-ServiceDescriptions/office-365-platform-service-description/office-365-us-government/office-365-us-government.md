@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了 Office 365 美国政府版计划 (或 Office 365 政府版) 。 本文概述了特定于 Office 365 美国政府版环境的功能。
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172957"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484825"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -348,7 +348,7 @@ Office 365 美国政府版客户可以使用 Azure Government ExpressRoute 服�
 |Office 遥测|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |客户端应用程序的脱机支持|否|是|是|否|
 |优化并排客户端安装|否|是|是|否|
-|Power Map for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
+|Power Map for Excel|否|否|否|否|
 |Power Pivot for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |Power Query for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |Power View for Excel|否|是<sup>4</sup>|是<sup>4</sup>|否|
