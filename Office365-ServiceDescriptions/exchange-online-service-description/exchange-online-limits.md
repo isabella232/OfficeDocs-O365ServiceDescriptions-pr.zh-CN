@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173707"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484835"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -321,7 +321,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 ### <a name="receiving-limits"></a>接收限制
 
-接收限制应用于用户、组或公用文件夹每小时可以接收的邮件数。 这适用于从 Internet 和本地服务器接收的邮件。 超出接收限制时，只要有电子邮件发送到此邮箱，都会收到未送达报告，指出邮箱已超出最大发送阈值。 一个小时后，限制会进行刷新，邮箱将能够再次接收邮件。
+接收限制应用于用户、组或公用文件夹每小时可以 *从任何和所有来源* 接收的邮件数。 这包括来自内部发件人的消息、来自Internet 的消息和来自本地服务器的消息。 当邮箱超过接收限制时，发送到邮箱的邮件将在未送达报告（也称为 NDR 或退回邮件）中返回给发件人，说明邮箱已超过最大送达阈值。 一个小时后，限制会进行刷新，邮箱将能够再次接收邮件。
 
 | 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业版标准版 Office | Office 365 企业版 E1 | Office 365 企业版 E3 | Office 365 企业版 E5 | Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -369,7 +369,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |收件人速率限制|无限制<sup>1</sup>|每天 10，000 个收件人<sup>2</sup>|每天 10，000 个收件人<sup>2</sup>|每天 10，000 个收件人<sup>2</sup>|
 |收件人限制|1000 个收件人<sup>1</sup>|1000 个收件人|1000 个收件人|1000 个收件人|
 |收件人代理服务器地址限制|400|400|400|400|
-|邮件速率限制|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|
+|邮件速率限制|无限制|每分钟 30 封邮件|每分钟 30 封邮件|每分钟 30 封邮件|
 
 > [!NOTE]
 > <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。 管理员可以为其组织更改此值。<br/>
