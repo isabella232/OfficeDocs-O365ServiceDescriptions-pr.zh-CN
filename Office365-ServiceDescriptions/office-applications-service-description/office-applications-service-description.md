@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一项订阅服务，可为您提供已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215755"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599054"
 ---
 # <a name="office-applications-service-description"></a>Office 应用程序服务说明
 
@@ -81,7 +81,7 @@ Office 应用程序有 32 位和 64 位版本。
 |Power Query for Excel  <br/> |否<sup>14</sup>  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Power View for Excel  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |漫游设置  <br/> |是  <br/> |是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
-|共享计算机激活  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
+|[共享计算机激活](/DeployOffice/overview-shared-computer-activation)  <br/> |否  <br/> |否  <br/> |否  <br/>|是  <br/> |否  <br/> |否  <br/> |否  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |支持阻止基于云的文件存储  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/>|是  <br/> |否  <br/> |否  <br/> |是 <br/> |否  <br/> |否  <br/> |是  <br/> |否  <br/> |
 |点击可查找并重复使用内容  <br/> |否  <br/> |否  <br/> |否  <br/>|否  <br/> |否  <br/> |否  <br/> |是  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |版本升级  <br/> |否  <br/> |否  <br/>|否  <br/> |是  <br/> |是  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |

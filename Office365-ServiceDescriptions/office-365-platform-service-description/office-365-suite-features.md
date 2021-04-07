@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 Web 的工具集合，可帮助你跨多个设备和多个 Office 365 服务安全地协作和进行通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173977"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599044"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -25,12 +25,6 @@ ms.locfileid: "51173977"
 ## <a name="delve"></a>Delve
 
 Delve 允许用户基于个性化见解在 Microsoft 365 中搜索和发现内容。 Delve 是首个由 Office Graph 提供电源的体验。 若要了解有关 Delve 的更多信息，请转到[什么是 Delve？。](https://go.microsoft.com/fwlink/?LinkId=511463)
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft Bookings 是一款在线和移动应用，适用于希望为客户提供约会服务的企业。 此类企业的示例包括发夹店、社区办公室、spas、法律公司、金融服务提供商、顾问、医疗保健机构、教育机构和汽车店。 拥有 Microsoft 365 商业版订阅的美国和加拿大客户可以使用 Microsoft Bookings。
-  
-有关 Microsoft Bookings 的信息，请转到使用 [Microsoft Bookings 联机发布你的业务日历](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)。
 
 ## <a name="microsoft-briefing-email"></a>Microsoft 简报电子邮件
 
@@ -69,7 +63,7 @@ Microsoft Planner 是一种使用户能够以可视化的方式来组织团队�
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps 是一项企业服务，可帮助你快速生成、集成和共享在任何设备上运行的应用。 借助 Power Apps，可以使用内置连接或公司构建的连接将应用连接到云和本地服务，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。 只需键入电子邮件地址，您可以轻松地与同事共享 Power Apps。 若要了解更多信息，请转到 Microsoft [Power Apps 网站](https://powerapps.microsoft.com/)。
+Microsoft Power Apps 是一项企业服务，可帮助你快速生成、集成和共享在任何设备上运行的应用。 借助 Power Apps，可以使用内置连接或公司构建的连接将应用连接到云和本地服务，包括 Microsoft 365 和 Office 365、Dynamics CRM、OneDrive、SharePoint、SQL Server、Oracle 数据库等。 通过键入电子邮件地址，可以轻松与同事共享 Power Apps。 若要了解更多信息，请转到 Microsoft [Power Apps 网站](https://powerapps.microsoft.com/)。
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,7 +71,7 @@ Microsoft Stream 是一种企业视频服务，组织内部人员可以使用该
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway 是一款专业的数字故事讲述应用，可帮助你和同事使用基于 Web 的交互式画布表达想法。 Microsoft Sway 的内置设计引擎可帮助你生成专业、外观吸引人的报表、演示文稿等，而无需进行大量格式设置或其他培训。 还可以修改结果，以获得所需的独特外观。 Microsoft Sway 可使你的创建在任何屏幕上的任何浏览器中都显示出色的外观，并且只需发送链接，就可以与同事和客户共享它。 Microsoft Sway 可帮助你查找并汇集各种内容，而无需离开应用，因此你可以将图像、文本、视频和图表拖放到画布上。 若要了解详细信息，请参阅 [Sway](https://sway.com)。 Microsoft Sway 在 [Office 365 Germany 中尚不可用](office-365-germany.md)。
+Microsoft Sway 是一款专业的数字故事讲述应用，可帮助你和同事使用基于 Web 的交互式画布表达想法。 Microsoft Sway 的内置设计引擎可帮助你生成专业、外观吸引人的报表、演示文稿等，而无需进行大量格式设置或其他培训。 还可以修改结果，以获得所需的独特外观。 Microsoft Sway 可使你的创建在任何屏幕上的任何浏览器中都显示出色的外观，并且可以通过发送链接与同事和客户共享它。 Microsoft Sway 可帮助你查找并汇集各种内容，而无需离开应用，因此你可以将图像、文本、视频和图表拖放到画布上。 若要了解详细信息，请参阅 [Sway](https://sway.com)。 Microsoft Sway 在 [Office 365 Germany 中尚不可用](office-365-germany.md)。
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 企业应用版
 
