@@ -2,6 +2,7 @@
 title: Office 应用程序服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 是一项订阅服务，可为您提供已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
-ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: 95d80a0850b33b58774cdf2616c0f58bb6dadb9b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599054"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652396"
 ---
 # <a name="office-applications-service-description"></a>Office 应用程序服务说明
 

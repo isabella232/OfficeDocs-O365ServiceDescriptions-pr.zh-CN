@@ -2,6 +2,7 @@
 title: Microsoft 365 教育版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解 Microsoft 365 和 Office 365 教育版计划之间的差异。
-ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: d9cd436fd006aa72f25c10a485881671b6e1dbb5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902031"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652577"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -30,7 +31,7 @@ Microsoft 365 提供了一个完整的系统，包括 Office 365、Windows 10 �
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 平台|是|是|是|是|是|是|是|是|是|
 |Office 网页版|是|是|是|是|是|是|是|是|是|
-|适用于企业的 Microsoft 365 应用|否|是|是|是|是|是|是|是|是|
+|Microsoft 365 企业应用版|否|是|是|是|是|是|是|是|是|
 |Exchange Online|是<sup>1</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>2</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|是<sup>1</sup>|
 |SharePoint Online|是<sup>3</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
 |OneDrive for Business|是|是|是|是|是|是|是|是|是|

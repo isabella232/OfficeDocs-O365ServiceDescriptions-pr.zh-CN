@@ -2,6 +2,7 @@
 title: 合作伙伴
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 作为授权的 Microsoft 合作伙伴，Microsoft Office 365 为您提供了扩大客户群和与这些客户建立长久业务关系的机会。您收取月费或年费后，您的客户可以使用基于云的服务，这样，他们就不必管理数据备份、服务器硬件和服务器更新。服务是否可用，具体取决于向您授权提供的服务类型。
-ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131686"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653424"
 ---
 # <a name="partners"></a>合作伙伴
 
@@ -40,7 +41,7 @@ You can create and send trial invitations to your customers so they can try Offi
   
 在您开始管理客户帐户之前，客户必须将您授权为委派管理员。要获得客户批准，您可以向他们发送委派管理服务信息，也可以将这些信息随试用邀请或采购服务一起发送。客户通过回复合作伙伴的邀请电子邮件授权委派管理合作伙伴。
   
-每个客户有权拥有一个委派管理合作伙伴。 此合作伙伴也可以是客户的记录合作伙伴 (POR)，但不需要一定是记录合作伙伴。 POR 和委派管理合作伙伴的角色是相互独立的，客户可以分别指定它们。 这样可允许客户为采购建议选择一个合作伙伴，为实施或受管服务选择另一个合作伙伴。 还允许合作伙伴选择是否与其中一个或两个角色的专业人员建立业务关系。
+每个客户都有权拥有一个委派管理合作伙伴。 此合作伙伴也可以是客户的记录合作伙伴 (POR)，但不需要一定是记录合作伙伴。 POR 和委派管理合作伙伴的角色是相互独立的，客户可以分别指定它们。 这样可允许客户为采购建议选择一个合作伙伴，为实施或受管服务选择另一个合作伙伴。 还允许合作伙伴选择是否与其中一个或两个角色的专业人员建立业务关系。
   
 即使客户授权合作伙伴代表自己执行管理任务，客户也仍可以直接与 Microsoft 技术支持联系，并提交服务请求。
   
@@ -52,5 +53,5 @@ Microsoft 合作伙伴网络致力于满足我们合作伙伴的需求。要加�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Microsoft 365 和 Office 365 计划的功能可用性，请参阅[microsoft 365 And office 365 platform service description](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 和 Office 365 计划的功能可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description.md)。
   

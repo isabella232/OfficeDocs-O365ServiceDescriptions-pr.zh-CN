@@ -2,6 +2,7 @@
 title: Microsoft 365 和 Office 365 计划选项
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174017"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653484"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 计划选项
 
@@ -46,7 +47,7 @@ Microsoft 365 和 Office 365 可用于各种计划，以最好地满足组织的
 > [!IMPORTANT]
 >  虽然服务可能跨 Microsoft 365 和 Office 365 计划提供，但每个计划中提供的功能可能有所不同。 若要查看适用于每个计划的功能的详细信息，请参阅单个服务说明或与您的经销商或 Microsoft 销售代表联系，以获取更多信息。 <br/>  一些 Microsoft 365 和 Office 365 计划具有可购买订阅的加载项。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅 [购买或编辑 Office 365 商业版加载项](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6) 
   
-| 服务 | Microsoft 365 应用 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3，</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
+| 服务 | Microsoft 365 应用版 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3，</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 平台  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange Online  <br/> |否  <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>5</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>8</sup> <br/> |否<sup>16</sup> <br/> |

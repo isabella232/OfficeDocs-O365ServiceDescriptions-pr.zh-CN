@@ -2,18 +2,19 @@
 title: MyAnalytics 服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分发、隐私和先决条件
-ms.openlocfilehash: 3b573c4e675830bb2c7b5d9101c9793b493c4d11
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215861"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652596"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服务说明
 

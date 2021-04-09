@@ -2,18 +2,19 @@
 title: Microsoft 365 合规性计划 - GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国联邦、州、地方、地方、地区或地区政府实体或其他处理受政府法规和要求（如果适合使用 Microsoft 365 政府版 - GCC 以满足这些要求的实体）中部署 Office 365 的 IT 专业人员。
-ms.openlocfilehash: 702ed14de312588aee1cad6094683fcada2333bc
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf5a5caa5cf0793141e7498006aff1224fbcc659
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173507"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652626"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Microsoft 365 合规性计划 - GCC
 

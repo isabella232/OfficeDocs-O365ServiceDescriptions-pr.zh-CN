@@ -2,18 +2,19 @@
 title: Microsoft 365 政府版购买方式
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版并介绍了购买选项。
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172997"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653444"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -89,7 +90,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 
 - [Office 365 政府版服务说明](office-365-us-government.md)
 - [美国政府企业移动性 + 安全性服务说明](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [适用于美国政府客户的 Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [面向美国政府客户的Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [政府团队 - GCC 部署](/MicrosoftTeams/plan-for-government-gcc)
 - [政府团队 - GCC 高部署](/MicrosoftTeams/plan-for-government-gcc-high)
 - [政府团队 - DoD 部署](/MicrosoftTeams/plan-for-government-dod)
@@ -103,7 +104,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 
 下表显示了可满足每个线段需求的选项。<br><br> 
 
-| Item | GCC | GCC 高 | DoD |
+| 项目 | GCC | GCC 高 | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |政府 gov，GOVCON for commercial |GCC-High |DOD | 
 |**频道** |EA (LSP) 、AOS-G、MPSA、Web Direct、CSP |EA (LSP) 、AOS-G |EA |
@@ -174,7 +175,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 
 - [Office 365 政府版服务说明](office-365-us-government.md)
 - [美国政府企业移动性 + 安全性服务说明](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [适用于美国政府客户的 Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [面向美国政府客户的Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [政府团队 - GCC 部署](/MicrosoftTeams/plan-for-government-gcc)
 - [政府团队 - GCC 高部署](/MicrosoftTeams/plan-for-government-gcc-high)
 - [政府团队 - DoD 部署](/MicrosoftTeams/plan-for-government-dod)

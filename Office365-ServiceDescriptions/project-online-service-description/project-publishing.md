@@ -2,6 +2,7 @@
 title: Project 发布
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性功能。
-ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: 以下 SharePoint 和 Skype for Business 互操作性功能在 Project Online 中可用。
+ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131146"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651185"
 ---
 # <a name="project-publishing"></a>Project 发布
 
-Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性功能。
+以下 SharePoint 和 Skype for Business 互操作性功能在 Project Online 中可用。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅[Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
 ## <a name="create-a-project-site"></a>创建项目网站
 
@@ -42,7 +43,7 @@ Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性
   
 ## <a name="save-a-project-mpp-file-on-sharepoint"></a>将 Project MPP 文件保存到 SharePoint
 
-将项目保存在 SharePoint 文档库中，以便与没有 Project Server 的团队成员共享。 详细了解如何[与 SharePoint 任务列表同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
+将项目保存在 SharePoint 文档库中，以与没有 Project Server 的团队成员共享。 详细了解如何[与 SharePoint 任务列表同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   
 ## <a name="task-list-sync-to-sharepoint"></a>任务列表同步到 SharePoint
 
@@ -50,6 +51,6 @@ Project Online 中提供了以下 SharePoint 和 Skype for business 互操作性
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅[Project Online 服务说明](project-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Project Online 服务说明](project-online-service-description.md)。
   
 

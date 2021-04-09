@@ -2,6 +2,7 @@
 title: Office 365 教育版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果要了解 Office 365 教育版计划之间的差异，本文将介绍每个计划中包含的功能。 Office 365 将熟悉的 Microsoft Office 桌面套件与 Microsoft 的下一代通信和协作服务（包括 &mdash; Microsoft Exchange Online、Microsoft SharePoint Online、Office 网页版和 Microsoft Skype for Business Online）的基于云的版本相结合，帮助用户从几乎任何位置通过 Internet 提高工作效率。 &mdash;
-ms.openlocfilehash: 62f8c255d7e86f597140765b0ab0909ec45f3871
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173847"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653214"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 

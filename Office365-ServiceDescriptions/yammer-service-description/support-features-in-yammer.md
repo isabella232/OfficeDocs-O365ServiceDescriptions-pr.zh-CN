@@ -2,6 +2,7 @@
 title: Yammer 中的支持功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,21 +12,21 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: 以下支持功能在 Yammer 中可用。
-ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131996"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653514"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支持功能
 
 以下支持功能在 Yammer 中可用。
   
 > [!IMPORTANT]
-> Yammer 不支持恢复已删除 &mdash; 的内容（如外部网络、用户、邮件、组和文件）， &mdash; 包括网络管理员意外删除的内容。
+> Yammer 不支持恢复已删除的内容，如外部网络、用户、消息、组和文件，包括网络管理员意外 &mdash; &mdash; 删除的内容。
 >
-> Microsoft 不提供 Yammer 中适用的分析功能外部的自定义或临时报告。 有时 Microsoft 可以在支持请求过程中提供自定义报告，但在大多数情况下，它们无法满足直接请求数据的要求。
+> Microsoft 不提供 Yammer 中适用的分析功能外部的自定义或临时报告。 有时，Microsoft 可以在支持请求过程中提供自定义报告，但大多数情况下，它们无法容纳对数据的直接请求。
 
 ## <a name="administrator-support"></a>Administrator support
 
@@ -33,11 +34,11 @@ Yammer Enterprise 管理员负责帐户维护，并有权直接与 Microsoft 支
 
 ## <a name="customer-support"></a>客户支持
 
-技术支持可以用于快速解答客户疑问并解决问题。 Yammer 客户可以通过发布公共支持论坛（一天24小时，一周七天，由支持代理来监控）来获得支持。 如果您是 Yammer 客户且要搜索支持，请参阅 [Yammer 公用支持](https://go.microsoft.com/fwlink/p/?LinkId=330921)。
+技术支持可以用于快速解答客户疑问并解决问题。 Yammer 客户可以通过在公共支持论坛中发布帖子获得支持，该论坛由支持代理每天 7 天、每天 24 小时监控。 如果您是 Yammer 客户且要搜索支持，请参阅 [Yammer 公用支持](https://go.microsoft.com/fwlink/p/?LinkId=330921)。
    
 ## <a name="fasttrack-center"></a>FastTrack 中心
 
-Microsoft FastTrack 服务可帮助您的组织移动到 Microsoft 云，具体方法是在每个步骤中提供帮助。 FastTrack 允许您战略规划部署、快速加速新服务和集成新用户。 For details, visit the [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). 若要了解如何创建 Yammer 网络（包括预启动、启动和支持文档和活动），请转到 "[构想：确定方案](https://fasttrack.microsoft.com/office/envision/identify-scenarios)" 页，然后选择 "将**组织放在一起**"。
+Microsoft FastTrack 服务可在每一步提供帮助，帮助你的组织移动到 Microsoft 云。 FastTrack 允许你从战略上规划推出、快速提升新服务和载入新用户。 For details, visit the [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). 有关创建 Yammer 网络的信息，包括预启动、启动和支持文档和活动，请转到构想 [：确定](https://fasttrack.microsoft.com/office/envision/identify-scenarios)方案页面，然后选择"将组织汇集在一 **起"。**
 
 ## <a name="support-features-across-yammer-plans"></a>跨 Yammer 计划的支持功能
 
@@ -45,9 +46,9 @@ Microsoft FastTrack 服务可帮助您的组织移动到 Microsoft 云，具体�
   
 |**功能**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
-|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |可访问  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |是  <br/> |
 |[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
-|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |可访问  <br/> |
+|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |是  <br/> |
  
 ## <a name="technical-support-case-handling"></a>技术支持案例的处理
 
@@ -55,7 +56,7 @@ Microsoft FastTrack 服务可帮助您的组织移动到 Microsoft 云，具体�
   
 |**严重级别**|**说明**|**示例**|
 |:-----|:-----|:-----|
-|严重级别 A（关键）  <br/> |对于大多数最终用户，服务不可用。  <br/> |Yammer 平台处于关闭状态。  <br/> |
+|严重级别 A（关键）  <br/> |大多数最终用户无法使用服务。  <br/> |Yammer 平台已关闭。  <br/> |
 |严重级别 B（高）  <br/> |服务可用，但严重受损。  <br/> |发布到源无法按预期工作。  <br/> |
 |严重级别 C（中）  <br/> |服务无法按预期工作，但有解决办法。  <br/> |文件预览无法按预期显示。  <br/> |
 

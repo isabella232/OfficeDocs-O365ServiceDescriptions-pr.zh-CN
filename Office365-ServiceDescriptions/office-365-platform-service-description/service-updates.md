@@ -2,6 +2,7 @@
 title: 服务更新
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: 若要了解刚刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
-ms.openlocfilehash: 4bb9dadf3d0c233b847721eb28778fa07a7d8fa0
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d15ed4485127bab5735aa9748cb2f5693ae272e3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172797"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652416"
 ---
 # <a name="service-updates"></a>服务更新
 

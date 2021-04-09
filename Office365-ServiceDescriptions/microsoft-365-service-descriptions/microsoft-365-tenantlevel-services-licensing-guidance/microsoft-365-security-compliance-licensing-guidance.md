@@ -2,6 +2,7 @@
 title: Microsoft 365 安全与合规&指南
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: v-trscho
 audience: ITPro
 ms.topic: reference
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合规性的许可指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: 87eeaf51e18b74150416bdfc51bc6f97e94cd2db
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173396"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652656"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 安全与合规许可 &amp; 指南
 
@@ -534,7 +535,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5 和 Microsoft 365 E5/A5/G5 信息�
 
 ## <a name="information-barriers"></a>信息屏障
 
-信息屏障是管理员可以配置的策略，以防止个人或组相互通信。 例如，如果一个部门正在处理不应与其他部门共享的信息，或者需要阻止组与外部联系人通信，这将非常有用。 信息屏障策略还会阻止查找和发现。 这意味着，如果你尝试与不应通信的人通信，你将在人员选取器中找不到该用户。
+信息屏障 (IB) 是管理员可配置以防止个人或组相互通信的策略。 例如，如果一个部门正在处理不应与其他部门共享的信息，或者需要阻止组与外部联系人通信，这将非常有用。 信息屏障策略还会阻止查找和发现。 这意味着，如果你尝试与不应通信的人通信，你将在人员选取器中找不到该用户。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

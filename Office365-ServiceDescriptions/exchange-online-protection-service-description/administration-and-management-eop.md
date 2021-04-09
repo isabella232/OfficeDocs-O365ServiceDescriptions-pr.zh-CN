@@ -2,6 +2,7 @@
 title: Exchange Online Protection 中的管理
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本文介绍可供 EOP 管理员Microsoft Exchange Online保护 (管理) 接口。
-ms.openlocfilehash: 997a3446a2420815b860a1ed58c4d9c5be9c04d1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173347"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653064"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Exchange Online Protection 中的管理
 

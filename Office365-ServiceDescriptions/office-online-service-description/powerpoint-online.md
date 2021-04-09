@@ -2,6 +2,7 @@
 title: PowerPoint 网页版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint 网页 (以前PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器，可以在存储演示文稿的网站上直接处理演示文稿。 使用 Office 网页版的 Microsoft 365 客户可以一起查看、创建和编辑文件。
-ms.openlocfilehash: 32ebb9f1ef3a9c68d5bc01314721f197a7f80cee
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e0ab38fd633e44be01f38da0398affbf81e01e7b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172737"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652336"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 

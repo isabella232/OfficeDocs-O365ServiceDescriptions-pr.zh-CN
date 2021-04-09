@@ -2,31 +2,32 @@
 title: Visio 网页版服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: 将 Visio 中的功能与 Visio 桌面应用程序进行比较。
-ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+description: 将 Visio 网页版中的功能与 Visio 桌面应用程序进行比较。
+ms.openlocfilehash: c490e0fbb891c09cfa73706002d6f5b7b3b33452
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276661"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653616"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio 网页版服务说明
 
-对于 web Visio，您可以在 web 上查看、编辑和共享 Visio 图表。 从基本关系图开始，以表达常见想法，如描述计划、提出建议或描述过程中的一系列步骤。 使用常用的图表类型和富形状集创建第一类图表非常简单且容易。 Visio for web 用户可以通过共享关系图以及在上载到 SharePoint Online 或 OneDrive for business Online 的文件中插入注释来查看和协作。
+通过 Visio 网页，您可以在 Web 上查看、编辑和共享 Visio 图表。 从基本图表开始，表达共同想法，例如描述计划、制定建议或描述过程中的步骤序列。 使用常用的图表类型和丰富的形状集创建一流图表非常简单和简单。 Visio 网页版用户可以查看和协作，方式为在上传到 SharePoint Online 或 OneDrive for Business Online 的文件中共享图表和插入注释。
   
-有关详细信息和入门，请参阅 [Visio 计划 1](https://products.office.com/visio/visio-online)。
+有关详细信息和入门，请参阅[Visio 计划 1。](https://products.office.com/visio/visio-online)
   
-若要获取有关对 web 使用 Visio 的帮助，请参阅 [Visio 帮助 & 学习](https://support.office.com/visio)。
+有关使用 Visio 网页时的帮助，请参阅 [Visio 帮助&学习](https://support.office.com/visio)。
   
 ## <a name="feature-availability-and-comparison"></a>功能可用性和比较
 
-下表将针对 web 功能功能的 Visio 与功能丰富的 Visio 桌面应用程序进行比较。 使用此表可发现 Visio for web 中可用的功能，然后选择功能名称，以阅读有关该功能如何工作的简短说明。 您可能会发现组织中的某些人需要 Visio 桌面应用程序的高级功能，而其他人只需要查看和使用适用于 web 的 Visio 编辑 Visio 图表。<br><br> 
+下表将 Visio 网页版功能与功能丰富的 Visio 桌面应用程序进行比较。 使用表可发现哪些功能在 Visio 网页中可用，然后选择功能名称可阅读有关该功能工作方式的简短说明。 您可能会发现，您的组织中的某些人员需要 Visio 桌面应用程序的高级功能，而其他人只需要使用 Visio 网页版查看和轻松编辑 Visio 图表。<br><br> 
   
 | 应用程序功能 | Visio 网页版 | Visio 桌面应用 |
 |:-----|:-----|:-----|
@@ -58,14 +59,14 @@ ms.locfileid: "48276661"
    
 > <sup>1</sup> 跟踪超链接（无法插入或进行编辑）。 
 <br/><sup>2</sup> 通过 SharePoint 或 OneDrive for Business 共享，并与没有 SharePoint 或 OneDrive 的用户共享。 
-<br/> <sup>3</sup> 在 Visio 中对 web 编辑器不可用。
-<br/><sup>4</sup> 在 Visio For web Viewer 中不可用。 
-<br/><sup>5</sup> 在 Visio For web 编辑器中不可用，但您可以切换到查看模式并查看注释。 
-<br/><sup>6</sup> 适用于适用于 web 编辑器的 Visio。 
+<br/> <sup>3</sup> 在 Visio 中对 Web 编辑器不可用。
+<br/><sup>4</sup> 在 Visio 中对 Web 查看器不可用。 
+<br/><sup>5</sup> 在 Visio 中对 Web 编辑器不可用，但你可以切换到查看模式并查看注释。 
+<br/><sup>6</sup> 在 Visio 中可用于 Web 编辑器。 
   
-## <a name="supported-file-types-in-visio-for-the-web"></a>Visio 中用于 web 的受支持的文件类型
+## <a name="supported-file-types-in-visio-for-the-web"></a>Visio 网页中支持的文件类型
 
-| 在 Visio 2010 或更高版本中创建的 visio 图表 | 查看模式 | 编辑模式 |
+| 在 Visio 2010 或更高版本中创建的 Visio 图表 | 查看模式 | 编辑模式 |
 |:-----|:-----|:-----|
 |Open XML (.vsdx)  <br/> |是  <br/> |否  <br/> |
 |二进制 (.vsd)  <br/> |是  <br/> |否  <br/> |

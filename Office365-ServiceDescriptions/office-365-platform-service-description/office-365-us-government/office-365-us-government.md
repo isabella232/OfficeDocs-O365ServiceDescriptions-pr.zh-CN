@@ -2,6 +2,7 @@
 title: Office 365 美国政府版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了 Office 365 美国政府版计划 (或 Office 365 政府版) 。 本文概述了特定于 Office 365 美国政府版环境的功能。
-ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484825"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653154"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 

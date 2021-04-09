@@ -2,6 +2,7 @@
 title: Microsoft 365 商务语音服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
@@ -9,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商务语音是一项外接程序服务，允许你使用 Microsoft Teams 进行电话呼叫。 这结合了电话系统、国内呼叫计划、短信和音频会议。
-ms.openlocfilehash: 6c9c118b5786a8919f1156e650dbc9a82ddcd590
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e47d794ba1fe2790603908f0e7b9c4a0ef93132c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173547"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653264"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商务语音服务说明
 

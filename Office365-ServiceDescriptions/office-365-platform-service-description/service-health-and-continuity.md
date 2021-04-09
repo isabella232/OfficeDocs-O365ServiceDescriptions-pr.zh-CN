@@ -2,6 +2,7 @@
 title: 服务运行状况和连续性
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 服务运行状况信息随时可供登录使用。
-ms.openlocfilehash: ea9beb020d2f868eb51638c4729924a7ac873b7b
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174137"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652446"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 

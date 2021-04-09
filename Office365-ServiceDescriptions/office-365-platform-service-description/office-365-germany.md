@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany 是一个与已在欧洲可用的 Office 365 服务不同的选项。 它帮助满足德国、欧盟 (欧盟) 和欧洲自由贸易联盟 (EFTA) 中监管最严格的客户的需求，包括从德国数据中心提供业界领先的数字工作生产力服务、在德国的数据驻留，以及通过受德国法律约束的唯一数据受托人模型严格的数据访问和控制措施。
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173857"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653494"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
@@ -765,7 +766,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |人员、站点、文档建议|是|否|是|是|是|是|是|是|
 |个人网站|是|是|是|是|是|是|是|否|
 |照片和状态|是|是|是|是|是|是|是|是|
-|配置文件|是|是|是|是|是|是|是|是|
+|个人资料|是|是|是|是|是|是|是|是|
 |评价|是|是|是|是|是|是|是|是|
 |Shared with Me|是|是|是|是|是|是|是|否|
 |网站源（使用 SharePoint 社交功能的经典团队网站）|是|否|是|是|是|是|是|是|

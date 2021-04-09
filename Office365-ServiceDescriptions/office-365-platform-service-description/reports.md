@@ -2,6 +2,7 @@
 title: 报告
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Microsoft 管理员可以查看显示组织如何使用 Microsoft 服务的报告。 可以使用这些报告来确定问题、筛选数据并将数据下载到 Microsoft Excel 中。 您还可以使用 Microsoft 365 报告 Web 服务创建自己的报告。 Exchange Online 和 Exchange Online Protection (EOP) 管理员可以使用邮件保护报告查看有关恶意软件、垃圾邮件和规则检测的数据。
-ms.openlocfilehash: b3a83bf310c3cec7fed4ebd36bacc2202ff8ec79
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: d9c4b82952882e02142d386120347f7de554b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172827"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652496"
 ---
 # <a name="reports"></a>报表
 

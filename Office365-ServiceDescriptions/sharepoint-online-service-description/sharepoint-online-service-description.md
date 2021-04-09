@@ -2,6 +2,7 @@
 title: SharePoint 服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些 SharePoint 功能在哪些计划中可用。
-ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 929156fe985764615dc3e7a7797e87f5d97cdd3b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215735"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651165"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -34,7 +35,7 @@ Microsoft 365 中的 SharePoint 可帮助组织共享和管理内容、知识和
 
 若要了解美国政府云客户的 SharePoint 功能差异，请参阅[适用于美国政府环境的 SharePoint。](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
-## <a name="whats-new"></a>新增功能
+## <a name="whats-new"></a>最近更新
 
 有关最新发布的功能的信息，请参阅 [SharePoint 中的新增功能](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)。
   
@@ -132,7 +133,7 @@ Microsoft 365 中的 OneDrive 是组织中单个用户的联机存储。 通过�
 SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有关以下功能的可用性的信息，请参阅安全与& [服务说明](../office-365-platform-service-description/office-365-securitycompliance-center.md)：
 
 - [客户密码箱](/microsoft-365/compliance/customer-lockbox-requests)
-- [Data loss prevention (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
+- [数据丢失防护 (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [电子数据展示](/microsoft-365/compliance/ediscovery-cases) (内容搜索、保留、导出) 
 - [信息屏障](/microsoft-365/compliance/information-barriers)
 - [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
@@ -158,7 +159,7 @@ SharePoint 与 Microsoft 365 的高级安全性和合规性功能集成。 有�
 - [ 文档库 ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [文档集](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - 文件卡 (活动、对话、查看者) 
-- [列表](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [大型菜单](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含 Office 365 的订阅，并且要求用户获得表单许可。
 - [新闻](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)

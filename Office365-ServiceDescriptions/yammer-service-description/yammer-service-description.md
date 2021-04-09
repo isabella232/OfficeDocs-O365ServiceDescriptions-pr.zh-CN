@@ -2,6 +2,7 @@
 title: Yammer 服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同 Yammer 计划中提供的功能。
-ms.openlocfilehash: a09ab0e57d5f79355b5e89f22362a6647b285fca
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726727"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653504"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 

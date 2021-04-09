@@ -2,6 +2,7 @@
 title: OneNote 网页版
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 OneNote 网页版 (以前OneNote Web App) OneNote 笔记本中在线记录笔记，可以随时随地添加笔记，并与其他人轻松共享。 所有客户都可以使用 Office 网页查看和轻松编辑 Office 文件。
-ms.openlocfilehash: c23edcb6107fd097bc6a72d173f96a451db1a6cd
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173887"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652346"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 网页版
 

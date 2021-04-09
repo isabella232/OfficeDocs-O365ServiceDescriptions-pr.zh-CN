@@ -2,6 +2,7 @@
 title: Yammer 中的发现功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: 以下发现功能在 Yammer 中可用。
-ms.openlocfilehash: 8992cf1bbadf980b9e869eecc8d99b6fef1a3c78
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: 263a6b7cc3fd3a9ed51e0e22ff5b311478eb8fec
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624523"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653544"
 ---
 # <a name="discovery-features-in-yammer"></a>Yammer 中的发现功能
 
 以下发现功能在 Yammer 中可用。
   
-## <a name="feeds"></a>新闻复制
+## <a name="feeds"></a>新闻源
 
 随时了解整个组织中发生的相关对话、文件和项目。 源可让你快速参与对话、@mention同事循环讨论和预览文档。
 
@@ -40,7 +41,7 @@ ms.locfileid: "49624523"
   
 ## <a name="universal-search"></a>通用搜索
 
-使用全文搜索，可以跨 Yammer 网络和集成业务应用快速查找文件、笔记、对话、人员及数据。
+全文搜索允许您在 Yammer 网络和集成业务应用中快速查找文件、笔记、对话、人员及数据。
   
 ## <a name="feature-availability"></a>功能可用性
 

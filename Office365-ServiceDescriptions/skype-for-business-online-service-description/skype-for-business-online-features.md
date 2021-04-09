@@ -2,6 +2,7 @@
 title: Skype for Business Online 功能
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果你是管理员，可以在设置 Skype for Business Online 中查找有关设置 Skype for Business Online 功能的详细说明。
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172667"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651017"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 
@@ -120,7 +121,7 @@ Skype for Business 与本地 Microsoft SharePoint Server 互操作，以在 Shar
   
 ## <a name="calling-plans"></a>通话套餐
 
-Skype for Business 包括公用电话交换网和 PSTN (上的) 。 通话套餐是电话系统的附加设备，可[](#phone-system-in-office-365)让你搜索、获取电话号码并将其分配给组织内部的用户，以便他们可以直接从 Office 365 向组织内外的用户拨打电话和接听电话。 分配了电话号码的用户可以跨所有 Skype for Business 设备（包括 VoIP 电话、电脑和移动设备）进行语音呼叫。 他们还可以通过静音/取消静音、保持/恢复、呼叫转接和呼叫转接功能来控制呼叫，并在必要时进行紧急呼叫。 
+Skype for Business 包括公用电话交换网和 PSTN (上的) 。 通话套餐是电话系统的附加设备，可[](#phone-system)让你搜索、获取电话号码并将其分配给组织内部的用户，以便他们可以直接从 Office 365 向组织内外的用户拨打电话和接听电话。 分配了电话号码的用户可以跨所有 Skype for Business 设备（包括 VoIP 电话、电脑和移动设备）进行语音呼叫。 他们还可以通过静音/取消静音、保持/恢复、呼叫转接和呼叫转接功能来控制呼叫，并在必要时进行紧急呼叫。 
   
 有关可用通话套餐的信息，请转到 Office [365 的通话套餐](https://products.office.com/skype-for-business/pstn-calling-plans)。 有关详细信息和设置通话套餐，请参阅哪个 [通话套餐适合你？](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   
