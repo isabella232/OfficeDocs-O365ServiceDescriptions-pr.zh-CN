@@ -12,7 +12,7 @@ ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
 ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653204"
