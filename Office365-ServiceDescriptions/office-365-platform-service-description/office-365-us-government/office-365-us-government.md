@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了 Office 365 美国政府版计划 (或 Office 365 政府版) 。 本文概述了特定于 Office 365 美国政府版环境的功能。
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767482"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857822"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -401,11 +401,11 @@ Office 365 美国政府版客户可以使用 Azure Government ExpressRoute 服�
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府云中完全可用，但以下功能目前不可用：|**GCC**|**GCC 高**|**DOD**|
 |研究工具|否|否|否|
 |智能数字墨迹|否|否|否|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府云中完全可用，但以下功能目前不可用：|**GCC**|**GCC 高**|**DOD**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) 在政府云中完全可用，以下功能除外，这些功能并非在所有政府云中可用，如下表所示。|**GCC**|**GCC 高**|**DOD**|
 |Office 声音 (一些) |否|否|否|
 |动态数据交换 (DDE) 默认情况下处于禁用状态|否|否|否|
-|语音听写|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)在政府云中完全可用，但以下功能目前不可用：|**GCC**|**GCC 高**|**DOD**|
+|语音听写|是|是|否<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) 在政府云中完全可用，以下功能除外，这些功能并非在所有政府云中可用，如下表所示。|**GCC**|**GCC 高**|**DOD**|
 |智能查找|否|否|否|
 |Office 声音 (一些) |否|否|否|
 |3D 模型和 3D 嵌入动画|否|否|否|
@@ -418,7 +418,7 @@ Office 365 美国政府版客户可以使用 Azure Government ExpressRoute 服�
 |版本历史记录|否|否|否|
 |Office 365 组|否|否|否|
 |实时协作 (状态、常规共同授权、文档内聊天) |否|否|否|
-|语音听写|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
+|语音听写|是|是|否<sup>1</sup>|
 |重复使用幻灯片|否|否|否|
 |**政府云中的 Microsoft Whiteboard** 当前仅在中心客户端上可用，在桌面上不可用。|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |插入便笺、文本和图像|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
@@ -431,7 +431,7 @@ Office 365 美国政府版客户可以使用 Azure Government ExpressRoute 服�
 |实时状态|否|否|否|
 |对内容的反应|否|否|否|
 |白板的板库，包括与您共享的白板|否|否|否|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)在政府云中完全可用，但以下功能目前不可用：|**GCC**|**GCC 高**|**DOD**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) 在政府云中完全可用，以下功能除外，这些功能并非在所有政府云中可用，如下表所示。|**GCC**|**GCC 高**|**DOD**|
 |智能查找|否|否|否|
 |研究工具|否|否|否|
 |Office 声音|否|否|否|
@@ -447,7 +447,7 @@ Office 365 美国政府版客户可以使用 Azure Government ExpressRoute 服�
 |版本历史记录|否|否|否|
 |Office 365 组|否|否|否|
 |与合著者进行上下文聊天：与文档中共同创作者聊天|否|否|否|
-|语音听写|否<sup>1</sup>|否<sup>1</sup>|否<sup>1</sup>|
+|语音听写|是|是|否<sup>1</sup>|
 
 有关 GCC/GCC High/DoD 中 Microsoft Teams 的功能可用性，请访问 [Microsoft Teams 服务说明](../../teams-service-description.md)。
 > <sup>1</sup> 可用性即将提供。
