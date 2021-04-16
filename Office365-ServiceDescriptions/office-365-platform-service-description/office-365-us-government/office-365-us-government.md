@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了 Office 365 美国政府版计划 (或 Office 365 政府版) 。 本文概述了特定于 Office 365 美国政府版环境的功能。
-ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653154"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767482"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -255,7 +255,7 @@ Office 365 美国政府版客户可以使用 Azure Government ExpressRoute 服�
 |**信任**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府版 F3**|
 |**[隐私、安全性和透明度](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |高级数据治理|否<sup>12</sup>|否<sup>12</sup>|是|否<sup>12</sup>|
-|云应用安全|否<sup>12、15、19</sup>|否<sup>12、15、19</sup>|是<sup>15、19</sup>|否<sup>12、15、19</sup>|
+|云应用安全|否<sup>12、19</sup>|否<sup>12、19</sup>|是<sup>19</sup>|否<sup>12、19</sup>|
 |Microsoft Defender for Office 365|否<sup>12、18</sup>|否<sup>12、18</sup>|是<sup>18</sup>|否<sup>12、18</sup>|
 |客户密码箱|否<sup>12</sup>|否<sup>12</sup>|是|否<sup>12</sup>|
 |高级电子数据展示|否<sup>12</sup>|否<sup>12</sup>|是|否<sup>12</sup>|

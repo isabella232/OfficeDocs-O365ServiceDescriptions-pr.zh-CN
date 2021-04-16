@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解 Microsoft 365 和 Office 365 计划中的 Microsoft Teams 服务和功能可用性。
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653564"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767452"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -22,6 +22,8 @@ Microsoft Teams 是 Microsoft 365 中团队合作的中心。 Teams 服务支持
 Skype for Business Online 将于 2021 年 7[](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)月 31 日停用，2019 年 7 月 30 日宣布停用。 Microsoft Teams 是一项全新的服务，利用 Microsoft 的 Azure 和其他服务创新，从一开始就为云构建。 Microsoft Teams 基于 Microsoft 365 组、Microsoft Graph 构建，并且与 Office 365 的其余部分具有相同的企业级安全性、合规性和可管理性。 Teams 利用 Azure AD (Azure Active Directory 中) 。 这些服务从 Microsoft 数据中心提供，用户可以从企业网络内部或 Internet 访问各种设备。 有关详细信息，请参阅 Microsoft [Teams IT 体系结构和电话解决方案海报](/microsoftteams/teams-architecture-solutions-posters)。
 
 此服务说明详细介绍了在各种云安装中提供的服务之间的主要差异。 Microsoft Teams 核心功能在订阅之间没有区别。 合规性功能的可用性取决于你的订阅级别。 若要详细了解 Teams 安全性和合规性，请参阅 [Microsoft Teams 中的安全性和合规性](/microsoftteams/security-compliance-overview)。
+
+如果用户已完全联机迁移，则他们必须同时拥有团队和 Skype for Business Online 许可证，以使用完整的 Teams 功能，即使不会使用 Skype for Business Online。
 
 ## <a name="available-plans"></a>可用计划
 
