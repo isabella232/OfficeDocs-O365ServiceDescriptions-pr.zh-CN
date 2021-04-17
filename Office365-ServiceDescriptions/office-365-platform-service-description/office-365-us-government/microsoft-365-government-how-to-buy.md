@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版并介绍了购买选项。
-ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
+ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653444"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51874972"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -48,7 +48,7 @@ Microsoft 365 政府版专为满足美国政府机构在四个关键领域的合
 
 | 产品/服务 | 承诺 |
 |:----------|:----------------------------------|
-|Microsoft 365 政府版 GCC  <br/> |FedRamp High、CJIS、IRS 1075、DISA SRG L2 <br/> |
+|Microsoft 365 政府版 GCC  <br/> |FedRamp High、DFARS、CJIS、IRS 1075、DISA SRG L2 <br/> |
 |Microsoft 365 政府版 GCC High  <br/> |FedRamp High、ITAR、DFARS、DISA SRG L4 控件 <br/> |
 |Microsoft 365 政府版 DoD  <br/> |DISA SRG L5  <br/> |
 
@@ -104,7 +104,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 
 下表显示了可满足每个线段需求的选项。<br><br> 
 
-| 项目 | GCC | GCC 高 | DoD |
+| Item | GCC | GCC 高 | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |政府 gov，GOVCON for commercial |GCC-High |DOD | 
 |**频道** |EA (LSP) 、AOS-G、MPSA、Web Direct、CSP |EA (LSP) 、AOS-G |EA |
