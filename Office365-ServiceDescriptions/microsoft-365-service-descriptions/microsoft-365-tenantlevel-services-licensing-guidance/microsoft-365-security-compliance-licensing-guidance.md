@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供 Microsoft 365 合规性的许可指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652656"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900762"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 安全与合规许可 &amp; 指南
 
@@ -26,7 +26,7 @@ ms.locfileid: "51652656"
 > [!NOTE]
 > 某些租户服务当前无法将权益限制到特定用户。 应努力将服务权益限制为许可用户。 这可帮助避免目标功能可用后组织的潜在服务中断。
 
-若要了解自 2020 年 4 月 1 日起授权用户从 Microsoft 365 合规性功能中获益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=102403)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=102427)
+若要查看允许用户从 Microsoft 365 合规性功能中获益的选项，请下载详细的 Microsoft 365 合规性许可比较。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=103010)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
 
@@ -143,7 +143,7 @@ Office 365 E5/A3/A5/G5 为用户提供了从 OCAS 中获益的权利。
 
 管理员可以将 OCAS 部署的范围限定为强制访问某些应用，并限制由 Office 365 Cloud App Security 监视的用户组。 有关详细信息，请参阅作用域 [部署](/cloud-app-security/scoped-deployment)。
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft 云应用安全
 
 Microsoft Cloud App Security (MCAS) 是云访问安全代理 (CASB) 解决方案，使组织能够查看其云应用和服务，提供复杂的分析以识别和防御网络威胁，并让他们控制数据在任何云应用中的传输方式。 &mdash;
 
@@ -218,7 +218,7 @@ SecOps 分析员和安全专业人员受益于 Microsoft Defender for Endpoint �
 
 Microsoft Defender for Endpoint 管理员可以使用基于角色的访问控制 (RBAC) 在安全操作团队内创建角色和组，以授予对 Microsoft Defender 安全中心的适当访问权限。 有关详细信息，请参阅使用基于角色 [的访问控制管理门户访问](/windows/security/threat-protection/microsoft-defender-atp/rbac)。
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 数据分类分析：内容 &amp; 活动资源管理器概述  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 数据分类分析：内容 &amp; 活动资源管理器概述
 
 数据分类分析功能在 Microsoft 365 合规中心体验中可用。 概述显示数字内容的位置以及最常见的敏感信息类型和标签。 内容资源管理器提供敏感数据量和类型的可见性，并允许用户按标签或敏感度类型进行筛选，获取存储敏感数据的位置的详细视图。 活动资源管理器显示与敏感数据和标签相关的活动，例如标签降级或外部共享，这些活动可能会使内容面临风险。
 
