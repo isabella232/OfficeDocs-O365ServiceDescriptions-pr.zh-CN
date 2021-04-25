@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
-ms.translationtype: HT
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653204"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001788"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -67,7 +67,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 
 - 数据丢失防护 (DLP)
 - 保留
-- 审核
+- 使用 Azure Active Directory 和 Exchange 数据进行审核
 - 使用 AIP 统一标签客户端的 Microsoft 信息保护 （MIP） 和针对 Office 客户端和 Outlook 的敏感度标签
 
 > [!NOTE]
