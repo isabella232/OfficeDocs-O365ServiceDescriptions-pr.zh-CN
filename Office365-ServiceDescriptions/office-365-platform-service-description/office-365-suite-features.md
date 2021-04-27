@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 Web 的工具集合，可帮助你跨多个设备和多个 Office 365 服务安全地协作和进行通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653174"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023567"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -111,6 +111,18 @@ Microsoft To Do 是一个任务管理应用程序，它允许客户从任何设�
 * 与同事、朋友和家人共享列表和分配任务
 
 若要了解更多信息，请参阅 [：To Do](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>适用于 Business 的 Windows 更新部署  
+
+适用于 Business 的 Windows 更新部署服务提供对 Windows 更新提供的内容的审批、计划和保护的控制。 它旨在与现有的适用于 Business 的 Windows 更新策略一起提供对单个更新的丰富控制。 部署服务提供的功能包括：
+
+* 将功能更新部署安排在特定的日期开始
+* 使用富表达式在几天或几周内部署阶段
+* 绕过预配置的适用于企业 Windows 更新的策略，立即在整个组织中部署安全更新
+* 通过针对唯一设备总体定制的部署，确保组织中硬件和软件的覆盖范围
+* 自动标识并暂停对设备进行部署，这些部署可能会受保护 [保留的影响](/windows/deployment/update/safeguard-holds)
+
+这些功能通过 Microsoft Graph API 提供，并且与 Microsoft Endpoint Manager 集成。 若要了解更多信息，请参阅 [适用于 Business 的 Windows 更新部署服务概述](https://aka.ms/wufb/deployment-service)。
 
 ## <a name="whiteboard"></a>Whiteboard
 
