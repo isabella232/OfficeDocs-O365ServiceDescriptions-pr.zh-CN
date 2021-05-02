@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 Web 的工具集合，可帮助你跨多个设备和多个 Office 365 服务安全地协作和进行通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023567"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074473"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -74,7 +74,7 @@ Microsoft Stream 是一种企业视频服务，组织内部人员可以使用该
 
 Microsoft Sway 是一款专业的数字故事讲述应用，可帮助你和同事使用基于 Web 的交互式画布表达想法。 Microsoft Sway 的内置设计引擎可帮助你生成专业、外观吸引人的报表、演示文稿等，而无需进行大量格式设置或其他培训。 还可以修改结果，以获得所需的独特外观。 Microsoft Sway 可使你的创建在任何屏幕上的任何浏览器中都显示出色的外观，并且可以通过发送链接与同事和客户共享它。 Microsoft Sway 可帮助你查找并汇集各种内容，而无需离开应用，因此你可以将图像、文本、视频和图表拖放到画布上。 若要了解详细信息，请参阅 [Sway](https://sway.com)。 Microsoft Sway 在 [Office 365 Germany 中尚不可用](office-365-germany.md)。
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 企业应用版
+## <a name="microsoft-365-apps-for-enterprise"></a>适用于企业的 Microsoft 365 应用
 
 Microsoft 365 企业应用版是已了解 (（包括 Word、PowerPoint、Excel、Outlook 和 Teams) 订阅）的始终最新的桌面应用套件。 Microsoft 365 企业应用版包括独特的智能功能，如 [**Excel**](https://go.microsoft.com/fwlink/p/?linkid=2109915)中的创意 [**、Word**](https://go.microsoft.com/fwlink/p/?linkid=2109916)中的研究工具、实时协作、Teams 作为团队合作的中心以及高级安全功能。 [](https://go.microsoft.com/fwlink/p/?linkid=2109917) 作为基于用户的许可证，您可以在最多五台电脑或 Mac、五台平板电脑和五台移动设备上部署 Office。 使用 1 TB 的 OneDrive 云存储，可以从任何位置访问和协作处理文件。
 
@@ -112,7 +112,7 @@ Microsoft To Do 是一个任务管理应用程序，它允许客户从任何设�
 
 若要了解更多信息，请参阅 [：To Do](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>适用于 Business 的 Windows 更新部署  
+## <a name="windows-update-for-business-deployment-service"></a>适用于 Business 的 Windows 更新部署服务 
 
 适用于 Business 的 Windows 更新部署服务提供对 Windows 更新提供的内容的审批、计划和保护的控制。 它旨在与现有的适用于 Business 的 Windows 更新策略一起提供对单个更新的丰富控制。 部署服务提供的功能包括：
 

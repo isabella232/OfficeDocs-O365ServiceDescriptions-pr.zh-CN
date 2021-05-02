@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了 Microsoft 365 政府版并介绍了购买选项。
-ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
-ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
+ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51874972"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074463"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
 
@@ -104,7 +104,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 
 下表显示了可满足每个线段需求的选项。<br><br> 
 
-| Item | GCC | GCC 高 | DoD |
+| 项目 | GCC | GCC 高 | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |政府 gov，GOVCON for commercial |GCC-High |DOD | 
 |**频道** |EA (LSP) 、AOS-G、MPSA、Web Direct、CSP |EA (LSP) 、AOS-G |EA |
@@ -113,7 +113,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 
 请按照以下步骤购买 Microsoft 365 政府版许可证：
 
-1. 填写并提交 GCC 或[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)表单，以验证组织的资格。 [](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)
+1. 填写并提交 GCC 或[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)表单，以验证组织的资格。 [](https://www.microsoft.com/microsoft-365/government/eligibility-validation)
 2. 与 Microsoft 帐户团队或合格的合作伙伴合作下订单。 客户只能通过选择的合作伙伴购买 Microsoft 365 美国政府版许可证。
 
 **LSPs GCC 和 GCC High (+500)**

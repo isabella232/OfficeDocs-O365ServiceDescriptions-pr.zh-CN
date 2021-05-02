@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解 Microsoft 365 和 Office 365 计划中的 Microsoft Teams 服务和功能可用性。
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767452"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074483"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -59,7 +59,7 @@ Microsoft Teams 不作为独立服务提供。
 <sup>1 Microsoft</sup> Teams GCC-High DOD 支持单个团队中的 2500 个成员。<br/>
 <sup>2</sup> Microsoft Planner 当前不可在私人频道中访问。<br/>
 <sup>3</sup> 必须配置直接路由，Microsoft Teams 语音和音频会议在 GCCH 和 DoD 中工作。<br/>
-<sup>4</sup> 目前，第三方应用程序和应用程序发布在这些云中不可用。<br/>
+<sup>4</sup> 目前，第三方应用程序和应用程序发布在这些云中不可用。 GCCH 和 DOD 不支持连接器。<br/>
 <sup>5</sup> Live Events is not available in GCC-High or DOD at this time.<br/>
 
 ### <a name="cloud-voice-features"></a>云语音功能
@@ -68,7 +68,7 @@ Microsoft Teams 不作为独立服务提供。
 
 ### <a name="live-events"></a>实时事件
 
-Office 365 中的此产品/服务取代了已停用的 Skype 会议直播。 实时事件功能可用于 Stream 服务中详述的许可计划。 有关详细信息，请查看 Microsoft [Stream 许可概述](/stream/license-overview)。 可通过 Stream、Yammer 或 Microsoft Teams 访问实时事件服务。 若要详细了解实时事件功能，请参阅 Yammer、Microsoft Teams 和 Microsoft Stream 中跨 [Microsoft 365 实时事件](/stream/live-event-m365)。
+Office 365 中的此产品/服务取代了已停用的 Skype 会议直播。 实时事件功能可用于 Stream 服务中详述的许可计划。 有关详细信息，请查看 Microsoft [Stream 许可概述](/stream/license-overview)。 可通过 Stream、Yammer 或 Microsoft Teams 访问实时事件服务。 若要详细了解实时事件功能，请参阅 Yammer、Microsoft Teams 和 Microsoft Stream 中跨 [Microsoft 365 实时事件](/stream/live-event-m365)。 若要了解有关规划实时事件（包括许可证要求）的更多信息，请参阅在 Microsoft Teams 中规划 [实时事件](/microsoftteams/teams-live-events/plan-for-teams-live-events)。
 
 ## <a name="learn-more"></a>了解详细信息
 
