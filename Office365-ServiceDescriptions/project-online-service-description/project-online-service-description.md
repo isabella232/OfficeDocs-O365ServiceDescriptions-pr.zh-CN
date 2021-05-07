@@ -13,128 +13,128 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online 是一种灵活的联机解决方案，用于 PPM (和日常工作) 项目组合管理。 Project Online 通过 Office 365 提供强大的项目管理功能，几乎从任何位置在任何设备上规划、确定项目和项目组合投资优先级和管理。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 992da5d280066914e1744ec31cd8d1ca341a98dd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
+ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
+ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652256"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52247970"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
 ## <a name="overview"></a>概述
 
-Microsoft Project 提供以下应用程序，以帮助满足组织对项目和工作管理的需求：
+Microsoft Project提供以下应用程序，以帮助满足组织对项目和工作管理的需求：
 
 - Project 网页版
 - Project Online 
-- Project Online 桌面客户端
+- Project Online桌面客户端
 
-本文将帮助你了解每个 Project 订阅中提供哪些应用程序以及每个应用程序提供哪些功能。
+本文将帮助你了解每个订阅中提供的应用程序Project以及每个应用程序提供的功能。
 
 ### <a name="project-for-the-web"></a>Project 网页版
 
-Project 网页应用是 Microsoft 最新的基于云的工作和项目管理产品。 Project 网页项目提供简单、强大的工作管理功能，以满足大多数需要和角色。 项目经理和工作组成员可以使用 Project 网页项目来计划和管理任何规模的工作。
+Project是 Microsoft 最新的基于云的工作和项目管理产品/服务。 Project Web 服务提供了简单、强大的工作管理功能，以满足大多数需要和角色。 Project管理员和团队成员可以使用 Project Web 功能来规划和管理任何规模的工作。
 
-Project 网页应用基于 Microsoft Power Platform 构建。 Power Platform 由 PowerApps、Power Automate、Power BI 和 Microsoft Dataverse 组成。 Project 网页数据存储在 Microsoft Dataverse 中。 
+Project构建于 Microsoft Power Platform 上。 Power Platform 由 PowerApps、Power Automate、Power BI 和 Microsoft Dataverse 组成。 Project数据的数据存储在 Microsoft Dataverse 中。 
 
-Project 网页版通过以下三个订阅提供：项目计划 1、项目计划 3 和项目计划 5。 Project [网页功能中列出的功能仅](#project-for-the-web-features) 与 Project 网页数据存储中的数据进行交互。
+Project订阅有三种：Project计划 1、Project计划 3 和 Project 计划 5。 Web 功能[Project中列出的功能](#project-for-the-web-features)仅与 Web 数据存储区Project数据进行交互。
 
 ### <a name="project-online"></a>Project Online
  
-Project Online 是一种灵活的联机解决方案，适用于 PPM (和) 项目组合管理。 Project Online 提供了强大的项目管理功能，用于几乎任何设备上的任何位置规划、确定项目和项目组合投资优先级 &mdash; 以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
+Project Online是一种灵活的联机解决方案，Project项目组合 (PPM) 和日常工作。 Project Online几乎任何设备上提供强大的项目管理功能，用于从几乎任何位置规划、确定项目和项目组合投资 &mdash; 优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
 
-Project Online 基于 SharePoint 平台构建，它将数据存储在 SharePoint 数据存储中。
+Project Online基于 SharePoint 平台构建，并且它将数据存储在SharePoint数据存储中。
 
-Project Online 通过两个订阅提供：项目计划 3 和项目计划 5。 [Project Online 功能中列出的功能](#project-online-features)仅与 Project Online SharePoint 数据存储中的数据进行交互。
+Project Online计划 3 和计划 5 Project两Project订阅。 功能中列出的[Project Online](#project-online-features)功能仅与数据存储区Project Online SharePoint交互。
 
-Project Online 的团队成员功能通过 Project Online Essentials 或 Project 计划 1 订阅提供。 Project Online Essentials 是具有 Project 计划 3 或项目计划 5 订阅的客户的团队成员附加订阅。 Project Online Essentials 和 Project Plan 1 订阅为工作组成员提供了一个 Web 界面，用于对 Project Online 中管理的项目执行任务和时间更新。
+通过计划 1 订阅Project Online团队成员Project Online 协作版或Project功能。 Project Online 协作版计划 3 或计划 5 *订阅* 的客户Project团队成员Project订阅。 Project Online 协作版和Project计划 1 订阅为工作组成员提供了一个 Web 界面，用于对在 Project Online 中管理的项目执行任务和Project Online。
 
-具有 Project Online Essentials 或 Project Plan 1 订阅的团队成员可以执行以下 Project Online 功能：
+具有计划 1 Project Online 协作版或Project订阅的团队成员可以执行以下Project Online功能：
 
 - 使用基于 Web 的界面
 - 更新任务、问题和风险
 - 提交时间表
-- 共享文档并与 Microsoft Teams 或 Skype for Business 用户协作
+- 与用户或用户共享Microsoft Teams Skype for Business协作
 
-Project Online Essentials 不包括 Project 网页版。 项目计划 1 包括 Project 网页版和 Project Online Essentials。
+Project Online 协作版不包括Project的 Web 应用程序。 Project计划 1 包括Project Web 和 Project Online 协作版。
 
-### <a name="project-online-desktop-client"></a>Project Online 桌面客户端
+### <a name="project-online-desktop-client"></a>Project Online桌面客户端
 
-Microsoft Project Online 桌面客户端是一种项目管理计划，具有自动计划、项目资源管理和内置报告功能。 Project Online 桌面客户端可以用作独立应用程序，也可以连接到 Project Online。 Project Online 桌面客户端是 Project Professional 桌面客户端的订阅版本，可用于 Project 计划 3 和 Project 计划 5 订阅。
+Microsoft Project Online桌面客户端是一个项目管理计划，该程序具有自动计划、项目资源管理和内置报告功能。 Project Online桌面客户端可以用作独立应用程序，也可以连接到Project Online。 Project Online客户端是 Project Professional 桌面客户端的订阅版本，可用于 Project 计划 3 和 Project 计划 5 订阅。
 
-### <a name="using-project-for-the-web-and-project-online-together"></a>将 Project 网页版和 Project Online 一同使用
+### <a name="using-project-for-the-web-and-project-online-together"></a>将Project Web 和 web Project Online一起
 
-虽然 Project 网页版和 Project Online 是单独的应用程序，但可以并排使用它们。 可以在 Project Home 中查看这两个应用程序中的所有项目。 可以使用 Project Roadmap 功能生成包含两个应用程序中的项目的路线图。 此外，您还可以使用 Power BI 和 Project 网页 Power BI 内容包，深入了解这两个应用程序中的项目和资源。<sup>3</sup>
+尽管Project和 web Project Online是单独的应用程序，但可以并排使用它们。 You can see all your projects from both applications in Project Home. 可以使用 Project 路线图功能来构建包含这两个应用程序中的项目的路线图。 此外，您还可以使用 Power BI 和 Project 网页Power BI内容包，深入了解这两个应用程序中的项目和资源。<sup>3</sup>
 
 此图显示了应用程序如何并行协作。
 
-![显示 Project 网页版和 Project Online 的图表](../media/project-online-applications.png)
+![显示 Web Project和一起Project Online图表](../media/project-online-applications.png)
 
-今后，Microsoft 将专注于 Project 网页创新。 但是，您可以放心地继续使用 Project Online，因为它会继续获得关键性能和安全改进。
+今后，Microsoft 将专注于Project创新。 但是，您可以放心地Project Online，因为它会继续获得关键性能和安全改进。
 
-## <a name="microsoft-project-subscriptions"></a>Microsoft Project 订阅
+## <a name="microsoft-project-subscriptions"></a>Microsoft Project订阅
 
-Microsoft Project 通过三个不同的订阅提供，以最好地满足组织的需求。 这些订阅为项目计划 1、项目计划 3 和项目计划 5。 若要跨订阅比较功能，请参阅跨 [应用程序和订阅的功能可用性](#feature-availability-across-applications-and-subscriptions)。<br><br>
+Microsoft Project三个不同的订阅，以最好地满足组织的需求。 这些订阅Project计划 1、Project计划 3 和 Project计划 5。 若要跨订阅比较功能，请参阅跨 [应用程序和订阅的功能可用性](#feature-availability-across-applications-and-subscriptions)。<br><br>
 
 |产品 | 计划 1 | 计划 3 | 计划 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project 网页版 |**x**  | **x x** | **x x** |
 |Project Online |**x** |**x x**| **x x x** |
-|Project Online 桌面客户端 | |**x**|**x**|
+|Project Online桌面客户端 | |**x**|**x**|
 
-在上表中， (**x**) 检查数指示计划提供的功能的常规级别。 例如，对于 Project Online，计划 5 提供的功能多于计划 3 的功能。
+在上表中， (**x**) 检查数指示计划提供的功能的常规级别。 例如，对于Project Online，计划 5 提供的功能多于计划 3。
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>跨应用程序和订阅的功能可用性
 
-### <a name="project-for-the-web-features"></a>Project 网页功能
+### <a name="project-for-the-web-features"></a>Project Web 功能
 
-本节中列出的功能仅与 Project 网页数据存储中的数据进行交互。 所有这些功能都可用于所有 Microsoft Project 订阅：项目计划 1、项目计划 3 和项目计划 5。<br><br>
+本节中列出的功能仅与 Web 数据存储Project数据进行交互。 所有这些功能均可用于所有Microsoft Project订阅：Project计划 1、Project计划 3 和 Project计划 5。<br><br>
 
-| 功能 | 说明 | Office 365 许可证 | 计划 1 | 计划 3 | 计划 5 |
+| 功能 | 说明 | Office 365许可证 | 计划 1 | 计划 3 | 计划 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
-|**项目、任务和时间管理**||||||
+|**Project、任务和时间管理**||||||
 |板视图 | 使用开箱即用和自定义任务板直观地跟踪项目任务，以改进工作流和状态监视。| 仅查看 | 是 | 是| 是|
 |相关性 | 设置和直观跟踪任务之间的依赖关系。| 仅查看 | 是 | 是| 是|
 |网格视图 | 使用任务的分层网格视图来计划和管理项目。 | 仅查看 | 是 | 是 | 是 |
 |里程碑 | 建立和跟踪重要的项目和任务里程碑。|仅查看 | 是 | 是 | 是 |
-|Project 主页 | 使用开始日期和结束日期以及自动计划跟踪和管理可交付结果。| 是 | 是 | 是 | 是 |
+|Project主页 | 使用开始日期和结束日期以及自动计划跟踪和管理可交付结果。| 是 | 是 | 是 | 是 |
 |任务计划 | 获取最近从事的项目以及需要密切监视的重要项目的一个鸟瞰图。| 仅查看 | 是 | 是 | 是 |
 |日程表视图 (甘特图)  | 直观地跟踪并了解分层日程表视图中的项目日期、依赖关系和工作分配。|仅查看 | 是 | 是 | 是 |
 |摘要任务 | 使用摘要任务规划、管理和跟踪可交付结果和阶段。| 仅查看 | 是 | 是 | 是 |
 |创建和使用任务自定义域 | 向项目中的任务添加本地自定义域、向这些字段添加数据或更新这些字段中的数据。| 仅查看 | 是 | 是 | 是 |
 |**协作** ||||||
-|Microsoft Teams 集成 | 在 Microsoft Teams 中协作处理项目。<sup>1</sup> | 是 | 是 | 是 | 是 |
+|Microsoft Teams集成 | 协作处理项目中Microsoft Teams。<sup>1</sup> | 是 | 是 | 是 | 是 |
 |**资源和计划管理** ||||||
-|项目团队设置 | 通过添加和删除成员并设置工作日历来管理项目工作组。 | 否 | 是 | 是 | 是 |
-|路线图 | 从 Microsoft Project Online、Microsoft Project 网页版和 Azure 板项目中生成跨项目的可视化交互式路线图。<sup>2</sup> 使用项目计划 1，你可以只读访问路线图。 使用项目计划 3 或项目计划 5，还可以创建路线图。 | 仅查看 | 仅查看 | 是 | 是 |
+|Project团队设置 | 通过添加和删除成员并设置工作日历来管理项目工作组。 | 否 | 是 | 是 | 是 |
+|路线图 | 构建跨项目（包括 web Microsoft Project Online、Microsoft Project 和 Azure Boards 项目的可视化交互式路线图。<sup>2</sup>通过Project计划 1，你可以只读访问路线图。 通过Project计划 3 或Project 5，您还可以创建路线图。 | 仅查看 | 仅查看 | 是 | 是 |
 |**报告**<sup>3</sup> ||||||
-|从 *Project 中读取 Web 数据* 报告 | 查看开箱即用或自定义 Power BI 报表、仪表板和门户，了解项目、计划、项目组合和资源数据。 | 否 | 否 | 是 | 是 |
-|使用 *Project 网页数据创建* 报告 | 通过基于开箱即用报表或从头开始生成自定义 Power BI 报告，了解对组织非常重要的数据。<br> 生成自定义 Power BI 仪表板和门户，以帮助满足特定的组织需求。 | 否 | 否 | 是 | 是 |
+|从 Web *Project读取* 报告 | 查看开箱即用或自定义报表以及仪表板，以了解项目、计划、项目组合和资源数据。 | 是 | 是 | 是 | 是 |
+|使用 Web *Project创建* 报告 | 通过基于开箱即用报表或从头开始生成自定义报告，了解对组织非常重要的数据。 <br>构建自定义仪表板以帮助满足特定的组织需求。 | 否 | 是 | 是 | 是 |
 |**可用性** ||||||
 |共同创作 | 与利益干系人及团队成员协作，以同时构建、编辑和更新任务列表、项目计划等。| 仅查看 | 是 | 是 | 是 |
 |图形指示器 | 使用图形指示器了解任务状态、工作分配等。| 仅查看 | 是 | 是 | 是 |
 |**行动能力** ||||||
 |移动应用程序 | 使用 PowerApps 生成自定义移动应用程序。<sup>4</sup> |否 | 否 | 是 | 是 |
 |**自定义和集成**||||||
-|使用开箱就地 Project 应用程序 | 使用开箱即用 Project 应用程序查看项目、创建新项目、向项目添加新数据或更新现有项目数据。 | 仅查看 | 是 | 是 | 是 |
-|自定义视图和表单 <sup>4</sup> | 仅在开箱即用 Project 应用程序中自定义视图和表单。 | 仅查看 | 是 | 是 | 是 |
+|使用开箱Project应用程序 | 使用开箱即用的应用程序Project查看项目、创建新项目、向项目添加新数据或更新现有项目数据。 | 仅查看 | 是 | 是 | 是 |
+|自定义视图和表单 <sup>4</sup> | 仅在开箱即用应用程序内自定义视图和Project表单。 | 仅查看 | 是 | 是 | 是 |
 |使用自定义列 | 查看、添加、更新或删除添加到表中的列中的数据。 | 仅查看 | 仅查看 | 是 | 是 |
 |使用自定义表 <sup>5</sup> | 创建并定义自定义表，以保存项目、项目组合等所需的其他数据。 | 否 | 仅查看 | 是 | 是 |
 |**安全性和用户管理**||||||
-|Office 新式组 | 建立项目工作组，以与团队成员协作并轻松设置供团队成员共享的资源集合。 | 是 | 是 | 是 | 是 |
+|Office新式组 | 建立项目工作组，以与团队成员协作并轻松设置供团队成员共享的资源集合。 | 是 | 是 | 是 | 是 |
 |**第三方应用**||||||
-|使用 *第三方* 应用连接到 Project 网页版 <sup>4</sup> | 使用自定义或第三方应用程序查看、创建、更新或删除任何本机或自定义 Project 表中的 Project 数据。<br> 在基于 Project 的第三方应用程序中为 Web 数据创建报告。 | 否 | 否 | 是 | 是 |
+|*连接Project第三* 方应用访问 Web <sup>4</sup> | 使用自定义或第三方应用程序查看、创建、更新或删除Project本机或自定义数据表中的Project数据。<br> 在基于 Web 数据Project第三方应用程序中创建报告。 | 否 | 否 | 是 | 是 |
 
 ### <a name="project-online-features"></a>Project Online 功能
 
-本节中列出的功能仅与 Project Online SharePoint 数据存储中的数据进行交互。 具有 Project Online Essentials 或 Project Plan 1 订阅的团队成员可以执行一些 Project Online 功能。 有关详细信息，请参阅 [Microsoft Project 服务说明 - 服务|Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)。<br><br>
+本节中列出的功能仅与数据存储区Project Online SharePoint交互。 具有计划 1 Project Online 协作版订阅Project团队成员可以执行一些Project Online功能。 有关详细信息，请参阅服务[Microsoft Project - 服务说明|Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)。<br><br>
 
-|功能 | 说明 | 项目计划 3 | 项目计划 5 |
+|功能 | 说明 | Project计划 3 | Project计划 5 |
 |--------|-------------|-----------------------------|------------------------|
-|**项目、任务和时间管理**||||
-|警报和提醒 | 在 Outlook 和 Microsoft Teams 中，通过提醒安排重要的即将开始的任务和项目事件。<sup>1</sup>| 是 | 是 |
+|**Project、任务和时间管理**||||
+|警报和提醒 | 在重要即将开始的任务和项目活动中保持计划，并定期Outlook Microsoft Teams。<sup>1</sup>| 是 | 是 |
 |基线 | 设置项目比较基准，以使用项目比较基准监视当前Project Web App。| 是 | 是 |
 |板视图 | 直观跟踪项目任务，以改进工作流和状态监视。 | 是 | 是 |
 |关键路径 | 使用"工具"直观地跟踪表示项目最长路径Project Web App。| 是 | 是 |
@@ -143,11 +143,11 @@ Microsoft Project 通过三个不同的订阅提供，以最好地满足组织�
 |甘特图视图 | 使用自定义项直观地跟踪并了解分层结构上的项目甘特图、依赖关系Project Web App。| 是 | 是 |
 |网格视图 | 使用任务层次结构网格视图（使用任务视图）来规划Project Web App。| 是 | 是 |
 |问题与风险管理 | 确定并跟踪项目和任务级别的问题和风险。| 是 | 是 |
-|主项目 | 使用项目组将较小的相关项目分组到单个主Project Web App。 | 是 | 是 |
-|通知 | 使用 Outlook 和 Teams 通知随时了解任务分配、状态和重要项目事件。<sup>1</sup> | 是 | 是 |
-|Project 主页 | 获取最近从事的项目以及需要密切监视的重要项目的一个鸟瞰图。| 是 | 是 |
-|项目版本控制 | 将项目的不同版本与显示版本之间变化情况的报告进行比较。 | 是 | 是 |
-|摘要任务 | 使用任务中的摘要任务规划、管理和跟踪可交付结果Project Web App。 | 是 | 是 |
+|主项目 | 使用项目组合在单个主项目下的较小Project Web App。 | 是 | 是 |
+|通知 | 随时查看任务分配、状态和重要项目事件，并Outlook Teams通知。<sup>1</sup> | 是 | 是 |
+|Project主页 | 获取最近从事的项目以及需要密切监视的重要项目的一个鸟瞰图。| 是 | 是 |
+|Project版本控制 | 将项目的不同版本与显示版本之间变化情况的报告进行比较。 | 是 | 是 |
+|摘要任务 | 使用摘要任务规划、管理和跟踪可交付结果和Project Web App。 | 是 | 是 |
 |任务计划 | 使用任务开始日期和结束日期、工作量、工作、前导和延隔时间以及依赖关系，使用任务开始日期和Project Web App。 | 是 | 是 |
 |任务更新 | 捕获时间和状态，并添加有关项目任务、非项目工作和非工作时间的注释。 | 是 | 是 |
 |日程表 | 使用自定义视图直观跟踪并了解日程表视图上的项目日期、依赖关系Project Web App。 | 是 | 是 |
@@ -158,57 +158,57 @@ Microsoft Project 通过三个不同的订阅提供，以最好地满足组织�
 |附件 | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予他们查看项目、任务和文档的权限，与组织外部人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档中心。 | 是 | 是 |
-|Microsoft Teams 集成 | 在 Microsoft Teams 中协作处理项目。<sup>1</sup> | 是 | 是 |
+|Microsoft Teams集成 | 协作处理项目中Microsoft Teams。<sup>1</sup> | 是 | 是 |
 |**需求管理** ||||
-|项目请求审批工作流设置 | 构建评估、确定传入需求优先级和批准传入需求所需的工作流。 | 否 | 是 |
-|创建项目请求表单 | 捕获有关传入需求的重要数据，以帮助你评估和确定新工作的优先级。 | 否 | 是 |
-|项目请求 | 跟踪、管理、评估和确定来自组织内部以及外部客户和合作伙伴的传入需求的优先级。 | 是 | 是 |
+|Project审批工作流设置 | 构建评估、确定传入需求优先级和批准传入需求所需的工作流。 | 否 | 是 |
+|Project请求表单创建 | 捕获有关传入需求的重要数据，以帮助你评估和确定新工作的优先级。 | 否 | 是 |
+|Project请求 | 跟踪、管理、评估和确定来自组织内部以及外部客户和合作伙伴的传入需求的优先级。 | 是 | 是 |
 |**资源、计划以及项目组合管理** ||||
-|项目成本和预算 | 使用计划进度和预算与实际时间和成本Project Web App。 | 是 | 是 |
-|项目团队设置 | 通过添加和删除成员、设置分配级别和添加外部成员来管理项目工作组。 | 是 | 是 |
+|Project成本和预算 | 使用计划进度和预算与实际时间和成本Project Web App。 | 是 | 是 |
+|Project团队设置 | 通过添加和删除成员、设置分配级别和添加外部成员来管理项目工作组。 | 是 | 是 |
 |资源容量视图 | 在项目、工作组和组织级别跟踪和管理资源容量。 | 是 | 是 |
 |资源成本计算 | 跟踪和管理项目的资源成本。 | 是 | 是 |
-|资源预订 (预订)  | 项目经理可以按角色、技能或名称提交资源请求。 资源经理可以审阅请求并分配可用的最佳资源。 |是<sup>8</sup> | 是<sup>9</sup> |
+|资源预订 (预订)  | Project管理员可以按角色、技能或名称提交资源请求。 资源经理可以审阅请求并分配可用的最佳资源。 |是<sup>8</sup> | 是<sup>9</sup> |
 |资源容量规划 | 在项目、工作组和组织级别跟踪和管理资源容量。 | 否 | 是 |
-|路线图 | 从 Microsoft Project Online、Microsoft Project 网页版和 Azure 板项目中生成跨项目的可视化交互式路线图。<sup>2</sup> | 是 | 是 |
+|路线图 | 构建跨项目（包括 web Microsoft Project Online、Microsoft Project 和 Azure Boards 项目的可视化交互式路线图。<sup>2</sup> | 是 | 是 |
 |项目组合分析和优先顺序 | 确定、选择并交付最符合组织业务策略并最大限度地提高投资回报率的项目组合 (ROI) 。 | 否 | 是 |
 |仪表板/门户 | 使用实时交互式仪表板了解项目组合、计划、项目、任务、团队和资源级别的状态、优先顺序等。 | 是 | 是 |
 |Work, generic, and material resources | 向项目添加资源，如人员等工作资源、木工等常规资源以及计算机和水泥等材料资源。 | 是 | 是 |
 |**报告**<sup>3</sup> ||||
 |Out-of-box reporting | 使用预建报表了解项目、计划、项目组合和资源数据。 | 是 | 是 |
-|自定义报告 | 通过基于开箱即用报表或从头开始生成自定义报告，了解对组织非常重要的数据。 | 是 | 是 |
+|自定义报表 | 通过基于开箱即用报表或从头开始生成自定义报告，了解对组织非常重要的数据。 | 是 | 是 |
 |仪表板和门户 | 构建自定义仪表板和门户以帮助满足特定的组织需求。 | 是 | 是 |
 |**自定义和集成**||||
-|自定义品牌塑造 | 使用自己的品牌、徽标和颜色自定义 Project 部署。 | 否 | 是 |
+|自定义品牌塑造 | 使用自己的Project、徽标和颜色自定义你的自定义部署。 | 否 | 是 |
 |Custom fields | 在项目、任务和资源级别添加自定义域，以跟踪对您的组织和项目非常重要的数据。 | 是 | 是 |
 |公式 | 使用跨任务和项目的公式计算和捕获重要数据。 | 是 | 是 |
 |PowerApps | 使用 PowerApps 通过 OData (构建和使用 web 和) 解决方案。<sup>4</sup> | 是 | 是 |
-|工作流 | 使用 Power Automate 通过 OData (自动化并) 业务流程。<sup>7</sup> | 是 | 是 |
+|工作流 | 通过 OData (自动化业务流程并将其与) 集成Power Automate。<sup>7</sup> | 是 | 是 |
 |Microsoft 365 集成 | 使用熟悉的 Microsoft 工具和应用程序进行协作、管理文档等。<sup>1</sup> | 是 | 是 |
-|Microsoft Planner 集成 | 将 Project 任务连接到 Planner 计划，并跟踪 Planner 中的详细工作。<sup>1</sup> | 是 | 是 |
+|Microsoft Planner 集成 | 连接 Project Planner 计划分配任务，并跟踪 Planner 中的详细工作。<sup>1</sup> | 是 | 是 |
 |**安全、用户和服务管理**||||
 |Active Directory integration | 从组织 Active Directory 的任何成员建立团队。<sup>10</sup> | 是 | 是 |
 |用户管理 | 在项目、团队和组织级别管理用户和组角色及权限。 | 否 | 是 |
-|服务管理 | 规划、安装和配置、维护和扩展 Microsoft Project 环境作为 Office 365<sup>1 环境的一</sup> 部分。 | 否 | 是 |
+|服务管理 | 规划、安装和配置、维护和扩展 Microsoft Project 环境，作为 Office 365<sup>1 环境的</sup>一部分。 | 否 | 是 |
 
 #### <a name="notes"></a>注释
 
-<sup>1</sup> 需要 Office 或 Microsoft 365 商业订阅。</br>
-<sup>单独获取 2</sup> 个 Azure 板。</br>
-<sup>3</sup> 可以使用 Power BI 报告 Project 网页版和 Project Online。 需要 Power BI 许可证。</br>
-<sup>4</sup> 除了访问 Project 网页版或 Project Online 客户数据的开箱即用 Project 应用程序外，生成和使用单独的 Power Apps 需要单独的 Power Apps 订阅。</br>
+<sup>1</sup>需要Office或Microsoft 365订阅。</br>
+<sup>2</sup> Azure Boards单独获取。</br>
+<sup>3</sup>使用 Project 报告网页Project Online需要Power BI许可证Power BI许可证。</br>
+<sup>4</sup>构建和使用Power Apps访问 Web 或 Project Online 客户数据的 Project 的开箱即用 Project 应用程序之外的单独 Power Apps 订阅。</br>
 <sup>5</sup> 限制为 5 个自定义表。</br>
-<sup>6</sup> 外部用户的 Project Online 许可遵循与内部用户相同的策略。 Project Online 网站上的任何交互都需要订阅项目计划 3 或项目计划 5。</br>
-<sup>7</sup> 使用 Power Automate 和 Project 网页版数据自动化和集成业务流程需要 Power Automate 订阅和 Project 计划 3 或 Project 计划 5 订阅。</br>
-<sup>8</sup> 具有项目计划 3 或项目计划 5 订阅的用户可以提交资源预订请求。 他们无法审阅、履行或批准资源参与请求。</br>
-<sup>9</sup> 具有项目计划 5 订阅的用户可以审阅、履行和批准资源预订请求。</br>
+<sup>6 Project Online</sup>用户的许可遵循与内部用户相同的策略。 网站的任何交互Project Online计划 3 Project计划 5 Project计划 5 订阅。</br>
+<sup>7</sup>针对 Web 数据的 Power Automate 自动化和集成业务流程Project需要 Power Automate 订阅和 Project 计划 3 或 Project 计划 5 订阅。</br>
+<sup>8</sup>拥有计划 3 Project计划 5 订阅Project提交资源预订请求。 他们无法审阅、履行或批准资源参与请求。</br>
+<sup>9</sup>拥有计划 5 Project的用户可以审阅、履行和批准资源预订请求。</br>
 <sup>10</sup> Active Directory 需要单独的订阅。 </br>
 
-### <a name="project-online-desktop-client-features"></a>Project Online 桌面客户端功能
+### <a name="project-online-desktop-client-features"></a>Project Online桌面客户端功能
 
 | 功能 | 说明 |
 |--------|-------------|
-|**项目和任务管理**||
+|**Project和任务管理**||
 |基线 | 设置项目比较基准以针对过去的性能监视当前性能。 |
 |日历视图 | 在每周或每月日历视图中跟踪重要项目和任务截止时间以及里程碑。 |
 |关键路径 | 直观地跟踪表示项目最长路径的任务。 |
@@ -229,14 +229,14 @@ Microsoft Project 通过三个不同的订阅提供，以最好地满足组织�
 |**资源和财务管理**||
 |Resource leveling | 通过自动对工作分配进行资源冲突或过度分配来解决。 |
 |Work, generic, and material resources | 向项目添加资源，如人员等工作资源、木工等常规资源以及计算机和水泥等材料资源。 |
-|项目成本和预算 | 将计划进度和预算与实际时间和成本进行比较。 |
+|Project成本和预算 | 将计划进度和预算与实际时间和成本进行比较。 |
 |资源成本计算 | 跟踪和管理项目的资源成本。|
 |**报告** ||
-|自定义报告 | 生成项目、计划、项目组合和资源自定义报告。 |
+|自定义报表 | 生成项目、计划、项目组合和资源自定义报告。 |
 |Out-of-box reporting | 使用预建报表了解项目、计划、项目组合和资源数据。 |
-|PDF and XPS output | 将 Project 文件另存为 PDF 或 XPS 文件。 |
+|PDF and XPS output | 将Project文件另存为 PDF 或 XPS 文件。 |
 |**可用性**||
-|自动完成 | 在键入时获取任务或资源名称和依赖项的建议。 |
+|Auto-complete | 在键入时获取任务或资源名称和依赖项的建议。 |
 |筛选的视图 | 按计划中的任意值筛选项目计划 |
 |图形指示器 | 使用图形指示器了解任务状态、工作分配等。 |
 |多级撤消 | 使用"撤消"菜单同时撤消 **多个** 更改。 |
@@ -247,36 +247,36 @@ Microsoft Project 通过三个不同的订阅提供，以最好地满足组织�
 |公式 | 使用跨任务和项目的公式计算和捕获重要数据。 |
 |模板 | 为常见项目（包括项目计划、工作组和工作分配）创建模板。 |
 |.mpp 导入/导出 | 从现有 .mpp 文件创建新项目或创建现有项目的 .mpp 文件。 |
-|Excel 导入/导出 | 从 Excel 文件创建新项目或创建现有项目的 Excel 文件。 |
+|Excel导入/导出 | 从现有Excel新建项目，或Excel现有项目的新建项目文件。 |
 
 ## <a name="service-considerations"></a>服务注意事项
 
 > [!NOTE]
-> Project 网页应用当前对 GCC、GCC High 和 DoD 不可用。 我们正致力于将 Project 网页发布给你，但目前无法共享一个稳固的时间范围。
+> Project当前不可用于 GCC、GCC High 和 DoD。 我们正在致力于为您提供Project Web 服务，但此时无法共享一个稳固的时间范围。
 
 ### <a name="licensing-considerations"></a>许可注意事项
 
-- Project Online 网站上的任何交互都至少需要租户内的项目计划 3 或项目计划 5 订阅。
-- 当最后一个项目计划 1、项目计划 3 或项目计划 5 订阅过期时，Web 实例的 Project 将不会自动删除，除非没有依赖于 Microsoft Dataverse 的活动订阅。
-- 当最后一个项目计划 3 或项目计划 5 订阅过期时，Project Online 实例将在 120 天后删除。
-- 对于 Project Online 试用订阅，试用版将在试用期结束后的 30 天内删除。
-- 对于 Project 网页版试用订阅，试用版实例不会被删除，除非没有依赖于 Microsoft Dataverse 的活动订阅。
+- 在租户内Project Online任何交互都至少需要Project计划 3 或Project 5 计划订阅。
+- 当你的最后一个 Project 计划 1、Project 计划 3 或 Project 计划 5 订阅过期时，Web 实例的 Project 将不会自动删除，直到你没有依赖于 Microsoft Dataverse 的活动订阅。
+- 当最后一Project计划 3 或 Project 计划 5 订阅过期时，Project Online 实例将在 120 天后删除。
+- For Project Online trial subscriptions， your trial instances will be deleted 30 days after your trial period ends.
+- For Project for the web trial subscriptions， your trial instances will not be deleted until you have no active subscriptions that depend on the Microsoft Dataverse.
 
 ### <a name="use-of-sharepoint-online"></a>使用 SharePoint Online
 
-Project Online 需要使用 SharePoint Online，它作为 Project Online 的一部分进行预配。 对项目计划 3 或项目计划 5 订阅提供的 SharePoint Online 功能的访问权限仅限于存储和访问数据以支持 Project Online。
+Project Online要求使用 SharePoint Online，它作为 Project Online 的一Project Online。 对 SharePoint 计划 3 或 Project 计划 5 订阅Project Online 功能的访问权限仅限于存储和访问数据以支持Project Online。
 
-### <a name="project-roadmap-and-power-automate"></a>Project 路线图和 Power Automate
+### <a name="project-roadmap-and-power-automate"></a>Project路线图和Power Automate
 
-Project 路线图需要使用 Power Automate，它作为 Project 订阅的一部分进行预配。 Power Automate 功能权限仅限于 Project 路线图所需的 Power Automate 功能。 Project 路线图所需的 Power Automate 功能在 Microsoft 365 管理中心的"应用"部分显示为 **"Project** 与 Flow 的数据集成"服务计划。
+Project路线图要求使用 Power Automate，它作为你的订阅的一Project进行预配。 对Power Automate权限仅限于 Power Automate 路线图所需的Project功能。 Power Automate路线图Project在 Microsoft 365 管理中心的"应用"部分中显示为 **Project** 与 Flow 服务计划的数据集成。 
 
-### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project 网页和 Microsoft Dataverse
+### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project Web 和 Microsoft Dataverse
 
-Project 网页应用需要使用 Microsoft Dataverse 来存储其数据。 Microsoft Dataverse 数据库作为 Project 订阅的一部分进行设置。 对 Microsoft Dataverse 功能的访问权限仅限于存储和访问数据以支持 Project 网页版。 Project 所需的 Microsoft Dataverse 功能在 Microsoft 365 管理中心的"应用"部分显示为 Project 服务计划的 Common **Data** Service。
+Project需要使用 Microsoft Dataverse 来存储其数据。 Microsoft Dataverse 数据库作为你的订阅的一Project设置。 对 Microsoft Dataverse 功能的访问权限仅限于存储和访问数据，以支持Project Web 服务。 Microsoft Dataverse 功能Project在管理中心的"应用"部分Project Common **Data Service for** Microsoft 365服务计划。
 
-对于具有 5 (5) 或多个 Project 网页版许可证的 Project 客户，适用于 Web 客户的 Project 可以部署到 Power Platform Production 和 Sandbox 环境。
+For Project Customers with five (5) or more Project for the web licenses， Project for the web customers may deploy to Power Platform Production and Sandbox environments.
 
-| 包含/累算的容量                                      | Project P1 | Project P3 | Project P5 |
+| 包含/累算的容量                                      | ProjectP1 | ProjectP3 | ProjectP5 |
 |--------------------------------------------------------------------|------------|------------|------------|
 | Dataverse (Common Data Service) 数据库：包含/租户 | 3 GB        | 5 GB        | 5 GB        |
 | Dataverse 数据库：USL 数据库的 (/用户订阅)         | 50 MB       | 250 MB      | 250 MB      |
@@ -286,11 +286,11 @@ Project 网页应用需要使用 Microsoft Dataverse 来存储其数据。 Micro
 
 ### <a name="data-backup-and-retention"></a>数据备份和保留
 
-Project 网页版和 Project Online 的数据备份和保留策略与 Office 365 相同。 有关详细信息，请参阅[Data Retention， Deletion， and Destruction in Office 365。](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)
+Project Web 和 Project Online 都具有相同的数据备份和保留策略Office 365。 有关详细信息，请参阅数据保留[、删除和销毁Office 365。](/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview)
 
-### <a name="project-for-the-web-boundaries-and-limitations"></a>Project 网页边界和限制
+### <a name="project-for-the-web-boundaries-and-limitations"></a>Project Web 边界和限制
 
-Project 网页应用有一些限制，如下表所述。<br><br>
+Project Web 的搜索功能有一些限制，如下表所述。<br><br>
 
 | 实体/字段 | 限制 |
 |-------------|-------|
@@ -307,6 +307,6 @@ Project 网页应用有一些限制，如下表所述。<br><br>
 |最大 项目的总资源 | 150 |
 |最大 仅 (后续) 的链接总数 | 600 |
 
-### <a name="project-online-boundaries-and-limitations"></a>Project Online 边界和限制
+### <a name="project-online-boundaries-and-limitations"></a>Project Online边界和限制
 
-Project Online 有一些限制。 有关详细信息，请参阅 [Project Online：软件边界和限制](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)。
+Project Online有一些限制。 有关详细信息，请参阅[Project Online：软件边界和限制](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)。
