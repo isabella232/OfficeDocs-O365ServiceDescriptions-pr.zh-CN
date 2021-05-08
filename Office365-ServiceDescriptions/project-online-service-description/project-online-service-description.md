@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247970"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266362"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -122,6 +122,10 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |自定义视图和表单 <sup>4</sup> | 仅在开箱即用应用程序内自定义视图和Project表单。 | 仅查看 | 是 | 是 | 是 |
 |使用自定义列 | 查看、添加、更新或删除添加到表中的列中的数据。 | 仅查看 | 仅查看 | 是 | 是 |
 |使用自定义表 <sup>5</sup> | 创建并定义自定义表，以保存项目、项目组合等所需的其他数据。 | 否 | 仅查看 | 是 | 是 |
+|**Power Automate工作流和业务流程流** <sup>7</sup> ||||||
+| | 定义并使用利用Power Automate数据（包括Project和列）的云流。 | 否 | 是 | 是 | 是 |
+| | 定义Power Automate数据（包括自定义表Project列）的业务流程流。 | 否 | 否 | 是 | 是 |
+| | 使用Power Automate数据的业务流程流Project流。 | 否 | 是 | 是 | 是 |
 |**安全性和用户管理**||||||
 |Office新式组 | 建立项目工作组，以与团队成员协作并轻松设置供团队成员共享的资源集合。 | 是 | 是 | 是 | 是 |
 |**第三方应用**||||||
@@ -199,7 +203,14 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 <sup>4</sup>构建和使用Power Apps访问 Web 或 Project Online 客户数据的 Project 的开箱即用 Project 应用程序之外的单独 Power Apps 订阅。</br>
 <sup>5</sup> 限制为 5 个自定义表。</br>
 <sup>6 Project Online</sup>用户的许可遵循与内部用户相同的策略。 网站的任何交互Project Online计划 3 Project计划 5 Project计划 5 订阅。</br>
-<sup>7</sup>针对 Web 数据的 Power Automate 自动化和集成业务流程Project需要 Power Automate 订阅和 Project 计划 3 或 Project 计划 5 订阅。</br>
+<sup>7</sup> Power Automate应用程序Project限于应用程序上下文Project。 这意味着，对于触发器和操作，包含在流Project可以：
+
+- 连接应用程序使用权限内的任何Project数据源：
+  - 通过标准连接器提供的数据源
+  - Project Microsoft Dataverse 连接器访问数据
+- 通过内置触发器/操作Project在 (应用程序内直接触发) 
+
+如果流是隔离的，并且与 Project 应用程序无关，则需要购买平台许可证。</br>
 <sup>8</sup>拥有计划 3 Project计划 5 订阅Project提交资源预订请求。 他们无法审阅、履行或批准资源参与请求。</br>
 <sup>9</sup>拥有计划 5 Project的用户可以审阅、履行和批准资源预订请求。</br>
 <sup>10</sup> Active Directory 需要单独的订阅。 </br>
