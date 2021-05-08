@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652316"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264790"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -50,6 +50,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 - Microsoft 365 商业应用版
 - Microsoft 365 商业标准版
 - Microsoft 365 企业应用版
+- Office 365 A1
 - Office 365 企业版 E1
 - Office 365 政府版 G1
 - 适用于非营利组织的 Microsoft 365 Business Basic 版
@@ -65,7 +66,6 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 
 - Office 365 企业版 E3
 - Office 365 企业版 E5
-- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 美国政府版 G3
@@ -98,7 +98,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 
 OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个用户的需求。
   
-不支持存储除各个用户的工作文件以外的其他数据（包括系统备份以及部门和组织级别数据），也不支持将每用户许可证分配给机器人、部门或其他非人为实体。 若要执行更高级的内容管理和协作（包括跨团队或组织存储和管理文件、通信和 Intranet 网站），SharePoint 是最佳解决方案。
+不支持存储除各个用户的个人工作文件以外的其他数据（包括系统备份以及部门和组织级别数据），也不支持将每用户许可证分配给机器人、部门或其他非人为实体。若要执行更高级的内容管理和协作（包括跨团队或组织存储和管理文件、通信和 Intranet 网站），SharePoint 是最佳解决方案。
   
 ## <a name="onedrive-limits"></a>OneDrive 限制
 
