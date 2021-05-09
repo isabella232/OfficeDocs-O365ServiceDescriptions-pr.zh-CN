@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 本文概述了 Microsoft 365 政府版并介绍了购买选项。
-ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+description: 本文概述了政府Microsoft 365并介绍了购买选项。
+ms.openlocfilehash: 0d054441cede496c18b9b8a526e0967e1ee85113
+ms.sourcegitcommit: 15f8d2eb34dab74bbe4f888f6700336143ab6cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074463"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52286521"
 ---
-# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 政府版 - 如何购买
+# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府 - 如何购买
 
-为了响应美国公共部门不断变化的独特要求，Microsoft 为美国公共部门客户创建了特定的 Microsoft 365 政府环境。 此服务说明概述了环境，并提供了购买方法详细信息。 建议与其他 [Microsoft 365 和 Office 365](../../office-365-service-descriptions-technet-library.md)服务说明一起阅读此服务说明。
+为了响应美国公共部门不断变化的独特要求，Microsoft 为美国公共部门Microsoft 365创建了特定的政府环境。 此服务说明概述了环境，并提供了购买方法详细信息。 建议您与其他服务说明一起阅读此服务Microsoft 365[和Office 365说明](../../office-365-service-descriptions-technet-library.md)。
   
-## <a name="whats-microsoft-365-government"></a>什么是 Microsoft 365 政府版？
+## <a name="whats-microsoft-365-government"></a>什么是政府Microsoft 365？
 
-Microsoft 365 政府版是一组生产力、安全性和移动性云软件功能，专为美国政府机构和承包商定制，用于保存受控的未分类信息。 Microsoft 365 政府版通过满足最严格的合规性要求的独特环境提供，是一项针对美国政府客户的云产品/服务，尽可能与 Microsoft 商业云企业产品/服务的特性和功能相匹配。
+Microsoft 365政府是一组生产力、安全性和移动性云软件功能，专为美国政府机构和承包商定制，用于保存受控的未分类信息。 Microsoft 365 Government 通过满足最严格的合规性要求的独特环境提供，是一项针对美国政府客户的云产品/服务，尽可能与 Microsoft 商业云企业产品/服务的特性和功能相匹配。
   
-## <a name="whats-the-value-of-microsoft-365-government"></a>Microsoft 365 政府版的价值是什么？
+## <a name="whats-the-value-of-microsoft-365-government"></a>政府计划的价值Microsoft 365是什么？
 
-Microsoft 365 政府版通过帮助机构有效管理法规数据合规性要求，随时随地帮助美国政府领导和工作人员提高工作效率，从而实现移动生产力和安全的合规性协作。 下表提供了关键政府角色的示例。<br><br>
+Microsoft 365政府通过帮助机构有效管理法规数据合规性要求，随时随地帮助美国政府领导和工作人员提高工作效率，从而实现移动生产力和安全的合规性协作。 下表提供了关键政府角色的示例。<br><br>
  
 | 政府领导可以... | 政府员工可以... | 现场人员可以... |
 |:-----|:-----|:-----|
@@ -35,30 +35,30 @@ Microsoft 365 政府版通过帮助机构有效管理法规数据合规性要求
 |在办公室或路况中随时了解情况，与员工和公民保持联系  <br/> |通过公民承诺实现更深入的参与，以帮助提高员工保留率  <br/> | 跨机构位置打造更强的社区意识  <br/> |
 |确保符合美国政府标准的解决方案，有助于降低成本并提高灵活性  <br/> |||
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Microsoft 365 政府版与 Microsoft 365 企业版产品/服务有什么不同？
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>哪些方面Microsoft 365政府版Microsoft 365企业产品/服务不同？
 
-Microsoft 365 政府版专为满足美国政府机构在四个关键领域的合规性要求而设计的：
+Microsoft 365政府专为满足美国政府机构在四个关键领域的合规性要求而设计的：
 
 **独占社区。** 政府数据中心仅适用于政府机构或部门，或已授权代表美国政府保留和处理控制信息的商业公司。
 
 **已屏蔽人员。** 对组织的客户内容的访问权限仅限于经过筛选的 Microsoft 人员，这些人员是美国政府公民，已通过所需的背景调查。
 第三方审核。 所有基础结构都由经认证的第三方审核员进行审核，该审核员提供安全评估报告或证明书，联邦机构使用该报告或证明书来授权在 ATO (运行) 。 
 
-**内容存储。** 数据通过合规的基础结构存储在美国大陆内。 下表总结了 Microsoft 365 政府版环境和承诺。<br><br>
+**内容存储。** 数据通过合规的基础结构存储在美国大陆内。 下表总结了政府Microsoft 365和承诺的要求。<br><br>
 
 | 产品/服务 | 承诺 |
 |:----------|:----------------------------------|
-|Microsoft 365 政府版 GCC  <br/> |FedRamp High、DFARS、CJIS、IRS 1075、DISA SRG L2 <br/> |
-|Microsoft 365 政府版 GCC High  <br/> |FedRamp High、ITAR、DFARS、DISA SRG L4 控件 <br/> |
-|Microsoft 365 政府版 DoD  <br/> |DISA SRG L5  <br/> |
+|Microsoft 365政府GCC  <br/> |FedRamp High、DFARS、CJIS、IRS 1075、DISA SRG L2 <br/> |
+|Microsoft 365政府GCC高  <br/> |FedRamp High、ITAR、DFARS、DISA SRG L4 控件 <br/> |
+|Microsoft 365政府 DoD  <br/> |DISA SRG L5  <br/> |
 
 有关 Microsoft 安全性和合规性认证详细信息，请访问 [Microsoft 信任中心 ](https://www.microsoft.com/trustcenter/default.aspx)  
 
-## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 政府版资格和验证
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365政府资格和验证
 
-Microsoft 365 政府版适用于符合条件的政府客户和受支持保留或处理控制信息的政府机构。 这两类客户的资格条件在 Microsoft 政府云中保持一致。
+Microsoft 365政府适用于符合条件的政府客户和受支持保留或处理控制信息的非盈利组织。 这两类客户的资格条件在 Microsoft 政府云中保持一致。
 
-GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的任何客户，DoD 环境供美国国防部专门使用。 服务可用性和价格不同，GCC 对于未保留 FedRAMP High 或 DoD 控制的未分类信息的所有客户来说，GCC 仍然是 (产品) 。
+GCC高GCC产品/服务都适用于任何有资格使用 Microsoft 政府云的客户，DoD 环境供美国国防部专门使用。 服务可用性和价格有所不同，GCC对于未保留 FedRAMP High 或 DoD 控制的未分类信息的所有客户， (CUI) 。
 
 符合条件的政府客户由以下客户之一定义：
 
@@ -78,29 +78,29 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 - 能源部门 (DoE) UCNI
 - CJI (犯罪) 
 - 国防部影响级别数据
-- 需要 Microsoft 365 政府版的其他数据类型
+- 需要政府提供的其他Microsoft 365数据
 
 国际商业实体可能符合资格，但可能需要监管数据才能通过其美国子公司购买服务。
 
-若要访问 Microsoft 365 政府版产品/服务，需要上面列出的组之一的成员身份证明。
+若要访问政府产品/服务，需要上面列出的其中一个Microsoft 365证明。
 
-## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Microsoft 365 政府版云环境中提供哪些服务和功能？
+## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>政府云环境中提供哪些服务和Microsoft 365功能？
 
-若要了解有关 Microsoft 365 政府版中可用服务的信息，请参阅以下资源：
+若要了解有关政府中可用服务Microsoft 365，请参阅以下资源：
 
 - [Office 365 政府版服务说明](office-365-us-government.md)
-- [美国政府企业移动性 + 安全性服务说明](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [企业移动性 + 安全性美国政府服务说明](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [面向美国政府客户的Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [政府团队 - GCC 部署](/MicrosoftTeams/plan-for-government-gcc)
-- [政府团队 - GCC 高部署](/MicrosoftTeams/plan-for-government-gcc-high)
-- [政府团队 - DoD 部署](/MicrosoftTeams/plan-for-government-dod)
-- [政府社区云中的 Outlook for iOS 和 Outlook for Android](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 美国政府](/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](/flow/us-govt)
-- [Microsoft 365 政府版产品页面](https://www.microsoft.com/microsoft-365/government)
+- [Teams政府 - GCC部署](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams政府部署 - GCC高部署](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams政府部署 - DoD 部署](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook中适用于 iOS 和 Android 政府社区云](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps美国政府](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate 美国政府](/flow/us-govt)
+- [Microsoft 365政府产品页面](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Microsoft 365 政府版提供了哪些销售渠道？
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>哪些销售渠道可供政府Microsoft 365？
 
 下表显示了可满足每个线段需求的选项。<br><br> 
 
@@ -109,17 +109,18 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 |**SKU** |政府 gov，GOVCON for commercial |GCC-High |DOD | 
 |**频道** |EA (LSP) 、AOS-G、MPSA、Web Direct、CSP |EA (LSP) 、AOS-G |EA |
 
-## <a name="how-do-i-buy-microsoft-365-government"></a>如何购买 Microsoft 365 政府版？
+## <a name="how-do-i-buy-microsoft-365-government"></a>如何购买政府Microsoft 365？
 
-请按照以下步骤购买 Microsoft 365 政府版许可证：
+请按照以下步骤购买政府Microsoft 365许可证：
 
-1. 填写并提交 GCC 或[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)表单，以验证组织的资格。 [](https://www.microsoft.com/microsoft-365/government/eligibility-validation)
-2. 与 Microsoft 帐户团队或合格的合作伙伴合作下订单。 客户只能通过选择的合作伙伴购买 Microsoft 365 美国政府版许可证。
+1. 填写并提交 GCC[或](https://www.microsoft.com/microsoft-365/government/eligibility-validation)[GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General)表单，以验证组织的资格。
+2. 与 Microsoft 帐户团队或合格的合作伙伴合作下订单。 客户只能通过Microsoft 365购买美国政府版许可证。
 
-**LSPs GCC 和 GCC High (+500)**
+**LSP GCC高GCC高 (+500 个席位)**
 
 - CDW
 - 以前 (PC 连接连接) 
+- Crayon
 - Dell
 - Hewlett Packard
 - 见解
@@ -130,7 +131,7 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 - Softchoice
 - 国际区域
 
-**AOS-G 合作伙伴 GCC 和 GCC High (500 个席位)**
+**AOS-G 合作伙伴GCC 500 GCC 500 (高)**
 
 - Accenture Federal Services， LLC
 - 敏捷 IT， Inc.
@@ -159,31 +160,31 @@ GCC 和 GCC 高产品/服务均适用于有资格使用 Microsoft 政府云的�
 - TechTrend， Inc.
 - Vexcel
 
-**注意：** 上述列表中所有 Microsoft 授权解决方案提供商 (LSP) 都可以通过 企业协议 (EA) 处理 GCC 和 GCC High，以创建 CPS (客户价目表) 。 不符合 EA 资格的组织可以通过列出的 AOS-G 合作伙伴或云解决方案提供商合作伙伴计划购买 GCC 许可证。
+**注意：** 上述列表中的所有 Microsoft 许可解决方案提供商 (LSP) 都可以通过 企业协议 (EA) 交易 GCC 和 GCC High，以创建客户价格表 (CPS) 。 不符合 EA 资格的组织可以通过列出的 AOS-G GCC云解决方案提供商合作伙伴计划购买许可证。
 
 **如果你与云解决方案提供商合作伙伴合作，请联系他们或 [查找云解决方案提供商](https://www.microsoft.com/solution-providers/home)。**
 
 ## <a name="what-trials-are-available"></a>哪些试用版可用？
 
 - [EMS。](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) 客户可以选择 EMS 页面右上角的"立即试用"按钮，以完成 Office 商务门户上的限制注册过程，从而将客户路由到 Azure Active Directory (AAD) 门户。
-- [Office 365。](https://aka.ms/gcctrial) 仅 GCC 提供为期一个月的免费试用版。  
-- Microsoft 不会向商业客户提供 Office 365 GCC 试用版，也不提供 GCC High 或 DoD 试用版。
+- [Office 365。](https://aka.ms/gcctrial) 仅组织提供为期一个月的免费GCC试用版。  
+- Microsoft 不会向商业客户提供 Office 365 GCC 试用版，并且没有 GCC DoD 试用版。
 
 ## <a name="where-can-i-learn-more"></a>在哪儿可以了解更多信息？
 
-请参阅以下资源，详细了解 Microsoft 365 政府版。
+请参阅以下资源，了解有关政府Microsoft 365信息。
 
 - [Office 365 政府版服务说明](office-365-us-government.md)
-- [美国政府企业移动性 + 安全性服务说明](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [企业移动性 + 安全性美国政府服务说明](/enterprise-mobility-security/solutions/ems-govt-service-description)
 - [面向美国政府客户的Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [政府团队 - GCC 部署](/MicrosoftTeams/plan-for-government-gcc)
-- [政府团队 - GCC 高部署](/MicrosoftTeams/plan-for-government-gcc-high)
-- [政府团队 - DoD 部署](/MicrosoftTeams/plan-for-government-dod)
-- [政府社区云中的 Outlook for iOS 和 Outlook for Android](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps 美国政府](/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](/flow/us-govt)
+- [Teams政府 - GCC部署](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams政府部署 - GCC高部署](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams政府部署 - DoD 部署](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook中适用于 iOS 和 Android 政府社区云](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps美国政府](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate 美国政府](/flow/us-govt)
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap)
-- [Microsoft 365 政府版产品页面](https://www.microsoft.com/microsoft-365/government)
+- [Microsoft 365政府产品页面](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 政府行业页面](https://www.microsoft.com/enterprise/government)
-- [Microsoft IT 技术社区 - 公共部门](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
+- [Microsoft IT 技术Community - 公共部门](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
 - [Azure 政府](https://azure.microsoft.com/global-infrastructure/government/)
