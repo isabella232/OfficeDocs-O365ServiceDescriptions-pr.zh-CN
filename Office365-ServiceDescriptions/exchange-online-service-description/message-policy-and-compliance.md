@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-description: 了解 Exchange Online 中的邮件策略和合规性。
+description: 了解邮件策略和邮件Exchange Online。
 ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -25,9 +25,9 @@ ms.locfileid: "51652706"
 
 Exchange Online 邮箱位于云中，对其进行存档需要独特的托管环境。在有些情况下，也可使用 Exchange Online 来将内部部署的邮箱存档到云中。本节介绍使用 Exchange Online 进行存档的各种选择。
   
-Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为用户提供存储较旧电子邮件的便利位置的就地存档。 "In-Place 存档"是一种特殊类型的邮箱，它显示在 Outlook 和 Web 上的 Outlook 中的用户主邮箱文件夹旁边。 用户可以按他们访问和搜索其主邮箱的相同方式访问和搜索此存档。 可用功能取决于所使用的客户端：
+Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为用户提供存储较旧电子邮件的便利位置的就地存档。 "In-Place 存档"是一种特殊类型的邮箱，与用户的主邮箱文件夹一起显示在 Outlook 中Outlook Web 上。 用户可以按他们访问和搜索其主邮箱的相同方式访问和搜索此存档。 可用功能取决于所使用的客户端：
   
-- **Outlook 2016、Outlook 2013、Outlook 2010** 和 Outlook 网页版用户可以访问存档的全部功能，以及相关的合规性功能，如对保留和存档策略的控制。 
+- **Outlook 2016、Outlook 2013、Outlook 2010 和 Outlook 网页版** 用户可以访问存档的全部功能，以及相关的合规性功能，如对保留和存档策略的控制。 
     
 - **Outlook 2007** 用户具有就地存档的基本支持，但不是所有的存档和合规性功能都可用。例如，用户无法将保留或存档策略应用到邮箱中的邮件，而是必须依赖管理员设置的策略。 
     
@@ -41,12 +41,12 @@ Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为�
     
 ### <a name="archive-sizes"></a>存档大小
 
-每个个人存档中只能存储一个用户的邮件数据。 存储空间分配取决于订阅计划。 有关存档邮箱大小的信息，请参阅 Exchange Online 限制中的"邮箱存储 [限制"部分](exchange-online-limits.md)。
+每个个人存档中只能存储一个用户的邮件数据。 存储空间分配取决于订阅计划。 有关存档邮箱大小的信息，请参阅邮箱限制中的"邮箱存储Exchange Online[部分](exchange-online-limits.md)。
   
 > [!IMPORTANT]
 > - 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 Microsoft 保留拒绝在个人方案或其他不当使用情况下使用邮箱存档的情况下进行无限制存档的权利。
 > - 就地存档对 Outlook 用户有特定的许可要求。Outlook 2007 用户必须具有 2011 年 2 月的 Office 2007 累积更新才能访问个人存档。 
-> - Exchange Online 不支持管理员驱动的将 .pst 文件导入到个人存档的 Exchange Server 2010 Service Pack 1 或更高版本的  _New-MailboxImportRequest_ Windows PowerShell cmdlet。 如果用户在 Exchange Online 中具有主邮箱和此存档，则管理员可以使用 PST Capture 这款免费工具来将 .pst 文件数据导入到用户的主邮箱或存档中。
+> - Exchange Online不支持管理员驱动的将 .pst 文件导入到个人存档的 Exchange Server 2010 Service Pack 1 或更高版本的 _New-MailboxImportRequest_ Windows PowerShell cmdlet。 如果用户在 Exchange Online 中具有主邮箱和此存档，则管理员可以使用 PST Capture 这款免费工具来将 .pst 文件数据导入到用户的主邮箱或存档中。
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>内部部署邮箱的基于云的存档
 
@@ -57,13 +57,13 @@ Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为�
   
 ## <a name="retention-tags-and-retention-policies"></a>保留标记和保留策略
 
-Exchange Online 提供了保留策略，可帮助组织减少与电子邮件和其他通信关联的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略的菜单，让他们使用 Outlook 2010 或更高版本或 Web 上的 Outlook 将策略应用于特定项目、对话或文件夹。
+Exchange Online 提供了保留策略，可帮助组织减少与电子邮件和其他通信关联的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略菜单，让他们使用 Outlook 2010 或更高版本或 web 上的 Outlook 将策略应用于特定项目、对话或文件夹。
   
 在 Exchange Online 中，管理员通过使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 管理保留策略。
   
 Exchange Online 提供了两种类型的策略：存档策略和删除策略。可以在相同的项目或文件夹中结合使用这两种类型。例如，用户可以将某个电子邮件标记为在特定天数之后自动移动到就地存档，并在若干天后自动删除。
   
-通过 Outlook 2010 或更高版本和 Web 上的 Outlook，用户可以将保留策略应用于文件夹、对话或单个邮件。 他们也可以查看对邮件应用的保留策略和预期的删除日期。 其他电子邮件客户端的用户只能根据管理员设置的服务器端保留策略删除或存档电子邮件。
+使用 Outlook 2010 或更高版本和Outlook，用户可以将保留策略应用于文件夹、对话或单个邮件。 他们也可以查看对邮件应用的保留策略和预期的删除日期。 其他电子邮件客户端的用户只能根据管理员设置的服务器端保留策略删除或存档电子邮件。
   
 Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 RU4 中的提供的保留策略功能相同。管理员可以使用远程 Windows PowerShell 来将保留策略从内部部署 Exchange Server 2010 或更高版本环境迁移到 Exchange Online。
   
@@ -74,31 +74,31 @@ Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service P
   
 ## <a name="encryption-of-data-at-rest"></a>静态数据的加密
 
-静态客户数据的加密由多种服务端技术提供，包括 BitLocker、DKM、Azure 存储服务加密以及 Exchange Online、Skype for Business、OneDrive for Business 和 SharePoint Online 中的服务加密。 Office 365 服务加密包括使用存储在 Azure 密钥保管库中的客户管理的加密密钥的选项。 此客户管理的密钥选项称为 ["客户密钥](/microsoft-365/compliance/customer-key-overview)"，可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 
+静态客户数据的加密由多种服务端技术提供，包括 BitLocker、DKM、Azure 存储 Service Encryption 以及 Exchange Online、Skype for Business、OneDrive for Business 和 SharePoint Online 中的服务加密。 Office 365服务加密包括使用存储在 Azure 密钥保管库中的客户管理的加密密钥的选项。 此客户管理的密钥选项称为[客户密钥](/microsoft-365/compliance/customer-key-overview)，可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Microsoft 服务器使用 BitLocker 在卷级别加密包含客户数据的其余磁盘驱动器。 BitLocker 加密是内置于 Windows 中的数据保护功能。 BitLocker 是一种技术，当其他过程或控制 (（例如访问控制或硬件) 的回收）存在故障时，用于防范威胁，这可能会导致某人获得对包含客户数据的磁盘的物理访问权限。 在这种情况下，BitLocker 消除了由于丢失、被盗或不当停用计算机和磁盘而发生数据盗窃或泄露的可能性。 
+Microsoft 服务器BitLocker在卷级别加密包含客户其余数据的磁盘驱动器。 BitLocker加密是内置于数据保护Windows。 BitLocker 是一种技术，当其他过程或控制 (（例如访问控制或硬件) 的回收）出现故障时，用于防范威胁，这可能会导致某人获得对包含客户数据的磁盘的物理访问权限。 在这种情况下，BitLocker丢失、被盗或不当停用的计算机和磁盘，从而消除数据被盗或泄露的可能性。 
   
 ### <a name="distributed-key-manager"></a>分布式密钥管理器
 
-除了 BitLocker 之外，我们还使用名为分布式密钥管理器 (DKM) 。 DKM 是一种客户端功能，它使用一组密钥来加密和解密信息。 只有 Active Directory 域服务中特定安全组的成员可以访问这些密钥，以解密由 DKM 加密的数据。 在 Exchange Online 中，只有运行 Exchange 进程的某些服务帐户是该安全组的一部分。 作为数据中心中标准操作过程一部分，不会向人员提供属于此安全组的凭据，因此，人员无法访问可解密这些密钥的密钥。
+除了BitLocker，我们还使用名为分布式密钥管理器的技术 (DKM) 。 DKM 是一种客户端功能，它使用一组密钥来加密和解密信息。 只有 Active Directory 域服务中特定安全组的成员可以访问这些密钥，以解密由 DKM 加密的数据。 在Exchange Online中，只有运行 Exchange 进程的某些服务帐户是该安全组的一部分。 作为数据中心中标准操作过程一部分，不会向人员提供属于此安全组的凭据，因此，人员无法访问可解密这些密钥的密钥。
   
 ## <a name="customer-key"></a>客户密钥
 
-使用客户密钥，可以控制组织的加密密钥，然后将它们配置为对 Microsoft 数据中心中的静态数据进行加密。 其余数据包括存储在邮箱中的 Exchange Online 和 Skype for Business 数据以及存储在 SharePoint Online 和 OneDrive for Business 中的文件。 有关详细信息，请参阅使用客户密钥和服务 [加密](/office365/securitycompliance/controlling-your-data-using-customer-key) 和客户密钥 [常见问题解答来控制你的数据](/office365/securitycompliance/service-encryption-with-customer-key-faq)。
+使用客户密钥，可以控制组织的加密密钥，然后将它们配置为对 Microsoft 数据中心中的静态数据进行加密。 其余数据包括存储在 Exchange Online 和 Skype for Business 中的数据和存储在 SharePoint Online 和 OneDrive for Business 中的文件。 有关详细信息，请参阅使用客户密钥和服务 [加密](/office365/securitycompliance/controlling-your-data-using-customer-key) 和客户密钥 [常见问题解答来控制你的数据](/office365/securitycompliance/service-encryption-with-customer-key-faq)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 
-Office 365 邮件加密允许电子邮件用户向任何人发送加密的电子邮件。 我们宣布 Office 邮件加密中利用 Azure 信息加密中的保护功能的新功能。 这些新功能提供了增强的最终用户体验，可更轻松地与组织内外的任何人共享和协作处理受保护的邮件。 新的 Office 邮件加密功能具有一些设置要求。 请参阅设置基于 Azure 信息保护构建的新 Office 365 邮件加密功能。 使用旧版 Office 365 邮件加密的客户如果没有遵循上面提供的设置指南，将不会获得新功能。 请阅读 [常见问题解答](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) ，详细了解新的 Office 365 邮件加密功能与旧版 Office 365 邮件加密功能中包含的内容。 
+Office 365 邮件加密电子邮件用户向任何人发送加密电子邮件。 我们宣布在邮件加密Office利用 Azure 信息加密中的保护功能的新功能。 这些新功能提供了增强的最终用户体验，可更轻松地与组织内外的任何人共享和协作处理受保护的邮件。 新的邮件Office功能有一些设置要求。 请参阅设置基于 Azure Office 365 邮件加密构建的新功能。 使用传统Office 365 邮件加密客户如果没有遵循上面提供的设置指南，将不会获得新功能。 请阅读[常见问题解答](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)，详细了解新功能与旧版 Office 365 邮件加密功能。 
 
-Office 365 高级邮件加密允许邮件过期和吊销，从而提供额外的保护。  您还可以为来自组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非营利组织员工定价) 、Office 365 企业版 E5 (非营利组织员工定价) 或 Office 365 教育版 A5 中。 如果您的组织订阅不包含 Office 365 高级邮件加密，您可以购买 Microsoft 365 E5 合规性或 Office 365 高级合规性 SKU 作为加载项。
+Office 365 高级邮件加密允许邮件过期和吊销，从而提供额外的保护。  您还可以为来自组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非营利组织员工定价) 、Office 365 企业版 E5 (非营利组织员工定价) 或 Office 365 教育版 A5 中。 如果您的组织订阅不包含Office 365 高级邮件加密，您可以购买 Microsoft 365 E5 合规 或 Office 365 高级合规版 SKU 作为加载项。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>安全/多用途 Internet 邮件扩展 (S/MIME)
 
 借助 S/MIME，您可以通过在组织内发送签名的加密电子邮件来保护敏感信息。在创建 PKI 证书并将其分发给用户后，管理员可以使用远程 Windows PowerShell 设置 S/MIME。必须从本地 Active Directory 证书服务同步这些证书。
   
-S/MIME 在 Microsoft Edge 和 Internet Explorer 11 上受支持。 目前，Firefox、Opera 和 Chrome 不支持 S/MIME。 有关详细信息，请参阅[邮件签名和加密的 S/MIME](/Exchange/policy-and-compliance/smime?preserve-view=true&view=exchserver-2019)。
+S/MIME 在 Microsoft Edge 11 Internet Explorer受支持。 目前，Firefox、Opera 和 Chrome 不支持 S/MIME。 有关详细信息，请参阅[邮件签名和加密的 S/MIME](/Exchange/policy-and-compliance/smime?preserve-view=true&view=exchserver-2019)。
   
 ## <a name="in-place-hold-and-litigation-hold"></a>就地保留和诉讼保留
 
@@ -131,7 +131,7 @@ S/MIME 在 Microsoft Edge 和 Internet Explorer 11 上受支持。 目前，Fire
   
 ## <a name="in-place-ediscovery"></a>就地电子数据展示
 
-Exchange Online 允许客户使用基于 Web 的界面搜索组织中邮箱的内容。 管理员或有权执行就地电子数据展示搜索（通过分配）的合规性和安全性管理人员可以搜索电子邮件、附件、日历约会、任务、联系人和其他项目。 就地电子数据展示可以同时搜索主邮箱和存档。 丰富的筛选功能包括发件人、收件人、邮件类型、发送/接收日期、抄送/密送以及 KQL 语法。 搜索结果也包含"已删除邮件"中的邮件（如果这些邮件与搜索查询条件匹配）。
+Exchange Online允许客户使用基于 Web 的界面搜索组织中邮箱的内容。 管理员或有权执行就地电子数据展示搜索（通过分配）的合规性和安全性管理人员可以搜索电子邮件、附件、日历约会、任务、联系人和其他项目。 就地电子数据展示可以同时搜索主邮箱和存档。 丰富的筛选功能包括发件人、收件人、邮件类型、发送/接收日期、抄送/密送以及 KQL 语法。 搜索结果也包含"已删除邮件"中的邮件（如果这些邮件与搜索查询条件匹配）。
   
 就地电子数据展示搜索的结果可以在基于 Web 的界面中预览、导出到 PST 文件中或复制到名为发现邮箱的特殊类型的邮箱中。发现邮箱具有 50 GB 的配额用于存储搜索结果。管理员还可以将 Outlook 连接到发现邮箱以访问搜索结果，并将搜索结果导出到 .pst 文件中。
   
@@ -170,13 +170,13 @@ Exchange Online 允许客户使用基于 Web 的界面搜索组织中邮箱的�
 - 对通过组织的邮件应用免责声明
     
 > [!IMPORTANT]
-> 在安装适当的 iFilter 之前，无法使用邮件流规则检查需要在电子邮件服务器 (（如 Adobe .pdf) ）上安装第三方 iFilter 的附件文件类型。 有关邮件流规则支持的文件类型详细信息，请参阅使用邮件流规则检查 [Office 365 中的邮件附件](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)。
+> 在安装适当的 iFilter 之前，无法使用邮件流规则检查需要在电子邮件服务器 (（如 Adobe .pdf) ）上安装第三方 iFilter 的附件文件类型。 有关邮件流规则支持的文件类型详细信息，[请参阅使用邮件](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments)流规则检查邮件流Office 365。
   
-有关邮件流规则详细信息，请参阅[Mail flow rules in Exchange 2016。](/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?preserve-view=true&view=exchserver-2019)
+有关邮件流规则详细信息，请参阅 mail [flow rules in Exchange 2016。](/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?preserve-view=true&view=exchserver-2019)
   
 ## <a name="data-loss-prevention"></a>防止数据丢失
 
-防止数据丢失 (DLP) 功能可帮助您通过深入的内容分析标识、监控和保护您组织中的敏感信息。 DLP 是一项对于企业邮件系统而言越来越重要的高级功能，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。 Exchange Online 中的 DLP 功能允许您保护敏感数据，而不会影响工作者的工作效率。
+防止数据丢失 (DLP) 功能可帮助您通过深入的内容分析标识、监控和保护您组织中的敏感信息。 DLP 是一项对于企业邮件系统而言越来越重要的高级功能，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。 利用 DLP 功能Exchange Online保护敏感数据，而不会影响工作者的工作效率。
   
 您可以在 Exchange 管理中心 (EAC) 管理界面中配置 DLP 策略，以便您执行下列操作： 
   
@@ -188,11 +188,11 @@ Exchange Online 允许客户使用基于 Web 的界面搜索组织中邮箱的�
     
 - 整合您自己的自定义 DLP 策略模板和敏感的信息类型。
     
-- 检测邮件附件、正文文本或主题行中的敏感信息，并调整 Exchange Online 操作可信度。
+- 检测邮件附件、正文文本或主题行中的敏感信息，并调整邮件附件行为Exchange Online级别。
     
 - 通过使用文档指纹检测敏感型数据。文档指纹可以帮助您基于文本形式（您可以用其定义传输规则和 DLP 策略）轻松地创建自定义敏感信息类型。
     
-- 添加策略提示，通过向 Outlook 2016、Outlook 2013、Outlook 网页版和适用于设备的 OWA 用户显示通知，可帮助减少数据丢失，还可通过允许误报报告来提高策略的有效性。 
+- 添加策略 使用技巧，这可以通过向 Outlook 2016、Outlook 2013、Outlook 网页版和适用于设备的 OWA 用户显示通知来帮助减少数据丢失，还可以允许误报报告来提高策略的有效性。 
     
 - 查看 DLP 报告中的事件数据，或通过使用生成事件报告操作来添加自己的特定报告。
     
@@ -206,7 +206,7 @@ Exchange Online 允许客户使用基于 Web 的界面搜索组织中邮箱的�
   
 若要确保成功可靠的日记解决方案，您需要完成以下任务：
   
-- 确保日记目标不是 Exchange Online 邮箱。
+- 确保日记目标不是邮箱Exchange Online邮箱。
     
 - 在客户目录中为要用于日记记录的 SMTP 目标电子邮件地址创建联系人对象。
     
@@ -220,4 +220,4 @@ Exchange Online 允许客户使用基于 Web 的界面搜索组织中邮箱的�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online[说明](exchange-online-service-description.md)。

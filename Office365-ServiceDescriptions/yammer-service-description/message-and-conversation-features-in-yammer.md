@@ -27,13 +27,13 @@ ms.locfileid: "51653594"
 
 通知其他同事并通过 @ 提及他们的名称使其加入某个对话。
 
-## <a name="events"></a>活动
+## <a name="events"></a>事件
 
-组织会议和活动，与同事共享它们，并跟踪与会者。 事件可以添加到 Outlook、Google、Yahoo！和 iCal 日历。
+组织会议和活动，与同事共享它们，并跟踪与会者。 事件可以添加到日历、Outlook、Yahoo！和 iCal 日历。
   
-## <a name="office-for-the-web-support"></a>Office 网页支持
+## <a name="office-for-the-web-support"></a>Office Web 支持
 
-借助 Yammer 中的 Office 网页支持，上传到 Yammer 的文档可以直接在 Yammer 中通过 Office 网页 Office 进行查看和编辑。 这样，文档可以在 Office 网页中美观呈现，允许不同用户同时共同创作，并可以在浏览器中显示相关的 Yammer 对话。
+通过Office web 支持，Yammer中上载到 Yammer 的文档可以直接在 web Office 中查看和编辑Yammer。 这使文档能够通过 Web Office呈现，使不同用户能够同时共同创作，并可以在浏览器中Yammer相关对话。
 
 ## <a name="online-now"></a>现在联机
 
@@ -45,7 +45,7 @@ ms.locfileid: "51653594"
   
 ## <a name="private-messages"></a>私人邮件
 
-与一个或多个同事开始私密对话。 您可以随时添加更多参与者。
+与一个或多个同事开始私密对话。您可以随时添加更多参与者。
 
 ## <a name="publisher"></a>Publisher
 
@@ -57,5 +57,5 @@ ms.locfileid: "51653594"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看功能可用性计划、独立选项和本地解决方案，请参阅 [Yammer 服务说明](yammer-service-description.md)。
+若要查看功能可用性计划、独立选项和本地解决方案，请参阅Yammer[说明](yammer-service-description.md)。
   

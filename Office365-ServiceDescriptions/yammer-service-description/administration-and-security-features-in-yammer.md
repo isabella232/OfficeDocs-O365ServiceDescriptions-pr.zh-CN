@@ -23,7 +23,7 @@ ms.locfileid: "51653554"
 
 以下管理和安全功能在 Yammer 中可用。
   
-有关详细说明和过程，请参阅 [Yammer 管理员帮助](/yammer/)。
+有关详细说明和过程，请参阅Yammer[管理员帮助](/yammer/)。
 
 ## <a name="admin-private-content-mode"></a>管理员专用内容模式
 
@@ -35,7 +35,7 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="custom-network-branding"></a>自定义网络品牌
 
-将组织的外观引入 Yammer 网络。 网络管理员可以上载组织的徽标和图像，以创建自定义头设计。
+将组织的外观和感觉引入Yammer网络。 网络管理员可以上载组织的徽标和图像，以创建自定义头设计。
 
 ## <a name="data-export"></a>数据导出
 
@@ -55,10 +55,10 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="network-migration"></a>网络迁移
 
-将多个 Yammer 网络合并成一个。 有关详细信息，请参阅[网络迁移：合并多个 Yammer 网络](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
+将多个 Yammer 网络合并成一个。有关详细信息，请参阅[网络迁移：合并多个 Yammer 网络](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
   
 > [!NOTE]
-> 不支持跨计划迁移 Yammer 网络。 
+> 不支持Yammer跨计划迁移网络。 
 
 ## <a name="organization-resources"></a>组织资源
 
@@ -74,7 +74,7 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="single-identity"></a>单一标识
 
-选择 Yammer 作为组织的默认社交体验时，员工会映射到其现有 Yammer 帐户。 这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。 当员工从 &mdash; Office 365、Yammer 移动应用或浏览到 yammer Yammer.com 都会基于现有组织凭据自动登录 &mdash; 。
+当你选择Yammer组织的默认社交体验时，员工会映射到其现有Yammer帐户。 这意味着他们在 Office 365 中导航到 Yammer 时无需再次登录。 当员工Yammer无论是从 Office 365、Yammer 移动应用还是浏览 &mdash; 到 Yammer.com，都会基于现有组织凭据自动登录。 &mdash;
 
 ## <a name="usage-policy"></a>使用策略
 
@@ -82,8 +82,8 @@ Yammer 网络的验证管理员可以查看整个网络中私人邮件和组。�
 
 ## <a name="user-management"></a>用户管理
 
-轻松管理对组织网络的访问权限。 Yammer 允许您与已使用的目录同步、单独或批量添加或删除用户、邀请来宾加入您的网络，以及指定其他管理员。
+轻松管理对组织网络的访问权限。 Yammer允许你与已使用的目录同步、单独或批量添加或删除用户、邀请来宾加入您的网络，以及指定其他管理员。
 
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Yammer[说明](yammer-service-description.md)。

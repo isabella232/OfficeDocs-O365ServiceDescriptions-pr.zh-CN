@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 提供了以下帮助和培训资源。
+description: Microsoft Office 365提供了以下帮助和培训资源。
 ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,7 +21,7 @@ ms.locfileid: "51653234"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365 提供了以下帮助和培训资源。
+Microsoft Office 365提供了以下帮助和培训资源。
   
 ## <a name="online-help"></a>联机帮助
 
@@ -90,15 +90,15 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
     
 有关详细信息，请访问 [Office 365 社区](https://techcommunity.microsoft.com/)。
   
-## <a name="manage-office-365-guidance"></a>管理 Office 365 指南
+## <a name="manage-office-365-guidance"></a>管理Office 365指南
 
-大型组织的 IT 专业人员请访问管理 Office 365 文档主页。 此页提供适用于大型组织的复杂部署指南的链接。
+大型组织的 IT 专业人员可以访问管理Office 365文档主页。 此页提供适用于大型组织的复杂部署指南的链接。
   
 有关详细信息，请访问管理[Office 365。](/Office365/)
   
 ## <a name="other-self-help-resources"></a>其他自助资源
 
-除了 Office 365 社区帮助和联机帮助外，Office 365 还包括以下自助资源：
+除了帮助Office 365 Community联机帮助之外，Office 365还包括以下自助资源：
   
 - **用于 Office 365 的疑难解答工具** 在你回答完与所遇问题相关的一系列小问题后，用于 Office 365 的疑难解答工具会根据你的回答提出实用工具和信息建议。若要使用此工具，请转到 Office 365 社区的 [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113)（用于 Office 365 的疑难解答工具）页面。 
     
@@ -149,4 +149,4 @@ Office 365 社区是获取自助支持信息的单个目标地址。它提供最
    
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 Microsoft 365[和 Office 365 平台服务说明](office-365-platform-service-description.md)。

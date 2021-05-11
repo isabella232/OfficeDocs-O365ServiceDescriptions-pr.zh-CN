@@ -25,7 +25,7 @@ ms.locfileid: "51653615"
   
 ## <a name="external-networks"></a>外部网络
 
-创建专用联机工作区，以与组织 Yammer 网络外部的业务联系人进行协作。
+创建专用联机工作区，以与组织网络外部的业务联系人Yammer协作。
   
 ## <a name="fast-network-switching"></a>快速网络切换
 
@@ -33,4 +33,4 @@ ms.locfileid: "51653615"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Yammer[说明](yammer-service-description.md)。

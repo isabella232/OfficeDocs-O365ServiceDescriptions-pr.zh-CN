@@ -35,16 +35,16 @@ ms.locfileid: "51653544"
 
 实时发现您的同事所做的操作。 Ticker 显示实时发生的活动情景，包括页面编辑、文件上载和其他业务应用程序中的更新。
   
-## <a name="topics"></a>Topics
+## <a name="topics"></a>主题
 
 标记包含主题的内容，以帮助其他人通过添加井号 (#) 或搜索现有主题来快速查找相关消息、文件、注释等。
   
 ## <a name="universal-search"></a>通用搜索
 
-全文搜索允许您在 Yammer 网络和集成业务应用中快速查找文件、笔记、对话、人员及数据。
+全文搜索使你可以快速查找跨企业网络和集成业务应用Yammer、笔记、对话、人员和数据。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Yammer[说明](yammer-service-description.md)。
   
   

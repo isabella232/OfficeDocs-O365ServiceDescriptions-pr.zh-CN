@@ -22,7 +22,7 @@ ms.locfileid: "51653384"
 # <a name="blackberry"></a>BlackBerry
 
 > [!NOTE]
-> 如果你使用的是由世纪互联网运营的 Office 365，可以使用 Microsoft Exchange ActiveSync 设备或 Research in Motion (RIM（BlackBerry 无线电子邮件解决方案) ）中的产品来运行 Blackberry Enterprise Server (BES) 。 
+> 如果你使用的是由世纪Office 365运营的 Office 365，可以使用 Microsoft Exchange ActiveSync 设备或 Research in Motion (RIM 中的产品/服务，BlackBerry 无线电子邮件解决方案) 运行 Blackberry Enterprise Server (BES) 。 
   
 BlackBerry® 智能手机可以访问 Office 365 中的电子邮件和文档。
   
@@ -34,7 +34,7 @@ BlackBerry 10 智能手机可以使用 Microsoft Exchange ActiveSync 直接连�
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>将 BlackBerry® 7 和早期智能手机用于 Microsoft Exchange Online
 
-可以使用 BlackBerry® Internet 服务 (BIS) 将 BlackBerry 7 和早期智能手机连接到 Exchange Online。 BIS 允许 BlackBerry 用户通过 IMAP 或 POP 通过 Internet 访问其电子邮件帐户。
+可以使用 BlackBerry® INTERNET 服务 (BIS) BlackBerry 7 和早期智能手机连接到 Exchange Online。 BIS 允许 BlackBerry 用户通过 IMAP 或 POP 通过 Internet 访问其电子邮件帐户。
   
 大多数移动运营商都设置了 BIS。 最终用户将需要按照以下知识库文章中的说明配置电子邮件、日历和联系人同步：
   
@@ -49,9 +49,9 @@ BlackBerry 10 智能手机可以使用 Microsoft Exchange ActiveSync 直接连�
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>将 BlackBerry 智能手机用于 SharePoint Online
 
-对于 Microsoft SharePoint Online 访问权限，BlackBerry 用户可以使用他们的 BlackBerry 智能手机上的本地浏览器访问 SharePoint Online 站点。 BlackBerry 用户可以使用 Office 在移动浏览器中查看 Word、Excel 和 PowerPoint 文档，以呈现 Web。
+对于 Microsoft SharePoint Online 访问权限，BlackBerry 用户可以使用他们的 BlackBerry 智能手机上的本地浏览器访问 SharePoint Online 站点。 BlackBerry 用户可以在移动浏览器中Excel Web PowerPoint Web Office查看 Word、文档和文档。
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Office 365 计划的功能可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨所有计划Office 365可用性，请参阅 Microsoft 365[和 Office 365 平台服务说明](office-365-platform-service-description.md)。
   

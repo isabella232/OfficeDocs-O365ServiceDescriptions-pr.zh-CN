@@ -35,7 +35,7 @@ Microsoft Workplace Analytics 提供对组织通信和协作趋势的丰富、�
 
 ## <a name="gain-objective-actionable-insights"></a>获得目标、可操作见解
 
-查看你的组织如何使用来自 Office 365 的前所未有的见解在内部和外部花费时间进行协作。 工作区分析为业务领导提供了数十个有关时间和网络的可操作行为指标，以告知各种战略决策，包括团队模型、资源分配和工作区规划。
+了解组织如何使用来自组织的前所未有的见解在内部和外部Office 365。 工作区分析为业务领导提供了数十个有关时间和网络的可操作行为指标，以告知各种战略决策，包括团队模型、资源分配和工作区规划。
 
 ## <a name="drive-organizational-change-with-data"></a>使用数据推动组织变革
 
@@ -49,4 +49,4 @@ Microsoft Workplace Analytics 提供对组织通信和协作趋势的丰富、�
   
 ## <a name="licensing-requirements"></a>许可要求
 
-Exchange Online 计划 1 或计划 2 是先决条件。
+Exchange Online计划 1 或计划 2 是先决条件。

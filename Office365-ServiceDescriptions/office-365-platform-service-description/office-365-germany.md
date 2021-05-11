@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
-description: Office 365 Germany 是一个与已在欧洲可用的 Office 365 服务不同的选项。 它帮助满足德国、欧盟 (欧盟) 和欧洲自由贸易联盟 (EFTA) 中监管最严格的客户的需求，包括从德国数据中心提供业界领先的数字工作生产力服务、在德国的数据驻留，以及通过受德国法律约束的唯一数据受托人模型严格的数据访问和控制措施。
+description: Office 365德国是一个区别性选项，它Office 365欧洲已提供的服务。 它帮助满足德国、欧盟 (欧盟) 和欧洲自由贸易联盟 (EFTA) 中监管最严格的客户的需求，包括从德国数据中心提供业界领先的数字工作生产力服务、在德国的数据驻留，以及通过受德国法律约束的唯一数据受托人模型严格的数据访问和控制措施。
 ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,11 +19,11 @@ ms.locfileid: "51653494"
 ---
 # <a name="office-365-germany"></a>Office 365 德国
 
-Office 365 Germany 是一个与已在欧洲可用的 Office 365 服务不同的选项。 它帮助满足德国、欧盟 (欧盟) 和欧洲自由贸易联盟 (EFTA) 中监管最严格的客户的需求，包括从德国数据中心提供业界领先的数字工作生产力服务、在德国的数据驻留，以及通过受德国法律约束的唯一数据受托人模型严格的数据访问和控制措施。
+Office 365德国是一个区别性选项，它Office 365欧洲已提供的服务。 它帮助满足德国、欧盟 (欧盟) 和欧洲自由贸易联盟 (EFTA) 中监管最严格的客户的需求，包括从德国数据中心提供业界领先的数字工作生产力服务、在德国的数据驻留，以及通过受德国法律约束的唯一数据受托人模型严格的数据访问和控制措施。
 
 数据被信任方 T-Systems International 是一家独立的德国公司，同时也是德国电信的子公司，负责控制对客户数据的物理和逻辑访问。德国法律规定，未经数据被信任方的批准或监督，不能访问客户数据。
 
-基于客户需求的这种演变，我们在德国的云策略将侧重于交付符合全球云产品/服务的新德国云区域。 通过此关注，我们将不再接受新客户或部署当前可用的德国 Microsoft 云的任何新服务。 现有客户可以继续使用目前可用的当前云服务，我们将通过必要的安全更新来维护这些服务。 [了解 Office 365 Germany。](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c)
+基于客户需求的这种演变，我们在德国的云策略将侧重于交付符合全球云产品/服务的新德国云区域。 通过此关注，我们将不再接受新客户或部署当前可用的德国 Microsoft 云的任何新服务。 现有客户可以继续使用目前可用的当前云服务，我们将通过必要的安全更新来维护这些服务。 [了解德国Office 365。](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c)
 
 ## <a name="service-availability-for-each-plan"></a>每个计划的服务可用性
 
@@ -31,7 +31,7 @@ Office 365 Germany 是一个与已在欧洲可用的 Office 365 服务不同的�
 
 | 服务 | Office 365 Germany 商业协作版 | Office 365 Germany 商业版 | Office 365 Germany 商业高级版 | Office 365 Germany 教育版 A1 | Office 365 Germany 企业版 E1 | Office 365 Germany 企业版 E3 | Office 365 Germany 企业版 E4 | Office 365 Germany 企业版 K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Office 365 平台 <sup>1</sup>|是|是|是|是|是|是|是|是|
+|Office 365平台<sup>1</sup>|是|是|是|是|是|是|是|是|
 |Exchange Online|是|否|是|是|是|是|是|是|
 |SharePoint Online|是|否|是|是|是|是|是|是|
 |OneDrive for Business|是|是|是|是|是|是|是|否|
@@ -40,15 +40,15 @@ Office 365 Germany 是一个与已在欧洲可用的 Office 365 服务不同的�
 |Office 365 ProPlus <sup>2</sup>|否|否|否|否|否|是|是|否|
 |Project Online <sup>3</sup>|否|否|否|否|否|否|否|否|
 |Power BI <sup>3</sup>|否|否|否|否|否|否|否|否|
-|Visio 网页 <sup>版 4</sup>|是|是|是|是|是|是|是|是|
+|Visio Web <sup>4</sup>|是|是|是|是|是|是|是|是|
 |Yammer Enterprise|不适用|不适用|不适用|不适用|不适用|不适用|不适用|不适用|
 |Azure 信息保护|否|否|否|否|否|否|否|否|
 
 > [!NOTE]
-> <sup>1</sup> 基于云的订阅服务，具有相关功能，包括可在其中设置用户和域的 Microsoft 365 管理中心。 <br/>
+> <sup>1</sup>基于云的订阅服务，具有相关功能，Microsoft 365设置用户和域的基于云的管理中心。 <br/>
 <sup>2</sup> 可以分别购买 Office 365 ProPlus 计划。 Office 365 Germany 企业版 E3 和 Office 365 Germany 企业版 E4 中包含 Office 365 ProPlus。 必须启用 [现代身份验证](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)并与 Office 365 Germany 配合使用。 <br/>
-<sup>3</sup> 虽然 Project Online 和 Power BI 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 Germany 教育版 A1 计划中。 <br/>
-<sup>4</sup> Visio 网页 (查看功能) 免费提供。 必须有许可证，才能使用 Visio 网页版的创建和编辑功能。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。
+<sup>3</sup> 虽然 Project Online 和 Power BI 不包括在内，但可以作为单独的附加服务进行购买，也可以免费添加到 Office 365 Germany 教育版 A1 计划中。<br/>
+<sup>4</sup> Visio Web (查看功能) 免费提供。 必须有许可证，才能使用 Visio 网页版的创建和编辑功能。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。
 
 ## <a name="system-requirements"></a>系统要求
 
@@ -56,11 +56,11 @@ Office 365 Germany 是一个与已在欧洲可用的 Office 365 服务不同的�
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-安全 &amp; 与合规中心适用于 Office 365 Germany。 有关详细信息和功能列表，请参阅 [Office 365 安全 &amp; 与合规中心](office-365-securitycompliance-center.md)。
+安全 &amp; 与合规中心适用于Office 365。 有关详细信息和功能列表，请参阅Office 365[ &amp; 安全与合规中心](office-365-securitycompliance-center.md)。
 
-### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>为 Office 365 Germany 提供了哪些合规性证书？
+### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>为德国提供哪些合规性Office 365？
 
-Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office 365 提供了一套全面的认证，由经认证的审核员独立评估为服务组织控制 (SOC) 、国际标准化组织 (ISO) 和审核的一部分。 认证包括 ISO 27001/27002、27017、27018 和 SOC 1 和 2。 The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
+Office 365德国遵守云安全与合规标准Office 365。 Office 365提供一套全面的认证，由经认证的审核员独立评估为服务组织控制 (SOC) 、国际标准化组织 (ISO) 和审核的一部分。 认证包括 ISO 27001/27002、27017、27018 和 SOC 1 和 2。 The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
 ## <a name="platform-features"></a>平台功能
 
@@ -180,15 +180,15 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |**[产品使用权限](product-use-rights.md)**|是|是|是|是|是|是|是|是|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Germany 不支持其制造商不支持的任何操作系统。<br/>
-<sup>2</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 Office 365 Germany 商业基础版、Office 365 Germany 商业高级版、Office 365 Germany 企业版 E1、Office 365 Germany 教育版 A1 或 Office 365 Germany 企业版 K1 中未包含此订阅。<br/>
+> <sup>1</sup> Office 365德国不提供对不受其制造商支持的任何操作系统的支持。<br/>
+<sup>2</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，Office 365 Germany 商业基础版、Office 365 Germany 商业版 高级版、Office 365 Germany Enterprise E1、Office 365 Germany 教育版 A1 或 Office 365 Germany Enterprise K1 不包含此订阅。<br/>
 <sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell.<br/>
 <sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password).<br/>
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. This does not apply to subscriptions paid on a monthly basis.<br/>
-<sup>6</sup> Office 365 Germany 教育版 A1 计划不支持从 Microsoft 365 管理中心更改许可证席位。<br/>
+<sup>6</sup> Office 365德国教育版 A1 计划不支持从管理中心Microsoft 365席位更改。<br/>
 <sup>7</sup> The right to use client software applications, such as Office 365 ProPlus Office 2016, and Office 2013 is included in some Office 365 Germany plans. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). 客户端软件应用程序还可能包含非德语联机服务的最终用户访问联机服务。 German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
-<sup>8</sup> [Modern authentication](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) must be enabled for use with Office 365 Germany.<br/>
-<sup>9</sup> Office 365 Germany 的构建符合 Office 365 的云安全性和合规性标准。 Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
+<sup>8</sup> [必须启用](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a)新式验证，以在德国Office 365使用。<br/>
+<sup>9</sup> Office 365德国的构建符合德国的云安全性和合规性Office 365。 Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
 ## <a name="office-application-features"></a>Office 应用程序功能  
 
@@ -197,9 +197,9 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 
 使用下表比较不同 Office 365 Germany 计划之间的功能可用性。<br><br>
 
-| 功能 | Office 365 Germany 商业版 | Office 365 Germany 商业协作版 | Office 365 Germany 商业高级版 | Office 365 Germany 教育版 A1 | Office 365 Germany 企业版 E1 | Office 365 Germany 企业版 E3<sup>9</sup> | Office 365 Germany 企业版 E4 | Office 365 Germany 企业版 K1 |
+| 功能 | Office 365 Germany 商业版 | Office 365 Germany 商业协作版 | Office 365 Germany 商业高级版 | Office 365 Germany 教育版 A1 | Office 365 Germany 企业版 E1 | Office 365德国Enterprise E3<sup>9</sup> | Office 365 Germany 企业版 E4 | Office 365 Germany 企业版 K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Office 应用程序**<sup>1、2 &nbsp;</sup>|||||||||
+|**Office应用程序**<sup>1、2 &nbsp;</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|是|否|是|否<sup>7</sup>|否|是|是|否|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|是|否|是|否<sup>7</sup>|否|是|是|否|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|是|否|是|否<sup>7</sup>|否|是|是|否|
@@ -228,10 +228,10 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |桌面虚拟化|否|否|否|否|否|是|是|否|
 |Excel 电子表格比较|否|否|否|否|否|是|是|否|
 |Excel 电子表格查询|否|否|否|否|否|是|是|否|
-|Exchange Online 和 SharePoint Online 存档和合规性|是|否|是<sup>5</sup>|否|否|是|是|否|
+|Exchange Online和 SharePoint Online 存档和合规性|是|否|是<sup>5</sup>|否|否|是|是|否|
 |组策略支持|否|否|否|否|否|是|是|否|
 |使用 Azure 信息保护的信息权限管理<sup>3</sup>|否|否|否|否|否|否|否|否|
-|使用 Windows Server AD RMS<sup>4 的信息权限管理</sup>|否|否|否|否|否|否|否|否|
+|使用 Windows AD RMS<sup>4 的信息权限管理</sup>|否|否|否|否|否|否|否|否|
 |Office 加载项、ActiveX 和 BHO 支持|否|否|是|否|否|是|是|否|
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问|是|否|是|否|否|是|是|否|
 |Office Lens|否|否|否|否|否|否|否|否|
@@ -249,21 +249,21 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |批量激活 (KMS/MAK)|否|否|否|否|否|否|否|否|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Germany 计划包括在最终用户的设备（"客户端软件应用程序 ("客户端软件应用程序") （如 Office 365 专业增强版、Office 2013 和 Office 2016）上安装和运行的客户端软件应用程序。 客户端软件应用程序不会专门在德国数据中心内运行，并可能允许最终用户访问非德国联机服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
+> <sup>1</sup> Office 365 Germany 计划包括在最终用户的设备（如 ("客户端软件应用程序") ，如 Office 365 专业增强版、Office 2013 和 Office 2016）上安装和运行的客户端软件应用程序。 客户端软件应用程序不会专门在德国数据中心内运行，并可能允许最终用户访问非德国联机服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
 <sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)。<br/>
 <sup>3</sup> Azure 信息保护不包括在内，但可以单独购买加载项，以便启用受支持的 IRM 功能。<br/>
 <sup>4</sup> Windows Server AD RMS 是一款本地服务器，必须进行单独购买和管理，才能启用支持的 IRM 功能。<br/>
-<sup>5</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。 <br/>
-<sup>6</sup> Skype for Business Basic 可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 Germany 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync Basic 功能的详细信息，请参阅 [Dektop client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
+<sup>5</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。<br/>
+<sup>6</sup> Skype for Business基本版可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 Germany 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关 Lync Basic 功能的详细信息，请参阅 [Dektop client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
 <sup>7</sup> 一些学校有资格享受教育增强版，其中包括 Office 365 ProPlus，并允许学生和教职员工在多达五个 PC 或 Mac 计算机上和其他移动设备（其中包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。<br/>
-<sup>8</sup> 可以安装但不可激活 Office 2011 for Mac。 <br/>
+<sup>8</sup> 可以安装但不可激活 Office 2011 for Mac。<br/>
 <sup>9</sup> 批量激活 Office 365 Germany 企业版 E3，Office 365 ProPlus 仅限于安装在 Windows Server 2008 R2 和启用了 RDS 角色或安装了 Windows To Go 的更新版本上。 在任一情况下，访问这些安装的用户应是 Office 365 Germany 企业版 E3 或 Office 365 ProPlus 许可的用户。<br/>
 <sup>10</sup> 如果当前频道或延期频道的定向发布，则 Access 当前可用。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅[包含在 Office 365 商业版和商业高级版中的 Access](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef)。<br/>
 <sup>11</sup> 不适用于 Office 365 Germany，但即将适用。
 
 | 功能 | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 专业增强版<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Office 应用程序 <sup>1、2</sup>**||||
+|**Office应用程序 <sup>1、2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|是|是|是|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|是|是|是|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|是|是|是|
@@ -295,7 +295,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |Exchange Online 和 SharePoint Online 存档和合规性|是<sup>3</sup>|是|是<sup>3</sup>|
 |组策略支持|是|是|是|
 |使用 Azure 信息保护的信息权限管理<sup>4</sup>|否|否|否|
-|使用 Windows Server AD RMS 的信息权限管理<sup>5</sup>|否|否|否|
+|使用 Windows AD RMS<sup>5 的信息权限管理</sup>|否|否|否|
 |Office 插件、ActiveX 和 BHO 支持|是|是|是|
 |在 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上对笔记本的 OneNote 客户端访问|否|是|是|
 |Office Lens|否|否|否|
@@ -313,25 +313,25 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |批量激活 (KMS/MAK)|是|是|否<sup>10</sup>|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Germany 计划包括在最终用户的设备（"客户端软件应用程序 ("客户端软件应用程序") （如 Office 365 专业增强版、Office 2013 和 Office 2016）上安装和运行的客户端软件应用程序。 客户端软件应用程序不会专门在德国数据中心内运行，并可能允许最终用户访问非德国联机服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
+> <sup>1</sup> Office 365 Germany 计划包括在最终用户的设备（如 ("客户端软件应用程序") ，如 Office 365 专业增强版、Office 2013 和 Office 2016）上安装和运行的客户端软件应用程序。 客户端软件应用程序不会专门在德国数据中心内运行，并可能允许最终用户访问非德国联机服务的联机服务。 鉴于你与 Microsoft 达成的协议，客户端软件应用程序不是 German Online Services。 德国数据驻留承诺和德国数据被信任方实施的访问控制只适用于 German Online Services。<br/>
 <sup>2</sup> Office 2013 要求 [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)。<br/>
 <sup>3</sup> 此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。<br/> <sup>4</sup> Azure 信息保护不包括在内，但可以单独购买加载项，以便启用支持的 IRM 功能。<br/> <sup>5</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。<br/>
 <sup>6</sup> 如果你拥有 Office Professional Plus 2013 或独立版 Excel 2013，可以下载并使用 [Power Map Preview for Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409)，将其作为不受支持的外接程序。<br/>
-<sup>7</sup> Skype for Business Basic 可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
+<sup>7</sup> Skype for Business基本版可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Office 365 ProPlus 和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包含高级电话支持、存档及符合性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
 <sup>8</sup> 可以安装但不可激活 Office 2011 for Mac。<br/>
-<sup>9</sup> 用户专用的虚拟桌面基础结构支持 9 Office 365 专业增强 (VDI) 。 通过批量许可计划进行购买时，Office 365 ProPlus 仅支持远程桌面服务 (RDS)。<br/>
+<sup>9</sup> Office 365 专业增强版 VDI 应用程序的用户专用虚拟桌面基础结构 (9) 。 通过批量许可计划进行购买时，Office 365 ProPlus 仅支持远程桌面服务 (RDS)。<br/>
 <sup>10</sup> 批量激活 Office 365 Germany 企业版 E3，Office 365 ProPlus 仅限于安装在 Windows Server 2008 R2 和启用了 RDS 角色或安装了 Windows To Go 的更新版本上。 在任一情况下，访问这些安装的用户应是 Office 365 Germany 企业版 E3 或 Office 365 ProPlus 许可的用户。<br/>
 <sup>11</sup> 不适用于 Office 365 Germany，但即将适用。
 
 ## <a name="office-for-the-web-features"></a>Office 网页版功能
 
-下表提供了指向 Office 365 Germany 计划中提供的 Office 网页版功能与功能丰富的桌面应用Microsoft Office比较的链接。 通过比较可发现 Office 网页中的可用功能，然后选择功能名称阅读有关该功能工作方式的简短说明。 您可能会发现，您的组织中的某些人员可能需要 Excel 桌面应用程序的高级图表功能，而其他人可能只需要使用 Office 网页版查看和轻松编辑 Word 文档和 PowerPoint 演示文稿。
+下表提供了一些链接，这些链接指向 Office Germany 中提供的 Web 功能功能Office 365功能丰富的桌面Microsoft Office比较。 使用比较可发现 Web Office中可用的功能，然后选择功能名称阅读有关该功能工作方式的简短说明。 你可能会发现，您的组织中的某些人员可能需要 Excel 桌面应用的高级图表功能，而其他人可能只需要使用 Office 网页版查看和轻松编辑 Word 文档和 PowerPoint 演示文稿。
 
 > [!NOTE]
 > - 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。 此表不是 Microsoft Office 2013 功能的完整列表。 <br/>
 > - Microsoft Office 365 ProPlus 是最新 Office 桌面套件的按月订购产品。 <br/>
 > - 如果 Microsoft Office Web Apps Server 2013 本地客户已购买 Office 桌面套件许可证（例如 Office Professional Plus、Office Standard 或 Office 365 专业增强版许可证），则可获得 Office 网页版编辑许可证。 <br/>
-> - 由于 Office 365 Germany 的性质，某些功能尚未启用。 随着时间的推移，你将看到与全球服务一样，该服务功能会愈加健全。
+> - 由于德国Office 365，一些功能尚未启用。 随着时间的推移，你将看到与全球服务一样，该服务功能会愈加健全。
 
 | 应用程序 | Office 网页版 | 链接到详细的功能比较 |
 |:-----|:-----|:-----|
@@ -361,8 +361,8 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |保留标记和保留策略|是|是|是|是|是|是|是|是|
 |静态状态时的数据加密 (BitLocker)|是|是|是|是|是|是|是|是|
 |使用 Azure 信息保护的 IRM<sup>3</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否|否|否<sup>4</sup>|
-|使用 Windows Server AD RMS<sup>3</sup>的 IRM|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
-|Office 365 邮件加密|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|是|是|否<sup>4</sup>|
+|使用 Windows AD RMS<sup>3</sup>的 IRM|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
+|Office 365邮件加密|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|是|是|否<sup>4</sup>|
 |S/MIME|是|是|是|是|是|是|是|是||
 |就地保留和诉讼保留|否|--|否|是|否|是|是|否|
 |就地电子数据展示|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是|是<sup>6</sup>|是<sup>6</sup>|是<sup>6</sup>|是|
@@ -414,10 +414,10 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |联合共享 (包括日历发布) <sup>13</sup>|是|是|是|是|是|是|是|是|
 |公用文件夹|是|是|是|是|是|是|是|否|
 |**[客户端和移动设备](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
-|Outlook for Windows<sup>14</sup>|是|是|是|是|是|是|是| 否 <sup>11</sup>|
-|Outlook 网页版<sup>14</sup>|是|是|是|是|是|是|是|是|
+|Outlook<sup>14</sup> Windows|是|是|是|是|是|是|是| 否 <sup>11</sup>|
+|Outlook<sup>14</sup>|是|是|是|是|是|是|是|是|
 |Outlook for Mac<sup>14</sup>|是|是|是|是|是|是|是|是|
-|Outlook for iOS 和 Outlook for Android<sup>14</sup>|否|否|否|否|否|否|否|否|
+|Outlook iOS 和 Android<sup>14</sup>|否|否|否|否|否|否|否|否|
 |Exchange ActiveSync|是|是|是|是|是|是|是|是|
 |POP 和 IMAP|是|是|是|是|是|是|是|是 <sup>15</sup>|
 |SMTP|是|是|是|是|是|是|是|是|
@@ -434,7 +434,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |已删除邮件的恢复|是|是|是|是|是|是|是|是|
 |单个项目恢复|是|是|是|是|是|是|是|否||
 |**[互操作性、连接性和兼容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
-|OWA<sup>3</sup> 和 Outlook 中的 Skype for Business 状态|否|否|否|否|否|否|否|否|
+|Skype for Business OWA<sup>3</sup>和 Outlook|否|否|否|否|否|否|否|否|
 |SharePoint 互操作性|是|是|是|是|是|是|是|是|
 |EWS 连接性支持|是|是|是|是|是|是|是|是|
 |SMTP 中继支持|是|是|是|是|是|是|是|是|
@@ -449,15 +449,15 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |Outlook 加载项和 Outlook MAPI|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|是<sup>16</sup>|否|
 
 > [!NOTE]
-> <sup>1</sup> Exchange 2010 仅支持最小混合部署。  (Exchange 2010 不支持完全混合部署。) 有关最小混合部署的信息，请参阅使用快速迁移将 Exchange 邮箱迁移到[Office 365。](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)<br/>
-<sup>2</sup> Office 365 Germany 商业基础版和 Office 365 Germany 商业高级版不提供使用本地服务器的访问权限。 为了兼容，客户必须购买或先前购买了相应的 CAL 或升级至企业版 SKU，后者提供这些访问权限。<br/>
-<sup>3</sup> 不适用于 Office 365 Germany，但即将推出。<br/>
-<sup>4</sup> Azure 信息保护不包括在内，但可以单独作为附加设备 (购买，也可以免费添加到 Office 365 Germany 教育版 A1 计划) 以便启用受支持的 IRM 功能。 Office 365 邮件加密依赖于 Azure 信息保护。<br/>
+> <sup>1</sup> Exchange 2010 仅支持最小混合部署。  (完全混合部署不支持 Exchange 2010.) 有关最小混合部署的信息，请参阅使用快速迁移将 Exchange 邮箱迁移到[Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)。<br/>
+<sup>2</sup> Office 365德国商业Office 365德国商业高级版不提供使用本地服务器的访问权限。 为了兼容，客户必须购买或先前购买了相应的 CAL 或升级至企业版 SKU，后者提供这些访问权限。<br/>
+<sup>3</sup>不适用于Office 365，但即将推出。<br/>
+<sup>4</sup> Azure 信息保护不包括在内，但可以单独作为附加设备 (购买，也可以免费添加到 Office 365 Germany 教育版 A1 计划) 以启用受支持的 IRM 功能。 Office 365 邮件加密取决于 Azure 信息保护。<br/>
 <sup>5</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。<br/>
 <sup>6</sup> For eDiscovery， you need a separate query for on-premises vs. cloud.<br/>
 <sup>7</sup> 邮件流规则 (也称为) 规则）由灵活条件（允许您根据条件定义条件、例外和要采取的操作）所决定。 Exchange Online 与 Microsoft Exchange Server 之间的可用条件、例外和操作有所不同。 有关详细信息，请参阅各产品的相应主题。<br/>
-<sup>8</sup> 只能通过直接访问 Exchange 管理中心或 EAC (EAC) 访问。 <br/>
-<sup>9</sup> Exchange Server 2013 年 9 月仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 <br/> <sup>10</sup> POP IMAP 帐户支持已连接帐户，但已对 &amp; Hotmail Outlook.com (禁用) 。 <br/>
+<sup>8</sup>只能通过通过 EAC 管理界面Exchange EAC (直接访问) 访问。 <br/>
+<sup>9</sup> Exchange Server 2013 年 9 月仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 <br/> <sup>10</sup> POP IMAP 帐户支持已连接帐户，但已禁用 &amp; Outlook.com (Hotmail) 。 <br/>
 <sup>11</sup> 可以单独为需要非活动邮箱功能的每个邮箱购买 EOA 订阅。 <br/>
 <sup>12</sup> 不支持使用 cmdlet 处理地址列表和全局地址列表。 <br/>
 <sup>13</sup> 需要使用可用性地址空间来支持与其他租户共享。 若要详细了解如何创建可用性地址空间，请参阅 [Add-AvailabilityAddressSpace](/powershell/module/exchange/Add-AvailabilityAddressSpace)。 <br/> <sup>14</sup> Table 指示客户端是否使用关联的计划。 这并不意味着购买这些计划时必须包括客户端。<br/>
@@ -487,7 +487,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：管理员管理|是|是|是|
 |[Quarantine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine)：最终用户自我管理|是|是|是|
 |[高级数据管理](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|否|是|是|
-|[Office 365 威胁智能](/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|否|是|是|
+|[Office 365威胁智能](/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|否|是|是|
 |[Outlook 网页版中的垃圾邮件报告](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|是<sup>8</sup>|否<sup>8</sup>|否<sup>8</sup>|
 |[在 Microsoft 和自己的电子邮件服务器之间路由电子邮件](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|是|是|是|
 |[Secure messaging with a trusted partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|是|是|是|
@@ -509,23 +509,23 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 <sup>5</sup>EOP 审核报告是不包括邮箱信息的 Exchange Online 审核报告的子集。<br/>
 <sup>6</sup> DLP 策略提示不适用于 Exchange Enterprise CAL with Services 客户。<br/>
 <sup>7</sup> 默认内容筛选器操作旨在将垃圾邮件移到收件人的"垃圾邮件"文件夹中。 要将此筛选器与本地 Exchange 邮箱结合使用，还需要在本地 Exchange 组织上配置两条传输规则，用于检测 EOP 添加的垃圾邮件头。 有关详细信息，请参阅 [确保垃圾邮件已路由到每个用户的"垃圾邮件"文件夹](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)。<br/>
-<sup>8</sup> 此功能适用于将通过 EOP 筛选其邮箱的 Exchange Server 2013 Service Pack 1 (SP1) 客户，并且很快将提供给 Exchange Online 客户。 <br/>
-<sup>9</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。 <br/>
-<sup>10</sup> 包括 DLP 报告。 <br/>
+<sup>8</sup> 此功能适用于将通过 EOP 筛选其邮箱的 Exchange Server 2013 Service Pack 1 (SP1) 客户，并且很快将提供给 Exchange Online 客户。<br/>
+<sup>9</sup> EOP 审核报告是部分不包括邮箱信息的 Exchange Online 审核报告。<br/>
+<sup>10</sup> 包括 DLP 报告。<br/>
 <sup>11</sup> Exchange Enterprise CAL with Services 客户应该通过选择 **Exchange Online** 服务（而不是 **Exchange Online Protection** 服务）来安装工作簿。<br/>
-<sup>12</sup> 支持购买 Azure 信息保护并使用 Exchange Online Protection 通过 Exchange Online 路由电子邮件的本地客户。<br/>
+<sup>12</sup>支持购买 Azure 信息保护并使用 azure Exchange Online Protection路由电子邮件Exchange Online。<br/>
 <sup>13</sup> 扫描入站和出站邮件，但不扫描从组织中的发件人发送给组织中的收件人的内部邮件。<br/>
 <sup>14</sup> EOP 和 Exchange Online 的可用谓词和操作不同。<br/>
-<sup>15</sup> 混合设置无法通过混合向导使用，但如果拥有 Exchange SP1，可以手动设置。<br/>
-<sup>16</sup> 适用于 Office 365 Germany E1 及以上版本。<br/>
-<sup>17</sup> 在 Office 365 Germany E3 中可用。<br/>
-<sup>18</sup> 作为 Office 365 Germany 的附加功能提供。
+<sup>15</sup>混合设置不是通过混合向导提供的，但如果您具有 SP1，可以Exchange设置。<br/>
+<sup>16</sup>在德国Office 365 E1 及以上版本。<br/>
+<sup>17</sup>在德国Office 365 E3 中可用。<br/>
+<sup>18</sup>作为德国的附加功能Office 365提供。
 
 ## <a name="defender-for-office-365-features"></a>Defender for Office 365 功能
 
-下表列出了 Office 365 Germany 计划中提供的 Defender for Office 365 功能。 提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。<br><br>
+下表列出了在德国计划中Office 365的 Defender Office 365功能。 提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。<br><br>
 
-| 功能 | Office 365 独立版 Defender | Exchange Online 中的 Defender for Office 365 功能 |
+| 功能 | 独立 defender for Office 365 | defender for Office 365 features in Exchange Online |
 |:-----|:-----|:-----|
 |安全链接|是|是|
 |安全附件|是|是|
@@ -691,8 +691,8 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |SQL Server Reporting Services (SSRS) 集成的模式|否|否|否|否|否|否|否|否|
 |时间线切片器|否|否|否|是|否|是|是|否|
 |使用含有数据模型的 Excel 工作簿并与之进行交互|是|是|是|是|是|是|是|是|
-|Visio 网页<sup>18</sup>|是|是|是|是|是|是|是|是|
-|Visio Services<sup>18</sup>|否|否|否|否|否|否|否|否|
+|Visio Web<sup>18</sup>|是|是|是|是|是|是|是|是|
+|Visio服务<sup>18</sup>|否|否|否|否|否|否|否|否|
 |**搜索功能**|**Office 365 Germany 商业协作版**|**Office 365 Germany 商业版**|**Office 365 Germany 商业高级版**|**Office 365 Germany 教育版 A1**|**Office 365 Germany 企业版 E1**|**Office 365 Germany 企业版 E3**|**Office 365 Germany 企业版 E4**|**Office 365 Germany 企业版 K1**|
 |Advanced Content Processing|是|否|是|是|是|是|是|是|
 |连续爬网|是|是|是|是|是|是|是|是|
@@ -729,7 +729,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |自定义托管路径|否|否|否|否|否|否|否|否|
 |治理|是|是|是|是|是|是|是|是|
 |混合应用启动器|是|是|是|是|是|是|是|是<sup>19</sup>|
-|混合 OneDrive for Business 和站点|是|是|是|是|是|是|是|是<sup>19</sup>|
+|混合OneDrive for Business和站点|是|是|是|是|是|是|是|是<sup>19</sup>|
 |大型列表可扩展性和管理|是|是|是|是|是|是|是|是|
 |移动连接性|否|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|是<sup>11</sup>|
 |多语言用户界面|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|是<sup>12</sup>|
@@ -766,7 +766,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 |人员、站点、文档建议|是|否|是|是|是|是|是|是|
 |个人网站|是|是|是|是|是|是|是|否|
 |照片和状态|是|是|是|是|是|是|是|是|
-|个人资料|是|是|是|是|是|是|是|是|
+|配置文件|是|是|是|是|是|是|是|是|
 |评价|是|是|是|是|是|是|是|是|
 |Shared with Me|是|是|是|是|是|是|是|否|
 |网站源（使用 SharePoint 社交功能的经典团队网站）|是|否|是|是|是|是|是|是|
@@ -785,7 +785,7 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 > [!NOTE]
 > <sup>1</sup> 若要使用文件夹同步，必须拥有 Office 2013 或更高版本（标准版或专业版）或包含 Office 应用程序的订阅。 Office 365 Germany Business Essentials, Office 365 Germany Enterprise E1Office 365 Germany Enterprise E1, and Office 365 Germany Education A1 plans do not include subscriptions to Office desktop applications. However, you can use folder sync if you have Office 2013 or later installed and subscribe to one of these plans.<br/>
 <sup>2</sup>Kiosk 帐户具有受限的 OneDrive for Business 功能。 Kiosk customers can use the OneDrive for Business folder sync client application to sync team site document libraries with a shared computer and access documents offline. But kiosk accounts do not include a OneDrive for Business Personal Site, so they do not benefit from a OneDrive for Business personal library with 1 TB of online storage.<br/>
-<sup>3</sup> Azure 信息保护不包括在内，但可以单独购买，以启用支持的 IRM 功能。 若要创建受 RMS 保护的内容，Office Professional Plus 2013、Office Professional Plus 2016、Microsoft 365 应用版或 Outlook Web Access。<br/>
+<sup>3</sup> Azure 信息保护不包括在内，但可以单独购买，以启用支持的 IRM 功能。 若要创建受 RMS 保护的内容，您必须具有 Office Professional Plus 2013、Office 专业增强版 2016、Microsoft 365 应用版 或 Outlook Web Access。<br/>
 <sup>4</sup>Kiosk 用户不能是管理员，因此包含 Kiosk 用户的租户至少必须有一个 Enterprise 用户才能访问管理中心。<br/>
 <sup>5</sup>SharePoint Online 客户必须下载并安装免费的排名模型调整应用，才能创建和自定义排名模型。<br/>
 <sup>6</sup> When you use eDiscovery features, the licensing requirement for a plan that permits that feature applies to all end users that are part of the eDiscovery action (Search, Hold, Export).<br/> <sup>7</sup>经过身份验证的 SharePoint Online 用户可以使用分面导航访问专用网站集。<br/>
@@ -797,8 +797,8 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 <sup>14</sup> Organization community website is available, but public community-provided help is not available.<br/>
 <sup>15</sup> Access 2010 is not supported.<br/> <sup>16</sup> Kiosk users cannot create Office documents using live tiles. 要创建文档，Kiosk 用户必须选择“**新建**”，然后从“**创建新文件**”菜单选择一种文件类型（Word 文档、Excel 工作簿、PowerPoint 演示文稿、OneNote 笔记本或 Excel 调查），通过 SharePoint Online 网站进行创建。 <br/>
 <sup>17</sup> 包含用户代码（沙盒）的 InfoPath Forms 只能在 InfoPath 富客户端中使用。<br/>
-<sup>18</sup> Visio 网页 (查看功能) 免费提供。 必须有许可证，才能使用 Visio 网页版的创建和编辑功能。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。<br/>
-<sup>19</sup> K1 用户可以在混合设置中访问 SharePoint Server，但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。
+<sup>18</sup> Visio Web (查看功能) 免费提供。 必须有许可证，才能使用 Visio 网页版的创建和编辑功能。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。<br/>
+<sup>19</sup> K1 用户可以在混合SharePoint访问服务器，但 Office 365 K1 不包括访问服务器的 CAL 权限;必须单独购买这些权限。
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 
@@ -935,11 +935,11 @@ Office 365 Germany 遵守 Office 365 的云安全性和合规性标准。 Office
 
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 专业增强版和 Office 365 企业版 E3 包括完整的 Skype for Business (Lync) 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。<br/>
-<sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. <br/>
+<sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface.<br/>
 <sup>4</sup> You must assign an Exchange Online (Plan 2) plan to users who you want to have voice mail. An Exchange Online (Plan 1) plan can't be used for voice mail. <br/>
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. 但是，支持联合呼叫。<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon.
 
-## <a name="visio-for-the-web-features"></a>Visio 网页功能
+## <a name="visio-for-the-web-features"></a>Visio Web 功能
 
-Visio 网页版适用于 Office 365 Germany。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。
+Visio适用于德国Office 365版本。 有关 Visio 网页版的详细信息，请参阅 [Visio 网页版服务说明](../visio-online-service-description/visio-online-service-description.md)。

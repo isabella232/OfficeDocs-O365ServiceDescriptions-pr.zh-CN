@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: 以下报告和商业智能功能在 Project Online 中可用。
+description: 以下报告和商业智能功能在 Project Online。
 ms.openlocfilehash: 3e5ca67f8d2220bfe02492f6f5a7fe120441ab40
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,7 +19,7 @@ ms.locfileid: "51651121"
 ---
 # <a name="reporting-and-business-intelligence"></a>报告和商务智能
 
-以下报告和商业智能功能在 Project Online 中可用。
+以下报告和商业智能功能在 Project Online。
   
 ## <a name="odata-feeds"></a>OData 源
 

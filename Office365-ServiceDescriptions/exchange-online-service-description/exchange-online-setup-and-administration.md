@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: 本文介绍了可用于自定义 Exchange Online 设置并保持组织的 Exchange Online 环境正常运行和保持最新状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
+description: 本文介绍可用于自定义组织设置Exchange Online保持组织环境运行、运行Exchange Online更新的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
 ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,11 +23,11 @@ ms.locfileid: "51652726"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 
-本文介绍了可用于自定义 Exchange Online 设置并保持组织的 Exchange Online 环境正常运行和保持最新状态的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
+本文介绍可用于自定义组织设置Exchange Online保持组织环境运行、运行Exchange Online更新的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
   
 ## <a name="self-service-administration-tools"></a>自助服务管理工具
 
-尽管 Microsoft 直接控制所有 Exchange Online 数据中心并负责整体系统性能，但它只能控制组合在一起以为用户提供总体验的部分元素。 组织本身负责到数据中心、客户广域网 (WAN) 和客户局域网 (LAN) 的网络连接。 此外，还负责用户设备及其配置。它们也负责维护每个用户的任何所需功能需要的授权，包括但不限于管理这些功能的能力，前提是用户需要访问此功能。
+尽管 Microsoft 直接控制所有Exchange Online，并负责整体系统性能，但它只能控制组合在一起以为用户提供总体验的部分元素。 组织本身负责到数据中心、客户广域网 (WAN) 和客户局域网 (LAN) 的网络连接。 此外，还负责用户设备及其配置。它们也负责维护每个用户的任何所需功能需要的授权，包括但不限于管理这些功能的能力，前提是用户需要访问此功能。
   
 因此，Exchange Online 为客户管理员提供了以下工具（如下所述），帮助他们管理消息传递相关的任务：
   
@@ -45,7 +45,7 @@ Microsoft Office 365 门户 ([https://portal.office.com](https://portal.office.c
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理中心
 
-Microsoft 365 管理中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个 Microsoft 服务的用户帐户和设置。 在 Microsoft 365 管理中心内，管理员可以访问指向 Exchange 管理中心 (EAC) 的链接，可以在其中管理特定于 Exchange Online 的设置。 有关开始使用和运行 Microsoft 365 管理中心的信息，请参阅以下视频： [介绍 Office 365 企业版](https://go.microsoft.com/fwlink/p/?LinkId=271806)。
+管理Microsoft 365中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个Microsoft 服务和设置。 在 Microsoft 365 管理中心内，管理员可以关注 Exchange 管理中心 (EAC) 的链接，他们可在其中管理特定于 Exchange Online 的设置。 有关使用管理中心启动和运行Microsoft 365，请参阅以下视频[：Office 365 企业版。](https://go.microsoft.com/fwlink/p/?LinkId=271806)
   
 ### <a name="exchange-admin-center"></a>Exchange 管理中心
 
@@ -102,4 +102,4 @@ Microsoft 发行 Exchange 主版本后，客户最长可在 12 个月内将服�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online[说明](exchange-online-service-description.md)。

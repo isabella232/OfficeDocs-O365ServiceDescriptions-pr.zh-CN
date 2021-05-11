@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
-description: 若要了解刚刚发布或即将发布的 Office 365 功能，请查看 Microsoft 365 路线图。
+description: 若要了解Office 365或即将发布的新功能，请查看 Microsoft 365 路线图。
 ms.openlocfilehash: d15ed4485127bab5735aa9748cb2f5693ae272e3
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -24,7 +24,7 @@ ms.locfileid: "51652416"
 > [!NOTE]
 > 本主题不适用于由世纪互联运营的 Office 365。若要了解有关服务更新的信息，请参阅[获得针对由世纪互联运营的 Office 365 的技术、帐单和订阅支持](/microsoft-365/admin/contact-support-for-business-products)。 
   
-若要了解刚刚发布或即将发布的功能，请查看 [Microsoft 365 路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
+若要了解刚刚发布或即将发布的功能，请查看Microsoft 365[路线图](https://go.microsoft.com/fwlink/?LinkId=509914)。
   
 > [!NOTE]
 > 更新和升级将基于许多因素（如地理位置、语言、数据中心和订阅）推出给客户。 也就是说，不是所有更新都可供 现有用户立即使用。 
@@ -37,7 +37,7 @@ ms.locfileid: "51652416"
 
 Microsoft 努力在需要管理员采取措施以保持服务正常运行的任何更改之前通知客户。 除非另有说明，否则当更新可能需要管理员操作时，Microsoft 会通过[消息中心](/office365/admin/manage/message-center)至少提前 30 天发出通知。 
   
-大多数服务更新都是代表客户执行零操作的错误修复、性能改进和安全更新。 Microsoft [365](https://roadmap.office.com/)商业版路线图 中提供了新增和改进的功能。
+大多数服务更新都是代表客户执行零操作的错误修复、性能改进和安全更新。 有关业务路线图，Microsoft 365[和改进的功能](https://roadmap.office.com/)。
   
 请注意，Microsoft 遵循 [联机生命周期策略](https://support.microsoft.com/lifecycle#gp/osslpolicy)。
   

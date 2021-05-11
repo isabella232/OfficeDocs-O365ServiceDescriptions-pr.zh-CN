@@ -24,7 +24,7 @@ ms.locfileid: "52074493"
 Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 服务运行状况信息随时可供登录使用。
   
 > [!NOTE]
-> 如果正在使用由世纪互联运营的 Office 365，则下面的某些信息可能不适用。 请转为参阅[世纪互联服务级别协议](https://www.21vbluecloud.com/office365/O365-SLA/)。 
+> 如果正在使用由世纪互联运营的 Office 365，则下面的某些信息可能不适用。请转为参阅[世纪互联服务级别协议](https://www.21vbluecloud.com/office365/O365-SLA/)。 
   
 ## <a name="view-status-of-services"></a>查看服务状态
 
@@ -36,13 +36,13 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
   
 有两种类型的有关服务不可用时间的通知：
   
-- **计划的维护事件：** 计划维护是 Microsoft 启动的对基础结构和软件应用程序的常规服务更新。 计划维护通知会告知客户可能影响 Microsoft 服务功能的服务工作。 客户将通过 Microsoft 365 管理中心的消息中心提前 5 天通知客户所有计划维护。 Microsoft 通常会针对服务使用率在基于区域时区时最低的时间规划维护。 
+- **计划的维护事件：** 计划维护是 Microsoft 启动的对基础结构和软件应用程序的常规服务更新。 计划维护通知会告知客户可能影响 Microsoft 服务功能的服务工作。 通过管理中心的消息中心，客户将提前五天Microsoft 365维护。 Microsoft 通常会针对服务使用率在基于区域时区时最低的时间规划维护。 
     
 - **计划外停机：** 当其中一个服务不可用或无响应时，将发生计划外服务事件。 
 
 ### <a name="recent-worldwide-uptimes"></a>最近的全球运行时间
 
-迁移到云服务不应意味着失去了解所运行功能的能力。 对于 Office 365，则没有。 我们的目标是在操作中保持透明，以便你可以监视服务状态、跟踪问题，并拥有可用性的历史视图。 下表显示了最近的全球正常运行时间数据。
+迁移到云服务不应意味着失去了解所运行功能的能力。 使用 Office 365，则不能。 我们的目标是在操作中保持透明，以便你可以监视服务状态、跟踪问题，并拥有可用性的历史视图。 下表显示了最近的全球正常运行时间数据。
 
 **2021**
 
@@ -84,7 +84,7 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
 
 ## <a name="notification-policy"></a>通知策略
 
-当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新 Microsoft 365 管理中心上的 SHD (SHD) 来通知管理员。 服务事件更新按每小时提供一次，或者，如果需要其他节奏，将在 SHD 通信发布中说明。 
+当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新租户特定的服务运行状况仪表板 (管理中心) SHD Microsoft 365通知管理员。 服务事件更新按每小时提供一次，或者，如果需要其他节奏，将在 SHD 通信发布中说明。 
   
 ## <a name="service-health-communication-channels"></a>服务运行状况通信通道
 
@@ -94,17 +94,17 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack for Microsoft System Center 2012 R2
 
-Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 使用 System Center 的 Microsoft 管理员现在可以选择导入 Office 365 管理包，这样他们可以查看 System Center 中 Operations Manager 内的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请从 Microsoft 下载 [中心获取适用于 Office 365](https://www.microsoft.com/download/details.aspx?id=43708) 的 Microsoft System Center 管理包。 
+Microsoft System Center 是一个集成管理平台，可以帮助你管理数据中心、客户端设备和混合云 IT 环境。 现在，使用 System Center 的 Microsoft 管理员可以选择导入 Office 365 管理包，这样他们可以查看 System Center 中 Operations Manager 内的所有服务通信。 使用此工具，可以访问已订阅服务的状态、未解决和已解决的服务事件以及消息中心通信。 有关详细信息，请从[Microsoft 下载System Center Microsoft Office 365](https://www.microsoft.com/download/details.aspx?id=43708) Microsoft 管理包。 
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 
-Office 365 服务通信 API 使你能够以想要的方式访问服务通信。 通过此 API，你可以创建工具或将其连接到服务通信，从而可能简化你的环境监视方式。 服务通信 API 允许你监视你的环境的以下项目：
+the Office 365 Service Communications API lets you access service communications way you want. 通过此 API，你可以创建工具或将其连接到服务通信，从而可能简化你的环境监视方式。 服务通信 API 允许你监视你的环境的以下项目：
   
 - 实时服务运行状况
     
 - 消息中心通信
     
-有关详细信息，请参阅 Office [365 服务通信 API 参考](/office/office-365-management-api/office-365-service-communications-api-reference)。 
+有关详细信息，请参阅 Office 365[服务通信 API 参考](/office/office-365-management-api/office-365-service-communications-api-reference)。 
   
 ## <a name="post-incident-reviews"></a>事后评审
 
@@ -136,7 +136,7 @@ Microsoft 可以通过以下功能确保客户数据随时可用：
   
 - **数据存储和冗余：** 客户数据存储在具有强大数据保护功能的冗余环境中，以支持可用性、业务连续性和快速恢复。实施了多级数据冗余，从冗余磁盘到防止本地磁盘故障，从完整的持续数据复制到地理分散的数据中心。 
     
-- **数据监视：** Microsoft 服务通过监视来维护高级别的性能： 
+- **数据监视：Microsoft 服务** 监视来保持高级别的性能： 
     
   - Databases
     
@@ -156,7 +156,7 @@ Microsoft 开发和运营团队由专门的支持组织提供补充，它在为�
   
 支持组织与运营和产品团队紧密合作，提供快速的解决时间，并提供倾听客户意见的渠道。来自客户的反馈为计划、开发和运营流程提供输入。
   
-- **在线问题跟踪：** 客户需要知道他们的问题正在得到解决，同时需要能够跟踪及时解决。 Microsoft 365 管理中心提供一个基于 Web 的界面提供支持。 Customers can use the portal to add and monitor service requests and receive feedback from Microsoft support teams. 
+- **在线问题跟踪：** 客户需要知道他们的问题正在得到解决，同时需要能够跟踪及时解决。 管理Microsoft 365中心提供了一个基于 Web 的界面提供支持。 Customers can use the portal to add and monitor service requests and receive feedback from Microsoft support teams. 
     
 - **自助，由持续员工支持提供支持：** Microsoft 提供各种自助资源和工具，帮助客户解决与服务相关的问题，而无需 Microsoft 支持。 
     

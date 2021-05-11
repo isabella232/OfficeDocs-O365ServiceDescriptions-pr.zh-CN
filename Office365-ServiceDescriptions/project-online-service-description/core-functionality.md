@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: 以下核心功能功能在 Project Online 中可用。
+description: 以下核心功能在 Project Online。
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,13 +21,13 @@ ms.locfileid: "51652296"
 ---
 # <a name="core-functionality"></a>核心功能
 
-以下核心功能功能在 Project Online 中可用。
+以下核心功能在 Project Online。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 Project Online[服务说明](project-online-service-description.md)。
   
 ## <a name="add-columns"></a>添加列
 
-向视图添加列。 若要了解详细信息，请参阅[如何隐藏和取消隐藏列](https://go.microsoft.com/fwlink/p/?LinkId=271343)。
+向视图添加列。若要了解详细信息，请参阅[如何隐藏和取消隐藏列](https://go.microsoft.com/fwlink/p/?LinkId=271343)。
   
 ## <a name="backstage"></a>Backstage
 
@@ -35,7 +35,7 @@ ms.locfileid: "51652296"
   
 ## <a name="click-to-run"></a>即点即用
 
-通过 Internet、内部网络、本地文件系统或脱机媒体快速安装 Project Online，以确保使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
+通过Project Online、内部网络、本地文件系统或脱机媒体快速安装文件，以确保使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
   
 ## <a name="contextual-right-click-menus"></a>上下文右键单击菜单
 
@@ -63,19 +63,19 @@ ms.locfileid: "51652296"
   
 ## <a name="network-diagram-view"></a>网络图视图
 
-在网络图视图中查看项目的任务、依赖关系和关键路径。 请参阅[创建网络图](https://go.microsoft.com/fwlink/p/?LinkId=271338)。
+在网络图视图中查看项目的任务、依赖关系和关键路径。请参阅[创建网络图](https://go.microsoft.com/fwlink/p/?LinkId=271338)。
   
-## <a name="office-store"></a>Office 应用商店
+## <a name="office-store"></a>Office应用商店
 
-需要一款应用程序来帮助你使用 Project？ 在 Office 应用商店中查找 Project 的新应用程序。 请参阅 [Project 的外接程序](https://go.microsoft.com/fwlink/?LinkId=273883)。
+需要一款应用程序来帮助你使用 Project？ 在应用商店中查找Project应用程序Office应用程序。 请参阅 [Project 的外接程序](https://go.microsoft.com/fwlink/?LinkId=273883)。
   
 ## <a name="online-help"></a>联机帮助
 
-Project 帮助可在以下位置 Office.com 或 Project 中直接在"入门指南" (" **文件** \> **""** 新建) "。 [观看这些视频以切换到 Project 2013。](https://go.microsoft.com/fwlink/p/?LinkId=271325)
+Project帮助位于 Office.com 中或直接在"入门指南"中 **Project (选择"** 文件 \> **""** 新建) "。 [观看这些视频以切换到 Project 2013。](https://go.microsoft.com/fwlink/p/?LinkId=271325)
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-将 Project 文件另存为 PDF 或 XPS 文件。 请参阅[将项目文件另存为 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
+将Project文件另存为 PDF 或 XPS 文件。 请参阅[将项目文件另存为 PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350)。
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -91,11 +91,11 @@ Project 2013 为您启动项目提供了一个一站式中心，而不是让您�
   
 ## <a name="text-wrap"></a>文字换行
 
-对任务或资源名称执行自动换行。 请参阅[自动换行和更改行高](https://go.microsoft.com/fwlink/p/?LinkId=271344)。
+对任务或资源名称执行自动换行。请参阅[自动换行和更改行高](https://go.microsoft.com/fwlink/p/?LinkId=271344)。
   
-## <a name="timeline-view"></a>日程表视图
+## <a name="timeline-view"></a>Timeline view
 
-生成并自定义日程表视图，直观呈现计划详细信息，以便与利益干系人进行沟通。 请观看[视频：创建日程表](https://go.microsoft.com/fwlink/?LinkId=402912)。
+生成并自定义日程表视图，直观呈现计划详细信息，以便与利益干系人进行沟通。请观看[视频：创建日程表](https://go.microsoft.com/fwlink/?LinkId=402912)。
   
 ## <a name="zoom-controls"></a>缩放控件
 
@@ -103,4 +103,4 @@ Project 2013 为您启动项目提供了一个一站式中心，而不是让您�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Project Online 服务说明](project-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Project Online[说明](project-online-service-description.md)。

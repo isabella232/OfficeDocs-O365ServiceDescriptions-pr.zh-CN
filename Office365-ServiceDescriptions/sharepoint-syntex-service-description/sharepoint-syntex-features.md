@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: 了解符合条件的 Microsoft 365、Office 365 和 SharePoint Online 计划中提供的主要 SharePoint Syntex 功能。
+description: 了解跨符合条件的 SharePoint、Microsoft 365、Office 365 和 SharePoint Online 计划中提供的主要合成SharePoint功能。
 ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,23 +17,23 @@ ms.locfileid: "51651027"
 ---
 # <a name="sharepoint-syntex-features"></a>SharePoint Syntex 功能 
 
-以下各节 [介绍了符合条件的](sharepoint-syntex-service-description.md) Microsoft 365、Office 365 和 SharePoint Online 计划中提供的主要 SharePoint 整合功能。 可用功能可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅 [SharePoint 整合计划和定价页面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
+以下各节介绍了适用于[SharePoint](sharepoint-syntex-service-description.md) Online 计划Microsoft 365、Office 365和SharePoint合成功能。 可用功能可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅"SharePoint[和定价"页](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
 
 ## <a name="syntex-content-center"></a>合成内容中心
 
 Syntex 提供了一个称为内容中心的网站模板，用于大规模管理内容、集成元数据和工作流以及 &mdash;  &mdash; 提供合规性自动化。 内容中心提供的功能可以指导云如何以手动方式读取和处理文档。 Syntex 使用这些见解自动识别内容、提取重要信息并应用元数据标记。 此外，您还可以使用集成的可视化分析跟踪模型的有效性。
 
-若要了解有关内容中心以及如何创建它们，请参阅在 [SharePoint Syntex 中创建内容中心](/microsoft-365/contentunderstanding/create-a-content-center)。
+若要了解有关内容中心以及如何创建它们，请参阅在[Syntex](/microsoft-365/contentunderstanding/create-a-content-center)中SharePoint中心。
 
 ## <a name="object-recognition"></a>对象识别
 
 Syntex 可以使用包含成千上万个常见识别对象的新视觉字典自动标记图像。 此外，Syntex 可以识别手写文本并将其转换为标记，供搜索和进一步处理使用。
 
-若要详细了解 Syntex 中的对象识别以及如何配置图像标记，请参阅 [SharePoint Syntex 中的图像标记](/microsoft-365/contentunderstanding/image-tagging)。
+若要了解有关 Syntex 中的对象识别以及如何配置图像标记，请参阅 Syntex 中的图像[SharePoint标记](/microsoft-365/contentunderstanding/image-tagging)。
 
 ## <a name="document-understanding"></a>文档理解
 
-你可以指导 Syntex 以使用计算机教学的方式读取内容，以使用无代码 (AI) 构建人工智能。 Syntex 可以自动建议或创建元数据、调用自定义 Power Automate 工作流以及附加合规性标签以强制执行保留或记录管理策略。
+你可以指导 Syntex 以使用计算机教学的方式读取内容，以使用无代码 (AI) 构建人工智能。 Syntex 可以自动建议或创建元数据、调用自定义Power Automate工作流以及附加合规性标签以强制执行保留或记录管理策略。
 
 文档了解模型基于语言了解 Azure 认知服务中的模型。 这些模型是在 Syntex 内容中心中创建和管理的，你可以在整个 Syntex 中将模型发布并更新到任何内容中心中的库。
 
@@ -45,16 +45,16 @@ Syntex 包括基于 AI 生成器的强大表单处理引擎，可让你自动识
 
 若要详细了解表单处理，请参阅 [表单处理概述](/microsoft-365/contentunderstanding/form-processing-overview)。
 
-## <a name="microsoft-graph-content-connectors"></a>Microsoft Graph 内容连接器
+## <a name="microsoft-graph-content-connectors"></a>Microsoft Graph内容连接器
 
-Syntex 使用 Microsoft Graph 连接器将文件共享、Azure SQL 或第三方源（如 Box 和 &mdash; IBM FileNet）集成到 Microsoft Graph，使其在整个 Microsoft 365 中可搜索和 &mdash; 可用。
+Syntex 使用 Microsoft Graph 连接器将文件共享、Azure SQL 或第三方源（如 Box 和 IBM FileNet）集成到 Microsoft Graph 中，使其在整个 Microsoft 365 中可搜索 &mdash; &mdash; 和可用。
 
-使用 Microsoft Graph 连接器，客户可以索引外部存储库中的项目，以包含在 Microsoft 搜索结果中。 Microsoft 365 E5 和 Office 365 E5 包括使用 Microsoft 搜索的 Microsoft Graph 连接器对最多 500 个项目编制索引 (A5) 。 具有包括 SharePoint 或 OneDrive 计划的套件或独立许可证的任何用户都可以查看来自 Microsoft 搜索的 Microsoft Graph 连接器的搜索结果。
+使用 Microsoft Graph连接器，客户可以索引外部存储库中的项目，以包含在 Microsoft 搜索结果中。 Microsoft 365 E5和 Office 365 E5 包括使用 Microsoft Graph 搜索连接器（不包括在 A5 (中）对最多 500 个项目编制) 。 具有套件或独立许可证（包括 SharePoint 或 OneDrive 计划）的任何用户都可以看到来自 Microsoft 搜索Graph连接器的搜索结果。
 
-目前，Microsoft 或我们的一个合作伙伴提供了超过 130 个源的连接器。 若要了解更多信息，请参阅 [Microsoft Graph 连接器概述](/MicrosoftSearch/connectors-overview)。
+目前，Microsoft 或我们的一个合作伙伴提供了超过 130 个源的连接器。 若要了解更多信息，请参阅[Microsoft Graph连接器概述](/MicrosoftSearch/connectors-overview)。
 
 ## <a name="advanced-taxonomy-services"></a>高级分类服务
 
-Syntex 包括一些功能，可让你在整个 Microsoft 365 中观看和分析术语创建和使用。 这些报告在 SharePoint 管理中心中提供。
+Syntex 包括一些功能，可让你在整个生命周期中观看和分析Microsoft 365。 这些报告在管理SharePoint中提供。
 
-可通过 SharePoint 中心网站将共享内容类型发布到 [SharePoint](/sharepoint/dev/features/hub-site/hub-site-overview)和 Microsoft Teams。 将内容类型从中央库发布到中心网站提供了一种更为灵活的方法，以确保根据需要跨体系结构的广泛部分快速部署和升级常用内容类型（通过了解内容而增强）。 连接到中心的网站将自动接收已发布和更新的内容类型。
+可以将共享内容类型发布到网站SharePoint，Microsoft Teams中心SharePoint[发布共享内容类型](/sharepoint/dev/features/hub-site/hub-site-overview)。 将内容类型从中央库发布到中心网站提供了一种更为灵活的方法，以确保根据需要跨体系结构的广泛部分快速部署和升级常用内容类型（通过了解内容而增强）。 连接到中心的网站将自动接收已发布和更新的内容类型。

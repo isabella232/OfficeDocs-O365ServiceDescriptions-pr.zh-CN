@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
+description: Microsoft 365 Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
 ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,22 +23,22 @@ ms.locfileid: "51652386"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
-Microsoft 365 和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
+Microsoft 365 Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
   
-此库中的文章详细说明了 Microsoft 365 和 Office 365 中可用的服务和功能。 有关 Microsoft Dynamics 365 商业版应用程序的信息，请参阅 [Microsoft Dynamics 365 文档](/dynamics365/)。
+此库中的文章详细说明了可用于 Microsoft 365 和 Office 365。 有关 Microsoft Dynamics 365 商业版应用程序的信息，请参阅 [Microsoft Dynamics 365 文档](/dynamics365/)。
 
 若要跨计划比较功能，请参阅[](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)以下列表中用于支持企业的强大工具或相关服务说明。 
   
-有关支持文章和信息，请参阅 [Office 帮助&培训](https://support.office.com/)、适用于管理员和 IT 专业人员的 [Office](/office/)文档以及适用于管理员和 IT 专业人员的 [Microsoft 365](/microsoft-365/)帮助中心。
+有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/)documentation [for admins and IT professionals（](/office/)适用于管理员和 IT 专业人员的 Microsoft 365 帮助[中心](/microsoft-365/)）。
   
 > [!NOTE]
-> 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择适合你需求的 Office 365 版本。 
+> 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择Office 365版本的产品功能。 
   
-Microsoft 为符合条件的计划中符合条件的服务提供适用于 Office 365 的 FastTrack 中心权益。 这一优势使你能够与 Microsoft 专家远程合作，让 Office 365 环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的计划中符合条件的服务Office 365 FastTrack 中心权益。 利用该优势，你可以与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
-- [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office 应用程序服务说明](office-applications-service-description/office-applications-service-description.md)
 

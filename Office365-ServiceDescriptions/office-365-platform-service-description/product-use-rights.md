@@ -24,7 +24,7 @@ ms.locfileid: "51652516"
 
 如果遵守 Microsoft 在线订阅协议，可以使用 [Microsoft Online Services 使用权限](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true)下明确允许的联机服务和相关软件。
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>由世纪银行运营的 Office 365 使用权限
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 21Vianet 运营的组使用权限
 
 请参阅[在线服务标准协议](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/)和[使用条款](https://www.21vbluecloud.com/office365/O365-TOU/)。
   

@@ -53,5 +53,5 @@ Microsoft 合作伙伴网络致力于满足我们合作伙伴的需求。要加�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨 Microsoft 365 和 Office 365 计划的功能可用性，请参阅 [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description.md)。
+若要查看跨计划和Microsoft 365 Office 365的可用性，请参阅Microsoft 365和 Office 365[平台服务说明](office-365-platform-service-description.md)。
   

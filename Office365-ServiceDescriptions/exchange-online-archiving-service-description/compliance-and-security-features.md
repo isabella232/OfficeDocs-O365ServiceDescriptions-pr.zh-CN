@@ -23,15 +23,15 @@ ms.locfileid: "51653084"
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能
 
-本文介绍 Microsoft Exchange Online 存档的合规性功能。
+本文介绍 Microsoft Exchange Online Archiving 的合规性功能。
   
 ### <a name="retention-policies"></a>保留策略
 
-Exchange Online Archiving 提供了保留策略，可帮助组织减少与电子邮件和其他通信有关的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略的菜单，让他们使用 Outlook 2010 或更高版本或 Web 上的 Outlook 将策略应用于特定项目、对话或文件夹。 在 Exchange Online Archiving 中，管理员负责管理内部部署基础结构中的保留策略。
+Exchange Online Archiving 提供了保留策略，可帮助组织减少与电子邮件和其他通信有关的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略菜单，让他们使用 Outlook 2010 或更高版本或 web 上的 Outlook 将策略应用于特定项目、对话或文件夹。 在 Exchange Online Archiving 中，管理员负责管理内部部署基础结构中的保留策略。
   
 Exchange Online Archiving 提供两种策略：存档和删除。这两种策略可以应用于相同的项目或文件夹。例如，用户可以标记电子邮件以便在特定天数后自动将其移到个人存档，再过几天后将其删除。
   
-通过 Outlook 2010 及更高版本和 Web 上的 Outlook，用户可以将保留策略应用于文件夹、对话或单个邮件，还可以查看应用的保留策略和邮件的预期删除日期。 其他电子邮件客户端的用户可根据管理员设置的服务器端保留策略删除或存档电子邮件，但他们的可见性和控制级别并不相同。
+通过 Outlook 2010 及更高版本和 Outlook 网页，用户可以将保留策略应用于文件夹、对话或单个邮件，还可以查看应用的保留策略和邮件的预期删除日期。 其他电子邮件客户端的用户可根据管理员设置的服务器端保留策略删除或存档电子邮件，但他们的可见性和控制级别并不相同。
   
 Exchange Online Archiving 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 (SP2) 及更高版本中提供的保留策略功能相同。 管理员可以管理本地 Exchange Server 2010 及更高版本环境中的保留策略。 托管文件夹是 Exchange 2007 中引入的邮件记录管理旧方法，在 Exchange Online Archiving 中不可用且不兼容。 有关详细信息，请参阅[保留标记和保留策略](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)。
   
@@ -95,7 +95,7 @@ TLS 用于加密电子邮件服务器之间的连接，以帮助阻止电子诈�
 
 到 Exchange Online Archiving 的客户端连接使用以下加密方法来提高安全性：
   
-- SSL 用于使用 TCP 端口 443 保护 Outlook、Web 上的 Outlook 和 Exchange Web 服务通信。
+- SSL 用于使用 TCP Outlook 443 Outlook Web 服务Exchange通信的安全。
     
 - 引入 Exchange Online Archiving 并未更改到内部部署服务器的客户端连接。
     
@@ -109,19 +109,19 @@ Exchange Online Archiving 将会存储安全/多用途 Internet 邮件扩展 (S/
 
 Exchange Online Archiving 不提供托管信息权限管理 (IRM) 服务，但管理员可以使用内部部署 Active Directory 权限管理服务 (AD RMS)。如果部署了 AD RMS 服务器，则 Outlook 可以直接与此服务器通信，让用户可以撰写和读取受 IRM 保护的邮件。如果在 AD RMS 服务器和内部部署 Exchange 环境之间配置了互操作性，则用户可以撰写和读取受 IRM 保护的邮件。
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>对 Outlook 网页中的 IRM 的支持
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>对 Web Outlook中的 IRM 的支持
 
-用户可以像在 Outlook 中一样，在 Web 上的 Outlook 中本地读取和创建受 IRM 保护的邮件。 Outlook 网页版中受 IRM 保护的邮件可通过 Internet Explorer、Firefox、Safari 和 Chrome (访问，无需任何) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
+用户可以在 Web 上的 Outlook本地读取和创建受 IRM 保护的邮件，就像在 Outlook 中一样。 Web 上的 Outlook 中受 IRM 保护的邮件可通过 Internet Explorer、Firefox、Safari 和 Chrome (访问，无需任何) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
   
 #### <a name="irm-search"></a>IRM 搜索
 
-受 IRM 保护的邮件已编制索引，可以进行搜索，包括标头、主题、正文和附件。 用户可以在 Outlook 和 Web 上的 Outlook 中搜索受 IRM 保护的项目，管理员可以使用 In-Place 电子数据展示或 **Search-Mailbox** cmdlet 搜索受 IRM 保护的项目。
+受 IRM 保护的邮件已编制索引，可以进行搜索，包括标头、主题、正文和附件。 用户可以在 web 上的 Outlook 和 Outlook 中搜索受 IRM 保护的项目，管理员可以使用 In-Place 电子数据展示或 **Search-Mailbox** cmdlet 搜索受 IRM 保护的项目。
   
 ### <a name="auditing"></a>审核
 
 Exchange Online Archiving 提供两种内置审核功能：
   
-- **管理员审核日志记录** - 管理员审核日志记录允许客户跟踪其管理员在 Exchange Online Archiving 环境中所做的更改，包括对 RBAC 角色或 Exchange 策略和设置的更改。 
+- **管理员审核日志记录**- 管理员审核日志记录允许客户跟踪其管理员在 Exchange Online Archiving 环境中所做的更改，包括更改 RBAC 角色或Exchange策略和设置。 
     
 - **邮箱审核日志记录** - 邮箱审核日志记录允许客户跟踪邮箱所有者外的用户对邮箱的访问。 
     
@@ -131,4 +131,4 @@ Exchange 管理中心提供几个预定义审核报告，包括管理员角色�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online Archiving [说明](exchange-online-archiving-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online Archiving[服务说明](exchange-online-archiving-service-description.md)。

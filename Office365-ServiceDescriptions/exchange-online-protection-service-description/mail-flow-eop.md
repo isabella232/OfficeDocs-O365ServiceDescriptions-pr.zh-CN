@@ -1,5 +1,5 @@
 ---
-title: Exchange Online Protection 中的邮件流
+title: 邮件流Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -19,15 +19,15 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653134"
 ---
-# <a name="mail-flow-in-exchange-online-protection"></a>Exchange Online Protection 中的邮件流
+# <a name="mail-flow-in-exchange-online-protection"></a>邮件流Exchange Online Protection
 
 对于大多数使用 Microsoft 的组织，我们将托管您的邮箱并处理邮件流。 这是最简单的配置，意味着 Microsoft 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection (EOP) 允许您执行这一操作，并可以在云中提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
   
-正在查找关于域管理或基于目录的边缘阻止 (DBEB) 的信息？ 请参阅 [收件人、域和公司管理](recipient-domain-and-company-management.md)。 若要详细了解所有 EOP 功能，请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+正在查找关于域管理或基于目录的边缘阻止 (DBEB) 的信息？ 请参阅 [收件人、域和公司管理](recipient-domain-and-company-management.md)。 若要详细了解所有 EOP 功能，请参阅 Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>在 Microsoft 和自己的电子邮件服务器之间路由电子邮件
 
-您可以配置连接器以启用 Microsoft (包括 Exchange Online 或 EOP) 与基于 SMTP 的电子邮件服务器（如 Exchange）之间的邮件流。 有关详细信息，请参阅[Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)？ 设置 [连接器以在 Microsoft 和您自己的电子邮件服务器之间路由邮件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
+您可以配置连接器以在 Microsoft (（包括 Exchange Online 或 EOP) ）与基于 SMTP 的电子邮件服务器（如 Exchange）之间启用邮件流。 有关详细信息，请参阅[Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)？ 设置 [连接器以在 Microsoft 和您自己的电子邮件服务器之间路由邮件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>与受信任合作伙伴的安全邮件
 
@@ -53,4 +53,4 @@ ms.locfileid: "51653134"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online Protection 服务说明](exchange-online-protection-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online Protection[说明](exchange-online-protection-service-description.md)。

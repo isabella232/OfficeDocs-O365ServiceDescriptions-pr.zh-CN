@@ -32,11 +32,11 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
 有关详细信息，请参阅设置连接器以在 Microsoft 和 [您自己的电子邮件服务器之间路由邮件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
 > [!IMPORTANT]
-> Exchange Online 可将邮件流传入和传出组织。 如果收件人域托管在 Exchange Online 中，DNS MX 记录指向 Exchange Online Protection，则从租户到收件人的邮件流不会通过 Internet 传输。
+> Exchange Online 可将邮件流传入和传出组织。 如果您的收件人域托管在 Exchange Online DNS MX 记录指向 Exchange Online Protection，则从租户到收件人的邮件流不会通过 Internet 传输。
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>与受信任合作伙伴的安全邮件
 
-作为 Exchange Online 客户，您可以使用 Microsoft 连接器设置与受信任合作伙伴的安全邮件流。 Microsoft 支持通过传输层安全性 (TLS) 安全通信，并且您可以创建连接器以通过 TLS 强制实施加密。 [TLS](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 是一种加密协议，它为通过 Internet 的通信提供安全性。 通过使用连接器，可以使用自签名证书或经证书颁发机构 (CA) 验证的证书配置强制的入站和出站 TLS。 还可以应用其他安全限制，如指定合作伙伴组织发送邮件时使用的域名或 IP 地址范围。 
+作为Exchange Online，您可以使用 Microsoft 连接器设置与受信任合作伙伴的安全邮件流。 Microsoft 支持通过传输层安全性 (TLS) 安全通信，并且您可以创建连接器以通过 TLS 强制实施加密。 [TLS](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) 是一种加密协议，它为通过 Internet 的通信提供安全性。 通过使用连接器，可以使用自签名证书或经证书颁发机构 (CA) 验证的证书配置强制的入站和出站 TLS。 还可以应用其他安全限制，如指定合作伙伴组织发送邮件时使用的域名或 IP 地址范围。 
   
 有关详细信息，请参阅[Set up connectors for secure mail flow with a partner organization](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner)。
   
@@ -65,13 +65,13 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>含内部路由控制的共享地址空间（MX 指向内部）
 
-具有本地路由控制共享地址空间 (MX 指向本地) 是一种混合部署邮件路由方案，其中邮箱部分托管在 Exchange Online 中，部分托管在本地，传入和传出 Internet 邮件流通过内部部署 Exchange 组织路由。 此方案也称为集中邮件传输。 在此方案中，使用 EOP 预配 Exchange Online，传入 Internet 邮件将路由到内部部署邮件服务器，然后再路由到 EOP，最后路由到 Exchange Online 中托管的邮箱。 此外，来自 Exchange Online 邮箱的传出邮件通过内部部署 Exchange 组织路由发送给外部收件人的邮件。 使用此配置，您可以为内部部署 Exchange 组织和 Exchange Online 组织的所有邮箱使用单个 SMTP 域命名空间。 
+具有本地路由控制的共享地址空间 (MX 指向本地) 是一种混合部署邮件路由方案，其中邮箱部分托管在 Exchange Online 中，部分托管在本地，传入和传出 Internet 邮件流通过内部部署 Exchange 组织进行路由。 此方案也称为集中邮件传输。 在此方案中，Exchange Online EOP 进行设置，传入 Internet 邮件在路由到 EOP 之前路由到内部部署邮件服务器，最后路由到托管在 Exchange Online 中的邮箱。 此外，来自Exchange Online的传出邮件通过内部部署Exchange组织路由发送给外部收件人的邮件。 通过此配置，您可以对内部部署组织以及内部部署组织Exchange所有邮箱使用单个 SMTP Exchange Online命名空间。 
   
 若要详细了解混合部署中的传输选项，请参阅 [Exchange 混合部署的传输选项](/exchange/transport-options)。
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>不含内部路由控制的共享地址空间（MX 指向 EOP）
 
-没有本地路由控制的共享地址空间 (MX 指向 EOP) 是一种混合邮件路由方案，其中邮箱使用 Exchange Online 部分托管在云中，部分本地托管，而 MX 记录指向 EOP。 当你使用 Microsoft 托管组织的一些邮箱，并且希望 EOP 同时保护本地邮箱和云邮箱时，此方案很适用。 在此方案中，发送给组织内部收件人的邮件最初通过 EOP 进行路由，其中垃圾邮件和策略筛选发生在到达内部部署邮箱和云邮箱之前。 
+没有本地路由控制的共享地址空间 (MX 指向 EOP) 是一种混合邮件路由方案，其中使用 Exchange Online 部分本地将邮箱托管在云中，而 MX 记录指向 EOP。 当你使用 Microsoft 托管组织的一些邮箱，并且希望 EOP 同时保护本地邮箱和云邮箱时，此方案很适用。 在此方案中，发送给组织内部收件人的邮件最初通过 EOP 进行路由，其中垃圾邮件和策略筛选发生在到达内部部署邮箱和云邮箱之前。 
   
 若要详细了解混合部署中的传输选项，请参阅 [Exchange 混合部署的传输选项](/exchange/transport-options)。
   
@@ -96,4 +96,4 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 Exchange Online [服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online[说明](exchange-online-service-description.md)。

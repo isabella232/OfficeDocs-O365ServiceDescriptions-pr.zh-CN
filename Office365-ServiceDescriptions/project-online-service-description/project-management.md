@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: 以下项目管理功能在 Project Online 中可用。
+description: 以下项目管理功能在 Project Online。
 ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652266"
 ---
 # <a name="project-management"></a>项目管理
 
-以下项目管理功能在 Project Online 中可用。
+以下项目管理功能在 Project Online。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 Project Online[服务说明](project-online-service-description.md)。
   
 ## <a name="issues-and-risk-management"></a>问题和风险管理
 
@@ -43,6 +43,6 @@ Project Online 和 Project Server 2013 包括防止、发现和减少与业务�
 
 使用常见的集中式方法报告时间并管理任务。针对工资核算、开具发票以及其他业务用途捕获工作时间和非工作时间。有效沟通项目、日常工作、临时请求的状态可判断利用率峰值和谷值或任务进度。这有助于预计对计划工作、成本和时间范围的影响。若要了解详细信息，请参阅[跟踪时间和任务进度](https://go.microsoft.com/fwlink/p/?LinkId=271321)。
 
-## <a name="project-home"></a>Project 主页
+## <a name="project-home"></a>Project主页
 
-Project 主页是一个起点，可让你快速轻松地访问最近使用的项目和重要的首要项目。 可以使用易于使用的控件将这些项目标记为收藏夹，以便它们在 Project 主页中醒目地显示。 若要了解更多信息，请参阅 [Project 主页入门](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。
+Project主页是一个起点，可让你快速轻松地访问最近执行的项目以及重要的、最重要的项目。 可以使用易于使用的控件将这些项目标记为收藏夹，以便它们在"主页"中Project醒目。 若要了解更多信息，请参阅开始[Project主页](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。

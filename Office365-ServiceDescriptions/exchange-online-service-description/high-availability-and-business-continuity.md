@@ -31,13 +31,13 @@ Exchange Online 邮箱不断复制为多个数据库副本，存储在多个地�
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 
-管理员可以删除 Exchange Online 邮箱，方法为使用 Microsoft 365 管理中心删除相应的用户帐户或删除 Exchange Online 许可证，或者使用远程邮箱中的 **Remove-Mailbox** cmdlet Windows PowerShell。 默认情况下，邮箱删除之后，Exchange Online 仍将邮箱及其内容保留 30 天。 30 天后，邮箱不可恢复。 已恢复邮箱包含邮箱删除时存储在其中的所有数据。 管理员可以使用 Microsoft 365 管理中心在保留期内恢复已删除的邮箱。 若要恢复已删除的邮箱，管理员必须还原相应的用户帐户或将 Exchange Online 许可证重新分配给用户帐户。 有关详细信息，请参阅 [在 Exchange Online 中删除或还原用户邮箱](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。
+管理员可以使用 Microsoft 365 管理中心删除 Exchange Online 邮箱，删除相应的用户帐户或删除 Exchange Online 许可证，或者使用远程 Windows PowerShell 中的 **Remove-Mailbox** cmdlet。 默认情况下，邮箱删除之后，Exchange Online 仍将邮箱及其内容保留 30 天。 30 天后，邮箱不可恢复。 已恢复邮箱包含邮箱删除时存储在其中的所有数据。 管理员可以使用管理中心，在保留期内恢复Microsoft 365邮箱。 若要恢复已删除的邮箱，管理员必须还原相应的用户帐户或将Exchange Online许可证重新分配给用户帐户。 有关详细信息，请参阅 [在 Exchange Online 中删除或还原用户邮箱](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。
   
 ## <a name="deleted-item-recovery"></a>已删除邮件的恢复
 
-Exchange Online 允许用户还原从任何电子邮件文件夹中删除的项目，包括"已删除邮件"文件夹。 邮件删除之后，邮件仍保留在用户的"已删除邮件"文件夹中。 它将一直保留，直到用户手动删除或通过保留策略自动删除该邮件为止。 管理员可以在 EAC 中或使用远程 Windows PowerShell 自定义保留策略。
+Exchange Online用户可以还原从任何电子邮件文件夹中删除的项目，包括"已删除邮件"文件夹。 邮件删除之后，邮件仍保留在用户的"已删除邮件"文件夹中。 它将一直保留，直到用户手动删除或通过保留策略自动删除该邮件为止。 管理员可以在 EAC 中或使用远程 Windows PowerShell 自定义保留策略。
   
-邮件从"已删除邮件"文件夹中删除之后，将在"可恢复邮件"文件夹中继续保留 14 天，然后永久删除，但管理员可以使用远程 Windows PowerShell 最多将保留期限延长至 30 天。 用户在此期间可以使用 Outlook 网页或 Outlook 中的"恢复已删除邮件"功能恢复项目。 了解如何[更改已删除邮件的保留期限](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention)。
+邮件从"已删除邮件"文件夹中删除之后，将在"可恢复邮件"文件夹中继续保留 14 天，然后永久删除，但管理员可以使用远程 Windows PowerShell 最多将保留期限延长至 30 天。 在此期间，用户可以使用 Web 或 Outlook 中的"恢复已删除邮件"功能恢复Outlook。 了解如何[更改已删除邮件的保留期限](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention)。
   
 如果用户已从"可恢复邮件"文件夹中手动清除邮件，管理员可以结合使用"单个项目恢复"功能和远程 Windows PowerShell 恢复同期邮件。默认情况下，创建邮箱时会启用"单个项目恢复"功能。若要了解详细信息，请参阅[启用或禁用邮箱的单个项目恢复](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-single-item-recovery)。
   
@@ -45,4 +45,4 @@ Exchange Online 允许用户还原从任何电子邮件文件夹中删除的项�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Exchange Online 服务说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online[说明](exchange-online-service-description.md)。

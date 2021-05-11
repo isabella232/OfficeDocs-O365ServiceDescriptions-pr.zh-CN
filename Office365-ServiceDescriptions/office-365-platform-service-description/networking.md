@@ -25,7 +25,7 @@ Microsoft 支持以下网络功能。
   
 ## <a name="ports-protocols-and-ip-addresses"></a>端口、协议和 IP 地址
 
-Microsoft 使用 IPv4 和 IPv6 地址。 可选择使用 IPv6 寻址，并且不需要与 Office 365 之间进行连接。 并非所有 Microsoft 365 功能都使用 IPv6 完全启用。 有关 Ipv6 支持的信息，请参阅 [Microsoft 服务中的 IPv6 支持](/office365/enterprise/ipv6-support)。
+Microsoft 使用 IPv4 和 IPv6 地址。 可选择使用 IPv6 寻址，并且不需要与 Office 365 之间进行连接。 并非所有Microsoft 365都使用 IPv6 完全启用。 有关 Ipv6 支持的信息，请参阅[IPv6 support in Microsoft 服务](/office365/enterprise/ipv6-support)。
   
 Microsoft 在 Microsoft 帮助中维护允许的 IP 地址列表。 有关详细信息，请参阅 [URL 和 IP 地址范围](/office365/enterprise/urls-and-ip-address-ranges)。 有关由世纪互联运营的 Office 365 的信息，请参阅[由世纪互联运营的 Office 365 的 URL 和 IP 地址](/office365/enterprise/managing-office-365-endpoints)。 有关 Office 365 Germany，请参阅 [Office 365 Germany 终结点](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)。
   

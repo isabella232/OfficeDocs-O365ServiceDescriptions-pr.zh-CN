@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word for the web (formerly Word Web App) 将 Microsoft Word 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储文档的网站上处理文档。
+description: Word for the web (formerly Word Web App) extends your Microsoft Word experience to the web browser， where you can work with documents directly on the website where the document is stored.
 ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652326"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 
-Word for the web (formerly Word Web App) 将 Microsoft Word 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储文档的网站上处理文档。 
+Word for the web (formerly Word Web App) extends your Microsoft Word experience to the web browser， where you can work with documents directly on the website where the document is stored. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Alignment guides and live layout
 
@@ -35,7 +35,7 @@ Word for the web (formerly Word Web App) 将 Microsoft Word 体验扩展到 Web 
   
 ## <a name="office-add-ins"></a>Office 外接程序
 
-可以从 Office 应用商店获取 Word 外接程序。 Office 外接程序仅适用于 Word 桌面应用程序，在 Word 网页版中不可用。 了解如何[获取 Word 外接程序](https://go.microsoft.com/fwlink/?LinkId=391443)。
+可以从 Office 应用商店获取 Word 外接程序。 Office加载项仅适用于 Word 桌面应用，在 Word 网页版中不可用。 了解如何[获取 Word 外接程序](https://go.microsoft.com/fwlink/?LinkId=391443)。
   
 ## <a name="autosave"></a>自动保存
 
@@ -63,7 +63,7 @@ Word for the web automatically saves your document when you make changes.
   
 ## <a name="clipboard"></a>剪贴板
 
-由于 Web 浏览器技术的限制，Office 网页版中的复制和粘贴文本与在 Office 桌面应用程序中复制和粘贴文本不同。 详细了解在 [Office 网页版 中复制和粘贴](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
+由于 Web 浏览器技术的限制，在 Office 网页版中复制和粘贴文本与在桌面应用程序中复制和粘贴文本Office不同。 详细了解如何[复制并粘贴Office网页版](https://go.microsoft.com/fwlink/p/?LinkId=282321)。
   
 ## <a name="collaboration-advanced"></a>协作、高级
 
@@ -111,7 +111,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 
-在 OneDrive 或 SharePoint 中打开文档时，Word 网页应用会在浏览器中打开文档。 布局和格式与您在 Word 桌面应用程序中的“打印布局”视图下打开文档时看到的一样。
+当您在浏览器或 OneDrive SharePoint 中打开文档时，Word 网页将在浏览器中打开该文档。 布局和格式与您在 Word 桌面应用程序中的“打印布局”视图下打开文档时看到的一样。
   
 ## <a name="graphic-effect-presets"></a>图形效果预设
 
@@ -131,7 +131,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="insert-online-pictures"></a>Insert online pictures
 
-使用 Word 网页，可以插入保存在本地硬盘上的文件或必应图像中的图片。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
+使用 Word 网页，可以插入保存在本地硬盘驱动器上的文件或图像必应图片。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="irm-and-password-protection"></a>IRM 和密码保护
 
@@ -151,7 +151,7 @@ Word for the web displays documents that are protected with Information Rights M
   
 ## <a name="offline-viewing-and-authoring"></a>脱机查看和创作
 
-在 Word 网页中不可用。 Office 网页应用需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Word 桌面应用程序，以在断开与 Internet 或组织本地 Office Web Apps Server 的连接时查看和编辑文档。 如果已安装 Word 桌面应用程序，可以使用 Word 的完整功能查看和编辑文档。 保存后，联机文档会进行更新，以反映你的更改。 还可以下载文档并另存为脱机副本，但此副本不会与联机版本同步。 详细了解 [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
+在 Word 网页中不可用。 Office需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Word 桌面应用程序，以在断开与 Internet 或组织的本地 Web Apps Server 的连接时查看和编辑Office文档。 如果已安装 Word 桌面应用程序，可以使用 Word 的完整功能查看和编辑文档。 保存后，联机文档会进行更新，以反映你的更改。 还可以下载文档并另存为脱机副本，但此副本不会与联机版本同步。 详细了解 [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
   
 ## <a name="page-breaks"></a>Page breaks
 
@@ -205,7 +205,7 @@ Word for the Web automatically checks spelling as you type and applies a wavy re
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
-多个用户可以同时对文档进行操作。 在 Word 网页版和 Word 2016 中，实时状态可帮助您查看合著者在文档中的编辑位置，这样您编辑时就不会创建冲突，并且您可以在进行更改时看到这些更改。 Word 2013 支持同时编辑，但没有状态指示，并且在文档保存之前多个作者无法看到更改。 若要详细了解实时共同创作，请参阅 [Word 网页](https://go.microsoft.com/fwlink/?LinkId=389520) 中的新增功能以及使用实时共同创作协作处理 [Word 文档](https://go.microsoft.com/fwlink/?linkid=798760)。
+多个用户可以同时对文档进行操作。 在 Word 网页和 Word 2016 中，实时状态可帮助你查看共同创作者在文档中的编辑位置，这样你在编辑时就不会创建冲突，并且可以在进行更改时看到它们。 Word 2013 支持同时编辑，但没有状态指示，并且在文档保存之前多个作者无法看到更改。 若要详细了解实时共同创作，请参阅 [Word 网页](https://go.microsoft.com/fwlink/?LinkId=389520) 中的新增功能以及使用实时共同创作协作处理 [Word 文档](https://go.microsoft.com/fwlink/?linkid=798760)。
   
 ## <a name="reference-tools"></a>引用工具
 
@@ -293,7 +293,7 @@ Word for the web 为你提供文档中的单词的粗略计数。 详细了解 [
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Office 网页版服务说明](office-online-service-description.md)。 
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 Office[了解 Web 服务说明](office-online-service-description.md)。 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>操作参数限制和规范
 

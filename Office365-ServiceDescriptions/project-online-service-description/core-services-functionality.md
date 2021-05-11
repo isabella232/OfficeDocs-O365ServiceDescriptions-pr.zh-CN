@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: 以下核心服务功能在 Project Online 中可用。
+description: 以下核心服务功能在 Project Online。
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652286"
 ---
 # <a name="core-services-functionality"></a>核心服务功能
 
-以下核心服务功能在 Project Online 中可用。
+以下核心服务功能在 Project Online。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 Project Online[服务说明](project-online-service-description.md)。
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 
@@ -33,15 +33,15 @@ Project Online 和 Project Server 2013 为管理员提供了计划、安装、�
   
 ## <a name="getting-started"></a>入门
 
-Project Online 提供了入门内容。 请参阅 [Project Online 入门](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)。
+入门内容可供Project Online。 请参阅 [Project Online 入门](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11)。
   
 ## <a name="issues-and-risk-management-for-team-members"></a>问题和风险管理（适用于团队成员）
 
 Project Online 和 Project Server 2013 包括防止、发现和减少与业务或项目相关的潜在风险与问题的功能。若要了解详细信息，请参阅[管理 Project Web App 中的问题、风险和文档](/previous-versions/office/project-server-2010/hh767484(v=office.14))。
   
-## <a name="office-365-trust-center"></a>Office 365 信任中心
+## <a name="office-365-trust-center"></a>Office 365 Trust Center
 
-你的数据由你自行处理。 我们负责保护你的数据和隐私安全。 请参阅 [Office 365 信任中心](https://go.microsoft.com/fwlink/?LinkId=402637)。
+你的数据由你自行处理。我们负责保护你的数据和隐私安全。请参阅 [Office 365 信任中心](https://go.microsoft.com/fwlink/?LinkId=402637)。
   
 ## <a name="ppm-partner-ecosystem"></a>PPM 合作伙伴生态系统
 
@@ -53,11 +53,11 @@ Microsoft PPM 解决方案已得到数百个 Microsoft 合作伙伴的支持，�
   
 ## <a name="service-updates"></a>服务更新
 
-我们定期使用新的特性和功能更新 Microsoft 服务。 请参阅 [服务更新](../office-365-platform-service-description/service-updates.md)。
+我们会定期更新Microsoft 服务新的特性和功能。 请参阅 [服务更新](../office-365-platform-service-description/service-updates.md)。
   
 ## <a name="team-member-collaboration"></a>团队成员协作
 
-团队协作支持并推动整个项目取得成功和效果。 若要了解 Project Server 2013 如何允许组织就项目进行协作，请参阅 [视频：与团队协作](https://go.microsoft.com/fwlink/?LinkId=402628)。
+团队协作支持并推动整个项目取得成功和效果。 若要了解 Project Server 2013 如何允许组织就项目进行协作，请参阅[视频：与团队协作](https://go.microsoft.com/fwlink/?LinkId=402628)。
   
 ## <a name="time-and-task-management-for-team-members"></a>时间和风险管理（适用于团队成员）
 

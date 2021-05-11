@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
-description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。 有关更多信息，请参阅 Microsoft 信任中心。
+description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 Microsoft 信任中心。
 ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -32,7 +32,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 有关企业版、商业版、政府版和教育版管理员在配置 Office 365 隐私设置时可采取的特定步骤，请参阅 [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202)（适用于管理员的高级隐私选项）。
   
-有关其他 Microsoft 服务（包括 Microsoft 365 企业应用版）的安全性和隐私信息，请参阅信任中心适用于 [哪些联机服务？](https://www.microsoft.com/trustcenter/default.aspx)
+有关其他服务（包括Microsoft 服务）的安全和隐私Microsoft 365 企业应用版，请参阅信任中心适用于[哪些联机服务？](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>安全性
 
@@ -44,7 +44,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 ## <a name="advanced-ediscovery"></a>高级电子数据展示
 
-电子发现（亦称为"电子数据展示"）是用于识别和传递可用作法律案件证据的电子信息的过程。 高级电子数据展示基于 Office 365 中的一组现有电子数据展示功能构建，允许您分析大型的非结构化数据集并减少与法律案件相关的数据量。 您可以使用 Office 365 合规性中心的搜索功能执行对组织中所有内容源的初始搜索，以标识并收集可能与特定的法律案件相关的数据。 然后可以通过应用高级电子数据展示的文本分析、机器学习和相关性/预测编码功能来分析这些数据。 有关详细信息，请参阅 [高级电子数据展示](/microsoft-365/compliance/overview-ediscovery-20)。
+电子发现（亦称为"电子数据展示"）是用于识别和传递可用作法律案件证据的电子信息的过程。 Advanced eDiscovery基于 Office 365 中现有的一组电子数据展示功能构建，从而可以分析大型的非结构化数据集并减少与法律案件相关的数据量。 您可以使用 Office 365 合规性中心的搜索功能执行对组织中所有内容源的初始搜索，以标识并收集可能与特定的法律案件相关的数据。 然后可以通过应用高级电子数据展示的文本分析、机器学习和相关性/预测编码功能来分析这些数据。 有关详细信息，[请参阅Advanced eDiscovery。](/microsoft-365/compliance/overview-ediscovery-20)
   
 ## <a name="customer-lockbox"></a>客户密码箱
 
@@ -54,7 +54,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Defender for Office 365 可帮助保护你的组织免受恶意软件和病毒的攻击。 适用于 Office 365 的 Defender 包括 [安全链接](/office365/securitycompliance/atp-safe-links)、 [安全附件](/office365/securitycompliance/atp-safe-attachments)、 [防](/office365/securitycompliance/atp-anti-phishing)钓鱼和 [欺骗智能](/office365/securitycompliance/learn-about-spoof-intelligence) 功能。 安全链接可主动保护用户免受邮件中恶意超链接的攻击，每次选择链接时都会提供保护。 安全附件可抵御未知恶意软件和病毒，将没有已知病毒/恶意软件签名的所有邮件和附件路由到 Defender for Office 365 可检测恶意意图的特殊环境。 有关 Defender for Office 365 的信息，请参阅 [Microsoft Defender for Office 365 服务说明](../office-365-advanced-threat-protection-service-description.md)。
+Defender for Office 365 可帮助你的组织抵御恶意软件和病毒。 Defender for Office 365包括[保险箱、保险箱](/office365/securitycompliance/atp-safe-links)[附件](/office365/securitycompliance/atp-safe-attachments)、[防](/office365/securitycompliance/atp-anti-phishing)钓鱼和欺骗[智能功能](/office365/securitycompliance/learn-about-spoof-intelligence)。 保险箱链接可主动保护用户免受邮件中恶意超链接的攻击，每次选择链接时都会提供保护。 保险箱附件可抵御未知恶意软件和病毒，将所有没有已知病毒/恶意软件签名的邮件和附件路由到 Defender for Office 365可检测恶意意图的特殊环境。 有关 Defender for Office 365，请参阅 Microsoft [Defender for Office 365 服务说明](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

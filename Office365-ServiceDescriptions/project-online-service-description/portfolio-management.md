@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: 以下项目组合管理功能在 Project Online 中可用。
+description: 以下项目组合管理功能在 Project Online。
 ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652276"
 ---
 # <a name="portfolio-management"></a>项目组合管理
 
-以下项目组合管理功能在 Project Online 中可用。
+以下项目组合管理功能在 Project Online。
   
-寻找有关所有 Project Online 功能的信息？ 请参阅 [Project Online 服务说明](project-online-service-description.md)。
+寻找有关所有 Project Online 功能的信息？ 请参阅 Project Online[服务说明](project-online-service-description.md)。
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>对项目进行分析和优化产品组合
 
@@ -29,11 +29,11 @@ ms.locfileid: "51652276"
   
 ## <a name="create-and-edit-projects"></a>创建和编辑项目
 
-创建项目的方式有多种。 有关详细信息，请参阅[在 Project Web App 中创建项目](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)。
+创建项目的方式有多种。有关详细信息，请参阅[在 Project Web App 中创建项目](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409)。
   
 ## <a name="enterprise-resource-management"></a>企业资源管理
 
-资源是完成项目所需的人员、材料或成本。 利用 Microsoft PPM 解决方案，资源经理可以管理资源库、规划资源容量，以及批准、拒绝和修改传入的资源参与请求。若要了解更多信息，请参阅[将资源添加到Project Web App。](https://go.microsoft.com/fwlink/p/?LinkId=271320)
+资源是完成项目所需的人员、材料或成本。 Microsoft PPM 解决方案使资源经理可以管理资源库、规划资源容量，以及批准、拒绝和修改传入的资源参与请求。若要了解更多信息，请参阅[将资源添加到Project Web App。](https://go.microsoft.com/fwlink/p/?LinkId=271320)
   
 ## <a name="financial-management"></a>财务管理
 

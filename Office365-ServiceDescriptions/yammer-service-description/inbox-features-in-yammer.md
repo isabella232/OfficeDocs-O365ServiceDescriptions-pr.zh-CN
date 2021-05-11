@@ -33,6 +33,6 @@ ms.locfileid: "51653524"
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅 [Yammer 服务说明](yammer-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Yammer[说明](yammer-service-description.md)。
   
 

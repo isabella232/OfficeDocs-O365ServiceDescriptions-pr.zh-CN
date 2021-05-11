@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: 查看不同 Yammer 计划中提供的功能。
+description: 查看不同计划中可用的Yammer。
 ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,13 +23,13 @@ ms.locfileid: "51653504"
 
 Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
   
-有关包含 Yammer 的计划列表，请参阅 [Microsoft 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)。
+有关包含这些服务的计划Yammer，请参阅[Microsoft 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)。
   
-有关允许用户使用 Yammer 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+有关允许用户进行订阅订阅的详细Yammer，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="system-requirements"></a>系统要求
 
-有关 Office 365（适用于企业、教育以及政府组织的基于每月订阅的服务）的系统要求，请参阅 Microsoft [365 和 Office 资源](https://products.office.com/office-system-requirements/#Office365forBEG)。
+有关企业Office 365订阅服务（适用于企业、教育以及政府组织的基于每月订阅的服务）的系统要求，请参阅 Microsoft 365 和[Office Resources。](https://products.office.com/office-system-requirements/#Office365forBEG)
   
 ## <a name="yammer-plans"></a>Yammer 计划
 
@@ -38,15 +38,15 @@ Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可�
 | 计划 | 说明 |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |企业社交网络 - 随时随地。  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |具有高级安全性、管理和集成的企业社交网络。  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise高级安全性、管理和集成来建立社交网络。  <br/> |
    
 > [!NOTE]
-> [Microsoft 365 和 Office 365](../office-365-platform-service-description/office-365-platform-service-description.md)平台服务说明中描述的功能和策略不适用于 Yammer 服务。 
+> Microsoft 365 和 Office 365[平台](../office-365-platform-service-description/office-365-platform-service-description.md)服务说明中所述的功能和策略不适用于 Yammer 服务。 
   
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer 企业服务通信策略
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer企业服务通信策略
 <a name="YammerCommsPolicy"> </a>
 
-Yammer 遵守 [Microsoft 365 变更](https://aka.ms/ManageChange)管理策略，但不使用定向发布来推出更新。 
+Yammer遵循更改Microsoft 365策略，但不使用[](https://aka.ms/ManageChange)定向发布来推出更新。 
   
 所有 Yammer 用户都要进行 A/B 功能测试。 这使 Microsoft 可以测试功能，以改进许多环境和设备的稳定性、性能和体验。 同一网络中的用户可能会有不同的测试体验。 客户不能选择停用 A/B 测试。
   
@@ -56,13 +56,13 @@ Yammer 遵守 [Microsoft 365 变更](https://aka.ms/ManageChange)管理策略，
   
 | 更改类型 | 信道 |
 |:-----|:-----|
-|**需要操作的更改 (更改计划)** <br/>管理员需要进行更改以保持服务运行，这些更新可能会影响组织的合规性  <br/> |- 直接发送到 Yammer 验证管理员的 Office 365 消息中心电子邮件 <br/>- Microsoft 365 路线图<br/>- Yammer 服务更新<br/>- 外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
-|**需要感知的更改 (及时了解)**<br/>不需要管理员操作的更改、可视化设计更改  <br/> |- Office 365 消息中心<br/>- Microsoft 365 路线图<br/>- Yammer 服务更新<br/>- 外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
+|**需要操作的更改 (更改计划)** <br/>管理员需要进行更改以保持服务运行，这些更新可能会影响组织的合规性  <br/> |- Office 365直接发送到已验证Yammer的邮件中心电子邮件 <br/>- Microsoft 365路线图<br/>- Yammer服务更新<br/>- 外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
+|**需要感知的更改 (及时了解)**<br/>不需要管理员操作的更改、可视化设计更改  <br/> |- Office 365消息中心<br/>- Microsoft 365路线图<br/>- Yammer服务更新<br/>- 外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
 |**非关键** <br/>非关键更改，不需要操作或感知更改，即使某些用户可能会观察到这些更改，  <br/> |不会进行广泛通信。 |
    
 ## <a name="feature-availability-across-yammer-plans"></a>跨 Yammer 计划的功能可用性
 
-需要帮忙找出最适合您组织需求的 Yammer 计划吗？ 使用下表可查看每个计划中的可用功能。 选择功能名称可阅读有关该功能在 Yammer 中的工作方式的简短摘要。<br><br>
+需要帮忙找出最适合您组织需求的 Yammer 计划吗？ 使用下表可查看每个计划中的可用功能。 选择一个功能名称以阅读有关该功能在 Yammer 中的工作方式的简短Yammer。<br><br>
   
 | 功能 | Yammer Basic | Yammer Enterprise |
 |:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Yammer 遵守 [Microsoft 365 变更](https://aka.ms/ManageChange)管理策略，
 |[即时提前键入](discovery-features-in-yammer.md#instant-type-ahead) <br/> |是  <br/> |是  <br/> |
 |[外部网络](external-network-features-in-yammer.md#external-networks) <br/> |是  <br/> |是  <br/> |
 |[快速网络切换](external-network-features-in-yammer.md#fast-network-switching) <br/> |是  <br/> |是  <br/> |
-|[Yammer 连接登录](yammer-platform-features.md#yammer-connect-login) <br/> |是  <br/> |是  <br/> |
+|[Yammer连接登录](yammer-platform-features.md#yammer-connect-login) <br/> |是  <br/> |是  <br/> |
 |[可嵌入源](yammer-platform-features.md#embeddable-feeds) <br/> |是  <br/> |是  <br/> |
 |["喜欢"和"关注"按钮](yammer-platform-features.md#like-and-follow-buttons) <br/> |是  <br/> |是  <br/> |
 |[浏览器扩展](yammer-platform-features.md#browser-extension) <br/> |是  <br/> |是  <br/> |
