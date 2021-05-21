@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助你的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害的链接危害的功能。
-ms.openlocfilehash: 4db8ecf7d4906144d133e3ce83c7f8197194efdc
-ms.sourcegitcommit: e153b2c502bcee66640a8b1988ced8fd2a345deb
+ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52304410"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545969"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
@@ -189,7 +189,7 @@ Defender for Office 365 可用于任何 SMTP 邮件传输代理，如 Microsoft 
 
 [攻击模拟培训](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) 是一种智能社交风险管理工具，可自动创建和管理网络钓鱼模拟。 模拟通过使用真实的网络钓鱼欺诈和超目标培训来更改员工行为，帮助客户检测、确定钓鱼风险优先级并修正这些风险。
 
-- 攻击模拟培训现已在 WW 和 GCC。
+- 攻击模拟培训现已在 WW 中提供，GCC (将于 GCC年 6 月 21 日) 。
 - 若要详细了解如何开始使用，请参阅使用 [攻击模拟培训入门](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
 - 应用去武器化的实际网络钓鱼有效负载的各种攻击技术可用于复制实际攻击者行为，使网络钓鱼模拟相关。
 - 此服务适用于拥有 Microsoft 365 E5 E5 Office 365[或 Microsoft Defender for Office 365 计划 2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)许可证的组织。 一部分功能作为试用版提供给 E3 客户。

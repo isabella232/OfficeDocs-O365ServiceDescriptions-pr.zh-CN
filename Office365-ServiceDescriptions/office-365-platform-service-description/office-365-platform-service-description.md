@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365各种Office 365计划都提供了一些解决方案，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括Exchange Online计划，本文将介绍每个计划中包含的功能。
-ms.openlocfilehash: 3129edbf47ab148d08b466c047096be5cdac88b4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d415f2b6cb6d5ff5751e6d17ec7a5fa8ce91151e
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653194"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545989"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -27,7 +27,7 @@ Microsoft 365各种Office 365计划都提供了一些解决方案，以最好地
   
 Microsoft 365和Office 365为各种规模的企业提供云生产力的能力，从而节省时间、获得资金并释放有价值的资源。 Microsoft 365 和 Office 365 计划将熟悉的 Microsoft Office 桌面套件与 Microsoft 的下一代通信和协作服务（包括 Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版和 Microsoft Skype for Business Online）的基于云的版本相结合，帮助用户从几乎任何位置通过 Internet 提高工作效率。
   
-有关使用户能够使用 Microsoft 365 和 Office 365 平台的订阅的详细计划信息，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关功能的详细列表，请参阅服务说明 和 Microsoft 365[下Office 365服务说明](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)。
+有关使用户能够使用 Microsoft 365 和 Office 365 平台的订阅的详细计划信息，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关功能的详细列表，请参阅服务说明 和 Microsoft 365[下Office 365服务说明](/office365/servicedescriptions/office-365-service-descriptions-technet-library)。
   
 - 若要了解 Office 365 教育版计划，请从 [Office 365 教育版](office-365-education.md)页入手。 
     
@@ -105,7 +105,6 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft PowerApps  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> | 
 |Microsoft Project Web <sup>21</sup> <br/> |是 <br/> |否 <br/>|是 <br/> |是 <br/> |是 <br/> |是 <br/> | 是 <br/> |
-|Microsoft SharePoint Syntex  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft Stream  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |

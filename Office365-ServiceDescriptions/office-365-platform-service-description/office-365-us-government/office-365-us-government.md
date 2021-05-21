@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了一个Office 365 US 政府计划 (Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
-ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
+ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51857822"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545931"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -153,7 +153,7 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |Power BI Pro|否<sup>2</sup>|否<sup>2</sup>|是|否<sup>2</sup>|
 |Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
 |Visio 网页版|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|
-|Yammer Enterprise|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
+|Yammer 企业版|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
 
 > <sup>1</sup> Skype for Business基本版本可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版、G3 和 G5 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。
 <br/><sup>2</sup> 不包含在内，但可以单独购买加载项。 Project Online包括Project Online桌面客户端作为订阅的一部分。
@@ -401,6 +401,8 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府云中完全可用，但以下功能目前不可用： |**GCC**|**GCC 高**|**DOD**|
 |研究工具|否|否|否|
 |智能数字墨迹|否|否|否|
+|向用户发送电子邮件OneNote (me@onenote.com) |否|否|否|
+|Web Clipper|否|否|否|
 |[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府云中完全可用，以下功能除外，这些功能并非在所有政府云中可用，如下表所示。|**GCC**|**GCC 高**|**DOD**|
 |Office () |否|否|否|
 |动态数据Exchange (DDE) 默认情况下处于禁用状态|否|否|否|

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
-ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
+ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52266362"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545919"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -115,13 +115,11 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |**可用性** ||||||
 |共同创作 | 与利益干系人及团队成员协作，以同时构建、编辑和更新任务列表、项目计划等。| 仅查看 | 是 | 是 | 是 |
 |图形指示器 | 使用图形指示器了解任务状态、工作分配等。| 仅查看 | 是 | 是 | 是 |
-|**行动能力** ||||||
-|移动应用程序 | 使用 PowerApps 生成自定义移动应用程序。<sup>4</sup> |否 | 否 | 是 | 是 |
 |**自定义和集成**||||||
 |使用开箱Project应用程序 | 使用开箱即用的应用程序Project查看项目、创建新项目、向项目添加新数据或更新现有项目数据。 | 仅查看 | 是 | 是 | 是 |
 |自定义视图和表单 <sup>4</sup> | 仅在开箱即用应用程序内自定义视图和Project表单。 | 仅查看 | 是 | 是 | 是 |
-|使用自定义列 | 查看、添加、更新或删除添加到表中的列中的数据。 | 仅查看 | 仅查看 | 是 | 是 |
-|使用自定义表 <sup>5</sup> | 创建并定义自定义表，以保存项目、项目组合等所需的其他数据。 | 否 | 仅查看 | 是 | 是 |
+|使用自定义列 | 查看、添加、更新或删除添加到表中的列中的数据。 | 仅查看 | 是 | 是 | 是 |
+|使用自定义表 <sup>5</sup> | 创建并定义自定义表，以保存项目、项目组合等所需的其他数据。 | 仅查看 | 是 | 是 | 是 |
 |**Power Automate工作流和业务流程流** <sup>7</sup> ||||||
 | | 定义并使用利用Power Automate数据（包括Project和列）的云流。 | 否 | 是 | 是 | 是 |
 | | 定义Power Automate数据（包括自定义表Project列）的业务流程流。 | 否 | 否 | 是 | 是 |
@@ -129,11 +127,11 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |**安全性和用户管理**||||||
 |Office新式组 | 建立项目工作组，以与团队成员协作并轻松设置供团队成员共享的资源集合。 | 是 | 是 | 是 | 是 |
 |**第三方应用**||||||
-|*连接Project第三* 方应用访问 Web <sup>4</sup> | 使用自定义或第三方应用程序查看、创建、更新或删除Project本机或自定义数据表中的Project数据。<br> 在基于 Web 数据Project第三方应用程序中创建报告。 | 否 | 否 | 是 | 是 |
+|*连接Project第三* 方应用访问 Web <sup>4</sup> | 使用自定义或第三方应用程序查看、创建、更新或删除Project本机数据表中的Project数据。 | 否 | 是 | 是 | 是 |
 
 ### <a name="project-online-features"></a>Project Online 功能
 
-本节中列出的功能仅与数据存储区Project Online SharePoint交互。 具有计划 1 Project Online 协作版订阅Project团队成员可以执行一些Project Online功能。 有关详细信息，请参阅服务[Microsoft Project - 服务说明|Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)。<br><br>
+本节中列出的功能仅与数据存储区Project Online SharePoint交互。 具有计划 1 Project Online 协作版订阅Project团队成员可以执行一些Project Online功能。 有关详细信息，请参阅服务[Microsoft Project - 服务说明|Microsoft Docs](/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online)。<br><br>
 
 |功能 | 说明 | Project计划 3 | Project计划 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -195,7 +193,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |用户管理 | 在项目、团队和组织级别管理用户和组角色及权限。 | 否 | 是 |
 |服务管理 | 规划、安装和配置、维护和扩展 Microsoft Project 环境，作为 Office 365<sup>1 环境的</sup>一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>注释
+#### <a name="notes"></a>备注
 
 <sup>1</sup>需要Office或Microsoft 365订阅。</br>
 <sup>2</sup> Azure Boards单独获取。</br>
@@ -247,14 +245,14 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |Out-of-box reporting | 使用预建报表了解项目、计划、项目组合和资源数据。 |
 |PDF and XPS output | 将Project文件另存为 PDF 或 XPS 文件。 |
 |**可用性**||
-|Auto-complete | 在键入时获取任务或资源名称和依赖项的建议。 |
+|自动完成 | 在键入时获取任务或资源名称和依赖项的建议。 |
 |筛选的视图 | 按计划中的任意值筛选项目计划 |
 |图形指示器 | 使用图形指示器了解任务状态、工作分配等。 |
 |多级撤消 | 使用"撤消"菜单同时撤消 **多个** 更改。 |
 |排序和分组 | 使用自定义排序和分组获取项目、任务和资源的重点视图。|
 |**自定义和集成**||
 |自定义域 | 在项目、任务和资源级别添加自定义域，以跟踪对您的组织和项目非常重要的数据。 |
-|表单 | 创建和部署自定义表单以捕获重要的项目数据。 |
+|Forms | 创建和部署自定义表单以捕获重要的项目数据。 |
 |公式 | 使用跨任务和项目的公式计算和捕获重要数据。 |
 |模板 | 为常见项目（包括项目计划、工作组和工作分配）创建模板。 |
 |.mpp 导入/导出 | 从现有 .mpp 文件创建新项目或创建现有项目的 .mpp 文件。 |

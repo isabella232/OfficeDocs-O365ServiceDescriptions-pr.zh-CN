@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供了针对合规性Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900762"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52546009"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365合规性许可 &amp; 指南
 
@@ -224,7 +224,7 @@ Microsoft Defender for Endpoint 管理员可以使用基于角色的访问控制
 
 活动资源管理器为管理员提供了一个窗格，以便查看与最终用户使用的敏感信息相关的活动。 这些数据包括标签活动、数据丢失防护 (DLP) 日志、自动标记、终结点 DLP 等。
 
-内容资源管理器使管理员能够对存储在受支持 Microsoft 365 中的敏感文档编制索引，并确定他们存储的敏感信息。 此外，内容资源管理器可帮助识别使用敏感度和保留标签分类的文档。
+利用内容资源管理器，管理员可以对存储在受支持Microsoft 365中的敏感文档编制索引，并确定要存储的敏感信息。 此外，内容资源管理器可帮助识别使用敏感度和保留标签分类的文档。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -413,9 +413,9 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5/
 
 电子数据展示管理员可以使用 Advanced eDiscovery 中的内置保管人管理工具选择特定用户作为案例的数据保管人，如将保管人添加到Advanced eDiscovery[案例中所述](/microsoft-365/compliance/add-custodians-to-case)。
 
-## <a name="office-365-customer-key"></a>Office 365客户密钥
+## <a name="customer-key-for-microsoft-365"></a>客户密钥Microsoft 365
 
-使用客户密钥，你可以控制组织的加密密钥，Office 365以使用它们加密 Microsoft 数据中心中的静态数据。 换句话说，客户密钥允许你使用自己的密钥添加属于你的加密层。 其余数据包括存储在 Exchange Online 和 Skype for Business Online 和 OneDrive for Business 中的邮箱和SharePoint文件OneDrive for Business。
+使用客户密钥，你可以控制组织的加密密钥，Microsoft 365以使用它们加密 Microsoft 数据中心中的静态数据。 换句话说，客户密钥允许你使用自己的密钥添加属于你的加密层。 其余数据包括存储在 Exchange Online 和 Skype for Business Online 和 OneDrive for Business 中的邮箱和SharePoint文件OneDrive for Business。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -427,11 +427,11 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5/
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
-Office 365可以针对存储在 Exchange Online 和 Skype for Business 邮箱以及 SharePoint Online、OneDrive for Business 和 Teams 文件的所有数据启用客户密钥加密密钥。 有关客户密钥Office 365，包括如何开始使用，请参阅使用客户密钥[的服务加密](/microsoft-365/compliance/customer-key-overview)。
+可以针对 Exchange Online 和 Skype for Business 邮箱中存储的所有数据以及 SharePoint Online、OneDrive for Business 和 Teams 文件启用 Microsoft 365 加密密钥的客户密钥。 有关客户密钥（包括入门方法）的信息，请参阅使用客户密钥 [进行服务加密](/microsoft-365/compliance/customer-key-overview)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-对于Exchange Online和Skype for Business，可以使用客户密钥对邮箱进行加密。 必须先设置 Azure，然后才能使用客户密钥进行Office 365。 请参阅[设置客户密钥](/microsoft-365/compliance/customer-key-set-up)，了解创建和配置所需的 Azure 资源所需步骤，以及设置客户密钥所需的Office 365。 完成 Azure 设置后，确定要分配给组织中邮箱和文件的策略以及要分配的密钥。 未为其分配策略的邮箱和文件将使用由 Microsoft 控制和管理的加密策略。 有关客户密钥或一般概述，请参阅使用客户密钥 [的服务加密](/microsoft-365/compliance/customer-key-overview)。
+对于Exchange Online和Skype for Business，可以使用客户密钥对邮箱进行加密。 必须先设置 Azure，然后才能使用客户密钥进行Microsoft 365。 请参阅[设置客户密钥](/microsoft-365/compliance/customer-key-set-up)，了解创建和配置所需的 Azure 资源和在 Microsoft 365 中设置客户密钥所需执行的步骤。 完成 Azure 设置后，确定要分配给组织中邮箱和文件的策略以及要分配的密钥。 有关客户密钥以及有关 Exchange Online、Skype for Business、SharePoint Online、OneDrive for Business 和 Teams 数据的内容，请参阅使用客户密钥[的服务加密](/microsoft-365/compliance/customer-key-overview)。
 
 ## <a name="office-365-customer-lockbox"></a>Office 365 客户密码箱
 
@@ -439,7 +439,7 @@ Office 365可以针对存储在 Exchange Online 和 Skype for Business 邮箱以
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-客户密码箱可确保未经客户明确批准，Microsoft 中的任何人无法访问客户内容以执行服务操作。 客户密码箱将客户引入对访问其内容的请求的审批工作流。 有时，Microsoft 工程师会在支持过程中参与排查和修复客户报告的问题。 在大多数情况下，可以通过 Microsoft 已针对其服务提供的广泛遥测和调试工具来修复问题。 但是，在某些情况下，可能要求 Microsoft 工程师访问客户内容以确定根本原因并解决该问题。 客户密码箱要求工程师在审批工作流的最后一步向客户申请访问权限。 这使组织可以选择批准或拒绝这些请求，从而直接控制 Microsoft 工程师能否访问组织的最终用户数据。
+客户密码箱可确保未经客户明确批准，Microsoft 中的任何人无法访问客户内容以执行服务操作。 客户密码箱将客户引入对访问其内容的请求的审批工作流。 有时，Microsoft 工程师会在支持过程中参与排查和修复客户报告的问题。 在大多数情况下，可以通过 Microsoft 已针对其服务提供的广泛遥测和调试工具来修复问题。 但是，在某些情况下，可能要求 Microsoft 工程师访问客户内容以确定根本原因并解决该问题。 作为审批工作流程的最后一步，客户密码箱要求工程师向客户请求访问权限。 这使组织可以选择批准或拒绝这些请求，从而直接控制 Microsoft 工程师能否访问组织的最终用户数据。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
