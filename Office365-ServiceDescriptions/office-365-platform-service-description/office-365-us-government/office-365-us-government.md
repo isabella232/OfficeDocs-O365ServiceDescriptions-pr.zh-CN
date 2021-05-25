@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了一个Office 365 US 政府计划 (Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545931"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625639"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -413,7 +413,9 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |3D 模型和 3D 嵌入动画|否|否|否|
 |图表：地图|否|否|否|
 |智能数字墨迹|否|否|否|
-|实时字幕和字幕PowerPoint|否|否|否|
+|实时字幕和字幕PowerPoint|是|是|否|
+|实时演示文稿|否|否|否|
+|沉浸式阅读器|否|否|否|
 |演示者指导|否|否|否|
 |已与我共享|否|否|否|
 |Skype for Business共享集成|否|否|否|
