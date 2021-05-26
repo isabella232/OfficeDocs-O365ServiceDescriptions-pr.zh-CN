@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264790"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625619"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -50,7 +50,6 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 - Microsoft 365 商业应用版
 - Microsoft 365 商业标准版
 - Microsoft 365 企业应用版
-- Office 365 A1
 - Office 365 企业版 E1
 - Office 365 政府版 G1
 - 适用于非营利组织的 Microsoft 365 Business Basic 版
@@ -66,6 +65,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 
 - Office 365 企业版 E3
 - Office 365 企业版 E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 美国政府版 G3
@@ -86,11 +86,11 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 > [!NOTE]
 > 必须先向用户分配至少一个许可证，才能增加默认 OneDrive 存储空间。 
   
-如果需要为用户提供超过初始 5 TB 的云存储空间，管理员可以[通过 Microsoft 技术支持打开事例](/microsoft-365/admin/contact-support-for-business-products)以申请额外的存储空间。 额外云存储空间的授予方式如下： 
+当你需要单个用户云存储超过 5 TB 初始大小时，管理员可以 [通过 Microsoft 技术支持人员开启案例](/microsoft-365/admin/contact-support-for-business-products) 以提出请求。额外的云存储将按以下方式授予： 
   
 - 如果用户已使用 5TB 存储空间的至少 90% 容量，Microsoft 最多会将 OneDrive 中的默认存储空间增加到每用户 25 TB（如有需要，管理员可以设置更低的每用户存储空间限制）。 
     
-- 对于已使用 25 TB OneDrive 存储空间的至少 90% 的任何用户，将向各个用户分配 25TB SharePoint 团队网站作为额外的云存储空间。 联系 Microsoft 技术支持人员以获取信息和帮助。
+- 任何达到其 25 TB OneDrive 存储至少 90% 以上的容量的用户，都将获得向单个用户提供的 25 TB 额外 SharePoint 团队网站。请联系 Microsoft 技术支持人员，获取信息和帮助。
     
 要查看单个用户的存储空间和使用情况，请转至 OneDrive 同步应用中的[管理存储空间](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68)。 若要查看组织中的用户使用的存储空间，请转至 Microsoft 365 管理中心的 [OneDrive 使用情况报表](/office365/admin/activity-reports/onedrive-for-business-usage)。 
    
@@ -135,13 +135,13 @@ OneDrive 存储空间是以每用户为单位进行预配，旨在满足各个�
 
 - [访问请求](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
 - [“任何人”链接](/Office365/Enterprise/best-practices-anonymous-sharing)（可设置为需要过期） 
-- [批注中的 @提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。 需要包含 Office 365 网页版或 Office 365 桌面应用的计划。
+- [在评论中提及](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows)。需要包含 Office 365 网页版或 Office 365 桌面应用的计划。
 - [文件请求](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - 管理默认共享链接（[在组织级别](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links)和[按每个网站](/sharepoint/change-default-sharing-link)）
 - 管理外部共享（[在组织级别](/sharepoint/turn-external-sharing-on-or-off)和[按每个网站](/sharepoint/change-external-sharing-site)，或者在 [OneDrive](/onedrive/user-external-sharing-settings) 中）
 - [管理对共享项目的权限](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Microsoft Teams 集成](/MicrosoftTeams/sharepoint-onedrive-interact)（适用于在聊天中发送的文件） 需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。
-- [新式附件](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。 需要包含 Outlook 网页版或 Office 桌面应用的计划。
+- [新式附件](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC)。需要包含 Outlook 网页版或 Office 桌面应用的计划。
 - 在组织或网站级别[按域限制共享](/sharepoint/restricted-domains-sharing)
 - [共享报告](/sharepoint/sharing-reports)
 - [验证代码](/sharepoint/external-sharing-overview#what-happens-when-users-share)
