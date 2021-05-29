@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Web 应用程序 (之前Office Web Apps) 打开 Web 浏览器中的 Word、Excel、OneNote 和 PowerPoint 文档。 Office使用 Web 使从任何位置（从几乎任何设备Office Internet 连接）处理和共享文件变得更加简单。 Microsoft 365 Word、Excel、OneNote 或 PowerPoint 的客户可以一起查看、创建和编辑文件。
-ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652366"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699108"
 ---
 # <a name="office-for-the-web-service-description"></a>Office 网页版服务说明
 
@@ -167,7 +167,7 @@ Office Web 应用程序 (之前Office Web Apps) 打开 Web 浏览器中的 Word�
 |[打印](excel-online.md#print) <br/> |是  <br/> |是  <br/> |
 |[实时共同创作](excel-online.md#real-time-co-authoring) <br/> |是  <br/> |是  <br/> |
 |[创建推荐的图表并使用格式控件进行编辑](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |否  <br/> |是  <br/> |
-|[刷新现有的数据连接](excel-online.md#refresh-existing-data-connections) <br/> |是  <br/> |是  <br/> |
+|Refresh existing data connections <br/> |否  <br/> |是  <br/> |
 |[删除重复值](excel-online.md#remove-duplicate-values) <br/> |是  <br/> |是  <br/> |
 |[重命名和添加工作表](excel-online.md#rename-and-add-sheets) <br/> |是  <br/> |是  <br/> |
 |[工作簿打开时重命名文件](excel-online.md#rename-file-while-workbook-is-open) <br/> |是  <br/> |否  <br/> |

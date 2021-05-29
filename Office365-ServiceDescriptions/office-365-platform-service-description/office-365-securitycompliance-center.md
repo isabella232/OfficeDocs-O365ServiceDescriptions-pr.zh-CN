@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 与合规中心旨在帮助你管理组织中跨Office 365合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653474"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699098"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -24,8 +24,8 @@ ms.locfileid: "51653474"
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-若要了解自 2020 年 4 月 1 日起授权用户从 Microsoft 365 合规性功能中获益的选项，请下载"Microsoft 365合规性许可比较"。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+若要查看允许用户从合规性功能Microsoft 365的选项，请下载比较Microsoft 365[表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>适用于 &amp; 企业计划的安全与合规中心可用性
 
 | 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365E1、Office 365美国政府 G1 | Office 365E3、Office 365美国政府版 G3 | Office 365 E5 |Office 365G5 | Office 365F3、Office 365美国政府 F3|
