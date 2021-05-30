@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供了针对合规性Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546009"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699058"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365合规性许可 &amp; 指南
 
@@ -26,7 +26,7 @@ ms.locfileid: "52546009"
 > [!NOTE]
 > 某些租户服务当前无法将权益限制到特定用户。 应努力将服务权益限制为许可用户。 这可帮助避免目标功能可用后组织的潜在服务中断。
 
-若要查看授权用户从合规性功能Microsoft 365的选项，请下载详细的Microsoft 365合规性许可比较。 [ (PDF) ](https://www.microsoft.com/download/details.aspx?id=103010)  | [ (Excel) ](https://www.microsoft.com/download/details.aspx?id=103006)
+若要查看允许用户从合规性功能Microsoft 365的选项，请下载比较Microsoft 365[表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory 标识保护
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F3/F3/Business 高级版、企业移动性 + 安
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5/G5 信息保护和管理、Office 365 E5、企业移动性 + 安全性 E5/A5/G5 和 AIP 计划 2 为用户提供了从自动敏感度标签中获益的权利。
 
-有关按许可证授予的特定权限，请参阅Microsoft 365许可比较"。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)不包括基于可训练分类器机器学习 (自动分类) 。
+信息保护不包括基于可训练分类器机器学习 (自动分类) 。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 

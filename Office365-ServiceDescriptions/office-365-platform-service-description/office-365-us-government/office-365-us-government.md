@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了一个Office 365 US 政府计划 (Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625639"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699078"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -105,7 +105,7 @@ Microsoft Office 365 政府版访问客户内容的访问权限仅限于屏蔽�
 
 有关 FastTrack 中心流程的特定信息，请参阅 [此处](/FastTrack/us-gov-appendix-overview)。 有关参与角色和职责的细分，请查看 [FastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 责任以及 [你的责任](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup> 必须至少从符合条件的计划列表中购买 50 个许可证 [才能](/fasttrack/eligibility) 接收 FastTrack 服务。
+> <sup>1</sup>必须至少从符合条件的计划列表中购买 150 个许可证[](/fasttrack/eligibility)才能接收 FastTrack 服务。
 <br/><sup>2</sup>数据迁移服务适用于Office 365许可证超过 500 个的租户。
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>由 FastTrack 执行的数据迁移
@@ -453,7 +453,7 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |与合著者进行上下文聊天：与文档中共同创作者聊天|否|否|否|
 |语音听写|是|是|否<sup>1</sup>|
 
-有关 Microsoft Teams/GCC/GCC/DoD 中的功能可用性，请访问 Microsoft Teams[服务说明](../../teams-service-description.md)。
+有关功能可用性Microsoft Teams/GCC/GCC/DoD 中，请访问Microsoft Teams[服务说明。](../../teams-service-description.md)
 > <sup>1</sup> 可用性即将提供。
 <br/><sup>2</sup>未登录Surface Hub (本地) 。
 <br/><sup>3</sup>外部共享适用于GCC环境。 详细了解如何[为组织关闭或打开 Microsoft Forms。](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) 在高和 DOD GCC禁用外部共享;您组织内的用户可以执行以下操作：填写表单并提交回复、复制和共享表单作为[](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)模板、[共同](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)创作或协作处理表单以及访问[表单结果](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)。

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在查找包含该订阅的订阅Exchange Online？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653354"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699088"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -91,8 +91,8 @@ Microsoft 365 F1不包括对邮箱Exchange权限。 为了启用完整的 Teams 
 |使用 Azure 信息保护的 IRM|否|是|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|是|是|否<sup>2</sup>|
 |使用 Windows Server AD RMS 的 IRM|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|是<sup>3</sup>|
 |Office 365 邮件加密|是<sup>13</sup>|是<sup>13</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|是|是|否<sup>2</sup>|
-|客户密钥<sup>22</sup>|否|否|否|否|否|否|是|否||
-|S/MIME|是<sup>15</sup>|是<sup>15</sup>|是|是|是|是|是|是||
+|客户密钥<sup>22</sup>|否|否|否|否|否|否|是|否|
+|S/MIME|是<sup>15</sup>|是<sup>15</sup>|是|是|是|是|是|是|
 |就地保留和诉讼保留|是|是|否|否|否|是|是|否|
 |就地电子数据展示|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是<sup>20</sup>|是|
 |Transport rules|是 <sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|
@@ -116,7 +116,7 @@ Microsoft 365 F1不包括对邮箱Exchange权限。 为了启用完整的 Teams 
 |容量报警|是|是|是|是|是|是|是|是|
 |混乱邮件|是|否|是|是|是|是|是|是|
 |MailTips|是|是|是|是|是|是|是|是|
-|委托访问|是|是|是|是|是|是|是|否<sup>24</sup>|
+|委托访问|是|是|是|是|是|是|是|否|
 |收件箱规则|是|是|是|是|是|是|是|是|
 |已连接帐户|是|是|是|是|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|是<sup>17</sup>|
 |非活动邮箱|否|否|否<sup>9</sup>|否<sup>9</sup>|否<sup>9</sup>|是|是|否 <sup>9</sup>|
@@ -148,7 +148,7 @@ Microsoft 365 F1不包括对邮箱Exchange权限。 为了启用完整的 Teams 
 |Outlook for Windows <sup>21</sup>|是|是|是|是|是|是|是| 否|
 |Outlook 网页版<sup>21</sup>|是|是|是|是|是|是|是|是|
 |Outlook for Mac<sup>21</sup>|是|是|是|是|是|是|是| 否|
-|Outlook for iOS 和 Outlook for Android<sup>21</sup>|是<sup>25</sup>|是<sup>25</sup>|是|是|是|是|是|是|
+|Outlook for iOS 和 Outlook for Android<sup>21</sup>|是<sup>24</sup>|是<sup>24</sup>|是|是|是|是|是|是|
 |Exchange ActiveSync|是|是|是|是|是|是|是|是|
 |基本移动性和安全性Microsoft 365|否|否|是|是|是|是|是|是|
 |POP 和 IMAP|是|是|是|是|是|是|是|是 <sup>12</sup>|
@@ -163,11 +163,11 @@ Microsoft 365 F1不包括对邮箱Exchange权限。 为了启用完整的 Teams 
 |数据中心的邮箱复制|否|否|是|是|是|是|是|是|
 |已删除邮箱的恢复|是|是|是|是|是|是|是|是|
 |已删除邮件的恢复|是|是|是|是|是|是|是|是|
-|单个项目恢复|是|是|是|是|是|是|是|否||
+|单个项目恢复|是|是|是|是|是|是|是|否|
 |**[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |OWA 和 Outlook 中的 Skype for Business 状态|是|是|是|是|是|是|是|是|
 |SharePoint 互操作性|是|是|是|是|是|是|是|是|
-|EWS 连接支持<sup>26</sup>|是|是|是|是|是|是|是|是|
+|EWS 连接支持<sup>25</sup>|是|是|是|是|是|是|是|是|
 |SMTP 中继支持|是|是|是|是|是|是|是|是|
 |**[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 商业基础版**|**Microsoft 365 商业标准版**|**Office 365 企业版 E1**|**Office 365 企业版 E3**|**Office 365 企业版 E5**|**Office 365 企业版 F3**|
 |Microsoft Office 365 门户访问|否|否|是|是|是|是|是|是|
@@ -202,9 +202,8 @@ Microsoft 365 F1不包括对邮箱Exchange权限。 为了启用完整的 Teams 
 <sup>21</sup> 该表指示客户端是否使用关联的计划。 这并不意味着购买这些计划时必须包括客户端。 <br/>
 <sup>22</sup> 有关详细信息，请参阅使用客户密钥 [的服务加密](/office365/securitycompliance/controlling-your-data-using-customer-key)。 <br/>
 <sup>23</sup> Exchange Online由客户运营的 SDC 直接连接为第三方 PBX 系统提供 UM 支持将于 2019 年 4 月结束。 有关详细信息，请参阅团队博客Exchange不再支持统一消息中的会话[边界Exchange Online控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。 <br/>
-<sup>24</sup> F3 用户无法将代理添加到其自己的邮箱，但他们可以访问另一个邮箱 (包括共享邮箱) 并执行已委派给它们的任何操作。<br/>
-<sup>25</sup> 2013 和 Microsoft 365 企业应用版 2016 Exchange Server订阅Exchange Server订阅。<br/>
-应用于 EWS 应用程序模拟的<sup>26</sup>个 EWS 应用程序支持。
+<sup>24</sup> 2013 和 2016 Microsoft 365 企业应用版 2013 Exchange Server订阅Exchange Server订阅。<br/>
+<sup>25</sup> 应用于 EWS 应用程序模拟的 EWS 应用程序支持。<br/>
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>跨 Exchange Online 独立计划的功能可用性
 

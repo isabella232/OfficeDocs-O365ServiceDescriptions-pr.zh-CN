@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Web (以前Excel Web App) 将 Microsoft Excel 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Web Office查看Office编辑文件。
-ms.openlocfilehash: aae8584e7b4296d917fda680d563c4d274b05771
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652356"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699068"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
@@ -106,7 +106,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-可以使用 web Excel数据连接，但不能使用 Web Excel创建外部数据连接。 你需要使用Excel桌面应用来使用外部数据。 了解有关[在 Excel Services 中使用外部数据](https://go.microsoft.com/fwlink/p/?LinkId=282330)的详细信息。 
+可以使用 web Excel数据连接，但不能使用 Web Excel创建外部数据连接。 你需要使用Excel桌面应用来使用外部数据。
   
 ## <a name="create-tables"></a>创建表格
 
@@ -259,10 +259,6 @@ Excel支持查看 Power Pivot 表和图表，但需要Excel桌面应用来创建
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>创建推荐的图表并使用格式控件进行编辑
 
 仅 Microsoft Excel 桌面应用程序支持高级图表。 Excel不支持这些功能。 了解有关[可用图表类型](https://go.microsoft.com/fwlink/p/?LinkId=271666)的详细信息。
-  
-## <a name="refresh-existing-data-connections"></a>Refresh existing data connections
-
-如果工作簿中的数据连接到外部源（如数据库、网页或分析多维数据集）上，可以使用 Web Excel刷新该数据。
 
 ## <a name="remove-duplicate-values"></a>删除重复值
 
