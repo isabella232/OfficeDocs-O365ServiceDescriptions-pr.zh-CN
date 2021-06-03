@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云与商业云之间的功能差异，如Exchange Online说明所列。
-ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
+ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653284"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721206"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online美国政府环境
 
@@ -116,7 +116,7 @@ ms.locfileid: "51653284"
 |Outlook for Windows|是|是|是|若要满足GCC高和 DoD 合规性要求，必须至少运行版本 1803 的 Office 365 专业增强版。 Office 365 专业增强版 G1 或 F3 中不包含。|
 |Outlook 网页版|是|是|是||
 |Outlook for Mac|是|是|是|若要满足GCC高和 DoD 合规性要求，必须至少运行版本 1803 的 Office 365 专业增强版。 Office 365 专业增强版 G1 或 F3 中不包含。|
-|Outlook for iOS 和 Android|是|是|是||
+|Outlook for iOS 和 Outlook for Android|是|是|是||
 |Exchange ActiveSync|是|是|是||
 |基本移动性和安全性Microsoft 365|是|否|否||
 |POP 和 IMAP|是|是|是||
@@ -191,17 +191,15 @@ Azure Active Directory目前，仅在 Azure 美国政府云中且都支持 B2B �
 
 ### <a name="freebusy-federation"></a>忙/闲联盟
 
-联合共享（包括忙/闲信息）目前受到高和 doD 环境中GCC限制。
+联合共享（包括忙/闲信息）目前受到 DoD 环境中的几个重要限制。
 
 在GCC高环境中：
 
--  (高内租户之间以及 2013 或更高版本的 GCC (Exchange 或更高版本支持联盟信任关系，包括双向忙/闲) 共享) 。
-
-- 高和商业GCC租户GCC或Office 365共享。 目前不允许从GCC高环境到商业云 (包括GCC Office 365商业) 的出站连接。 因此，GCC高用户无法向用户/商业GCC访问共享日历信息所需的出站请求。
+-  (高内租户、GCC 商业云中的租户以及混合共存 GCC (Exchange 2013 或更高版本) 支持联盟信任关系，包括双向忙/闲共享) 。
 
 在 DoD 环境中：
 
-  - 目前 (DoD) 租户之间支持联盟信任关系，包括忙/闲共享) 。 DoD 租户与商业租户之间GCC它。
+  - 目前 (DoD) 租户之间支持联盟信任关系，包括忙/闲共享) 。 DoD 租户与商业租户之间GCC、GCC高或商业租户。
 
 ### <a name="client-configuration"></a>客户端配置
 
@@ -217,8 +215,8 @@ Outlook适用于 iOS 和 Android 的 GCC 也适用于高和 DoD 环境。 若要
 
 | 功能 | 说明 | WW | 在GCC |
 |:-----|:-----|:-----|:-----|
-|支持的平台|Web、Android、iOS、Mac、Windows|所有|仅 Web|
-|M365 中心支持|与 planner、Outlook、Teams 的集成|所有|Outlook，planner (Teams可用于Teams任务应用) |
+|支持的平台|Web、Android、iOS、Mac、Windows|全部|仅 Web|
+|M365 中心支持|与 planner、Outlook、Teams 的集成|全部|Outlook，planner (Teams可用于Teams任务应用) |
 |奇妙清单迁移|允许 wunderlist 用户将数据微软待办 Web 上的服务器|是|否|
 |推送通知|向最终用户发送推送通知，提醒等。|是|否|
 |帮助临时支持|使用 helpshift 接口创建支持请求|是|否|
