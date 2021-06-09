@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助你的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害的链接危害的功能。
-ms.openlocfilehash: 76b4d2e53c8a2942d4b974c5289c9ae4c8854b72
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545969"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798448"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
@@ -69,7 +69,7 @@ Microsoft Defender for Office 365 计划 2 包含在 Office 365 E5、Office 365 
 
 - [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
-- [Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+- [Microsoft Defender for Office 365 中的新增功能 - Office 365 |Microsoft Docs](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
 
 ## <a name="requirements-for-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 

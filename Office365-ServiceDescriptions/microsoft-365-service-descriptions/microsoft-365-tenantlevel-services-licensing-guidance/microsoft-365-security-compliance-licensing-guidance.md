@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供了针对合规性Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699058"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798468"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365合规性许可 &amp; 指南
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365信息�
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5/G5 信息保护和治理为用户提供了从基于可训练分类器自动应用保留标签中获益的权利。
 
-有关按许可证授予的特定权限，请参阅Microsoft 365许可比较"。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
 默认情况下，在租户级别为租户内的所有用户启用信息治理功能。 有关配置信息治理以对许可用户应用自动标签和策略的信息，请参阅 microsoft [information Governance in Microsoft 365](/microsoft-365/compliance/manage-information-governance)。
@@ -322,8 +320,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5/
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 信息保护和管理 E5/A5/G5 和 Office 365 E5/A5/G5 为用户提供了从记录管理中获益的权利，包括将项目声明为记录或法规记录、自动应用保留或记录标签以及执行处置评审过程 (不包括基于可训练分类器) 自动应用保留标签。
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性和 Microsoft 365 信息保护和管理为用户提供了根据可训练分类器自动应用保留标签或记录标签的权利。
-
-有关按许可证授予的特定权限，请参阅Microsoft 365许可比较"。 [ (PDF) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  | [ (Excel) ](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 

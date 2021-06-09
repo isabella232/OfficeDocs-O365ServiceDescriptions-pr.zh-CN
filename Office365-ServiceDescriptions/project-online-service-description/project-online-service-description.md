@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545919"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798478"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -127,7 +127,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |**安全性和用户管理**||||||
 |Office新式组 | 建立项目工作组，以与团队成员协作并轻松设置供团队成员共享的资源集合。 | 是 | 是 | 是 | 是 |
 |**第三方应用**||||||
-|*连接Project第三* 方应用访问 Web <sup>4</sup> | 使用自定义或第三方应用程序查看、创建、更新或删除Project本机数据表中的Project数据。 | 否 | 是 | 是 | 是 |
+|*连接Project第三* 方应用访问 Web <sup>4</sup> | 使用自定义或第三方应用程序查看、创建、更新或删除Project本机数据表中的Project数据。 | 仅查看<sup>11</sup> | 是 | 是 | 是 |
 
 ### <a name="project-online-features"></a>Project Online 功能
 
@@ -193,7 +193,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |用户管理 | 在项目、团队和组织级别管理用户和组角色及权限。 | 否 | 是 |
 |服务管理 | 规划、安装和配置、维护和扩展 Microsoft Project 环境，作为 Office 365<sup>1 环境的</sup>一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>备注
+#### <a name="notes"></a>注释
 
 <sup>1</sup>需要Office或Microsoft 365订阅。</br>
 <sup>2</sup> Azure Boards单独获取。</br>
@@ -212,6 +212,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 <sup>8</sup>拥有计划 3 Project计划 5 订阅Project提交资源预订请求。 他们无法审阅、履行或批准资源参与请求。</br>
 <sup>9</sup>拥有计划 5 Project的用户可以审阅、履行和批准资源预订请求。</br>
 <sup>10</sup> Active Directory 需要单独的订阅。 </br>
+<sup>11</sup> 仅从 Power App 内授予仅查看权利。 </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online桌面客户端功能
 
