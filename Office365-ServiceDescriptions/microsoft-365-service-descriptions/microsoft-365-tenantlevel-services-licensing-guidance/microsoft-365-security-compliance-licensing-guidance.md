@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供了针对合规性Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798468"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906748"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365合规性许可 &amp; 指南
 
@@ -297,7 +297,17 @@ Microsoft 365 E5/A5/G5/E3/A3/Business 高级版、Office 365 E5/A5/G5/E3/A3、Ex
 
 Microsoft 365 E5/A5/G5/E3/A3、Office 365 E5/A5/G5/E3/A3 和 SharePoint 计划 2 为用户提供了从基本 SharePoint 或 OneDrive 保留策略中获益和/或手动将非记录保留标签应用于 SharePoint 或 OneDrive 中的文件的权利。
 
-Microsoft 365 E5/A5/G5/E3/A3 和 Office 365 E5/A5/G5/E3/A3 为用户提供从 Teams 保留策略中获益的权利。
+组织可以使用保留策略根据Teams保留或删除邮件。 这包括管理聊天Teams对话中的消息。
+
+以下许可证为用户提供了从保留策略Teams权益：
+
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365E5/G5/A5/E3/G3/A3/F3/E1/G1
+
+请注意，对于具有以下许可证的用户，受支持的最小保留或删除期限为 30 天：
+
+- Microsoft 365 F1/F3、Business Basic、Business Standard 和 Business 高级版
+- Office 365E1/G1 和 F3
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365信息保护和管理 E5/A5/G5、 和 Office 365 E5/A5 为用户提供了从自动应用保留标签或策略、应用默认保留标签或策略、基于自定义事件开始保留标签的保留期、在标签保留期结束时触发手动处置评审、通过本机数据连接器导入第三方数据、声明文件记录、发现标记内容和监视标签活动中获益的权利。
 

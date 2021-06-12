@@ -1,5 +1,5 @@
 ---
-title: Visio 网页版
+title: Visio功能详细信息
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio将 Microsoft Visio体验扩展到浏览器，可在浏览器中创建和编辑保存在云中的图表。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653634"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906758"
 ---
-# <a name="visio-for-the-web"></a>Visio 网页版
+# <a name="visio-features-detail"></a>Visio功能详细信息
 
 Visio将 Microsoft Visio体验扩展到浏览器，可在浏览器中创建和编辑保存在云中的图表。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。 如果你有一个Visio订阅，可以使用其他功能，如以下部分中所述的功能。
   
