@@ -91,7 +91,7 @@
 ### [报告和商业智能](project-online-service-description/reporting-and-business-intelligence.md)
 ### [资源管理](project-online-service-description/resource-management.md)
 ## [Visio 网页版服务说明](visio-online-service-description/visio-online-service-description.md)
-### [Visio 网页版](visio-online-service-description/visio-online.md)
+### [Visio 功能详细信息](visio-online-service-description/visio-online.md)
 ## [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
 ### [Yammer 中的组功能](yammer-service-description/group-features-in-yammer.md)
 ### [Yammer 中的个人资料功能](yammer-service-description/profile-features-in-yammer.md)
