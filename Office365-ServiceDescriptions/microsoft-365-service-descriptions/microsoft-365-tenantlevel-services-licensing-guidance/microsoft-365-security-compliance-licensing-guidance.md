@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文提供了针对合规性Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950161"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021965"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365合规性许可 &amp; 指南
 
@@ -260,7 +260,9 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 仅允许用户从内容资源管
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、企业移动性 + 安全性 F3/E3/E5、Office 365 E5/A5/E3/A3/F3、AIP 计划 1 和 AIP 计划 2 为用户提供了从手动敏感度标签中获益的权利。
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、企业移动性 + 安全性 F3/E3/E5、AIP 计划 1 和 AIP 计划 2 为用户提供了从在 Power BI 中应用和查看敏感度标签的好处，以及保护从 Power BI 导出到 Excel、PowerPoint 或 PDF 时的数据的权利。 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium、企业移动性 + 安全性 F3/E3/E5、AIP 计划 1 和 AIP 计划 2 为用户提供了从在 Power BI 中应用和查看敏感度标签的好处，以及保护从 Power BI 导出到 Excel、PowerPoint 或 PDF 时的数据的权利。
+
+Microsoft 365 商业高级版和企业移动性提供使用 [AIPService](/powershell/azure/aip/overview#aipservice) PowerShell 模块管理 Azure 信息保护的 Azure 权限管理保护服务的权利。
 
 > [!NOTE]
 > Power BI 包含在 Microsoft 365 E5/A5/G5 中;在所有其他计划中，必须单独许可 Power BI。
@@ -275,9 +277,11 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5 合规性、Microsoft 365 E5/A5/
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-除非使用 AIP 扫描程序功能，否则可以将策略的范围划分到特定组或用户，并可以编辑注册表以防止未经授权的用户运行分类或标记功能。 有关如何确定 AIP 部署范围的说明，请参阅 [配置 Azure 信息保护策略](/azure/information-protection/configure-policy)。
+除非使用 AIP 扫描程序功能，否则可以将策略的范围划分到特定组或用户，并可以编辑注册表以防止未经授权的用户运行分类或标记功能。
 
 对于 AIP 扫描程序功能，Microsoft 不承诺向未获得许可的用户提供文件分类、标记或保护功能。
+
+有关详细信息，请参阅创建和发布 [敏感度](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) 标签和 [了解 Azure 信息保护统一标签扫描程序](/azure/information-protection/deploy-aip-scanner)。
 
 ## <a name="information-governance"></a>信息治理
 

@@ -10,41 +10,35 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商务语音是一项外接程序服务，允许您将 Microsoft Teams用于电话呼叫。 这结合了电话系统、国内呼叫计划、短信和音频会议。
-ms.openlocfilehash: d5c2f0f8eb027bfc5ef6a9c55a53aa9b7a647f68
-ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
+ms.openlocfilehash: 3a273090dc87d516c0ac84c182ceaa9aef2fd986
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52266352"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021955"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 商务语音服务说明
 
-Microsoft 365 商务语音是 Microsoft Teams 中基于云的电话服务解决方案，提供电话系统功能，如呼叫等待、呼叫转发、自动助理、呼叫队列、音频会议和呼叫计划。 商务语音可以添加到 Office 365 和 Microsoft 365 订阅，Microsoft Teams (最多 300 个) 。 有关商务语音服务详细信息[，请参阅](/MicrosoftTeams/business-voice/whats-business-voice)Microsoft 365 商务语音。
+Microsoft 365 商务语音是 Microsoft Teams 中基于云的电话服务解决方案，提供电话系统功能，如呼叫等待、呼叫转发、自动助理、呼叫队列、音频会议和呼叫计划。 商务语音可以添加到 Office 365 和 Microsoft 365 订阅，Microsoft Teams (最多 300 个) 。 有关商务语音服务的信息，请参阅Microsoft 365 商务语音。
 
-可以从以下两个选项Microsoft 365 商务语音选项：
+## <a name="available-plans"></a>可用计划
 
-- Microsoft 365 商务语音
-- Microsoft 365 商务语音没有通话套餐
+下表显示了可以利用加载项Microsoft 365 商务语音，以便选择最符合组织需求的解决方案。 有关详细的计划信息[，请参阅](/MicrosoftTeams/business-voice/whats-business-voice)Microsoft 365 商务语音。 <br><br>
 
-Microsoft 365 商务语音订阅提供最多 300 个许可证：
+| 小型企业计划 | Enterprise计划 | 政府 | 教育 | Frontline |
+|----------------------|------------------|------------|-----------|-----------|
+| Microsoft 365 商业基础版 | Microsoft 365 企业版E1 | Microsoft 365 和 Office 365 政府版 G1 | Microsoft 365 和 Office 365 教育版 A1 | Microsoft 365 F1 |
+| Microsoft 365 商业标准版 | Microsoft 365 企业版 E3 | Microsoft 365 和 Office 365 政府版 G3 | Microsoft 365 和 Office 365 教育版 A3 | Microsoft 365 F3 |
+| Microsoft 365 商业高级版 | Microsoft 365 和 Office 365 非营利组织版 E1 | | | Office 365F3 |
+| Microsoft 365非盈利商业基础版 | Microsoft 365 和 Office 365 非营利组织版 E3 | | | |
+| Microsoft 365非盈利商业标准 | | | | |
 
-- Microsoft 365 商业基础版
-- Microsoft 365 商业标准版
-- Microsoft 365 商业高级版
-- Microsoft 365 F1
-- Microsoft 365 F3
-- Office 365F3
-- Microsoft 和 Office 365 企业版 E1 或 E3
-- Microsoft 365和Office 365 教育版 A1 或 A3
-- Microsoft 365 和 Office 365 政府版 G1 或 G3
-- Microsoft 365非盈利商业基础版
-- Microsoft 365非盈利商业标准
-- Microsoft 365 和 Office 365 非营利组织版 E1 或 E3
+## <a name="feature-availability"></a>功能可用性
 
-## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 商务语音功能
+下表列出了跨计划Microsoft 365 商务语音的主要功能。 有一些注意事项适用。 有关详细信息，请参阅脚注。 此表可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅语音 [和视频呼叫](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)。
 
 | 功能 | Microsoft 365 商务语音 | Microsoft 365 商务语音没有通话套餐 |
-|--------------------------------------------------------|------------------------------|---------------------------------------------------|
+|---------|------------------------------|---------------------------------------------------|
 | 本地号码 | 是 | 是的<sup>*</sup> |
 | VoIP 呼叫 | 是 | 是的<sup>*</sup> |
 | 自动助理 | 是 | 是的<sup>*</sup> |
@@ -71,3 +65,23 @@ Microsoft 365 商务语音订阅提供最多 300 个许可证：
 <sup>*</sup> 适用于第三方提供的呼叫计划。
 
 <sup>**</sup> 免费拨号和国际通话套餐都使用通信信用 ，需要 [额外付费](/microsoftteams/what-are-communications-credits)。 若要了解更多信息，请参阅[免费拨号和国际](/microsoftteams/toll-free-dialing-limitations-and-restrictions)[通话费率](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)。
+
+## <a name="learn-more"></a>了解详细信息
+
+有关此Microsoft 365 商务语音请参阅以下资源：
+
+- [Microsoft 365产品概述](/MicrosoftTeams/business-voice/whats-business-voice)
+- [Microsoft 365 商务语音服务说明](/office365/servicedescriptions/microsoft-365-business-voice-service-description)
+- [Microsoft 365 商务语音文档中心](/MicrosoftTeams/business-voice/)
+
+### <a name="licensing-terms"></a>许可条款
+
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。
+
+### <a name="messaging"></a>消息传递
+
+若要跟踪即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+
+### <a name="accessibility"></a>辅助功能
+
+Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
