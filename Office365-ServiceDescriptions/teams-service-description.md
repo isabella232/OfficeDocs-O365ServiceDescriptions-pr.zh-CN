@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解跨Microsoft Teams计划提供的服务Microsoft 365 Office 365可用性。
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906768"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077516"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -29,16 +29,17 @@ Microsoft Teams是团队合作的中心Microsoft 365。 该服务Teams即时消�
 
 | 功能 | 小型企业 | Enterprise计划 | GCC | GCC - 高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|聊天  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|Teams  <br/> |是 <br/> |是 <br/> |是 <br/> |是<sup>1</sup>  <br/> |是<sup>1</sup>  <br/> |是  <br/> |
-|频道 - 标准  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|频道 - 私人  <br/> |是  <br/> |是<sup>2</sup>  <br/> |是 <br/> |否  <br/> |否 <br/> |是  <br/> |
-|会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|音频PowerPoint视频桌面的屏幕共享 <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|语音  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|音频会议  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>3</sup>  <br/> |是<sup>3</sup>  <br/> |是  <br/> |
-|应用、聊天机器人&连接器  <br/> |是  <br/> |是  <br/> |是<sup>5</sup>  <br/> |是<sup>5</sup>  <br/> |是<sup>4，5</sup>  <br/> |是  <br/> |
-|实时事件  <br/> |否  <br/> |是  <br/> |是  <br/> |否<sup>6</sup>  <br/> |否<sup>6</sup>  <br/> |是  <br/> |
+|聊天 |是 |是 |是 |是 |是 |是 |
+|Teams |是|是|是|是<sup>1</sup> |是<sup>1</sup> |是 |
+|频道 - 标准 |是 |是 |是 |是 |是 |是 |
+|频道 - 私人 |是 |是<sup>2</sup> |是|否 |否|是 |
+|会议 |是 |是 |是 |是 |是 |是 |
+|网络研讨会 |是 |是 |否 |否 |否 |是 |
+|音频PowerPoint视频桌面的屏幕共享|是 |是 |是 |是 |是 |是 |
+|语音 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
+|音频会议 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
+|应用、聊天机器人&连接器 |是 |是 |是<sup>5</sup> |是<sup>5</sup> |是<sup>4，5</sup> |是 |
+|实时事件 |否 |是 |是 |否<sup>6</sup> |否<sup>6</sup> |是 |
 
 <sup>1</sup> Microsoft Teams中GCC-High DOD 支持单个团队中的 2500 个成员。<br/>
 <sup>2</sup> Microsoft Planner 当前不可在私人频道中访问。<br/>

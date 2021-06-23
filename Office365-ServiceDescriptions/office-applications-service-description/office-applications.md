@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意、完成事项并随时保持联系。只需登录即可获得个性化体验并了解所有最新的 Office 应用程序，并且将不断添加新的和增强的功能。
-ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ba9da48b79d6b5350182caa347c8d0ce9d6873df
+ms.sourcegitcommit: f1adb57081ea5234e09de4890e756e17e09a2696
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652376"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53069247"
 ---
 # <a name="office-applications"></a>Office 应用程序
 
@@ -27,31 +27,31 @@ Microsoft Office 是一个强大的服务，可帮助您充分利用最佳创意
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
-Microsoft Word 是一个功能全面的文字处理程序，用于 Windows 和 Mac 操作系统。 请参阅[Word 2019 for Windows](https://support.office.com/article/what-s-new-in-word-2019-for-windows-d3d31e5e-2bb8-4433-80bb-08279beef4b3)中的新增功能以及 Word [2019 for Mac 中的新增功能](https://support.office.com/article/what-s-new-in-word-2019-for-mac-247e0cd4-a758-4b42-a157-42eb8853aef5)。
-  
+Microsoft Word 是一个功能全面的文字处理程序，用于 Windows 和 Mac 操作系统。 有关详细信息，请参阅[Word with Microsoft 365。](https://www.microsoft.com/microsoft-365/word)
+
 ## <a name="microsoft-excel"></a>Microsoft Excel
 
-Microsoft Excel 是一个电子表格程序，具有计算工具、图形工具、数据透视表和宏编程语言，支持 Windows 和 Mac 操作系统。 请参阅[Excel 2019 for Windows](https://support.office.com/article/what-s-new-in-excel-2019-for-windows-5a201203-1155-4055-82a5-82bf0994631f)和 Excel [2019 for Mac 中的新增功能](https://support.office.com/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d)。
+Microsoft Excel 是一个电子表格程序，具有计算工具、图形工具、数据透视表和宏编程语言，支持 Windows 和 Mac 操作系统。 有关使用 Excel[请参阅Microsoft 365。](https://www.microsoft.com/microsoft-365/excel)
   
 ## <a name="microsoft-powerpoint"></a>Microsoft PowerPoint
 
-Microsoft PowerPoint 是用于 Windows 和 Mac 操作系统的演示程序。 请参阅[PowerPoint 2019 for Windows](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-windows-8355a56a-f643-42d2-8454-784fa9b3d109)和 PowerPoint [2019 for Mac 中的新增功能](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-mac-5038ba79-48c5-40f0-adff-11489e5d6fed)。
-  
+Microsoft PowerPoint 是用于 Windows 和 Mac 操作系统的演示程序。 有关使用 PowerPoint[请参阅Microsoft 365。](https://www.microsoft.com/microsoft-365/powerpoint)
+
 ## <a name="microsoft-onenote"></a>Microsoft OneNote
 
-Microsoft OneNote是适用于 Windows 和 Mac 操作系统的免费格式笔记记录程序。 请参阅[what's new in OneNote for Windows 10](https://support.office.com/article/what-s-new-in-onenote-for-windows-10-1477d5de-f4fd-4943-b18a-ff17091161ea)和[What's new in OneNote for Mac](https://support.office.com/article/see-what-s-new-in-onenote-for-mac-c82d3f15-252f-452a-89ba-e09fbe418829)。
+Microsoft OneNote是适用于 Windows 和 Mac 操作系统的免费格式笔记记录程序。 有关详细信息，[请参阅OneNote。](https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app)
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook 是用于 Windows 和 Mac 操作系统的电子邮件程序。 请参阅[Outlook 2019 for Windows](https://support.office.com/article/what-s-new-in-outlook-2019-for-windows-0c64df36-0908-4ff6-a7fc-573a62800525)中的新增功能和 Outlook for Mac[中的新增功能](https://support.office.com/article/what-s-new-in-outlook-2019-for-mac-05736033-f99e-4cb2-88aa-01e979b0736b)。
+Microsoft Outlook 是用于 Windows 和 Mac 操作系统的电子邮件程序。 有关使用 Outlook[请参阅Microsoft 365。](https://www.microsoft.com/microsoft-365/outlook/outlook-personal-email-plans)
   
 ## <a name="microsoft-publisher"></a>Microsoft Publisher
 
-Microsoft Publisher 是一款桌面发布程序，用于 Windows 操作系统。 请参阅[Microsoft Publisher](https://products.office.com/publisher)。
+Microsoft Publisher 是一款桌面发布程序，用于 Windows 操作系统。 有关使用 Publisher[请参阅Microsoft 365。](https://www.microsoft.com/microsoft-365/publisher)
   
 ## <a name="microsoft-access"></a>Microsoft Access
 
-Microsoft Access 是用于 Windows 操作系统的数据库管理解决方案。 请参阅 [Access 2019 中的新增功能](https://support.office.com/article/what-s-new-in-access-2019-f52c5317-3494-4105-9c56-5a2abb8e0f87)。
+Microsoft Access 是用于 Windows 操作系统的数据库管理解决方案。 有关详细信息，请参阅[Access with Microsoft 365](https://www.microsoft.com/microsoft-365/access)。
   
 ## <a name="skype-for-business"></a>Skype for Business
 
