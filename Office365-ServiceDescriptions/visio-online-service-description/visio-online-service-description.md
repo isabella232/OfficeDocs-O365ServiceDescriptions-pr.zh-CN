@@ -1,5 +1,5 @@
 ---
-title: Visio 网页版服务说明
+title: Visio服务说明
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -10,66 +10,86 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 比较 web Visio 中的功能与 Visio 桌面应用。
-ms.openlocfilehash: c490e0fbb891c09cfa73706002d6f5b7b3b33452
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
+ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653616"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095556"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio 网页版服务说明
+# <a name="visio-service-description"></a>Visio服务说明
 
-通过Visio，可以查看、编辑和共享Visio图表。 从基本图表开始，表达共同想法，例如描述计划、制定建议或描述过程中的步骤序列。 使用常用的图表类型和丰富的形状集创建一流图表非常简单和简单。 Visio Web 用户可以通过共享图表和在上载到 SharePoint Online 或 OneDrive for Business Online 的文件中插入注释来查看和OneDrive for Business协作。
-  
-有关详细信息和入门，请参阅Visio[计划 1。](https://products.office.com/visio/visio-online)
-  
-有关使用适用于Visio的帮助，请参阅Visio[帮助&学习](https://support.office.com/visio)。
-  
-## <a name="feature-availability-and-comparison"></a>功能可用性和比较
+通过Visio和 Web 应用程序，可以查看、编辑和共享Visio Web 上的图表。 从基本图表开始，表达共同想法，例如描述计划、制定建议或描述过程中的步骤序列。 使用常用的图表类型和丰富的形状集创建一流图表非常简单和简单。 Visio桌面用户可以通过共享图表和在上载到 SharePoint Online 或 OneDrive for Business Online 的文件中插入注释来查看和协作。
 
-下表比较了Visio功能的功能与丰富功能Visio应用程序。 使用表可发现 Web Visio中可用的功能，然后选择功能名称以阅读有关该功能工作方式的简短说明。 你可能会发现，你组织中的某些人员需要 Visio 桌面应用的高级功能，而其他人只需要使用适用于 Web 的 Visio 查看和轻松编辑 Visio 图表。<br><br> 
+有关使用 Visio 的帮助，请参阅Visio[帮助&学习](https://support.office.com/visio)。
+
+## <a name="available-plans"></a>可用计划
+
+有关详细信息和入门，请参阅比较Visio[选项。](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
   
-| 应用程序功能 | Visio 网页版 | Visio 桌面应用 |
+## <a name="feature-availability"></a>功能可用性
+
+下表列出了 Web 和桌面Visio提供的主要功能。 有一些注意事项适用。 有关详细信息，请参阅脚注。 此表可能会更改，无需另行通知。 有关跨计划提供最新、完整功能Visio，请参阅[比较Visio选项。](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
+
+| 应用程序功能 | Visio 网页版 | Visio桌面应用程序 |
 |:-----|:-----|:-----|
-|[对文本和形状应用多种格式](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |是  <br/> |是  <br/> |
-|[排列对象](visio-online.md#arrange-objects) <br/> |是  <br/> |是  <br/> |
-|[构建混合应用程序解决方案](visio-online.md#build-mashup-solutions) <br/> |是  <br/> |是  <br/> |
-|[创建关系图](visio-online.md#create-diagrams) <br/> |是  <br/> |是  <br/> |
-|[剪切、复制和粘贴](visio-online.md#cut-copy-and-paste) <br/> |是  <br/> |是  <br/> |
-|[编辑关系图](visio-online.md#edit-diagrams) <br/> |是  <br/> |是  <br/> |
-|[在 SharePoint、 网站或博客页面中嵌入图表](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |是  <br/> |否  <br/> |
-|[查找](visio-online.md#find) <br/> |是  <br/> |是  <br/> |
-|[字体格式](visio-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
-|[超链接](visio-online.md#hyperlinks)<sup>1</sup> <br/> |是<sup>3</sup> <br/> |是  <br/> |
-|[导航](visio-online.md#navigation) <br/> |是  <br/> |是  <br/> |
-|[Office 外接程序](visio-online.md#office-add-ins) <br/> |否  <br/> |是  <br/> |
-|[脱机查看](visio-online.md#offline-viewing) <br/> |否  <br/> |是  <br/> |
-|[打印为 PDF 格式](visio-online.md#print-to-pdf) <br/> |是<sup>4</sup> <br/> |是  <br/> |
-|[校对工具](visio-online.md#proofing-tools) <br/> |否  <br/> |是  <br/> |
-|[实时共同创作](visio-online.md#real-time-co-authoring) <br/> |否  <br/> |是  <br/> |
-|[另存为或下载副本](visio-online.md#save-as-or-download-a-copy) <br/> |是  <br/> |是  <br/> |
-|[共享一个关系图](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |是  <br/> |是  <br/> |
-|[SmartArt](visio-online.md#smartart) <br/> |否  <br/> |是  <br/> |
-|[告诉我](visio-online.md#tell-me) <br/> |否  <br/> |是  <br/> |
-|[撤消和恢复](visio-online.md#undo-and-redo) <br/> |否  <br/> |是  <br/> |
-|[查看和添加注释](visio-online.md#view-and-add-comments) <br/> |是<sup>5</sup> <br/> |是  <br/> |
-|[查看形状数据](visio-online.md#view-shape-data) <br/> |是<sup>3</sup> <br/> |是  <br/> |
-|[在浏览器中查看 Visio 文件](visio-online.md#view-visio-files-in-the-browser) <br/> |是  <br/> |是  <br/> |
-|[缩放](visio-online.md#zoom) <br/> |是<sup>6</sup> <br/> |是  <br/> |
-   
-> <sup>1</sup> 跟踪超链接（无法插入或进行编辑）。 
-<br/><sup>2</sup> 通过 SharePoint 或 OneDrive for Business 共享，并与没有 SharePoint 或 OneDrive 的用户共享。 
-<br/> <sup>3</sup>在 Web Visio中不可用。
-<br/><sup>4</sup>在 Web Visio中不可用。 
-<br/><sup>5</sup>在 Web Visio中不可用，但你可以切换到查看模式并查看注释。 
-<br/><sup>6</sup>在Visio编辑器中可用。 
-  
-## <a name="supported-file-types-in-visio-for-the-web"></a>Web Visio中受支持的文件类型
+|[富格式应用于文本和形状](visio-features.md#apply-rich-formatting-to-text-and-shapes)|是 |是 |
+|[排列对象](visio-features.md#arrange-objects)|是 |是 |
+|[构建混合应用程序解决方案](visio-features.md#build-mashup-solutions)|是 |是 |
+|[创建关系图](visio-features.md#create-diagrams)|是 |是 |
+|[剪切、复制和粘贴](visio-features.md#cut-copy-and-paste)|是 |是 |
+|[编辑关系图](visio-features.md#edit-diagrams)|是 |是 |
+|[在 SharePoint、 网站或博客页面中嵌入图表](visio-features.md#embed-diagram-in-a-sharepoint-web-or-blog-page)|是 |否 |
+|[查找](visio-features.md#find)|是 |是 |
+|[字体格式](visio-features.md#font-formatting)|是 |是 |
+|[超链接](visio-features.md#hyperlinks)<sup>1</sup>|是<sup>3</sup>|是 |
+|[导航](visio-features.md#navigation)|是 |是 |
+|[Office 外接程序](visio-features.md#office-add-ins)|否 |是 |
+|[脱机查看](visio-features.md#offline-viewing)|否 |是 |
+|[打印为 PDF 格式](visio-features.md#print-to-pdf)|是<sup>4</sup>|是 |
+|[校对工具](visio-features.md#proofing-tools)|否 |是 |
+|[实时共同创作](visio-features.md#real-time-co-authoring)|是 |否 |
+|[另存为或下载副本](visio-features.md#save-as-or-download-a-copy)|是 |是 |
+|[共享一个关系图](visio-features.md#share-a-diagram)<sup>2</sup>|是 |是 |
+|[告诉我](visio-features.md#tell-me)|否 |是 |
+|[撤消和恢复](visio-features.md#undo-and-redo)|是 |是 |
+|[查看和添加注释](visio-features.md#view-and-add-comments)|是 |是 |
+|[查看形状数据](visio-features.md#view-shape-data)|是<sup>3</sup>|是 |
+|[在浏览器中查看 Visio 文件](visio-features.md#view-visio-files-in-the-browser)|是 |是 |
+|[缩放](visio-features.md#zoom)|是<sup>5</sup>|是 |
+
+> <sup>1</sup> 跟踪超链接（无法插入或进行编辑）。
+<br/><sup>2</sup> 通过 SharePoint 或 OneDrive for Business 共享，并与没有 SharePoint 或 OneDrive 的用户共享。
+<br/><sup>3</sup>在 Web Visio中不可用。
+<br/><sup>4</sup>在 Web Visio中不可用。
+<br/><sup>5</sup>在 web Visio中可用。
+
+## <a name="learn-more"></a>了解详细信息
+
+### <a name="supported-file-types-in-visio-for-the-web"></a>Web Visio中受支持的文件类型
 
 | Visio 2010 Visio更高版本中创建的图表 | 查看模式 | 编辑模式 |
 |:-----|:-----|:-----|
-|Open XML (.vsdx)  <br/> |是  <br/> |否  <br/> |
+|Open XML (.vsdx)  <br/> |是  <br/> |是  <br/> |
 |二进制 (.vsd)  <br/> |是  <br/> |否  <br/> |
 |宏 (.vsdm)  <br/> |是  <br/> |否  <br/> |
-   
 
+有关此Visio，请查看以下资源：
+
+- [比较各计划](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
+- [Visio技术社区](https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams)
+- [Visio博客](https://techcommunity.microsoft.com/t5/visio-blog/bg-p/VisioBlog)
+- [特色Visio模板和图表](https://go.microsoft.com/fwlink/p/?linkid=2157372)
+- [部署指南Visio](/deployoffice/deployment-guide-for-visio)
+
+### <a name="licensing-terms"></a>许可条款
+
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。
+
+### <a name="messaging"></a>消息传递
+
+若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+
+### <a name="accessibility"></a>辅助功能
+
+Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
