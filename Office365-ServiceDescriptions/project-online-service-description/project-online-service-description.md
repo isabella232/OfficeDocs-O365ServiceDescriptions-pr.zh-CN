@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021995"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140824"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -253,7 +253,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |排序和分组 | 使用自定义排序和分组获取项目、任务和资源的重点视图。|
 |**自定义和集成**||
 |自定义域 | 在项目、任务和资源级别添加自定义域，以跟踪对您的组织和项目非常重要的数据。 |
-|表单 | 创建和部署自定义表单以捕获重要的项目数据。 |
+|Forms | 创建和部署自定义表单以捕获重要的项目数据。 |
 |公式 | 使用跨任务和项目的公式计算和捕获重要数据。 |
 |模板 | 为常见项目（包括项目计划、工作组和工作分配）创建模板。 |
 |.mpp 导入/导出 | 从现有 .mpp 文件创建新项目或创建现有项目的 .mpp 文件。 |
@@ -315,7 +315,7 @@ Project Web 的搜索功能有一些限制，如下表所述。<br><br>
 |最大 叶任务的工期 | 1250 天 |
 |最大 摘要任务的工期 | 3650 天 (10 年)  |
 |最大 可分配给任务的资源 | 20 个资源 |
-|任务支持的日期范围 | 1/1/1984 &ndash; 12/31/2149 |
+|任务支持的日期范围 | 1/1/2000 &ndash; 12/31/2149 |
 |**项目** ||
 |最大 项目的总任务 | 500 |
 |最大 项目的总工期 | 3650 天 (10 年)  |

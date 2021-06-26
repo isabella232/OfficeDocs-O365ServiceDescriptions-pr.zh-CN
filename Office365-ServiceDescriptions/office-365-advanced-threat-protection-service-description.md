@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助你的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害的链接危害的功能。
-ms.openlocfilehash: 2f93551be9df45e6108d81da9d7a50bba53be549
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798448"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140814"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
@@ -75,6 +75,25 @@ Microsoft Defender for Office 365 计划 2 包含在 Office 365 E5、Office 365 
 
 Defender for Office 365 可用于任何 SMTP 邮件传输代理，如 Microsoft Exchange Server。 有关 Defender for Office 365 支持的操作系统、Web 浏览器和语言的信息，请参阅 Exchange Online Protection 中 Exchange 管理中心中的"支持的浏览器"和"[支持的语言"部分](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)。
 
+## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>需要许可哪些用户或邮箱？
+
+对于 Microsoft Defender for Office 365 计划 1 租户，必须为属于以下一个或多个方案的用户或邮箱获取许可证：
+
+- 访问受益于 Defender 的邮箱的任何用户Office 365保护。
+- 从 Defender 获得安全保护的Office 365邮箱。
+- 如果保险箱启用SharePoint、OneDrive for Business 或 Teams 的附件保护，则访问 SharePoint、OneDrive for Business 或 Teams。
+- 启用链接保护Microsoft 365 应用版Teams使用保险箱用户。
+
+对于 Microsoft Defender for Office 365 计划 2 租户，必须为属于以下一个或多个方案的用户或邮箱获取许可证：
+
+- 租户Exchange Online所有用户。 这是因为计划 2 的特性和功能保护租户中的所有用户。
+- 租户上的所有共享邮箱。
+- 如果保险箱启用SharePoint、OneDrive for Business 或 Teams 的附件保护，则访问 SharePoint、OneDrive for Business 或 Teams。
+- 启用链接保护Microsoft 365 应用版Teams使用保险箱用户。
+
+> [!NOTE]
+> Office 365 E5、Microsoft 365 E5 安全性 和 Microsoft 365 E5 包括适用于 Office P2 许可证的 Microsoft Defender，Microsoft 365 商业高级版 Microsoft Defender for Office 365 P1 许可证。
+
 ## <a name="feature-availability-across-defender-for-office-365-plans"></a>跨 Defender for Office 365 计划的功能可用性
 
 下面列出了每个功能。当提到 Exchange Online 时，通常指的是 Office 365 企业版服务系列。<br><br>
@@ -95,10 +114,10 @@ Defender for Office 365 可用于任何 SMTP 邮件传输代理，如 Microsoft 
 |威胁调查 (高级威胁调查) |[实时检测](#real-time-detections)|[资源管理器](#explorer)|[资源管理器](#explorer)|
 |[自动事件响应](#automated-incident-response)|否|是|是|
 |[攻击模拟培训](#attack-simulation-training)|否|是|是|
-|*与 [Microsoft 365 Defender 集成](/microsoft-365/security/mtp/microsoft-threat-protection)*|否|是|是|
+|*与 [Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)*|否|是|是|
 
 > [!NOTE]
-> 如果你的租户只有 Microsoft Defender for Office 计划 P2 试用许可证或 Office 365 E5 试用许可证，没有适用于 Microsoft 365 Defender 的其他合格许可证，你将无法访问 Microsoft 365 Defender。 若要了解有关 MTP 许可证的更多信息，请参阅[Microsoft 365 Defender 要求](/microsoft-365/security/mtp/prerequisites)。
+> 如果你的租户只有 Microsoft Defender for Office 计划 P2 试用许可证或 Office 365 E5 试用许可证，没有适用于 Microsoft 365 Defender 的其他合格许可证，你将无法访问 Microsoft 365 Defender。 若要了解有关 MTP 许可证的更多信息，请参阅Microsoft 365 Defender[要求](/microsoft-365/security/mtp/prerequisites)。
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender for Office 365 功能
 
@@ -192,5 +211,5 @@ Defender for Office 365 可用于任何 SMTP 邮件传输代理，如 Microsoft 
 - 攻击模拟培训现已在 WW 中提供，GCC (将于 GCC年 6 月 21 日) 。
 - 若要详细了解如何开始使用，请参阅使用 [攻击模拟培训入门](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)。
 - 应用去武器化的实际网络钓鱼有效负载的各种攻击技术可用于复制实际攻击者行为，使网络钓鱼模拟相关。
-- 此服务适用于拥有 Microsoft 365 E5 E5 Office 365[或 Microsoft Defender for Office 365 计划 2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)许可证的组织。 一部分功能作为试用版提供给 E3 客户。
+- 此服务适用于拥有 Microsoft 365 E5、Office 365 E5 或 Microsoft Defender for Office 365 计划[2](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2)许可证的组织。 一部分功能作为试用版提供给 E3 客户。
 - 若要了解更多信息并尝试模拟，请参阅 [模拟网络钓鱼攻击](/microsoft-365/security/office-365-security/attack-simulation-training)。
