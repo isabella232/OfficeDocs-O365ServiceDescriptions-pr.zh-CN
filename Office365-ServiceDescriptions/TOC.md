@@ -65,6 +65,7 @@
 ### [客户端功能](exchange-online-archiving-service-description/client-features.md)
 ### [合规性和安全功能](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Microsoft Defender for Office 365 服务说明](office-365-advanced-threat-protection-service-description.md)
+### [Microsoft Defender for Office 365 功能服务说明](microsoft-defender-for-office-365-features.md)
 ## [Azure Active Directory 服务说明](azure-active-directory.md)
 ## [Microsoft Teams 服务说明](teams-service-description.md)
 ### [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
