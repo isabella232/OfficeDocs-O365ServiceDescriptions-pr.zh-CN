@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140824"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290852"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -108,6 +108,10 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |Microsoft Teams集成 | 协作处理项目中Microsoft Teams。<sup>1</sup> | 是 | 是 | 是 | 是 |
 |**资源和计划管理** ||||||
 |Project团队设置 | 通过添加和删除成员并设置工作日历来管理项目工作组。 | 否 | 是 | 是 | 是 |
+|创建资源请求<sup>12</sup> |  | 仅查看 | 仅查看 | 是 | 是 |
+|接受预订建议<sup>12</sup> |  | 仅查看 | 仅查看 | 是 | 是 |
+|创建和更新预订以满足资源请求<sup>12</sup> |  | 仅查看 | 仅查看 | 仅查看 | 是 |
+|管理资源的技能/熟练程度 |  | 仅查看 | 仅查看 | 是 | 是 |
 |路线图 | 构建跨项目（包括 web Microsoft Project Online、Microsoft Project 和 Azure Boards 项目的可视化交互式路线图。<sup>2 Project 计划 1</sup>你有权访问路线图的只读权限。 通过Project 计划 3或Project 计划 5，您还可以创建路线图。 | 仅查看 | 仅查看 | 是 | 是 |
 |**报告**<sup>3</sup> ||||||
 |从 Web *Project读取* 报告 | 查看开箱即用或自定义报表以及仪表板，以了解项目、计划、项目组合和资源数据。 | 是 | 是 | 是 | 是 |
@@ -157,7 +161,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |时间表审批 | 工作组成员可以提交时间表进行审批。 资源经理和主管可以审阅、批准或拒绝提交的时间表。 | 是 | 是 |
 |非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | 否 | 是 |
 |**协作** ||||
-|附件 | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
+|Attachments | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予他们查看项目、任务和文档的权限，与组织外部人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档中心。 | 是 | 是 |
 |Microsoft Teams集成 | 协作处理项目中Microsoft Teams。<sup>1</sup> | 是 | 是 |
@@ -195,12 +199,12 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 
 #### <a name="notes"></a>注释
 
-<sup>1</sup>需要Office或Microsoft 365订阅。</br>
-<sup>2</sup> Azure Boards单独获取。</br>
-<sup>3</sup>使用 Project 报告网页Project Online需要Power BI许可证Power BI许可证。</br>
-<sup>4</sup>构建和使用Power Apps访问 Web 或 Project Online 客户数据的 Project 的开箱即用 Project 应用程序之外的单独 Power Apps 订阅。</br>
-<sup>5</sup> 限制为 5 个自定义表。</br>
-<sup>6 Project Online</sup>用户的许可遵循与内部用户相同的策略。 网站的任何交互Project Online需要订阅Project 计划 3 Project 计划 5订阅。</br>
+<sup>1</sup>需要Office或Microsoft 365订阅。<br/>
+<sup>2</sup> Azure Boards单独获取。<br/>
+<sup>3</sup>使用 Project 报告网页Project Online需要Power BI许可证Power BI许可证。<br/>
+<sup>4</sup>构建和使用Power Apps访问 Web 或 Project Online 客户数据的 Project 的开箱即用 Project 应用程序之外的单独 Power Apps 订阅。<br/>
+<sup>5</sup> 限制为 5 个自定义表。<br/>
+<sup>6 Project Online</sup>用户的许可遵循与内部用户相同的策略。 网站的任何交互Project Online需要订阅Project 计划 3 Project 计划 5订阅。<br/>
 <sup>7</sup> Power Automate应用程序Project限于应用程序上下文Project。 这意味着，对于触发器和操作，包含在流Project可以：
 
 - 连接应用程序使用权限内的任何Project数据源：
@@ -208,11 +212,12 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
   - Project Microsoft Dataverse 连接器访问数据
 - 通过内置触发器/操作Project在 (应用程序内直接触发) 
 
-如果流是隔离的，并且与 Project 应用程序无关，则需要购买平台许可证。</br>
-<sup>8</sup>拥有订阅或Project 计划 3 Project 计划 5用户可以提交资源预订请求。 他们无法审阅、履行或批准资源参与请求。</br>
-<sup>9</sup>拥有资源预订Project 计划 5可以审阅、履行和批准资源预订请求。</br>
-<sup>10</sup> Active Directory 需要单独的订阅。 </br>
-<sup>11</sup> 仅从 Power App 内授予仅查看权利。 </br>
+如果流是隔离的，并且与 Project 应用程序无关，则需要购买平台许可证。<br/>
+<sup>8</sup>拥有订阅或Project 计划 3 Project 计划 5用户可以提交资源预订请求。 他们无法审阅、履行或批准资源参与请求。<br/>
+<sup>9</sup>拥有资源预订Project 计划 5可以审阅、履行和批准资源预订请求。<br/>
+<sup>10</sup> Active Directory 需要单独的订阅。 <br/>
+<sup>11</sup> 仅从 Power App 内授予仅查看权利。 <br/>
+<sup>12</sup>具有 Microsoft Project 计划 3/5 许可证 () 的客户只能使用通用资源计划在项目上下文中安排 Project 表和任务表。 <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online桌面客户端功能
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 Web 的工具集合，可帮助你跨多个设备和多个服务安全地进行协作Office 365通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074473"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275601"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -91,13 +91,9 @@ Microsoft 365中的组将用户与同事、信息和应用程序相连接，以�
 
 Microsoft Kaizala 是一款简单而安全的移动工作管理应用，为 Microsoft 365 提供了独特的功能，能够使用大型灵活的组类型与组织目录内外的人（包括合同工、供应商、合作伙伴、供应商、客户和公民）联系和[互动。](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Kaizala开放目录模型使基于电话号码的标识易于载入，并且为邮件和工作管理提供简单的用户体验。 利用 Kaizala 移动应用，用户可以发送即时消息和附件（如图片、文档、视频、音频文件等）以及将操作卡片用于调查、投票、工作分配、通知、培训等。 [Kaizala](https://products.office.com/en/business/microsoft-kaizala)适用于 iPhone 和 Android。 若要了解更多信息，请转到 Kaizala[网站](https://products.office.com/en/business/microsoft-kaizala)。
 
-## <a name="office-365-video"></a>Office 365 视频
-
-Office 365视频是公司范围内的安全目标，可在其中跨设备上载、共享和发现视频，由 Microsoft Azure 媒体服务。 Office 365 视频可帮助查看者参与其中且随时掌握最新资讯，从而广泛传播思想，并帮助组织保持一致。 若要了解详细信息，请参阅 [Introducing Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056)（Office 365 视频简介）。
-
 ## <a name="onenote-class-notebook"></a>OneNote 课堂笔记本
 
-课堂笔记本是课程OneNote，可用于 Office 365 教育版 和 Office 365 E5 教育版。 每个笔记本包括一个供教师共享课程内容的内容库、一个教师和学生可在其中协同工作的协作空间，以及一个针对每个学生的私人笔记本。 创建课堂笔记本后，教师和学生可以使用 OneNote应用从任何设备访问它。
+课堂笔记本是课堂OneNote的一部分，可用于Office 365 教育版Office 365 E5教育。 每个笔记本包括一个供教师共享课程内容的内容库、一个教师和学生可在其中协同工作的协作空间，以及一个针对每个学生的私人笔记本。 创建课堂笔记本后，教师和学生可以使用 OneNote应用从任何设备访问它。
 
 ## <a name="to-do"></a>待办事项
 
