@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解SharePoint独立Microsoft 365计划的限制。
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767472"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338335"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -50,7 +50,11 @@ ms.locfileid: "51767472"
 
 ### <a name="file-size-and-file-path-length"></a>文件大小和文件路径长度
 
-250 GB。 若要了解有关使用新的同步应用应用OneDrive限制 (OneDrive.exe) ，请参阅无效[的文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+- **250 GB - 文件上载限制。** 适用于上传到"文件"选项卡、SharePoint文档 Microsoft Teams库、OneDrive文件夹Yammer会话的每个单个文件。
+
+- **250 MB - 附加到列表项的文件。** 适用于 Microsoft 列表和SharePoint列表 - 两者基于同一列表平台。
+
+若要了解有关使用新的应用程序应用应用OneDrive 同步限制 (OneDrive.exe) ，请参阅无效[的文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
 ### <a name="moving-and-copying-across-sites"></a>跨网站移动和复制
 
