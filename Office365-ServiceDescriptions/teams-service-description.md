@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解跨Microsoft Teams计划提供的服务Microsoft 365 Office 365可用性。
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077516"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409679"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -21,13 +21,13 @@ Microsoft Teams是团队合作的中心Microsoft 365。 该服务Teams即时消�
 
 ## <a name="available-plans"></a>可用计划
 
-有关允许用户使用 Microsoft Bookings 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+有关允许用户使用 Microsoft Stream 的订阅的详细计划信息，请参阅 [完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划Microsoft Teams的主要功能。 有一些注意事项适用。 有关详细信息，请参阅脚注。 此表可能会更改，无需另行通知。 请参阅Microsoft 365服务更改消息的消息中心通知和[Microsoft 许可条款参考文档](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
+下表列出了跨计划Microsoft Teams的主要功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 请参阅Microsoft 365服务更改消息的消息中心通知和[Microsoft 许可条款参考文档](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
 
-| 功能 | 小型企业 | Enterprise计划 | GCC | GCC - 高 | DOD | 教育 |
+| 功能 | 小型企业 | Enterprise计划 | GCC | GCC - 高 | DOD | 教育版 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |聊天 |是 |是 |是 |是 |是 |是 |
 |Teams |是|是|是|是<sup>1</sup> |是<sup>1</sup> |是 |
@@ -38,7 +38,7 @@ Microsoft Teams是团队合作的中心Microsoft 365。 该服务Teams即时消�
 |音频PowerPoint视频桌面的屏幕共享|是 |是 |是 |是 |是 |是 |
 |语音 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
 |音频会议 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
-|应用、聊天机器人&连接器 |是 |是 |是<sup>5</sup> |是<sup>5</sup> |是<sup>4，5</sup> |是 |
+|应用、聊天机器人&连接器 |是 |是 |是<sup>5</sup> |是<sup>5</sup> |是<sup>4，5</sup> |是的。 |
 |实时事件 |否 |是 |是 |否<sup>6</sup> |否<sup>6</sup> |是 |
 
 <sup>1</sup> Microsoft Teams中GCC-High DOD 支持单个团队中的 2500 个成员。<br/>
@@ -52,7 +52,7 @@ Microsoft Teams是团队合作的中心Microsoft 365。 该服务Teams即时消�
 
 Skype for BusinessOnline 将于 2021 年 7 月 31 日停用，2019 年 7 月 30 日宣布。 [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams一项全新的服务，利用 Microsoft 的 Azure 和其他服务创新，从一开始为云构建。 Microsoft Teams构建于 Microsoft 365 组、Microsoft Graph 上，并且与其余组织具有相同的企业级安全性、合规性和可管理性Office 365。 Teams Azure AD Azure Active Directory (中存储的标识) 。 这些服务从 Microsoft 数据中心提供，用户可以从企业网络内部或 Internet 访问各种设备。 有关详细信息，请参阅 it[体系结构Microsoft Teams电话解决方案海报](/microsoftteams/teams-architecture-solutions-posters)。
 
-Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
 
 有关允许用户进行订阅的详细信息，Microsoft Teams完整[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关政府Office 365的其他信息，请参阅Office 365 政府版[计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)。 Office 365G1 至 G5 包括访问Teams功能。
 
@@ -74,12 +74,12 @@ Microsoft Teams不作为独立服务提供。
 
 ### <a name="licensing-terms"></a>许可条款
 
-有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>消息传递
 
-若要跟踪即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 
-Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
