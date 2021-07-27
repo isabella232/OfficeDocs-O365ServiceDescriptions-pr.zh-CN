@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了一个Office 365 US 政府计划 (Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699078"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537228"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -79,7 +79,7 @@ Office 365 政府版服务从物理上位于美国的数据中心提供。 下�
 > [!NOTE]
 > 对于一般用途，Skype for Business 不存储客户内容，但如果存储，内容会存储在美国的数据中心内。
 
-如果您的用户位于美国境内。 对 Web Office 使用 (Office（以前称为 Office Web Apps) ）或采用 Active Directory 联合身份验证服务 (AD FS) 2.0 并设置策略以帮助确保用户通过单一登录连接到服务，则临时缓存在 Office 网页中的客户内容将位于美国。
+如果用户位于美国境内，同时使用 Office 网页版 (以前称为 Office Web Apps) 或者采用 Active Directory 联合身份验证服务 (AD FS) 2.0 并设置策略以帮助确保您的用户通过单一登录连接到服务，则临时缓存在 Office 网页版 的任何客户内容都将位于美国。
 
 虽然根据合规性，SharePoint网站的网站使用率页面可用于政府版计划，但此页面的一些功能仅适用于商业客户。 若要了解更多信息，请参阅网站[中的网站SharePoint网站Microsoft 365。](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 
@@ -169,7 +169,7 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |功能|Office 365 政府版 G1|Office 365 政府版 G3|Office 365 政府版 G5|Office 365 政府版F3|
 |---|---|---|---|---|
 |**Office 365 管理**|||||
-|使用Microsoft 365管理中心管理Office 365|是<sup>16</sup>|是<sup>16</sup>|是|是<sup>16</sup>|
+|使用Microsoft 365 管理中心管理Office 365|是<sup>16</sup>|是<sup>16</sup>|是|是<sup>16</sup>|
 |从 Office 365 中管理核心服务设置|是|是|是|是|
 |使用 Windows PowerShell 管理 Office 365|是|是|是|是|
 |使用 Azure 信息保护保护内容|否<sup>1</sup>|是<sup>15</sup>|是<sup>15</sup>|否<sup>1</sup>|
@@ -288,7 +288,7 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 <br/><sup>5</sup> 若要了解如何为用户设置自助服务密码管理策略，请参阅 [管理 Azure AD 中的密码](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)。
 <br/><sup>6</sup> Office 365 只能有一个公共网站，除非你已升级旧版 Office 365。 如果已升级，可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。 若要详细了解如何处理商业版订阅的两个网站，请参阅 [处理两个 Office 365 公共网站](https://go.microsoft.com/fwlink/p/?LinkID=271589)。 如果有其他订阅，请参阅[在 Office 365 中了解合作伙伴网站托管和公共网站](https://go.microsoft.com/fwlink/p/?LinkID=325009)，详细了解公共网站。
 <br/><sup>7</sup> 减少按费用折扣购买的席位可能会导致提前终止费用。 这不适用于按月支付的订阅。
-<br/><sup>8</sup>以下计划不支持从管理中心Microsoft 365许可证席位更改：Office 365 政府版 G1、Office 365 政府版 G3、Office 365 政府版 F3。
+<br/><sup>8</sup>以下计划不支持更改许可证的许可证席位Microsoft 365 管理中心：Office 365 政府版 G1、Office 365 政府版 G3、Office 365 政府版 F3。
 <br/><sup>9</sup>尚未在 GCC High 中可用，但即将推出。
 <br/><sup>10</sup>对于 Office 365 政府版 G1、G3 和 F3，定向发布和适用于Office 365路线图适用;但是，由于合规性要求，特定服务更新可能有一些[差异或延迟](https://www.microsoft.com/trust-center)。
 <br/><sup>11</sup>尚不可用于Office 365 政府版产品/服务，但即将推出。
@@ -360,7 +360,7 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |批量激活 (KMS/MAK)|否|否|否|否|
 
 > <sup>1</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，但 F3 中不包含Office 365 政府版 G1 Office 365 政府版订阅。
-<br/><sup>2 Windows</sup>服务器 AD RMS 是一种本地服务器，必须单独购买和管理，才能启用受支持的 IRM 功能。
+<br/><sup>2 Windows Server AD</sup> RMS 是必须单独购买和管理以启用支持的 IRM 功能本地服务器。
 <br/><sup>3</sup> Skype for Business基本版可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup>在高GCC DoD 环境中尚不可用，但即将推出。
 <br/><sup>5</sup> [请参阅 Outlook for iOS 和 政府社区云中的适用于 iOS](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)和 Android 的更多详细信息。
@@ -371,87 +371,87 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 
 以下Office应用程序在政府云中可用;但是，某些基于云的功能当前可能不可用，如表所示。<br><br>
 
-|应用程序/功能|GCC|GCC 高|DOD|
-|---|---|---|---|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)在政府云中完全可用，但以下功能目前不可用： ||||
-|3D 嵌入式动画和 3D 模型|否|否|否|
-|数据类型|否|否|否|
-|快速填充|否|否|否|
-|Insight Services (的想法) |否|否|否|
-|改进了与自定义Power BI (的集成，直接从自定义视觉对象创建 PBI Excel) |否|否|否|
-|智能数字墨迹|否|否|否|
-|Office 365 组|否|否|否|
-|连接到数据透视表的数据透视图数据|否|否|否|
-|PowerPivot|否|否|否|
-|发布到 Power BI|否|否|否|
-|实时协作 (状态、常规共同授权、文档内聊天) |否|否|否|
-|已与我共享|否|否|否|
-|智能查找|否|否|否|
-|图表：爆炸树图、瀑布图、直方图、地图、日程表、漏斗|否|否|否|
-|版本历史记录|否|否|否|
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)在政府云中完全可用，但以下功能目前不可用：|**GCC**|**GCC 高**|**DOD**|
-|电子邮件通知|否<sup>1</sup>|否<sup>1</sup>|否|
-|插入图片|否<sup>1</sup>|否<sup>1</sup>|否|
-|插入视频|否<sup>1</sup>|否<sup>1</sup>|否|
-|数学|否<sup>1</sup>|否<sup>1</sup>|否|
-|Office集成|否<sup>1</sup>|否<sup>1</sup>|否|
-|最近的组表单|否<sup>4</sup>|是|是|
-|外部共享<sup>3</sup>|是|否|否|
-|表单Pro|否|否|否|
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府云中完全可用，但以下功能目前不可用： |**GCC**|**GCC 高**|**DOD**|
-|研究工具|否|否|否|
-|智能数字墨迹|否|否|否|
-|向用户发送电子邮件OneNote (me@onenote.com) |否|否|否|
-|Web Clipper|否|否|否|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府云中完全可用，以下功能除外，这些功能并非在所有政府云中可用，如下表所示。|**GCC**|**GCC 高**|**DOD**|
-|Office () |否|否|否|
-|动态数据Exchange (DDE) 默认情况下处于禁用状态|否|否|否|
-|语音听写|是|是|否<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)在政府云中完全可用，但以下功能除外，这些功能并非在所有政府云中可用，如下表所示。|**GCC**|**GCC 高**|**DOD**|
-|智能查找|否|否|否|
-|Office () |否|否|否|
-|3D 模型和 3D 嵌入动画|否|否|否|
-|图表：地图|否|否|否|
-|智能数字墨迹|否|否|否|
-|实时字幕和字幕PowerPoint|是|是|否|
-|实时演示文稿|否|否|否|
-|沉浸式阅读器|否|否|否|
-|演示者指导|否|否|否|
-|已与我共享|否|否|否|
-|Skype for Business共享集成|否|否|否|
-|版本历史记录|否|否|否|
-|Office 365 组|否|否|否|
-|实时协作 (状态、常规共同授权、文档内聊天) |否|否|否|
-|语音听写|是|是|否<sup>1</sup>|
-|重复使用幻灯片|否|否|否|
-|**Microsoft Whiteboard** 云中的云解决方案目前仅在中心客户端上可用，在桌面上不可用。|**GCC**<sup>2</sup>|**GCC高**<sup>2</sup>|**DOD**<sup>2</sup>|
-|插入便笺、文本和图像|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|墨迹到形状和墨迹到表格|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|墨迹化|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|将图像转换为墨迹|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|辅助功能检查器|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
-|动态模板 (看板、SWOT 等) |否|否|否|
-|实时协作|否|否|否|
-|实时状态|否|否|否|
-|对内容的反应|否|否|否|
-|白板的板库，包括与您共享的白板|否|否|否|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)在政府云中完全可用，以下功能除外，并非所有政府云中都提供这些功能，如下表所示。|**GCC**|**GCC 高**|**DOD**|
-|智能查找|否|否|否|
-|研究工具|否|否|否|
-|Office声音|否|否|否|
-|3D 模型|否|否|否|
-|3D 嵌入式动画|否|否|否|
-|点击|否|否|否|
-|简历助手|否|否|否|
-|地图图表|否|否|否|
-|智能数字墨迹|否|否|否|
-|已与我共享|否|否|否|
-|转换|是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|
-|Skype for Business共享集成|否|否|否|
-|版本历史记录|否|否|否|
-|Office 365 组|否|否|否|
-|与合著者进行上下文聊天：与文档中共同创作者聊天|否|否|否|
-|语音听写|是|是|否<sup>1</sup>|
+|应用程序/功能|辅助功能|GCC|GCC 高|DOD|
+|---|---|---|---|---|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel)在政府云中完全可用，但以下功能目前不可用： |||||
+|3D 嵌入式动画和 3D 模型|是|否|否|否|
+|数据类型||否|否|否|
+|快速填充||否|否|否|
+|Insight Services (的想法) |是|否|否|否|
+|改进了与自定义Power BI (的集成，直接从自定义视觉对象创建 PBI Excel) ||否|否|否|
+|智能数字墨迹|是|否|否|否|
+|Office 365 组||否|否|否|
+|连接到数据透视表的数据透视图数据||否|否|否|
+|PowerPivot||否|否|否|
+|发布到 Power BI||否|否|否|
+|实时协作 (状态、常规共同授权、文档内聊天) |Some|否|否|否|
+|已与我共享||否|否|否|
+|智能查找|是|否|否|否|
+|图表：爆炸树图、瀑布图、直方图、地图、日程表、漏斗||否|否|否|
+|版本历史记录|是|否|否|否|
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c)在政府云中完全可用，但以下功能目前不可用：||**GCC**|**GCC 高级**|**DOD**|
+|电子邮件通知||否<sup>1</sup>|否<sup>1</sup>|否|
+|插入图片||否<sup>1</sup>|否<sup>1</sup>|否|
+|插入视频||否<sup>1</sup>|否<sup>1</sup>|否|
+|数学||否<sup>1</sup>|否<sup>1</sup>|否|
+|Office集成||否<sup>1</sup>|否<sup>1</sup>|否|
+|最近的组表单||否<sup>4</sup>|是|是|
+|外部共享<sup>3</sup>||是|否|否|
+|表单Pro||否|否|否|
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府云中完全可用，但以下功能目前不可用： ||**GCC**|**GCC 高级**|**DOD**|
+|研究工具|是|否|否|否|
+|智能数字墨迹|是|否|否|否|
+|向用户发送电子邮件OneNote (me@onenote.com) |是|否|否|否|
+|Web Clipper||否|否|否|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府云中完全可用，以下功能除外，这些功能并非在所有政府云中可用，如下表所示。||**GCC**|**GCC 高级**|**DOD**|
+|Office () |是|否|否|否|
+|动态数据Exchange (DDE) 默认情况下处于禁用状态||否|否|否|
+|语音听写|是|是|是|否<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)在政府云中完全可用，但以下功能除外，这些功能并非在所有政府云中可用，如下表所示。||**GCC**|**GCC 高级**|**DOD**|
+|智能查找|是|否|否|否|
+|Office () ||否|否|否|
+|3D 模型和 3D 嵌入动画||否|否|否|
+|图表：地图||否|否|否|
+|智能数字墨迹|是|否|否|否|
+|实时字幕和字幕PowerPoint|是|是|是|否|
+|实时演示文稿||否|否|否|
+|沉浸式阅读器|是|否|否|否|
+|演示者指导|是|否|否|否|
+|已与我共享||否|否|否|
+|Skype for Business共享集成||否|否|否|
+|版本历史记录|是|否|否|否|
+|Office 365 组||否|否|否|
+|实时协作 (状态、常规共同授权、文档内聊天) |Some|否|否|否|
+|语音听写|是|是|是|否<sup>1</sup>|
+|重复使用幻灯片||否|否|否|
+|**Microsoft Whiteboard** 云中的云解决方案目前仅在中心客户端上可用，在桌面上不可用。||**GCC**<sup>2</sup>|**GCC高**<sup>2</sup>|**DOD**<sup>2</sup>|
+|插入便笺、文本和图像||是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|墨迹到形状和墨迹到表格|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|墨迹化|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|将图像转换为墨迹|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|辅助功能检查器|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
+|动态模板 (看板、SWOT 等) |是|否|否|否|
+|实时协作|是|否|否|否|
+|实时状态|是|否|否|否|
+|对内容的反应|是|否|否|否|
+|白板的板库，包括与您共享的白板||否|否|否|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)在政府云中完全可用，以下功能除外，并非所有政府云中都提供这些功能，如下表所示。||**GCC**|**GCC 高级**|**DOD**|
+|智能查找|是|否|否|否|
+|研究工具|是|否|否|否|
+|Office声音||否|否|否|
+|3D 模型||否|否|否|
+|3D 嵌入式动画||否|否|否|
+|点击||否|否|否|
+|简历助手|是|否|否|否|
+|地图图表||否|否|否|
+|智能数字墨迹|是|否|否|否|
+|已与我共享||否|否|否|
+|转换||是<sup>5</sup>|是<sup>5</sup>|是<sup>5</sup>|
+|Skype for Business共享集成||否|否|否|
+|版本历史记录|是|否|否|否|
+|Office 365 组||否|否|否|
+|与合著者进行上下文聊天：与文档中共同创作者聊天||否|否|否|
+|语音听写|是|是|是|否<sup>1</sup>|
 
 有关功能可用性Microsoft Teams/GCC/GCC/DoD 中，请访问Microsoft Teams[服务说明。](../../teams-service-description.md)
 > <sup>1</sup> 可用性即将提供。

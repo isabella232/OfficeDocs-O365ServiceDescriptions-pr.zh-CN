@@ -10,25 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: 安全 &amp; 与合规中心旨在帮助你管理组织中跨Office 365合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798458"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537208"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-安全[ &amp; 与合规](https://protection.office.com/)中心旨在帮助你管理组织中跨Office 365合规性功能。 Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+[Microsoft 365](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx)安全中心[、Microsoft 365 合规中心](https://sip.security.microsoft.com/homepage)和 Exchange 管理中心在设计时牢记辅助功能[](https://sip.compliance.microsoft.com/homepage)和可用性，包括现有功能和针对跨 Microsoft 365 服务的统一安全、合规性和邮件流管理的新增强体验。 这些新中心将逐渐取代Office 365 &amp; 合规中心 (protection.office.com) 。 现在可以在安全中心或合规中心启用自动重定向[](https://sip.security.microsoft.com/homepage)，以便你的[](https://sip.compliance.microsoft.com/homepage)组织的管理员立即从 Office 365 安全与合规中心的功能重定向到新中心中的相应 &amp; 功能。
 
 若要查看允许用户从合规性功能Microsoft 365的选项，请下载比较Microsoft 365[表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>适用于 &amp; 企业计划的安全与合规中心可用性
 
-| 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365E1、Office 365美国政府 G1 | Office 365E3、Office 365美国政府版 G3 | Office 365 E5 |Office 365G5 | Office 365F3、Office 365美国政府 F3|
+| 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1，Office 365美国政府 G1 | Office 365 E3、Office 365美国政府版 G3 | Office 365 E5 |Office 365G5 | Office 365F3、Office 365美国政府 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[访问安全 &amp; 与合规中心](/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](/cloud-app-security/what-is-cloud-app-security) | 否 | 否 |否 | 否 | 否 | 是 | 是  |   |
@@ -100,7 +97,7 @@ ms.locfileid: "52798458"
 
 <sup>4</sup> Skype对话存储为邮箱的一部分。
 
-<sup>5</sup> Advanced eDiscovery需要Office 365 E5 或附加许可证。
+<sup>5</sup> Advanced eDiscovery许可证Office 365 E5许可证或附加许可证。
 
 <sup>6 Skype</sup>存档位于用户邮箱内。
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了政府Microsoft 365并介绍了购买选项。
-ms.openlocfilehash: f2519466b8037a7ab3871fe924c65fbd84b1ebb1
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545930"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537238"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府 - 如何购买
 
@@ -136,24 +136,34 @@ GCC高GCC产品/服务都适用于任何有资格使用 Microsoft 政府云的�
 - Accenture Federal Services， LLC
 - 敏捷 IT， Inc.
 - Applied Information Sciences， Inc.
+- Booz Hamilton Hamilton， Inc.
 - C3 集成解决方案
 - CACI
 - Carahsoft
+- CyberSheath Services International， LLC
 - CGI Federal Inc.
 - 中国网络
 - Dox Electronics Inc.
+- 启发 IT 咨询，LLC
 - F1 Solutions Inc.
 - 四点技术、LLC
 - General Dynamics Information Technology， Inc.
 - Imager Software， Inc. d.b.a ISC
+- 一家美国百万企业
 - Jackpine
 - Jasper
+- Johnson Technology Systems， Inc.
+- 则由 It， Inc.
 - KTL Solutions， Inc.
 - LiftOff、LLC
+- ManTech Advanced Systems International， Inc.
+- NIMBUS 逻辑、LLC
 - Northrop
 - Nove一
+- Perspecta Enterprise 解决方案 LLC
 - 美国技术公司
 - Quiet Professionals， LLC
+- R3、LLC
 - Red River
 - SAIC
 - Smartronix
@@ -171,7 +181,7 @@ GCC高GCC产品/服务都适用于任何有资格使用 Microsoft 政府云的�
 - [Office 365。](https://aka.ms/gcctrial) 仅组织提供为期一个月的免费GCC试用版。  
 - Microsoft 不会向商业客户提供 Office 365 GCC 试用版，并且没有 GCC DoD 试用版。
 
-## <a name="where-can-i-learn-more"></a>在哪儿可以了解更多信息？
+## <a name="where-can-i-learn-more"></a>我在哪里可以了解更多信息？
 
 请参阅以下资源，了解有关政府Microsoft 365信息。
 

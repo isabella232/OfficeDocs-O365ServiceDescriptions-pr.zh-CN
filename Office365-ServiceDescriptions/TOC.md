@@ -81,6 +81,7 @@
 ## [工作区分析服务说明](workplace-analytics-service-description.md)
 ## [MyAnalytics 服务说明](mya-service-description.md)
 ## [Power BI 服务说明](power-bi-service-description.md)
+## [Microsoft Planner 服务说明](project-online-service-description/microsoft-planner-service-description.md)
 ## [Microsoft 项目服务说明](project-online-service-description/project-online-service-description.md)
 ### [核心功能](project-online-service-description/core-functionality.md)
 ### [项目规划](project-online-service-description/project-planning.md)

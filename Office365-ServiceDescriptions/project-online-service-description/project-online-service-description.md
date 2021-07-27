@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290852"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537258"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -197,7 +197,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |用户管理 | 在项目、团队和组织级别管理用户和组角色及权限。 | 否 | 是 |
 |服务管理 | 规划、安装和配置、维护和扩展 Microsoft Project 环境，作为 Office 365<sup>1 环境的</sup>一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>注释
+#### <a name="notes"></a>注意
 
 <sup>1</sup>需要Office或Microsoft 365订阅。<br/>
 <sup>2</sup> Azure Boards单独获取。<br/>
@@ -258,7 +258,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |排序和分组 | 使用自定义排序和分组获取项目、任务和资源的重点视图。|
 |**自定义和集成**||
 |自定义域 | 在项目、任务和资源级别添加自定义域，以跟踪对您的组织和项目非常重要的数据。 |
-|Forms | 创建和部署自定义表单以捕获重要的项目数据。 |
+|表单 | 创建和部署自定义表单以捕获重要的项目数据。 |
 |公式 | 使用跨任务和项目的公式计算和捕获重要数据。 |
 |模板 | 为常见项目（包括项目计划、工作组和工作分配）创建模板。 |
 |.mpp 导入/导出 | 从现有 .mpp 文件创建新项目或创建现有项目的 .mpp 文件。 |
@@ -298,6 +298,8 @@ For Project Customers with five (5) or more Project for the web licenses， Proj
 | Dataverse 日志：包含/租户                                     | 2 GB        | 2 GB        | 2 GB        |
 | Dataverse 文件：包含/租户                                    | 20 GB       | 20 GB       | 20 GB       |
 | Dataverse 文件：Accrued/USL                                        | 400 MB      | 2 GB        | 2 GB        |
+
+除了授权 Dataverse 存储容量Project还有额外的 Microsoft 订阅。 有关其他 Dataverse 存储容量权利，请参阅[Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409)许可指南和[Power Apps、Power Automate 和 Power Virtual Agents](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409)许可指南。
 
 ### <a name="data-backup-and-retention"></a>数据备份和保留
 
