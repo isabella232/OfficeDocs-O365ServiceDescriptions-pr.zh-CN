@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了政府Microsoft 365并介绍了购买选项。
-ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537238"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661630"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府 - 如何购买
 
@@ -140,16 +140,16 @@ GCC高GCC产品/服务都适用于任何有资格使用 Microsoft 政府云的�
 - C3 集成解决方案
 - CACI
 - Carahsoft
-- CyberSheath Services International， LLC
 - CGI Federal Inc.
 - 中国网络
+- CyberSheath Services International， LLC
 - Dox Electronics Inc.
 - 启发 IT 咨询，LLC
 - F1 Solutions Inc.
 - 四点技术、LLC
 - General Dynamics Information Technology， Inc.
-- Imager Software， Inc. d.b.a ISC
 - 一家美国百万企业
+- Imager Software， Inc. d.b.a ISC
 - Jackpine
 - Jasper
 - Johnson Technology Systems， Inc.

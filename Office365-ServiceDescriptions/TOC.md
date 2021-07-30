@@ -96,6 +96,7 @@
 ## [Visio 网页版服务说明](visio-online-service-description/visio-online-service-description.md)
 ### [Visio 功能详细信息](visio-online-service-description/visio-features.md)
 ## [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
+### 在 Yammer 中[Limits](yammer-service-description/yammer-limits.md)
 ### [Yammer 中的组功能](yammer-service-description/group-features-in-yammer.md)
 ### [Yammer 中的个人资料功能](yammer-service-description/profile-features-in-yammer.md)
 ### [Yammer 中的消息和对话功能](yammer-service-description/message-and-conversation-features-in-yammer.md)

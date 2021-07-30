@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI是一套基于云的业务分析工具，任何人都可以以更快速、高效和更好的理解方式连接、可视化和分析数据。 通过简单易用的仪表板将用户连接到各种实时数据，提供交互式报表，并提供极具吸引力的可视化效果，使数据更加生动。
-ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906738"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661610"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服务说明
 
@@ -33,7 +33,7 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划Power BI的主要可用功能。 有一些注意事项适用。 有关详细信息，请参阅脚注。 此表可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅Power BI[定价](https://powerbi.microsoft.com/pricing/)。
+下表列出了跨计划Power BI的主要可用功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关最新、完整的功能列表，请参阅Power BI[定价](https://powerbi.microsoft.com/pricing/)。
 
 | 功能 | Power BI Pro | Power BI Premium Per User | Power BI Premium容量 |
 |---------|--------------|---------------------------|-------------------------------|
@@ -57,7 +57,7 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 | **治理和管理** | | | |
 | 数据安全性和加密 | 是 | 是 | 是 |
 | 内容创建、使用和发布的指标 | 是 | 是 | 是 |
-| 应用程序生命周期管理 | 否 | 否 | 是 |
+| 应用程序生命周期管理的部署管道 | 否 | 否 | 是 |
 | 多地理位置部署管理 | 否 | 否 | 是 |
 | 将你自己的密钥 (BYOK)  | 否 | 否 | 是 |
 | 自动缩放加载项可用性 (预览)  | 否 | 否 | 是 |
@@ -77,12 +77,12 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 
 ### <a name="licensing-terms"></a>许可条款
 
-有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。 
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/licensing/terms/)。 
 
 ### <a name="messaging"></a>消息传递
 
-若要跟踪即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 
-Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
