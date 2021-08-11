@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: 本文介绍可供 EOP 管理员Microsoft Exchange Online EOP (管理) 接口。
-ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 19c0c535e642d6f5d83d9ae69b04ee364c6f7716facbedd18677f3c3702c1554
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653064"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664565"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>管理中的Exchange Online Protection
 
@@ -27,7 +27,7 @@ ms.locfileid: "51653064"
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>访问 Microsoft 365 管理中心
 
-管理Microsoft 365中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个Microsoft 服务和设置。 在管理Microsoft 365内，管理员可以访问指向 EAC 的链接，可以在其中管理特定于 EOP 的设置。
+Microsoft 365 管理中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个 Microsoft 服务用户帐户和设置。 管理员可以从 Microsoft 365 管理中心访问 EAC 的链接，可以在其中管理特定于 EOP 的设置。
   
 ## <a name="access-to-the-exchange-admin-center"></a>对 Exchange 管理中心的访问权限
 

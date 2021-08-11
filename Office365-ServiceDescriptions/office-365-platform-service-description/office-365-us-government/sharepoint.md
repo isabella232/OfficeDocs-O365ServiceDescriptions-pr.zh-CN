@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 了解美国政府SharePoint客户使用的功能可用性。
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900772"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701821"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint美国政府环境
 
@@ -39,7 +39,7 @@ ms.locfileid: "51900772"
 商业客户的开发人员功能与政府云客户的开发人员功能之间没有已知的差异。
 
 - 与外部应用程序（如外接程序的数据源）的连接仅限于位于政府环境支持的系统安全边界内的源。
-- Business Connectivity Services (BCS) 功能支持连接方案，其中数据源在云服务的安全边界内仍然可用。
+- 业务连接服务 (BCS) 支持连接方案，其中数据源在云服务的安全边界内仍然可用。
 
 如果网站上使用第三方应用程序，请查看第三方在评估这些服务对组织的适当使用时提供的隐私和合规性声明。 第三方应用程序和服务可能涉及在政府云外部的第三方系统上存储、传输和处理组织的客户数据，因此其合规性和数据保护承诺未涵盖这些数据。 
 
@@ -53,7 +53,7 @@ ms.locfileid: "51900772"
 - Mover.io 尚不支持
 - 多地理位置并非适用于所有政府云客户
 
-有关 FastTrack 迁移的信息，请参阅[Office 365 美国政府服务说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
+有关迁移FastTrack，请参阅美国政府Office 365[说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
 
 ## <a name="security-and-compliance-features"></a>安全性和合规性功能
 
@@ -81,7 +81,7 @@ ms.locfileid: "51900772"
 
 以下是商业客户搜索功能与政府云客户搜索功能之间的差异：
 
-- Microsoft 搜索在 GCC 中不可用。
+- Microsoft 搜索中不可用GCC。
 
 ## <a name="sharing-and-sync"></a>共享和同步
 
@@ -94,5 +94,5 @@ ms.locfileid: "51900772"
 ## <a name="deploy-sharepoint-for-collaboration"></a>部署SharePoint进行协作
 
 在 Microsoft 美国政府云中设置组织后，按照应用资源中心 中概述的建议SharePoint[部署路径](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)。 请务必与采用和变更管理冠军合作。
-还可以与 [FastTrack](https://www.microsoft.com/fasttrack) 或所选的合作伙伴合作，向用户推出服务。
+此外，还可与[FastTrack](https://www.microsoft.com/fasttrack)合作伙伴合作，向用户推出服务。
 访问 [Microsoft 信任中心](https://www.microsoft.com/trust-center) ，详细了解 Microsoft 如何处理安全、隐私和合规性，以及我们如何授权组织为客户提供服务的核心原则。

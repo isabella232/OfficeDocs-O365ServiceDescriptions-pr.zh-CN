@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 比较 web Visio 中的功能与 Visio 桌面应用。
-ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095556"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702421"
 ---
 # <a name="visio-service-description"></a>Visio服务说明
 
@@ -29,7 +29,7 @@ ms.locfileid: "53095556"
   
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了 Web 和桌面Visio提供的主要功能。 有一些注意事项适用。 有关详细信息，请参阅脚注。 此表可能会更改，无需另行通知。 有关跨计划提供最新、完整功能Visio，请参阅[比较Visio选项。](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
+下表列出了 Web 和桌面Visio提供的主要功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关跨计划提供最新、完整功能Visio，请参阅[比较Visio选项。](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
 
 | 应用程序功能 | Visio 网页版 | Visio桌面应用程序 |
 |:-----|:-----|:-----|
@@ -84,12 +84,12 @@ ms.locfileid: "53095556"
 
 ### <a name="licensing-terms"></a>许可条款
 
-有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/licensing/terms/)。
 
 ### <a name="messaging"></a>消息传递
 
-若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 
-Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

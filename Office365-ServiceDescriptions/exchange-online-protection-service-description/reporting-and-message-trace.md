@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的报告和邮件) 。
-ms.openlocfilehash: 383c222563e76d4a5613c9faac5b68417fa64b8a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653124"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664075"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Exchange Online Protection 中的报告和邮件跟踪
 
-Microsoft Exchange Online Protection (EOP) 提供许多不同的报告，可帮助您确定组织的总体状态和运行状况。 某些报告在管理中心Microsoft 365，而其他报告在 EAC Exchange管理中心 () 。
+Microsoft Exchange Online Protection (EOP) 提供许多不同的报告，可帮助您确定组织的总体状态和运行状况。 某些报告在 EAC Microsoft 365 管理中心中Exchange， (EAC) 。
 
 要查找有关 EOP 所有功能的信息吗？ 请参阅Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
 
 ## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 管理中心报告
 
-Microsoft 365 管理中心中的"报告"页提供了有关邮件通信、垃圾邮件和恶意软件检测以及受邮件流规则影响的邮件的信息 (也称为传输规则) 或数据丢失防护 (DLP) 策略。 有关保护、规则和 DLP 的增强报告为 EOP 管理员提供了交互式报告体验。 这些报告提供了摘要数据，以及深入了解各个邮件详细信息的功能。
+Microsoft 365 管理中心 中的"报告"页提供了有关邮件通信、垃圾邮件和恶意软件检测以及受邮件流规则影响的邮件的信息 (也称为传输规则) 或数据丢失防护 (DLP) 策略。 有关保护、规则和 DLP 的增强报告为 EOP 管理员提供了交互式报告体验。 这些报告提供了摘要数据，以及深入了解各个邮件详细信息的功能。
 
 有关这些报告的更多详细信息，请参阅使用邮件 [保护报告查看有关恶意软件、垃圾邮件和规则检测的数据](/exchange/monitoring/use-mail-protection-reports)。
 

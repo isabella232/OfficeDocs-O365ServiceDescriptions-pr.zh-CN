@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国联邦、州、地方、地方、地区或地区政府实体或其他处理受政府法规和要求（如果适合使用 Microsoft 365 政府版 - GCC 以满足这些要求的实体）中部署 Office 365 的 IT 专业人员。
-ms.openlocfilehash: d3be49d3171e07cfc11e6d6924a8b5ec2395d920
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: 44dd4a10560fb5bd0d1c0f36f3290b621798d03d390573d789b99d62047bad1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001898"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663265"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>规划Microsoft 365合规性 – GCC
 
@@ -65,7 +65,7 @@ ms.locfileid: "52001898"
 
 为了适应政府云客户的要求，政府版政府计划与企业Microsoft 365计划GCC存在一些差异。 请参阅下表，了解哪些功能可用。 有关[在](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)Microsoft 365 路线图上发布的最新合规性产品更新，请参阅此处。<br><br>
 
-| 领域 | 功能 | GCC状态 |
+| 区域 | 功能 | GCC状态 |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **信息保护**              | 统一标记客户端和扫描程序         | 可用              |
 |                                         | 精确数据匹配          | 可用              |
@@ -89,18 +89,18 @@ ms.locfileid: "52001898"
 | 数据丢失防护                    | 警报仪表板 | 开发中 |
 | 数据丢失防护                    | “概述”页 | 开发中 |
 | **信息治理** | 保留和标记策略的自适应范围                 | 工程积压工作              |
-| 信息管理政策                 | 电子邮件存档          | 可用              |
-| 信息管理政策                 | 文档、文档SharePoint、OneDrive for Business文件夹和文档集的默认保留标签;Exchange收件箱;和 Office 365 组          | 可用              |
-| 信息管理政策                 | 导入 PST                      | 可用              |
-| 信息管理政策                 | 手动非记录保留标签            | 可用 |
-| 信息管理政策                 | 保留锁定            | 可用 |
-| 信息管理政策                 | 整个组织的保留策略;特定位置或用户;根据特定条件自动 (，例如关键字或敏感信息) ;和 基于事件                                       | 可用              |
-| 信息管理政策                 | 保留策略Teams                            | 可用 |
-| 信息管理政策                 | 用于会议录制Teams策略                            | 开发中 |
-| 信息管理政策                 | 私人频道Teams策略                            | 工程积压工作 |
-| 信息管理政策                 | 共享频道Teams策略                            | 工程积压工作 |
-| 信息管理政策                 | 具有可训练分类器保留策略                            | 工程积压工作 |
-| 信息管理政策                 | 保留策略Yammer                            | 工程积压工作 |
+| 信息治理                 | 电子邮件存档          | 可用              |
+| 信息治理                 | 文档、文档SharePoint、OneDrive for Business文件夹和文档集的默认保留标签;Exchange收件箱;和 Office 365 组          | 可用              |
+| 信息治理                 | 导入 PST                      | 可用              |
+| 信息治理                 | 手动非记录保留标签            | 可用 |
+| 信息治理                 | 保留锁定            | 可用 |
+| 信息治理                 | 整个组织的保留策略;特定位置或用户;根据特定条件自动 (，例如关键字或敏感信息) ;和 基于事件                                       | 可用              |
+| 信息治理                 | 保留策略Teams                            | 可用 |
+| 信息治理                 | 用于会议录制Teams策略                            | 开发中 |
+| 信息治理                 | 私人频道Teams策略                            | 工程积压工作 |
+| 信息治理                 | 共享频道Teams策略                            | 工程积压工作 |
+| 信息治理                 | 具有可训练分类器保留策略                            | 工程积压工作 |
+| 信息治理                 | 保留策略Yammer                            | 工程积压工作 |
 | 记录管理                     | 删除记录标签的能力                           | 开发中              |
 | 记录管理                     | 手动应用记录标签                            | 可用              |
 | 记录管理                     | 将默认记录标签应用于SharePoint、OneDrive for Business库、文件夹和文档集;和 Office 365 组                              | 可用              |
@@ -115,7 +115,7 @@ ms.locfileid: "52001898"
 | 记录管理                     | 处置证明                            | 可用 |
 | 记录管理                     | 记录版本控制                            | 可用 |
 | 记录管理                     | 法规记录                         | 可用 |
-| 记录管理                     | 使用SharePoint分类应用记录标签 | 工程积压工作 |
+| 记录管理                     | 使用SharePoint Syntex分类应用记录标签 | 工程积压工作 |
 | **内部风险管理**             | 客户密码箱                                | 可用            |
 | 通信合规性                | 忽略电子邮件签名或免责声明的能力                         | 开发中 |
 | 通信合规性                | 为通信合规性策略设置保留期的能力                         | 开发中 |
@@ -140,7 +140,7 @@ ms.locfileid: "52001898"
 | 客户密码箱                | 客户密码箱                         | 可用 |
 | 信息屏障                | 信息屏障                         | 可用 |
 | 内部风险管理             | 案例仪表板                         | 可用 |
-| 内部风险管理             | 通过离职用户窃取数据                        | 可用 |
+| 内部风险管理             | 离职用户窃取数据                        | 可用 |
 | 内部风险管理             | 内部版本 1809 Windows 10上活动的设备指示器                        | 工程积压工作 |
 | 内部风险管理             | 升级以进行调查Advanced eDiscovery                        | 可用 |
 | 内部风险管理             | 导出警报                        | 工程积压工作 |

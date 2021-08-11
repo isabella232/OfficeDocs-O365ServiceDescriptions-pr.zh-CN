@@ -7,29 +7,29 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: 了解跨符合条件的 SharePoint、Microsoft 365、Office 365 和 SharePoint Online 计划中提供的主要合成SharePoint功能。
-ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: 了解符合条件的 SharePoint Syntex、Microsoft 365、Office 365 和 SharePoint Online 计划中提供的主要SharePoint功能。
+ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651027"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702521"
 ---
 # <a name="sharepoint-syntex-features"></a>SharePoint Syntex 功能 
 
-以下各节介绍了适用于[SharePoint](sharepoint-syntex-service-description.md) Online 计划Microsoft 365、Office 365和SharePoint合成功能。 可用功能可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅"SharePoint[和定价"页](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
+以下各节介绍符合条件的[](sharepoint-syntex-service-description.md)SharePoint Syntex、Microsoft 365、Office 365 和 SharePoint Online 计划中提供的主要SharePoint功能。 可用功能可能会更改，无需另行通知。 有关最新、完整的功能列表，请参阅SharePoint Syntex[计划和定价页面](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)。
 
 ## <a name="syntex-content-center"></a>合成内容中心
 
 Syntex 提供了一个称为内容中心的网站模板，用于大规模管理内容、集成元数据和工作流以及 &mdash;  &mdash; 提供合规性自动化。 内容中心提供的功能可以指导云如何以手动方式读取和处理文档。 Syntex 使用这些见解自动识别内容、提取重要信息并应用元数据标记。 此外，您还可以使用集成的可视化分析跟踪模型的有效性。
 
-若要了解有关内容中心以及如何创建它们，请参阅在[Syntex](/microsoft-365/contentunderstanding/create-a-content-center)中SharePoint中心。
+若要了解有关内容中心以及如何创建它们，[请参阅在内容](/microsoft-365/contentunderstanding/create-a-content-center)中心SharePoint Syntex。
 
 ## <a name="object-recognition"></a>对象识别
 
 Syntex 可以使用包含成千上万个常见识别对象的新视觉字典自动标记图像。 此外，Syntex 可以识别手写文本并将其转换为标记，供搜索和进一步处理使用。
 
-若要了解有关 Syntex 中的对象识别以及如何配置图像标记，请参阅 Syntex 中的图像[SharePoint标记](/microsoft-365/contentunderstanding/image-tagging)。
+若要了解有关 Syntex 中的对象识别以及如何配置图像标记的更多信息，请参阅图像标记[SharePoint Syntex。](/microsoft-365/contentunderstanding/image-tagging)
 
 ## <a name="document-understanding"></a>文档理解
 
@@ -49,7 +49,7 @@ Syntex 包括基于 AI 生成器的强大表单处理引擎，可让你自动识
 
 Syntex 使用 Microsoft Graph 连接器将文件共享、Azure SQL 或第三方源（如 Box 和 IBM FileNet）集成到 Microsoft Graph 中，使其在整个 Microsoft 365 中可搜索 &mdash; &mdash; 和可用。
 
-使用 Microsoft Graph连接器，客户可以索引外部存储库中的项目，以包含在 Microsoft 搜索结果中。 Microsoft 365 E5和 Office 365 E5 包括使用 Microsoft Graph 搜索连接器（不包括在 A5 (中）对最多 500 个项目编制) 。 具有套件或独立许可证（包括 SharePoint 或 OneDrive 计划）的任何用户都可以看到来自 Microsoft 搜索Graph连接器的搜索结果。
+使用 Microsoft Graph连接器，客户可以索引外部存储库中的项目，以包含在Microsoft 搜索结果中。 Microsoft 365 E5和 Office 365 E5包括使用 Microsoft Graph 连接器为 A5 Microsoft 搜索 (未包含的最多 500 个项目编制) 。 具有套件或独立许可证（包括 SharePoint 或 OneDrive 计划）的任何用户都可以看到来自 Microsoft Graph 连接器的搜索结果Microsoft 搜索。
 
 目前，Microsoft 或我们的一个合作伙伴提供了超过 130 个源的连接器。 若要了解更多信息，请参阅[Microsoft Graph连接器概述](/MicrosoftSearch/connectors-overview)。
 

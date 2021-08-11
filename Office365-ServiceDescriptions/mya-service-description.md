@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分发、隐私和先决条件
-ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652596"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663085"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服务说明
 
@@ -42,7 +42,7 @@ MyAnalytics 包含以下元素：
 MyAnalytics 遵循以下准则，保护员工隐私并支持遵守本地法规：
 
 * MyAnalytics 并不旨在启用员工评估、跟踪、自动决策、分析或监视。
-* MyAnalytics 不会允许员工访问有关其他同事的新个人身份信息。
+* MyAnalytics 不会为员工提供对有关其他同事的新个人身份信息的访问权限。
 * 处理 MyAnalytics 数据并将其存储在员工的 Exchange Online 邮箱中。
 * MyAnalytics 支持一般数据保护条例 (GDPR) 合规性。
 * 可对 MyAnalytics 进行配置，以便个人必须专门选择加入。

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
 description: 以下报告和商业智能功能在 Project Online。
-ms.openlocfilehash: 3e5ca67f8d2220bfe02492f6f5a7fe120441ab40
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 3062ff202d379e636c4c3d68d507f9e28f900694b83724566d9899956a0f7374
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651121"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702631"
 ---
 # <a name="reporting-and-business-intelligence"></a>报告和商务智能
 

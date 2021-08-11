@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365提供了以下帮助和培训资源。
-ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653234"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663005"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365提供了以下帮助和培训资源。
   
 ## <a name="online-help"></a>联机帮助
 
-可从服务中任何内联帮助链接获得帮助文章和视频，包括 Office 365 门户和 Microsoft 365 管理中心的顶部导航栏中的帮助图标。 还可以访问 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
+服务中任何内联帮助链接都提供了帮助文章和视频，包括 Office 365 门户和网站页面的顶部导航栏中的帮助Microsoft 365 管理中心。 还可以访问 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
   
 ## <a name="training"></a>培训
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: 以下支持功能在 Yammer 中可用。
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653514"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702171"
 ---
 # <a name="support-features-in-yammer"></a>Yammer 中的支持功能
 
@@ -38,7 +38,7 @@ Yammer Enterprise 管理员负责帐户维护，并有权直接与 Microsoft 支
    
 ## <a name="fasttrack-center"></a>FastTrack 中心
 
-Microsoft FastTrack 服务可在每一步提供帮助，帮助你的组织移动到 Microsoft 云。 FastTrack 允许你从战略上规划推出、快速提升新服务和载入新用户。 For details, visit the [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). 有关创建 Yammer 网络（包括预启动、启动和支持文档和活动）的信息，请转到构想 [：确定](https://fasttrack.microsoft.com/office/envision/identify-scenarios)方案页面，然后选择"将组织汇集在一 **起"。**
+Microsoft FastTrack 服务可在每一步提供帮助，帮助你的组织移动到 Microsoft 云。 FastTrack，你可以从战略上规划推出、快速提升新服务和载入新用户。 For details, visit the [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). 有关创建 Yammer 网络（包括预启动、启动和支持文档和活动）的信息，请转到构想 [：确定](https://fasttrack.microsoft.com/office/envision/identify-scenarios)方案页面，然后选择"将组织汇集在一 **起"。**
 
 ## <a name="support-features-across-yammer-plans"></a>跨 Yammer 计划的支持功能
 

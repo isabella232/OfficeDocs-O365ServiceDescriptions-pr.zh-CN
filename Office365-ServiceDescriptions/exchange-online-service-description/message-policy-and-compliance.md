@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 了解邮件策略和邮件Exchange Online。
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652706"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663765"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652706"
 
 Exchange Online 邮箱位于云中，对其进行存档需要独特的托管环境。在有些情况下，也可使用 Exchange Online 来将内部部署的邮箱存档到云中。本节介绍使用 Exchange Online 进行存档的各种选择。
   
-Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为用户提供存储较旧电子邮件的便利位置的就地存档。 "In-Place 存档"是一种特殊类型的邮箱，与用户的主邮箱文件夹一起显示在 Outlook 中Outlook Web 上。 用户可以按他们访问和搜索其主邮箱的相同方式访问和搜索此存档。 可用功能取决于所使用的客户端：
+Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为用户提供存储较旧电子邮件的便利位置的就地存档。 "In-Place 存档"是一种特殊类型的邮箱，它显示在用户的主邮箱文件夹旁边Outlook Outlook 网页版。 用户可以按他们访问和搜索其主邮箱的相同方式访问和搜索此存档。 可用功能取决于所使用的客户端：
   
-- **Outlook 2016、Outlook 2013、Outlook 2010 和 Outlook 网页版** 用户可以访问存档的全部功能，以及相关的合规性功能，如对保留和存档策略的控制。 
+- **Outlook 2016 2013 Outlook 2010 Outlook 2010 和 Outlook 网页版** 用户可以访问存档的全部功能，以及相关的合规性功能，如对保留和存档策略的控制。 
     
 - **Outlook 2007** 用户具有就地存档的基本支持，但不是所有的存档和合规性功能都可用。例如，用户无法将保留或存档策略应用到邮箱中的邮件，而是必须依赖管理员设置的策略。 
     
@@ -57,13 +57,13 @@ Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为�
   
 ## <a name="retention-tags-and-retention-policies"></a>保留标记和保留策略
 
-Exchange Online 提供了保留策略，可帮助组织减少与电子邮件和其他通信关联的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略菜单，让他们使用 Outlook 2010 或更高版本或 web 上的 Outlook 将策略应用于特定项目、对话或文件夹。
+Exchange Online 提供了保留策略，可帮助组织减少与电子邮件和其他通信关联的义务。 通过这些策略，管理员可以将保留策略应用于用户收件箱中的特定文件夹。 管理员还可以为用户提供保留策略菜单，让他们使用 Outlook 2010 或更高版本或 Outlook 网页版 将策略应用于特定项目、对话或文件夹。
   
 在 Exchange Online 中，管理员通过使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 管理保留策略。
   
 Exchange Online 提供了两种类型的策略：存档策略和删除策略。可以在相同的项目或文件夹中结合使用这两种类型。例如，用户可以将某个电子邮件标记为在特定天数之后自动移动到就地存档，并在若干天后自动删除。
   
-使用 Outlook 2010 或更高版本和Outlook，用户可以将保留策略应用于文件夹、对话或单个邮件。 他们也可以查看对邮件应用的保留策略和预期的删除日期。 其他电子邮件客户端的用户只能根据管理员设置的服务器端保留策略删除或存档电子邮件。
+使用 Outlook 2010 或更高版本Outlook 网页版，用户可以将保留策略应用于文件夹、对话或单个邮件。 他们也可以查看对邮件应用的保留策略和预期的删除日期。 其他电子邮件客户端的用户只能根据管理员设置的服务器端保留策略删除或存档电子邮件。
   
 Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service Pack 2 RU4 中的提供的保留策略功能相同。管理员可以使用远程 Windows PowerShell 来将保留策略从内部部署 Exchange Server 2010 或更高版本环境迁移到 Exchange Online。
   
@@ -74,15 +74,15 @@ Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service P
   
 ## <a name="encryption-of-data-at-rest"></a>静态数据的加密
 
-静态客户数据的加密由多种服务端技术提供，包括 BitLocker、DKM、Azure 存储 Service Encryption 以及 Exchange Online、Skype for Business、OneDrive for Business 和 SharePoint Online 中的服务加密。 Office 365服务加密包括使用存储在 Azure 密钥保管库中的客户管理的加密密钥的选项。 此客户管理的密钥选项称为[客户密钥](/microsoft-365/compliance/customer-key-overview)，可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 
+静态客户数据的加密由多种服务端技术提供，包括 Exchange Online、Skype for Business、OneDrive for Business 和 SharePoint Online 中的 BitLocker、DKM、Azure 存储 服务加密和服务加密。 Office 365服务加密包括使用存储在 Azure 密钥保管库中的客户管理的加密密钥的选项。 此客户管理的密钥选项称为[客户密钥](/microsoft-365/compliance/customer-key-overview)，可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Microsoft 服务器BitLocker在卷级别加密包含客户其余数据的磁盘驱动器。 BitLocker加密是内置于数据保护Windows。 BitLocker 是一种技术，当其他过程或控制 (（例如访问控制或硬件) 的回收）出现故障时，用于防范威胁，这可能会导致某人获得对包含客户数据的磁盘的物理访问权限。 在这种情况下，BitLocker丢失、被盗或不当停用的计算机和磁盘，从而消除数据被盗或泄露的可能性。 
+Microsoft 服务器使用 BitLocker 在卷级别加密包含客户数据的其余磁盘驱动器。 BitLocker 加密是内置于 Windows。 BitLocker 是一种技术，当其他过程或控制 (（例如访问控制或硬件) 的回收）存在故障时，用于防范威胁，这可能会导致某人获得对包含客户数据的磁盘的物理访问权限。 在这种情况下，BitLocker 消除了由于丢失、被盗或不当停用计算机和磁盘而发生数据盗窃或泄露的可能性。 
   
 ### <a name="distributed-key-manager"></a>分布式密钥管理器
 
-除了BitLocker，我们还使用名为分布式密钥管理器的技术 (DKM) 。 DKM 是一种客户端功能，它使用一组密钥来加密和解密信息。 只有 Active Directory 域服务中特定安全组的成员可以访问这些密钥，以解密由 DKM 加密的数据。 在Exchange Online中，只有运行 Exchange 进程的某些服务帐户是该安全组的一部分。 作为数据中心中标准操作过程一部分，不会向人员提供属于此安全组的凭据，因此，人员无法访问可解密这些密钥的密钥。
+除了 BitLocker 之外，我们还使用名为分布式密钥管理器 (DKM) 。 DKM 是一种客户端功能，它使用一组密钥来加密和解密信息。 只有 Active Directory 域服务中特定安全组的成员可以访问这些密钥，以解密由 DKM 加密的数据。 在Exchange Online中，只有运行 Exchange 进程的某些服务帐户是该安全组的一部分。 作为数据中心中标准操作过程一部分，不会向人员提供属于此安全组的凭据，因此，人员无法访问可解密这些密钥的密钥。
   
 ## <a name="customer-key"></a>客户密钥
 
@@ -92,7 +92,7 @@ Microsoft 服务器BitLocker在卷级别加密包含客户其余数据的磁盘�
 
 Office 365 邮件加密电子邮件用户向任何人发送加密电子邮件。 我们宣布在邮件加密Office利用 Azure 信息加密中的保护功能的新功能。 这些新功能提供了增强的最终用户体验，可更轻松地与组织内外的任何人共享和协作处理受保护的邮件。 新的邮件Office功能有一些设置要求。 请参阅设置基于 Azure Office 365 邮件加密构建的新功能。 使用传统Office 365 邮件加密客户如果没有遵循上面提供的设置指南，将不会获得新功能。 请阅读[常见问题解答](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)，详细了解新功能与旧版 Office 365 邮件加密功能。 
 
-Office 365 高级邮件加密允许邮件过期和吊销，从而提供额外的保护。  您还可以为来自组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非营利组织员工定价) 、Office 365 企业版 E5 (非营利组织员工定价) 或 Office 365 教育版 A5 中。 如果您的组织订阅不包含Office 365 高级邮件加密，您可以购买 Microsoft 365 E5 合规 或 Office 365 高级合规版 SKU 作为加载项。
+Office 365 高级邮件加密允许邮件过期和吊销，从而提供额外的保护。  您还可以为来自组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非营利组织员工) 、Office 365 企业版 E5 (非营利组织员工定价) 或 Office 365 教育版 A5 中。 如果您的组织订阅不包含Office 365 高级邮件加密，您可以购买 Microsoft 365 E5 合规 或 Office 365 高级合规版 SKU 作为加载项。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>安全/多用途 Internet 邮件扩展 (S/MIME)
 
@@ -192,7 +192,7 @@ Exchange Online允许客户使用基于 Web 的界面搜索组织中邮箱的内
     
 - 通过使用文档指纹检测敏感型数据。文档指纹可以帮助您基于文本形式（您可以用其定义传输规则和 DLP 策略）轻松地创建自定义敏感信息类型。
     
-- 添加策略 使用技巧，这可以通过向 Outlook 2016、Outlook 2013、Outlook 网页版和适用于设备的 OWA 用户显示通知来帮助减少数据丢失，还可以允许误报报告来提高策略的有效性。 
+- 添加策略 使用技巧，这可以通过向 Outlook 2016、Outlook 2013、Outlook 网页版 和适用于设备的 OWA 用户显示通知来帮助减少数据丢失，还可通过允许误报报告来提高策略的有效性。 
     
 - 查看 DLP 报告中的事件数据，或通过使用生成事件报告操作来添加自己的特定报告。
     

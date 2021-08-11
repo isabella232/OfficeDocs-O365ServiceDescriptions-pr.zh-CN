@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 当前存在以下针对 Exchange Online Protection 的限制。 除非另行指定，否则这些限制不可配置。
-ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f573f73bf69944ecb400347978140e45a4c8700f74ac214572228ae83fc3c7fb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653046"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664494"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 

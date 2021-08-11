@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 1afee4f2868a8bf0f0a1662e2d70bd8de3f2043a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 25df0c4b4ff71ce8b3543cf7810bb0a4dd3c45fbe1037e1fd8bad4e586dd6292
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653294"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663635"
 ---
 # <a name="sharing-and-collaboration"></a>共享和协作
 
 ## <a name="federated-sharing"></a>联合共享
 
-联合身份验证是指支持联合共享的基础信任基础结构，这是 Microsoft Exchange Online 用户与其他外部联盟组织的收件人或具有 Internet 访问权限的用户共享忙/闲日历数据和联系人信息的方法。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online管理员可以允许用户从 Microsoft Outlook 网页或 Microsoft Outlook 2010 或更高版本发送日历共享邀请。
+联合身份验证是指支持联合共享的基础信任基础结构，这是 Microsoft Exchange Online 用户与其他外部联盟组织的收件人或具有 Internet 访问权限的用户共享忙/闲日历数据和联系人信息的方法。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online使用户可以从 Microsoft Outlook 网页版 或 Microsoft Outlook 2010 或更高版本发送日历共享邀请。
   
 > [!IMPORTANT]
 >  外部 Exchange 2010 和 Exchange 2013 组织必须将使用 Microsoft 联合身份验证网关的联合身份验证信任作为配置联合共享的一部分加以配置。 Exchange Online组织不必配置联合身份验证信任 -创建联合身份验证Microsoft Federation Gateway创建联合身份验证信任Microsoft 365自动创建。 

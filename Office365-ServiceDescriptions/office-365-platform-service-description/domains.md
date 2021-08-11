@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: 添加域时，分步向导可帮助您添加用户并将电子邮件地址和其他服务转换为您的公司名称。 完成向导后，你的企业电子邮件将开始发送到 Microsoft，而不是发送到当前的电子邮件提供商。 若要了解更多信息，请参阅将用户和域添加到 Microsoft。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652566"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662985"
 ---
 # <a name="domains"></a>域
 
@@ -43,7 +43,7 @@ ms.locfileid: "51652566"
   
 无论您的 DNS 记录在何处托管，都可以将 DNS 记录设置为将域用于 Microsoft 或其他宿主提供商托管的公共网站的 URL。 
   
-Microsoft 主动检查 DNS 记录，以查找并帮助解决 DNS 问题。 如果 DNS 记录与我们希望的不匹配，你将在 Microsoft 365 管理中心收到通知，以及告诉您如何解决已识别的可能问题的信息。
+Microsoft 主动检查 DNS 记录，以查找并帮助解决 DNS 问题。 如果您的 DNS 记录与我们希望的不匹配，您将收到 Microsoft 365 管理中心 中的通知，以及告诉您如何解决已识别的可能问题的信息。
   
 有关详细信息，请参阅 Microsoft 如何管理[DNS](/office365/admin/setup/domains-faq)记录，或者，有关由世纪Office 365运营的 DNS 记录，请参阅管理 DNS 记录时Office 365创建 DNS[记录](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)。
   
@@ -53,7 +53,7 @@ Microsoft 主动检查 DNS 记录，以查找并帮助解决 DNS 问题。 如�
   
 - [小型企业Microsoft 365试用](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [使用 FastTrack Microsoft 365大型企业 (试用) ](https://fasttrack.office.com/onboard)
+- [针对Microsoft 365大型企业的 (试用FastTrack) ](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>功能可用性
 

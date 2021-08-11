@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国政府实体或其他处理受政府法规和要求（使用 Microsoft 365 Government – GCC High 适合满足这些要求的实体）中推动 Office 365 部署的 IT 专业人员。
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001908"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663285"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>规划Microsoft 365合规性 – GCC高
 
@@ -60,7 +60,7 @@ ms.locfileid: "52001908"
 
 为满足政府云客户的要求，政府版政府版Microsoft 365计划GCC-High计划之间存在一些差异。 请参阅下表，了解哪些功能可用。 请参阅[此处](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)，了解发布在 Microsoft 365 路线图上的最新合规性产品更新。<br><br>
 
-| 领域 | 功能 | GCC高状态 |
+| 区域 | 功能 | GCC高状态 |
 |------|---------|-----------------|
 | **信息保护** | 统一标记客户端和扫描程序 | 可用 |
 | | 精确数据匹配 | 可用 |
@@ -109,7 +109,7 @@ ms.locfileid: "52001908"
 | 记录管理 | 云附件的保留和自动标记 | 工程积压工作 |
 | 记录管理 | 记录版本控制 | 可用 |
 | 记录管理 | 法规记录 | 可用 |
-| 记录管理 | 使用SharePoint分类应用记录标签 | 工程积压工作 |
+| 记录管理 | 使用SharePoint Syntex分类应用记录标签 | 工程积压工作 |
 | **内部风险管理** | 客户密码箱 | 可用 |
 | 通信合规性 | 忽略电子邮件签名或免责声明的能力 | 开发中 |
 | 通信合规性 | 为通信合规性策略设置保留期的能力 | 开发中 |
@@ -134,7 +134,7 @@ ms.locfileid: "52001908"
 | 客户密码箱 | 客户密码箱 | 可用 |
 | 信息屏障 | 信息屏障 | 开发中 |
 | 内部风险管理 | 案例仪表板 | 可用 |
-| 内部风险管理 | 通过离职用户窃取数据 | 可用 |
+| 内部风险管理 | 离职用户窃取数据 | 可用 |
 | 内部风险管理 | 内部版本 1809 Windows 10上活动的设备指示器 | 工程积压工作 |
 | 内部风险管理 | 升级以进行调查Advanced eDiscovery | 可用 |
 | 内部风险管理 | 导出警报 | 工程积压工作 |

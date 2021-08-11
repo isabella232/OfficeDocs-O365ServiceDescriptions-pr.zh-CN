@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online桌面和移动版本的 Outlook，Outlook Web 上。
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Exchange Online适用于桌面和移动版本的 Outlook，以及 Outlook 网页版。
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653114"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664045"
 ---
 # <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
@@ -54,9 +54,9 @@ Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online
   
 Outlook 网页版具有两个客户端版本，这两个都可用于 Exchange Online：
   
-- **Outlook -** Web 上的 Outlook 标准版本为用户提供Exchange Online与用户最相似的邮件Outlook体验。 它支持大部分新版 Web 浏览器，同时经过优化可用于平板电脑和智能电话以及台式机和笔记本电脑。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
+- **Outlook 网页版**- 标准版本的 Outlook 网页版 为用户提供Exchange Online与用户最相似的邮件Outlook体验。 它支持大部分新版 Web 浏览器，同时经过优化可用于平板电脑和智能电话以及台式机和笔记本电脑。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
 
-- **Web 上的Outlook** 版本 - web 上的 Outlook Light 版本Exchange Online几乎任何 Web 浏览器访问邮箱。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
+- **邮件的Outlook 网页版**- Outlook 网页版版本Exchange Online几乎任何 Web 浏览器访问邮箱。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
 
 Outlook 网页版还提供移动版本。有关详细信息，请参阅此[此页面](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
   
@@ -68,7 +68,7 @@ Exchange Online支持Microsoft Outlook for Mac，它提供电子邮件、日历�
 
 Exchange Online适用于 iOS Outlook Android 和 Windows Phone 的应用。 在任一设备上，使用应用商店查找Outlook应用。 下面按移动操作系统细分。<br><br>
   
-| Device | Android | iOS | Windows Phone |
+| 设备 | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
 |Outlook移动应用可用性  <br/> |是  <br/> [获取 Outlook for Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取 Outlook for iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
 |与应用兼容的内置电子邮件Exchange Online  <br/> |Gmail 应用/三星电子邮件应用  <br/> |iOS 邮件应用程序  <br/> |Outlook邮件、日历、联系人  <br/> |

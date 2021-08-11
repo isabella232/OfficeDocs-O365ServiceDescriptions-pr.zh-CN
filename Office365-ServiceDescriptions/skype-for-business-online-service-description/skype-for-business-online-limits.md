@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 本文介绍了在 Skype for Business Online 中实施的限制。
-ms.openlocfilehash: cd21b8b1feb3547c529c4bcdaa73832e2e48e3f8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653364"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702471"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 

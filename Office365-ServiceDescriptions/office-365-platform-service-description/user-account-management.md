@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft 支持以下用于创建、管理和验证用户的方法。
-ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652406"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702041"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -48,7 +48,7 @@ Microsoft 有两个系统可用于用户标识：
   
 ### <a name="custom-domains-and-identity-options"></a>自定义域和身份选项
 
-创建新用户时，用户的登录名和电子邮件地址将分配给默认域，如管理中心Microsoft 365设置。 若要了解更多信息，请参阅 [添加用户和域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
+创建新用户时，用户的登录名和电子邮件地址将分配给默认域，如 Microsoft 365 管理中心。 若要了解更多信息，请参阅 [添加用户和域](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611)。 
   
 默认情况下，订阅使用使用<创建的 onmicrosoft.com 公司名称 > **.onmicrosoft.com** 域。 如果你在中国使用由世纪Office 365运营的域，则默认域<*公司* 名称 > **.onmsChina.cn**。 如果在德国使用 Office 365，则默认域<*companyname* > **.onmicrosoft.de。** 您可以将一个或多个自定义域添加到 Microsoft，而不是保留 onmicrosoft.com **域，** 并可以分配用户使用任何经过验证的域登录。 每个用户的分配域是在已发送和已接收的电子邮件上显示的电子邮件地址。 
   
@@ -74,7 +74,7 @@ Microsoft 使用基于表单的身份验证，并且始终使用端口 443 使�
   
 ### <a name="multi-factor-authentication"></a>多重身份验证
 
-使用多重身份验证，用户在正确输入密码后需要确认智能手机上的电话呼叫、短信或应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Microsoft 管理员可以在管理中心为用户注册Microsoft 365身份验证。 了解有关多重 [身份验证的更多信息](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
+使用多重身份验证，用户在正确输入密码后需要确认智能手机上的电话呼叫、短信或应用通知。 只有经过这第二次身份验证后，用户才可以登录。 Microsoft 管理员可以在服务器中为用户注册多重Microsoft 365 管理中心。 了解有关多重 [身份验证的更多信息](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)。
   
 ### <a name="rich-client-authentication"></a>富客户端身份验证
 
@@ -102,7 +102,7 @@ Microsoft 使用基于表单的身份验证，并且始终使用端口 443 使�
 |Windows Vista 上的 Outlook 2010 或 Office Outlook 2007。  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
 |POP、IMAP、Outlook for Mac  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
-|Web 体验：Microsoft 365管理中心/Outlook/SharePoint Online/Office网页版  <br/> |每次浏览器会话登录 <sup>4</sup> <br/> |每次会话登录 <sup>3</sup> <br/> |
+|Web 体验：Microsoft 365 管理中心/Outlook 网页版/SharePoint Online/Office 网页版  <br/> |每次浏览器会话登录 <sup>4</sup> <br/> |每次会话登录 <sup>3</sup> <br/> |
 |使用 SharePoint Online 的 Office 2010 或 Office 2007。  <br/> |每次 SharePoint Online 会话登录 <sup>4</sup> <br/> |每次 SharePoint Online 会话登录 <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |每次会话登录 <sup>1</sup> <br/> |无提示  <br/> |
 |Outlook for Mac  <br/> |每次会话登录 <sup>1</sup> <br/> |每次会话登录 <sup>2</sup> <br/> |
@@ -115,7 +115,7 @@ Microsoft 使用基于表单的身份验证，并且始终使用端口 443 使�
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-有多种方法可以添加用户。 若要了解的详细信息，请参阅单独或批量添加用户[-](/office365/admin/add-users/add-users)管理员帮助和在管理中心预览版中添加、删除Microsoft 365[用户](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](/office365/admin/add-users/add-users)。
+有多种方法可以添加用户。 若要了解更多信息，请参阅单独或批量添加用户[-](/office365/admin/add-users/add-users)管理员帮助和在预览版中添加、删除[Microsoft 365 管理中心用户](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中创建或编辑用户帐户 - 管理帮助](/office365/admin/add-users/add-users)。
   
 ## <a name="delete-user-accounts"></a>删除用户帐户
 
@@ -137,7 +137,7 @@ Microsoft 使用基于表单的身份验证，并且始终使用端口 443 使�
   
 - 有关云身份密码强度要求的信息，请参阅[密码策略](/previous-versions/azure/jj943764(v=azure.100))。
     
-- 若要提高安全性，用户必须在首次访问 Microsoft 服务。 因此，用户必须先登录到 Microsoft 服务管理中心Microsoft 365，系统会提示他们更改密码。
+- 若要提高安全性，用户必须在首次访问 Microsoft 服务。 因此，在用户可以访问Microsoft 服务，他们必须登录到 Microsoft 365 管理中心，系统会提示他们更改密码。
     
 - 管理员可以设置密码过期策略。 有关详细信息，请参阅设置 [用户的密码过期策略](/office365/admin/manage/set-password-expiration-policy)。
     
@@ -145,9 +145,9 @@ Microsoft 使用基于表单的身份验证，并且始终使用端口 443 使�
   
 - **管理员重置密码**- 如果用户丢失或忘记密码，管理员可以在管理中心或通过使用密码Windows PowerShell。 只有在知道自己现有密码的情况下，用户才能更改密码。 
     
-    对于企业计划，如果管理员丢失或忘记其密码，则具有全局管理员角色的不同管理员可以在 Microsoft 365 管理中心中重置管理员密码，或通过使用 Windows PowerShell。 有关详细信息，请参阅[重置管理员密码](/office365/admin/add-users/reset-passwords)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
+    对于企业计划，如果管理员丢失或忘记其密码，则具有全局管理员角色的不同管理员可以重置 Microsoft 365 管理中心 或通过使用 Windows PowerShell。 有关详细信息，请参阅[重置管理员密码](/office365/admin/add-users/reset-passwords)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
-- **用户使用 Web Outlook** 更改密码 - Outlook选项页上的"更改密码"超链接，该超链接将用户重定向到"**更改密码"** 页。 用户必须知道旧密码。 有关详细信息，请参阅[更改密码](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
+- **用户更改密码时Outlook 网页版**- Outlook 网页版选项"页包含"更改密码"超链接，该超链接将用户重定向到"**更改密码"** 页。 用户必须知道旧密码。 有关详细信息，请参阅[更改密码](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c)。 如果使用的是由世纪互联在中国运营的 Office 365，请参阅[在由世纪互联运营的 Office 365 中更改或重置密码](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b)。
     
 - 基于角色的重置密码权限 **-** 对于企业计划，可以将授权用户（如支持人员）分配"重置密码"用户权限，以及使用预定义或自定义角色更改密码的权利，而无需成为完全服务管理员。 默认情况下，在企业计划中，具有全局管理员、密码管理员或用户管理管理员角色的管理员可以更改密码。 有关详细信息，请参阅[分配管理员角色](/office365/admin/add-users/assign-admin-roles)。
     
@@ -155,7 +155,7 @@ Microsoft 使用基于表单的身份验证，并且始终使用端口 443 使�
     
 ### <a name="federated-identity-password-management"></a>联合身份密码管理
   
-当使用联合身份时，密码将在 Active Directory 中管理。 本地安全令牌服务与联合网关协商身份验证，而无需通过 Internet 将用户的本地 Active Directory 密码Office 365。 使用本地密码策略，或针对 Web 客户端进行双因素身份验证。 Outlook Web 上的密码不包括"更改密码"超链接。 用户可以使用标准、内部部署工具或通过他们的桌面 PC 登录选项更改密码。
+当使用联合身份时，密码将在 Active Directory 中管理。 本地安全令牌服务与联合网关协商身份验证，而无需通过 Internet 将用户的本地 Active Directory 密码Office 365。 使用本地密码策略，或针对 Web 客户端进行双因素身份验证。 Outlook 网页版"更改密码"超链接。 用户可以使用标准、内部部署工具或通过他们的桌面 PC 登录选项更改密码。
   
 如果在组织环境中启用了带单一登录 [ (SSO) ](/previous-versions/azure/azure-services/dn441213(v=azure.100)) 的目录同步，并且存在影响联合身份提供程序的中断，则联合登录的密码同步备份将提供手动将域切换到密码同步的选项。在修复中断时，使用密码同步将允许用户访问。 了解如何[从"单一Sign-On"切换到"密码同步"。](https://go.microsoft.com/fwlink/p/?LinkId=509832)
   
@@ -167,7 +167,7 @@ Microsoft 帐单管理员可以更改订阅详细信息，如用户许可证数�
   
 ## <a name="group-management"></a>组管理
 
-在 SharePoint Online 中使用安全组以控制对站点的访问权限。 可以在管理中心内创建Microsoft 365组。 有关安全组的详细信息，请参阅[创建、编辑或删除安全组](/office365/admin/email/create-edit-or-delete-a-security-group)。
+在 SharePoint Online 中使用安全组以控制对站点的访问权限。 可以在安全管理中创建Microsoft 365 管理中心。 有关安全组的详细信息，请参阅[创建、编辑或删除安全组](/office365/admin/email/create-edit-or-delete-a-security-group)。
   
 ## <a name="administrator-roles"></a>管理员角色
 

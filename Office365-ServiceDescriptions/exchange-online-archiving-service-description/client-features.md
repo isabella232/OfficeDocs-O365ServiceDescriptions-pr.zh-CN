@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: 阅读本文，了解 Microsoft Exchange Online Archiving 中提供的客户端功能。
-ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293634"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664665"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的客户端功能
 
@@ -32,7 +32,7 @@ Microsoft Outlook 是一款丰富的电子邮件程序，包括对日历、联�
 - **Outlook Anywhere** - Outlook Anywhere Outlook使用户无需 VPN 连接Exchange Server Exchange Online Archiving Internet 连接到 Exchange Server 和 Exchange Online Archiving。 Outlook 和 Exchange Online Archiving 之间的通信通过 SSL 保护的隧道使用 RPC-over-HTTP Windows 网络组件进行。    
 - **自动发现**- Exchange自动发现服务自动配置Outlook以使用Exchange Online Archiving。 自动发现Outlook用户可以在 (第一次登录时直接从 Exchange 收到其所需的配置文件设置) 此后的固定时间间隔使用其电子邮件地址和密码登录。 
 
-Outlook 2010 Outlook及更高版本及 Web 上的网站集为用户提供了存档的完整功能，以及保留和存档策略等相关功能。
+Outlook 2010 及Outlook 网页版及更高版本为用户提供存档的完整功能，以及保留和存档策略等相关功能。
   
 Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性功能在 Outlook 2007 中均可用。例如，在 Outlook 2007 中，用户无法将保留和存档策略应用于其邮箱中的项目，而必须依赖管理员设置的策略。Outlook 2007 用户必须具有 2011 年 2 月的 Office 2007 累积更新才能访问存档。
   
@@ -43,7 +43,7 @@ Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性�
 
 下表列出了 Exchange Online Archiving 支持的客户端：<br><br>
   
-| Client | EOA 支持 |
+| 客户端 | EOA 支持 |
 |:-----|:-----|
 |Outlook 2013 及更高版本  <br/> |支持 Exchange Online Archiving 中的最新功能。<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |仅在 2020 Exchange Online Archiving 2020 年 10 月 13 日之前支持最新功能|
@@ -62,9 +62,9 @@ Outlook 2007 提供对存档的基本支持，但并非所有存档和合规性�
 
 ## <a name="outlook-on-the-web"></a>Web 上的 Outlook
 
-Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。 无论用户是家庭、办公室还是路旁连接到 Internet，他们都可以通过Outlook &mdash; &mdash; 访问电子邮件。
+Outlook 网页版是 Web 版 Outlook 电子邮件程序，可与 Exchange Online 结合使用。 无论用户是在家、办公室还是路旁连接到 Internet，他们都可以通过 &mdash; &mdash; Outlook 网页版。
   
-用户可以使用同一 URL 登录Outlook本地 (访问存档) 。 存档会显示在主邮箱旁边，Outlook Web 上的邮箱。 没有从 Web 上的直接Outlook访问存档的显式方法。
+用户可以使用同一 URL 登录本地Outlook 网页版访问 (存档) 。 存档会显示在主邮箱的旁边Outlook 网页版。 没有直接从邮箱访问存档的显式Outlook 网页版。
   
 ## <a name="feature-availability"></a>功能可用性
 

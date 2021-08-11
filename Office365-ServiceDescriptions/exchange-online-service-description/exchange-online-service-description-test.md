@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: 了解Microsoft Exchange Online计划之间的Microsoft 365功能Office 365可用性。
-ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
-ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
+ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51414876"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664005"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -33,7 +33,7 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划Exchange Online的主要功能。 某些注意事项适用*。 此表可能会更改，无需另行通知。 有关跨计划提供最新、完整功能Exchange Online，请参阅[比较Exchange Online计划](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
+下表列出了跨计划Exchange Online的主要功能。 某些注意事项适用*。 此表可能发生更改，恕不另行通知。 有关跨计划提供最新、完整功能Exchange Online，请参阅[比较Exchange Online计划](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
   
 | 功能 | 小型企业计划 | Enterprise计划 | 教育计划 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -62,12 +62,12 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
 
 ### <a name="licensing-terms"></a>许可条款
 
-有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。 
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/licensing/terms/)。 
 
-### <a name="messaging"></a>消息 
+### <a name="messaging"></a>消息传递
 
-若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 
-Microsoft 始终致力于确保数据的安全性以及服务的辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性以及服务的辅助功能。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的邮件策略和合规性) 。
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653344"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664105"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>邮件策略和策略中的Exchange Online Protection
 
@@ -51,7 +51,7 @@ Microsoft Exchange OnlineEOP (保护) 提供了可帮助您管理电子邮件数
 
 - 通过使用文档指纹检测敏感型数据。 文档指纹可帮助您根据可用于定义邮件流规则和 DLP 策略的基于文本的表单轻松创建自定义敏感信息类型。
 
-- 添加策略 使用技巧，这可以通过向 Outlook 2013、web 上的 Outlook 和适用于设备的 OWA 用户显示通知来帮助减少数据丢失，还可以允许误报报告来提高策略的有效性。
+- 添加策略 使用技巧，这可以通过向 Outlook 2013、Outlook 网页版 和适用于设备的 OWA 用户显示通知来帮助减少数据丢失，还可通过允许误报报告来提高策略的有效性。
 
 - 查看 DLP 报告中的事件数据，或通过使用生成事件报告操作来添加自己的特定报告。
 

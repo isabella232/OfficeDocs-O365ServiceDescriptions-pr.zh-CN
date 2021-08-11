@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Microsoft 支持Microsoft Office 365企业、企业、教育和政府订阅，提供全球技术、售前、计费和订阅支持。 通过管理中心在线Microsoft 365付费订阅和试用订阅通过电话获得支持。 有关详细信息，请参阅 Microsoft 支持选项。
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: Microsoft 支持Microsoft Office 365企业、企业、教育和政府订阅，提供全球技术、售前、计费和订阅支持。 付费订阅和试用订阅均Microsoft 365 管理中心在线订阅和电话支持。 有关详细信息，请参阅 Microsoft 支持选项。
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721196"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701651"
 ---
 # <a name="support"></a>支持
 
-Microsoft 支持Microsoft 365企业Office 365、第一线、教育版和政府版订阅，提供全球技术、售前、计费和订阅支持。 通过管理中心在线Microsoft 365付费订阅和试用订阅通过电话获得支持。 有关详细信息，请参阅 [Microsoft 支持选项](/Office365/Admin/contact-support-for-business-products)。
+Microsoft 支持Microsoft 365企业Office 365、第一线、教育版和政府版订阅，提供全球技术、售前、计费和订阅支持。 付费订阅和试用订阅均Microsoft 365 管理中心在线订阅和电话支持。 有关详细信息，请参阅 [Microsoft 支持选项](/Office365/Admin/contact-support-for-business-products)。
 
-授权管理员可以使用 Microsoft 365中心在线提交服务请求、访问支持电话号码，以及查看所有已打开和最近关闭的服务请求。 在管理中心提交的服务请求可在关闭请求后的最多 14 天内重新打开。 有关说明，请参阅[联系Microsoft 365商业支持人员](/Office365/Admin/contact-support-for-business-products)。
+授权管理员可以使用 Microsoft 365 管理中心联机提交服务请求、访问支持电话号码以及查看所有已打开和最近关闭的服务请求。 在管理中心提交的服务请求可在关闭请求后的最多 14 天内重新打开。 有关说明，请参阅[联系Microsoft 365商业支持人员](/Office365/Admin/contact-support-for-business-products)。
   
 技术支持Microsoft 365团队仅对与项目或产品相关的Microsoft 365 Office 365。 源自客户网络的问题超出支持范围，在这种情况下，客户必须与他们的网络团队或 [参与 Microsoft 网络](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 团队寻求帮助。
   

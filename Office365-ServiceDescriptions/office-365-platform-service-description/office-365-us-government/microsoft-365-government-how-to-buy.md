@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了政府Microsoft 365并介绍了购买选项。
-ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661630"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701901"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365政府 - 如何购买
 
@@ -104,7 +104,7 @@ GCC高GCC产品/服务都适用于任何有资格使用 Microsoft 政府云的�
 
 下表显示了可满足每个线段需求的选项。<br><br> 
 
-| 项目 | GCC | GCC 高 | DoD |
+| Item | GCC | GCC 高 | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |政府 gov，GOVCON for commercial |GCC-High |DOD | 
 |**频道** |EA (LSP) 、AOS-G、MPSA、Web Direct、CSP |EA (LSP) 、AOS-G |EA |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: 以下外部网络功能在 Yammer 中可用。
-ms.openlocfilehash: 79d546c4896f036a2aa6c61083acc750356c597d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8b5a1f0efedbb3054dc92bd14d20a040001d9c689aadacb6f4346d8338cef4f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653615"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702381"
 ---
 # <a name="external-network-features-in-yammer"></a>Yammer 中的外部网络功能
 

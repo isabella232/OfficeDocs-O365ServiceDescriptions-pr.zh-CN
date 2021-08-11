@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 了解 Microsoft Exchange Online Archiving 中提供的存档功能。
-ms.openlocfilehash: cfc5832e3167f29465f387253694e56b66b932fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653094"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664745"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
@@ -27,7 +27,7 @@ ms.locfileid: "51653094"
   
 ## <a name="archive-mailbox"></a>存档邮箱
 
-Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。 存档邮箱是一种特殊邮箱，显示在用户主邮箱文件夹旁边，位于Outlook或Outlook邮箱中。 用户可以像访问其主邮箱一样访问存档。 此外，用户还可以搜索归档邮箱和主邮箱。
+Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。 存档邮箱是一种特殊邮箱，显示在用户的主邮箱文件夹旁边，位于Outlook Outlook 网页版。 用户可以像访问其主邮箱一样访问存档。 此外，用户还可以搜索归档邮箱和主邮箱。
   
 管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](/office365/securitycompliance/enable-archive-mailboxes)（在 Exchange Online 中启用或禁用存档邮箱）。
   
@@ -58,7 +58,7 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
 
 用户可以从其存档中的任何电子邮件文件夹中恢复已删除的邮件。邮件删除之后，邮件仍保留在存档的"已删除邮件"文件夹中。它将一直保留，直到用户手动删除或通过保留策略自动删除为止。
   
-After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 用户可以使用 Microsoft Outlook或 web 上的 Outlook 恢复这些项目。 
+After an item has been removed from the archive's Deleted Items folder, the item is kept in the archive's Recoverable Items folder for an additional 14 days before being permanently removed. 用户可以使用 Microsoft Outlook或 Outlook 网页版 中的"恢复已删除邮件"功能恢复这些项目。 
   
 如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](/office365/securitycompliance/use-network-upload-to-import-pst-files)（为邮箱启用或禁用"单个项目恢复"）。
   

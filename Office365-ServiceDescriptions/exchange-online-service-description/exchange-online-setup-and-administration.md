@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: 本文介绍可用于自定义组织设置Exchange Online保持组织环境运行、运行Exchange Online更新的管理控件和支持。 它包括有关组织可以使用的自助式管理工具和功能、Microsoft 管理责任和性能承诺以及服务与产品升级的信息。
-ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 24edb5a4c1855acd990ddc427e218cb601dc45aab34a5f6a83cf76cb561dbffe
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652726"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663945"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online 设置和管理
 
@@ -33,7 +33,7 @@ ms.locfileid: "51652726"
   
 - [Microsoft Office 365 门户](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft 365 管理中心](#microsoft-365-admin-center)
+- [ Microsoft 365 管理中心](#microsoft-365-admin-center)
     
 - [Exchange 管理中心](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,7 +45,7 @@ Microsoft Office 365 门户 ([https://portal.office.com](https://portal.office.c
   
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 管理中心
 
-管理Microsoft 365中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个Microsoft 服务和设置。 在 Microsoft 365 管理中心内，管理员可以关注 Exchange 管理中心 (EAC) 的链接，他们可在其中管理特定于 Exchange Online 的设置。 有关使用管理中心启动和运行Microsoft 365，请参阅以下视频[：Office 365 企业版。](https://go.microsoft.com/fwlink/p/?LinkId=271806)
+Microsoft 365 管理中心是一个 Web 门户，每个公司的服务管理员可以从该门户管理他们订阅的每个 Microsoft 服务用户帐户和设置。 管理员可以从Microsoft 365 管理中心 EAC Exchange管理中心 (EAC) ，在此链接中可以管理特定于 Exchange Online 的设置。 有关开始使用和运行 Microsoft 365 管理中心，请参阅以下视频[：Office 365 企业版。](https://go.microsoft.com/fwlink/p/?LinkId=271806)
   
 ### <a name="exchange-admin-center"></a>Exchange 管理中心
 

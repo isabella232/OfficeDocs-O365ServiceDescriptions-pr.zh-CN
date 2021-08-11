@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: 如果你是管理员，可以在设置 Skype for Business Online 中查找有关设置 Skype for Business Online 功能的详细说明。
-ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651017"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702461"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
 
@@ -87,9 +87,9 @@ Skype for Business联机包括高清图片、基于 Exchange 日历信息的状�
   
 在某些订阅计划中，Skype for Business统一Exchange Online UM (集成) ：
   
-- 将语音邮件和电子邮件合并到可从客户端访问的单个邮件Skype for Business基础结构。 ExchangeUM 和 Skype for Business协同工作以提供呼叫应答、Outlook Voice Access和自动助理服务。
+- 将语音邮件和电子邮件合并到可从客户端访问的单个邮件Skype for Business基础结构。 ExchangeUM 和 Skype for Business协同工作以提供呼叫应答、Outlook Voice Access 和自动助理服务。
     
-- 启用Outlook，以便根据日历信息以及会议安排Exchange IM、状态Skype for Business更新。
+- 启用Outlook 网页版根据日历信息和会议安排Exchange IM、状态Skype for Business更新。
     
 Skype for Business与本地Microsoft SharePoint Server互操作，以在网站中状态和单击SharePoint通信。 这种互操作性需要在Skype for Business上运行客户端。 
   

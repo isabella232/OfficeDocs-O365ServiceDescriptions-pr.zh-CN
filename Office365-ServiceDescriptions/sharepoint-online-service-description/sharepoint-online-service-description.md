@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些SharePoint计划中提供了哪些功能。
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204849"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702581"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -35,7 +35,7 @@ SharePoint帮助Microsoft 365共享和管理内容、知识和应用程序，以
 
 若要了解SharePoint云客户的功能差异，请参阅美国政府SharePoint[环境。](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
   
-## <a name="whats-new"></a>最近更新
+## <a name="whats-new"></a>新增功能
 
 有关最新发布的功能的信息，请参阅新增功能[SharePoint。](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
   
@@ -110,7 +110,7 @@ OneDrive是Microsoft 365单个用户的联机存储。 通过此网盘，人们�
 - [网站治理](/sharepoint/governance-overview) 
 - [术语库 - 托管元数据](/sharepoint/managed-metadata)
 
-有关 FastTrack 迁移服务的可用性的信息，请参阅符合条件的 [服务和计划](/fasttrack/m365-eligible-services-and-plans)。 
+有关迁移服务FastTrack的信息，请参阅符合条件的[服务和计划](/fasttrack/m365-eligible-services-and-plans)。 
 
 有关与共享相关的功能的信息，请参阅 OneDrive[服务说明](../onedrive-for-business-service-description.md)。
 
@@ -160,7 +160,7 @@ SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以
 - [ 文档库 ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [文档集](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - 文件卡 (活动、对话、查看者) 
-- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [列表](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [大型菜单](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含Office 365的订阅，并且要求用户获得表单许可。
 - [新闻](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)

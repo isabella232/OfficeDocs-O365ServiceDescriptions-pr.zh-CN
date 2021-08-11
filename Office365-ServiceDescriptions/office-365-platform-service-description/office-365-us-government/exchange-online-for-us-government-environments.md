@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本文概述了美国政府云与商业云之间的功能差异，如Exchange Online说明所列。
-ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721206"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664455"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online美国政府环境
 
@@ -47,18 +47,18 @@ ms.locfileid: "52721206"
 |支持的 IMAP 迁移|是|是|是||
 |支持的直接转换迁移|是|是|是||
 |支持的暂存迁移|是|是|是|高和 doD 不支持 GCC GSuite 迁移。 有关详细信息，请参阅执行 <a href="/exchange/mailbox-migration/perform-g-suite-migration">GSuite 迁移</a>。|
-|**[权限](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[权限](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |基于角色的权限|是|是|是||
 |角色组|是|是|是||
 |角色分配策略|是|是|是||
-|**[邮件策略和合规性](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[邮件策略和合规性](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |存档基于 Exchange Online 的邮箱|是|是|是||
 |内部部署邮箱的基于云的存档|是|是|是||
 |Messaging Records Management (MRM) |是|是|是||
 |手动保留策略、标签和标记 |是|是|是||
 |静态状态时的数据加密 (BitLocker)|是|是|是||
 |使用 Azure 信息保护的 IRM|是|是|是|有关高和 DoD 中 AIP 限制GCC，请参阅 Azure 信息保护高级版<a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">政府服务说明</a>。<br><br>Azure 信息保护不包含在 G1/F3 中，但可以单独购买为附加项，并启用受支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Office 365 专业增强版，但 F3 中未Office 365 政府版 G1 Office 365 政府版订阅。|
-|使用 Windows Server AD RMS 的 IRM|是|是|是|Windows服务器 AD RMS 是一种本地服务器，必须单独购买和管理，才能启用受支持的 IRM 功能。|
+|使用 Windows Server AD RMS 的 IRM|是|是|是|Windows Server ADRMS 是一种本地服务器，必须单独购买和管理，才能启用受支持的 IRM 功能。|
 |Office 365 邮件加密|是|是|是|请参阅[本文Office 365 邮件加密 GCC High/DoD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary)边界的 Office 365 邮件加密 行为以及<a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC High</a>部署中 Office 365 邮件加密 的唯一特征，其中记录了 Office 365 邮件加密 在 GCC High/DoD 和非 GCC High/DoD 用户之间发送邮件时的行为细微差别。|
 |客户密钥|是|是|是|需要 G5 服务计划。|
 |S/MIME|是|是|是||
@@ -67,7 +67,7 @@ ms.locfileid: "52721206"
 |邮件流规则|是|是|是||
 |数据丢失预防|是|是|是|需要 G3 或 G5 服务计划。|
 |日记功能 |是|是|是||
-|**[反垃圾邮件和反恶意软件保护](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[反垃圾邮件和反恶意软件保护](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |内置反垃圾邮件保护|是|是|是||
 |自定义反垃圾邮件策略|是|是|是||
 |内置反恶意软件保护|是|是|是||
@@ -75,13 +75,13 @@ ms.locfileid: "52721206"
 |隔离 - 管理员管理|是|是|是||
 |隔离 - 最终用户自我管理|是|是|是||
 |Microsoft Defender for Office 365|是|是|是|需要 G5 服务 (购买或购买加载项) 。<br><br>高和 DoD 中尚不提供适用于用户和域模拟和欺骗智能GCC防钓鱼。|
-|**[邮件流](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[邮件流](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |出站邮件的自定义路由|是|是|是||
 |与受信任合作伙伴的安全邮件|是|是|是||
 |有条件的邮件路由|是|是|是||
 |向入站安全列表添加合作伙伴|是|是|是||
 |混合电子邮件路由|是|是|是||
-|**[收件人](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[收件人](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |容量报警|是|是|是||
 |混乱邮件|是|是|是||
 |MailTips|是|是|是||
@@ -101,51 +101,53 @@ ms.locfileid: "52721206"
 |会议室管理|是|是|是||
 |“外出”回复|是|是|是||
 |Internet 日历共享|是|否|否|在 GCC 高中，Internet 日历发布/共享适用于与 GCC High 用户共享的日历的入站连接，但适用于将出站连接到 GCC High 外部的共享日历的 GCC High 用户。<br><br>在 DoD 中，不支持 Internet 日历共享，因为要求该环境中存在入站/出站连接允许列表。|
-|**[报告功能和疑难解答工具](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[报告功能和疑难解答工具](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |Microsoft 365 管理中心报告|是|是|否|报告对 DoD 不可用。 有关更新<a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">/当前</a>可用性Office 365请参阅美国政府服务说明的平台功能部分。|
 |Web 服务报告|是|是|否|报告对 DoD 不可用。 有关更新<a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">/当前</a>可用性Office 365请参阅美国政府服务说明的平台功能部分。|
 |邮件跟踪|是|是|是||
 |审核报告|是|是|否|报告对 DoD 不可用。 有关更新<a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">/当前</a>可用性Office 365请参阅美国政府服务说明的平台功能部分。|
 |统一消息报告|是|否|否||
-|**[共享和协作](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[共享和协作](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |联合共享（包括日历发布）|是|是|是|高和 doD GCC存在限制。 请参阅 [本文中的忙/](#freebusy-federation) 闲联合。|
 |网站邮箱|是|是|是||
 |公用文件夹|是|是|是||
-|**[客户端和移动设备](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[客户端和移动设备](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |微软待办网页|是|否|否||
 |Outlook for Windows|是|是|是|若要满足GCC高和 DoD 合规性要求，必须至少运行版本 1803 的 Office 365 专业增强版。 Office 365 专业增强版 G1 或 F3 中不包含。|
-|Outlook 网页版|是|是|是||
+|Outlook 网页版<sup>1</sup>|是|是|是||
 |Outlook for Mac|是|是|是|若要满足GCC高和 DoD 合规性要求，必须至少运行版本 1803 的 Office 365 专业增强版。 Office 365 专业增强版 G1 或 F3 中不包含。|
-|Outlook for iOS 和 Outlook for Android|是|是|是||
+|Outlook for iOS 和 Android|是|是|是||
 |Exchange ActiveSync|是|是|是||
 |基本移动性和安全性Microsoft 365|是|否|否||
 |POP 和 IMAP|是|是|是||
 |SMTP|是|是|是||
 |EWS 应用程序支持|是|是|是||
-|**[语音消息服务](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[语音消息服务](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |语音邮件|否|否|否|不支持将本地 IP-PBX 系统与Exchange Online统一消息集成。|
 |语音邮件与第三方传真的集成|否|否|否|不支持将本地 IP-PBX 系统与Exchange Online统一消息集成。|
 |第三方语音邮件互操作性|否|否|否|不支持将本地 IP-PBX 系统与Exchange Online统一消息集成。|
 |Skype for Business 集成|是|是|是||
-|**[高可用性和业务连续性](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[高可用性和业务连续性](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |数据中心的邮箱复制|是|是|是||
 |已删除邮箱的恢复|是|是|是||
 |已删除邮件的恢复|是|是|是||
 |单个项目恢复|是|是|是||
-|**[互操作性、连接性和兼容性](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[互操作性、连接性和兼容性](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |OWA 和 Outlook|是|是|是||
 |SharePoint 互操作性|是|是|是||
 |EWS 连接性支持|是|是|是||
 |SMTP 中继支持|是|是|是||
-|**[Exchange Online 设置和管理](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[Exchange Online 设置和管理](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |Microsoft Office 365 门户访问|是|是|否|报告对 DoD 不可用。 有关更新<a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">/当前</a>可用性Office 365请参阅美国政府服务说明的平台功能部分。|
 |Microsoft 365 管理中心访问|是|是|否|报告对 DoD 不可用。 有关更新<a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">/当前</a>可用性Office 365请参阅美国政府服务说明的平台功能部分。|
 |Exchange 管理中心访问|是|是|是||
 |远程 Windows PowerShell 访问|是|是|是||
 |移动设备的 ActiveSync 策略|是|是|是||
 |使用情况报告|是|是|否|报告对 DoD 不可用。 有关更新<a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">/当前</a>可用性Office 365请参阅美国政府服务说明的平台功能部分。|
-|**[扩展服务 - 自定义、外接程序和资源](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC 高**|**DoD**|**主要注意事项**|
+|**[扩展服务 - 自定义、外接程序和资源](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC 高级**|**DoD**|**主要注意事项**|
 |Outlook 加载项和 Outlook MAPI|是|是|是|只有部分 OWA Outlook外接程序在高GCC DoD 中可用。 请参阅[本文中的Outlook Outlook Web App](#add-insin-outlook-and-outlook-web-app)外接程序。|
+
+<sup>1</sup> Outlook在 Outlook for Windows 由于跨边界限制（高/非 GCC 高）无法显示受 I (GCC RM 保护的邮件的情况下，可以使用 web 上的) 。
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>高和 doD GCC中的功能细微差别
 
@@ -175,9 +177,9 @@ Azure Active Directory目前，仅在 Azure 美国政府云中且都支持 B2B �
 
 - 将加密电子邮件从 GCC High 或 DoD 发送到相同环境中收件人时：
     
-    - 发件人可以在 Outlook for PC 和 Mac 以及 Outlook 网页中手动加密电子邮件，或者组织可以设置策略以使用 Exchange 流规则加密电子邮件。
+    - 发件人可以在 Outlook for PC 和 Mac 以及 Outlook 网页版 中手动加密电子邮件，或者组织可以设置策略以使用 Exchange 流规则加密电子邮件。
     
-    - GCC/DoD 内的收件人在 Outlook for PC 和 Mac 中接收相同的内联阅读体验，Outlook Web 上与所有其他 Office 365一样。
+    - GCC/DoD 内的收件人在 Outlook for PC 和 Mac 中接收相同的内联阅读体验，Outlook 网页版所有其他Office 365体验。
 
 <!-- end list -->
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 为满足美国联邦、州、地方和地区政府以及代表美国政府持有或处理数据的承包商的独特且不断变化的要求，Microsoft Office 365美国政府 Community (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653164"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701881"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -41,7 +41,7 @@ Office 365员工无法长期访问托管在 Office 365 政府版 GCC 环境中�
 |雇佣历史记录检查  <br/> |核实七 (7) 年的工作经历  <br/> |
 |教育验证  <br/> |核实最高学历  <br/> |
 |SSN (搜索) 社会安全号码  <br/> |核实所提供的 SSN 是否有效  <br/> |
-|犯罪历史记录检查  <br/> |调查州、县、地方级和联邦级七 (7) 年的重罪和轻罪犯罪记录  <br/> |
+|犯罪记录调查  <br/> |调查州、县、地方级和联邦级七 (7) 年的重罪和轻罪犯罪记录  <br/> |
 |海外资产控制办公室 (OFAC) 名单  <br/> |核实是否被归入美国财政部发布的美国公民不得与之有贸易或金融往来的团体名单  <br/> |
 |工业安全局 (BIS) 名单  <br/> |核实是否被归入美国商务部发布的禁止从事出口活动的个人和实体名单  <br/> |
 |国防贸易管制办公室 (DDTC) 禁止人员名单  <br/> |核实是否被归入美国国务院发布的禁止从事与国防工业有关的出口活动的个人和实体名单  <br/> |

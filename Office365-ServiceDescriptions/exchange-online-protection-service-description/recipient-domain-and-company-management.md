@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的收件人、域和公司) 。
-ms.openlocfilehash: f58ffe829be839d8321cfc98f331d1836986e293
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fc2b9f6fbd797e8e765758c11c486ce6afaba5a5855602e79f5418c1e80bb1ea
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652994"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664055"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>域中的收件人、域和公司Exchange Online Protection
 
-Microsoft Exchange OnlineEOP (保护) 提供了几种管理收件人、域和公司信息的方式。 作为管理员，您可以在 Exchange 管理中心 (EAC) 中执行某些管理任务，并验证在 Microsoft 365 管理中心中执行的其他管理任务。
+Microsoft Exchange OnlineEOP (保护) 提供了几种管理收件人、域和公司信息的方式。 作为管理员，您可以在 Exchange 管理中心 (EAC) 中执行某些管理任务，并验证在 Microsoft 365 管理中心 中执行的其他管理Microsoft 365 管理中心。
   
 要查找有关 EOP 所有功能的信息吗？ 请参阅Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 在 EAC 中Microsoft 365管理的用户不可在 EAC 中查看，但可以在 EAC 的管理员角色组成员身份中添加或删除这些用户。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](/microsoft-365/security/office-365-security/manage-recipients-in-eop)。
+邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 在 EAC 中Microsoft 365 管理中心管理的用户在 EAC 中无法查看，但可以在 EAC 的管理员角色组成员身份中添加或删除这些用户。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](/microsoft-365/security/office-365-security/manage-recipients-in-eop)。
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -35,7 +35,7 @@ Microsoft Exchange OnlineEOP (保护) 提供了几种管理收件人、域和公
   
 ## <a name="domain-management"></a>域管理
 
-托管域是指受 EOP 保护的域。 可以在 EAC 中查看托管域并编辑域类型。 域设置和管理发生在 Microsoft 365中心，更改将反映在 EAC 中。 有关详细信息，请参阅[查看或编辑 EOP 中的托管域](/microsoft-365/security/office-365-security/exchange-online-protection-overview)。
+托管域是指受 EOP 保护的域。 可以在 EAC 中查看托管域并编辑域类型。 域设置和管理发生在Microsoft 365 管理中心 EAC 中反映更改。 有关详细信息，请参阅[查看或编辑 EOP 中的托管域](/microsoft-365/security/office-365-security/exchange-online-protection-overview)。
   
 ## <a name="match-subdomains"></a>Match subdomains
 

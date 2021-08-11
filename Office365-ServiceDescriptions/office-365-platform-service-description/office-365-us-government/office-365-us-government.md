@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了一个Office 365 US 政府计划 (Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537228"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701890"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -91,9 +91,9 @@ Office 365 可以将第三方应用程序集成到 Microsoft 365 企业应用版
 
 Microsoft Office 365 政府版访问客户内容的访问权限仅限于屏蔽人员。 有关屏蔽级别的详细信息，请参阅各个环境的服务说明页面 (GCC或GCC高和 DoD) 。
 
-## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack 中心载入协助
+## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack中心载入协助
 
-借助适用于 Office 365<sup>1</sup>的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让 Office 365 环境可供使用，并计划在组织中推出和使用。 FastTrack 流程提供了载入和用户采用服务。
+借助 FastTrack Center Benefit for Office 365<sup>1，</sup>你可以与 FastTrack 专家远程合作，让 Office 365 环境可供使用，并计划在组织中部署和使用。 FastTrack 流程提供了载入和用户采用服务。
 
 载入包括：
 
@@ -103,14 +103,14 @@ Microsoft Office 365 政府版访问客户内容的访问权限仅限于屏蔽�
 
 用户采用服务由一些任务组成，这些任务可指导用户确保用户了解符合条件的服务，并可以使用它们来推动业务价值。 此协助与载入活动并行发生。
 
-有关 FastTrack 中心流程的特定信息，请参阅 [此处](/FastTrack/us-gov-appendix-overview)。 有关参与角色和职责的细分，请查看 [FastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) 责任以及 [你的责任](/FastTrack/us-gov-appendix-your-responsibilities)。
+可以在此处找到FastTrack中心过程的特定[信息](/FastTrack/us-gov-appendix-overview)。 有关参与角色和职责的细分，FastTrack[责任](/FastTrack/us-gov-appendix-fasttrack-responsibilities)以及[你的责任](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup>必须至少从符合条件的计划列表中购买 150 个许可证[](/fasttrack/eligibility)才能接收 FastTrack 服务。
+> <sup>1</sup>必须至少从符合条件的计划列表中购买 150 个许可证[](/fasttrack/eligibility)，才能FastTrack服务。
 <br/><sup>2</sup>数据迁移服务适用于Office 365许可证超过 500 个的租户。
 
-## <a name="data-migrations-performed-by-fasttrack"></a>由 FastTrack 执行的数据迁移
+## <a name="data-migrations-performed-by-fasttrack"></a>由用户执行的数据FastTrack
 
-选择 [FastTrack](https://fasttrack.microsoft.com/) 迁移权益的客户将需要向管理其数据迁移的团队授予访问权限。 这些人员是美国政府公民，在针对美国政府服务客户Office 365以下背景检查。<br><br>
+选择[迁移FastTrack需要](https://fasttrack.microsoft.com/)向管理其数据迁移的团队授予访问权限。 这些人员是美国政府公民，在针对美国政府服务客户Office 365以下背景检查。<br><br>
 
 |背景屏蔽|GCC|GCC High 和 DoD|
 |---|---|---|
@@ -153,7 +153,7 @@ Office 365美国政府客户可以使用 Azure 政府 ExpressRoute 服务以专�
 |Power BI Pro|否<sup>2</sup>|否<sup>2</sup>|是|否<sup>2</sup>|
 |Project Online|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
 |Visio 网页版|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|否<sup>6</sup>|
-|Yammer 企业版|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
+|Yammer Enterprise|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|否<sup>4</sup>|
 
 > <sup>1</sup> Skype for Business基本版本可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版、G3 和 G5 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。
 <br/><sup>2</sup> 不包含在内，但可以单独购买加载项。 Project Online包括Project Online桌面客户端作为订阅的一部分。

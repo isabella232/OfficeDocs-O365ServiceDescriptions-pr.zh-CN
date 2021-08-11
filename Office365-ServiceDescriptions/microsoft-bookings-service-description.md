@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解 Microsoft Bookings 中可用的计划选项和功能。
-ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653374"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663245"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 服务说明
 
@@ -25,7 +25,7 @@ Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划提供的主要 Microsoft Bookings 功能。 有一些注意事项适用。 有关详细信息，请参阅脚注。 此表可能会更改，无需另行通知。
+下表列出了跨计划提供的主要 Microsoft Bookings 功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。
 
 | 主要功能 | 小型企业版 | Enterprise计划 | GCC | GCC-High | DOD | 教育 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基
 | Teams 中的 Bookings Teams | 是 | 是 | 否 | 否 | 否 | 是 |
 
 <sup>1</sup>在线会议要求被预订的员工拥有允许Microsoft Teams Skype for Business或允许创建会议的许可证。
-<br/><sup>2</sup>短信目前处于 beta 版本，仅在北美提供。
+<br/><sup>2</sup> SMS 通知当前处于 beta 版本，仅在北美可用。
 
 ## <a name="learn-more"></a>了解详细信息
 
@@ -54,12 +54,12 @@ Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基
 
 ### <a name="licensing-terms"></a>许可条款
 
-有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/microsoft-365)。
+有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/microsoft-365)。
 
-### <a name="messaging"></a>消息 
+### <a name="messaging"></a>消息传递
 
-若要跟踪即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅消息 [中心](/microsoft-365/admin/manage/message-center)。
+若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 
-Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 Microsoft[信任中心和](https://www.microsoft.com/trust-center)Office[中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
+Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。

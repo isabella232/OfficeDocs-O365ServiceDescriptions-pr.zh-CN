@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: 本主题中列出的功能是基于 Web 的工具集合，可帮助你跨多个设备和多个服务安全地进行协作Office 365通信。 这些功能通过使用社交工具统一创建、存储和管理数字内容，在组织内建立新连接，以在用户之间查找和共享信息。
-ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
-ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
+ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275601"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664485"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 套件功能
 
@@ -51,12 +51,12 @@ Microsoft Forms 允许你快速而轻松地创建自定义测验、调查、调�
   
 ## <a name="microsoft-lists"></a>Microsoft 列表
 
-Microsoft 列表是一Microsoft 365应用程序，可帮助你跟踪信息和组织工作。 列表简单、智能且灵活，因此你可以随时了解团队最重要的事项。 使用可自定义视图和智能规则跟踪问题、资产、例程、联系人、清单等，使每个人都收到通知并保持同步。借助现成的模板，可以快速启动联机列表、新移动应用或Microsoft Teams。 作为企业的一Microsoft 365，您可以依赖企业就绪的安全性和合规性。
+Microsoft Lists是一Microsoft 365，可帮助你跟踪信息和组织工作。 列表简单、智能且灵活，因此你可以随时了解团队最重要的事项。 使用可自定义视图和智能规则跟踪问题、资产、例程、联系人、清单等，使每个人都收到通知并保持同步。借助现成的模板，可以快速启动联机列表、新移动应用或Microsoft Teams。 作为企业的一Microsoft 365，您可以依赖企业就绪的安全性和合规性。
 
 有关详细信息，请参阅：
 
-* [公共 **Microsoft 列表资源中心**](https://aka.ms/MSLists)
-* [公共 **Microsoft 列表采用中心**](https://aka.ms/ListsAdoption)
+* [公共 **Microsoft Lists资源中心**](https://aka.ms/MSLists)
+* [公共 **Microsoft Lists采用中心**](https://aka.ms/ListsAdoption)
 
 ## <a name="microsoft-planner"></a>Microsoft Planner
 

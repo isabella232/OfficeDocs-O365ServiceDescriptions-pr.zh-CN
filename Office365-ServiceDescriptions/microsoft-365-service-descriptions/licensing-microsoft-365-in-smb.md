@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 商业高级版是 Microsoft 为中小型企业客户提供的一流产品。 Microsoft 365 商业高级版是一个集成解决方案，Microsoft 365工作效率、高级安全性和设备管理。
-ms.openlocfilehash: 5b3c1b69135801699ba53b020f0461ed83d7bd90
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653274"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663565"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
@@ -44,7 +44,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |   | 针对 Win 7/8.1 Windows 10 专业版许可证的升级Pro权限 | 否 | 是 |
 |   | Windows 虚拟桌面 | 否 | 是 |
 |**信息保护** | Microsoft 数据丢失防护 | 否 | 是 |
-|   | Azure 信息保护计划 1，BitLocker实施 | 否 | 是 |
+|   | Azure 信息保护计划 1，BitLocker 强制 | 否 | 是 |
 |**合规性** | 无限制电子邮件存档<sup>2</sup> | 否 | 是 |
 
 **注释**
@@ -74,13 +74,13 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |   | Win 7/8.1 Windows 10 专业版的升级权限Pro | 否 | 是 |
 |   | Windows 虚拟桌面 | 否 | 是 |
 |**信息保护** | Microsoft 数据丢失防护 | 是 | 是 |
-|   | Azure 信息保护计划 1，BitLocker实施 | 否 | 是 |
+|   | Azure 信息保护计划 1，BitLocker 强制 | 否 | 是 |
 |**本地 CAL 权限** | ECAL 套件 (Exchange、SharePoint、Skype)  | 是 | 否 |
 |**合规性** | 无限制电子邮件存档<sup>3</sup> | 是 | 是 |
 
 **注释**
 
-<sup>1</sup>指示Microsoft 365 商业标准版计划 1 的功能，并且Office 365 E3 具有计划 2。
+<sup>1</sup>指示Microsoft 365 商业标准版计划 1 的功能，并且Office 365 E3计划 2。
 
 <sup>2</sup> 在美国、英国、加拿大提供。
 
@@ -107,13 +107,13 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |   | 针对 Win 7/8.1 Windows 10 专业版许可证的升级Pro权限 | 否 | 是 | 否 |
 |   | Windows 虚拟桌面 | 否 | 是 | 否 |
 |**信息保护**  | Microsoft 数据丢失防护 | 否 | 是 | 是 |
-|   | Azure 信息保护计划 1，BitLocker实施 | 否 | 是 | 否 |
+|   | Azure 信息保护计划 1，BitLocker 强制 | 否 | 是 | 否 |
 |**本地 CAL 权限** | ECAL 套件 (Exchange、SharePoint、Skype)  | 否 | 否 | 是 |
 |**合规性** | 无限制电子邮件存档<sup>3</sup> | 否 | 是 | 是 |
 
 **注释**
 
-<sup>1</sup>指示Microsoft 365 商业标准版计划 1 的功能，并且Office 365 E3 具有计划 2。
+<sup>1</sup>指示Microsoft 365 商业标准版计划 1 的功能，并且Office 365 E3计划 2。
 
 <sup>2</sup> 在美国、英国、加拿大提供。
 
@@ -148,7 +148,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |**合规性** | 无限制电子邮件存档<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | Advanced eDiscovery、客户密码箱、高级数据管理 | 否 | 否 | 否 | 是 |
 |**分析** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
-| | MyAnalytics 的见解 | 是 | 是 | 是 | 是 |
+| | Insights MyAnalytics | 是 | 是 | 是 | 是 |
 |**Assistance** | 电子邮件简介 | 是 | 是 | 是 | 是 |
 |**语音** | PSTN 会议、云 PBX | 否 | 否 | 否 | 是 |
 
@@ -160,7 +160,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 
 ## <a name="office-client-commercial-plans"></a>Office客户端商业计划
 
-| **应用程序** | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
+| **应用** | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
 |------------------|-------------------------|------------------------|
 | Word             | 是                     | 是                    |
 | Excel            | 是                     | 是                    |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: 以下邮件和对话功能在 Yammer 中可用。
-ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d0b9859bb2486f300354c4c21fb883db5428d0e67913bdd9d78d1043d63e7ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653594"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702191"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Yammer 中的消息和对话功能
 
@@ -27,13 +27,13 @@ ms.locfileid: "51653594"
 
 通知其他同事并通过 @ 提及他们的名称使其加入某个对话。
 
-## <a name="events"></a>事件
+## <a name="events"></a>活动
 
 组织会议和活动，与同事共享它们，并跟踪与会者。 事件可以添加到日历、Outlook、Yahoo！和 iCal 日历。
   
-## <a name="office-for-the-web-support"></a>Office Web 支持
+## <a name="office-for-the-web-support"></a>Office 网页版支持
 
-通过Office web 支持，Yammer中上载到 Yammer 的文档可以直接在 web Office 中查看和编辑Yammer。 这使文档能够通过 Web Office呈现，使不同用户能够同时共同创作，并可以在浏览器中Yammer相关对话。
+由于Office 网页版支持Yammer，上载到Yammer的文档可以直接在 Yammer 中通过 Office 网页版 进行查看和编辑。 这样一来，文档Office 网页版呈现，使不同用户能够同时进行共同创作，并可以在浏览器中Yammer对话的相关内容。
 
 ## <a name="online-now"></a>现在联机
 

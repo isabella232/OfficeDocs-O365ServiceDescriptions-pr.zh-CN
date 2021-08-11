@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio将 Microsoft Visio体验扩展到浏览器，可在浏览器中创建和编辑保存在云中的图表。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096337"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702231"
 ---
 # <a name="visio-features"></a>Visio功能
 
@@ -77,7 +77,7 @@ Office外接程序在 Visio 桌面版中可用，但在 Visio 网页版中尚不
 
 在 Web Visio中不可用。 Office 网页版 Internet 连接和 Internet 浏览器。 您需要在Visio安装桌面应用程序，以便查看和编辑与 Internet 或组织的本地 Web Apps Server Office图表。 如果已安装Visio应用程序，可以使用桌面应用程序的完整Visio脱机查看和编辑图表。 保存时，联机图表将随更改一起更新。 还可以下载并保存图表的脱机副本，但它不会与联机版本同步。 若要了解有关 Web Apps Server Office，请参阅 Office [Web Apps Server。](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)
 
-## <a name="print-to-pdf"></a>打印为 PDF 格式
+## <a name="print-to-pdf"></a>打印为 PDF
 
 可以使用适用于 Web 的打印Visio PDF 或打印机。
 

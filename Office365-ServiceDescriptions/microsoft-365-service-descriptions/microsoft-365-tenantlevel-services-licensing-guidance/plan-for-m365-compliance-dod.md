@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国政府实体或其他处理受政府法规和要求（使用 Microsoft 365 Government – DoD 适合满足这些要求的实体）中部署 Office 365 的 IT 专业人员。
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545999"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663325"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
@@ -62,7 +62,7 @@ ms.locfileid: "52545999"
 
 为满足政府云客户的要求，政府版 -doD Microsoft 365计划之间存在一些差异。 请参阅下表，了解哪些功能可用。 有关[在](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)Microsoft 365 路线图上发布的最新合规性产品更新，请参阅此处。<br><br>
 
-| 领域 | 功能 | DoD 状态 |
+| 区域 | 功能 | DoD 状态 |
 |------|---------|------------|
 | **信息保护** | 统一标记客户端和扫描程序 | 可用 |
 | | 精确数据匹配 | 可用 |
@@ -108,7 +108,7 @@ ms.locfileid: "52545999"
 | | 记录管理：处置证明 | 可用 |
 | | 记录管理：记录版本控制 | 可用 |
 | | 记录管理：法规记录 | 可用 |
-| | 记录管理：使用SharePoint分类应用记录标签 | 工程积压工作 |
+| | 记录管理：使用SharePoint Syntex分类应用记录标签 | 工程积压工作 |
 | **内部风险管理** | 客户密码箱 | 可用 |
 | | 内部风险管理：案例仪表板、内容资源管理器和通知模板 | 即将推出 |
 | | 内部风险管理：升级以进行调查Advanced eDiscovery | 即将推出 |
