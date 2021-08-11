@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: 以下项目规划功能在 Project Online。
-ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4b27ead33200855bab441d2b55f50c41c80d3e078ced240903443925876e74f1
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651047"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702671"
 ---
 # <a name="project-planning"></a>项目计划
 
@@ -53,7 +53,7 @@ ms.locfileid: "51651047"
 
 将多个分组行应用于项目计划。详细了解如何[对任务或资源进行分组](https://go.microsoft.com/fwlink/p/?LinkId=271326)。
   
-## <a name="reports"></a>报表
+## <a name="reports"></a>报告
 
 使用 Project 2016，可以创建简洁明快、色彩丰富的专业报告，而无需将数据导出到另一程序中。 添加图片、图表、动画、链接等您必须执行的所有内容，以与利益干系人和团队成员明确有效地共享项目 &mdash; 状态信息。 详细了解如何[创建项目报告](https://go.microsoft.com/fwlink/p/?LinkId=271349)。
   

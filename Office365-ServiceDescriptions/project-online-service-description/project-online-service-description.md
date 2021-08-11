@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online是一种灵活的联机解决方案，用于项目组合 (PPM) 和日常工作。 通过Office 365，Project Online几乎从任何设备上提供强大的项目管理功能，用于规划、确定项目和项目组合投资优先级以及管理项目组合投资。 Project Online 适用于管理员、项目组合经理、项目组合查看者、项目经理、资源经理、工作组领导和成员。
-ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537258"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702793"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft 项目服务说明
 
@@ -161,7 +161,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |时间表审批 | 工作组成员可以提交时间表进行审批。 资源经理和主管可以审阅、批准或拒绝提交的时间表。 | 是 | 是 |
 |非工作时间设置 | 将假期、假日、病假以及其他非工作时间添加到项目计划中。 | 否 | 是 |
 |**协作** ||||
-|Attachments | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
+|附件 | 在团队、项目或任务级别附加文档、图像和其他文件。 在团队或项目级别的中央库中管理这些附件。 | 是 | 是 |
 |外部团队成员 |通过授予他们查看项目、任务和文档的权限，与组织外部人员进行协作。<sup>6</sup> | 是 | 是 |
 |项目网站 | 为项目创建和自定义协作和文档中心。 | 是 | 是 |
 |Microsoft Teams集成 | 协作处理项目中Microsoft Teams。<sup>1</sup> | 是 | 是 |
@@ -197,7 +197,7 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |用户管理 | 在项目、团队和组织级别管理用户和组角色及权限。 | 否 | 是 |
 |服务管理 | 规划、安装和配置、维护和扩展 Microsoft Project 环境，作为 Office 365<sup>1 环境的</sup>一部分。 | 否 | 是 |
 
-#### <a name="notes"></a>注意
+#### <a name="notes"></a>注释
 
 <sup>1</sup>需要Office或Microsoft 365订阅。<br/>
 <sup>2</sup> Azure Boards单独获取。<br/>
@@ -251,14 +251,14 @@ Microsoft Project三个不同的订阅，以最好地满足组织的需求。 �
 |Out-of-box reporting | 使用预建报表了解项目、计划、项目组合和资源数据。 |
 |PDF and XPS output | 将Project文件另存为 PDF 或 XPS 文件。 |
 |**可用性**||
-|自动完成 | 在键入时获取任务或资源名称和依赖项的建议。 |
+|Auto-complete | 在键入时获取任务或资源名称和依赖项的建议。 |
 |筛选的视图 | 按计划中的任意值筛选项目计划 |
 |图形指示器 | 使用图形指示器了解任务状态、工作分配等。 |
 |多级撤消 | 使用"撤消"菜单同时撤消 **多个** 更改。 |
 |排序和分组 | 使用自定义排序和分组获取项目、任务和资源的重点视图。|
 |**自定义和集成**||
 |自定义域 | 在项目、任务和资源级别添加自定义域，以跟踪对您的组织和项目非常重要的数据。 |
-|表单 | 创建和部署自定义表单以捕获重要的项目数据。 |
+|Forms | 创建和部署自定义表单以捕获重要的项目数据。 |
 |公式 | 使用跨任务和项目的公式计算和捕获重要数据。 |
 |模板 | 为常见项目（包括项目计划、工作组和工作分配）创建模板。 |
 |.mpp 导入/导出 | 从现有 .mpp 文件创建新项目或创建现有项目的 .mpp 文件。 |

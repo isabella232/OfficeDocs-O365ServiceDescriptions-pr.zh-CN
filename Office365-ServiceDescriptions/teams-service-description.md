@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: 了解跨Microsoft Teams计划提供的服务Microsoft 365 Office 365可用性。
-ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
-ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
+ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409679"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702901"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams 服务说明
 
@@ -27,7 +27,7 @@ Microsoft Teams是团队合作的中心Microsoft 365。 该服务Teams即时消�
 
 下表列出了跨计划Microsoft Teams的主要功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 请参阅Microsoft 365服务更改消息的消息中心通知和[Microsoft 许可条款参考文档](https://www.microsoft.com/licensing/product-licensing/products)。<br><br>
 
-| 功能 | 小型企业 | Enterprise计划 | GCC | GCC - 高 | DOD | 教育版 |
+| 功能 | 小型企业 | Enterprise计划 | GCC | GCC - 高 | DOD | 教育 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |聊天 |是 |是 |是 |是 |是 |是 |
 |Teams |是|是|是|是<sup>1</sup> |是<sup>1</sup> |是 |
@@ -38,7 +38,7 @@ Microsoft Teams是团队合作的中心Microsoft 365。 该服务Teams即时消�
 |音频PowerPoint视频桌面的屏幕共享|是 |是 |是 |是 |是 |是 |
 |语音 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
 |音频会议 |是 |是 |是 |是<sup>3</sup> |是<sup>3</sup> |是 |
-|应用、聊天机器人&连接器 |是 |是 |是<sup>5</sup> |是<sup>5</sup> |是<sup>4，5</sup> |是的。 |
+|应用、聊天机器人&连接器 |是 |是 |是<sup>5</sup> |是<sup>5</sup> |是<sup>4，5</sup> |是 |
 |实时事件 |否 |是 |是 |否<sup>6</sup> |否<sup>6</sup> |是 |
 
 <sup>1</sup> Microsoft Teams中GCC-High DOD 支持单个团队中的 2500 个成员。<br/>

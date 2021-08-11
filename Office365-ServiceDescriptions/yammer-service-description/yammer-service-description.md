@@ -12,81 +12,106 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同计划中可用的Yammer。
-ms.openlocfilehash: 5d958904838db6374a607bd3f68e42e8969d73f01f6f9656060c56621fbc903a
-ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
+ms.openlocfilehash: 477eb2cae7fc12ffc610f54cdd75595314da63bdf955d82144d4faecde91174c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57823633"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702911"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
-吸引人员比以往更加重要。 Yammer领导、沟通者以及员工联系，以构建社区、共享知识并参与所有人。 Yammer可帮助你连接并参与整个组织，以便你可以与他人讨论想法、共享更新和网络。
+Yammer 是一流的、安全的专用企业社交网络。 Yammer 使员工可以轻松协作、更快作出决策并自组团队，以使其更加高效和成功，从而能够承担任何业务挑战。 它是一种新的工作方式，可轻松提高企业联合性和灵活性、减少周期时间、吸引员工并改进与客户和合作伙伴的关系。
   
-## <a name="available-plans"></a>可用计划
+有关包含这些服务的计划Yammer，请参阅[Microsoft 服务系列和计划](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans)。
   
-有关包含启用用户订阅的计划信息的计划的完整Yammer，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+有关允许用户进行订阅订阅的详细Yammer，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
-## <a name="feature-availability"></a>功能可用性
-
-下表列出了可用的主要Yammer功能。 此表可能会更改，无需 (某些注意事项) 。
-
-| 功能  | 小型企业版 | 企业 | 教育 |
-|---------|---------|---------|---------|
-|[Yammer源](https://support.microsoft.com/office/what-s-in-the-yammer-home-and-discovery-feeds-faaadbe1-4e57-4f17-89f1-e546509fba47) | 是     | 是     | 是     |
-|[社区](https://support.microsoft.com/office/manage-communities-33f252f7-6241-40e1-8f42-ce1b635176fb) | 是     | 是     | 是     |
-|[Community Insights](https://support.microsoft.com/office/view-community-insights-in-yammer-48bc648e-b567-49d7-b2b5-5fea23777c46) | 是     | 是     | 是     |
-|[讨论、投票、表扬、公告和问题](https://support.microsoft.com/office/create-polls-praise-announcements-and-questions-in-yammer-4b30c7e0-f915-4c69-9582-ccbbd09a516b) | 是     | 是     | 是     |
-|[主题和井号](https://support.microsoft.com/office/use-topics-and-hashtags-in-yammer-98c0a0bb-aad0-45d3-88f1-4f6d12bb1772) | 是     | 是     | 是     |
-|[标记问题的最佳答案](https://support.microsoft.com/office/use-questions-and-answers-in-a-yammer-community-a4f1b722-d1bf-42be-a592-7288c7c0b895) | 是     | 是     | 是     |
-|[文件](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-8d2d17f7-8f37-4535-961e-518d751be7e8) | 是     | 是     | 是     |
-|[直播活动](https://support.microsoft.com/office/organize-a-live-event-in-yammer-8853cbd0-d3e2-4888-b8c3-6f3df288dec9) | 是     | 是     | 是     |
-|[收件箱](https://support.microsoft.com/office/manage-your-yammer-inbox-f1656c47-7043-40f5-970c-3e66ed7a70f1) | 是     | 是     | 是     |
-|[外部网络&来宾](/yammer/work-with-external-users/collaborate-guests-external-yammer-community) | 是     | 是     | 是     |
-|[Yammer平台](https://developer.microsoft.com/yammer) | 是     | 是     | 是     |
-|[管理员功能](/yammer/) | 是     | 是     | 是     |
-
-## <a name="messaging"></a>消息传递
-
-若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
-
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer企业服务通信策略
-
-Yammer遵循"更改Microsoft 365策略，但[](https://aka.ms/ManageChange)确实使用定向发布来推出一些Microsoft 365更新。 Yammer用户需接受 A/B 功能测试或测试。 这使 Microsoft 可以测试功能，以改进许多环境和设备的稳定性、性能和体验。 同一网络中的用户可能会有不同的测试体验。 客户不能选择停用 A/B 测试。
-
-## <a name="licensing-terms"></a>许可条款
-
-有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/licensing/terms/)。
-
-## <a name="accessibility"></a>辅助功能
-
-Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](https://www.microsoft.com/trust-center/compliance/accessibility)。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
-
-## <a name="learn-more"></a>了解详细信息
-
-有关此Yammer，请查看以下资源：
-
-- 在 Yammer 中[Limits](/office365/servicedescriptions/yammer-service-description/yammer-limits)
-- [Yammer采用](https://adoption.microsoft.com/yammer/)
-- [Yammer帮助&学习 - Microsoft 支持](https://support.microsoft.com/yammer)
-- [Yammer视频培训 - Office支持 (microsoft.com) ](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
-- [Yammer博客 (microsoft.com) ](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
-
 ## <a name="system-requirements"></a>系统要求
 
-有关适用于企业Office 365政府组织的基于每月订阅的服务的系统要求，请参阅 Microsoft 365 和 Office [Resources。](https://products.office.com/office-system-requirements/#Office365forBEG)
+有关企业Office 365订阅服务（适用于企业、教育以及政府组织的基于每月订阅的服务）的系统要求，请参阅 Microsoft 365 和[Office Resources。](https://products.office.com/office-system-requirements/#Office365forBEG)
+  
+## <a name="yammer-plans"></a>Yammer 计划
 
-## <a name="supported-clients-and-integrations"></a>支持的客户端和集成
+可以通过以下计划使用 Yammer：<br><br>
+  
+| 计划 | 说明 |
+|:-----|:-----|
+|[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |企业社交网络 - 随时随地。  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise高级安全性、管理和集成来建立社交网络。  <br/> |
+   
+> [!NOTE]
+> Microsoft 365 和 Office 365[平台](../office-365-platform-service-description/office-365-platform-service-description.md)服务说明中所述的功能和策略不适用于 Yammer 服务。 
+  
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer企业服务通信策略
+<a name="YammerCommsPolicy"> </a>
 
-目前通常提供以下内容：
+Yammer遵循更改Microsoft 365策略，但不使用[](https://aka.ms/ManageChange)定向发布来推出更新。 
+  
+所有 Yammer 用户都要进行 A/B 功能测试。 这使 Microsoft 可以测试功能，以改进许多环境和设备的稳定性、性能和体验。 同一网络中的用户可能会有不同的测试体验。 客户不能选择停用 A/B 测试。
+  
+我们会提前通知任何需要客户采取措施的更改或预期会对客户产生重大影响的更改（A/B 测试、新功能、弃用程度、合规性边界、工作流变更）。我们已确定这样一种方案，其中 Yammer 进行更改时会对有限的一小部分用户造成影响。此示例可能会更改或删除功能，如 Yammer Chrome 扩展，即参与度较低但一小部分用户已启用的功能。在这些情况下，我们认为除了按照上述策略中所列出的与验证管理员的常用通讯信道进行沟通外，还直接与这些用户沟通，这将为一部分受更改影响的用户提供良好的用户体验。对于分类为仅影响一组目标用户的"需要采取措施的更改（更改计划）"或"需要感知的更改（随时获得通知）"的更改，我们可能会直接通知这些用户。下表已经过更新，以反映此更改。 
+  
+通信渠道视影响而定：<br><br>
+  
+| 更改类型 | 信道 |
+|:-----|:-----|
+|**需要操作的更改 (更改计划)** <br/>管理员需要进行更改以保持服务运行，这些更新可能会影响组织的合规性  <br/> |- Office 365直接发送到已验证Yammer的邮件中心电子邮件 <br/>- Microsoft 365路线图<br/>- Yammer服务更新<br/>- 外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
+|**需要感知的更改 (及时了解)**<br/>不需要管理员操作的更改、可视化设计更改  <br/> |- Office 365消息中心<br/>- Microsoft 365路线图<br/>- Yammer服务更新<br/>- 外部组<br/>对于影响一组目标用户的更改，我们可能也会直接通知这些用户。 |
+|**非关键** <br/>非关键更改，不需要操作或感知更改，即使某些用户可能会观察到这些更改，  <br/> |不会进行广泛通信。 |
+   
+## <a name="feature-availability-across-yammer-plans"></a>跨 Yammer 计划的功能可用性
 
-- [新增Yammer](https://support.microsoft.com/office/welcome-to-new-yammer-8c749c30-2d17-4153-a3cc-37a70f254681)
-- [经典Yammer](https://support.microsoft.com/office/welcome-to-classic-yammer-02ac514e-cf1d-4060-9cde-6038ca812ede)
-- [社区应用程序](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21)Microsoft Teams
-- 新的Yammer[桌面应用](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
-- [SharePoint突出显示和对话 Web 部件](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
-- [Yammer嵌入 (新模式和经典Yammer) ](https://developer.yammer.com/docs/new-embed-feed)
-- [电子邮件中的交互式Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
-- [Yammer Android 上的 iPhone、iPad 移动应用](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
-
-经典桌面Yammer在 2021 年 7 月 31 日被弃用。
+需要帮忙找出最适合您组织需求的 Yammer 计划吗？ 使用下表可查看每个计划中的可用功能。 选择一个功能名称以阅读有关该功能在 Yammer 中的工作方式的简短Yammer。<br><br>
+  
+| 功能 | Yammer Basic | Yammer Enterprise |
+|:-----|:-----|:-----|
+|[组](group-features-in-yammer.md#groups) <br/> | 是  <br/> |是  <br/> |
+|[相关组](group-features-in-yammer.md#related-groups) <br/> |是  <br/> |是  <br/> |
+|[通知](group-features-in-yammer.md#announcements) <br/> |否  <br/> |是  <br/> |
+|[用户配置文件](profile-features-in-yammer.md#user-profiles) <br/> |是  <br/> |是  <br/> |
+|[专业技能](profile-features-in-yammer.md#expertise) <br/> |是  <br/> |是  <br/> |
+|[成员目录](profile-features-in-yammer.md#member-directory) <br/> |是  <br/> |是  <br/> |
+|[组织结构图](profile-features-in-yammer.md#org-chart) <br/> |是  <br/> |是  <br/> |
+|[赞扬](profile-features-in-yammer.md#praise) <br/> |是  <br/> |是  <br/> |
+|[排行榜](profile-features-in-yammer.md#leaderboards) <br/> |是  <br/> |是  <br/> |
+|[发布程序](message-and-conversation-features-in-yammer.md#publisher) <br/> |是  <br/> |是  <br/> |
+|[@ 提及](message-and-conversation-features-in-yammer.md#section) <br/> |是  <br/> |是  <br/> |
+|[现在联机](message-and-conversation-features-in-yammer.md#online-now) <br/> |是  <br/> |是  <br/> |
+|[私人邮件](message-and-conversation-features-in-yammer.md#private-messages) <br/> |是  <br/> |是  <br/> |
+|[共享对话](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |是  <br/> |是  <br/> |
+|[活动](message-and-conversation-features-in-yammer.md#events) <br/> |是  <br/> |是  <br/> |
+|[投票](message-and-conversation-features-in-yammer.md#polls) <br/> |是  <br/> |是  <br/> |
+|[文件](document-collaboration-features-in-yammer.md#files) <br/> |是  <br/> |是  <br/> |
+|[最近更改](document-collaboration-features-in-yammer.md#recent-changes) <br/> |是  <br/> |是  <br/> |
+|[官方内容](document-collaboration-features-in-yammer.md#official-content) <br/> |否  <br/> |是  <br/> |
+|[收件箱](inbox-features-in-yammer.md#inbox) <br/> |是  <br/> |是  <br/> |
+|[收件箱搜索](inbox-features-in-yammer.md#inbox-search) <br/> |是  <br/> |是  <br/> |
+|[新闻复制](discovery-features-in-yammer.md#feeds) <br/> |是  <br/> |是  <br/> |
+|[Ticker](discovery-features-in-yammer.md#ticker) <br/> |是  <br/> |是  <br/> |
+|[主题](discovery-features-in-yammer.md#topics) <br/> |是  <br/> |是  <br/> |
+|[通用搜索](discovery-features-in-yammer.md#universal-search) <br/> |否  <br/> |是  <br/> |
+|[即时提前键入](discovery-features-in-yammer.md#instant-type-ahead) <br/> |是  <br/> |是  <br/> |
+|[外部网络](external-network-features-in-yammer.md#external-networks) <br/> |是  <br/> |是  <br/> |
+|[快速网络切换](external-network-features-in-yammer.md#fast-network-switching) <br/> |是  <br/> |是  <br/> |
+|[Yammer连接登录](yammer-platform-features.md#yammer-connect-login) <br/> |是  <br/> |是  <br/> |
+|[可嵌入源](yammer-platform-features.md#embeddable-feeds) <br/> |是  <br/> |是  <br/> |
+|["喜欢"和"关注"按钮](yammer-platform-features.md#like-and-follow-buttons) <br/> |是  <br/> |是  <br/> |
+|[浏览器扩展](yammer-platform-features.md#browser-extension) <br/> |是  <br/> |是  <br/> |
+|[活动流 API](yammer-platform-features.md#activity-stream-api) <br/> |是  <br/> |是  <br/> |
+|[自定义网络品牌](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |否  <br/> |是  <br/> |
+|[用户管理](administration-and-security-features-in-yammer.md#user-management) <br/> |否  <br/> |是  <br/> |
+|[单一标识](administration-and-security-features-in-yammer.md#single-identity) <br/> |是  <br/> |是  <br/> |
+|[目录同步](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |否  <br/> |是  <br/> |
+|[数据导出](administration-and-security-features-in-yammer.md#data-export) <br/> |否  <br/> |是  <br/> |
+|[关键字监视](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |否  <br/> |是  <br/> |
+|[分析](administration-and-security-features-in-yammer.md#analytics) <br/> |否  <br/> |是  <br/> |
+|[组织资源](administration-and-security-features-in-yammer.md#organization-resources) <br/> |是  <br/> |是  <br/> |
+|[密码策略](administration-and-security-features-in-yammer.md#password-policies) <br/> |否  <br/> |是  <br/> |
+|[会话管理](administration-and-security-features-in-yammer.md#session-management) <br/> |否  <br/> |是  <br/> |
+|[逻辑防火墙](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |否  <br/> |是  <br/> |
+|[使用策略](administration-and-security-features-in-yammer.md#usage-policy) <br/> |否  <br/> |是  <br/> |
+|[FastTrack 中心](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |否  <br/> |是  <br/> |
+|[客户支持](support-features-in-yammer.md#customer-support) <br/> |是  <br/> |是  <br/> |
+|[管理员支持](support-features-in-yammer.md#administrator-support) <br/> |否  <br/> |是  <br/> |
+|[管理员专用内容模式](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |否  <br/> |是  <br/> |

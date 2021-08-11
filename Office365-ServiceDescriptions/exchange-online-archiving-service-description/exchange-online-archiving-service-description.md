@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: 阅读本文以了解 Microsoft Exchange Online Archiving。
-ms.openlocfilehash: 249f8583cac9ca5d2df61be3e6b436306d590374fe0c02b506f2b48d63781b47
-ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
+ms.openlocfilehash: 2d37cc6c7cd4f75ae9a4ffb3da994e5b942f294d2d12fde869910d5506c69738
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57823641"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664575"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
@@ -42,16 +42,15 @@ Microsoft Exchange Online存档是一种基于云的 Microsoft 365 企业级存�
   
 | 计划 | 说明 |
 |:-----|:-----|
-|**适用于 Exchange Server 的 Exchange Online Archiving** <br/> |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中拥有主邮箱的用户。 <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署详细信息，请参阅Exchange Server[部署](/exchange/exchange-hybrid)。 <br/> |
-|**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** <br/> |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中拥有主邮箱的用户。 有关详细信息，请参阅客户端 [访问许可证和管理许可证](https://www.microsoft.com/licensing/product-licensing/client-access-license)。 <br/> |
-|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 作为以下计划<sup>1，2，3</sup>的附加项的基于云的存档和就地保留：<br/> Exchange Online 计划 1 <br/> Exchange Online Kiosk <br/> Microsoft 365 商业基础版 <br/> Microsoft 365 商业标准版 <br/> Microsoft 365 商业高级版 <br/> Office 365 E1 <br/> Office 365 A1 <br/> Office 365G1 <br/> Office 365F3 <br/> Microsoft 365 F3<br/> <b>注意：</b>以下计划已包含存档，不需要Exchange Online Archiving加载项：<br/>Office 365 A3 <br/> Office 365 A5 <br/> Office 365 E3 <br/> Office 365 E5 <br/> Exchange Online 计划 2 <br/>Microsoft 365 E3 <br/> Microsoft 365 E5 <br/>有关邮箱的存档功能Exchange Online，请参阅存档[邮箱中的Exchange Online Archiving。](./archive-features.md)|
-
-<sup>1</sup> 仅使用云的组织无需混合部署，此类组织的 Exchange 本地服务器上没有邮箱。 但是，如果存在本地邮箱，则需要配置混合部署。
+|**适用于 Exchange Server 的 Exchange Online Archiving** <br/> |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中拥有主邮箱的用户。  <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署详细信息，请参阅Exchange Server[部署](/exchange/exchange-hybrid)。  <br/> |
+|**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** <br/> |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中拥有主邮箱的用户。 有关详细信息，请参阅客户端 [访问许可证和管理许可证](https://www.microsoft.com/licensing/product-licensing/client-access-license)。  <br/> |
+|**适用于 Exchange Online 的 Exchange Online Archiving** <br/> | 作为以下计划<sup>1、2</sup>的加载项的基于云的存档和就地保留：<br/>  Exchange Online 计划 1  <br/>  Exchange Online Kiosk  <br/>  Microsoft 365 商业基础版  <br/>  Microsoft 365 商业标准版  <br/>  Office 365 企业版 E1  <br/>  Office 365 企业版 F3  <br/> Microsoft 365 企业版F3<br/> <b>注意：</b>以下计划已包含存档，不需要Exchange Online Archiving加载项：<br/>Office 365 教育版 A1 <br/>Office 365 教育版 A3 <br/>  Office 365 教育版A5 <br/>  Office 365 企业版 E3 <br/>  Office 365 企业版 E5 <br/>  Exchange Online 计划 2 <br/> Microsoft 365 商业高级版 <br/>Microsoft 365 企业版 E3 <br/> Microsoft 365 企业版 E5 <br/>有关邮箱的存档功能Exchange Online，请参阅存档[邮箱中的Exchange Online Archiving。](./archive-features.md)           |
+   
+>[!NOTE]
+><sup>1</sup> 仅使用云的组织无需混合部署，此类组织的 Exchange 本地服务器上没有邮箱。 但是，如果存在本地邮箱，则需要配置混合部署。
 <br/>
-<sup>2 Exchange Online</sup>计划 1、Office 365 E1/A1/G1 和 Microsoft 365 商业基础版/Standard/高级版 对邮箱和存档具有大小限制。 有关详细信息，请参阅Exchange Online[限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online Archiving for Exchange Online 附加内容可提供无限制且基于云的存档和[就地保留和诉讼保留](compliance-and-security-features.md#in-place-hold-and-litigation-hold)功能。
-<br/>
-<sup>3</sup>包括美国政府GCC、GCC-高和 DoD 计划。
-
+<sup>2 Exchange Online</sup> 1 和 Microsoft 365 应用版 计划对邮箱和存档具有大小限制。 有关详细信息，请参阅Exchange Online[限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online Archiving for Exchange Online 附加内容可提供无限制且基于云的存档和[就地保留和诉讼保留](compliance-and-security-features.md#in-place-hold-and-litigation-hold)功能。
+  
 要查找有关所有计划Microsoft 365的信息？ Microsoft 365提供了各种计划，以最好地满足组织的需求。 有关不同计划的信息，包括独立计划选项和从一个计划移动到另一个计划的信息，请参阅Office 365[计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
   
 ## <a name="requirements"></a>要求
