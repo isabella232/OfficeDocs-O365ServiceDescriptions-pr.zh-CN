@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 了解美国政府SharePoint客户使用的功能可用性。
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: 了解美国政府SharePoint客户的功能可用性。
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701821"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371768"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint美国政府环境
 
-本文概述了美国政府云与商业云之间的功能差异，如 SharePoint [service description 中所列](../../sharepoint-online-service-description/sharepoint-online-service-description.md)。 SharePoint适用于 政府社区云 (GCC) 、GCC High 和 DoD 环境。 
+本文概述了美国政府云与商业云之间的功能差异，如SharePoint[说明所列](../../sharepoint-online-service-description/sharepoint-online-service-description.md)。 SharePoint可用于 政府社区云 (GCC) GCC High 和 DoD 环境。 
 
 有关政府云（包括资格和购买）Microsoft 365[政府 - 如何购买](./microsoft-365-government-how-to-buy.md)。 若要比较Office 365 政府版，请参阅Office 365 政府版[计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
@@ -27,7 +27,7 @@ ms.locfileid: "54701821"
 
 除了享受云解决方案Office 365，组织还可从美国政府云环境独有的以下功能中获益：
 
--   在逻辑上，组织的客户内容与 Microsoft 商业或Office 365内容隔离。
+-   组织的客户内容在逻辑上与 Microsoft 商业服务中的客户Office 365隔离。
 -   您组织的客户内容存储在美国境内。
 -   对组织的客户内容的访问权限只限于屏蔽的 Microsoft 员工。
 -   政府云环境符合美国公共部门客户所需的认证和资格鉴定。
@@ -48,12 +48,12 @@ ms.locfileid: "54701821"
 以下是商业客户的 IT 管理员功能与政府云客户的 IT 管理员功能之间的差异。
 
 - 网站地址更改不适用于高GCC客户
-- 混合SharePoint服务器不可用于所有政府云客户
+- 混合SharePoint服务器并非适用于所有政府云客户
 - 迁移SharePoint和迁移管理器需要更改配置。 有关信息，请参阅 [SPMT 政府云支持](/sharepointmigration/spmt-install-issues#government-cloud-support)。
 - Mover.io 尚不支持
 - 多地理位置并非适用于所有政府云客户
 
-有关迁移FastTrack，请参阅美国政府Office 365[说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
+有关迁移FastTrack，请参阅美国政府Office 365[服务说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
 
 ## <a name="security-and-compliance-features"></a>安全性和合规性功能
 
@@ -61,9 +61,11 @@ ms.locfileid: "54701821"
 
 有关安全性和合规性功能的信息，请参阅安全与& [中心](../office-365-securitycompliance-center.md)。
 
-有关政府Azure Active Directory功能的信息，请参阅[Azure 政府安全 + 标识文档](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
+有关政府Azure Active Directory的信息，请参阅[Azure 政府安全 + 标识文档](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
 有关 Azure 信息保护政府功能的信息，请参阅[Azure 信息保护高级版政府服务说明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。 
+
+有关这些功能SharePoint Syntex，请参阅 SharePoint Syntex [features Service Description](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)。
 
 ## <a name="sites-and-content"></a>网站和内容
 
@@ -72,7 +74,7 @@ ms.locfileid: "54701821"
 - 依赖于 Internet 服务连接的 Web 部件（如 Amazon Tube、必应地图、Twitter 和 YouTube Web 部件）无法如期工作
 - 组织资产库不可用
 - 向网站添加Teams页面不适用于高GCC DoD 客户
-- Graph当前禁用 SharePoint Online 中GCC高的功能。 任何依赖 Microsoft Graph服务当前可能不可用
+- Graph当前禁用 SharePoint Online 中GCC高的功能。 任何依赖 Microsoft Graph服务可能当前不可用
 - 依赖于 Internet 服务连接的功能（如股票图像选项卡）无法按预期工作
 - 文件和网站活动的通知不可用
 - 新闻 Web 部件将仅从当前网站拉取新闻。 来自选定网站或中心新闻汇总的关联网站新闻不适用于高GCC DoD 客户
