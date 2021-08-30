@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 1bac942dcf8923f07197a3617e057c7fc409081c
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363629"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505701"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -1214,4 +1214,4 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 
 扫描此 QR 码在 WeChat 上关注这项服务，获取由世纪互联运营的 Office 365 的最新动态。
 
-![WeChat 的 QR 代码](../media/8f6064e6-ccf3-4050-97e3-619058b3c806.jpg)
+![WeChat 的 QR 代码。](../media/8f6064e6-ccf3-4050-97e3-619058b3c806.jpg)
