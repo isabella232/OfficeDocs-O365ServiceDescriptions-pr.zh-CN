@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: ''
 description: Microsoft Planner 是一种直观、协作的任务管理工具，使用户能够规划、管理和完成基于任务的计划。
-ms.openlocfilehash: 7b98ca5fc471bc309f26fe888cb103f027b321ce10b606c25e55ede64b0939d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ee07c27be65b49b6f2bd89005c8a07a54021bff0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702831"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669829"
 ---
 # <a name="microsoft-planner-service-description"></a>Microsoft Planner 服务说明
 
@@ -64,7 +64,7 @@ Microsoft Planner 是一种直观、协作的任务管理工具，使用户能�
 
 ### <a name="messaging"></a>消息传递
 
-若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
+若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。有关详细信息，请参阅 [消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 

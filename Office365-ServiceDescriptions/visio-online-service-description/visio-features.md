@@ -8,26 +8,26 @@ ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio将 Microsoft Visio体验扩展到浏览器，可在浏览器中创建和编辑保存在云中的图表。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。
-ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Visio Web 支持将 Microsoft Visio体验扩展到浏览器，可在浏览器中创建和编辑保存在云中的图表。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。
+ms.openlocfilehash: 35c801c4753676b9a1e0674972ce0c5a6c222b2c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702231"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670640"
 ---
 # <a name="visio-features"></a>Visio功能
 
-Visio Web 和桌面应用允许用户从浏览器或桌面创建和编辑图表，并保存在云中。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。 Visio用户可以使用丰富的功能，如以下各节中所述的功能。
+Visio Web 和桌面应用允许用户从浏览器或桌面创建和编辑图表，并保存在云中。 Microsoft 365客户可以查看、打印和共享图表，还可以在外线插入注释。 Visio用户可以使用丰富的功能，如以下部分中所述的功能。
 
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>对文本和形状应用多种格式
 
-编辑功能（如更多颜色、渐变、效果和样式）Visio Web 和桌面应用程序中提供。 您还可以添加文本框或从形状库中选择并应用定义填充、轮廓和阴影效果的样式。
+编辑功能（如更多颜色、渐变、效果和样式）在 web Visio 和桌面应用程序中可用。 您还可以添加文本框或从形状库中选择并应用定义填充、轮廓和阴影效果的样式。
 
 ## <a name="arrange-objects"></a>排列对象
 
@@ -35,7 +35,7 @@ Visio Web 和桌面应用允许用户从浏览器或桌面创建和编辑图表�
 
 ## <a name="build-mashup-solutions"></a>生成混合 Web 应用程序解决方案
 
-JavaScript Visio API 支持开发人员访问和操作Visio图表、页面及其形状。
+JavaScript 混合Visio API 支持开发人员访问和操作Visio图表、页面及其形状。
 
 ## <a name="create-diagrams"></a>创建关系图
 
@@ -47,19 +47,19 @@ JavaScript Visio API 支持开发人员访问和操作Visio图表、页面及其
 
 ## <a name="edit-diagrams"></a>编辑关系图
 
-Visio包括丰富的编辑功能，可用于更改图表。 您还可以使用各种主题颜色和布局修改图表的设计。
+Visio丰富的编辑功能，可用于更改图表。 您还可以使用各种主题颜色和布局修改图表的设计。
 
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>在 SharePoint、Web 或博客页中嵌入关系图
 
-您可以使用 Visio 网页版在 Visio 桌面应用程序 (、Web 或博客) SharePoint 中创建的 Visio 图表。 有关详细信息，请参阅[Visio 网页：常见问题](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)。
+您可以使用 Visio 网页版在 Visio、web 或博客 (Visio 桌面) 中创建的 SharePoint 图表。 有关详细信息，请参阅[Visio 网页：常见问题](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee)。
 
 ## <a name="find"></a>查找
 
-在 Visio 网页版中，可以通过选择"更多 **("** 省略号按钮) 然后选择"查找 ("或按 Ctrl+F) 来搜索页面上出现的单词、数字或短语。 结果显示在图表旁边。 Visio搜索形状名称、形状文本、形状数据和用户定义的单元格。
+在 Visio 网页版中，可以通过选择"更多 ("省略号按钮) 然后选择"查找 ("或按 Ctrl+F) 来搜索页面上出现的单词、数字或短语。 结果显示在图表旁边。 Visio搜索形状名称、形状文本、形状数据和用户定义的单元格。
 
 ## <a name="font-formatting"></a>字体格式
 
-您可以更改字体、字号和其他字体外观属性 (如 Web 字体中的粗体、斜体、上标) 或Visio下划线。
+您可以更改字体、字号和其他字体外观属性 (例如，在 Web 的字体) 斜体、上标Visio下划线。
 
 ## <a name="hyperlinks"></a>Hyperlinks
 
@@ -75,7 +75,7 @@ Office外接程序在 Visio 桌面版中可用，但在 Visio 网页版中尚不
 
 ## <a name="offline-viewing"></a>Office 查看
 
-在 Web Visio中不可用。 Office 网页版 Internet 连接和 Internet 浏览器。 您需要在Visio安装桌面应用程序，以便查看和编辑与 Internet 或组织的本地 Web Apps Server Office图表。 如果已安装Visio应用程序，可以使用桌面应用程序的完整Visio脱机查看和编辑图表。 保存时，联机图表将随更改一起更新。 还可以下载并保存图表的脱机副本，但它不会与联机版本同步。 若要了解有关 Web Apps Server Office，请参阅 Office [Web Apps Server。](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)
+在 Web Visio中不可用。 Office 网页版 Internet 连接和 Internet 浏览器。 您需要在Visio安装桌面应用程序，以便查看和编辑与 Internet 或组织本地 Office Web Apps Server 断开连接的图表。 如果已安装Visio应用程序，可以使用桌面应用程序的完整Visio脱机查看和编辑图表。 保存时，联机图表将随更改一起更新。 还可以下载并保存图表的脱机副本，但它不会与联机版本同步。 若要了解有关 Web Apps Server Office，请参阅[Office Web Apps Server。](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)
 
 ## <a name="print-to-pdf"></a>打印为 PDF
 
@@ -87,7 +87,7 @@ Office外接程序在 Visio 桌面版中可用，但在 Visio 网页版中尚不
 
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
-使用Visio，可以查看、添加或删除注释。
+通过Visio，可以查看、添加或删除注释。
 
 ## <a name="save-as-or-download-a-copy"></a>另存为或下载副本
 
@@ -95,7 +95,7 @@ Visio Web 版本允许您使用另存为或下载图表副本，但您必须具�
 
 ## <a name="share-a-diagram"></a>共享关系图
 
-如果图表保存在 SharePoint 文档库或 OneDrive for Business 中，则图表联机，您可以通过发送链接（而不是电子邮件附件）进行共享。 具有适当权限的用户可以在 Web 浏览器或移动设备上查看它。 只需选择 **右上角** 的"共享"。 我们建议共享链接以避免创建重复的数据连接图表。
+如果图表保存在文档库SharePoint或 OneDrive for Business 中，则图表联机，您可以通过发送链接而不是电子邮件附件来共享图表。 具有适当权限的用户可以在 Web 浏览器或移动设备上查看它。 只需选择 **右上角** 的"共享"。 我们建议共享链接以避免创建重复的数据连接图表。
 
 ## <a name="tell-me"></a>操作说明搜索
 
@@ -111,12 +111,12 @@ The Tell Me feature is not available in Visio for the web. 在Visio应用程序�
 
 ## <a name="view-shape-data"></a>查看形状数据
 
-可以使用 web Visio查看图表的元数据：只需选择形状，然后选择"**形状信息"。**
+可以使用 Web Visio查看图表的元数据：只需选择形状，然后选择"**形状信息"。**
 
 ## <a name="view-visio-files-in-the-browser"></a>在浏览器中查看 Visio 文件
 
-由于Visio图表是联机保存的，因此你可以发送一个链接。 然后，用户可以在任何浏览器中查看它。 他们无需安装桌面Visio或Visio许可证，在浏览器中查看图表。
+由于Visio图表是联机保存的，因此你可以发送一个链接。 然后，用户可以在任何浏览器中查看它。 他们无需安装桌面Visio或许可证Visio在浏览器中查看图表。
 
 ## <a name="zoom"></a>缩放
 
-Visio Web 的浏览器包含一个滑块，可让你进行放大和缩小。此外，您还可以使用"平移 &amp; 缩放"功能放大图表的一个区域。
+Visio Web 的浏览器包含一个滑块，可让你放大和缩小。此外，您还可以使用"平移 &amp; 缩放"功能放大图表的一个区域。

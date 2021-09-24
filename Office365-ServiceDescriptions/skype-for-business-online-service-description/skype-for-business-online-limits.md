@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 本文介绍了在 Skype for Business Online 中实施的限制。
-ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a3e39caae437610e48e8a19fa699a4cdca279c7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702471"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669601"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
 
@@ -51,7 +51,7 @@ Skype for Business Online 中的限制分为以下几类：
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |不适用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 客户端可以通过手动添加用户，或者从组或通讯组列表的上下文菜单发送即时消息来启动最多 99 个用户聊天。 有关 Skype for Business Online 中的即时消息功能[Skype for Business。](https://go.microsoft.com/fwlink/?linkid=533412) 
+> <sup>1</sup> 客户端可以通过手动添加用户或从组或通讯组列表的上下文菜单发送即时消息，来启动最多包含 99 个用户的聊天。 有关 Skype for Business Online 中的即时消息[Skype for Business。](https://go.microsoft.com/fwlink/?linkid=533412) 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>独立选项之间的对等限制
 
@@ -62,11 +62,11 @@ Skype for Business Online 中的限制分为以下几类：
 |打开选项卡式的对话限制  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> 客户端可以通过手动添加用户，或者从组或通讯组列表的上下文菜单发送即时消息来启动最多 99 个用户聊天。 有关 Skype for Business Online 中的即时消息功能[Skype for Business。](https://go.microsoft.com/fwlink/?linkid=533412) 
+> <sup>1</sup> 客户端可以通过手动添加用户或从组或通讯组列表的上下文菜单发送即时消息，来启动最多包含 99 个用户的聊天。 有关 Skype for Business Online 中的即时消息[Skype for Business。](https://go.microsoft.com/fwlink/?linkid=533412) 
   
 ## <a name="meeting-limits"></a>会议限制
 
-- **文件上载** 限制 - 可上载到会议的最大文件大小，Skype for Business讲义和PowerPoint演示文稿。 
+- **文件上载** 限制 - 可上载到会议的最大Skype for Business，包括讲义和PowerPoint演示文稿。 
     
 - **会议参与者Skype for Business** - 会议的最大参与者 (包括演示者) 可以加入单个会议Skype for Business会议。 
     
@@ -91,7 +91,7 @@ Skype for Business Online 中的限制分为以下几类：
 |团队呼叫组中的人员  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |不适用  <br/> |
    
 > [!NOTE]
-> <sup>1</sup>如果 Skype for Business 会议的参与者人数超过 75 名，则会议名单中的参与者列表 (演示者和与会者) 将被截断，以便单个与会者只能看到演示者和个人与会者的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
+> <sup>1</sup>如果 Skype for Business 会议的参与者人数超过 75 人，则会议名单中的参与者列表 (演示者和与会者) 将被截断，以便单个与会者只能看到演示者和个人与会者的姓名。 会议中的演示者仍能看到完整的参与者列表。 此外，与会者将看不到库视图和 IM 错误。 
   
 ### <a name="meeting-limits-across-standalone-options"></a>跨独立选项的邮件限制
 
@@ -118,9 +118,9 @@ Skype for Business Online 中的限制分为以下几类：
   
 | 会议类型 | 说明 |
 |:-----|:-----|
-|一次性会议| 在计划时间、上一次会议激活或最后一次会议更新后至少 14 天内（以最新者为准）可访问会议。
-|带结束日期的定期会议| 会议将至少自上次会议发生计划结束时间、最后一次会议激活或最后一次会议更新（以最新者为准）14 天后访问。
-|没有结束日期的定期会议| 会议将始终可供访问，只要每年有新的会议加入 (激活) 或安排更新一次
+|一次性会议| 在计划时间、上一次会议激活或最后一次会议更新（以最新时间为准）至少 14 天内可访问会议。
+|带结束日期的定期会议| 在计划的最后一次会议结束时间、最后一次会议激活或最后一次会议更新后至少 14 天内（以最新者为准）可访问会议。
+|没有结束日期的定期会议| 会议将始终可供访问，只要每年有新的会议加入 (激活) 或安排更新至少每年一次
 |现在开会|会议将可供访问至少 8 小时。
 
 ## <a name="minute-limits"></a>分钟限制

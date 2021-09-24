@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - core-functionality
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: 以下核心功能在 Project Online。
-ms.openlocfilehash: 9a4592847d861e3bac8912d0b9a7134034c5318202e17fb9a74c14fdc4a9aeaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: 以下核心功能功能在 Project Online。
+ms.openlocfilehash: 3807af035ce2203a1f45862a3b880c67cf0716c6
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702851"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669867"
 ---
 # <a name="core-functionality"></a>核心功能
 
-以下核心功能在 Project Online。
+以下核心功能功能在 Project Online。
   
 寻找有关所有 Project Online 功能的信息？ 请参阅 Project Online[服务说明](project-online-service-description.md)。
   
@@ -35,7 +35,7 @@ ms.locfileid: "54702851"
   
 ## <a name="click-to-run"></a>即点即用
 
-通过Project Online、内部网络、本地文件系统或脱机媒体快速安装文件，以确保使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
+通过Project Online、内部网络、本地文件系统或脱机媒体快速安装应用程序，以确保使用最新版本的 Project 桌面应用程序。 若要了解详细信息，请参阅[即点即用](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15))。
   
 ## <a name="contextual-right-click-menus"></a>上下文右键单击菜单
 
@@ -71,7 +71,7 @@ ms.locfileid: "54702851"
   
 ## <a name="online-help"></a>联机帮助
 
-Project帮助位于 Office.com 中或直接在"入门指南"中 **Project (选择"** 文件 \> **""** 新建) "。 [观看这些视频以切换到 Project 2013。](https://go.microsoft.com/fwlink/p/?LinkId=271325)
+Project帮助位于 Office.com 中或直接在"入门指南 **"Project ("文件** \> **""** 新建) "。 [观看这些视频，以切换到 Project 2013。](https://go.microsoft.com/fwlink/p/?LinkId=271325)
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 

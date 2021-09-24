@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - task-management
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: 以下任务管理功能在 Project Online。
-ms.openlocfilehash: 9c6af8082baa155f0e48652260e2a16ca697fadab27d479c7449131ad6b567ab
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: ebd8b10c04a5ae9ba49e305cb52f44bdb811f00c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702611"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669581"
 ---
 # <a name="task-management"></a>任务管理
 
@@ -29,7 +29,7 @@ ms.locfileid: "54702611"
 
 停用任务后，任务仍会保留在项目计划中，但不会影响资源可用性、项目日程安排或其他任务的日程安排。详细了解如何[停用任务](https://go.microsoft.com/fwlink/p/?LinkId=271335)。
   
-## <a name="auto-complete"></a>Auto-complete
+## <a name="auto-complete"></a>自动完成
 
 键入任务或资源名称时，获得其相关建议。 
   

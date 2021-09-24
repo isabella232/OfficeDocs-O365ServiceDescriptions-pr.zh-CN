@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-limits
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: 当前存在以下针对 Exchange Online Protection 的限制。 除非另行指定，否则这些限制不可配置。
-ms.openlocfilehash: f573f73bf69944ecb400347978140e45a4c8700f74ac214572228ae83fc3c7fb
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 93afb5b4c3ab44703f8f77e3bb61d1d822feba9f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664494"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670681"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Protection 限制
 
@@ -36,15 +36,15 @@ ms.locfileid: "54664494"
     
 - **收件人** 限制 - 只要发送主机可以将邮件拆分为少于 500 个收件人的"区块"，就未定义显式限制。 但是，每个"区块"将被有效地视为一封新邮件。 邮件如果在短时间里聚集过多、或来自信誉不佳的主机，或含可疑内容，就会受到限制或阻止。 
     
-- **IP** 允许或 IP 阻止列表限制 - 在连接筛选器中配置 IP 允许列表或 IP 阻止列表时，最多可以指定 1273 个条目，其中条目可以是单个 IP 地址或 IP 地址的 CIDR 范围，范围为 /24 到 /32。 
+- **IP** 允许或 IP 阻止列表限制 - 在连接筛选器中配置 IP 允许列表或 IP 阻止列表时，最多可以指定 1273 个条目，其中条目是单个 IP 地址或 IP 地址的 CIDR 范围（范围从 /24 到 /32）。 
     
 - **邮件延迟限制** - 延迟的邮件将在我们的队列中保留 24 小时。 重试发送邮件的依据为从收件人的邮件系统收到的错误类型。 邮件每 15 分钟重试一次。 
     
 - **垃圾邮件隔离保留期** - 默认情况下，发送到隔离邮箱的垃圾邮件将保留 30 天。 管理员可通过内容筛选器策略降低此值。 
     
-- **最终用户垃圾邮件隔离通知** - 默认情况下，如果启用，则每 3 天发送一次最终用户垃圾邮件隔离通知。 它们可以配置为每 1 至 15 天发送一次。 
+- **最终用户垃圾邮件隔离通知** - 默认情况下，如果启用，最终用户垃圾邮件隔离通知每 3 天发送一次。 它们可以配置为每 1 至 15 天发送一次。 
     
-- **报告和邮件跟踪限制**- 有关报告和邮件跟踪限制，请参阅 reporting and message trace in Exchange Online Protection 中的"报告和邮件跟踪数据的可用性和 [延迟"部分](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)。
+- **报告和邮件跟踪限制**- 有关报告和邮件跟踪限制，请参阅 reporting and message trace in Exchange Online Protection 中的"报告和邮件跟踪数据的可用性 [和延迟"部分](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection)。
     
 ### <a name="limits-across-eop-options"></a>各个 EOP 选项的限制
 

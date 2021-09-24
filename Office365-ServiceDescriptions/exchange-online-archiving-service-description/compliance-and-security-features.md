@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - compliance-and-security-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-description: 阅读本文，了解 Microsoft Exchange Online Archiving 中提供的合规性功能。
-ms.openlocfilehash: a85ac5ec69905ca30b00871fa72110df87720588d2599e8afdf9da00f1044dc9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: 阅读本文以了解 Microsoft Exchange Online Archiving 中提供的合规性功能。
+ms.openlocfilehash: e3dbf6db56830186324470714d76a05fc38c111f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664585"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670731"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能和安全功能
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的合规性功能
 
-本文介绍 Microsoft Exchange Online Archiving 的合规性功能。
+本文介绍 Microsoft Exchange Online 存档的合规性功能。
   
 ### <a name="retention-policies"></a>保留策略
 
@@ -95,7 +95,7 @@ TLS 用于加密电子邮件服务器之间的连接，以帮助阻止电子诈�
 
 到 Exchange Online Archiving 的客户端连接使用以下加密方法来提高安全性：
   
-- SSL 用于使用 TCP 端口 443 Outlook、Outlook 网页版 Web Exchange通信的安全。
+- SSL 用于使用 TCP 端口 443 Outlook、Outlook 网页版和 Exchange Web 服务通信的安全。
     
 - 引入 Exchange Online Archiving 并未更改到内部部署服务器的客户端连接。
     
@@ -111,7 +111,7 @@ Exchange Online Archiving 不提供托管信息权限管理 (IRM) 服务，但�
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>支持 IRM Outlook 网页版
 
-用户可以在邮件中以本机Outlook 网页版和创建受 IRM 保护Outlook，就像在 Outlook 中一样。 Outlook 网页版中受 IRM 保护的邮件可以通过 Internet Explorer、Firefox、Safari 和 Chrome (访问，无需任何) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
+用户可以在邮件中以本机Outlook 网页版和创建受 IRM 保护Outlook。 Outlook 网页版中受 IRM 保护的邮件可以通过 Internet Explorer、Firefox、Safari 和 Chrome (访问，无需任何) 。 邮件包括全文搜索、会话视图和预览窗格。 要启用此功能，请务必配置 Active Directory 权限管理服务服务器和内部部署 Exchange 环境之间的互操作性。
   
 #### <a name="irm-search"></a>IRM 搜索
 
@@ -131,4 +131,4 @@ Exchange 管理中心提供几个预定义审核报告，包括管理员角色�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online Archiving[服务说明](exchange-online-archiving-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online Archiving[说明](exchange-online-archiving-service-description.md)。
