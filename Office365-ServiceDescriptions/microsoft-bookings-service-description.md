@@ -6,18 +6,18 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: 了解 Microsoft Bookings 中可用的计划选项和功能。
-ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77454f65643fee7892a0c0d7fd9b8c4750e87bd7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663245"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670364"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings 服务说明
 
-Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基于 Web 的预订日历和与 Outlook 同步，以优化可用性，并让客户和最终用户灵活地预订最适合他们的时间。 自动通知电子邮件和提醒可减少未显示内容并提高客户满意度，并且组织通过减少重复的计划任务节省时间。 Bookings 与 Microsoft Teams集成，以支持通过联机会议进行虚拟约会，并通过 Teams 中的 Bookings 应用管理 Bookings 日历。
+Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基于 Web 的预订日历和与 Outlook 同步，以优化可用性，并让客户和最终用户灵活地预订最适合他们的时间。 自动通知电子邮件和提醒可以减少未显示内容并提高客户满意度，并且组织通过减少重复的计划任务来节省时间。 Bookings 与 Microsoft Teams集成，以支持通过联机会议进行虚拟约会，并通过 Teams 中的 Bookings 应用管理 Bookings 日历。
 
 ## <a name="available-plans"></a>可用计划
 
@@ -31,16 +31,16 @@ Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基
 | --- | --- | --- | --- | --- | --- | --- |
 | 基于 Web 的计划页面 (预订页面)  | 是 | 是 | 是 | 否 | 否 | 是 |
 | 仅租户 (页面访问控制)  | 是 | 是 | 是 | 否 | 否 | 是 |
-| 通过 Skype Teams<sup>1</sup>的在线会议 <br/> | 是 | 是 | 是 | 否 | 否 | 是 |
+| 通过 Skype<sup>1 Teams联机会议</sup> <br/> | 是 | 是 | 是 | 否 | 否 | 是 |
 | 1 名员工 (组预订：N 个客户)  | 是 | 是 | 是 | 否 | 否 | 是 |
 | 约会通知电子邮件 | 是 | 是 | 是 | 否 | 否 | 是 |
 | 约会通知短信 | 是<sup>2</sup> <br/> | 是<sup>2</sup> <br/> | 是<sup>2</sup> <br/> | 否 | 否 | 是 |
 | 员工/服务管理 | 是 | 是 | 是 | 否 | 否 | 是 |
 | 用户数据收集中的自定义字段 | 是 | 是 | 是 | 否 | 否 | 是 |
-| Microsoft Graph 中的 Bookings API | 是 | 是 | 否 | 否 | 否 | 是 |
+| Microsoft Graph 中的预订 API | 是 | 是 | 否 | 否 | 否 | 是 |
 | Teams 中的 Bookings Teams | 是 | 是 | 否 | 否 | 否 | 是 |
 
-<sup>1</sup>在线会议要求被预订的员工拥有允许Microsoft Teams Skype for Business或允许创建会议的许可证。
+<sup>1</sup>在线会议要求被预订的员工拥有允许Microsoft Teams或Skype for Business创建会议的许可证。
 <br/><sup>2</sup> SMS 通知当前处于 beta 版本，仅在北美可用。
 
 ## <a name="learn-more"></a>了解详细信息
@@ -58,7 +58,7 @@ Microsoft Bookings 简化了安排和管理约会的过程。 Bookings 包括基
 
 ### <a name="messaging"></a>消息传递
 
-若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
+若要跟踪即将发生的更改，包括新功能和已更改的功能、计划的维护或其他重要公告，请访问“消息中心”。有关详细信息，请参阅 [消息中心](/microsoft-365/admin/manage/message-center)。
 
 ### <a name="accessibility"></a>辅助功能
 

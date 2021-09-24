@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-sharing-and-collaboration
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 25df0c4b4ff71ce8b3543cf7810bb0a4dd3c45fbe1037e1fd8bad4e586dd6292
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 54795f392440ce6ac6a3ba0429b49388c61ff6af
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663635"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671728"
 ---
 # <a name="sharing-and-collaboration"></a>共享和协作
 
@@ -25,11 +25,11 @@ ms.locfileid: "54663635"
 联合身份验证是指支持联合共享的基础信任基础结构，这是 Microsoft Exchange Online 用户与其他外部联盟组织的收件人或具有 Internet 访问权限的用户共享忙/闲日历数据和联系人信息的方法。 这些组织还包括由 Exchange Online、外部 Microsoft Exchange Server 2010 或 Exchange Server 2013 组织托管的组织。 通过使用组织关系和共享策略，Exchange Online使用户可以从 Microsoft Outlook 网页版 或 Microsoft Outlook 2010 或更高版本发送日历共享邀请。
   
 > [!IMPORTANT]
->  外部 Exchange 2010 和 Exchange 2013 组织必须将使用 Microsoft 联合身份验证网关的联合身份验证信任作为配置联合共享的一部分加以配置。 Exchange Online组织不必配置联合身份验证信任 -创建联合身份验证Microsoft Federation Gateway创建联合身份验证信任Microsoft 365自动创建。 
+>  外部 Exchange 2010 和 Exchange 2013 组织必须将使用 Microsoft 联合身份验证网关的联合身份验证信任作为配置联合共享的一部分加以配置。 Exchange Online组织不必配置联合身份验证信任 - 创建联合身份验证组织Microsoft Federation Gateway会自动创建与联合身份验证Microsoft 365信任。 
 >
 >  Exchange Online 组织必须配置组织关系或共享策略，以支持联合共享。 
 >
->  联合共享不支持 (全局访问列表) 或在不同 Microsoft 计划中Exchange Online组织之间移动用户邮箱的全局访问列表。 
+>  联合共享不支持 (共享全局访问列表) 或在不同 Microsoft 计划的 Exchange Online 组织之间移动用户邮箱。 
   
 有关联合共享的详细信息，请参阅 [Exchange Online 中的共享](/exchange/sharing/sharing)。
   
@@ -54,7 +54,7 @@ Exchange Online 中的公用文件夹已进行了改进，可利用邮箱数据�
 
 通过组邮箱和共享邮箱，特定组用户可以轻松监视和发送电子邮件自公用帐户，如公用电子邮件地址 (例如，info@contoso.com 或 contact@contoso.com) 。 当组内人员答复发送到共享邮箱的邮件时，电子邮件看起来好像来自共享邮箱，而不是来自单个用户。
   
-通常，组邮箱或共享邮箱不需要单独的用户许可证。 但是，若要为In-Place或共享邮箱启用 Exchange Online 存档，必须为其分配Exchange Online计划 1 或 Exchange Online 2 许可证。 分配许可证后，邮箱大小将增加到授权的计划的邮箱大小。 若要将共享邮箱置于In-Place保留状态，您必须为其分配Exchange Online计划 2 许可证。 请注意，目前无法分配组邮箱，但应在许可证总数中考虑到这一点。
+通常，组邮箱或共享邮箱不需要单独的用户许可证。 但是，若要In-Place或共享邮箱的存档，必须为其分配 Exchange Online 计划 1 或 Exchange Online 2 许可证。 分配许可证后，邮箱大小将增加到授权的计划的邮箱大小。 若要将共享邮箱置于In-Place保留状态，您必须为其分配Exchange Online计划 2 许可证。 请注意，目前无法分配组邮箱，但应在许可证总数中考虑到这一点。
   
 就地存档仅可用于为应用了许可证的单个用户或实体（如共享邮箱）存档邮件。 禁止使用就地存档存储多个用户或实体的邮件。 例如，IT 管理员无法创建共享邮箱，也无法让用户复制（通过"抄送"或"密件抄送"字段，或通过传输规则）共享邮箱以便进行显式存档。 请注意，多个用户使用的共享邮箱实际上并不存储这些单个用户的电子邮件。 多个用户拥有访问权限，且他们以共享邮箱发送电子邮件。 因此，共享邮箱中仅存储以共享邮箱的名义往来发送的电子邮件。
   

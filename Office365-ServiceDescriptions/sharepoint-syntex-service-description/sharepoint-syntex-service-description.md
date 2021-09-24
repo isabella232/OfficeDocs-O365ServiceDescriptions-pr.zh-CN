@@ -6,22 +6,22 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SharePoint Syntex Microsoft 365使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动执行内容处理以及将内容转换为知识。
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371749"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672395"
 ---
 # <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex 服务说明 
 
 SharePoint Syntex Microsoft 365使用高级人工智能 (AI) 和计算机教学来培养人类专业知识、自动执行内容处理以及将内容转换为知识。
 
-合成基于SharePoint，可提供用于大量内容处理的高级功能、提取元数据以便实现进程自动化，以及提高安全性和合规性。 此外，它还以 microsoft Microsoft 搜索 连接器的链接为Graph[构建](/microsoftsearch/connectors-overview)。
+合成基于 SharePoint，可提供用于大量内容处理的高级功能、提取元数据以便实现进程自动化，以及提高安全性和合规性。 此外，它还基于 microsoft Microsoft 搜索 的智能，并包含指向 Microsoft Graph[连接器的链接](/microsoftsearch/connectors-overview)。
 
-有关详细概述和其他产品详细信息，请参阅产品SharePoint Syntex[页面](https://aka.ms/sharepointsyntex)。
+有关详细概述和其他产品详细信息，请参阅产品SharePoint Syntex[页](https://aka.ms/sharepointsyntex)。
 
 ## <a name="available-plans"></a>可用计划
 
@@ -31,7 +31,7 @@ SharePoint Syntex Microsoft 365使用高级人工智能 (AI) 和计算机教学�
 
 For Microsoft PowerApps AI Builder form processing， tenants with 300 or more licensed users of Syntex will receive 1M AI Builder credits monthly， as well as access to Microsoft Dataverse. 这些信用按租户而不是按用户分配，因此不会随着用户数量的增加而缩放。
 
-下表显示了可以添加 Syntex 的计划。 有关其他计划详细信息，请参阅Microsoft 365[和Office 365计划选项。](../office-365-platform-service-description/office-365-plan-options.md)<br><br>
+下表显示了可以添加 Syntex 的计划。 有关其他计划详细信息，请参阅Microsoft 365[和Office 365计划选项](../office-365-platform-service-description/office-365-plan-options.md)。<br><br>
 
 
 | 小型企业计划            | Enterprise计划         | 教育计划     | 政府计划         |

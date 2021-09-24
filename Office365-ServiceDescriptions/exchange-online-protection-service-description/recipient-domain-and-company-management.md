@@ -8,26 +8,26 @@ ms.topic: reference
 f1_keywords:
 - recipient-domain-and-company-management-features-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的收件人、域和公司) 。
-ms.openlocfilehash: fc2b9f6fbd797e8e765758c11c486ce6afaba5a5855602e79f5418c1e80bb1ea
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 928f94153f91c5067bc5e7ea80525a36cc8e7de3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664055"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672225"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>域中的收件人、域和公司Exchange Online Protection
 
 Microsoft Exchange OnlineEOP (保护) 提供了几种管理收件人、域和公司信息的方式。 作为管理员，您可以在 Exchange 管理中心 (EAC) 中执行某些管理任务，并验证在 Microsoft 365 管理中心 中执行的其他管理Microsoft 365 管理中心。
   
-要查找有关 EOP 所有功能的信息吗？ 请参阅Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
+要查找有关 EOP 所有功能的信息吗？ 请参阅 Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 在 EAC 中Microsoft 365 管理中心管理的用户在 EAC 中无法查看，但可以在 EAC 的管理员角色组成员身份中添加或删除这些用户。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](/microsoft-365/security/office-365-security/manage-recipients-in-eop)。
+邮件收件人被归为邮件用户或组，可直接在 EAC 中或使用远程 Windows PowerShell 通过目录同步进行管理。 如果要在本地管理收件人，必须运行目录同步，这样邮件收件人才能反映在 EAC 中。 在 EAC 中Microsoft 365 管理中心管理的用户不可在 EAC 中查看，但可以在 EAC 的管理员角色组成员身份中添加或删除这些用户。 若要详细了解 EOP 中的收件人，请参阅 [EOP 中的收件人](/microsoft-365/security/office-365-security/manage-recipients-in-eop)。
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -43,7 +43,7 @@ Microsoft Exchange OnlineEOP (保护) 提供了几种管理收件人、域和公
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>基于目录的边缘阻止 (DBEB)
 
-通过基于目录的边缘阻止功能，您可以在服务网络外围拒绝发送至无效收件人的邮件。 DBEB 允许管理员向 Microsoft 添加启用邮件的收件人并阻止发送到 Microsoft 中不存在的电子邮件地址的所有邮件。 如果将邮件发送到 Microsoft 中提供的有效电子邮件地址，该邮件将继续通过反恶意软件、反垃圾邮件、传输规则 (其他服务筛选) 。 如果地址不存在，服务甚至会在进行筛选之前阻止邮件，并向发件人发送未送达报告 (NDR) 以通知其邮件未送达。 
+通过基于目录的边缘阻止功能，您可以在服务网络外围拒绝发送至无效收件人的邮件。 DBEB 允许管理员向 Microsoft 添加启用邮件的收件人并阻止发送到 Microsoft 中不存在的电子邮件地址的所有邮件。 如果将邮件发送到 Microsoft 中提供的有效电子邮件地址，该邮件将继续通过反恶意软件、反垃圾邮件、传输规则 (其他服务筛选层) 。 如果地址不存在，服务甚至会在进行筛选之前阻止邮件，并向发件人发送未送达报告 (NDR) 以通知其邮件未送达。 
   
 必须执行一些用户和域配置，才能启用 DBEB。有关详细信息，请参阅[使用基于目录的边缘阻止拒绝发送给无效收件人的邮件](/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)。
   

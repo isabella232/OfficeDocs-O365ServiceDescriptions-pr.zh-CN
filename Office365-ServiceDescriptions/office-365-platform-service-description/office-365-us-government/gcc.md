@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 为满足美国联邦、州、地方和地区政府以及代表美国政府持有或处理数据的承包商的独特且不断变化的要求，Microsoft Office 365美国政府 Community (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
-ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: 为满足美国联邦、州、地方和地区政府以及代表美国政府持有或处理数据的承包商的独特且不断发展的要求，Microsoft Office 365美国政府 Community (GCC) 服务。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
+ms.openlocfilehash: fedaed2bc6f0e4aea2d4cc1d92584b7e7c2f3c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701881"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671061"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-为满足美国联邦、州、地方和地区政府以及代表美国政府持有或处理数据的承包商的不断变化的独特要求，Microsoft 提供了Office 365 政府版 GCC环境。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
+为满足美国联邦、州、地方和地区政府以及代表美国政府持有或处理数据的承包商的独特且不断发展的要求，Microsoft 提供了Office 365 政府版 GCC环境。 为确保有资格建立环境，感兴趣的组织可以通过多个渠道（包括批量许可）完成验证流程。 目前，仅限美国政府版实体试用。
   
 联系你的帐户团队或首选合作伙伴，了解更多信息或启动验证流程。 有关详细信息，请参阅 [对比 Office 365 政府版计划](https://products.office.com/government/compare-office-365-government-plans)页面。
   
@@ -29,7 +29,7 @@ Office 365 政府版 GCC服务说明旨在作为常规服务说明Office 365覆�
   
 ## <a name="us-government-community-compliance"></a>美国政府社区合规性
 
-Office 365 政府版在高影响级别 (FedRAMP) 联邦风险和授权管理计划认证。 FedRAMP 项目可供符合 FedRAMP 要求的客户查看。 联邦机构可以审阅这些项目以支持其审查，以向 ATO (颁发) 。
+Office 365 政府版在高影响级别 (FedRAMP) 联邦风险和授权管理计划认证。 FedRAMP 项目可供符合 FedRAMP 要求的客户查看。 联邦机构可以审阅这些项目以支持其审查，以向 ATO 组织颁发 (授权) 。
   
 ## <a name="office-365-government-gcc-environment-screened-personnel"></a>Office 365 政府版 GCC环境筛选人员
 
@@ -40,7 +40,7 @@ Office 365员工无法长期访问托管在 Office 365 政府版 GCC 环境中�
 |美国公民  <br/> |核实美国公民身份  <br/> |
 |雇佣历史记录检查  <br/> |核实七 (7) 年的工作经历  <br/> |
 |教育验证  <br/> |核实最高学历  <br/> |
-|SSN (搜索) 社会安全号码  <br/> |核实所提供的 SSN 是否有效  <br/> |
+|SSN 搜索 (社会保险) 编号  <br/> |核实所提供的 SSN 是否有效  <br/> |
 |犯罪记录调查  <br/> |调查州、县、地方级和联邦级七 (7) 年的重罪和轻罪犯罪记录  <br/> |
 |海外资产控制办公室 (OFAC) 名单  <br/> |核实是否被归入美国财政部发布的美国公民不得与之有贸易或金融往来的团体名单  <br/> |
 |工业安全局 (BIS) 名单  <br/> |核实是否被归入美国商务部发布的禁止从事出口活动的个人和实体名单  <br/> |
@@ -52,7 +52,7 @@ Office 365员工无法长期访问托管在 Office 365 政府版 GCC 环境中�
   
 ## <a name="office-365-government-gcc-and-yammer"></a>Office 365 政府版 GCC 和 Yammer
 
-Yammer企业版不是 Office 365 政府版 的一个组件，但对于获得计划 E1 和 E3 许可的每个用户，可Office 365 政府版独立产品/服务。 This offer is currently limited to customers who purchase Office 365 政府版 under 企业协议 and Enterprise Subscription Agreements.
+Yammer企业版不是企业版Office 365 政府版，但对于获得计划 E1 和 E3 许可的每个用户，可Office 365 政府版独立产品/服务。 This offer is currently limited to customers who purchase Office 365 政府版 under 企业协议 and Enterprise Subscription Agreements.
   
 目前，Yammer 提供应用层的客户数据逻辑隔离。 但是，Yammer不提供与 Office 365 政府版 相同的数据位置和数据访问功能，不支持 FedRAMP 资格鉴定，并且受与 Office 365 服务不同的合同条款限制。 建议你在评估组织Yammer服务说明[](../../yammer-service-description/yammer-service-description.md)和隐私条款时查看Yammer和隐私条款。 若要了解哪些Office 365 政府版计划包含[Yammer，请参阅](office-365-us-government.md)Office 365 政府版。
   
@@ -60,6 +60,6 @@ Yammer企业版不是 Office 365 政府版 的一个组件，但对于获得计�
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 政府版 GCC客户支持
 
-Office 365 GCC全球版本的 Office 365 提供的相同条款和条件（包括无支持代理物理位置[](../support.md)或公民保障）提供技术支持。 Office 365 GCC Azure 公共云（在下列条款和条件下受支持）[结合使用。](https://azure.microsoft.com/support/plans/)
+Office 365 GCC全球版本的企业版提供的相同条款和条件提供客户支持，Office 365支持代理物理位置[](../support.md)或公民保障。 Office 365 GCC Azure 公共云（在下列条款和条件下受支持）[结合使用。](https://azure.microsoft.com/support/plans/)
 
 Microsoft 提醒你不要将任何受控、敏感或机密信息作为 Office 365 GCC 相关支持事件的一部分与支持人员共享，直到你确认他们授权查看或访问此类数据。 Microsoft 致力于 [保护你的隐私](https://privacy.microsoft.com/privacystatement)。 Office 365 GCC认证边界中不包含客户支持，并且不提供 FedRAMP、SRG、ITAR、IRS 1075 或 CJIS 数据处理和/或合规性保证。

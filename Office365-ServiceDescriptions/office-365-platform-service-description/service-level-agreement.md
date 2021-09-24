@@ -8,17 +8,17 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-level-agreement
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 10275af517a64c9166a10f64f2737e5d47c6e305a38879e42473392d4147c318
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8cfbfc48b9244ebb009028ff73cd8b86e87eba28
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701801"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671041"
 ---
 # <a name="service-level-agreement"></a>服务级别协议
 

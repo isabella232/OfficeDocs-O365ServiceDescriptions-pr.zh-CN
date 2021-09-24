@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - interoperability-with-skype-for-business-and-sharepoint
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: 以下SharePoint和Skype for Business互操作性功能在 Project Online。
-ms.openlocfilehash: 445e539dbb479072fd8c39794a92d787570e4cb2efb0c1d6c435853fa3918a38
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: 以下SharePoint和Skype for Business互操作性功能在 Project Online 中可用。
+ms.openlocfilehash: 0f1b65242a67c954c4908f112f9cb38a119e1b9c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702661"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672504"
 ---
 # <a name="project-publishing"></a>Project 发布
 
-以下SharePoint和Skype for Business互操作性功能在 Project Online。
+以下SharePoint和Skype for Business互操作性功能在 Project Online 中可用。
   
 寻找有关所有 Project Online 功能的信息？ 请参阅 Project Online[服务说明](project-online-service-description.md)。
   
@@ -43,7 +43,7 @@ ms.locfileid: "54702661"
   
 ## <a name="save-a-project-mpp-file-on-sharepoint"></a>将 Project MPP 文件保存到 SharePoint
 
-将项目保存在SharePoint文档库中，以与没有 Project 的团队成员共享。 详细了解如何[与 SharePoint 任务列表同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
+将项目保存在SharePoint文档库中，以与没有 Project Server 的团队成员共享。 详细了解如何[与 SharePoint 任务列表同步](https://go.microsoft.com/fwlink/p/?LinkId=271353)。
   
 ## <a name="task-list-sync-to-sharepoint"></a>任务列表同步到 SharePoint
 

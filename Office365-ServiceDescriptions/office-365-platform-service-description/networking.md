@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-networking
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft 支持以下网络功能。
-ms.openlocfilehash: 9a10afd58fb61aafc4513baff25b9b6e4c0bb122808c56c12c98f5d62637ea76
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663075"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673076"
 ---
 # <a name="networking"></a>网络
 
@@ -56,7 +56,7 @@ Microsoft 网络基础结构由一个大型的全球项目组合组成，包括�
     
 - 逻辑分离。虚拟 LAN (VLAN) 技术用来进一步分隔通信。
     
-- 防火墙。 防火墙和其他网络安全实施点用于限制与向 Internet 公开的系统的数据交换，以及将系统与 Microsoft 管理的后端系统隔离开。 
+- 防火墙。 防火墙和其他网络安全实施点用于限制与向 Internet 公开的系统进行数据交换，以及将系统与 Microsoft 管理的后端系统隔离。 
     
 - 协议限制。
     

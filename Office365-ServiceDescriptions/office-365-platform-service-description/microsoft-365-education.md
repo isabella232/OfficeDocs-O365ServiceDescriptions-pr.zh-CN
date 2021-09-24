@@ -6,26 +6,26 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解计划与Microsoft 365 Office 365 教育版之间的差异。
-ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662995"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670307"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
 Microsoft 365提供了各种计划，以最好地满足组织的需求。 如果你要查找每个计划Microsoft 365 Office 365 教育版，本文将介绍每个计划中包含的功能。
   
-Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和Enterprise移动性和安全性。 下表列出了适用于教育Office 365 A1、A3 和 A5 的功能以及对应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨业务和企业计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者有关功能的详细列表，请参阅 Microsoft 365 下的相关服务说明和 Office 365[服务说明](../office-365-service-descriptions-technet-library.md)。 若要搜索支持文章和信息，请参阅Office[帮助 &amp; 培训](https://support.office.com/)。
+Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和Enterprise移动性和安全性。 下表列出了适用于教育Office 365 A1、A3 和 A5 的功能以及对应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨业务和企业计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关功能的详细列表，请参阅 Microsoft 365 下的相关服务说明和 Office 365[服务说明](../office-365-service-descriptions-technet-library.md)。 若要搜索支持文章和信息，请参阅Office[帮助 &amp; 培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
-每个Microsoft 365 教育版计划包括许多单个服务，如 Exchange Online 和 SharePoint Online。 下表显示了每个解决方案和Office 365 Microsoft 365中可用的服务，以便您可以选择最能满足您需求的解决方案。 若要更详细地查看服务和功能，[请参阅Office 365 教育版说明](office-365-education.md)。<br></br>
+每个Microsoft 365 教育版计划包括许多单个服务，如 Exchange Online 和 SharePoint Online。 下表显示了每个解决方案和 Office 365 Microsoft 365中可用的服务，以便您可以选择最能满足您需求的解决方案。 若要更详细地查看服务和功能，[请参阅Office 365 教育版说明](office-365-education.md)。<br></br>
 
 | 服务 | Office 365 教育版 A1 | Office 365 教育版 A3 | Office 365 教育版A5 | Microsoft 365 教育版 A3 | Microsoft 365 教育版 A5 | Office 365 A3 学生使用权益 | Office 365 A5 学生使用权益 | Microsoft 365 教育版A3 学生使用权益 | Microsoft 365 教育版A5 学生使用权益 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|

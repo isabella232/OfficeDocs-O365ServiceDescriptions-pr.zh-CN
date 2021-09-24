@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 对于大多数组织，我们将托管您的邮箱并处理邮件流。 这是最简单的配置，意味着 Microsoft 管理所有邮箱和筛选。 但是，某些组织需要进行更复杂的邮件流设置来确保它们遵守特定的法规或业务需要。 你可以在这里找到这些选项的信息。
-ms.openlocfilehash: fafaab4b4bec705c00df5fd47d80fd30138a8a9b6da1c1707ae4e087de8b617e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b51c3f6661047e3e3ea446dbac6f81866c5db27b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663785"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671885"
 ---
 # <a name="mail-flow"></a>邮件流
 
@@ -27,7 +27,7 @@ ms.locfileid: "54663785"
   
 ## <a name="custom-routing-of-outbound-email"></a>出站电子邮件的自定义路由
 
-Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为"智能托管"）路由来自组织的邮件流。 这使贵组织可以使用 DLP (设备) 数据丢失防护、执行传出电子邮件的自定义后处理，以及通过专用网络将电子邮件传送给业务合作伙伴。 Exchange Online 还支持地址重写，其中，传出电子邮件将通过修改地址的本地网关路由。 此功能允许你隐藏子域、使来自多域组织的电子邮件显示为单个域，或使合作伙伴中继的电子邮件看起来就像从组织内部发送一样。 管理员在 Exchange 管理中心 (EAC) 内配置自定义的电子邮件路由。
+Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为"智能托管"）路由来自组织的邮件流。 这使组织可以使用 DLP (设备) 数据丢失防护、执行传出电子邮件的自定义后处理，以及通过专用网络将电子邮件传送给业务合作伙伴。 Exchange Online 还支持地址重写，其中，传出电子邮件将通过修改地址的本地网关路由。 此功能允许你隐藏子域、使来自多域组织的电子邮件显示为单个域，或使合作伙伴中继的电子邮件看起来就像从组织内部发送一样。 管理员在 Exchange 管理中心 (EAC) 内配置自定义的电子邮件路由。
   
 有关详细信息，请参阅设置连接器以在 Microsoft 和 [您自己的电子邮件服务器之间路由邮件](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)。
   
@@ -65,13 +65,13 @@ Microsoft Exchange Online 可通过本地服务器或托管服务（有时称为
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>含内部路由控制的共享地址空间（MX 指向内部）
 
-具有本地路由控制的共享地址空间 (MX 指向本地) 是一种混合部署邮件路由方案，其中邮箱部分托管在 Exchange Online 中，部分托管在本地，传入和传出 Internet 邮件流通过内部部署 Exchange 组织进行路由。 此方案也称为集中邮件传输。 在此方案中，Exchange Online EOP 进行设置，传入 Internet 邮件在路由到 EOP 之前路由到内部部署邮件服务器，最后路由到托管在 Exchange Online 中的邮箱。 此外，来自Exchange Online的传出邮件通过内部部署Exchange组织路由发送给外部收件人的邮件。 通过此配置，您可以对内部部署组织以及内部部署组织Exchange所有邮箱使用单个 SMTP Exchange Online命名空间。 
+具有本地路由控制的共享地址空间 (MX 指向本地) 是一种混合部署邮件路由方案，其中邮箱部分托管在 Exchange Online 中，部分托管在本地，传入和传出 Internet 邮件流通过内部部署 Exchange 组织进行路由。 此方案也称为集中邮件传输。 在此方案中，Exchange Online EOP 进行设置，传入 Internet 邮件在路由到 EOP 之前路由到内部部署邮件服务器，最后路由到托管在 Exchange Online 中的邮箱。 此外，来自Exchange Online的传出邮件通过内部部署组织路由Exchange外部收件人的邮件。 通过此配置，您可以为内部部署组织以及内部部署组织Exchange所有邮箱使用单个 SMTP Exchange Online命名空间。 
   
 若要详细了解混合部署中的传输选项，请参阅 [Exchange 混合部署的传输选项](/exchange/transport-options)。
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>不含内部路由控制的共享地址空间（MX 指向 EOP）
 
-没有本地路由控制的共享地址空间 (MX 指向 EOP) 是一种混合邮件路由方案，其中使用 Exchange Online 部分本地将邮箱托管在云中，而 MX 记录指向 EOP。 当你使用 Microsoft 托管组织的一些邮箱，并且希望 EOP 同时保护本地邮箱和云邮箱时，此方案很适用。 在此方案中，发送给组织内部收件人的邮件最初通过 EOP 进行路由，其中垃圾邮件和策略筛选发生在到达内部部署邮箱和云邮箱之前。 
+没有本地路由控制的共享地址空间 (MX 指向 EOP) 是一种混合邮件路由方案，其中邮箱使用 Exchange Online 部分本地托管在云中，而 MX 记录指向 EOP。 当你使用 Microsoft 托管组织的一些邮箱，并且希望 EOP 同时保护本地邮箱和云邮箱时，此方案很适用。 在此方案中，发送给组织内部收件人的邮件最初通过 EOP 进行路由，其中垃圾邮件和策略筛选发生在到达内部部署邮箱和云邮箱之前。 
   
 若要详细了解混合部署中的传输选项，请参阅 [Exchange 混合部署的传输选项](/exchange/transport-options)。
   

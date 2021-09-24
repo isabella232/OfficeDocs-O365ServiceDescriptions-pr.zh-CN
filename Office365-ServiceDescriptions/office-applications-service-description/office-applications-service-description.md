@@ -8,32 +8,32 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
-description: Microsoft 365是一种订阅服务，可为您提供已熟悉的 Office 桌面应用程序（如 Word、Excel 和 PowerPoint）的最新版本。
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Microsoft 365是一种订阅服务，可为您提供已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702021"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672773"
 ---
 # <a name="office-applications-service-description"></a>Office 应用程序服务说明
 
-Microsoft 365是一种订阅服务，可为您提供已熟悉的 Office 桌面应用程序（如 Word、Excel 和 PowerPoint）的最新版本。
+Microsoft 365是一种订阅服务，可为您提供已熟悉的最新版本的 Office 桌面应用程序，例如 Word、Excel 和 PowerPoint。
   
 即使Office基于云的服务，Office应用程序不会在云中运行。 但是，用户可以从 Office 365 门户下载 Office 应用程序并在其本地计算机上安装它们。 Microsoft 使用即点即用技术，让 Office 应用程序的下载和安装既简单又迅速。 即点即用使用虚拟化技术在本地计算机上的一个独立环境中运行 Office 应用程序，可让用户同时运行 Office 应用程序和较早版本的 Office。
   
 Office 应用程序有 32 位和 64 位版本。
   
-有关使用户能够使用应用程序服务说明的订阅Office，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+有关使用户能够使用应用程序服务说明的订阅Office，请参阅完整的[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="feature-availability-across-plans"></a>跨计划的功能可用性
 
-使用下表可比较 2013 和 2016 年 2 月Microsoft Office批量许可Office的功能可用性。
+使用下表比较 2013 和 Office 2016 的计划和批量许可Microsoft Office的可用性。
   
 一些Microsoft 365商业版计划具有可购买订阅的加载项。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅 [购买或编辑加载项](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)。<br><br>
 
@@ -74,7 +74,7 @@ Office 应用程序有 32 位和 64 位版本。
 |使用 Azure 信息保护的信息权限管理  <br/> |否  <br/> |否  <br/> |否  <br/>|否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |否<sup>2</sup> <br/> |是 <br/> |否<sup>2</sup> <br/> |是  <br/> |是  <br/> |否<sup>2</sup> <br/> |
 |使用 Windows Server AD RMS 的信息权限管理  <br/> |是<sup>3</sup> <br/> |是  <br/> |是 <br/>| 是<sup>3</sup> <br/>|是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |是<sup>3</sup> <br/> |
 |Office 插件、ActiveX 和 BHO 支持  <br/> |是  <br/> |是  <br/> |是<sup>+++<sup> <br/> |是  <br/> |否  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
-|OneNote客户端访问 SharePoint Server、SharePoint Online、OneDrive for Business 和 Microsoft 365  <br/> |是  <br/> |是  <br/> |是的 <sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/>|是  <br/> |否  <br/> |
+|OneNote Server、SharePoint Online、SharePoint Online、OneDrive for Business 和 Microsoft 365  <br/> |是  <br/> |是  <br/> |是的 <sup>++</sup> <br/> |是 <br/> |是  <br/> |否  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/>|是  <br/> |否  <br/> |
 |Office 遥测  <br/> |是  <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |客户端应用程序的脱机支持  <br/> |是  <br/> |是  <br/>|是  <br/>  |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
 |Power Map for Excel  <br/> |否<sup>4</sup> <br/> |是  <br/>|是  <br/> |是  <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br/> |否  <br/> |是  <br/> |是  <br/> |否  <br/> |
@@ -89,20 +89,20 @@ Office 应用程序有 32 位和 64 位版本。
 |批量激活 (KMS/MAK)  <br/> |是  <br/> |是  <br/> |是  <br/>|否<sup>9</sup> <br/> |否  <br/> |否  <br/> |否  <br/> |否 <br> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
    
 > [!NOTE]
-><sup>+</sup>在安装 Office 365 或 Office 2019 时，默认情况下OneNote Windows 10版本。 有关详细信息，请参阅有关 OneNote 的[常见问题](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
+><sup>+</sup>在 2019 Office 365或 Office 时，默认情况下OneNote Windows 10版本。 有关详细信息，请参阅有关 OneNote[的常见问题](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)。<br/>
 ><sup>++</sup>OneNote访问 SharePoint Server、SharePoint Online、OneDrive for Business 和 Office 365 上的笔记本。 <br/>
-><sup>+++</sup> BHO 支持是一种适用于 Internet Explorer。 <br/>
+><sup>+++</sup> BHO 支持是一种适用于Internet Explorer。 <br/>
 ><sup>1</sup>此版本的 Office 支持存档和合规性功能，但该功能未包含 Exchange Online 和 SharePoint Online 计划，且必须单独购买或与支持的等效本地服务器结合使用。<br/>
-<sup>2</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 E1、Office 365 教育版 或 Office 365 F3 中不包含此订阅。<br/>
+<sup>2</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 E1、Office 365 教育版或 Office 365 F3。<br/>
 <sup>3</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，以便启用支持的 IRM 功能。<br/>
-<sup>4</sup>如果你有 Office 2013 Professional Plus 或独立版本的 Excel 2013，可以使用 power Map Preview for Excel 2013，这是一个不受支持的外接程序。 早期版本的 Power Map Preview 已过期，不能与任意版本的 Excel。 如果已安装早期版本，请从控制面板中卸载它，然后下载并安装 Power Map Preview 的当前版本。 此版本的功能与随 SP1 一起发布的 Power Map Microsoft 365相同。<br/> 
+<sup>4</sup>如果你有 Office 2013 Professional Plus 或独立版本的 Excel 2013，可以使用 power Map Preview for Excel 2013，这是不受支持的外接程序。 早期版本的 Power Map Preview 已过期，不能与任意版本的 Excel。 如果已安装早期版本，请从控制面板中卸载它，然后下载并安装 Power Map Preview 的当前版本。 此版本的功能与随 SP1 一起发布的 Power Map Microsoft 365相同。<br/> 
 <sup>5</sup> Skype for Business基本版可供所有客户使用。 桌面Skype for Business客户端是本地安装的应用程序，可为包括 Skype for Business Online 的计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和Office 365 E3包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 有关特性和功能比较，请参阅[Desktop client comparison tables for Lync Server 2013。](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
-<sup>6</sup>某些学校有资格使用教育增强版，其中包括 Microsoft 365 企业应用版，并允许学生和教职员工在最多五台 PC 或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/>
+<sup>6</sup>某些学校有资格享受教育增强版，其中包括 Microsoft 365 企业应用版，并允许学生和教职员工在最多五台 PC 或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/>
 <sup>可以</sup>Office for Mac 2011 年 7 月，但不能激活。 <br/>
 <sup>8</sup> Microsoft 365 企业应用版 VDI 应用程序的用户专用虚拟桌面基础结构 (8) 。 Microsoft 365 企业应用版通过批量许可计划 (RDS) 远程桌面服务。<br/>
-<sup>9</sup> Office 365 E3 和 Microsoft 365 企业应用版 的批量激活仅限于在启用了 RDS 角色或 Windows To Go 安装的 Windows Server 2008 R2 及更高版本上安装。 在任一情况下，访问这些安装的用户都需要是授权用户Office 365 E3或Microsoft 365 企业应用版。<br/> 
+<sup>9</sup> Office 365 E3 和 Microsoft 365 企业应用版 的批量激活仅限于在 Windows Server 2008 R2 和更高版本（启用了 RDS 角色或 Windows To Go 安装）上安装。 在任一情况下，访问这些安装的用户都需要是授权用户Office 365 E3或Microsoft 365 企业应用版。<br/> 
 Office 365 F3 中的<sup>10</sup> Skype for Business 功能包括 Skype for Business 计划 1 (无桌面共享、应用共享、无法启动多方音频、视频或 Web 会议，无法安排会议) 。<br/> 
-<sup>11</sup> 如果当前频道或延期频道的目标发布，则 Access 当前可用。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅作为订阅[的一](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)Microsoft 365和Office 365 Access。<br/> 
+<sup>11</sup> 如果当前频道或延期频道的目标发布，则 Access 当前可用。 如果使用的是延期频道，则 Access 在 2017 年 6 月后可供使用。 有关详细信息，请参阅[Access included as part of Microsoft 365 and Office 365 subscriptions](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)。<br/> 
 <sup>12</sup> Infopath 2013 仍受支持，并随附在 Office 专业增强版 2016 安装中，但没有适用于 Office 2016 的新版本。<br/> 
 <sup>13</sup> 仅限于集成屏幕（尺寸为 10.1 英寸或更少对角线）的设备。<br/> 
 <sup>14</sup> Power Query 是一款免费加载项，可在此处下载[：Microsoft Power Query for Excel](https://www.microsoft.com/download/details.aspx?id=39379)。 启用后，功能区上的"Power Query"选项卡中将提供 Power Query 功能。<br/> 
@@ -127,6 +127,6 @@ Office 365 F3 中的<sup>10</sup> Skype for Business 功能包括 Skype for Busi
 <sup>2</sup> 可从应用商店中单独下载。 要了解详细信息，请参阅 [OneNote for Mac](https://aka.ms/OneNoteforMac)。<br/> 
 <sup>可以</sup>Office for Mac 2011 年 3 月，但不能激活。
 
-## <a name="office-application-and-feature-availability-in-government-plans"></a>Office计划中提供的应用程序和特性
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Office计划中的应用程序功能可用性
 
 以下Office应用程序在政府云中可用;但是，某些基于云的功能可能当前不可用，如政府Office[应用程序和功能可用性中指示](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#office-application-and-feature-availability-in-government-plans)。

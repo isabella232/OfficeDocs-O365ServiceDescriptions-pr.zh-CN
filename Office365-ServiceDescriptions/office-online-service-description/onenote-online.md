@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: 使用 OneNote 网页版 (以前OneNote Web App) 在 OneNote 笔记本中联机记录，你可以从任何位置添加笔记并与其他人轻松共享。 所有客户都可以使用 Office 查看和Office 网页版。
-ms.openlocfilehash: 4bde15a3b2c291c07aa2d4322826f710db7fc4ac1a51278cabac5e909c152f29
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9d120ec3d1380a366942779b617d1d00b25973e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702031"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672732"
 ---
 # <a name="onenote-for-the-web"></a>OneNote 网页版
 
@@ -31,7 +31,7 @@ ms.locfileid: "54702031"
   
 ## <a name="apply-tags"></a>Apply tags
 
-使用 OneNote 网页版，可以将各种标记应用于笔记，方便组织和跟进。 例如，将笔记标记为问题、待办事项或联系信息。 详细了解如何[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
+使用 OneNote 网页版，您可以对笔记应用各种标记，以轻松组织和跟进。 例如，将笔记标记为问题、待办事项或联系信息。 详细了解如何[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
 ## <a name="office-add-ins"></a>Office 外接程序
 
@@ -47,7 +47,7 @@ OneNote 网页版仅支持内容外接程序用于Office。 内容外接程序�
   
 ## <a name="clipboard"></a>剪贴板
 
-使用OneNote 网页版，可以在笔记本中剪切、复制和粘贴内容。 可以在桌面应用和桌面OneNote 网页版OneNote文本。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
+使用OneNote 网页版，可以在笔记本中剪切、复制和粘贴内容。 可以在桌面应用和桌面OneNote 网页版OneNote粘贴文本。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
 ## <a name="clipping-experiences"></a>Clipping experiences
 
@@ -71,7 +71,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="edit-embedded-files"></a>编辑嵌入的文件
 
-使用 OneNote 网页版，可以将嵌入的存档下载到计算机以打开它们。 通过 OneNote 桌面应用程序，您可以将任何计算机文件附加到笔记的任何部分，这样即在笔记本中存储了文件的副本。 甚至可以将 Outlook 会议详细信息和 Outlook 任务插入到 OneNote，或者将 OneNote 页面通过电子邮件发送到 Outlook。 此外，还可以在 OneNote 中创建或导入 Excel 电子数据表和 Visio 图表，并在笔记中适当编辑其信息。 插入的文件在笔记页上显示为图标。 双击任意图标可打开其文件。 
+使用 OneNote 网页版，可以将嵌入的存档下载到计算机以将其打开。 通过 OneNote 桌面应用程序，您可以将任何计算机文件附加到笔记的任何部分，这样即在笔记本中存储了文件的副本。 甚至可以将 Outlook 会议详细信息和 Outlook 任务插入到 OneNote，或者将 OneNote 页面通过电子邮件发送到 Outlook。 此外，还可以在 OneNote 中创建或导入 Excel 电子数据表和 Visio 图表，并在笔记中适当编辑其信息。 插入的文件在笔记页上显示为图标。 双击任意图标可打开其文件。 
   
 ## <a name="equations"></a>方程
 
@@ -95,7 +95,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="linked-notes"></a>链接的笔记
 
-无法将笔记记录链接到文件，OneNote 网页版文件的链接处于隐藏状态。 但是，这些链接仍保留在笔记中，可以使用 OneNote 桌面应用程序打开。 
+在文件中无法将笔记记录链接到文件，OneNote 网页版文件的链接处于隐藏状态。 但是，这些链接仍保留在笔记中，可以使用 OneNote 桌面应用程序打开。 
   
 ## <a name="navigation"></a>导航
 
@@ -112,11 +112,11 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="outlook-integration-tasks"></a>Outlook integration (tasks)
 
-OneNote 网页版不支持使用 Microsoft Outlook的命令，如"电子邮件"Outlook任务或会议详细信息。
+OneNote 网页版不支持使用 Microsoft Outlook的命令，例如"电子邮件"Outlook任务或会议详细信息。
   
 ## <a name="paragraph-formatting"></a>段落格式
 
-使用OneNote 网页版，可以更改段落对齐方式、增加或减少从左边距缩进，或者从左向右更改文本方向。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
+使用 OneNote 网页版，可以更改段落对齐方式、增加或减少从左边距缩进，或者从左向右更改文本方向。 详细了解[浏览器和 OneNote 桌面应用程序中笔记本用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=272946)。
   
 ## <a name="pictures"></a>图片
 
@@ -124,7 +124,7 @@ OneNote 网页版不支持使用 Microsoft Outlook的命令，如"电子邮件"O
   
 ## <a name="print"></a>打印
 
-可以在打印备注时OneNote 网页版。
+可以在打印时打印OneNote 网页版。
   
 ## <a name="proofing-tools"></a>校对工具
 
@@ -132,7 +132,7 @@ OneNote 网页版键入时自动检查拼写，对拼写错误的文本应用红
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>权限管理：应用和使用 IRM 和密码保护
 
-OneNote 网页版 IRM 记录中显示受信息权限管理 (保护) 。 但是，无法在浏览器中编辑这些笔记本，并且您无法在浏览器中创建受 IRM OneNote 网页版。 OneNote 网页版无法打开使用密码加密的文档。 高级文档保护功能（例如创建受 IRM 保护的笔记本和应用密码保护）仅在 OneNote 桌面应用程序中可用。
+OneNote 网页版 IRM 管理中受信息权限管理 (笔记本) 。 但是，无法在浏览器中编辑这些笔记本，并且您无法在浏览器中创建受 IRM 保护OneNote 网页版。 OneNote 网页版无法打开使用密码加密的文档。 高级文档保护功能（例如创建受 IRM 保护的笔记本和应用密码保护）仅在 OneNote 桌面应用程序中可用。
   
 ## <a name="search-on-page-within-sections"></a>搜索（在页面上，在分区内）
 

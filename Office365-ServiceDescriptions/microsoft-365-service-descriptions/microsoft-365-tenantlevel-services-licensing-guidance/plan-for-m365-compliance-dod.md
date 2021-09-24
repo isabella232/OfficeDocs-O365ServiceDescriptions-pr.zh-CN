@@ -6,37 +6,37 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国政府实体或其他处理受政府法规和要求（使用 Microsoft 365 Government – DoD 适合满足这些要求的实体）中部署 Office 365 的 IT 专业人员。
-ms.openlocfilehash: 4d8e4b7600abe8b41baa94462f4e8dfbebf8b277
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 6ad0f21c8cbd9cf6690af4664c958c4ffdab7746
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702284"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671612"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
 本指南适用于在美国政府实体或其他处理受政府法规和要求（使用 Microsoft 365 Government – DoD 适合满足这些要求的实体）中部署 Office 365 的 IT 专业人员。
 
 > [!NOTE]
-> 如果你的组织已满足 Microsoft 365 Government – DoD 资格要求，并且已申请并被接受加入该计划，你可以跳过步骤 1 和步骤 2，直接转到步骤 3。
+> 如果你的组织已满足 Microsoft 365 政府 – DoD 资格要求，并且已申请并被接受加入该计划，你可以跳过步骤 1 和步骤 2，直接转到步骤 3。
 
 ## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>步骤 1. 确定你的组织是否需要Microsoft 365政府 - DoD 并满足资格要求
 
-美国政府Microsoft 365 DoD 环境符合美国政府云服务的要求。
+美国政府Microsoft 365 DoD 环境符合美国政府云服务要求。
 
-除了享受组织功能外，Office 365还可从政府 – DoD Microsoft 365独有的以下功能中获益：
+除了享受组织功能外，Office 365还受益于政府 – doD Microsoft 365独有的功能：
 
 - 从逻辑上说，组织的客户内容与 Microsoft 商业或Office 365内容隔离。
 - 您组织的客户内容存储在美国境内。
 - 对组织的客户内容的访问权限只限于屏蔽的 Microsoft 员工。
 - Microsoft 365政府 - DoD 符合美国公共部门客户所需的认证和资格鉴定。
 
-有关美国政府/Microsoft 365 DoD 产品/服务（包括资格[Office 365 政府版）详细信息](https://products.office.com/government/compare-office-365-government-plans)。
+有关美国政府 /Microsoft 365 DoD 产品/服务（包括资格[Office 365 政府版）详细信息](https://products.office.com/government/compare-office-365-government-plans)，
 
-美国政府[Office 365](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md)说明介绍了该平台的好处，这些优势以满足美国的合规性要求为中心。
+美国政府[Office 365](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md)说明介绍了该平台的好处，这些优势以满足美国内的合规性要求为中心。
 
 > [!TIP]
 > 您可能需要将服务说明中的信息表转移到 Excel 工作簿，并添加两列："与我的组织 **Y/N** 相关"和"满足我的组织 **Y/N 的需求"。** 然后，您可以与同事一起查看此列表，以确认此服务满足您组织的需求。
@@ -60,14 +60,14 @@ ms.locfileid: "58702284"
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>步骤 4. 了解当前在政府/Microsoft 365不可用或禁用的功能 – DoD<sup>1</sup>
 
-为满足政府云客户的要求，政府版 -doD Microsoft 365计划之间存在一些差异。 请参阅下表，了解哪些功能可用。 有关[在](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)Microsoft 365 路线图上发布的最新合规性产品更新，请参阅此处。<br><br>
+为满足政府云客户的要求，政府版 -doD 和企业Microsoft 365有一些差异。 请参阅下表，了解哪些功能可用。 有关[在](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent)Microsoft 365 路线图上发布的最新合规性产品更新，请参阅此处。<br><br>
 
 | 领域  | 功能  | DoD 状态  |
 |-------|----------|-------------|
 | **信息保护**  | | |
 | 敏感信息类型  | 精确数据匹配  | 可用  |
-| 敏感度标签  | 自动分类和标记Exchange Online、SharePoint Online 和 OneDrive for Business  | 可用 |
-| | 跨平台 Office Web、Windows 和 Mac (Outlook)  (Word、Excel、PowerPoint、Outlook) 应用的自动分类和Windows)   | 可用  |
+| 敏感度标签  | Exchange Online、SharePoint Online 和 OneDrive for Business 的自动分类和OneDrive for Business  | 可用 |
+| | Office Web、Windows 和 Mac)  (平台Office Word、Excel、PowerPoint、Outlook)  (应用的自动分类和Windows)   | 可用  |
 | | 自动分类和标记客户端Office - 移动  | 工程积压工作  |
 | | 自动分类和标记Teams、Microsoft 365组SharePoint网站  | 可用  |
 | | 强制标记  | 可用  |
@@ -75,14 +75,13 @@ ms.locfileid: "58702284"
 | | 对邮件进行仅加密保护的敏感度Outlook配置  | 可用  |
 | | 统一标记客户端和扫描程序  | 可用  |
 | 分析  | 数据分类：概述和内容资源管理器  | 即将推出  |
-| | 分析：在服务器端使用自动标记的机器学习分类器  | 开发中  |
 | | 分析：在应用/客户端上自动标记Office机器学习分类器  | 开发中 |
 | 加密  | 基本 Office 365 邮件加密 (E3)   | 可用  |
 | | 高级Office 365 邮件加密 (E5)   | 可用  |
 | | 将你自己的密钥 (BYOK) 客户管理的密钥预配生命周期  | 可用  |
 | | Office 365 的客户密钥  | 可用  |
-| | 支持多Microsoft 365加密的客户密钥 | 开发中  |
-| | SharePoint Online 和 OneDrive for Business | 可用 |
+| | 用于多Microsoft 365加密的客户密钥 | 开发中  |
+| | SharePoint Online 和 OneDrive for Business 的客户密钥 | 可用 |
 | | 双密钥加密  | 可用  |
 | 数据丢失防护  | 文件和电子邮件 (DLP) 数据丢失防护  | 可用  |
 | | DLP：警报仪表板和警报体验  | 可用  |
@@ -102,7 +101,7 @@ ms.locfileid: "58702284"
 | | 信息治理：保留和标记策略自适应范围  | 开发中  |
 | 记录管理  | 记录管理：手动应用记录标签  | 可用  |
 | | 记录管理：将默认记录标签应用于SharePoint、OneDrive for Business库、文件夹和文档集;和 Office 365 组  | 可用  |
-| | 记录管理：基于特定条件的自动记录策略 (例如关键字或敏感信息) ;和 基于事件  | 可用  |
+| | 记录管理：基于特定条件自动记录策略 (例如，关键字或敏感信息) ;和 基于事件  | 可用  |
 | | 记录管理：处置评审  | 可用  |
 | | 记录管理：文件计划管理器  | 可用  |
 | | 记录管理：多阶段处置评审  | 开发中  |
@@ -110,9 +109,8 @@ ms.locfileid: "58702284"
 | | 记录管理：处置证明  | 可用  |
 | | 记录管理：记录版本控制  | 可用  |
 | | 记录管理：法规记录  | 可用  |
-| | 记录管理：使用SharePoint Syntex分类应用记录标签  | 工程积压工作  |
 | **风险管理**  | | |
-| 风险管理  | 客户锁箱  | 可用  |
+| 客户密码箱 | 客户密码箱  | 可用  |
 | 通信合规性  | 通信合规性：在公共预览版中为通信合规性策略 (保留)   | 工程积压工作  |
 | | 通信合规性：访问警报;通知模板;通信策略仪表板  | 可用  |
 | | 通信合规性：Teams邮箱的用户的聊天数据  | 可用  |
@@ -146,13 +144,14 @@ ms.locfileid: "58702284"
 | | 内部风险管理：终结点Windows 10指示器 | 公共预览版  |
 | | 内部风险管理：调查内部风险管理警报  | 可用  |
 | | 内部风险管理：Microsoft Teams Power Automate集成  | 开发中  |
-| | 内部风险管理：本机触发器支持Azure Active Directory删除帐户 | 公共预览版  |
+| | 内部风险管理：本机触发器支持Azure Active Directory帐户删除 | 公共预览版  |
 | | 内部风险管理：通知模板  | 可用  |
 | | 内部风险管理：Office、Teams网站SharePoint电子邮件的指示器  | 可用  |
 | | 内部风险管理：解除限制的用户泄露数据的策略模板  | 工程积压工作  |
 | | 内部风险管理：优先用户泄露数据的策略模板  | 公共预览版  |
 | | 内部风险管理：用于常规安全策略违反的策略模板  | 工程积压工作  |
-| | 内部风险管理：针对优先用户、离职用户、解除冲突用户以及预览版中违反 (策略)   | 工程积压工作  |
+| | 内部风险管理：优先用户和离职用户违反安全策略的策略模板 | 公共预览版 |
+| | 内部风险管理：解除限制的用户违反安全策略的策略模板 | 工程积压工作  |
 | | 内部风险管理：策略自定义、策略运行状况检查和增强的策略创建向导  | 公共预览版  |
 | | 内部风险管理：优先用户组  | 公共预览版  |
 | | 内部风险管理：支持本机触发器Azure Active Directory删除帐户 | 公共预览版  |
@@ -167,7 +166,7 @@ ms.locfileid: "58702284"
 | | 核心电子数据展示：RMS 解密  | 可用  |
 | | 核心电子数据展示：搜索  | 可用  |
 | | Advanced eDiscovery：高级处理  | 可用  |
-| | Advanced eDiscovery：保管人到工作负荷的映射  | 可用  |
+| | Advanced eDiscovery：保管人到工作负荷映射  | 可用  |
 | | Advanced eDiscovery：保管人通信  | 可用  |
 | | Advanced eDiscovery：仪表板  | 可用  |
 | | Advanced eDiscovery：数据清除功能Microsoft Teams  | 工程积压工作  |
@@ -178,10 +177,10 @@ ms.locfileid: "58702284"
 | | Advanced eDiscovery：筛选  | 可用  |
 | | Advanced eDiscovery：保留优化  | 开发中  |
 | | Advanced eDiscovery：合法保留Teams私人频道消息  | 开发中  |
-| | Advanced eDiscovery：Microsoft 合规中心扩展了对核心和回收站中 SharePoint、OneDrive for Business、回收站中的Advanced eDiscovery  | 开发中  |
+| | Advanced eDiscovery：Microsoft 合规中心扩展了对搜索和导出核心回收站SharePoint、OneDrive for Business回收站和回收站中的Advanced eDiscovery  | 开发中  |
 | | Advanced eDiscovery：近重复标识  | 可用  |
 | | Advanced eDiscovery：新的预测编码模块  | 开发中  |
-| | Advanced eDiscovery：非安全数据源  | 可用  |
+| | Advanced eDiscovery：非资源数据源  | 可用  |
 | | Advanced eDiscovery：非Office 365的  | 工程积压工作  |
 | | Advanced eDiscovery：预测编码  | 可用  |
 | | Advanced eDiscovery：使用加载文件处理导出  | 可用  |
@@ -189,21 +188,21 @@ ms.locfileid: "58702284"
 | | Advanced eDiscovery：审阅集  | 可用  |
 | | Advanced eDiscovery：查看数据 (查询数据、智能标记、仪表板) 并注释 (修订)   | 可用  |
 | | Advanced eDiscovery：搜索词报告  | 可用  |
-| | Advanced eDiscovery：支持来自 OneDrive 和 SharePoint Online (新式附件)   | 可用  |
+| | Advanced eDiscovery：支持来自 OneDrive 和 SharePoint Online (新式)   | 可用  |
 | | Advanced eDiscovery：支持Teams反应  | 工程积压工作  |
 | | Advanced eDiscovery：标记  | 可用  |
 | | Advanced eDiscovery：租户报告  | 可用  |
 | | Advanced eDiscovery：主题  | 可用  |
 | | Advanced eDiscovery：查看者  | 可用  |
-| | Advanced eDiscovery：Yammer Advanced eDiscovery Microsoft 合规中心  | 可用  |
+| | Advanced eDiscovery：Yammer Advanced eDiscovery Microsoft 合规中心内  | 可用  |
 | Audit  | 基本审核  | 可用  |
 | | 高级审核：访问关键事件 (例如 mailitemsaccessed)   | 可用  |
 | | 高级审核：增加管理活动 API 的带宽  | 可用  |
-| | 高级审核：记录保留 (1 年)   | 可用  |
-| | 高级审核：审核日志长期保留 (10 年)   | 即将推出  |
+| | 高级审核：1 年后 (保留)   | 可用  |
+| | 高级审核：审核日志的更长期保留期 (10 年)   | 即将推出  |
 | | 高级审核：邮件转发和邮件发送事件  | 可用  |
 | | 高级审核：安全与合规中心可用性  | 可用  |
-| | 高级审核：在 Exchange Online 和 SharePoint Online 中搜索术语事件  | 即将推出  |
+| | 高级审核：在 Exchange Online 和 SharePoint Online 中搜索术语事件  | 开发中  |
 | | 高级审核：Teams对邮件的反应  | 工程积压工作  |
 | **遵从性管理** | | |
 | 合规性管理  | Microsoft 365 合规中心  | 可用  |
@@ -211,8 +210,8 @@ ms.locfileid: "58702284"
 | | 合规性管理器  | 可用  |
 | | 双字节字符支持  | 可用  |
 | **生态系统** | | |
-| 生态系统  | 第一方数据连接器：HR  | 可用  |
-| | 第一方数据连接器：Instant Bloomberg、Bloomberg Mail、LinkedIn Business 页面、ICE Chat  | 开发中  |
+| 生态系统  | 第一方数据连接器：HR  | 开发中 |
+| | 第一方数据连接器：物理保护  | 开发中  |
 | | Graph适用于 Advanced eDiscovery  | 工程积压工作  |
 
 <sup>1</sup> 在重新评估项目计划和优先级时，标识的状态可能会更改。<br/>

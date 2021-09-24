@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-partners
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: 作为授权的 Microsoft 合作伙伴，Microsoft Office 365 为您提供了扩大客户群和与这些客户建立长久业务关系的机会。您收取月费或年费后，您的客户可以使用基于云的服务，这样，他们就不必管理数据备份、服务器硬件和服务器更新。服务是否可用，具体取决于向您授权提供的服务类型。
-ms.openlocfilehash: 4a46a7b49573520574d904bb4891f4091b12e6b7810a345c3aa7227be4907c57
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b4a0e551de714883aa5b30c248f0987d66f78f71
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701851"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670011"
 ---
 # <a name="partners"></a>合作伙伴
 
@@ -53,5 +53,5 @@ Microsoft 合作伙伴网络致力于满足我们合作伙伴的需求。要加�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划和Microsoft 365 Office 365的可用性，请参阅Microsoft 365和 Office 365[平台服务说明](office-365-platform-service-description.md)。
+若要查看跨 Microsoft 365 和 Office 365 计划的功能可用性，请参阅 Microsoft 365[和 Office 365 平台服务说明](office-365-platform-service-description.md)。
   

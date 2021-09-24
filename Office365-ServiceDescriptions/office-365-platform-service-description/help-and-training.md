@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365提供了以下帮助和培训资源。
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663005"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671395"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365提供了以下帮助和培训资源。
   
 ## <a name="online-help"></a>联机帮助
 
-服务中任何内联帮助链接都提供了帮助文章和视频，包括 Office 365 门户和网站页面的顶部导航栏中的帮助Microsoft 365 管理中心。 还可以访问 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
+可从服务中任何内联帮助链接获得帮助文章和视频，包括 Office 365 门户和网站顶部导航栏中的帮助Microsoft 365 管理中心。 还可以访问 [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)，搜索所有 Office 365 帮助。 
   
 ## <a name="training"></a>培训
 

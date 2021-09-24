@@ -8,26 +8,26 @@ ms.topic: reference
 f1_keywords:
 - office-365-support
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Microsoft 支持Microsoft Office 365企业、企业、教育和政府订阅，提供全球技术、售前、计费和订阅支持。 付费订阅和试用订阅均Microsoft 365 管理中心在线订阅和电话支持。 有关详细信息，请参阅 Microsoft 支持选项。
-ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701651"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670027"
 ---
 # <a name="support"></a>支持
 
-Microsoft 支持Microsoft 365企业Office 365、第一线、教育版和政府版订阅，提供全球技术、售前、计费和订阅支持。 付费订阅和试用订阅均Microsoft 365 管理中心在线订阅和电话支持。 有关详细信息，请参阅 [Microsoft 支持选项](/Office365/Admin/contact-support-for-business-products)。
+通过企业Microsoft 365、Office 365、教育以及政府版订阅，Microsoft 支持部门提供全球技术、售前、计费和订阅支持。 付费订阅和试用订阅均Microsoft 365 管理中心在线订阅和电话支持。 有关详细信息，请参阅 [Microsoft 支持选项](/Office365/Admin/contact-support-for-business-products)。
 
 授权管理员可以使用 Microsoft 365 管理中心联机提交服务请求、访问支持电话号码以及查看所有已打开和最近关闭的服务请求。 在管理中心提交的服务请求可在关闭请求后的最多 14 天内重新打开。 有关说明，请参阅[联系Microsoft 365商业支持人员](/Office365/Admin/contact-support-for-business-products)。
   
-技术支持Microsoft 365团队仅对与项目或产品相关的Microsoft 365 Office 365。 源自客户网络的问题超出支持范围，在这种情况下，客户必须与他们的网络团队或 [参与 Microsoft 网络](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 团队寻求帮助。
+技术支持Microsoft 365团队仅解决与 Microsoft 365 和 Office 365 相关的问题。 源自客户网络的问题超出支持范围，在这种情况下，客户必须与他们的网络团队或 [参与 Microsoft 网络](https://support.microsoft.com/gp/contactus81?Audience=Commercial) 团队寻求帮助。
   
 ## <a name="community-and-self-service-support-options"></a>社区和自助服务支持选项
 
@@ -67,7 +67,7 @@ Microsoft 支持Microsoft 365企业Office 365、第一线、教育版和政府�
 > [!NOTE]
 > 你可以在此处了解如何联系技术支持人员：Microsoft 365[联系商业支持人员](/Office365/Admin/contact-support-for-business-products)。
 >
-> 技术支持不包括第三方服务或外接程序的疑难解答。了解在 Microsoft Community 中[查找其他客户的答案](https://answers.microsoft.com)。
+> 技术支持不包括第三方服务或外接程序疑难解答。了解如何从 Microsoft Community 中查找[其他客户的答案](https://answers.microsoft.com)。
   
 ### <a name="technical-support-case-handling"></a>技术支持案例的处理
 
@@ -83,7 +83,7 @@ Microsoft 会对问题的类型和对客户的影响进行评估，并据此在�
 
 初始响应时间基于上述严重级别和订阅类型。 下表介绍目标响应时间。<br><br>
   
-| 严重级别 | Microsoft 365 商业基础版<sup>1</sup><br> Microsoft 365 商业应用版<sup>1</sup><br> Microsoft 365 商业标准版<sup>1</sup><br> Microsoft 365 商业高级版<sup>1</sup> | 所有Microsoft 365 E Office 365 企业版 (、) 、<br/> Frontline (F) ，<br/> 政府 (G) ，以及<br/> 教育 (A) 计划 | 提升的支持选项<sup>3</sup> |
+| 严重级别 | Microsoft 365 商业基础版<sup>1</sup><br> Microsoft 365 商业应用版<sup>1</sup><br> Microsoft 365 商业标准版<sup>1</sup><br> Microsoft 365 商业高级版<sup>1</sup> | E Microsoft 365 Office 365 企业版 (的所有) 、<br/> Frontline (F) ，<br/> 政府 (G) ，以及<br/> 教育 (A) 计划 | 提升的支持选项<sup>3</sup> |
 |:-----|:-----|:-----|:-----|
 | 严重级别 A（关键）  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：一小时  <br/> |
 |严重性 B（高）  <br/> |可用：工作时间  <br/> 响应时间：未承诺  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：次日  <br/> |可用：24/7<sup>4</sup> <br/> 响应时间：2 小时  <br/> |
@@ -181,10 +181,10 @@ Microsoft 了解到及时从合格的专业人员获取技术支持是云服务�
   
 ### <a name="developers"></a>开发者
 
-开发人员可以在 MSDN SharePoint 了解有关开发 Office 和 Microsoft 开发人员网络[应用程序Microsoft 开发人员网络。](https://developer.microsoft.com/office/docs) 开发人员支持通过开发人员社区中的在线博客和论坛、顶级或合作伙伴支持资源，或者直接通过 Microsoft 提供。 有关开发人员支持选项的链接，请参阅 [支持资源](https://developer.microsoft.com/office/docs)。
+开发人员可以在[MSDN](https://developer.microsoft.com/office/docs)Office 了解有关开发 SharePoint 应用程序Microsoft 开发人员网络。 开发人员支持通过开发人员社区中的在线博客和论坛、顶级或合作伙伴支持资源，或者直接通过 Microsoft 提供。 有关开发人员支持选项的链接，请参阅 [支持资源](https://developer.microsoft.com/office/docs)。
   
 > [!NOTE]
-> Microsoft 团队不支持脚本 (例如，脚本技术（如 JavaScript、VBScript 等）或 VBA) 。 如果您需要脚本方面的帮助，请联系 [Microsoft 支持](https://support.microsoft.com/)。 有关Office应用程序使用支持的信息，请参阅订阅[Microsoft Office应用程序问题的支持选项](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
+> Microsoft 团队不支持脚本 (例如，脚本技术（如 JavaScript、VBScript 等）或 VBA) 。 如果您需要脚本方面的帮助，请联系 [Microsoft 支持](https://support.microsoft.com/)。 有关Office应用程序使用支持的信息，请参阅订阅[者Microsoft Office应用程序问题的支持选项](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)。
   
 ### <a name="volume-licensing"></a>批量许可
 

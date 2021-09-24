@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online适用于桌面和移动版本的 Outlook，以及 Outlook 网页版。
-ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 97d25b505afcdc4effb145b28eda5aab1275ce81
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664045"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672082"
 ---
 # <a name="clients-and-mobile-devices"></a>客户端和移动设备
 
@@ -25,15 +25,15 @@ ms.locfileid: "54664045"
 
 Microsoft Outlook 是一个电子邮件程序，包括对日历、联系人、任务和以下关键功能的支持：
   
-- **MAPI over HTTP** - 通过 HTTP 的邮件应用程序接口 (MAPI) 允许 Outlook 用户从组织的防火墙外部通过 Internet 连接到 Exchange Online 邮箱。 MAPI over HTTP， the long term replacement for Outlook Anywhere. 此连接方法改进了连接恢复能力、更安全的登录、可扩展性，并增强了 IT 和支持。 若要了解更多信息，请参阅[RPC over HTTP 到达 Office 365](/exchange/troubleshoot/administration/rpc-over-http-end-of-support)和[MAPI over HTTP 中的停止支持](/exchange/mapi-over-http-exchange-2013-help)。
+- **MAPI over HTTP** - 邮件应用程序程序接口 (MAPI) over HTTP 允许 Outlook 用户从组织的防火墙外部通过 Internet 连接到 Exchange Online 邮箱。 MAPI over HTTP， the long term replacement for Outlook Anywhere. 此连接方法改进了连接恢复能力、更安全的登录、可扩展性，并增强了 IT 和支持。 若要了解更多信息，请参阅[RPC over HTTP 到达 Office 365](/exchange/troubleshoot/administration/rpc-over-http-end-of-support)和[MAPI over HTTP 的支持结束](/exchange/mapi-over-http-exchange-2013-help)。
 
-- **自动发现**- 自动发现服务功能自动配置Outlook自动发现服务Exchange Online。 首次使用电子邮件地址和密码登录时，Outlook 用户可以直接从 Exchange Online 收到他们的所需配置文件设置。 这些设置可以使用创建和维护用户配置文件所需的信息自动更新 Outlook 客户端。 使用自动发现服务需要 SSL 证书。 此 SSL 证书仅限于单个主 SSL 域。 
+- **自动发现**- 自动发现服务功能自动配置Outlook以使用Exchange Online。 首次使用电子邮件地址和密码登录时，Outlook 用户可以直接从 Exchange Online 收到他们的所需配置文件设置。 这些设置可以使用创建和维护用户配置文件所需的信息自动更新 Outlook 客户端。 使用自动发现服务需要 SSL 证书。 此 SSL 证书仅限于单个主 SSL 域。 
 
 - 缓存 **Exchange** 模式 - 缓存 Exchange 模式功能允许 Outlook 用户在未连接到 Internet 时访问其 Exchange Online 邮箱的本地副本。 缓存 Exchange 模式在 Outlook 中保存用户 Exchange 邮箱的客户端副本，并与电子邮件服务器自动同步该副本。 我们建议在缓存 Exchange 模式中使用 Outlook，因为它提供脱机访问并帮助提供响应用户体验，即使客户端和服务器之间的网络条件不理想。 
 
 默认情况下，所有用户启用 Outlook 访问。管理员可以通过 Windows PowerShell 禁用对特定用户的访问权限。我们建议使用最新版本的 Outlook装有最新的 service pack以访问 Exchange Online。 
   
-有关 2016 Outlook 2016 和 Exchange 支持哪些客户端Exchange Online，请参阅 System [Requirements for Office](https://products.office.com/office-system-requirements)。 
+有关 2016 Outlook 2016 Exchange支持哪些客户端Exchange Online，请参阅 System [Requirements for Office](https://products.office.com/office-system-requirements)。 
 
 Microsoft 365旨在使用最新浏览器和 Office。 如果你使用较旧的浏览器和版本Office不作为主流支持：
 
@@ -56,7 +56,7 @@ Outlook 网页版具有两个客户端版本，这两个都可用于 Exchange On
   
 - **Outlook 网页版**- 标准版本的 Outlook 网页版 为用户提供Exchange Online与用户最相似的邮件Outlook体验。 它支持大部分新版 Web 浏览器，同时经过优化可用于平板电脑和智能电话以及台式机和笔记本电脑。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
 
-- **邮件的Outlook 网页版**- Outlook 网页版版本Exchange Online几乎任何 Web 浏览器访问邮箱。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
+- **邮件的Outlook 网页版**- Outlook 网页版版Exchange Online几乎任何 Web 浏览器提供对邮箱的访问权限。 用户可以阅读和发送邮件、整理联系人，并能安排约会和会议。 基于活动的默认超时设置为 6 小时，但 [管理员可在 Windows PowerShell 中配置](/powershell/module/exchange/set-organizationconfig)为介于 5 分钟到 8 小时中的一个值。 此时间退出取决于 Web 应用中的用户交互，例如选择按钮或选择消息。 此外，还有单独的安全驱动超时，此超时不可配置，无论用户活动如何都会发生。 如果用户登录了 8 小时，OWA 会自动注销用户，并要求其重新进行身份验证。 
 
 Outlook 网页版还提供移动版本。有关详细信息，请参阅此[此页面](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409)。
   
@@ -66,23 +66,23 @@ Exchange Online支持Microsoft Outlook for Mac，它提供电子邮件、日历�
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook iOS、Android 和 Windows Phone
 
-Exchange Online适用于 iOS Outlook Android 和 Windows Phone 的应用。 在任一设备上，使用应用商店查找Outlook应用。 下面按移动操作系统细分。<br><br>
+Exchange Online适用于 iOS Outlook Android 和 Windows Phone 的应用。 在任一设备上，使用应用商店查找Outlook应用。 下面是移动操作系统的细分。<br><br>
   
 | 设备 | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
 |Outlook移动应用可用性  <br/> |是  <br/> [获取 Outlook for Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |是  <br/> [获取 Outlook for iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |内置  <br/> |
-|与应用兼容的内置电子邮件Exchange Online  <br/> |Gmail 应用/三星电子邮件应用  <br/> |iOS 邮件应用程序  <br/> |Outlook邮件、日历、联系人  <br/> |
+|与电子邮件应用程序兼容的内置电子邮件Exchange Online  <br/> |Gmail 应用/三星电子邮件应用  <br/> |iOS 邮件应用程序  <br/> |Outlook邮件、日历、联系人  <br/> |
 |更多信息  <br/> |[Android 移动设置](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone或iPad安装程序](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone安装程序](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
 
-还有一些选项Exchange Online设备（包括 Blackberry）使用。
+还有一些选项可以Exchange Online，包括 Blackberry。
   
 ### <a name="feature-availability"></a>功能可用性
 
-Outlook为用户提供了从现代移动应用获得快速、直观的电子邮件和日历体验，同时成为唯一提供对最佳功能支持的应用。 这是唯一专门设计用于支持完整 Microsoft 体验的电子邮件应用，为用户提供从桌面到移动的一致体验。 Outlook集成了 Intune、企业移动性和安全性，Exchange控件以保持数据和用户的安全。
+Outlook为用户提供了从现代移动应用获得快速、直观的电子邮件和日历体验，同时成为唯一提供对最佳功能的支持的应用。 这是唯一专门设计用于支持完整 Microsoft 体验的电子邮件应用，为用户提供从桌面到移动的一致体验。 Outlook集成了 Intune、企业移动性和安全性，Exchange控件以保持数据和用户的安全。
   
 通过Outlook，用户可以：
   
-- 通过移动设备管理其全天。
+- 从移动设备管理其全天。
 
 - 连接需要高效工作的应用和服务，同时使他们的工作和个人信息保持独立和安全。
 

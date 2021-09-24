@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: 了解在部署中Microsoft Exchange Online。
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663665"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671786"
 ---
 # <a name="planning-and-deployment"></a>计划和部署
 
@@ -50,11 +50,11 @@ ms.locfileid: "54663665"
   
 - **IMAP 迁移**- 将邮箱数据从基于 IMAP 的电子邮件系统迁移到Exchange Online。 
     
-- Exchange迁移 **-** 在单个转换迁移中，将邮箱从 Exchange Server 2003、Exchange Server 2007、Exchange Server 2010、Exchange 2013 和托管 Exchange 系统迁移到 Exchange Online。 
+- **切换Exchange** 迁移 - 将邮箱从 Exchange Server 2003、Exchange Server 2007、Exchange Server 2010、Exchange 2013 和托管 Exchange 系统迁移到 Exchange Online在单个转换迁移中。 
     
 - 分 **Exchange** 迁移 - 执行分步迁移，使用基于 Web 的迁移工具从 Exchange Server 2003 或 Exchange Server 2007 迁移邮箱，并尽量减少对本地基础结构的更改。 
     
-- **远程移动迁移**- 将本地Exchange邮箱迁移到Exchange Online混合Exchange中。 必须拥有 Exchange 混合部署，才能使用远程移动迁移。 
+- **远程移动迁移**- 将内部部署Exchange迁移到Exchange Online部署中的Exchange迁移。 必须拥有 Exchange 混合部署，才能使用远程移动迁移。 
     
 有关将电子邮件和邮箱迁移到 Exchange Online 的详细信息，请参阅[到 Exchange Online 的邮箱迁移](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e)。
   
@@ -109,7 +109,7 @@ Exchange Online 提供基于 Web 的工具，以从内部部署 Exchange Server 
 
 Microsoft 提供几个工具帮助迁移现有电子邮件环境到 Exchange Online。适用工具取决于组织的当前环境和部署目标：
   
-- **迁移仪表板**- 管理员可以使用 Exchange 管理中心中的迁移仪表板管理到 Exchange Online 的邮箱迁移（在Exchange迁移中）。 管理员还可以使用主控板，将用户邮箱的内容从内部部署 IMAP 服务器迁移到 Exchange Online 的现有邮箱。 主控板为管理员提供了以下功能： 
+- **迁移仪表板**- 管理员可以使用 Exchange 管理中心中的迁移仪表板，以在Exchange Online或分步迁移中管理Exchange迁移。 管理员还可以使用主控板，将用户邮箱的内容从内部部署 IMAP 服务器迁移到 Exchange Online 的现有邮箱。 主控板为管理员提供了以下功能： 
     
   - **创建并启动多个迁移批处理** - 管理员可以创建最多 100 个迁移批处理并排入队列。 一次仅能运行一个迁移批次，但是管理员可以排队多个批次，以便在完成一个迁移批次后运行队列的下一个批次。 
     
@@ -121,7 +121,7 @@ Microsoft 提供几个工具帮助迁移现有电子邮件环境到 Exchange Onl
     
   - **编辑迁移** 批处理 - 如果分步迁移或 IMAP Exchange迁移的迁移批处理位于迁移队列中，但当前未运行，则管理员可以编辑迁移批处理。 
     
-- **Azure Active Directory同步** 工具 - Azure Active Directory 同步工具在迁移到混合电子邮件方案（同时利用 Exchange Online 和本地邮箱）Exchange Server。 该工具将执行从 Active Directory 到 Exchange Online 的单向同步。 完成迁移后，管理员仅需要使用 Exchange Online 就可管理 Active Directory 用户和组。 该工具还为用户提供统一全局地址列表，其中在线环境与内部部署环境持续同步。 
+- **Azure Active Directory同步** 工具 - Azure Active Directory 同步工具在迁移到混合电子邮件方案（同时利用 Exchange Online 和本地邮箱）中Exchange Server。 该工具将执行从 Active Directory 到 Exchange Online 的单向同步。 完成迁移后，管理员仅需要使用 Exchange Online 就可管理 Active Directory 用户和组。 该工具还为用户提供统一全局地址列表，其中在线环境与内部部署环境持续同步。 
     
     有关 Azure Active Directory 同步工具的详细信息，请参阅 [Directory synchronization: Roadmap](/azure/active-directory/hybrid/whatis-hybrid-identity)（目录同步：路线图）。
     
@@ -137,4 +137,4 @@ Microsoft 提供几个工具帮助迁移现有电子邮件环境到 Exchange Onl
     
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online[说明](exchange-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Exchange Online[服务说明](exchange-online-service-description.md)。

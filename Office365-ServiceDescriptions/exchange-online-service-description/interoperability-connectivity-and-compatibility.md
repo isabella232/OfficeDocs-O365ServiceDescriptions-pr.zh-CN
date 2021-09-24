@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-interoperability-connectivity-compatibility
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 9e0ef704a1b43a81bffdd177aeef3f09c472103aa178c11867d1cc9db8b1aee2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cae4f051e788073223e67364cf36af102e06f4e2
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663775"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671952"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>互操作性、连接性和兼容性
 
@@ -50,7 +50,7 @@ Exchange Online 提供以下功能以与外部应用程序和设备连接：
     
 ### <a name="exchange-web-services"></a>Exchange Web 服务
 
-Exchange Web 服务 (EWS) 是 Exchange Server 和 Exchange Online 的首选开发 API。 使用 EWS 或 EWS 托管 API，管理员可以访问使用 Exchange Online 存储，来自内部部署、在 Azure 或其他托管服务运行应用程序的数据。 EWS 允许管理员执行专门的操作，如查询邮箱内容、发布日历事件、创建任务或基于电子邮件内容触发特定操作。 通过授予对客户账户的应用程序权限，Exchange Online 可以启用 EWS 功能。 这些权限允许客户应用程序访问应用程序邮箱并添加内容。 Exchange Impersonation 是一种用于授予应用程序权限的方法。 有关如何将 Exchange Web Services 用于 Exchange Online 的详细信息，请参阅 Exchange Online 开发人员中心的技术文章。
+Exchange Web 服务 (EWS) 是 Exchange Server 和 Exchange Online 的首选开发 API。 使用 EWS 或 EWS 托管 API，管理员可以访问使用 Exchange Online 存储，来自内部部署、在 Azure 或其他托管服务运行应用程序的数据。 EWS 允许管理员执行专门的操作，如查询邮箱内容、发布日历事件、创建任务或根据电子邮件内容触发特定操作。 通过授予对客户账户的应用程序权限，Exchange Online 可以启用 EWS 功能。 这些权限允许客户应用程序访问应用程序邮箱并添加内容。 Exchange Impersonation 是一种用于授予应用程序权限的方法。 有关如何将 Exchange Web Services 用于 Exchange Online 的详细信息，请参阅 Exchange Online 开发人员中心的技术文章。
   
 ### <a name="smtp-relay"></a>SMTP 中继
 

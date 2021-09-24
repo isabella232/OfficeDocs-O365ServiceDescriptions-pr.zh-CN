@@ -5,21 +5,21 @@ author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
-description: 了解Microsoft Exchange Online计划之间的Microsoft 365功能Office 365可用性。
-ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: 了解Microsoft Exchange Online计划之间的服务Microsoft 365功能Office 365可用性。
+ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664005"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672092"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
 Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基于云的服务提供的托管消息传递解决方案。它支持用户从电脑、Web 和移动设备访问电子邮件、日历、联系人和任务。它与 Active Directory 全面集成，支持管理员使用组策略以及其他管理工具来管理整个环境中的 Exchange Online 功能。
   
-订阅此Exchange Online可以保持对它们为用户提供的邮件服务的控制，但他们没有内部部署服务器软件的运营负担。 借助此服务Exchange Online中所述的托管计划，电子邮件将托管在同时支持多个客户的服务器上。 这些服务器位于 Microsoft 数据中心，可供各种设备（从企业网络内部或 Internet）访问。
+订阅此Exchange Online组织保留对它们为用户提供的邮件服务的控制，但他们没有内部部署服务器软件的运营负担。 借助此服务Exchange Online中所述的托管计划，电子邮件将托管在同时支持多个客户的服务器上。 这些服务器位于 Microsoft 数据中心，可供各种设备（从企业网络内部或 Internet）访问。
 
 此服务说明详细介绍了在各种云安装中提供的服务之间的主要差异。 Exchange Online核心功能在订阅之间没有区别。 合规性功能的可用性取决于你的订阅级别。
   
@@ -33,7 +33,7 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划Exchange Online的主要功能。 某些注意事项适用*。 此表可能发生更改，恕不另行通知。 有关跨计划提供最新、完整功能Exchange Online，请参阅[比较Exchange Online计划](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
+下表列出了跨计划Exchange Online的主要功能。 某些注意事项适用*。 此表可能发生更改，恕不另行通知。 有关跨计划最新、完整的Exchange Online列表，请参阅[比较Exchange Online计划](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
   
 | 功能 | 小型企业计划 | Enterprise计划 | 教育计划 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|

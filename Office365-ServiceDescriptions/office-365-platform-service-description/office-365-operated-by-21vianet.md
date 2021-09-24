@@ -6,16 +6,16 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
-ms.translationtype: HT
+ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505701"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671354"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -65,12 +65,25 @@ Microsoft 本身并不运营此服务。 世纪互联负责运营、提供和管
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>安全与合规中心在由世纪互联运营的 Office 365 中的可用性
 Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的工具。 合规性中心提供以下解决方案，适用于由世纪互联运营的计划：
 
-- 数据丢失防护 (DLP)
-- 保留
-- 使用 Azure Active Directory 和 Exchange 中的数据进行审核
-- 使用 AIP 统一标签客户端的 Microsoft 信息保护 （MIP） 和针对 Office 客户端和 Outlook 的敏感度标签
+| 功能 | 由世纪互联运营的 Microsoft 365 商业基础版 | 由世纪互联运营的 Microsoft 365 商业应用版 | 由世纪互联运营的 Microsoft 365 商业标准版 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
+|---------|---------|---------|---------|---------|---------|---------|
+| 存档 | 是 | 不适用 | 是 | 是 | 是 | 否 |
+| 警报策略 | 否 | 不适用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|基本审核<sup>2</sup> | 是 | 不适用 | 是 | 是 | 是 | 是 |
+|内容搜索 | 否 | 不适用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|Exchange Online、SharePoint Online 和 OneDrive for Business 的数据丢失防护 | 否 | 不适用 | 是 | 否 | 是 | 否 |
+|电子数据展示案例 | 否 | 不适用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|电子数据展示导出 | 否 | 不适用 | 否 | 否 | 否<sup>1</sup> | 否 |
+|电子数据展示保留（包括基于查询的电子数据展示保留） | 否 | 不适用 | 否 | 否 | 否<sup>1</sup> | 否 |
+|信息治理<sup>1</sup> | 是 | 不适用 | 是 | 是 | 是 | 是 |
+|手动敏感度标签 | 否 | 不适用 | 否 | 是 | 是 | 否 |
+|Office 365 邮件加密 (OME) 基础版 | 否 | 不适用 | 否 | 否 | 是 | 否 |
+
+<sup>1</sup> 可用性即将提供。</br>
+<sup>2</sup>使用来自 Azure Active Directory 和 Exchange 的数据进行审核。
 
 > [!NOTE]
+>
 > - 目前不支持使用敏感度标签保护 SharePoint 网站、Microsoft 365 组和 Microsoft Teams 中的内容。
 > - 目前不支持使用 Office 网页应用分类和保护文档和电子邮件的敏感度标签。
 
@@ -584,9 +597,6 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | 应用部署：云托管的应用 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 应用部署：SharePoint 托管的应用 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 应用管理服务 | 是 | 是 | 是 | 是 | 是 | 是 |
-| 存档 | 是 | 不适用 | 是 | 是 | 是 | 否 |
-| 警报策略 | 否 | 不适用 | 否 | 否 | 否 | 否 |
-| 基本审核<sup>2</sup> | 是 | 不适用 | 是 | 是 | 是 | 是 |
 | BCS：外部列表警报 | 否 | 否 | 否 | 否 | 是 | 否 |
 | BCS：应用范围内的外部内容类型 (ECT) | 否 | 否 | 否 | 否 | 是 | 否 |
 | BCS：业务数据 Web 部件 | 否 | 否 | 否 | 否 | 是 | 否 |
@@ -599,22 +609,14 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | 基于浏览器的自定义 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 客户端对象模型 (OM) | 是 | 是 | 是 | 是 | 是 | 是 |
 | 客户端呈现 (CSR) | 是 | 是 | 是 | 是 | 是 | 是 |
-| 内容搜索 | 否 | 不适用 | 否 | 否 | 否 | 否 |
 | 自定义网站定义 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 自定义站点设置页面 | 否 | 否 | 否 | 否 | 否 | 否 |
-| Exchange Online、SharePoint Online 和 OneDrive for Business 的数据丢失防护 | 否 | 不适用 | 是 | 否 | 是 | 否 |
 | 开发人员网站 | 是 | 否 | 是 | 是 | 是 | 是 |
 | 基于表单的应用程序 | 是 | 否 | 是 | 是 | 是 | 是 |
 | 完全信任的解决方案 | 否 | 否 | 否 | 否 | 否 | 否 |
-| 电子数据展示案例 | 否 | 不适用 | 否 | 否 | 否 | 否 |
-| 电子数据展示导出 | 否 | 不适用 | 否 | 否 | 否 | 否 |
-| 电子数据展示保留（包括基于查询的电子数据展示保留） | 否 | 不适用 | 否 | 否 | 否 | 否 |
-| 信息治理<sup>1</sup> | 是 | 不适用 | 是 | 是 | 是 | 是 |
 | InfoPath Forms Services | 否 | 否 | 否 | 否 | 否<sup>14</sup> | 否 |
 | JavaScript 对象模型 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 列表和库 API | 是 | 是 | 是 | 是 | 是 | 是 |
-| 手动敏感度标签 | 否 | 不适用 | 否 | 是 | 是 | 否 |
-| Office 365 邮件加密 (OME) 基础版 | 否 | 不适用 | 否 | 否 | 是 | 否 |
 | 远程事件接收器 | 是 | 否 | 是 | 是 | 是 | 是 |
 | REST API | 是 | 是 | 是 | 是 | 是 | 是 |
 | SharePoint 设计管理器 | 是 | 否 | 是 | 是 | 是 | 是 |

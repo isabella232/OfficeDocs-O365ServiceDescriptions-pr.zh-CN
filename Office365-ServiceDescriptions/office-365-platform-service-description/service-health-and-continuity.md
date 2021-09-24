@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-health
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 服务运行状况信息随时可供登录使用。
-ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 497568f54fc5a761278902eb26e92bc52789c9b5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701811"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672963"
 ---
 # <a name="service-health-and-continuity"></a>服务运行状况和连续性
 
@@ -36,7 +36,7 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
   
 有两种类型的有关服务不可用时间的通知：
   
-- **计划的维护事件：** 计划维护是 Microsoft 启动的对基础结构和软件应用程序的常规服务更新。 计划维护通知会告知客户可能影响 Microsoft 服务功能的服务工作。 客户将提前 5 天通过邮件中心收到有关所有计划维护Microsoft 365 管理中心。 Microsoft 通常会针对服务使用率在基于区域时区时最低的时间规划维护。 
+- **计划的维护事件：** 计划维护是 Microsoft 启动的对基础结构和软件应用程序的常规服务更新。 计划维护通知会告知客户可能影响 Microsoft 服务功能的服务工作。 客户将提前 5 天通过邮件中心通知所有计划维护Microsoft 365 管理中心。 Microsoft 通常会针对服务使用率在基于区域时区时最低的时间规划维护。 
 
 - **计划外停机：** 当其中一个服务不可用或无响应时，将发生计划外服务事件。 
 
@@ -60,7 +60,7 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
 
 <br>
 
-**2019 年**
+**2019**
 
 | 问题 1 | 问题 2 | 问题 3 | 问题 4 |
 |:-----|:-----|:-----|:-----|
@@ -68,7 +68,7 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
 
 <br>
 
-**2018 年**
+**2018**
 
 | 问题 1 | 问题 2 | 问题 3 | 问题 4 |
 |:-----|:-----|:-----|:-----|
@@ -84,7 +84,7 @@ Microsoft 管理员可以查看服务的状态，并查明何时安排维护。 
 
 ## <a name="notification-policy"></a>通知策略
 
-当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通过更新租户特定的服务运行状况仪表板 (SHD) SHD Microsoft 365 管理中心。 服务事件更新按每小时提供一次，或者，如果需要其他节奏，将在 SHD 通信发布中说明。 
+当服务事件发生时，Microsoft 意识到及时、定向和准确的通信对客户非常重要。 Microsoft 通知管理员，具体操作是更新租户特定的服务运行状况仪表板 (SHD) SHD Microsoft 365 管理中心。 服务事件更新按每小时提供一次，或者如果需要其他节奏，将在 SHD 通信发布中说明。 
   
 ## <a name="service-health-communication-channels"></a>服务运行状况通信通道
 
@@ -98,7 +98,7 @@ Microsoft System Center 是一个集成管理平台，可以帮助你管理数�
   
 ### <a name="office-365-service-communications-api"></a>Office 365 服务通信 API
 
-the Office 365 Service Communications API lets you access service communications way you want. 通过此 API，你可以创建工具或将其连接到服务通信，从而可能简化你的环境监视方式。 服务通信 API 允许你监视你的环境的以下项目：
+the Office 365 Service Communications API lets you access service communications the way you want. 通过此 API，你可以创建工具或将其连接到服务通信，从而可能简化你的环境监视方式。 服务通信 API 允许你监视你的环境的以下项目：
   
 - 实时服务运行状况
 
@@ -110,9 +110,9 @@ the Office 365 Service Communications API lets you access service communications
 
 Microsoft 致力于持续改进，包括分析影响客户的计划外服务事件，以最大限度地减少此类事件的再发生次数。 
   
-计划外服务事件定义为多租户服务中断，这些中断会影响服务使用情况，如我们的服务级别协议 (SLA) 所定义，并且已在服务运行状况仪表板上声明为此类事件。
+计划外服务事件定义为多租户服务中断，这些中断会影响服务使用情况，如我们的服务级别协议 (SLA) 所定义，并且已在服务运行状况仪表板上声明为此类。
   
- 对于影响客户的计划外服务事件（这些事件对大量组织产生广泛且显著的影响）来说，在事件解决后的 48 小时内，会通过服务运行状况仪表板提供初步事件后评审 (PIR) ，在 5 个工作日内通过最终 PIR。 详细 PIR 报告包括： 
+ 对于影响客户的计划外服务事件（这些事件对大量组织产生广泛且显著的影响）来说，在事件解决后的 48 小时内，通过服务运行状况仪表板提供初步事件后评审 (PIR) ，在 5 个工作日内通过最终 PIR。 详细 PIR 报告包括： 
   
 - 用户体验和客户影响
 
@@ -156,7 +156,7 @@ Microsoft 开发和运营团队由专门的支持组织提供补充，它在为�
   
 支持组织与运营和产品团队紧密合作，提供快速的解决时间，并提供倾听客户意见的渠道。来自客户的反馈为计划、开发和运营流程提供输入。
   
-- **在线问题跟踪：** 客户需要知道他们的问题正在得到解决，同时需要能够跟踪及时解决。 应用程序Microsoft 365 管理中心一个基于 Web 的界面提供支持。 Customers can use the portal to add and monitor service requests and receive feedback from Microsoft support teams. 
+- **在线问题跟踪：** 客户需要知道他们的问题正在得到解决，同时需要能够跟踪及时解决。 The Microsoft 365 管理中心 provides a single web-based interface for support. Customers can use the portal to add and monitor service requests and receive feedback from Microsoft support teams. 
 
 - **自助，由持续员工支持提供支持：** Microsoft 提供各种自助资源和工具，帮助客户解决与服务相关的问题，而无需 Microsoft 支持。 
 

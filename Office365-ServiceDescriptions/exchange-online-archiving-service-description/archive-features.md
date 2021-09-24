@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - archive-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 了解 Microsoft Exchange Online Archiving 中提供的存档功能。
-ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664745"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670864"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
@@ -27,7 +27,7 @@ ms.locfileid: "54664745"
   
 ## <a name="archive-mailbox"></a>存档邮箱
 
-Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。 存档邮箱是一种特殊邮箱，显示在用户的主邮箱文件夹旁边，位于Outlook Outlook 网页版。 用户可以像访问其主邮箱一样访问存档。 此外，用户还可以搜索归档邮箱和主邮箱。
+Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档功能。 存档邮箱是一种特殊邮箱，显示在用户主邮箱文件夹旁边或Outlook Outlook 网页版。 用户可以像访问其主邮箱一样访问存档。 此外，用户还可以搜索归档邮箱和主邮箱。
   
 管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](/office365/securitycompliance/enable-archive-mailboxes)（在 Exchange Online 中启用或禁用存档邮箱）。
   
@@ -64,7 +64,7 @@ After an item has been removed from the archive's Deleted Items folder, the item
   
 > [!NOTE]
 >  默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。<br/>
->  如果管理员将用户的邮箱置于"In-Place保留"或"诉讼保留"，则清除的项目将无限期保留，并且 14 天期限不适用。 
+>  如果管理员将用户的邮箱置于"In-Place保留"或"诉讼保留"状态，则清除的项目将无限期保留，并且 14 天期限不适用。 
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复
 

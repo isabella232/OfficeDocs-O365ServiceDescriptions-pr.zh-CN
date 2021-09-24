@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-message-policy-recovery-and-compliance
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 了解邮件策略和邮件Exchange Online。
-ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663765"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671868"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -25,9 +25,9 @@ ms.locfileid: "54663765"
 
 Exchange Online 邮箱位于云中，对其进行存档需要独特的托管环境。在有些情况下，也可使用 Exchange Online 来将内部部署的邮箱存档到云中。本节介绍使用 Exchange Online 进行存档的各种选择。
   
-Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为用户提供存储较旧电子邮件的便利位置的就地存档。 "In-Place 存档"是一种特殊类型的邮箱，它显示在用户的主邮箱文件夹旁边Outlook Outlook 网页版。 用户可以按他们访问和搜索其主邮箱的相同方式访问和搜索此存档。 可用功能取决于所使用的客户端：
+Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为用户提供存储较旧电子邮件的便利位置的就地存档。 "In-Place 存档"是一种特殊类型的邮箱，与用户的主邮箱文件夹一起显示在 Outlook 和 Outlook 网页版。 用户可以按他们访问和搜索其主邮箱的相同方式访问和搜索此存档。 可用功能取决于所使用的客户端：
   
-- **Outlook 2016 2013 Outlook 2010 Outlook 2010 和 Outlook 网页版** 用户可以访问存档的全部功能，以及相关的合规性功能，如对保留和存档策略的控制。 
+- **Outlook 2016、Outlook 2013、Outlook 2010** 和 Outlook 网页版用户可以访问存档的全部功能，以及相关的合规性功能，如对保留和存档策略的控制。 
     
 - **Outlook 2007** 用户具有就地存档的基本支持，但不是所有的存档和合规性功能都可用。例如，用户无法将保留或存档策略应用到邮箱中的邮件，而是必须依赖管理员设置的策略。 
     
@@ -74,11 +74,11 @@ Exchange Online 中提供的保留策略功能与 Exchange Server 2010 Service P
   
 ## <a name="encryption-of-data-at-rest"></a>静态数据的加密
 
-静态客户数据的加密由多种服务端技术提供，包括 Exchange Online、Skype for Business、OneDrive for Business 和 SharePoint Online 中的 BitLocker、DKM、Azure 存储 服务加密和服务加密。 Office 365服务加密包括使用存储在 Azure 密钥保管库中的客户管理的加密密钥的选项。 此客户管理的密钥选项称为[客户密钥](/microsoft-365/compliance/customer-key-overview)，可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 
+静态客户数据的加密由多种服务端技术提供，包括 Exchange Online、Skype for Business、OneDrive for Business 和 SharePoint Online 中的 BitLocker、DKM、Azure 存储 服务加密和服务加密. Office 365服务加密包括使用存储在 Azure 密钥保管库中的客户管理的加密密钥的选项。 此客户管理的密钥选项称为[客户](/microsoft-365/compliance/customer-key-overview)密钥，可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Microsoft 服务器使用 BitLocker 在卷级别加密包含客户数据的其余磁盘驱动器。 BitLocker 加密是内置于 Windows。 BitLocker 是一种技术，当其他过程或控制 (（例如访问控制或硬件) 的回收）存在故障时，用于防范威胁，这可能会导致某人获得对包含客户数据的磁盘的物理访问权限。 在这种情况下，BitLocker 消除了由于丢失、被盗或不当停用计算机和磁盘而发生数据盗窃或泄露的可能性。 
+Microsoft 服务器使用 BitLocker 在卷级别加密包含客户数据的其余磁盘驱动器。 BitLocker 加密是内置于 Windows。 BitLocker 是一种技术，当其他过程或控制 (（例如访问控制或硬件) 的回收）出现故障时，用于防范威胁，这可能会导致某人获得对包含客户数据的磁盘的物理访问权限。 在这种情况下，BitLocker 消除了由于丢失、被盗或不当停用计算机和磁盘而发生数据盗窃或泄露的可能性。 
   
 ### <a name="distributed-key-manager"></a>分布式密钥管理器
 
@@ -86,13 +86,13 @@ Microsoft 服务器使用 BitLocker 在卷级别加密包含客户数据的其�
   
 ## <a name="customer-key"></a>客户密钥
 
-使用客户密钥，可以控制组织的加密密钥，然后将它们配置为对 Microsoft 数据中心中的静态数据进行加密。 其余数据包括存储在 Exchange Online 和 Skype for Business 中的数据和存储在 SharePoint Online 和 OneDrive for Business 中的文件。 有关详细信息，请参阅使用客户密钥和服务 [加密](/office365/securitycompliance/controlling-your-data-using-customer-key) 和客户密钥 [常见问题解答来控制你的数据](/office365/securitycompliance/service-encryption-with-customer-key-faq)。
+使用客户密钥，可以控制组织的加密密钥，然后将它们配置为对 Microsoft 数据中心中的静态数据进行加密。 其余数据包括存储在邮箱Exchange Online Skype for Business和存储在 SharePoint Online 和 OneDrive for Business 中的文件的数据。 有关详细信息，请参阅使用客户密钥和服务 [加密](/office365/securitycompliance/controlling-your-data-using-customer-key) 和客户密钥常见问题 [解答来控制你的数据](/office365/securitycompliance/service-encryption-with-customer-key-faq)。
   
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 
-Office 365 邮件加密电子邮件用户向任何人发送加密电子邮件。 我们宣布在邮件加密Office利用 Azure 信息加密中的保护功能的新功能。 这些新功能提供了增强的最终用户体验，可更轻松地与组织内外的任何人共享和协作处理受保护的邮件。 新的邮件Office功能有一些设置要求。 请参阅设置基于 Azure Office 365 邮件加密构建的新功能。 使用传统Office 365 邮件加密客户如果没有遵循上面提供的设置指南，将不会获得新功能。 请阅读[常见问题解答](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)，详细了解新功能与旧版 Office 365 邮件加密功能。 
+Office 365 邮件加密电子邮件用户向任何人发送加密电子邮件。 我们宣布在邮件加密Office利用 Azure 信息加密中的保护功能的新功能。 这些新功能提供了增强的最终用户体验，可更轻松地与组织内外的任何人共享和协作处理受保护的邮件。 邮件加密Office有一些设置要求。 请参阅设置基于 Azure Office 365 邮件加密构建的新功能。 使用旧版Office 365 邮件加密客户如果没有遵循上面提供的设置指南，将不会获得新功能。 请阅读[常见问题解答](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e)，详细了解新功能与旧版 Office 365 邮件加密功能。 
 
-Office 365 高级邮件加密允许邮件过期和吊销，从而提供额外的保护。  您还可以为来自组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非营利组织员工) 、Office 365 企业版 E5 (非营利组织员工定价) 或 Office 365 教育版 A5 中。 如果您的组织订阅不包含Office 365 高级邮件加密，您可以购买 Microsoft 365 E5 合规 或 Office 365 高级合规版 SKU 作为加载项。
+Office 365 高级邮件加密允许邮件过期和吊销，从而提供额外的保护。  您还可以为来自组织的加密电子邮件创建多个模板。  高级邮件加密包含在 Microsoft 365 E5、Office 365 E5、Microsoft 365 E5 (非营利组织员工定价) 、Office 365 企业版 E5 (非营利组织员工定价) 或 Office 365 教育版 A5 中。 如果组织订阅不包含Office 365 高级邮件加密，Microsoft 365 E5 合规或 Office 365 高级合规版 SKU 作为加载项购买。
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>安全/多用途 Internet 邮件扩展 (S/MIME)
 

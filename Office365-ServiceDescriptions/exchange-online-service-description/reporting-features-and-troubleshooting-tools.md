@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-reporting-features-and-troubleshooting-tools
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online EAC 管理中心管理中心内和场外Exchange各种 (功能) 。
-ms.openlocfilehash: fb6af583f9bb51954b57a92d907ab19a935f5f3c6ab9be196f7ca56240189571
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Microsoft Exchange Online EAC 管理中心管理中心Exchange和场外 (各种) 。
+ms.openlocfilehash: a2a0f2f749733b32b9b0996fb368739bb42b523f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663655"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671796"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>报告功能和疑难解答工具
 
-Microsoft Exchange Online EAC 管理中心管理中心内和场外Exchange各种 (功能) 。
+Microsoft Exchange Online EAC 管理中心管理中心Exchange和场外 (各种) 。
   
 ## <a name="reporting-features"></a>报告功能
 
@@ -41,7 +41,7 @@ Exchange Online客户可以通过下载报告工作簿Microsoft 365 管理中心
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 
-REST/OData 租户报告 Web 服务是允许您创建自定义报告的编程界面，可以访问有关邮箱、组和邮件数据的摘要报告和详细报告。 有关详细信息，请参阅报告[Office 365服务](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))。
+REST/OData 租户报告 Web 服务是允许您创建自定义报告的编程界面，可以访问有关邮箱、组和邮件数据的摘要报告和详细报告。 有关详细信息，请参阅报告[Office 365报告 Web 服务](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))。
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>EAC 中的报告功能和疑难解答工具
 
@@ -49,7 +49,7 @@ Exchange 管理中心将提供下列报告功能和疑难解答工具。
   
 ### <a name="trace-an-email-message"></a>跟踪电子邮件
 
-通过邮件跟踪功能，您可以作为管理员跟踪电子邮件，因为它们通过您的 Exchange Online 服务。 该功能有助于您确定目标邮件是否被接收、拒绝、推迟或由 Exchange 服务进行了传递。 这使得您可以有效回答用户的问题，解决邮件流问题，并减少联系技术支持寻求帮助的需要。
+通过邮件跟踪功能，您可以作为管理员跟踪电子邮件，因为它们通过您的 Exchange Online服务。 该功能有助于您确定目标邮件是否被接收、拒绝、推迟或由 Exchange 服务进行了传递。 这使得您可以有效回答用户的问题，解决邮件流问题，并减少联系技术支持寻求帮助的需要。
   
 > [!IMPORTANT]
 > 对于一般问题与走向的疑难解答，使用报告工具获取相关数据。使用邮件跟踪工具获取需要邮件详细信息的单点信息。 

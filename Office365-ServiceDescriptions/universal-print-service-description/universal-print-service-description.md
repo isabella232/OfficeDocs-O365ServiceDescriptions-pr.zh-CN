@@ -6,18 +6,18 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: 通用打印Microsoft 365云打印服务，无需使用本地打印服务器。
-ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 85a388f811d149be6ae436c3f94421dbc1ec9284
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702431"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673123"
 ---
 # <a name="universal-print-service-description"></a>通用打印服务说明
 
-[通用打印](https://www.microsoft.com/microsoft-365/windows/universal-print)Microsoft 365云打印服务，无需使用本地打印服务器。 此服务使加入工作区Windows 10终结点无需安装其他客户端软件即可选择并打印到 Azure AD 注册的打印机。
+[通用打印](https://www.microsoft.com/microsoft-365/windows/universal-print)是Microsoft 365云打印服务，无需使用本地打印服务器。 此服务使加入工作区Windows 10终结点无需安装其他客户端软件即可选择并打印到 Azure AD 注册的打印机。
 
 用户可从无驱动程序打印、简化的基于位置的打印机发现和直观的打印体验中获益，无需学习曲线即可利用其设备上现有的打印流。
 

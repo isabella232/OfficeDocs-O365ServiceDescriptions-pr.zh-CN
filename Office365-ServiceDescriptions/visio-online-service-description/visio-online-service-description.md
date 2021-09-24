@@ -6,20 +6,20 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: 比较 web Visio 中的功能与 Visio 桌面应用。
-ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b41300ef104cfde8619b29154a9bb25e6720a936
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702421"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673106"
 ---
 # <a name="visio-service-description"></a>Visio服务说明
 
-通过Visio和 Web 应用程序，可以查看、编辑和共享Visio Web 上的图表。 从基本图表开始，表达共同想法，例如描述计划、制定建议或描述过程中的步骤序列。 使用常用的图表类型和丰富的形状集创建一流图表非常简单和简单。 Visio桌面用户可以通过共享图表和在上载到 SharePoint Online 或 OneDrive for Business Online 的文件中插入注释来查看和协作。
+通过Visio和 Web 应用程序，可以查看、编辑和共享Visio图表。 从基本图表开始，表达共同想法，例如描述计划、提出建议或描述过程中的步骤序列。 使用常用的图表类型和丰富的形状集创建一流图表非常简单和简单。 Visio桌面用户可以通过共享图表和在上载到 SharePoint Online 或 OneDrive for Business Online 的文件中插入注释来查看和协作。
 
 有关使用 Visio 的帮助，请参阅Visio[帮助&学习](https://support.office.com/visio)。
 
@@ -29,7 +29,7 @@ ms.locfileid: "54702421"
   
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了 Web 和桌面Visio提供的主要功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关跨计划提供最新、完整功能Visio，请参阅[比较Visio选项。](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
+下表列出了 Web 和桌面Visio提供的主要功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关跨计划更新的完整功能Visio，请参阅[比较Visio选项。](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
 
 | 应用程序功能 | Visio 网页版 | Visio桌面应用程序 |
 |:-----|:-----|:-----|
@@ -62,11 +62,11 @@ ms.locfileid: "54702421"
 <br/><sup>2</sup> 通过 SharePoint 或 OneDrive for Business 共享，并与没有 SharePoint 或 OneDrive 的用户共享。
 <br/><sup>3</sup>在 Web Visio中不可用。
 <br/><sup>4</sup>在 Web Visio中不可用。
-<br/><sup>5</sup>在 web Visio中可用。
+<br/><sup>5</sup>可用于Visio编辑器。
 
 ## <a name="learn-more"></a>了解详细信息
 
-### <a name="supported-file-types-in-visio-for-the-web"></a>Web Visio中受支持的文件类型
+### <a name="supported-file-types-in-visio-for-the-web"></a>Web Visio支持的文件类型
 
 | Visio 2010 Visio更高版本中创建的图表 | 查看模式 | 编辑模式 |
 |:-----|:-----|:-----|

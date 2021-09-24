@@ -8,30 +8,30 @@ ms.topic: reference
 f1_keywords:
 - excel-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel 网页版 (以前Excel Web App) 将 Microsoft Excel 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储工作簿的网站上使用工作簿。 所有客户都可以使用 Office 查看和Office 网页版。
-ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Excel 网页版 (以前Excel Web App) 将 Microsoft Excel 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 查看和Office 网页版。
+ms.openlocfilehash: 0f68d6142eb7e7fcb8858777a6ca11217b367289
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702011"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672763"
 ---
 # <a name="excel-for-the-web"></a>Excel 网页版
 
-Excel 网页版 (以前Excel Web App) 将 Microsoft Excel 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储工作簿的网站上使用工作簿。 所有客户都可以使用 Office 查看和Office 网页版。
+Excel 网页版 (以前Excel Web App) 将 Microsoft Excel 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储工作簿的网站上处理工作簿。 所有客户都可以使用 Office 查看和Office 网页版。
   
 > [!NOTE]
-> 超过 50 MB 的工作簿 (MB) 无法从 Excel 网页版 中Microsoft Office SharePoint Online。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
+> 超过 50 MB 的工作簿 (MB) 无法在工作簿Excel 网页版中以Microsoft Office SharePoint Online。 要查看较大的文件，需要在您的计算机上安装 Excel 桌面应用程序。 
 
 > [!NOTE]
-> 为了帮助你比较产品/服务，本文中列出的高级功能包括 Excel 桌面应用功能，这些功能仅在 Office 套件 (中可用，如 Office Professional Plus、Office Standard 或 Microsoft 365 企业应用版) 。 有关所有新功能的列表Office 网页版如 Word 网页版 和 PowerPoint 网页版，请参阅跨 Office 网页版[计划的功能可用性](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。
+> 为了帮助你比较产品/服务，本文中列出的高级功能包括 Excel 桌面应用功能，这些功能仅在 Office 套件 (中提供Office Professional Plus、Office Standard 或 Microsoft 365 企业应用版) 。 有关所有新功能的列表Office 网页版如Word 网页版和PowerPoint 网页版，请参阅跨 Office 网页版[计划的功能可用性](office-online-service-description.md#feature-availability-across-office-for-the-web-plans)。
 
-To see what file type are supported by Excel 网页版， see [Supported file types for Office 网页版](office-online-service-description.md#supported-file-types-for-office-for-the-web). 若要了解有关浏览器和 Excel 网页版 桌面Excel之间的差异，请参阅浏览器和 Excel 中[工作簿Excel。](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)
+To see what file type are supported by Excel 网页版， see [Supported file types for Office 网页版](office-online-service-description.md#supported-file-types-for-office-for-the-web). 若要了解有关浏览器和 Excel 网页版 桌面Excel之间的差异，请参阅浏览器和 Excel 中工作簿[Excel。](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)
   
 ## <a name="add-background-color-to-sheet-tabs"></a>向工作表选项卡添加背景色 
 
@@ -55,15 +55,15 @@ To see what file type are supported by Excel 网页版， see [Supported file ty
   
 ## <a name="apply-conditional-formatting"></a>应用条件格式
 
-使用条件格式可帮助您直观地浏览和分析数据、检测关键问题以及确定模式和趋势。 详细了解如何在 Excel 网页版 中[使用条件格式](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?)。
+使用条件格式可帮助您直观地浏览和分析数据、检测关键问题以及确定模式和趋势。 详细了解如何在 Excel 网页版 中[Excel 网页版。](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?)
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
-此功能在Excel 网页版。 其他高级功能仅在桌面Excel可用。
+此功能在 Excel 网页版 中Excel 网页版。 其他高级功能仅在桌面Excel可用。
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-在 Excel 网页版 中不可用。 在Excel应用中，建议图表让你从最适合显示数据的各种图表进行选择。 了解有关如何使用[图表中的图表建议Excel。](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)
+在 Excel 网页版 中不可用。 在桌面Excel中，建议图表让你从最适合呈现数据的各种图表进行选择。 了解有关如何使用[图表中的图表建议Excel。](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)
   
 ## <a name="autocomplete"></a>自动完成
 
@@ -86,7 +86,7 @@ Excel 网页版可以完成在单元格中键入的内容，如果存在多个�
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>图表和表格，包括数据透视图报表和数据透视表
 
-Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 若要了解更多信息，请参阅[创建](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664)表和设置表格格式和数据透视表数据透视图[概述](https://go.microsoft.com/fwlink/?linkid=55417)。
+Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 若要了解更多信息，请参阅[创建表](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664)和设置表格格式和数据透视表数据透视图[概述](https://go.microsoft.com/fwlink/?linkid=55417)。
 
 ## <a name="check-spelling"></a>检查拼写
 
@@ -106,7 +106,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-可以使用Excel 网页版数据连接，但无法通过使用数据连接创建Excel 网页版。 你需要使用Excel桌面应用来使用外部数据。
+可以使用Excel 网页版数据连接，但不能使用数据连接创建Excel 网页版。 你需要使用Excel桌面应用来使用外部数据。
   
 ## <a name="create-tables"></a>创建表格
 
@@ -114,7 +114,7 @@ Excel 图表和表格使你可以轻松地设置数据格式并管理信息。 �
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>创建高级分析视图（Power View、Power Pivot、切片器）
 
-高级分析视图（例如 Power Pivot 和 Power View）仅在 Excel 桌面应用程序中提供。 这些功能在操作系统中Excel 网页版。 了解有关 [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671) 的详细信息。
+高级分析视图（例如 Power Pivot 和 Power View）仅在 Excel 桌面应用程序中提供。 这些功能在操作系统中不受Excel 网页版。 了解有关 [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671) 的详细信息。
   
 ## <a name="data-validation"></a>数据有效性
 
@@ -142,7 +142,7 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
   
 ## <a name="external-references-links"></a>外部引用（链接）
 
-外部引用（也称为链接）是对其他 Excel 工作簿中某个工作表上的单元格或区域的引用，或是对其他工作簿中定义的名称的引用。 您可以使用Excel 网页版外部引用，但无法通过使用外部引用Excel 网页版。 你需要使用桌面Excel来创建或更新外部引用。 
+外部引用（也称为链接）是对其他 Excel 工作簿中某个工作表上的单元格或区域的引用，或是对其他工作簿中定义的名称的引用。 可以使用Excel 网页版查看外部引用，但不能使用外部引用Excel 网页版。 你需要使用桌面Excel来创建或更新外部引用。 
   
 ## <a name="fill-handle"></a>填充柄
 
@@ -174,23 +174,23 @@ Microsoft Excel桌面应用提供最为高级的公式工具，如 3D 引用样�
   
 ## <a name="functions"></a>函数
 
-在 Excel 网页版 公式中，可以使用超过 400 Excel 个工作表函数，包括动态数组公式中使用的函数，如[](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)[FILTER 函数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)。
+您可以在 Excel 网页版 的公式中使用超过 400 Excel个工作表函数，包括动态数组公式中使用的函数，如 FILTER [](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)[函数](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)。
   
 ## <a name="goto"></a>GoTo
 
-使用 GoTo 功能快速导航电子表格。 键入单元格参考并跳转到电子表格中的此位置。 了解有关键盘[快捷方式在 Excel 网页版 中Excel 网页版。](https://go.microsoft.com/fwlink/p/?LinkID=272943)
+使用 GoTo 功能快速导航电子表格。 键入单元格参考并跳转到电子表格中的此位置。 了解有关键盘[快捷方式在Excel 网页版。](https://go.microsoft.com/fwlink/p/?LinkID=272943)
  
 ## <a name="group-data"></a>组数据
 
-可以在电子表格中对行和列进行分组或Excel 网页版列。 键盘快捷方式可轻松快速展开或折叠您创建的组。 详细了解如何对[数据进行分组Excel 网页版。](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)
+可以在电子表格中对行和列进行分组或Excel 网页版列。 键盘快捷方式可轻松快速展开或折叠您创建的组。 详细了解如何[对数据进行分组Excel 网页版。](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web)
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
-您可以隐藏和取消隐藏工作簿中工作簿中的行、列和Excel 网页版。
+您可以隐藏和取消隐藏工作簿中的行、列和Excel 网页版。
 
 ## <a name="ideas"></a>想法
 
-解决方案Excel通过高级可视化摘要、趋势和模式帮助你了解数据。 只需选择数据范围中的单元格，然后选择"开始"**选项卡上的"** 创意 **"** 按钮。任务Excel中的想法将分析你的数据，并返回任务窗格中有关该数据的有趣视觉效果。 了解有关在"创意["Excel。](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+解决方案Excel通过高级可视化摘要、趋势和模式帮助你了解数据。 只需选择数据范围中的单元格，然后选择"开始"**选项卡上的"** 创意 **"** 按钮。任务Excel中的想法将分析数据，并返回任务窗格中有关该数据的有趣视觉效果。 详细了解有关[Excel 中的想法](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)。
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -206,7 +206,7 @@ Microsoft Excel桌面应用提供最为高级的公式工具，如 3D 引用样�
 
 ## <a name="insert-shapes"></a>插入形状
 
-将方框、圆、线条、连接线或箭头等形状添加到电子表格并设置Excel 网页版格式。 详细了解如何 [添加形状](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)。
+向电子表格中添加形状（如方框、圆、线条、连接线或箭头）Excel 网页版格式。 详细了解如何 [添加形状](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web)。
 
 ## <a name="keyboard-shortcuts"></a>键盘快捷方式
 
@@ -218,7 +218,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>命名区域
 
-您不能在Excel 网页版中创建命名区域，但可以使用在电子表格的桌面Excel桌面中创建的命名Excel 网页版。 选择命名区域时，该名称将出现在编辑栏的正前。
+您不能在 Excel 网页版 中创建命名区域，但可以使用在 Excel 网页版 电子表格的 Excel 桌面中创建的命名Excel 网页版。 选择命名区域时，该名称将出现在编辑栏的正前。
 
 ## <a name="number-formatting"></a>数值格式
 
@@ -234,7 +234,7 @@ Excel 网页版 Internet 浏览器启动，并且依赖于 Internet 连接。 �
 
 ## <a name="pivottables"></a>数据透视表
 
-可以在数据透视表中插入数据Excel 网页版，并计算、汇总和分析数据。 了解有关如何在数据透视表中插入数据透视表[Excel 网页版。](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)
+可以在数据透视表中插入数据透视表Excel 网页版计算、汇总和分析数据。 了解有关如何在数据透视表中插入数据透视表[Excel 网页版。](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web)
 
 ## <a name="post-to-social-network-and-present-online"></a>发布到社交网络并联机演示
 
@@ -242,15 +242,15 @@ Excel 网页版 Internet 浏览器启动，并且依赖于 Internet 连接。 �
   
 ## <a name="power-pivot-viewing"></a>Power Pivot 查看
 
-Excel 网页版查看 Power Pivot 表和图表，但您需要使用桌面Excel创建 Power Pivot 数据模型。
+Excel 网页版查看 Power Pivot 表和图表，但你需要使用桌面Excel创建 Power Pivot 数据模型。
   
 ## <a name="power-view-viewing"></a>Power View viewing
 
-您可以查看工作簿中的Power View工作表并与之交互，但无法使用Power View创建Excel 网页版。 只能使用桌面应用程序进行 Power View 创建。 Power View 允许你在可进行展示的交互式视图中创建、共享和探索数据。 查看在一个工作表中彼此相链接的交互式地图、图表和表中的信息。 了解有关 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674) 的详细信息。
+您可以查看工作簿中的Power View并与之交互，但不能使用Power View创建Excel 网页版。 只能使用桌面应用程序进行 Power View 创建。 Power View 允许你在可进行展示的交互式视图中创建、共享和探索数据。 查看在一个工作表中彼此相链接的交互式地图、图表和表中的信息。 了解有关 [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674) 的详细信息。
   
 ## <a name="print"></a>打印
 
-使用打印命令Excel 网页版将整个工作表或当前所选内容发送到打印机。 了解有关如何在页面[打印Excel 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=271676)
+使用打印命令Excel 网页版将整个工作表或当前所选内容发送到打印机。 详细了解如何在页面[Excel 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=271676)
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
@@ -270,7 +270,7 @@ Excel 网页版查看 Power Pivot 表和图表，但您需要使用桌面Excel�
   
 ## <a name="rename-file-while-workbook-is-open"></a>工作簿打开时重命名文件
 
-在Excel 网页版中，无需关闭工作簿文件，即可通过在标题中选择文件名并键入新名称来重命名工作簿文件。 若要使用 Excel 桌面应用程序重命名文件，则关闭文件、导航至文件在您设备上的位置，然后重命名文件。
+在Excel 网页版中，无需关闭工作簿文件，即可通过在标头中选择文件名并键入新名称来重命名工作簿文件。 若要使用 Excel 桌面应用程序重命名文件，则关闭文件、导航至文件在您设备上的位置，然后重命名文件。
   
 ## <a name="replace"></a>替换
 
@@ -298,7 +298,7 @@ Excel 网页版查看 Power Pivot 表和图表，但您需要使用桌面Excel�
 
 ## <a name="sheet-views"></a>工作表视图
 
-[利用](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)工作表视图，您可以为工作表创建Excel视图，而不会被他人中断。 例如，您可以将筛选器设置为仅显示重要的记录，而不受文档中其他排序和筛选的影响。 甚至可以在同一工作表上设置多个工作表视图。
+[利用](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)工作表视图，您可以为工作表创建Excel视图，而不会被他人中断。 例如，您可以将筛选器设置为仅显示重要的记录，而不受文档中其他排序和筛选的影响。 您甚至可以在同一工作表上设置多个工作表视图。
   
 ## <a name="slicers"></a>切片器
 
@@ -318,11 +318,11 @@ Excel 网页版查看 Power Pivot 表和图表，但您需要使用桌面Excel�
   
 ## <a name="surveys"></a>调查
 
-使用调查向Excel 网页版填写的表单发送表单。将在联机工作表中自动编译响应。 详细了解有关[Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470)中的调查。
+使用调查向Excel 网页版填写的表单发送表单。将在联机工作表中自动编译响应。 详细了解有关[Excel 中的调查](https://go.microsoft.com/fwlink/p/?LinkId=391470)。
   
 ## <a name="tell-me"></a>操作说明搜索
 
-当你需要在任务中完成Excel 网页版但不知道如何完成时，可以使用"告诉我"搜索功能来快速找到要查找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
+当你需要在任务中完成一些Excel 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到您寻找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
 
 ## <a name="text-formatting"></a>文本格式
 
@@ -338,7 +338,7 @@ Excel 网页版自动保存工作。 如果出错，请使用"撤消"或按 Ctrl
   
 ## <a name="vba-and-macro-scripting"></a>VBA 和宏脚本
 
-Microsoft Excel桌面应用是一个非常强大的工具，可用于操作、分析和呈现数据。 有时，尽管具有一组丰富的功能，您的组织可能会发现使用 Visual Basic for Applications (VBA) （一种编程语言）可以更轻松地创建一个宏，以执行一些不易于理解的、重复的任务或执行用户界面 (UI) 似乎未解决的一些任务。 不能使用 Excel 网页版 中的 VBA 创建宏，但可以在不删除文件中包含的 VBA (或损坏) 的情况下打开和编辑启用 VBA 的电子表格。 了解有关宏 [入门的更多信息](https://go.microsoft.com/fwlink/p/?LinkId=271678)。
+Microsoft Excel桌面应用是一个非常强大的工具，可用于操作、分析和呈现数据。 有时，尽管具有一组丰富的功能，但您的组织可能会发现使用编程语言 Visual Basic for Applications (VBA) 创建一个宏来执行一些不简单、重复的任务或执行用户界面 (UI) 似乎未解决的一些任务会更容易。 不能使用 Excel 网页版 中的 VBA 创建宏，但可以打开和编辑启用了 VBA 的电子表格， (或损坏) 中包含的 VBA。 了解有关宏 [入门的更多信息](https://go.microsoft.com/fwlink/p/?LinkId=271678)。
   
 ## <a name="view-3d-charts"></a>查看 3D 图表
 
@@ -346,11 +346,11 @@ Microsoft Excel桌面应用是一个非常强大的工具，可用于操作、�
   
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
-在 Excel 网页版 中不可用。 你可以按预期在结果中查看Excel 网页版结果。 如果你要使用分析工具（例如"单变量求解"、"数据表"、"规划求解"和"系列"），则将需要 Excel 桌面应用程序。 了解有关[浏览器和 Excel 桌面应用程序中工作簿用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=273900)的详细信息。
+在 Excel 网页版 中不可用。 您可以按预期在结果视图中查看Excel 网页版结果。 如果你要使用分析工具（例如"单变量求解"、"数据表"、"规划求解"和"系列"），则将需要 Excel 桌面应用程序。 了解有关[浏览器和 Excel 桌面应用程序中工作簿用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=273900)的详细信息。
 
 ## <a name="workbook-statistics"></a>工作簿统计信息
 
-the 工作簿统计信息 feature counts and identifies elements of a workbook， helping you discover all of its content. 你将在"审阅"选项卡 **上找到** 它。
+The 工作簿统计信息 feature counts and identifies elements of a workbook， helping you discover all of its content. 你将在"审阅"选项卡 **上找到** 它。
   
 ## <a name="feature-availability"></a>功能可用性
 

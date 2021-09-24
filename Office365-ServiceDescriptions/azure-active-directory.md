@@ -6,23 +6,23 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory Microsoft 基于云的标识和访问管理解决方案，可帮助员工和来宾用户安全登录并访问资源。
-ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 7d2818cebaff746da0385f9f0294ede3a0674d14
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701611"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670994"
 ---
 # <a name="azure-active-directory-service-description"></a>Azure Active Directory 服务说明
 
-Azure Active Directory 是 Microsoft 基于云的标识和访问管理解决方案，可帮助员工和来宾用户安全登录并访问 Microsoft 应用 (例如 Microsoft 365 和 Azure) 等资源、成千上万个预集成热门 SaaS 应用 (例如 ServiceNow、Google 应用) 以及任何自定义生成云或本地 Web 应用。 它提供单一登录、多重身份验证、条件访问和生命周期管理等安全性功能，以保护组织免受标识泄露。
+Azure Active Directory 是 Microsoft 的基于云的标识和访问管理解决方案，它可帮助员工和来宾用户安全登录并访问 Microsoft 应用 (例如 Microsoft 365 和 Azure) 等资源、成千上万个预集成热门 SaaS 应用 (例如 ServiceNow、Google 应用) 以及任何自定义生成云或本地 Web 应用。 它提供单一登录、多重身份验证、条件访问和生命周期管理等安全性功能，以保护组织免受标识泄露。
 
 ## <a name="available-plans"></a>可用计划
 
-有关允许用户进行订阅的详细信息，Azure Active Directory完整[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+有关允许用户进行订阅订阅的详细Azure Active Directory，请参阅完整的[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="feature-availability"></a>功能可用性
 

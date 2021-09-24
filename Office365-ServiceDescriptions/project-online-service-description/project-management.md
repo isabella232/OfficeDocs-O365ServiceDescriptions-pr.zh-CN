@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: 以下项目管理功能在 Project Online。
-ms.openlocfilehash: 0f737ad27b5735d794b9f9900dc8dca426a89d2b5b3a697e5bdb6762943975ff
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: d7143bd099d761f2334e6cadce146bc8852047fa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702681"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672623"
 ---
 # <a name="project-management"></a>项目管理
 
@@ -45,4 +45,4 @@ Project Online 和 Project Server 2013 包括防止、发现和减少与业务�
 
 ## <a name="project-home"></a>Project主页
 
-Project主页是一个起点，可让你快速轻松地访问最近执行的项目以及重要的、最重要的项目。 可以使用易于使用的控件将这些项目标记为收藏夹，以便它们在"主页"中Project醒目。 若要了解更多信息，请参阅开始[Project主页](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。
+Project主页是一个起点，可让你快速轻松地访问最近使用的项目以及重要的、最重要的项目。 可以使用易于使用的控件将这些项目标记为收藏夹，以便它们在"主页"中Project醒目。 若要了解更多信息，请参阅开始[Project主页](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)。

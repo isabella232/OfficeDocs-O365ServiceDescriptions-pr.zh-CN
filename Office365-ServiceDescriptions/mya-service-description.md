@@ -6,21 +6,21 @@ manager: gailw
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics 功能、分发、隐私和先决条件
-ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9f4987f7a941fe4174b8096c1a36ed86dbee56aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663085"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670354"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics 服务说明
 
-MyAnalytics 总结了你如何花时间工作，然后建议更智能地工作的方法。 MyAnalytics 通过可在 Microsoft [](#elements) Outlook或 Web 浏览器访问的元素提供这些见解。
+MyAnalytics 总结了如何花时间工作，然后建议更智能地工作的方法。 MyAnalytics 通过可在 Microsoft [](#elements) Outlook或 Web 浏览器访问的元素提供这些见解。
 
-MyAnalytics 的一些元素会自动提供给各种 Office 365 计划。 若要了解哪些元素包含在计划和Office 365 Microsoft 365中，请参阅[MyAnalytics 计划和环境](/workplace-analytics/myanalytics/overview/plans-environments)。  
+MyAnalytics 的一些元素会自动提供给各种应用Office 365用户。 若要了解哪些元素包含在计划和Office 365 Microsoft 365中，请参阅[MyAnalytics 计划和环境](/workplace-analytics/myanalytics/overview/plans-environments)。  
 
 MyAnalytics 以保护员工隐私的方式处理信息。 有关详细信息，请参阅数据 [隐私](#data-privacy)。
 
@@ -33,7 +33,7 @@ MyAnalytics 以保护员工隐私的方式处理信息。 有关详细信息，�
 MyAnalytics 包含以下元素：
 
 * [仪表板](/workplace-analytics/myanalytics/use/dashboard-2)：帮助你反映你的工作模式，例如专注工作的时间、会议与电子邮件实践以及网络。
-* [Outlook：](/workplace-analytics/myanalytics/use/add-in)在加载项中Outlook可操作见解，帮助你随时了解任务并完成更多任务。
+* [Outlook外接程序](/workplace-analytics/myanalytics/use/add-in)：在外接程序中Outlook可操作见解，帮助你随时了解任务并完成更多任务。
 * [电子邮件摘要](/workplace-analytics/myanalytics/use/email-digest-2)：在每周电子邮件中突出显示你的工作模式。
 * [内联建议](/workplace-analytics/myanalytics/use/mya-notifications)：当你阅读或撰写电子邮件或会议邀请时，这些简短、数据和 AI 驱动的建议显示在 Outlook 中。
 

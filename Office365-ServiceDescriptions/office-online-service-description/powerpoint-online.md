@@ -8,26 +8,26 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint 网页版 (以前PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储演示文稿的网站上处理演示文稿。 Microsoft 365客户Office 网页版可以一起查看、创建和编辑文件。
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702251"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669962"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
 PowerPoint 网页版 (以前PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储演示文稿的网站上处理演示文稿。 Microsoft 365客户Office 网页版可以一起查看、创建和编辑文件。
   
-PowerPoint编辑器是一个 Web 前端组件，用于创建基于浏览器的编辑图面，这样用户即可处理文档而不会丢失保真度。
+PowerPoint编辑器是一个 Web 前端组件，可创建基于浏览器的编辑图面，使用户可以处理文档而不会丢失保真度。
   
-如果您选择 PowerPoint 网页版工具栏上的"在 PowerPoint 中打开"按钮，演示文稿将在 PowerPoint 桌面应用程序 (中打开（如果 Microsoft PowerPoint 2010 或更高版本安装在) 计算机上）。
+如果选择 PowerPoint 网页版工具栏上的"在 PowerPoint 中打开"按钮，演示文稿将在 PowerPoint 桌面应用程序 (中打开（如果计算机上安装 Microsoft PowerPoint 2010 或更高版本) ）。
   
 了解如何在[电脑上使用 Office for business Microsoft 365下载和安装应用](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)。
   
@@ -37,7 +37,7 @@ PowerPoint编辑器是一个 Web 前端组件，用于创建基于浏览器的�
   
 ## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 
-从动画和过渡效果库中选择。 PowerPoint 网页版支持八个转换和 37 个动画。 其他动画和切换不受PowerPoint 网页版保留在演示文稿中，并显示在幻灯片放映中，但不能在幻灯片PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+从动画和过渡效果库中选择。 PowerPoint 网页版支持八个转换和 37 个动画。 不支持其他动画和切换PowerPoint 网页版保留在演示文稿中，并显示在幻灯片放映中，但不能在幻灯片PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 
@@ -45,7 +45,7 @@ PowerPoint编辑器是一个 Web 前端组件，用于创建基于浏览器的�
   
 ## <a name="apply-themes-and-theme-variants"></a>应用主题和主题变量
 
-向演示文稿添加新幻灯片时，请从内置主题和变体库中进行选择。 演示文稿中PowerPoint 网页版不受支持的主题，但无法修改PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+向演示文稿添加新幻灯片时，请从内置主题和变体库中进行选择。 演示文稿中PowerPoint 网页版主题，但无法修改PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="office-add-ins"></a>Office 外接程序
 
@@ -57,11 +57,11 @@ PowerPoint 网页版仅支持内容外接程序用于Office。 内容外接程�
   
 ## <a name="broadcast-slide-show"></a>Broadcast slide show
 
-若要PowerPoint远程受众广播幻灯片放映，需要桌面PowerPoint 网页版。 无论用户是否安装了桌面PowerPoint 网页版，观看者都可以通过 PowerPoint 观看演示文稿。 详细了解[广播幻灯片放映](https://go.microsoft.com/fwlink/?LinkId=272765)。
+若要PowerPoint远程受众广播幻灯片放映，需要桌面PowerPoint 网页版。 无论用户是否已安装桌面PowerPoint 网页版，观看者都可以通过 PowerPoint观看演示文稿。 详细了解[广播幻灯片放映](https://go.microsoft.com/fwlink/?LinkId=272765)。
   
 ## <a name="clipboard"></a>剪贴板
 
-使用PowerPoint 网页版，可以在演示文稿中剪切、复制和粘贴内容。 用户可以复制和粘贴Office 网页版程序之间的文本，还可以在Office 网页版和Microsoft Office桌面应用之间复制和粘贴文本。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+使用 PowerPoint 网页版，可以在演示文稿中剪切、复制和粘贴内容。 用户可以复制和粘贴Office 网页版程序之间的文本，还可以在Office 网页版和Microsoft Office桌面应用之间复制和粘贴文本。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="create-and-manage-slides"></a>Create and manage slides
 
@@ -69,11 +69,11 @@ PowerPoint 网页版仅支持内容外接程序用于Office。 内容外接程�
   
 ## <a name="create-custom-animation"></a>Create custom animation
 
-PowerPoint 网页版动画效果库。 动画不受PowerPoint 网页版保留在演示文稿中，并显示在幻灯片放映中，但不能在幻灯片中PowerPoint 网页版。 必须在计算机上安装 PowerPoint 桌面应用程序，才能创建自定义动画。 详细了解如何[使用 PowerPoint 2013 桌面应用程序创建自定义动画](https://go.microsoft.com/fwlink/p/?LinkId=282348)。
+PowerPoint 网页版动画效果库。 动画不受PowerPoint 网页版保留在演示文稿中，并显示在幻灯片放映中，但不能在幻灯片PowerPoint 网页版。 必须在计算机上安装 PowerPoint 桌面应用程序，才能创建自定义动画。 详细了解如何[使用 PowerPoint 2013 桌面应用程序创建自定义动画](https://go.microsoft.com/fwlink/p/?LinkId=282348)。
   
 ## <a name="design-tools-advanced"></a>设计工具，高级
 
-在 PowerPoint 网页版 中不可用。 仅 PowerPoint 桌面应用程序提供了高级设计功能，如创建幻灯片母版和修改版式。 使用PowerPoint 网页版，可以使用自己的模板文件作为创建新文件的基础，也可以从预定义的主题列表中选择。
+在 PowerPoint 网页版 中不可用。 仅 PowerPoint 桌面应用程序提供了高级设计功能，如创建幻灯片母版和修改版式。 通过PowerPoint 网页版，可以使用自己的模板文件作为创建新文件的基础，也可以从预定义的主题列表中选择。
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -113,7 +113,7 @@ PowerPoint 网页版支持八个转换和 37 个动画。 如需更多选择，�
   
 ## <a name="integration-with-excel-for-charts"></a>Integration with Excel for charts
 
-在 PowerPoint 网页版 中不可用。 使用 PowerPoint 网页版，可以查看Excel演示文稿中的图表，但不能使用 Excel 在演示文稿中编辑或插入PowerPoint 网页版。 详细了解如何[将 Excel 图表复制到 PowerPoint 中](https://go.microsoft.com/fwlink/?LinkId=272773)。
+在 PowerPoint 网页版 中不可用。 使用 PowerPoint 网页版，您可以查看Excel演示文稿中的图表，但不能使用 Excel 在演示文稿中编辑或插入PowerPoint 网页版。 详细了解如何[将 Excel 图表复制到 PowerPoint 中](https://go.microsoft.com/fwlink/?LinkId=272773)。
   
 ## <a name="navigation---slide-sorter"></a>导航 - 幻灯片浏览
 
@@ -157,11 +157,11 @@ PowerPoint 网页版 Web 浏览器启动，并且依赖于 Internet 连接。 �
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>权限管理：应用和使用 IRM 和密码保护
 
-在 PowerPoint 网页版 中不可用。 PowerPoint 网页版使用信息权限管理或 IRM 功能 (演示文稿) 。 但是，这些演示文稿无法通过浏览器进行编辑，并且不能创建受 IRM 保护PowerPoint 网页版。 PowerPoint 网页版无法打开使用密码进行数字签名或加密的演示文稿。 
+在 PowerPoint 网页版 中不可用。 PowerPoint 网页版使用 IRM 管理信息管理 (演示文稿) 。 但是，这些演示文稿无法编辑在浏览器中，并且不能创建受 IRM 保护的演示文稿PowerPoint 网页版。 PowerPoint 网页版无法打开使用密码进行数字签名或加密的演示文稿。 
   
 ## <a name="run-slide-show"></a>Run slide show
 
-使用PowerPoint 网页版只需 Web 浏览器和 Internet 连接就可以运行演示文稿。 详细了解可以使用[PowerPoint 网页版 执行的基本PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272775)
+使用 PowerPoint 网页版，只需 Web 浏览器和 Internet 连接就可以运行演示文稿。 详细了解可以使用[PowerPoint 网页版 执行的基本PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272775)
   
 ## <a name="save-as-or-download-a-copy"></a>另存为或下载副本
 
@@ -181,19 +181,19 @@ PowerPoint 网页版全屏窗口中播放幻灯片放映。 按下空格键可�
   
 ## <a name="smartart"></a>SmartArt
 
-可以插入 SmartArt、切换到其他布局或配色方案、应用 SmartArt 样式以及使用自定义样式PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+可以插入 SmartArt、切换到其他布局或配色方案、应用 SmartArt 样式以及使用自定义样式编辑PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="table-creation-editing-and-formatting"></a>表创建、编辑和格式设置
 
-可以在数据库中创建和编辑表，PowerPoint 网页版大多数PowerPoint 网页版表函数。 对于合并和拆分单元格等高级功能，请使用PowerPoint桌面应用。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+可以在数据库中创建和编辑表PowerPoint 网页版，PowerPoint 网页版大多数表函数。 对于高级功能（如合并和拆分单元格），请使用PowerPoint桌面应用。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="tell-me"></a>操作说明搜索
 
-当你需要在任务中完成一些PowerPoint 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到要查找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
+当你需要在任务中完成一些PowerPoint 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到您寻找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
   
 ## <a name="undo-and-redo"></a>撤消和恢复
 
-在活动演示文稿的当前编辑会话期间，可撤消 (Ctrl + Z) 和重做 (Ctrl + Y) 无限次最近的操作。 如果编辑会话超时或切换到阅读视图的时间超过 30 秒，则会重置撤消历史记录。 了解有关键盘[快捷方式在PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272950)
+在活动演示文稿的当前编辑会话期间，可撤消 (Ctrl + Z) 和重做 (Ctrl + Y) 无限次最近的操作。 如果编辑会话超时或切换到阅读视图的时间超过 30 秒，则会重置撤消历史记录。 详细了解键盘[快捷方式PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272950)
   
 ## <a name="view-and-add-comments"></a>查看和添加注释
 

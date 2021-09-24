@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - mail-flow-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的邮件流。
-ms.openlocfilehash: 1391f5dcbc47bf9fa3ea6c7be84d97bd107a4c3bbde958694b182d2f32ee523e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4cc64692eb9cfb338e4fa9ab1ad7d7b4f889e280
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664175"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672333"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>邮件流Exchange Online Protection
 
-对于大多数使用 Microsoft 的组织，我们将托管您的邮箱并处理邮件流。 这是最简单的配置，意味着 Microsoft 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection (EOP) 允许您执行这一操作，并可以在云中提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
+对于大多数使用 Microsoft 的组织，我们将托管您的邮箱并处理邮件流。 这是最简单的配置，意味着 Microsoft 管理所有邮箱和筛选。 但是，某些组织有需要将所有邮箱保留在本地的业务。 Exchange Online Protection (EOP) ，您可以在云中执行这一操作并提供防病毒和反垃圾邮件处理。 有关详细信息以及购买 EOP 的信息，请转到 [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection)。
   
 正在查找关于域管理或基于目录的边缘阻止 (DBEB) 的信息？ 请参阅 [收件人、域和公司管理](recipient-domain-and-company-management.md)。 若要详细了解所有 EOP 功能，请参阅 Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
   

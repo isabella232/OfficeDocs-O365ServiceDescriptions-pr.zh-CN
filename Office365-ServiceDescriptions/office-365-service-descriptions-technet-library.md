@@ -8,33 +8,33 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
+ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702071"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669987"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
-Microsoft 365 Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
+Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
   
 此库中的文章详细说明了可用于 Microsoft 365 和 Office 365。 有关 Microsoft Dynamics 365 商业版应用程序的信息，请参阅 [Microsoft Dynamics 365 文档](/dynamics365/)。
 
 若要跨计划比较功能，请参阅[](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)以下列表中用于支持企业的强大工具或相关服务说明。 
   
-有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/)documentation [for admins and IT professionals（](/office/)适用于管理员和 IT 专业人员的 Microsoft 365 帮助[中心](/microsoft-365/)）。
+有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/)documentation [for admins and IT professionals](/office/)和 Microsoft 365 help center for [admins and IT pros。](/microsoft-365/)
   
 > [!NOTE]
 > 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择Office 365版本的产品功能。 
   
-Microsoft 为FastTrack计划中符合条件的Office 365提供中心权益。 利用该优势，你可以与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的FastTrack中符合条件的Office 365提供中心权益。 这一优势使你能够与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   

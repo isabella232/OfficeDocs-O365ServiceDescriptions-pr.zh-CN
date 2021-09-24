@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助你的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害的链接危害的功能。
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663095"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670337"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
@@ -27,9 +27,9 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 
 - 在仅Office 365筛选的 Defender 方案中，Office 365 Defender 为本地 Exchange Server 环境或其他任何本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
 
-- 可以Office 365 Defender for Exchange Online云托管的邮箱。 若要了解有关服务Exchange Online，请参阅Exchange Online[服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以Office 365 Defender for Exchange Online云托管的邮箱。 若要了解有关服务Exchange Online，请参阅 Exchange Online[服务说明](exchange-online-service-description/exchange-online-service-description.md)。
 
-- 在混合部署中，可以将 Defender for Office 365 配置为在将本地邮箱和云邮箱与 Exchange Online Protection 混合用于入站电子邮件筛选时保护邮件环境和控制邮件路由。
+- 在混合部署中，可以将 Defender for Office 365 配置为保护您的邮件环境，并控制邮件路由（当你将本地邮箱和云邮箱与 Exchange Online Protection 混合用于入站电子邮件筛选时）。
 
 ## <a name="available-plans"></a>可用计划
 
@@ -37,7 +37,7 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划提供的主要 Microsoft Defender Office 365功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关跨计划更新的 Microsoft Defender Office 365的完整列表，请参阅 Microsoft Defender for Office 365 [Features 服务说明](microsoft-defender-for-office-365-features.md)。
+下表列出了跨计划提供的主要 Microsoft Defender Office 365功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关跨计划使用最新、完整的 Microsoft Defender Office 365列表，请参阅[Microsoft Defender for Office 365 Features 服务说明](microsoft-defender-for-office-365-features.md)。
 
 | 功能 | Defender for Office 365 计划 1 | Defender for Office 365 计划 2 | Microsoft 365 E5/A5 安全 |
 |---------|--------------------------------|--------------------------------|--------------------------------|
@@ -50,19 +50,19 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 | Teams 中安全链接 | 是 | 是 | 是 |
 | 报告邮件Add-In | 是 | 是 | 是 |
 | [保护SharePoint、OneDrive和Microsoft Teams](microsoft-defender-for-office-365-features.md#protection-for-sharepoint-onedrive-and-microsoft-teams) | 是 | 是 | 是 |
-| [防网络钓鱼策略](microsoft-defender-for-office-365-features.md#anti-phishing-policies) | 是 | 是 | 是 |
+| [反网络钓鱼策略](microsoft-defender-for-office-365-features.md#anti-phishing-policies) | 是 | 是 | 是 |
 | [实时报告](microsoft-defender-for-office-365-features.md#real-time-reports) | 是 | 是 | 是 |
 | 内部邮件的高级保护 | 是 | 是 | 是 |
 | *自动化、调查、修正和教育* | | | |
 | [威胁跟踪器](microsoft-defender-for-office-365-features.md#threat-trackers) | 否 | 是 | 是 |
 | 市场活动视图 | 否 | 是 | 是 |
-| 威胁调查 (高级威胁调查)  | [实时检测](microsoft-defender-for-office-365-features.md#real-time-detections) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) |
+| 威胁 (高级威胁调查)  | [实时检测](microsoft-defender-for-office-365-features.md#real-time-detections) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) |
 | [自动调查和&响应](microsoft-defender-for-office-365-features.md#automated-investigation--response) | 否 | 是 | 是 |
 | [攻击模拟培训](microsoft-defender-for-office-365-features.md#attack-simulation-training) | 否 | 是 | 是 |
 | *与 [Microsoft 365 Defender](/microsoft-365/security/defender/microsoft-365-defender)* | 否 | 是 | 是 |
 
 > [!NOTE]
-> Microsoft Defender for Office 365 是 Microsoft Defender Microsoft 365 Defender。 有关使用自动跨域安全与Microsoft 365 Defender，请参阅Microsoft 365 Defender[要求](/microsoft-365/security/mtp/prerequisites)。
+> Microsoft Defender for Office 365 是 Microsoft Defender Microsoft 365 Defender。 有关使用自动跨域安全与 Microsoft 365 Defender，请参阅Microsoft 365 Defender[要求](/microsoft-365/security/mtp/prerequisites)。
 
 ## <a name="learn-more"></a>了解详细信息
 
