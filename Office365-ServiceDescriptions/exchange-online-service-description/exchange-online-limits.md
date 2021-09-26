@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: c8d2fd228befb43e00b093951508e0084b12ce99
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 1ed73cefdc275e52b03c7f297b1596eaef5606fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363589"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672102"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -263,9 +263,9 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 | 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Office 365 企业版 E1 | Office 365 企业版 E3 | Office 365 企业版 E5 | Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|邮件大小限制 - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
+|邮件大小限制 - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |邮件大小限制 - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|112 MB<sup>1、3</sup>|
-|邮件大小限制 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|
+|邮件大小限制 - Outlook for Mac|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1、2</sup>|150 MB<sup>1、2</sup>|
 |邮件大小限制 - 迁移|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |邮件大小限制 - Outlook for iOS 和 Outlook for Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
@@ -275,6 +275,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |文件附件大小限制 - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |文件附件大小限制 - OWA |112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|112 MB<sup>3、6</sup>|
 |文件附件大小限制 - Outlook for Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|文件附件大小限制 - 新的 Outlook for Mac|33 MB|33 MB|33 MB|33 MB|33 MB|33 MB|
 |文件附件大小限制 - Outlook for iOS 和 Outlook for Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |多部分邮件限制|250 个部分|250 个部分|250 个部分|250 个部分|250 个部分|250 个部分|
 |邮件嵌入深度限制|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|30 封嵌入邮件|
@@ -484,7 +485,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |所有传输规则中使用的所有正则表达式的字符限制|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |附件内容的扫描限制|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |所有传输规则添加到邮件的收件人的最大数目|100 位收件人|100 位收件人|100 位收件人|100 位收件人|100 位收件人|100 位收件人|
-|转发邮件的收件人限制|10 位收件人|10 个收件人|10 位收件人|10 个收件人|10 位收件人|10 个收件人|
+|转发邮件的收件人限制|10 位收件人|10 位收件人|10 个收件人|10 位收件人|10 个收件人|10 个收件人|
 |重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |被传输规则重定向邮件次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|
 |重定向邮件的次数|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|1 次重定向|

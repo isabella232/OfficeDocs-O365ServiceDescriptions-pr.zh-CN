@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: f69eecbffac6b8c444209b338c96478422a4ef03ffcb7f33fe4193ee53330cfd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702721"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669958"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -37,12 +37,14 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 
 | 功能 | 独立计划 | 小型企业 | 企业 | 教育 | 政府 | 非营利组织  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| 存储 | 是 | 是 | 是 | 是 | 是 | 是 |
+| 存储<sup>1</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 | 同步功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 共享和协作功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Web 功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 移动功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | IT 管理、安全性和合规性功能 | 是 | 是 | 是 | 是 | 是 | 是 |
+
+<sup>1</sup>有关每个用户 OneDrive 存储空间的信息，请在[新式工作计划比较](https://go.microsoft.com/fwlink/?linkid=2139145)中查看 OneDrive。
 
 ## <a name="learn-more"></a>了解详细信息
 
@@ -50,6 +52,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 
 - [OneDrive](/onedrive/onedrive)
 - [Microsoft OneDrive 博客](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- 对于大多数订阅计划，每个用户的 OneDrive 默认存储空间为 1 TB。 根据你的计划和许可用户的数量，可以将此存储空间增加到最多 5 TB。 有关详细信息，请参阅 [比较 OneDrive 云存储定价和计划](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2)中的 **核心功能**。
 
 ### <a name="licensing-terms"></a>许可条款
 
