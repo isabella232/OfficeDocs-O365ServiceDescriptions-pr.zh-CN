@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同计划中可用的Yammer。
-ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673086"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986138"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -49,6 +49,20 @@ ms.locfileid: "59673086"
 ## <a name="messaging"></a>消息传递
 
 若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
+
+## <a name="communication-channels"></a>通信渠道
+
+用于通信的频道将取决于影响。
+
+
+| 更改类型 | Office 365[消息中心](/microsoft-365/admin/manage/message-center) | Microsoft 365 路线图 | Yammer技术Community博客，例如每月汇总 | 外部社区、Twitter |
+|---------|---------|---------|---------|---------|
+|**需要操作 (** 更改策略) - 需要管理员操作以保持服务运行的更改、可能会影响组织的合规性的更新 | 是 | 是 | 是 | 是 |
+| **需要感知的更改 (随时)** - 不需要管理员操作的更改、视觉设计更改 | 是 | 是 | 是 | 是 |
+
+> [!NOTE]
+> 对于影响一组目标用户的更改，我们可能会直接通知这些用户。</br>
+> 对于非关键且不需要操作或感知的更改 (即使某些用户可能观察到这些更改，这些更改) 。
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer企业服务通信策略
 
