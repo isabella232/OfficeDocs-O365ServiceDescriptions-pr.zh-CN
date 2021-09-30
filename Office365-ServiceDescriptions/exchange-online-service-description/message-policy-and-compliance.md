@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: 了解邮件策略和邮件Exchange Online。
-ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 77885b5db378734b1108c240663c0533cdffed7e
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671868"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015666"
 ---
 # <a name="message-policy-and-compliance"></a>邮件策略和合规性
 
@@ -44,7 +44,7 @@ Exchange Online 为基于云的邮箱提供了内置存档功能，包括可为�
 每个个人存档中只能存储一个用户的邮件数据。 存储空间分配取决于订阅计划。 有关存档邮箱大小的信息，请参阅邮箱限制中的"邮箱存储Exchange Online[部分](exchange-online-limits.md)。
   
 > [!IMPORTANT]
-> - 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 Microsoft 保留拒绝在个人方案或其他不当使用情况下使用邮箱存档的情况下进行无限制存档的权利。
+> - 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online 邮箱中来进行存档。 Microsoft 保留拒绝在个人方案或其他不适当使用情况下使用邮箱存档的情况下额外存档存储的权利。
 > - 就地存档对 Outlook 用户有特定的许可要求。Outlook 2007 用户必须具有 2011 年 2 月的 Office 2007 累积更新才能访问个人存档。 
 > - Exchange Online不支持管理员驱动的将 .pst 文件导入到个人存档的 Exchange Server 2010 Service Pack 1 或更高版本的 _New-MailboxImportRequest_ Windows PowerShell cmdlet。 如果用户在 Exchange Online 中具有主邮箱和此存档，则管理员可以使用 PST Capture 这款免费工具来将 .pst 文件数据导入到用户的主邮箱或存档中。
 
@@ -176,7 +176,7 @@ Exchange Online允许客户使用基于 Web 的界面搜索组织中邮箱的内
   
 ## <a name="data-loss-prevention"></a>防止数据丢失
 
-防止数据丢失 (DLP) 功能可帮助您通过深入的内容分析标识、监控和保护您组织中的敏感信息。 DLP 是一项对于企业邮件系统而言越来越重要的高级功能，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。 利用 DLP 功能Exchange Online保护敏感数据，而不会影响工作者的工作效率。
+防止数据丢失 (DLP) 功能可帮助您通过深入的内容分析标识、监控和保护您组织中的敏感信息。 DLP 是一项对于企业邮件系统而言越来越重要的高级功能，因为对于企业非常重要的电子邮件包含需要保护的敏感信息。 利用此Exchange Online DLP 功能，您可以保护敏感数据，而不会影响工作者的工作效率。
   
 您可以在 Exchange 管理中心 (EAC) 管理界面中配置 DLP 策略，以便您执行下列操作： 
   

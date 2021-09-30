@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: 了解 Microsoft Exchange Online Archiving 中提供的存档功能。
-ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1271018444f001e98fde5f628a4ef0a8c3abe782
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670864"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015686"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Exchange Online Archiving 中的存档功能
 
@@ -32,8 +32,9 @@ Exchange Online Archiving 通过存档邮箱功能为用户提供了高级存档
 管理员可以使用 Exchange 管理中心 (EAC) 或远程 Windows PowerShell 为特定用户启用存档功能。有关详细信息，请参阅 [Enable or disable archive mailboxes in Exchange Online](/office365/securitycompliance/enable-archive-mailboxes)（在 Exchange Online 中启用或禁用存档邮箱）。
   
 > [!IMPORTANT]
->  不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。<br/>
->  用户的存档邮箱只供该用户使用。 在用户存档邮箱用于存储其他用户的存档数据或其他不当使用的情况下，Microsoft 保留拒绝无限制存档的权利。
+>  不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。
+>
+>  用户的存档邮箱只供该用户使用。 Microsoft 保留拒绝在用户的存档邮箱用于存储其他用户的存档数据或其他不当使用情况下的额外存档存储空间的权利。
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>将邮件移动到 Exchange Online Archiving
 
@@ -63,7 +64,8 @@ After an item has been removed from the archive's Deleted Items folder, the item
 如果用户已从"可恢复的项目"文件夹中手动清除邮件，管理员可以使用"单个项目恢复"功能在 14 天（同一期限）内恢复邮件。使用此功能，管理员可以执行多邮箱搜索来查找已清除的邮件，然后使用  `Search-Mailbox` Windows PowerShell cmdlet 将邮件从发现邮箱移到用户邮箱中。有关详细信息，请参阅 [Enable or disable single item recovery for a mailbox](/office365/securitycompliance/use-network-upload-to-import-pst-files)（为邮箱启用或禁用"单个项目恢复"）。
   
 > [!NOTE]
->  默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。<br/>
+>  默认情况下，单项目恢复期是 14 天，但在某些情况下可对其进行自定义。
+>
 >  如果管理员将用户的邮箱置于"In-Place保留"或"诉讼保留"状态，则清除的项目将无限期保留，并且 14 天期限不适用。 
   
 ## <a name="deleted-mailbox-recovery"></a>已删除邮箱的恢复

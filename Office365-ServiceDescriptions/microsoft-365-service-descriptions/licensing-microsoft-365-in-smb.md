@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
-description: Microsoft 365 商业高级版是适用于中小型企业客户的 Microsoft 一流产品/ Microsoft 365 商业高级版是一个集成解决方案，Microsoft 365工作效率、高级安全性和设备管理。
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+description: Microsoft 365 商业高级版是 Microsoft 为中小型企业客户提供的一流产品。 Microsoft 365 商业高级版是一个集成解决方案，Microsoft 365工作效率、高级安全性和设备管理。
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670459"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015646"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Microsoft 365 针对中小型企业的许可
 
-Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提供的一 (一) 产品。 Microsoft 365 商业高级版是一个集成解决方案，它通过高级安全性和设备管理Microsoft 365 **组织****工作效率**。
+Microsoft 365 商业高级版是适用于中小型企业和 SMB 客户的最佳 microsoft () 产品。 Microsoft 365 商业高级版是一个集成解决方案，它通过高级安全性和设备管理Microsoft 365 **组织****工作效率。**
 
 本文比较了 SMB 的许可选项，并着重介绍了Microsoft 365 商业高级版。
 
@@ -44,13 +44,13 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |   | Windows 虚拟桌面 | 否 | 是 |
 |**信息保护** | Microsoft 数据丢失防护 | 否 | 是 |
 |   | Azure 信息保护计划 1，BitLocker 强制 | 否 | 是 |
-|**合规性** | 无限制电子邮件存档<sup>2</sup> | 否 | 是 |
+|**合规性** | 自动扩展存档<sup>2</sup> | 否 | 是 |
 
 **注释**
 
 <sup>1</sup> 在美国、英国、加拿大提供。
 
-<sup>2</sup> 自动扩展打开时无限制存档。
+<sup>2</sup> 打开自动扩展存档后，用户的存档存储容量高达 1.5 TB。
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>功能比较：Microsoft 365 商业高级版和Office 365 E3
 
@@ -74,7 +74,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |**信息保护** | Microsoft 数据丢失防护 | 是 | 是 |
 |   | Azure 信息保护计划 1，BitLocker 强制 | 否 | 是 |
 |**本地 CAL 权限** | ECAL 套件 (Exchange、SharePoint、Skype)  | 是 | 否 |
-|**合规性** | 无限制电子邮件存档<sup>3</sup> | 是 | 是 |
+|**合规性** | 自动扩展存档<sup>3</sup> | 是 | 是 |
 
 **注释**
 
@@ -82,7 +82,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 
 <sup>2</sup> 在美国、英国、加拿大提供。
 
-<sup>3</sup> 打开自动扩展时无限制存档。
+<sup>3</sup> 打开自动扩展存档后，用户的存档存储容量高达 1.5 TB。
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>功能比较：Microsoft 365 商业标准版、Microsoft 365 商业高级版 和 Office 365 E3
 
@@ -106,7 +106,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |**信息保护**  | Microsoft 数据丢失防护 | 否 | 是 | 是 |
 |   | Azure 信息保护计划 1，BitLocker 强制 | 否 | 是 | 否 |
 |**本地 CAL 权限** | ECAL 套件 (Exchange、SharePoint、Skype)  | 否 | 否 | 是 |
-|**合规性** | 无限制电子邮件存档<sup>3</sup> | 否 | 是 | 是 |
+|**合规性** | 自动扩展存档<sup>3</sup> | 否 | 是 | 是 |
 
 **注释**
 
@@ -114,7 +114,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 
 <sup>2</sup> 在美国、英国、加拿大提供。
 
-<sup>3</sup> 打开自动扩展时无限制存档。
+<sup>3</sup> 打开自动扩展存档后，用户的存档存储容量高达 1.5 TB。
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>功能比较：Microsoft 365 商业标准版Microsoft 365计划的功能
 
@@ -132,7 +132,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 |   | Microsoft Defender for Office 365 | 否 | 是 | 否 | 是 |
 |   | Microsoft Defender for Endpoint | 否 | 否 | 否 | 是 |
 |   | Office 365 威胁智能 | 否 | 否  | 否 | 是 |
-|**身份管理** | 混合帐户、Azure MFA、条件Azure Active Directory重置自助服务密码   | 否 | 是 | 是 | 是 |
+|**身份管理** | 混合帐户、Azure MFA、条件访问的混合Azure Active Directory密码重置   | 否 | 是 | 是 | 是 |
 |   | Azure AD：Cloud App Discovery、Azure AD 连接 Health、SSO（适用于 10 多个应用） | 是 | 是 | 是 | 是 |
 |   | Azure Active Directory计划 2 | 否 | 否 | 否 | 是 |
 |**设备&应用管理** | Microsoft Intune、Windows AutoPilot | 否 | 是 | 是 | 是 |
@@ -141,7 +141,7 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 | **信息保护** | Microsoft 数据丢失防护、Azure 信息保护计划 1 | 否 | 是 | 是 | 是 |
 |   | Azure 信息保护计划 2、Microsoft Cloud App Security、Office 365 云应用安全 | 否 | 否 | 否 | 是 |
 |**本地 CAL 权限** | ECAL Suite (Exchange、SharePoint、Skype、Windows、Microsoft Endpoint Configuration Manager、Windows Rights Management)  | 否 | 否 | 是 | 是 |
-|**合规性** | 无限制电子邮件存档<sup>2</sup> | 否 | 是 | 是 | 是 |
+|**合规性** | 自动扩展存档<sup>2</sup> | 否 | 是 | 是 | 是 |
 |   | Advanced eDiscovery、客户密码箱、高级数据管理 | 否 | 否 | 否 | 是 |
 |**分析** | Power BI Pro、MyAnalytics | 否 | 否 | 否 | 是 |
 | | Insights MyAnalytics | 是 | 是 | 是 | 是 |
@@ -152,11 +152,11 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 
 <sup>1</sup> 在美国、英国、加拿大提供。
 
-<sup>2</sup> 自动扩展打开时无限制存档。
+<sup>2</sup> 打开自动扩展存档后，用户的存档存储容量高达 1.5 TB。
 
 ## <a name="office-client-commercial-plans"></a>Office商业计划
 
-| **应用** | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
+| **应用程序** | **Microsoft 365 商业应用版** | **Microsoft 365 企业应用版** |
 |------------------|-------------------------|------------------------|
 | Word             | 是                     | 是                    |
 | Excel            | 是                     | 是                    |
@@ -196,18 +196,18 @@ Microsoft 365 商业高级版是 Microsoft 为中小型企业和 SMB 客户提�
 
 **注释**
 
-Microsoft 365 商业高级版包括Microsoft 365 商业应用版客户端，与客户端Microsoft 365 企业应用版。
+Microsoft 365 商业高级版包括Microsoft 365 商业应用版客户端，与客户端客户端Microsoft 365 企业应用版。
 
-<sup>1</sup>允许组织将 (安全设置、应用设置、Active Directory 漫游等) Office 推送到登录到企业网络的计算机。
+<sup>1</sup>允许组织将某些配置设置 (安全设置、应用设置、Active Directory 漫游等) Office登录到企业网络的计算机。
 
-<sup>2</sup>使用 Office 标准版 2016 和 Office 专业增强版 2016，IT 使用 MSI 模型可以完全控制更新。 使用Microsoft 365 企业应用版和Microsoft 365 商业应用版，安装和更新通过即点即用进行管理。
+<sup>2</sup>通过Office 标准版 2016和Office 专业增强版 2016，IT 使用 MSI 模型可完全控制更新。 通过Microsoft 365 企业应用版Microsoft 365 商业应用版，安装和更新通过即点即用进行管理。
 
 <sup>3</sup> 套件提供与业务生产力服务器的不同集成级别。
 
-<sup>4</sup>存档来自Outlook &mdash; .pst 文件， &mdash; 并设置自动存档或删除电子邮件的保留策略。 IT 管理员可以集中管理 In-Place 存档。
+<sup>4</sup>存档来自电子邮件Outlook不需要 &mdash; .pst 文件 &mdash; ，并设置自动存档或删除电子邮件的保留策略。 IT 管理员可以集中管理 In-Place 存档。
 
 <sup>5</sup> 需要额外的联机服务 (服务) 。
 
-<sup>6</sup>允许通过即点即用服务中包含的许可应用Microsoft 365本地安装。 不包括在本地 2016 Office安装权限。 Office支持运行 Windows 7 Windows或更高版本的 PC 和平板电脑，以及运行 MAC OS X 10.6 或更高版本的 Mac。 Office iPad版本 7 或更高版本的 iPad 上安装。
+<sup>6</sup>允许通过即点即用服务中包含的许可应用Microsoft 365本地安装。 不包括在本地 2016 Office安装权限。 Office支持运行 Windows 7 或更高版本Windows电脑和平板电脑，以及运行 MAC OS X 10.6 或更高版本的 Mac。 Office iPad版本 7 或更高版本的 iPad 上安装。
 
 <sup>7</sup>此高级功能包含在Microsoft 365 商业高级版中，但不包含在其他Microsoft 365 商业应用版产品/服务中。
