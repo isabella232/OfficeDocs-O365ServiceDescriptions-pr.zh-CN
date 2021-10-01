@@ -11,13 +11,13 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助你的组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害的链接危害的功能。
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+description: Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务，它通过提供强大的零日保护来帮助组织抵御未知恶意软件和病毒，并包括实时保护组织免受有害的链接危害的功能。
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670337"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040948"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender for Office 365 服务说明
 
@@ -27,9 +27,9 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 
 - 在仅Office 365筛选的 Defender 方案中，Office 365 Defender 为本地 Exchange Server 环境或其他任何本地 SMTP 电子邮件解决方案提供基于云的电子邮件保护。
 
-- 可以Office 365 Defender for Exchange Online云托管的邮箱。 若要了解有关服务Exchange Online，请参阅 Exchange Online[服务说明](exchange-online-service-description/exchange-online-service-description.md)。
+- 可以Office 365 Defender for Exchange Online云托管的邮箱。 若要了解有关服务Exchange Online，请参阅Exchange Online[服务说明](exchange-online-service-description/exchange-online-service-description.md)。
 
-- 在混合部署中，可以将 Defender for Office 365 配置为保护您的邮件环境，并控制邮件路由（当你将本地邮箱和云邮箱与 Exchange Online Protection 混合用于入站电子邮件筛选时）。
+- 在混合部署中，可以将 Defender for Office 365 配置为保护邮件环境，并控制邮件路由，同时将本地邮箱和云邮箱与 Exchange Online Protection 混合用于入站电子邮件筛选。
 
 ## <a name="available-plans"></a>可用计划
 
@@ -37,7 +37,7 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划提供的主要 Microsoft Defender Office 365功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关跨计划使用最新、完整的 Microsoft Defender Office 365列表，请参阅[Microsoft Defender for Office 365 Features 服务说明](microsoft-defender-for-office-365-features.md)。
+下表列出了跨计划提供的主要 Microsoft Defender Office 365功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关适用于跨计划更新的 Microsoft Defender Office 365的完整列表，请参阅[Microsoft Defender for Office 365 Features 服务说明](microsoft-defender-for-office-365-features.md)。
 
 | 功能 | Defender for Office 365 计划 1 | Defender for Office 365 计划 2 | Microsoft 365 E5/A5 安全 |
 |---------|--------------------------------|--------------------------------|--------------------------------|
@@ -56,7 +56,7 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 | *自动化、调查、修正和教育* | | | |
 | [威胁跟踪器](microsoft-defender-for-office-365-features.md#threat-trackers) | 否 | 是 | 是 |
 | 市场活动视图 | 否 | 是 | 是 |
-| 威胁 (高级威胁调查)  | [实时检测](microsoft-defender-for-office-365-features.md#real-time-detections) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) |
+| 威胁调查 (高级威胁调查)  | [实时检测](microsoft-defender-for-office-365-features.md#real-time-detections) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) | [资源管理器](microsoft-defender-for-office-365-features.md#threat-explorer) |
 | [自动调查和&响应](microsoft-defender-for-office-365-features.md#automated-investigation--response) | 否 | 是 | 是 |
 | [攻击模拟培训](microsoft-defender-for-office-365-features.md#attack-simulation-training) | 否 | 是 | 是 |
 | *与 [Microsoft 365 Defender](/microsoft-365/security/defender/microsoft-365-defender)* | 否 | 是 | 是 |
@@ -76,6 +76,23 @@ Microsoft Defender for Office 365 是一种基于云的电子邮件筛选服务�
 ### <a name="licensing-terms"></a>许可条款
 
 有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅[产品条款网站](https://www.microsoft.com/licensing/terms/)。
+
+对于 Microsoft Defender for Office 365 计划 1 租户，必须为属于以下一个或多个方案的用户或邮箱获取许可证：
+
+- 访问受益于 Defender 的邮箱的任何用户Office 365保护。
+- 从 Defender 获得安全保护的Office 365邮箱。
+- 如果保险箱对 SharePoint、OneDrive for Business 或 Teams 启用附件保护，则访问 SharePoint、OneDrive for Business 或 Teams。
+- 启用链接保护Microsoft 365 应用版Teams使用保险箱用户。
+
+对于 Microsoft Defender for Office 365 计划 2 租户，必须为属于以下一个或多个方案的用户或邮箱获取许可证：
+
+- 租户Exchange Online所有用户。 这是因为计划 2 的特性和功能保护租户中的所有用户。
+- 租户上的所有共享邮箱。
+- 如果保险箱对 SharePoint、OneDrive for Business 或 Teams 启用附件保护，则访问 SharePoint、OneDrive for Business 或 Teams。
+- 启用链接保护Microsoft 365 应用版Teams使用保险箱用户。
+
+> [!NOTE]
+> Office 365 E5、Microsoft 365 E5 安全性 和 Microsoft 365 E5 包括适用于 Office P2 许可证的 Microsoft Defender，Microsoft 365 商业高级版 Microsoft Defender for Office 365 P1 许可证。
 
 ### <a name="messaging"></a>消息传递
 
