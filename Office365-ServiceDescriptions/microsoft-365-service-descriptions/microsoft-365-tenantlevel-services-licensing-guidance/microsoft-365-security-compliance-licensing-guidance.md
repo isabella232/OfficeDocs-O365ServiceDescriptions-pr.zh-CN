@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
-description: 本文提供了有关Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+description: 本文针对合规性Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082852"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088495"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 &amp; 合规性指南
 
-出于本文的目的，租户级服务是一种在线服务，当为租户 (独立版中的任何用户购买时，或作为 Office 365 或 Microsoft 365 计划的一部分购买时，会为租户中的所有用户部分或完整激活 &mdash; &mdash;) 。 尽管某些未授权的用户可能从技术上能够访问该服务，但任何打算从该服务受益的用户都需要许可证。
+对于本文而言，租户级服务是一种在线服务，当为租户 (独立版中的任何用户购买时，或作为 Office 365 或 Microsoft 365 计划的一部分购买时，会为租户中的所有用户部分或完整激活 &mdash; &mdash;) 。 尽管某些未授权的用户可能从技术上能够访问该服务，但任何打算从该服务受益的用户都需要许可证。
 
 > [!NOTE]
 > 某些租户服务当前无法将权益限制到特定用户。 应努力将服务权益限制为许可用户。 这可帮助避免目标功能可用后组织的潜在服务中断。
@@ -30,7 +30,7 @@ ms.locfileid: "60082852"
 
 ## <a name="advanced-audit"></a>高级审核
 
-Microsoft 365 中的高级审核为用户和管理员活动提供一年审核日志保留期，并提供创建自定义 审核日志 保留策略来管理其他 Microsoft 365 服务的 审核日志 保留。 它还提供对关键事件的访问权限，以进行调查，以及访问 Office 365 活动 API。 有关详细信息，请参阅高级[审核Microsoft 365。](/microsoft-365/compliance/advanced-audit)
+Microsoft 365 中的高级审核为用户和管理员活动提供一年审核日志保留期，并能够创建自定义 审核日志 保留策略来管理其他 Microsoft 365 服务的 审核日志 保留。 它还提供对关键事件的访问权限，以进行调查，以及访问 Office 365 活动 API。 有关详细信息，请参阅高级[审核Microsoft 365。](/microsoft-365/compliance/advanced-audit)
 
 您还可以使用附加 SKU 启用保留期 10 年。
 
@@ -42,7 +42,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-用户受益于高级审核，因为与 Microsoft 365 服务中的用户活动的审核记录最多保留一年。 此外，还会记录高价值审核事件，例如访问或读取用户邮箱中的项目时。 有关详细信息，请参阅高级[审核Microsoft 365。](/microsoft-365/compliance/advanced-audit)
+用户受益于高级审核，因为与 Microsoft 365 服务中的用户活动相关的审核记录最多可保留一年。 此外，还会记录高价值审核事件，例如访问或读取用户邮箱中的项目时。 有关详细信息，请参阅高级[审核Microsoft 365。](/microsoft-365/compliance/advanced-audit)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
@@ -81,11 +81,11 @@ Azure Active Directory通过身份管理，您可以平衡组织对安全性和�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-Azure Active DirectoryIdentity Governance 通过更轻松地请求访问一个访问包中的应用、组和用户Microsoft Teams工作效率。 用户还可以配置为审批者，无需管理员参与。 对于访问评审，用户可以使用智能建议查看组的成员身份，以便定期采取措施。
+Azure Active DirectoryIdentity Governance 通过更轻松地请求访问一个访问包中的应用、组和Microsoft Teams，提高用户的工作效率。 用户还可以配置为审批者，无需管理员参与。 对于访问评审，用户可以使用智能建议查看组的成员身份，以便定期采取措施。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
-企业移动性 + 安全性E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5/F5 安全与 F5 安全 & 合规性以及 Azure Active Directory Premium 计划 2 为用户提供了从 Azure Active Directory 身份管理中获益的权利。
+企业移动性 + 安全性E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5/F5 安全与 F5 安全 & 合规性和 Azure Active Directory Premium 计划 2 为用户提供了从 Azure Active Directory 身份管理中获益的权利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
@@ -157,7 +157,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 | 许可证类型 | 默认情况下 (评估模板)  |
 |:-----|:-----|
 |<ul><li>Microsoft 365 或 Office 365 A1/E1/F1/G1</li><li>Microsoft 365 或 Office 365 A3/E3/F3/G3</li></ul>|<ul><li>数据保护基线</li></ul>|
-|<ul><li>Microsoft 365 或 Office 365 A5/E5/G5</li><li>Microsoft 365 A5/E5/F5/G5 合规性</li><li>Microsoft 365 A5/E5/F5/G5 电子数据展示和审核</li><li>Microsoft 365 A5/E5/F5/G5 内部风险管理</li><li>Microsoft 365 A5/E5/F5/G5 信息保护和管理</li></ul>|<ul><li>数据保护基线</li><li>欧盟 GDPR</li><li>NIST 800-53</li><li>ISO 27001</li><li>CMMC 级别 1-5 (仅适用于 G5) </li><li>自定义评估</li></ul>|
+|<ul><li>Microsoft 365 或 Office 365 A5/E5/G5</li><li>Microsoft 365 A5/E5/F5/G5 合规性</li><li>Microsoft 365 A5/E5/F5/G5 电子数据展示和审核</li><li>Microsoft 365 A5/E5/F5/G5 内部风险管理</li><li>Microsoft 365 A5/E5/F5/G5 信息保护和治理</li></ul>|<ul><li>数据保护基线</li><li>欧盟 GDPR</li><li>NIST 800-53</li><li>ISO 27001</li><li>CMMC 级别 1-5 (仅适用于 G5) </li><li>自定义评估</li></ul>|
 
 ### <a name="what-are-custom-assessments"></a>什么是自定义评估？
 
@@ -171,11 +171,11 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 - Microsoft 365 A5/E5/F5/G5 合规性
 - Microsoft 365 A5/E5/F5/G5 电子数据展示和审核
 - Microsoft 365 A5/E5/F5/G5 内部风险管理
-- Microsoft 365 A5/E5/F5/G5 信息保护和管理
+- Microsoft 365 A5/E5/F5/G5 信息保护和治理
 
 ## <a name="customer-key-for-microsoft-365"></a>客户密钥Microsoft 365
 
-使用客户密钥，你可以控制组织的加密密钥，Microsoft 365以使用它们加密 Microsoft 数据中心中的静态数据。 换句话说，客户密钥允许你使用自己的密钥添加属于你的加密层。 客户密钥通过静态数据加密服务为多个Microsoft 365工作负荷Microsoft 365[](/microsoft-365/compliance/customer-key-overview#about-data-encryption-policies)静态数据加密支持。 此外，客户密钥还提供 SharePoint Online 和 OneDrive for Business 数据的加密，以及Exchange Online级别的加密。
+使用客户密钥，你可以控制组织的加密密钥，Microsoft 365以使用它们加密 Microsoft 数据中心中的静态数据。 换句话说，客户密钥允许你使用自己的密钥添加属于你的加密层。 客户密钥通过静态数据加密服务为多个Microsoft 365工作负荷Microsoft 365[](/microsoft-365/compliance/customer-key-overview#about-data-encryption-policies)静态数据加密支持。 此外，客户密钥还提供 SharePoint Online 和 OneDrive for Business 加密，以及Exchange Online加密。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -195,7 +195,7 @@ Microsoft 365多工作负荷加密支持的静态数据服务是租户级服务�
 
 ## <a name="data-connectors"></a>数据连接器
 
-Microsoft 提供可在服务器中配置的第三方数据Microsoft 365 合规中心。 有关 Microsoft 提供的数据连接器的列表，请参阅第三方 [数据连接器](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) 表。 此表还汇总了在 Microsoft 365 中导入和存档数据后可应用于第三方数据的合规性解决方案，以及指向每个连接器的分步说明的链接。
+Microsoft 提供可以在服务器中配置的第三方数据Microsoft 365 合规中心。 有关 Microsoft 提供的数据连接器的列表，请参阅第三方 [数据连接器](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) 表。 此表还汇总了在 Microsoft 365 中导入和存档数据后可应用于第三方数据的合规性解决方案，以及指向每个连接器的分步说明的链接。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -274,27 +274,27 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 仅允许用户从内容资源管
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-管理员可以在"数据丢失防护 ("下) 安全与合规中心中的用户、包括用户和已排除用户 &amp; **自定义** 工作负载  >  **的位置**。
+管理员可以在"数据丢失防护 ("下) 安全与合规中心中的用户、包括用户和排除的用户自定义工作负载 &amp;   >  **的位置**。
 
 ## <a name="data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Exchange Online、SharePoint Online 和 OneDrive for Business 的数据丢失防护
 
-借助 Office 365 数据丢失防护 (DLP) for Exchange Online、SharePoint Online 和 OneDrive for Business，组织可以识别、监视和自动保护电子邮件和文件 (包括存储在 Microsoft Teams 文件存储库中) 中的文件。
+借助 Office 365 数据丢失防护 (DLP) for Exchange Online、SharePoint Online 和 OneDrive for Business，组织可以跨电子邮件和文件识别、监视和自动保护敏感信息 (包括存储在 Microsoft Teams 文件存储库) 中的文件。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-当用户的电子邮件和文件检查敏感信息时，Exchange Online、SharePoint Online 和 OneDrive for Business 的 DLP 会从 DLP 中获益，如组织的 DLP 策略中配置。
+当用户的电子邮件和文件检查敏感信息时，Exchange Online、SharePoint Online 和 OneDrive for Business 从 DLP 中获益，如组织的 DLP 策略中配置。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
-Microsoft 365 E3/A3/Business 高级版、Office 365 E3/A3 以及 Office 365 数据丢失防护和 F5 合规性和 F5 安全 & 合规性为用户提供从 Exchange Online、SharePoint Online 和 OneDrive for Business 的 Office 365 DLP 中获益的权利。
+Microsoft 365 E3/A3/Business 高级版、Office 365 E3/A3 以及 Office 365 数据丢失防护和 F5 合规性与 F5 安全 & 合规性为用户提供了从 Exchange Online、SharePoint Online 和 OneDrive for Business 的 Office 365 DLP 中获益的权利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
-默认情况下，Exchange Online、SharePoint网站和 OneDrive 帐户 (租户中所有用户) DLP 功能的工作负荷启用位置。 有关使用 DLP 策略的信息，请参阅 [数据丢失防护概述](/microsoft-365/compliance/data-loss-prevention-policies)。
+默认情况下，Exchange Online、SharePoint网站和 OneDrive 帐户 (租户中所有用户) DLP 功能的启用位置。 有关使用 DLP 策略的信息，请参阅 [数据丢失防护概述](/microsoft-365/compliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-管理员可以在"数据丢失防护 ("下) 安全与合规中心中的用户、包括用户和已排除用户 &amp; **自定义** 工作负载  >  **的位置**。
+管理员可以在"数据丢失防护 ("下) 安全与合规中心中的用户、包括用户和排除的用户自定义工作负载 &amp;   >  **的位置**。
 
 ## <a name="double-key-encryption-for-microsoft-365"></a>双密钥加密Microsoft 365
 
@@ -314,11 +314,11 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-若要为授权用户为 Office 365 和/或 Microsoft 365 组织内的数据分配加密密钥，请按照双密钥加密部署说明操作。
+若要为授权用户Office 365和/或 Microsoft 365 组织内的数据分配加密密钥，请按照双密钥加密部署说明操作。
 
 ## <a name="ediscovery"></a>电子数据展示
 
-电子数据展示为公司内的 IT 和法律部门提供调查和电子数据展示解决方案，以在从 Microsoft 365 系统导出之前识别、收集、保留、减少和查看与调查或诉讼相关的内容。
+电子数据展示为公司内的 IT 和法律部门提供调查和电子数据展示解决方案，以在导出到 Microsoft 365 系统之前识别、收集、保留、减少和查看与调查或诉讼相关的内容。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -332,7 +332,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
-默认情况下，Advanced eDiscovery在安全与合规中心内分配电子数据展示权限时，租户内的所有用户在租户级别启用这些功能 &amp; 。
+默认情况下，Advanced eDiscovery在安全与合规中心内分配电子数据展示权限时，租户内的所有用户均在租户级别启用这些功能 &amp; 。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
@@ -344,23 +344,23 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-当用户受限于与其他用户通信时，他们受益于信息障碍的高级合规性功能。 可以定义信息屏障策略，以防止某些用户段与每个用户段通信，或允许特定细分仅与某些其他分段进行通信。 有关定义信息屏障策略的信息，请参阅 [定义信息屏障策略](/microsoft-365/compliance/information-barriers-policies)。 对于两个组无法相互通信的情况，这两个组的用户都需要许可证才能从服务中获益 (请参阅下面的示例) 。<br><br>
+当用户受限于与其他用户通信时，他们受益于信息障碍的高级合规性功能。 可以定义信息屏障策略，以防止某些用户段与每个用户段通信，或允许特定细分仅与某些其他分段进行通信。 有关定义信息屏障策略的信息，请参阅 [定义信息屏障策略](/microsoft-365/compliance/information-barriers-policies)。 对于两个组无法相互通信的情况，这两个组的用户都需要许可证才能从服务 (请参阅下面的示例) 。<br><br>
 
 | 应用场景 | Who许可证？ |
 |:------|:------|
-| 组 1 和组 2 (的两个组) 无法相互通信 (即组 1 用户不能与组 2 用户通信，组 2 用户不能与组 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 用户通信。 | 组 1 和组 &nbsp; &nbsp; 2 中的用户 |
+| 组 1 (组 2 和组 2) 无法相互通信的两个组 (即组 1 用户被限制与组 2 用户通信，组 2 用户不能与组 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1 用户通信。 | 组 1 和组 &nbsp; &nbsp; 2 中的用户 |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 E5/A5/G5 内部风险管理和 Office 365 E5/A5/G5 为用户提供从信息屏障中获益的权利。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 E5/A5/G5 内部风险管理和 Office 365 E5/A5/G5 为用户提供从信息障碍中获益的权利。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
-管理员使用安全与合规中心中的 PowerShell cmdlet 创建和管理信息屏障 &amp; 策略。 管理员必须分配有Microsoft 365 企业版全局管理员、Office 365全局管理员或合规性管理员角色，才能创建信息屏障策略。 默认情况下，这些策略适用于租户中的所有用户。 有关信息屏障详细信息，请参阅信息[障碍Microsoft Teams。](/MicrosoftTeams/information-barriers-in-teams)
+管理员使用安全与合规中心中的 PowerShell cmdlet 创建和管理信息屏障 &amp; 策略。 管理员必须分配有全局Microsoft 365 企业版管理员、Office 365全局管理员或合规性管理员角色，才能创建信息屏障策略。 默认情况下，这些策略适用于租户中的所有用户。 有关信息屏障的信息障碍，请参阅信息[障碍Microsoft Teams。](/MicrosoftTeams/information-barriers-in-teams)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-管理员可以自定义安全 (安全) 包括用户和排除用户等工作负载 &amp; 的位置。 例如，如果所有用户都获得 Office 365 E3 许可，并且没有用户获得 Office 365 高级合规版/E5 许可，则他们无需为组织创建任何信息屏障策略。 有关详细信息，请参阅 [Teams](/MicrosoftTeams/information-barriers-in-teams)中的信息屏障。
+管理员可以在安全 () 自定义工作负载、包括用户和排除 &amp; 用户的位置。 例如，如果所有用户都获得 Office 365 E3 许可，并且没有用户获得 Office 365 高级合规版/E5 许可，则他们无需为组织创建任何信息屏障策略。 有关详细信息，请参阅 [Teams](/MicrosoftTeams/information-barriers-in-teams)中的信息屏障。
 
 ## <a name="information-protection"></a>信息保护
 
@@ -374,14 +374,14 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business 高级版， F5 合规性和 F5 安全 & 合规性、企业移动性 + 安全性 E3/E5、M365 E5/A5/G5、Office 365 E5/A5/E3/A3/F3、AIP 计划 1 和 AIP 计划 2 为用户提供了从手动敏感度标签中获益的权利。
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business 高级版 和 企业移动性 + 安全性 E3/E5， AIP 计划 1 和 AIP 计划 2 以及 F5 合规性和 F5 安全 & 合规性为用户提供了从 Power BI 中应用和查看敏感度标签的好处，以及保护从 Power BI 导出到 Excel、PowerPoint 或 PDF 的数据的权利。
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business 高级版 和 企业移动性 + 安全性 E3/E5， AIP 计划 1 和 AIP 计划 2 以及 F5 合规性和 F5 安全 & 合规性为用户提供了从 Power BI 中应用和查看敏感度标签的好处，以及保护从 Power BI 导出到 Excel、PowerPoint 或 PDF 时的数据的权利。
 
 Microsoft 365 商业高级版和 Enterprise 移动性提供使用[AIPService](/powershell/azure/aip/overview#aipservice) PowerShell 模块管理 Azure 信息保护的 Azure 权限管理保护服务的权利。
 
 > [!NOTE]
 > Power BI包含在 Microsoft 365 E5/A5/G5 中;在所有其他计划中，Power BI必须单独获得许可。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 E5/A5/G5 信息保护和管理、Office 365 E5、企业移动性 + 安全性 E5/A5/G5 和 AIP 计划 2 为用户提供了以下权限：从自动敏感度标签中获益。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 E5/A5/G5 信息保护和管理、Office 365 E5、企业移动性 + 安全性 E5/A5/G5 和 AIP 计划 2 为用户提供了权限从自动敏感度标签中获益。
 
 信息保护不包括基于可训练分类器机器学习 (自动分类) 。
 
@@ -399,7 +399,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 ## <a name="information-governance"></a>信息治理
 
-信息治理通过发现、分类、标记和管理数据来帮助组织管理其风险。 利用信息治理，组织可以满足业务和法规要求，并且通过跨其用户和第三方数据提供保留和删除功能Microsoft 365攻击面。
+信息治理通过发现、分类、标记和管理数据来帮助组织管理其风险。 利用信息治理，组织可以满足业务和法规要求，并且通过跨其数据和第三方数据提供保留和删除功能Microsoft 365攻击面。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -429,7 +429,7 @@ Microsoft 365 E5/A5/G5/E3/A3、Office 365 E5/A5/G5/E3/A3 和 SharePoint 计划 2
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 信息保护和管理 E5/A5/G5 以及 Office 365 E5/A5 为用户提供了从自动应用保留标签或策略、应用默认保留中获益的权利标签或策略，基于自定义事件开始保留标签的保留期，在标签保留期结束时触发手动处置评审，通过本机数据连接器导入第三方数据，声明文件记录，发现标记内容，并监视标签活动。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 E5/A5/G5 信息保护和管理为用户提供了根据可训练分类器自动应用保留标签的好处。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 E5/A5/G5 信息保护和治理为用户提供了根据可训练分类器自动应用保留标签的好处。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
@@ -441,7 +441,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 ## <a name="insider-risk-management"></a>内部风险管理
 
-内部风险管理是 Microsoft 365中的一种解决方案，可让你检测、调查和操作组织中存在风险的活动，从而将内部风险降至最低。
+内部风险管理是 Microsoft 365中的一种解决方案，可让你检测、调查和操作组织中存在风险的活动，从而有助于将内部风险降至最低。
 
 自定义策略允许你检测组织中恶意和无意间存在风险的活动并采取措施，包括根据需要将Advanced eDiscovery上报给 Microsoft 客户。 您组织的风险分析师可以快速采取相应的措施，以确保用户符合组织的合规性标准。
 
@@ -491,23 +491,23 @@ Microsoft Defender for Office 365保护用户免受钓鱼和零日恶意软件�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？ 
 
-Microsoft Defender for Office 365 Plans 1 and 2， Office 365 E5/A5/G5， Microsoft 365 E5/A5/G5， Microsoft 365 E5/A5/G5/F5 Security & Compliance， and Microsoft 365 Microsoft 365 商业高级版 provide the rights for a user to benefit from Microsoft Defender for Office 365.
+Microsoft Defender for Office 365 Plans 1 and 2， Office 365 E5/A5/G5， Microsoft 365 E5/A5/G5， Microsoft 365 E5/A5/G5/F5 Security， Microsoft 365 F5 Security & Compliance， and Microsoft 365 商业高级版 provide the rights for a user to benefit from Microsoft Defender for Office 365.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
-默认情况下，在租户Office 365启用 Microsoft Defender for Office 365 功能。 有关为许可用户配置 Microsoft Defender Office 365策略的信息，请参阅 Microsoft [Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp)。
+默认情况下，在租户Office 365启用 Microsoft Defender for Office 365 功能。 有关为许可用户配置 Microsoft Defender Office 365策略的信息，请参阅[Microsoft Defender for Office 365。](/microsoft-365/security/office-365-security/office-365-atp)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
 若要将 Microsoft Defender Office 365范围，请按照保险箱链接保险箱附件"部署策略操作：
 
-- 有关为许可用户保险箱链接的信息，请参阅[保险箱 Links in Microsoft Defender for Office 365。](/microsoft-365/security/office-365-security/atp-safe-links)
+- 有关为许可用户保险箱链接的信息，请参阅 保险箱 Links [in Microsoft Defender for Office 365。](/microsoft-365/security/office-365-security/atp-safe-links)
 
 - 有关为授权用户保险箱附件的信息，请参阅 保险箱 Attachments [in Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-safe-attachments)。
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) 是云访问安全代理 (CASB) 解决方案，使组织能够查看其云应用和服务，提供复杂的分析以识别和防御网络威胁，并让他们控制数据在任何云应用中的传输方式。 &mdash;
+Microsoft Cloud App Security (MCAS) 是云访问安全代理 (CASB) 解决方案，可让组织查看其云应用和服务，提供复杂的分析以识别和防御网络威胁，并让他们控制数据在任何云应用中的传输方式。 &mdash;
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -515,13 +515,13 @@ MCAS 发现和评估影子 IT，跨第一方和第三方云应用提供威胁防
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
-企业移动性 + 安全性E5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 安全、Microsoft 365 E5/A5/G5/F5 合规性、Microsoft 365 F5 安全 & 合规性和 Microsoft 365 信息保护和管理为用户提供了从 MCAS 中获益的权利。
+企业移动性 + 安全性E5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 安全、Microsoft 365 E5/A5/G5/F5 合规性、Microsoft 365 F5 安全 & 合规性和 Microsoft 365 信息保护和管理为用户提供了从 MCAS 受益的权利。
 
 Azure AD P1 为用户提供了从 MCAS 中的发现功能中获益的权利。
 
-若要从 MCAS 中的条件访问应用控制功能中获益，用户还必须获得 Azure Active Directory P1 的许可，该 P1 包含在 企业移动性 + 安全性 F1/F3/E3/A3/G3、企业移动性 + 安全性 E5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/Microsoft 365 E5 G5/F5 安全与 Microsoft 365 F5 & 合规性中。
+若要从 MCAS 中的条件访问应用控制功能中获益，用户还必须获得 Azure Active Directory P1 的许可，该 P1 包含在 企业移动性 + 安全性 F1/F3/E3/A3/G3、企业移动性 + 安全性 E5、Microsoft 365 E3/A3/G3、Microsoft 365 E5/A5/G5/F Microsoft 365 E5 5 安全与 Microsoft 365 F5 安全 & 合规性中。
 
-若要从自动客户端标签中获益，用户必须获得 Azure 信息保护 P2 的许可，该 P2 包含在 企业移动性 + 安全性 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性、Microsoft 365 F5 安全 & 合规性和 Microsoft 365 信息保护和管理中。
+若要从自动客户端标记中获益，用户必须获得 Azure 信息保护 P2 的许可，该 P2 包含在 企业移动性 + 安全性 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性、Microsoft 365 F5 安全 & 合规性和 Microsoft 365 信息保护和管理中。
 
 > [!NOTE]
 > 自动服务器端标签需要信息保护Office 365 - 高级版许可证 (`MIP_S_CLP2` 或 `efb0351d-3b08-4503-993d-383af8de41e3`) 。 有关参考，请参阅 [许可的产品名称和服务计划标识符](/azure/active-directory/enterprise-users/licensing-service-plan-reference)。
@@ -560,13 +560,20 @@ Microsoft Defender for Endpoint 管理员可以使用基于角色的访问控制
 
 ## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp-and-for-teams-export"></a>Microsoft Graph DLP Teams 和 Teams 导出的 () API
 
-这些 API 允许开发人员构建安全与合规性应用，这些应用可以"侦听"Microsoft Teams实时消息，或在一对一的群聊或群组聊天频道中导出Teams消息。 这些 API 为客户和 ISV 启用 DLP 和其他信息保护和管理方案。 此外，Microsoft Graph 修补程序 API 允许对邮件应用 DLP Teams操作。
+这些 API 允许开发人员构建安全与合规性应用，这些应用可以"侦听"近实时的 Microsoft Teams 消息，或在一对一的群聊或 Teams 频道中导出团队消息。 这些 API 为客户和 ISV 启用 DLP 和其他信息保护和管理方案。 此外，Microsoft Graph 修补程序 API 允许对邮件应用 DLP Teams操作。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
 [数据丢失防护 (DLP) ](/microsoft-365/compliance/dlp-microsoft-teams)功能在组织中广泛使用Microsoft Teams，尤其是在组织转移到远程工作时。 如果组织具有 DLP，则现在可以定义防止用户通过聊天通道或聊天会话Microsoft Teams敏感信息的策略。
 
-信息保护和管理功能在组织中广泛使用Microsoft Teams，尤其是在组织转移到远程工作时。 通过[Teams导出 API，](/microsoftteams/export-teams-content)可以将数据导出到第三方电子数据展示或合规性存档应用程序，以确保符合合规性做法。
+信息保护和管理功能在组织中广泛使用Microsoft Teams，尤其是在组织转移到远程工作时。 使用[Teams导出 API，](/microsoftteams/export-teams-content)可以将数据导出到第三方电子数据展示或合规性存档应用程序，以确保符合合规性做法。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/A5 合规
+- Microsoft 365 E5/A5 安全性
+- Microsoft 365 E5/A5 信息保护和治理
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
@@ -574,9 +581,9 @@ API 访问在租户级别配置。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
-Microsoft Graph DLP 和 Teams 导出的 Teams API 提供租户级值。 每位打算从此服务受益的用户都必须获得许可。 作为一个附加值，我们将为每个许可用户添加种子设定容量，每月计算一次，并聚合在租户级别。 对于超出种子容量的使用，将针对 API 使用向应用所有者计费。
+Microsoft Graph DLP Teams Teams 导出的 API 提供了租户级值。 每位打算从此服务受益的用户都必须获得许可。 作为一个附加值，我们将为每个许可用户添加种子设定容量，每月计算一次，并聚合在租户级别。 对于超出种子容量的使用，将针对 API 使用向应用所有者计费。
 
-有关种子设定容量和消耗费用的信息，请参阅Graph聊天消息[的要求](/graph/teams-licenses)。
+有关种子设定容量和消耗费用详细信息，请参阅Graph[聊天消息的一些要求](/graph/teams-licenses)。
 
 ## <a name="office-365-advanced-message-encryption"></a>Office 365 高级邮件加密
 
@@ -592,7 +599,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
-管理员在邮件流规则下的 Exchange 管理中心创建和管理 **高级邮件**  >  **加密策略**。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新邮件加密功能的信息，请参阅设置新的邮件Office 365 邮件加密[功能](/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
+管理员在邮件流规则下的 Exchange 管理中心创建和管理 **高级邮件加密**  >  **策略**。 默认情况下，这些规则适用于租户中的所有用户。 有关设置新邮件加密功能的信息，请参阅设置新的Office 365 邮件加密[功能](/office365/securitycompliance/set-up-new-message-encryption-capabilities)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
@@ -693,7 +700,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5/F5 合规性和 F5 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 信息保护和管理 E5/A5/G5 以及 Office 365 E5/A5/G5 为用户提供了从记录管理中获益的权利，包括将项目声明为记录或监管记录、自动应用保留或记录标签并执行处置评审 (基于可训练分类器自动应用保留标签) 。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性、Microsoft 365 信息保护和管理 E5/A5/G5 和 Office 365 E5/A5/G5 为用户提供了从记录管理中获益的权利，包括将项目声明为记录或监管记录，自动应用保留或记录标签并执行处置评审 (基于可训练分类器自动应用保留标签) 。
 
 Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合规性以及 Microsoft 365 信息保护和治理为用户提供了根据可训练分类器自动应用保留标签或记录标签的权利。
 

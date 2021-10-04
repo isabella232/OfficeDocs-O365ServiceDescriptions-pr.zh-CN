@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
-ms.translationtype: HT
+ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671354"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088515"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -70,17 +70,17 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | 存档 | 是 | 不适用 | 是 | 是 | 是 | 否 |
 | 警报策略 | 否 | 不适用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
 |基本审核<sup>2</sup> | 是 | 不适用 | 是 | 是 | 是 | 是 |
-|内容搜索 | 否 | 不适用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
+|内容搜索 | 否 | 不适用 | 否 | 是 | 是 | 是 |
 |Exchange Online、SharePoint Online 和 OneDrive for Business 的数据丢失防护 | 否 | 不适用 | 是 | 否 | 是 | 否 |
-|电子数据展示案例 | 否 | 不适用 | 否 | 否<sup>1</sup> | 否<sup>1</sup> | 否<sup>1</sup> |
-|电子数据展示导出 | 否 | 不适用 | 否 | 否 | 否<sup>1</sup> | 否 |
+|电子数据展示案例 | 否 | 不适用 | 否 | 是 | 是 | 是 |
+|电子数据展示导出 | 否 | 不适用 | 否 | 否 | 是 | 否 |
 |电子数据展示保留（包括基于查询的电子数据展示保留） | 否 | 不适用 | 否 | 否 | 否<sup>1</sup> | 否 |
-|信息治理<sup>1</sup> | 是 | 不适用 | 是 | 是 | 是 | 是 |
+|信息管理政策 | 是 | 不适用 | 是 | 是 | 是 | 是 |
 |手动敏感度标签 | 否 | 不适用 | 否 | 是 | 是 | 否 |
 |Office 365 邮件加密 (OME) 基础版 | 否 | 不适用 | 否 | 否 | 是 | 否 |
 
 <sup>1</sup> 即将上市。</br>
-<sup>2</sup> 使用 Azure Active Directory 和 Exchange 中的数据进行审核。
+<sup>2</sup>使用来自 Azure Active Directory、Exchange、DLP 和 SharePoint 的数据进行审核。
 
 > [!NOTE]
 >
