@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 21034e34d483e63a474533e4c02444749e736936
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 87ef3a5a9ddf795ae8143021e054f7dd5c9d1d48
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669541"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149374"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -40,14 +40,6 @@ ms.locfileid: "59669541"
   
 ## <a name="service-limits-for-all-plans"></a>所有计划的服务限制
 
-### <a name="items-in-lists-and-libraries"></a>列表和库中的项
-
-一个列表最多可具有 3 千万个项目，一个库最多可具有 3 千万个文件和文件夹。 当列表、库或文件夹包含超过 100,000 个项目时，不能中断对列表、库或文件夹的权限继承。 也不能对其重新继承权限。 但是，你仍然可以中断对该列表、库或文件夹中单个项的继承，最多可到列表或库中唯一权限的上限（请参阅下一部分）。 要详细了解查看大型列表的其他限制，请参阅 [在 Office 365 中管理大型列表和库](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。
-
-### <a name="unique-security-scopes-per-list-or-library"></a>每个列表或库的唯一安全作用域
-
-对于大型列表，设计具有尽可能少的唯一权限，并且总计保持在 5,000 以下。
-
 ### <a name="file-size-and-file-path-length"></a>文件大小和文件路径长度
 
 - **250 GB - 文件上传限制** 适用于上传到 Microsoft Teams 文件选项卡、SharePoint 文档库、OneDrive 文件夹和 Yammer 对话的每个单个文件。
@@ -55,6 +47,14 @@ ms.locfileid: "59669541"
 - **250 MB - 附加到列表项的文件。** 适用于 Microsoft Lists和 SharePoint Lists - 二者都基于相同的列表平台。
 
 要详细了解使用新的 OneDrive 同步应用 (OneDrive.exe) 时的限制和约束，请参阅 [无效的文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
+
+### <a name="items-in-lists-and-libraries"></a>列表和库中的项
+
+一个列表最多可具有 3 千万个项目，一个库最多可具有 3 千万个文件和文件夹。 当列表、库或文件夹包含超过 100,000 个项目时，不能中断对列表、库或文件夹的权限继承。 此外，你无法重新继承权限。 但是，你仍然可以中断对该列表、库或文件夹中单个项的继承，最多可到列表或库中唯一权限的上限（请参阅下一部分）。 要详细了解查看大型列表的其他限制，请参阅 [在 Office 365 中管理大型列表和库](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784)。
+
+### <a name="managed-metadata"></a>托管元数据
+
+共有 100 万个术语，总计 200 万个术语标签和 100 万个术语属性（这些限制用于全局和站点级术语组合）。 1,000 个全局术语集和 1,000 个全局组。
 
 ### <a name="moving-and-copying-across-sites"></a>跨网站移动和复制
 
@@ -64,13 +64,9 @@ ms.locfileid: "59669541"
 - 不超过 30,000 个文件
 - 每个文件必须小于 15 GB。
 
-### <a name="sync"></a>同步
+### <a name="overall-site-metadata"></a>整体网站元数据
 
-为获得最佳性能，建议在单个 OneDrive 或团队网站库中存储不超过 300,000 个文件。 尽管 SharePoint Online 可以在每个库中存储 3 千万个文档，但为获得最佳性能，建议跨所有文档库同步不超过 30 万个文件。 此外，如果在要同步的所有库中存在 30 万个或以上的项目，即使不同步这些库中的所有项目，也可能出现相同的性能问题。 如果使用以前的 OneDrive for Business 同步客户端 (Groove.exe)，则每个库的同步限制为 2 万项（包括每个团队网站的 5 千项）。
-
-### <a name="versions"></a>版本
-
-50,000 个主要版本和 511 个次要版本。
+每个网站 1000 GB（元数据很少达到此大小）。
 
 ### <a name="sharepoint-groups"></a>SharePoint 组
 
@@ -79,24 +75,28 @@ ms.locfileid: "59669541"
 > [!NOTE]
 > 有关 Azure AD 组限制，请参阅 [Azure AD 服务限制和约束](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions)，因为此类限制可能影响公共和专用组网站成员身份管理。
 
-### <a name="managed-metadata"></a>托管元数据
+### <a name="sharepoint-hosted-applications"></a>SharePoint 托管应用程序
 
-共有 100 万个术语，总计 200 万个术语标签和 100 万个术语属性（这些限制用于全局和站点级术语组合）。 1,000 个全局术语集和 1,000 个全局组。
+每个组织 20,000 个实例。
 
-### <a name="overall-site-metadata"></a>整体网站元数据
+### <a name="sharepoint-workflow"></a>SharePoint 工作流
 
-每个网站 1000 GB（元数据很少达到此大小）。
+SharePoint没有结束条件或显式停止操作，则 2013 工作流可以按设计以长期运行。
 
 ### <a name="subsites"></a>子网站
 
 每个网站（网站集）2,000 个 建议创建网站并将其组织到中心，而不是创建子网站。 如果确实使用子网站，我们建议限制子网站的数量（尤其是在流量很大的网站上）。
 
 > [!NOTE]
-> 你的组织限制为 2,000 个中心网站。 可能不需要为每个功能都设置一个中心网站，因此在创建中心之前，请务必进行规划。 有关详细信息，请访问 [规划 SharePoint 中心网站](/sharepoint/planning-hub-sites)。
+> 你的组织限制为 2,000 个中心网站。 你可能不需要每个功能的中心网站，并且创建中心之前进行一些规划很重要。 有关详细信息，请参阅[规划中心SharePoint网站](/sharepoint/planning-hub-sites)。
 
-### <a name="sharepoint-hosted-applications"></a>SharePoint 托管应用程序
+### <a name="sync"></a>同步
 
-每个组织 20,000 个实例。
+为获得最佳性能，建议在单个 OneDrive 或团队网站库中存储不超过 300,000 个文件。 尽管 SharePoint Online 可以在每个库中存储 3 千万个文档，但为获得最佳性能，建议跨所有文档库同步不超过 30 万个文件。 此外，如果在要同步的所有库中存在 30 万个或以上的项目，即使不同步这些库中的所有项目，也可能出现相同的性能问题。 如果使用以前的 OneDrive for Business 同步客户端 (Groove.exe)，则每个库的同步限制为 2 万项（包括每个团队网站的 5 千项）。
+
+### <a name="unique-security-scopes-per-list-or-library"></a>每个列表或库的唯一安全作用域
+
+对于大型列表，设计具有尽可能少的唯一权限，并且总计保持在 5,000 以下。
 
 ### <a name="users"></a>用户
 
@@ -104,6 +104,10 @@ ms.locfileid: "59669541"
 
 > [!NOTE]
 > 对于可以邀请到 SharePoint 网站的来宾数量没有明显的限制。 有关外部共享的详细信息，请参阅 [外部共享概述](/sharepoint/external-sharing-overview)。
+
+### <a name="versions"></a>版本
+
+50,000 个主要版本和 511 个次要版本。
 
 ## <a name="see-also"></a>另请参阅
 
