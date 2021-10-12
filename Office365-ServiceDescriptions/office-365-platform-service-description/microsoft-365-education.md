@@ -10,22 +10,22 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解计划与Microsoft 365 Office 365 教育版之间的差异。
-ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3ecf7e918c0b96945c061a13b2928ecc008a2c71
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670307"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268266"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
-Microsoft 365提供了各种计划，以最好地满足组织的需求。 如果你要查找每个计划Microsoft 365 Office 365 教育版，本文将介绍每个计划中包含的功能。
+Microsoft 365各种计划中都提供了一些选项，以最好地满足组织的需求。 如果要查找计划与Microsoft 365计划Office 365 教育版，本文将介绍每个计划中包含的功能。
   
-Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和Enterprise移动性和安全性。 下表列出了适用于教育Office 365 A1、A3 和 A5 的功能以及对应的 Microsoft 365 教育版 A3 和 A5 功能。 若要跨业务和企业计划比较功能，请参阅[比较 Microsoft 365 for business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关功能的详细列表，请参阅 Microsoft 365 下的相关服务说明和 Office 365[服务说明](../office-365-service-descriptions-technet-library.md)。 若要搜索支持文章和信息，请参阅Office[帮助 &amp; 培训](https://support.office.com/)。
+Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和Enterprise移动性和安全性。 下表列出了适用于教育Office 365 A1、A3 和 A5 的功能以及对应的 Microsoft 365 教育版 A3 和 A5 功能。 有关定价和功能的特定信息，请参阅Office 365 教育版[计划](https://aka.ms/EDU-Plan-Comparison)。 若要跨业务和企业计划比较功能，请参阅比较 Microsoft 365 [for business 计划](https://go.microsoft.com/fwlink/?linkid=799177)，或者，有关功能的详细列表，请参阅 Microsoft 365 下的相关服务说明Office 365[服务说明](../office-365-service-descriptions-technet-library.md)。 若要搜索支持文章和信息，请参阅Office[帮助 &amp; 培训](https://support.office.com/)。
   
 ## <a name="services-and-features"></a>服务和功能
 
-每个Microsoft 365 教育版计划包括许多单个服务，如 Exchange Online 和 SharePoint Online。 下表显示了每个解决方案和 Office 365 Microsoft 365中可用的服务，以便您可以选择最能满足您需求的解决方案。 若要更详细地查看服务和功能，[请参阅Office 365 教育版说明](office-365-education.md)。<br></br>
+每个Microsoft 365 教育版计划都包括许多单个服务，如 Exchange Online 和 SharePoint Online。 下表显示了每个解决方案和 Office 365 Microsoft 365中可用的服务，以便您可以选择最能满足您需求的解决方案。 若要更详细地查看服务和功能，请参阅[Office 365 教育版服务说明](office-365-education.md)。<br></br>
 
 | 服务 | Office 365 教育版 A1 | Office 365 教育版 A3 | Office 365 教育版A5 | Microsoft 365 教育版 A3 | Microsoft 365 教育版 A5 | Office 365 A3 学生使用权益 | Office 365 A5 学生使用权益 | Microsoft 365 教育版A3 学生使用权益 | Microsoft 365 教育版A5 学生使用权益 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -37,7 +37,7 @@ Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和En
 |OneDrive for Business|是|是|是|是|是|是|是|是|是|
 |Microsoft Teams|是|是|是|是|是|是|是|是|是|
 |Skype for Business Online|是|是|是|是|是|是|是|是|是|
-|Project|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
+|项目|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
 |YammerAcademic|是|是|是|是|是|是|是|是|是|
 |Microsoft Stream|是|是|是|是|是|是|是|是|是|
 |Microsoft Planner|是|是|是|是|是|是|是|是|是|
@@ -74,7 +74,7 @@ Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和En
 |内容搜索|是|是|是|是|是|是|是|是|是|
 |核心电子数据展示 (包括保留和导出) |否|是|是|是|是|是|是|是|是|
 |高级电子数据展示|否|否|是|否|是|否|否|否|否|
-|电子邮件和 (的数据丢失) DLP 策略|是|是|是|是|是|是|是|是|是|
+|电子邮件和 (DLP) 数据丢失防护|是|是|是|是|是|是|是|是|是|
 |终结点 DLP|否|否|否|否|是|否|否|否|否|
 |通信 DLP (Teams聊天) |否|否|是|否|是|否|否|否|否|
 |通信合规性|否|否|是|否|是|否|否|否|否|

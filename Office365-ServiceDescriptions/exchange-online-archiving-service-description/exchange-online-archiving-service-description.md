@@ -13,39 +13,39 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: 阅读本文，了解Microsoft Exchange Online存档。
-ms.openlocfilehash: b757e208c1a3422fad001ba7dbf0e27597ea58ee
-ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
+description: 阅读本文以了解 Microsoft Exchange Online Archiving。
+ms.openlocfilehash: 98c04ff716a1280f3e0b8d59fcfcc5c3518018e1
+ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60149394"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60268246"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Exchange Online Archiving 服务说明
 
-Microsoft Exchange Online存档是Microsoft 365部署 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013 或订阅特定功能的组织基于云的企业级存档解决方案 Exchange Online或Microsoft 365计划。 Exchange Online Archiving帮助组织解决存档、合规性、法规和电子数据展示难题。
+Microsoft Exchange Online存档是Microsoft 365 Microsoft Exchange Server 2019、Microsoft Exchange Server 2016、Microsoft Exchange Server 2013 或订阅特定存档的组织基于云的企业级存档解决方案 Exchange Online或Microsoft 365计划。 Exchange Online Archiving帮助组织解决存档、合规性、法规和电子数据展示难题。
 
-作为 Microsoft 在线服务，Exchange Online Archiving 旨在满足用户对强有力的安全性、可靠性和工作效率的需求。 有关其他Microsoft 365（包括所有 Microsoft 联机服务通用的功能）的信息，请参阅 Microsoft 365 和 Office 365[平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。
+作为 Microsoft 在线服务，Exchange Online Archiving 旨在满足用户对强有力的安全性、可靠性和工作效率的需求。 有关其他Microsoft 365，包括所有 Microsoft 联机服务通用的功能，请参阅 Microsoft 365 和 Office 365[平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。
 
 ## <a name="exchange-online-archiving-plans"></a>Exchange Online Archiving 计划
 
-有关允许用户使用 Exchange Online Archiving 订阅的详细计划信息[，请参阅Exchange Online Archiving](https://www.microsoft.com/microsoft-365/exchange/microsoft-exchange-online-archiving-email)。
+有关允许用户使用 Exchange Online Archiving 订阅的详细计划信息[，请参阅](https://www.microsoft.com/microsoft-365/exchange/microsoft-exchange-online-archiving-email)Exchange Online Archiving。
 
 可通过以下计划使用 Exchange Online Archiving。<br><br>
   
 | 计划 | 说明 |
 |:-----|:-----|
-|**适用于 Exchange Server 的 Exchange Online Archiving** |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中拥有主邮箱的用户。 <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署详细信息，请参阅混合[Exchange Server部署](/exchange/exchange-hybrid)。 |
-|**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 中拥有主邮箱的用户。 有关详细信息，请参阅客户端 [访问许可证和管理许可证](https://www.microsoft.com/licensing/product-licensing/client-access-license)。 |
-|**适用于 Exchange Online 的 Exchange Online Archiving** | 作为以下计划<sup>1，2，3</sup>的加载项的基于云的存档和就地保留：<br/> • Exchange Online计划 1 <br/> • Exchange Online Kiosk <br/> • Microsoft 365 商业基础版 <br/> • Microsoft 365 商业标准版 <br/> • Microsoft 365 商业高级版 <br/> • Office 365 E1 <br/> • Office 365 A1 <br/> • Office 365 G1 <br/> • Office 365 F3 <br/> • Microsoft 365 F3<br/> <b>注意：</b>以下计划已包含存档，不需要Exchange Online Archiving加载项：<br/> • Office 365 A3 <br/> • Office 365 A5 <br/> • Office 365 E3 <br/> • Office 365 E5 <br/> • Exchange Online计划 2 <br/> • Microsoft 365 E3 <br/> • Microsoft 365 E5 <br/> • Microsoft 365 F5 合规性 <br/> 有关邮箱的存档功能Exchange Online，请参阅存档[Exchange Online Archiving。](./archive-features.md)|
+|**适用于 Exchange Server 的 Exchange Online Archiving** |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 。 <br/> 如果想要将基于云的存档添加到位于本地 Exchange 服务器上的主邮箱，则需要配置混合部署。 有关混合部署的信息，请参阅混合[Exchange Server部署](/exchange/exchange-hybrid)。 |
+|**适用于 Exchange Server 的 Exchange Online Archiving（通过 Enterprise CAL Suite）** |基于云的存档，适用于在 Exchange Server 2019、Exchange Server 2016、Exchange Server 2013 或 Exchange 2010 (SP2 或更高版本) 。 有关详细信息，请参阅客户端 [访问许可证和管理许可证](https://www.microsoft.com/licensing/product-licensing/client-access-license)。 |
+|**适用于 Exchange Online 的 Exchange Online Archiving** | 作为以下计划<sup>1，2，3</sup>的加载项的基于云的存档和就地保留：<br/> • Exchange Online计划 1 <br/> • Exchange Online Kiosk <br/> • Microsoft 365 商业基础版 <br/> • Microsoft 365 商业标准版 <br/> • Microsoft 365 商业高级版 (Exchange Online Archiving包含在计划)  <br/> • Office 365 E1 <br/> • Office 365 A1 <br/> • Office 365 G1 <br/> • Office 365 F3 <br/> • Microsoft 365 F3<br/> <b>注意：</b>以下计划已包含存档，不需要Exchange Online Archiving加载项：<br/> • Office 365 A3 <br/> • Office 365 A5 <br/> • Office 365 E3 <br/> • Office 365 E5 <br/> • Exchange Online计划 2 <br/> • Microsoft 365 E3 <br/> • Microsoft 365 E5 <br/> • Microsoft 365 F5 合规性 <br/> 有关邮箱的存档功能Exchange Online，请参阅存档[Exchange Online Archiving。](./archive-features.md)|
 
 <sup>1</sup> 仅使用云的组织无需混合部署，此类组织的 Exchange 本地服务器上没有邮箱。 但是，如果存在本地邮箱，则需要配置混合部署。
 <br/>
-<sup>2 Exchange Online</sup>计划 1、Office 365 E1/A1/G1 和 Microsoft 365 商业基础版/Standard/高级版 对邮箱和存档具有大小限制。 有关详细信息，请参阅 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online 适用的 Exchange Online Archiving加载项添加了自动扩展存档和[就地保留和诉讼保留](compliance-and-security-features.md#in-place-hold-and-litigation-hold)。
+<sup>2</sup> Exchange Online计划 1、Office 365 E1/A1/G1 和 Microsoft 365 商业基础版/Standard/高级版 对邮箱和存档具有大小限制。 有关详细信息，请参阅 [Exchange Online 限制](../exchange-online-service-description/exchange-online-limits.md)。 Exchange Online 适用的 Exchange Online Archiving加载项添加了自动扩展存档和[就地保留和诉讼保留](compliance-and-security-features.md#in-place-hold-and-litigation-hold)。
 <br/>
 <sup>3</sup>包括美国政府GCC、GCC-高和 DoD 计划。
 
-要查找有关所有计划Microsoft 365的信息？ Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关不同计划（包括独立计划选项）的信息以及从一个计划移动到另一个计划的信息，请参阅Office 365[计划选项](../office-365-platform-service-description/office-365-plan-options.md)。
+要查找有关所有计划Microsoft 365的信息？ Microsoft 365提供了各种计划，以最好地满足组织的需求。 有关不同计划的信息，包括独立计划选项和从一个计划移动到另一个计划的信息，请参阅Office 365[计划选项。](../office-365-platform-service-description/office-365-plan-options.md)
 
 有关不同计划的信息，请参阅完整的 [订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
@@ -82,7 +82,7 @@ Microsoft Exchange Online存档是Microsoft 365部署 Microsoft Exchange Server 
 <sup>1</sup>用户邮箱必须驻留在 Exchange 2013 或更高版本上。 <br/>
 <sup>2</sup> 存档邮箱只能用于存档已应用许可证的单个用户或实体的邮件。 禁止将存档邮箱用作存储来自多个用户或实体的邮件的方式。 例如，IT 管理员无法创建共享邮箱且无法使用户复制（通过“抄送”或“密件抄送”字段，或通过传输规则）共享邮箱以便进行显式存档。 <br/>
 <sup>3</sup>有关受支持的 Microsoft Outlook的列表，请参阅客户端[Exchange Online Archiving。](/office365/servicedescriptions/exchange-online-archiving-service-description/client-features) <br/>
-<sup>4</sup> Azure 信息保护不包括在内，但作为单独的加载项购买，并且将启用支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 企业版 E1、Office 365 教育版 或 Office 365 企业版 F3 中未包含此订阅。 <br/>
+<sup>4</sup> Azure 信息保护不包括在内，但作为单独的加载项购买，并且将启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 企业版 E1、Office 365 教育版 或 Office 365 企业版 F3 中未包含此订阅。 <br/>
 <sup>5</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买并管理，才能启用支持的 IRM 功能。 <br/>
 <sup>6</sup> 当您将邮箱置于就地保留或诉讼保留中时，该保留将置于主邮箱和存档邮箱中。
 
@@ -100,7 +100,7 @@ Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](h
 
 ## <a name="learn-more"></a>了解详细信息
 
-有关此Exchange Online Archiving的信息，请查看以下资源：
+有关此Exchange Online Archiving，请查看以下资源：
 
 - 了解如何使用合规中心启用存档邮箱以支持组织的邮件保留、电子数据展示和保留要求：在安全与合规中心启用存档邮箱 - Microsoft 365[ &amp; 合规性](/microsoft-365/compliance/enable-archive-mailboxes)。
 - 了解 Microsoft Exchange Online Archiving： Archive features in [Exchange Online Archiving - Service Descriptions 中提供的存档功能](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)。
@@ -123,13 +123,13 @@ Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](h
 
 ### <a name="archive-storage-quota"></a>存档存储配额
 
-管理员无法调整存储配额。 存档功能 (自动扩展存档) 存档邮箱中提供额外的存储空间，最大为 1.5 TB。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，当达到 100 GB 存储容量时，将自动增加额外的存储空间。 在 Exchange 混合部署中，只有当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 SP1 及更高版本上时，基于云的存档邮箱才支持自动扩展存档。
+管理员无法调整存储配额。 存档功能 (自动扩展存档) 存档邮箱中提供额外存储空间，最大为 1.5 TB。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，当达到 100 GB 存储容量时，将自动增加额外的存储空间。 在 Exchange 混合部署中，只有当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 SP1 及更高版本上时，基于云的存档邮箱才支持自动扩展存档。
 
 自动扩展存档仅支持用于单个用户的邮箱或每天增长不超过 *1 GB* 的共享邮箱。 不允许使用日记、传输规则或自动转发规则将邮件复制到 Exchange Online Archiving 中来进行存档。 用户的存档邮箱只供该用户使用。 Microsoft 保留拒绝在用户的存档邮箱用于存储其他用户的存档数据或其他不当使用情况下的存档数据的权利。
 
 ## <a name="auto-expanding-archiving"></a>自动扩展存档
 
-称为自动扩展存档 *的存档功能* 在存档邮箱中提供额外的存储空间。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，当达到 100 GB 存储容量时，将自动增加额外的存储空间。 此存储空间增量增加将继续，直到存档存储空间达到 1.5 TB。 在 Exchange 混合部署中，只有当本地用户的邮箱驻留在 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更高版本) 上时，基于云的存档邮箱才支持自动扩展存档。 有关详细信息，请参阅 [自动扩展存档概述](/microsoft-365/compliance/autoexpanding-archiving)。
+称为自动扩展存档 *的存档功能* 在存档邮箱中提供额外的存储空间。 每个 Exchange Online Archiving 订阅者最初都会获得 100 GB 的存档邮箱存储空间。 启用自动扩展存档后，当达到 100 GB 存储容量时，将自动增加额外的存储空间。 此存储空间增量增加将继续，直到存档存储空间达到 1.5 TB。 在 Exchange 混合部署中，只有当本地用户的邮箱位于 Exchange Server 2019、Exchange Server 2016 或 Exchange Server 2013 (SP1 或更高版本) 上时，基于云的存档邮箱才支持自动扩展存档。 有关详细信息，请参阅 [自动扩展存档概述](/microsoft-365/compliance/autoexpanding-archiving)。
   
 > [!IMPORTANT]
 > 管理员无法调整存储配额。
