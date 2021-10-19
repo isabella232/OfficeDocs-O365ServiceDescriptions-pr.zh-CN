@@ -9,19 +9,19 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你要查找教育计划Office 365，本文将介绍每个计划中包含的功能。 Office 365熟悉的桌面套件Microsoft Office Microsoft 下一代通信和协作服务的基于云的版本，包括 &mdash; Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版和 Microsoft Skype for Business Online 帮助用户从几乎任何位置通过 &mdash; Internet 提高工作效率。
-ms.openlocfilehash: b6e8accf567b648bf0aefe01314f39b54e62e8d2
-ms.sourcegitcommit: 35fc15ee2aa0a893567420254e13db9eb97b2e01
+description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你要查找教育计划Office 365差异，本文将介绍每个计划中包含的功能。 Office 365将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务的基于云的版本（包括 &mdash; Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版和 Microsoft Skype for Business Online 帮助用户从几乎 &mdash; 任何位置通过 Internet 提高工作效率。
+ms.openlocfilehash: 90e619b0272f68840f06eb43664b4555718bf947
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60268256"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462143"
 ---
 # <a name="office-365-education"></a>Office 365 教育版
 
-为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你要查找教育计划Office 365，本文将介绍每个计划中包含的功能。 Office 365熟悉的桌面套件Microsoft Office Microsoft 下一代通信和协作服务的基于云的版本，包括 &mdash; Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版和 Microsoft Skype for Business Online 帮助用户从几乎任何位置通过 &mdash; Internet 提高工作效率。
+为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。 如果你要查找教育计划Office 365差异，本文将介绍每个计划中包含的功能。 Office 365将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务的基于云的版本（包括 &mdash; Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版和 Microsoft Skype for Business Online 帮助用户从几乎 &mdash; 任何位置通过 Internet 提高工作效率。
   
-本文列出了适用于Office 365计划 (A1、A3 和 A5) 。 若要跨业务和企业计划比较功能，请参阅[比较 Office 365 for Business](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)计划，或者有关功能的详细列表，请参阅 Microsoft 365 和 Office 365 服务说明下的相关[服务说明](../office-365-service-descriptions-technet-library.md)。
+本文列出了适用于教育Office 365计划 (A1、A3 和 A5) 。 若要跨业务和企业计划比较功能，请参阅[比较 Office 365 for Business](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)计划，或者有关功能的详细列表，请参阅 Microsoft 365 和 Office 365 服务说明下的相关[服务说明](../office-365-service-descriptions-technet-library.md)。
   
 若要搜索支持文章和信息，请参阅Office[帮助 &amp; 培训](https://support.office.com/)。
   
@@ -45,18 +45,18 @@ ms.locfileid: "60268256"
    
 > [!NOTE]
 > <sup>1 Microsoft Project</sup>不包含在Office 365但可以单独获取。 Project Online 协作版免费。 如果你是学生或教育机构，你可能有资格以教育价格Project 计划 3计划和计划 5。   <br/> 
-<sup>2</sup>若要了解有关哪些 Azure 信息保护功能包含在计划中Office 365，请参阅 Azure[信息保护](https://azure.microsoft.com/services/information-protection/)。<br/> 
+<sup>2</sup>若要了解有关哪些 Azure 信息保护功能包含在 Office 365计划中，请参阅[Azure 信息保护](https://azure.microsoft.com/services/information-protection/)。<br/> 
 <sup>3</sup> Office 365 A5包含电话系统、音频会议和通话套餐功能。 若要实施通话套餐，需要购买其他套餐 (国内通话套餐或国际通话套餐) 。 <br/> <sup>4</sup>包括Exchange Online计划 2。 <br/> 
 <sup>5</sup>包括Exchange Online计划 1 以及补充功能。 <br/> 
 <sup>6</sup>包括 Skype for Business Online 计划 2。 <br> <sup>7</sup>包括 Skype for Business Online 计划 1 以及补充功能。 
   
 ## <a name="system-requirements"></a>系统要求
 
-有关系统要求Office 365，请参阅Office 365[系统要求。](https://products.office.com/office-system-requirements/)
+有关系统要求Office 365，请参阅Office 365[系统要求](https://products.office.com/office-system-requirements/)。
   
 ## <a name="service-level-agreement"></a>服务级别协议
 
-有关服务级别协议的信息，请参阅[服务级别协议](../office-365-platform-service-description/service-level-agreement.md)。 有关最近运行时间的信息，Office 365最近的[全球运行时间](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)。
+有关服务级别协议的信息，请参阅[服务级别协议](../office-365-platform-service-description/service-level-agreement.md)。 有关最近运行时间的信息，Office 365最近[全球运行时间](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes)。
   
 ## <a name="platform-features"></a>平台功能
 
@@ -82,7 +82,7 @@ ms.locfileid: "60268256"
 |Microsoft Teams  |是  |是  |是  |
 |Office Delve  |是  |是  |是  |
 |Office 365 组  |是  |是  |是  |
-|Office 365 视频  |是  |是  |是  |
+|Office 365已 ([的视频) ](/stream/migrate-from-office-365)  |是  |是  |是  |
 |OneNote 课堂笔记本  |是  |是  |是  |
 |**[用户帐户管理](user-account-management.md)** |**Office 365 A1** |**Office 365 A3** |**Office 365 A5** |
 |云标识、联合身份或多重身份验证  |是  |是  |是  |
@@ -184,7 +184,7 @@ ms.locfileid: "60268256"
 <sup>4</sup> 减少按期限折扣购买的席位可能需要提前终止费用。 这不适用于按月支付的订阅。 <br/> 
 <sup>5</sup> 可用 ([https://securescore.office.com](https://securescore.office.com/) 链接需要管理员权限) 。 有关详细信息，请参阅安全分数[Office 365介绍](/office365/securitycompliance/microsoft-secure-score)。<br/> 
 <sup>6</sup> Microsoft Sway 当前不适用于某些地理位置的客户。 某些自 2015 年 8 月起市场中不再提供的旧版 Office 365 可能也无法使用 Microsoft Sway。 <br/> 
-<sup>7</sup> Advanced eDiscovery美国和西欧地区以及荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据导出到美国。 来自欧洲、中东和非洲的客户数据将导出到西欧 [荷兰])  <br>
+<sup>7</sup> Advanced eDiscovery美国和西欧地区以及荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据将导出到美国。 来自欧洲、中东和非洲的客户数据将导出到西欧 [荷兰])  <br>
 <sup>8</sup> 有关每个计划中包含的 Microsoft Stream 功能的信息，请参阅 [Stream 许可概述](https://stream.microsoft.com/documentation/stream-license-overview/)。<br>
 <sup>9</sup> 有关详细信息，请参阅 [MyAnalytics 计划和环境](/workplace-analytics/myanalytics/overview/plans-environments)。<br>
 <sup>10"</sup>简介"电子邮件会自动提供给 Exchange Online。 有关详细信息，请参阅 [配置简介电子邮件](/Briefing/be-admin)。<br>
@@ -220,9 +220,9 @@ ms.locfileid: "60268256"
 > <sup>1</sup> 数据管理允许用户创建、发布标签和手动将标签应用于文档;使用驱动器寄送或网络导入数据;并跨工作负荷、用户和组创建和应用保留/删除策略。 应用于邮箱的保留策略要求Office 365 企业版 E3 或 E5。 <br/> 
 <sup>2</sup> 高级数据管理允许您保留重要信息，并基于保留或删除策略对信息进行分类，或同时对二者进行分类来删除不重要的信息。 它包括智能/自动化操作，如建议策略;自动将标签应用于数据;基于敏感数据类型或查询应用标签;和智能导入筛选器的使用。 它还包括用于出于安全性和合规性目的查看员工通信的监督功能。 <br/> 
 <sup>3</sup> 最多 1.5 TB 的存档存储空间。 <br/> 
-<sup>4</sup> Advanced eDiscovery美国和西欧地区以及荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据导出到美国。 来自欧洲、中东和非洲的客户数据将导出到西欧 [荷兰])  <br/> 
+<sup>4</sup> Advanced eDiscovery美国和西欧地区（荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据将导出到美国。 来自欧洲、中东和非洲的客户数据将导出到西欧 [荷兰])  <br/> 
 <sup>5</sup> Microsoft Defender for Office 365 在 Office 365 A5 中作为独立服务提供，Office 365 A1和Office 365 A3。<br/>
-<sup>6</sup>您还可以使用 Office 365[管理活动 API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一部署中检索审核日志。 <br/>
+<sup>6</sup>您还可以使用 Office 365[管理活动 API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一管理审核日志。 <br/>
   
 ## <a name="office-application-features"></a>Office 应用程序功能  
 
@@ -278,19 +278,19 @@ ms.locfileid: "60268256"
 |批量激活 (KMS/MAK)  |否  |否  |否  |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是本地服务器，必须单独购买和管理，才能启用支持的 IRM 功能。 <br/> 
-<sup>2</sup> Skype for Business所有客户均可以使用 Basic。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
+> <sup>1</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买和管理，才能启用支持的 IRM 功能。 <br/> 
+<sup>2</sup> Skype for Business所有客户均可以使用基本功能。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每个用户分配 Skype for Business Online 许可证。 要详细了解 Lync Basic 功能，请参阅[桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)。 <br/> 
 <sup>3</sup>某些学校有资格使用教育增强版，其中包括 Microsoft 365 企业应用版，并允许学生和教职员工在最多五台 PC 或 Mac 计算机和其他移动设备（包括 Windows 平板电脑和 iPad）上安装最新版本的 Office。 当通过订阅教育解决方案、开放式价值订阅教育解决方案或学校合同授权办公机构内的教职员工时，学校有资格使用 Office 365 教育增强版。 请注意，访问和发布服务器仅在电脑上可用。 OneNote for Mac 可从 Mac App Store 中单独下载。 <br/> 
 <sup>4</sup> Office 网页版版本包括在内。 有关详细信息，请参阅Office 网页版[功能](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Office 网页版功能
 
-下表提供了一些链接，这些链接指向Office 网页版教育计划Office 365功能丰富的桌面Microsoft Office功能比较。 使用比较可发现哪些功能Office 网页版然后选择功能名称阅读有关该功能工作方式的简短说明。 你可能会发现，您的组织中的某些人员可能需要 Excel 桌面应用的高级图表功能，而其他人可能只需要使用 Office 网页版 查看和轻松编辑 Word 文档和 PowerPoint 演示文稿。
+下表提供了一些链接，这些链接指向Office 网页版教育计划Office 365功能丰富的桌面Microsoft Office功能比较。 使用比较可发现哪些功能Office 网页版然后选择功能名称阅读有关该功能工作方式的简短说明。 你可能会发现，您的组织中的某些人员可能需要 Excel 桌面应用的高级图表功能，而其他人可能只需要使用 Office 网页版 查看和轻松编辑 Word 文档PowerPoint演示文稿。
   
 > [!NOTE]
 > - 仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。 <br/>
 > - 这些表格并未列出全部 Microsoft Office 功能。 <br/> 
-> - Microsoft Microsoft 365 企业应用版 是最新桌面套件的每月Office产品。 <br/>
+> - Microsoft Microsoft 365 企业应用版 是最新的桌面套件的每月Office产品。 <br/>
 > - Microsoft Office如果联机服务器本地客户已购买 Office 桌面套件许可证 (（如 Office Professional Plus、Office Standard 或 Microsoft 365 企业应用版 许可证) ，则在线服务器本地客户会获得 Office 网页版 编辑许可证。 
   
 | 应用程序 | Office 网页版 | 链接到详细的功能比较 |
@@ -303,7 +303,7 @@ ms.locfileid: "60268256"
    
 ## <a name="exchange-online-features"></a>Exchange Online 功能
 
-下表列出了Exchange Online教育计划中可用的Office 365功能。<br><br>
+下表列出了所有Exchange Online计划中可用的Office 365功能。<br><br>
   
 | 功能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -412,7 +412,7 @@ ms.locfileid: "60268256"
 |Outlook 加载项和 Outlook MAPI  |是<sup>7</sup> |是<sup>7</sup> |是<sup>7</sup> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS 是本地服务器，必须单独购买和管理，才能启用支持的 IRM 功能。 <br/>
+> <sup>1</sup> Windows Server AD RMS 是一款本地服务器，必须单独购买和管理，才能启用支持的 IRM 功能。 <br/>
 <sup>2</sup> 传输规则由灵活条件（允许您定义条件和例外）以及基于条件采取的操作（这些条件）所决定。 2013 年 3 月Exchange Online可用的Microsoft Exchange Server和操作不同。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 <br/> 
 <sup>3</sup> Exchange Server 2013 仅使用 Microsoft 反恶意软件引擎。 Exchange Online 使用多种反恶意软件引擎扫描入站、出站和内部邮件中是否包含恶意软件。 <br/> 
 <sup>4</sup> SharePoint Online 必须包含在订阅计划中。 <br/> 
@@ -431,7 +431,7 @@ ms.locfileid: "60268256"
 > - [电子邮件](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) ，帮助创建和发送电子邮件。 
 >- [Office 365 商业版中的电子邮件 - 管理员帮助](/microsoft-365/admin/email/)
 >- [邮件大小限制](/exchange/message-size-limits-exchange-2013-help)
->- [修复Outlook Office 365 Microsoft 支持和恢复助手 for Office 365 的Office 365](https://diagnostics.office.com/)
+>- [修复Outlook Office 365 Microsoft 支持和恢复助手 for Office 365 的 Office 365](https://diagnostics.office.com/)
 >- [Office 365 中的电子邮件未送达报告](/exchange/message-size-limits-exchange-2013-help)
 >- [Exchange Online 帮助](/exchange/exchange-online)<br/>
 
@@ -470,9 +470,9 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
   
 #### <a name="address-book-limits"></a>通讯簿限制
 
-- **地址列表** 限制 - 在 2013 年 9 月或 2013 年 1 月Exchange Online创建Exchange Server列表的最大数目。 此数目包括 Exchange Online 中的默认地址列表，如"所有联系人"和"所有组"。 
+- **地址列表** 限制 - 在 2013 年 3 月或 2013 年 1 月Exchange Online创建Exchange Server列表的最大数目。 此数目包括 Exchange Online 中的默认地址列表，如"所有联系人"和"所有组"。 
     
-- **脱机通讯簿限制**- 在 (或) 2013 组织中可创建的脱机通讯簿Exchange Online Exchange Server数。 
+- **脱机通讯簿限制**- (2013) 组织中创建的脱机通讯簿的最大Exchange Online Exchange Server OAB 通讯簿数。 
     
 - **通讯簿策略限制**- 在 (2013) 中创建的 ABP 策略Exchange Online Exchange Server数量。 
     
@@ -533,7 +533,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
   
 - **每个邮箱文件夹的最大邮件数** - 指定邮箱文件夹的最大邮件数。 达到该限制时，无法将新邮件传递或保存到某个文件夹。 
     
-- **每个邮箱文件夹** 的邮件数量的警告 - 指定邮箱文件夹在向邮箱所有者发送Exchange Online之前可以保留的邮件数。 达到此配额时，将每天发送一次警告消息。 
+- **每个邮箱文件夹** 的邮件数量的警告 - 指定邮箱文件夹在向邮箱所有者Exchange Online之前可以保留的邮件数。 达到此配额时，将每天发送一次警告消息。 
     
 - **"可恢复邮件"** 文件夹中每个文件夹的邮件的最大数量 - 指定"可恢复邮件"文件夹的每个文件夹中可包含的最大邮件数。 文件夹超出此限制时，将无法存储新邮件。 例如，如果"可恢复邮件"文件夹中的"删除"文件夹超出邮件计数限制，而邮箱所有者试图从邮箱中永久删除邮件，删除将会失败。 
     
@@ -541,7 +541,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     
 - **每个邮箱文件夹的子文件夹的最大数量** - 指定可以在邮箱文件夹中创建的子文件夹的最大数量。 达到此限制时，邮箱所有者将无法创建新子文件夹。 
     
-- **每个邮箱文件夹** 的子文件夹数量的警告 - 指定在向邮箱所有者发送警告消息Exchange Online可以在邮箱文件夹中创建的子文件夹的数量。 达到此配额时，将每天发送一次警告消息。 
+- **每个邮箱文件夹** 的子文件夹数量的警告 - 指定在向邮箱所有者发送警告Exchange Online之前可以在邮箱文件夹中创建的子文件夹的数量。 达到此配额时，将每天发送一次警告消息。 
     
 - **最大文件夹层次结构深度** - 指定邮箱的文件夹层次结构中级别的最大数量。 达到此限制时，邮箱所有者将无法在邮箱文件夹的文件夹层次结构中创建另一个级别。 
     
@@ -583,7 +583,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
   
 - **主题长度** 限制 - 电子邮件的主题行中允许的最大文本字符数。 
     
-- **文件附件限制** - 电子邮件中允许的最大文件附件数。 即使所有文件附件的总大小并不违反邮件大小限制，邮件中允许的附件数量也仍具有限制。 限制由多部分邮件限制进行控制。 
+- **文件附件** 限制 - 电子邮件中允许的最大文件附件数。 即使所有文件附件的总大小并不违反邮件大小限制，邮件中允许的附件数量也仍具有限制。 限制由多部分邮件限制进行控制。 
     
 - **文件附件大小限制** - 单个附件的最大文件大小。 
     
@@ -598,7 +598,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 |:-----|:-----|:-----|:-----|
 |邮件大小限制 - Outlook  |150 MB<sup>1, 2</sup> |150 MB<sup>1、2</sup> |150 MB<sup>1, 2</sup> |
 |邮件大小限制 - OWA  |112 MB<sup>1, 3</sup> |112 MB<sup>1、3</sup> |112 MB<sup>1、3</sup> |
-|邮件大小限制 - Outlook for Mac  |150 MB<sup>1、2</sup> |150 MB<sup>1, 2</sup> |150 MB<sup>1、2</sup> |
+|邮件大小限制 - Outlook for Mac  |150 MB<sup>1、2</sup> |150 MB<sup>1、2</sup> |150 MB<sup>1、2</sup> |
 |邮件大小限制 - 迁移  |150 MB <sup>4</sup> |150 MB <sup>4</sup> |150 MB <sup>4</sup> |
 |加密邮件的大小限制（针对使用包含新功能的 Office 365 邮件加密的订阅服务器）  |150 MB<sup>5</sup> |150 MB<sup>5</sup> |150 MB<sup>5</sup> |
 |加密邮件的大小限制（针对使用旧版 Office 365 邮件加密的订阅服务器）  |25 MB<sup>5</sup> |25 MB<sup>5</sup> |25 MB<sup>5</sup> |
@@ -614,7 +614,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 > <sup>1</sup> Microsoft 管理员可以指定 1 MB 到 150 MB 之间的自定义限制。不过，你可以发送或接收的邮件大小还取决于你的电子邮件客户端或解决方案的支持范围。有关自定义组织允许的最大邮件大小的详细信息，请参阅 [Microsoft 支持更大的电子邮件](https://go.microsoft.com/fwlink/?linkid=2144144)。<br/> 
 <sup>2</sup> 您可以在用户之间发送和接收最多 150 MB 的邮件 (其中邮件永远不会离开 Microsoft 数据中心) 。 在 Microsoft 数据中心之外路由的邮件需要额外的 33% 翻译编码增加，在这种情况下，最大邮件大小为 112 MB。 <br/> 
 <sup>3</sup>OWA 考虑到你的邮件可能需要额外增加 33% 的编码，因此将你可以发送的邮件大小限制为在配置设置的基础上减少 25%。例如，如果你自定义设置的邮件大小上限为 100 MB，则可以发送不超过 75 MB 的邮件。 <br/> 
-<sup>4</sup>要移动到邮件中Exchange Online的大小由邮件Exchange Online。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法（直接转换、暂存、IMAP、PST）和其他第三方工具具有常规邮件大小限制。 <br/> 
+<sup>4</sup>要移动到电子邮件中Exchange Online由邮件Exchange Online。 Exchange Server 2013 之前的 Exchange 版本可能会报告较小的邮件大小。 此限制适用于使用任何受支持 Exchange 邮箱复制服务的基于移动的迁移。 其他迁移方法（直接转换、暂存、IMAP、PST）和其他第三方工具具有常规邮件大小限制。 <br/> 
 <sup>5</sup> OME 的新功能信息，请参阅 [Azure 信息保护中心之后构建的新 Office 365 邮件加密](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e)。 
   
 #### <a name="receiving-and-sending-limits"></a>接收和发送限制
@@ -735,7 +735,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 这些限制将控制用于适用于通讯组和传输规则的邮件审批的审阅设置。
   
-- **仲裁邮箱** 的最大大小 - 如果仲裁邮箱超过此限制，需要仲裁的邮件将返回到未送达报告 (NDR) 。 
+- **仲裁邮箱的最大** 大小 - 如果仲裁邮箱超过此限制，需要仲裁的邮件将返回到未送达报告 (NDR) 。 
     
 - **审阅人的最大** 数目 - 可分配给单个仲裁通讯组或可以使用单个传输规则添加到邮件的审阅人的最大数目。 请注意，您不能将通讯组指定为审阅人。 
     
@@ -760,7 +760,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
     
 - **Exchange ActiveSync设备删除** 限制 - Exchange ActiveSync管理员可以在一个月内Exchange删除的最大设备数。 
     
-- **Exchange ActiveSync文件附件限制**- 邮件文件附件的最大大小，由移动设备发送或接收Exchange ActiveSync。 
+- **Exchange ActiveSync文件附件限制**- 邮件文件附件的最大大小，邮件文件附件可通过 Exchange ActiveSync 设备发送或接收。 
     
 | 功能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -772,7 +772,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 
 OneDrive for Business (SkyDrive Pro) 云中的个人联机存储空间。 使用它，可以轻松、安全地跨多个设备存储工作文件。 根据需要与同事共享文件，并与Office一起实时编辑Office 网页版。 使用"同步"应用将文件OneDrive for Business本地计算机。
   
-OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 独立OneDrive for Business选项包括Office 网页版。 若要了解更多信息，请参阅[什么是OneDrive for Business？。](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)
+OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的计划购买。 独立OneDrive for Business选项包括Office 网页版。 若要了解更多信息，请参阅什么是[OneDrive for Business？。](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076)
   
 ### <a name="system-requirements"></a>系统要求
 
@@ -782,7 +782,7 @@ OneDrive for Business 包含在 SharePoint Online 中，也可以作为独立的
 
 OneDrive for Business计划 1 为每个用户提供 1 TB 的存储空间。 
   
-以下符合条件的计划为OneDrive 5 个用户的订阅提供无限制的存储存储空间。 Microsoft 将为每个用户提供初始 5 TB 的存储空间。 需要额外存储OneDrive客户可根据需要联系 Microsoft 支持部门来请求它。 用户数少于 5 的订阅每用户可获得 1 TB 的存储。
+以下符合条件的计划为OneDrive 5 个用户的订阅提供无限存储空间。 Microsoft 将为每个用户提供初始 5 TB 的存储空间。 需要额外存储OneDrive客户可根据需要联系 Microsoft 支持部门来请求它。 用户数少于 5 的订阅每个用户可获得 1 TB 的存储。
   
 - Office 365 A1
     
@@ -798,7 +798,7 @@ SharePoint Online 随附 OneDrive for Business。 若要了解 SharePoint Online
   
 ### <a name="subscription-plans"></a>订阅计划
 
-OneDrive for Business计划 2 适用于 Office 365 A1、A3 和 A5。 若要查看计划中可用的功能，请参阅 OneDrive for Business[服务说明](../onedrive-for-business-service-description.md)。
+OneDrive for Business计划 2 适用于 Office 365 A1 A3 和 A5。 若要查看计划中可用的功能，请参阅服务OneDrive for Business[说明](../onedrive-for-business-service-description.md)。
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online 功能
 
@@ -819,9 +819,9 @@ OneDrive for Business计划 2 适用于 Office 365 A1、A3 和 A5。 若要查�
    
 > [!NOTE]
 > <sup>1</sup>你可以购买无限量的其他 SharePoint Online 存储空间。 请参阅 [添加订阅的存储空间](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C)。 <br/> <sup>2</sup> 建议监视并定期清空回收站。 The storage space it uses is part of the organization's total file storage limit.<br/> 
-<sup>3</sup>当你拥有订阅和 SharePoint Online 独立计划时，将添加存储量。<br/> 
+<sup>3</sup>当你拥有订阅和 SharePoint Online 独立计划时，会添加存储量。<br/> 
 <sup>4</sup> SharePoint Online 管理员可以为网站集和网站设置存储使用限制。<br/> 
-<sup>5</sup>不包括OneDrive for Business许可用户创建的网站集。<br/> 
+<sup>5</sup>不包括为OneDrive for Business用户创建的网站集。<br/> 
 <sup>6</sup> If you have more than 500，000 users， please contact a Microsoft representative. 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online 功能
@@ -889,7 +889,7 @@ OneDrive for Business计划 2 适用于 Office 365 A1、A3 和 A5。 若要查�
 |使用 Skype for Business Web 应用以来宾身份访问 Skype 会议  |是  |是  |是  |
 |在 Outlook 中安排 Skype for Business 会议  |是  |是  |是  |
 |代表他人（委派）在 Outlook 中安排 Skype for Business 会议  |是  |是  |是  |
-|使用 Web Skype for Business计划程序安排会议  |是  |是  |是  |
+|使用 Skype for Business计划程序安排会议  |是  |是  |是  |
 |在 Outlook 网页版中安排在线会议  |是  |是  |是  |
 |通过 Outlook 委派安排会议  |是  |是  |是  |
 |从 Outlook 创建具有静态会议 ID 的公开会议  |否  |否  |否  |
@@ -960,7 +960,7 @@ OneDrive for Business计划 2 适用于 Office 365 A1、A3 和 A5。 若要查�
 |Microsoft 365 管理中心内的 Skype for Business Online 报告  |是  |是  |是  |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 Lync Basic 桌面客户端是本地安装的应用程序，可为包括 Skype for Business Online 的计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版 和 Office 365 A3包括完整的 Skype for Business (Lync) 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每位用户分配一个 Skype for Business Online 许可证。 有关 Lync Basic 功能的详细信息，请参阅 [桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic 适用于所有客户。 Lync Basic 桌面客户端是本地安装的应用程序，可为包括 Skype for Business Online 的计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版，Office 365 A3包括 Lync Skype for Business (应用程序的完整) ，其中包括高级电话支持、存档和合规性功能等附加功能。 必须为每位用户分配一个 Skype for Business Online 许可证。 有关 Lync Basic 功能的详细信息，请参阅 [桌面客户端比较表](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>2</sup>您必须为Exchange Online（计划 2）语音邮件的用户分配一个语音邮件计划。 An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
 ### <a name="skype-for-business-online-limits"></a>Skype for Business Online 限制
@@ -976,13 +976,13 @@ Skype for Business Online 中的限制分为以下几类：
 - [分钟限制](../skype-for-business-online-service-description/skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> 应用于 Microsoft 365 组织的限制可能因组织已在服务中登记了多久而不同。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 
+> 应用于组织的限制Microsoft 365组织在服务中登记时间不同。 如果 Microsoft 数据中心内的限制更改，可能需要一段时间，才能将更改应用于所有现有客户。 
   
 #### <a name="peer-to-peer-limits"></a>对等限制
 
 - **文件传输限制**- 可以在联机 IM 对话中Skype for Business的最大大小。 若要了解哪些类型的文件会被阻止不能进行文件传输，请参阅关于 [在 Skype for Business Online 中发送和接收文件或附件](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments)的 Microsoft 支持文章。
     
-- **打开选项卡式对话限制**- 用户一次可以打开Skype for Business对话选项卡的最大数量。 
+- **打开选项卡式对话限制**- 用户一次Skype for Business对话选项卡的最大数量。 
     
 | 功能 | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -993,11 +993,11 @@ Skype for Business Online 中的限制分为以下几类：
 
 - **文件上载** 限制 - 可上载到会议的最大文件大小，Skype for Business讲义和PowerPoint演示文稿。 
     
-- **会议参与者Skype for Business** - 会议的最大参与者 (包括演示者) 可以加入单个会议Skype for Business会议。 
+- **会议参与者Skype for Business** - 会议的最大参与者 (包括演示者) 可加入单个Skype for Business会议。 
     
 - **会议中的演示Skype for Business** - 单个会议中的演示者Skype for Business数量。 
     
-- **Skype for Business Web 应用会议参与者**- Skype for Business可加入会议的最大 Web 应用会议参与者数。 
+- **Skype for Business Web 应用会议参与者**- 可加入Skype for Business Web 应用会议参与者的最大数量。 
     
 - **Skype for Business Web 应用匿名参与者**- 可匿名加入Skype for Business Web 应用会议参与者的最大数量。 
     
@@ -1018,7 +1018,7 @@ Skype for Business Online 中的限制分为以下几类：
   
 #### <a name="meeting-retention-limits"></a>会议保留限制
 
-- **会议内容保留** 期 - 最后一个人离开会议后，任何上载的会议内容在被永久删除之前Skype for Business保留的时间。 
+- **会议内容保留** 期 - 最后一个人离开会议后，任何上载的会议内容在永久删除之前Skype for Business保留的时间。 
     
 - **会议过期** 期限 - 会议结束后用户可以访问会议的时间。 
     

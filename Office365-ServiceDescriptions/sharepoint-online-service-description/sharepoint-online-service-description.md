@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: 查看哪些SharePoint计划中提供了哪些功能。
-ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c4e8d140dff2cdaa5ed65c459e99a593d6b51dbe
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672405"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462133"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint 服务说明
 
@@ -29,19 +29,19 @@ SharePoint帮助Microsoft 365共享和管理内容、知识和应用程序，以
 - 快速查找信息
 - 在整个组织中无缝协作
 
-有关快速概述，请参阅什么是[SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
+有关快速概述，请参阅[什么是SharePoint？](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-有关允许用户进行订阅的详细信息，SharePoint完整[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关Microsoft 365要求，请参阅 Microsoft 365[和 Office Resources。](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+有关允许用户进行订阅订阅的详细计划SharePoint，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关Microsoft 365要求，请参阅 Microsoft 365[和 Office Resources。](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
-若要了解SharePoint云客户的功能差异，请参阅美国政府SharePoint[环境。](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
+若要了解SharePoint云客户的功能差异，请参阅适用于美国政府SharePoint[服务](../office-365-platform-service-description/office-365-us-government/sharepoint.md)。
   
 ## <a name="whats-new"></a>最近更新
 
-有关最新发布的功能的信息，请参阅新增功能[SharePoint。](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
+有关最新发布功能的信息，请参阅最新发布功能[SharePoint。](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
   
 ## <a name="subscription-options"></a>订阅选项
 
-Microsoft 365提供了各种计划，以最好地满足组织的需求。 有关允许用户进行订阅的详细信息，SharePoint完整[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关允许用户进行订阅订阅的详细计划SharePoint，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 若要SharePoint用户，需要为贵组织的用户分配一个包含SharePoint。 一线计划不作为独立产品出售，仅作为[F3、Office 365](https://www.microsoft.com/microsoft-365/business/office-365-f1)或 Microsoft 365 F1 的[](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab)一[Microsoft 365 F3。](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) 
   
@@ -51,11 +51,11 @@ Microsoft 365提供了各种计划，以最好地满足组织的需求。 有关
 
 ## <a name="onedrive"></a>OneDrive
 
-OneDrive是Microsoft 365单个用户的联机存储。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive包含在SharePoint中，也可作为独立计划购买。 若要了解每个OneDrive随附多少存储空间，请参阅服务OneDrive[说明](../onedrive-for-business-service-description.md)。
+OneDrive是Microsoft 365单个用户的联机存储。 通过此网盘，人们可在多个设备之间简便安全地存储、同步并共享他们的工作文件。 OneDrive包含在SharePoint中，也可作为独立计划购买。 若要了解每个OneDrive附带多少存储空间，请参阅服务[OneDrive说明](../onedrive-for-business-service-description.md)。
 
 ## <a name="apps"></a>应用程序
 
-若要SharePoint计算机上同步文件，用户可以使用 OneDrive 同步[for](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) Windows 或 Mac 应用。 有关同步应用中的功能可用性的信息，请参阅 OneDrive[服务说明](../onedrive-for-business-service-description.md)。 
+若要SharePoint计算机上同步文件，用户可以使用 OneDrive 同步[或](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88)Mac Windows应用。 有关同步应用中的功能可用性的信息，请参阅 OneDrive[服务说明](../onedrive-for-business-service-description.md)。 
 
 若要在移动设备上SharePoint网站，他们可以安装适用于 iOS SharePoint Android 或 Windows 的[Windows。](https://products.office.com/sharepoint/mobile-app) 
   
@@ -78,9 +78,9 @@ OneDrive是Microsoft 365单个用户的联机存储。 通过此网盘，人们�
 - [网站设计和网站脚本](/sharepoint/dev/declarative-customization/site-design-overview)
 - [网站主题](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-有关自定义选项的概述[，请参阅自定义](/sharepoint/extend-and-develop)SharePoint。
+有关自定义选项的概述，请参阅[自定义](/sharepoint/extend-and-develop)SharePoint。
 
-若要了解有关 Microsoft Power Apps 和 Power Automate 的可用性Power Apps[和Power Automate常见问题解答](/power-platform/admin/powerapps-flow-licensing-faq)。
+若要了解有关 Microsoft Power Apps 和 Power Automate 的可用性[Power Apps Power Automate常见问题解答](/power-platform/admin/powerapps-flow-licensing-faq)。
 
 若要了解有关 Microsoft 服务可用性Graph，请参阅 Microsoft 365[和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)。
 
@@ -112,7 +112,7 @@ OneDrive是Microsoft 365单个用户的联机存储。 通过此网盘，人们�
 
 有关迁移服务FastTrack的信息，请参阅符合条件的[服务和计划](/fasttrack/m365-eligible-services-and-plans)。 
 
-有关与共享相关的功能的信息，请参阅 OneDrive[服务说明](../onedrive-for-business-service-description.md)。
+有关与共享相关的功能的信息，请参阅OneDrive[服务说明](../onedrive-for-business-service-description.md)。
 
 有关管理员帮助SharePoint，请参阅 SharePoint [Online 管理员](/sharepoint/sharepoint-online)。
 
@@ -129,7 +129,7 @@ OneDrive是Microsoft 365单个用户的联机存储。 通过此网盘，人们�
 - [将文档库还原到上一时间点](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [病毒扫描](/office365/securitycompliance/virus-detection-in-spo)
 
-有关与共享相关的功能的信息，请参阅 OneDrive[服务说明](../onedrive-for-business-service-description.md)。
+有关与共享相关的功能的信息，请参阅OneDrive[服务说明](../onedrive-for-business-service-description.md)。
 
 SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以下功能的可用性的信息，请参阅安全与& [服务说明](../office-365-platform-service-description/office-365-securitycompliance-center.md)：
 
@@ -142,7 +142,7 @@ SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以
 - [敏感度标签](/microsoft-365/compliance/sensitivity-labels)
 - [统一审核](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (审核SharePoint用户和管理活动) 
 
-有关 [Azure 信息保护的信息，](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)请参阅 [Azure 信息保护要求](/azure/information-protection/requirements)
+有关 [Azure 信息保护的信息，](/microsoft-365/solutions/configure-teams-three-tiers-protection)请参阅 [Azure 信息保护要求](/azure/information-protection/requirements)
 
 有关客户密钥的可用性的信息，请参阅使用客户密钥 [的服务加密](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed)。 
 
@@ -155,17 +155,17 @@ SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以
 - [辅助功能](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [将Microsoft Teams添加到网站](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865)。 需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。
 - [受众定向](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
-- [连接经典团队网站到新的Office 365组。](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d) 需要包含 Office 365。
+- [连接经典团队网站到新的Microsoft 365组。](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d) 需要订阅包含Office 365。
 - [创建 Planner 集成 (计划) 。 ](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb) 需要包含 Office 365 订阅，并且要求用户获得 Planner 许可。
 - [ 文档库 ](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [文档集](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - 文件卡 (活动、对话、查看者) 
 - [列表](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [大型菜单](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
-- [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含Office 365的订阅，并且要求用户获得表单许可。
+- [Microsoft Forms 集成](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256)。 需要包含Office 365的订阅，并且要求用户获得 Forms 许可。
 - [新闻](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
 - Office桌面应用集成。 需要包含 Office 桌面应用的订阅。
-- Office 网页版集成。 需要包含 Office 365。
+- Office 网页版集成。 需要订阅包含Office 365。
 - [组织资产库](/sharepoint/organization-assets-library)
 - [组织新闻](/sharepoint/organization-news-site)
 - [页面审批](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
@@ -174,6 +174,7 @@ SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以
 - [回收站](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint移动应用](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [SharePoint起始页](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [网站和中心分析](https://support.microsoft.com/office/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [网站设计](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [网站使用率报告](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [网站：经典网站](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
@@ -181,14 +182,14 @@ SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以
 - [网站：主网站](/sharepoint/home-site)
 - [站点：中心网站](/sharepoint/planning-hub-sites)
 - 网站：新式团队 (没有Microsoft 365组) 
-- [网站：Microsoft 365组连接的团队网站](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 需要包含 Office 365。
+- [网站：Microsoft 365组连接的团队网站](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e)。 需要订阅包含Office 365。
 - [网站：根网站](/sharepoint/modern-root-site)
 - [团队OneNote笔记本](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [主题 (更改外观) ](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Web 部件](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [使用 SharePoint 中的内容Microsoft Teams。](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f) 需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。
+- [使用 SharePoint 中的Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f)内容。 需要包含 Office 365 的订阅，且需要用户具备 Teams 许可。
 
-若要了解有关 Microsoft Power Apps 和 Power Automate 的可用性Power Apps[和Power Automate常见问题解答](/power-platform/admin/powerapps-flow-licensing-faq)。
+若要了解有关 Microsoft Power Apps 和 Power Automate 的可用性[Power Apps Power Automate常见问题解答](/power-platform/admin/powerapps-flow-licensing-faq)。
 
 有关与共享相关的功能的信息，请参阅OneDrive[服务说明](../onedrive-for-business-service-description.md)。
 
@@ -200,8 +201,8 @@ SharePoint与 Microsoft 365 高级安全性和合规性功能集成。 有关以
 - [管理经典 (新式搜索功能的结果) ](/sharepoint/manage-result-sources)
 - [Microsoft 搜索集成](/microsoftsearch/overview-microsoft-search)
 - [经典搜索 (升级) ](/sharepoint/manage-query-rules)
-- [删除经典 (新式搜索搜索的) ](/sharepoint/remove-search-results)
+- [删除经典 (新式搜索功能中的) ](/sharepoint/remove-search-results)
 - [经典搜索 (搜索中心) ](/sharepoint/manage-search-center)
 - [经典 (新式搜索模式的搜索架构) ](/sharepoint/manage-search-schema)
 
-有关此Delve的信息，请参阅 Microsoft 365[和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。
+有关应用程序Delve，请参阅 Microsoft 365[和 Office 365 平台服务说明](../office-365-platform-service-description/office-365-platform-service-description.md)。

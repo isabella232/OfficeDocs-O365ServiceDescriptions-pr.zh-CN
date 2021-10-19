@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
-ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
-ms.translationtype: HT
+ms.openlocfilehash: d0c96c7cd20c5012b834efb12962a8f35ce2446b
+ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "60088515"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60462173"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -113,7 +113,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | Microsoft Teams | 否 | 否 | 否 | 否 | 否 | 否 |
 | Office Delve | 否 | 否 | 否 | 否 | 否 | 否 |
 | Office 365 组 | 是 | 否 | 是 | 是 | 是 | 是 |
-| Office 365 视频 | 否 | 否 | 否 | 是 | 是 | 是<sup>2</sup> |
+| Office 365已 ([的视频) ](/stream/migrate-from-office-365) | 否 | 否 | 否 | 是 | 是 | 是<sup>2</sup> |
 | OneNote 课堂笔记本 | 否 | 否 | 否 | 否 | 否 | 否 |
 | **[用户帐户管理](user-account-management.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 云标识、联合身份或多重身份验证<sup>14</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -217,7 +217,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | **[产品使用权限](product-use-rights.md)**<sup>10</sup> | 是 | 是 | 是 | 是 | 是 | 是 |
 
 <sup>1</sup>由世纪互联运营的 Office 365 和 Office 365 不会为不受其制造商支持的任何操作系统提供支持。<br/>
-<sup>2</sup>在 由世纪互联运营的 Office 365 企业版 F3 中，只能观看 Office 365 视频（不得发布或共享）。 <br/>
+<sup>2</sup>在由世纪Office 365 企业版运营的 F3 中，Office 365停用 (视频[) ](/stream/migrate-from-office-365)只能 (发布或共享) 。 <br/>
 <sup>3</sup>如果要将目录同步与本地 Active Directory 结合使用，必须使用本地 Active Directory（而不是 Office 365 门户），或使用 Windows PowerShell 的 Azure Active Directory 模块删除帐户或更改密码。 <br/>
 <sup>4</sup>在由世纪互联运营的 Office 365 中尚不可用，但即将可用。 <br/>
 <sup>5</sup> Office 365 中仅能有一个公共网站，除非已将早期版本的 Office 365 升级。如果已升级，则可以拥有两个公共网站，但其中只有一个能够使用自定义域名托管。有关处理 Business 订阅的两个网站的详细信息，请参阅[处理两个 Office 365 公共网站](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5)。如果有其他订阅，请在 [有关 Office 365 的公共网站帮助](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5) 中了解有关公共网站的详细信息。<br/>
