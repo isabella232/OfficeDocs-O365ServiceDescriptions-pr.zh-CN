@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: d0c96c7cd20c5012b834efb12962a8f35ce2446b
-ms.sourcegitcommit: 404a22ed6c18a1d548b1f1aaaada4cbc5118392e
-ms.translationtype: HT
+ms.openlocfilehash: cfac46a25119efebccddd775408afa2b735d8563
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60462173"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536423"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -73,7 +73,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 |Exchange Online、SharePoint Online 和 OneDrive for Business 的数据丢失防护 | 否 | 不适用 | 是 | 否 | 是 | 否 |
 |电子数据展示案例 | 否 | 不适用 | 否 | 是 | 是 | 是 |
 |电子数据展示导出 | 否 | 不适用 | 否 | 否 | 是 | 否 |
-|电子数据展示保留（包括基于查询的电子数据展示保留） | 否 | 不适用 | 否 | 否 | 否<sup>1</sup> | 否 |
+|电子数据展示保留（包括基于查询的电子数据展示保留） | 否 | 不适用 | 否 | 否 | 是 | 否 |
 |信息管理政策 | 是 | 不适用 | 是 | 是 | 是 | 是 |
 |手动敏感度标签 | 否 | 不适用 | 否 | 是 | 是 | 否 |
 |Office 365 邮件加密 (OME) 基础版 | 否 | 不适用 | 否 | 否 | 是 | 否 |
@@ -102,11 +102,11 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | **[Office 365 套件功能](office-365-suite-features.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | Microsoft Bookings | 否 | 否 | 是 | 否 | 否 | 否 |
 | Microsoft 简报电子邮件 | 否 | 否 | 是 | 否 | 否 | 否 |
-| Microsoft Power Automate | 否 | 否 | 否 | 否 | 否 | 否 |
+| Microsoft Power Automate | 是 | 是 | 是 | 是 | 是 | 是 |
 | Microsoft Forms | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft MyAnalytics | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Planner | 否 | 否 | 否 | 否 | 否 | 否 |
-| Microsoft PowerApps | 否 | 否 | 否 | 否 | 否 | 否 |
+| Microsoft PowerApps | 是 | 是 | 是 | 是 | 是 | 是 |
 | Microsoft StaffHub | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Stream | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Sway<sup>8</sup> | 否 | 否 | 否 | 否 | 否 | 否 |

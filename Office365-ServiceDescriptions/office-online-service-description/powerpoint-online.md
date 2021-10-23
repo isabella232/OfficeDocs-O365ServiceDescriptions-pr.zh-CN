@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint 网页版 (以前PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储演示文稿的网站上处理演示文稿。 Microsoft 365客户Office 网页版可以一起查看、创建和编辑文件。
-ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0cd97ad67cb89f6a838243aff9c5ceb3548c2043
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669962"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536343"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint 网页版
 
 PowerPoint 网页版 (以前PowerPoint Web App) 将 Microsoft PowerPoint 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储演示文稿的网站上处理演示文稿。 Microsoft 365客户Office 网页版可以一起查看、创建和编辑文件。
   
-PowerPoint编辑器是一个 Web 前端组件，可创建基于浏览器的编辑图面，使用户可以处理文档而不会丢失保真度。
+PowerPoint编辑器是一个 Web 前端组件，用于创建基于浏览器的编辑图面，这样用户即可处理文档而不会丢失保真度。
   
-如果选择 PowerPoint 网页版工具栏上的"在 PowerPoint 中打开"按钮，演示文稿将在 PowerPoint 桌面应用程序 (中打开（如果计算机上安装 Microsoft PowerPoint 2010 或更高版本) ）。
+如果选择 PowerPoint 网页版工具栏上的"在 PowerPoint 中打开"按钮，演示文稿将在 PowerPoint 桌面应用程序中打开 (如果在) 计算机上安装 Microsoft PowerPoint 2010 或更高版本。
   
-了解如何在[电脑上使用 Office for business Microsoft 365下载和安装应用](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)。
+了解如何在[电脑上使用 Office for business Microsoft 365和安装应用](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c)。
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
@@ -37,7 +37,7 @@ PowerPoint编辑器是一个 Web 前端组件，可创建基于浏览器的编�
   
 ## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 
-从动画和过渡效果库中选择。 PowerPoint 网页版支持八个转换和 37 个动画。 不支持其他动画和切换PowerPoint 网页版保留在演示文稿中，并显示在幻灯片放映中，但不能在幻灯片PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+从动画和过渡效果库中选择。 PowerPoint 网页版支持八个转换和 37 个动画。 其他动画和切换不受PowerPoint 网页版保留在演示文稿中，并显示在幻灯片放映中，但不能在幻灯片PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 
@@ -45,7 +45,7 @@ PowerPoint编辑器是一个 Web 前端组件，可创建基于浏览器的编�
   
 ## <a name="apply-themes-and-theme-variants"></a>应用主题和主题变量
 
-向演示文稿添加新幻灯片时，请从内置主题和变体库中进行选择。 演示文稿中PowerPoint 网页版主题，但无法修改PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+向演示文稿添加新幻灯片时，请从内置主题和变体库中进行选择。 演示文稿中PowerPoint 网页版不受支持的主题，但无法修改PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="office-add-ins"></a>Office 外接程序
 
@@ -53,11 +53,11 @@ PowerPoint 网页版仅支持内容外接程序用于Office。 内容外接程�
   
 ## <a name="arrange-objects"></a>排列对象
 
-移动、调整大小、旋转或排序图层中的形状和文本框，在PowerPoint 网页版。 对形状取消分组，以对其进行单独处理。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+移动、调整大小、旋转或排序图层中的形状和文本框，这些形状和文本框在PowerPoint 网页版。 对形状取消分组，以对其进行单独处理。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="broadcast-slide-show"></a>Broadcast slide show
 
-若要PowerPoint远程受众广播幻灯片放映，需要桌面PowerPoint 网页版。 无论用户是否已安装桌面PowerPoint 网页版，观看者都可以通过 PowerPoint观看演示文稿。 详细了解[广播幻灯片放映](https://go.microsoft.com/fwlink/?LinkId=272765)。
+若要PowerPoint远程受众广播幻灯片放映，需要桌面PowerPoint 网页版。 无论用户是否安装了桌面PowerPoint 网页版，观看者都可以通过PowerPoint观看演示文稿。 详细了解[广播幻灯片放映](https://go.microsoft.com/fwlink/?LinkId=272765)。
   
 ## <a name="clipboard"></a>剪贴板
 
@@ -73,7 +73,7 @@ PowerPoint 网页版动画效果库。 动画不受PowerPoint 网页版保留在
   
 ## <a name="design-tools-advanced"></a>设计工具，高级
 
-在 PowerPoint 网页版 中不可用。 仅 PowerPoint 桌面应用程序提供了高级设计功能，如创建幻灯片母版和修改版式。 通过PowerPoint 网页版，可以使用自己的模板文件作为创建新文件的基础，也可以从预定义的主题列表中选择。
+在 PowerPoint 网页版 中不可用。 仅 PowerPoint 桌面应用程序提供了高级设计功能，如创建幻灯片母版和修改版式。 使用 PowerPoint 网页版，可以使用自己的模板文件作为创建新文件的基础，也可以从预定义的主题列表中选择。
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -83,11 +83,18 @@ Dropbox 是托管提供云存储、文件同步、个人云和客户端软件的
 
 使用 PowerPoint 网页版，可以在网站或博客上嵌入演示文稿，以便任何人都可以查看你的信息，即使他们没有 Microsoft PowerPoint桌面应用。 嵌入式查看器可显示动画、切换效果和音频/视频，与全保真阅读视图相同。 详细了解如何[在网站或博客页面上嵌入演示文稿](https://go.microsoft.com/fwlink/?LinkId=272766)。
   
-## <a name="font-formatting"></a>字体格式
+## <a name="font-downloading-and-formatting"></a>字体下载和格式设置
 
-PowerPoint 网页版你可以对文本应用粗体、斜体、下划线、字体、大小和颜色。 您还可以使用格式刷复制整个形状的格式。
+字体服务是一CDN[](/microsoft-365/enterprise/content-delivery-networks)解决方案，用于确保 Office 应用程序能够通过将所需字体下载到本地计算机以全保真方式呈现文档和演示文稿。
+
+通过 PowerPoint 与收件人共享PowerPoint 网页版时，请在此处使用云字体列表中详述的[字体](https://support.microsoft.com/office/cloud-fonts-in-office-f7b009fe-037f-45ed-a556-b5fe6ede6adb)。 为什么？ 这些字体在云中可用，并根据需要下载并安装在我们的服务器上。 其他字体（包括此列表上未在本地安装的字体和嵌入的字体）将不会安装在我们的服务器上，并且将被替换为回退字体，从而导致内容重排和格式设置问题。  
+
+PowerPoint 网页版允许你对文本应用粗体、斜体、下划线、字体、大小和颜色。 您还可以使用格式刷复制整个形状的格式。
+
+> [!NOTE]
+> 目前无法向 Web 网站的菜单添加其他PowerPoint字体。
   
-## <a name="full-fidelity-reading-view"></a>全保真阅读视图
+## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 
 按预期方式查看演示文稿，其中显示动画、切换 &mdash; 和音频/视频。
   
@@ -113,7 +120,7 @@ PowerPoint 网页版支持八个转换和 37 个动画。 如需更多选择，�
   
 ## <a name="integration-with-excel-for-charts"></a>Integration with Excel for charts
 
-在 PowerPoint 网页版 中不可用。 使用 PowerPoint 网页版，您可以查看Excel演示文稿中的图表，但不能使用 Excel 在演示文稿中编辑或插入PowerPoint 网页版。 详细了解如何[将 Excel 图表复制到 PowerPoint 中](https://go.microsoft.com/fwlink/?LinkId=272773)。
+在 PowerPoint 网页版 中不可用。 使用 PowerPoint 网页版，Excel现有演示文稿中的图表，但不能使用 Excel 在演示文稿中编辑或插入PowerPoint 网页版。 详细了解如何[将 Excel 图表复制到 PowerPoint 中](https://go.microsoft.com/fwlink/?LinkId=272773)。
   
 ## <a name="navigation---slide-sorter"></a>导航 - 幻灯片浏览
 
@@ -133,7 +140,7 @@ PowerPoint 网页版 Web 浏览器启动，并且依赖于 Internet 连接。 �
   
 ## <a name="present-online-through-skype-for-business-or-the-office-presentation-service"></a>Present online through Skype for Business or the Office Presentation Service
 
-在 PowerPoint 网页版 中不可用。 Microsoft PowerPoint桌面应用允许你使用 Office Presentation Service（一项免费的公共服务）交付演示文稿，该服务允许其他人在 Web 浏览器中跟进。 详细了解 [Office Presentation Service](https://go.microsoft.com/fwlink/?LinkId=272774)。
+在 PowerPoint 网页版 中不可用。 Microsoft PowerPoint桌面应用允许你使用 Office Presentation Service 传递演示文稿，这是一项免费的公共服务，允许其他人在 Web 浏览器中一直关注。 详细了解 [Office Presentation Service](https://go.microsoft.com/fwlink/?LinkId=272774)。
   
 ## <a name="presenter-view"></a>Presenter view
 
@@ -141,7 +148,7 @@ PowerPoint 网页版 Web 浏览器启动，并且依赖于 Internet 连接。 �
   
 ## <a name="print-to-pdf"></a>打印为 PDF
 
-使用 PowerPoint 网页版，您可以将演示文稿打印到 PDF 阅读器，其中幻灯片的所有版式和格式都将以预期方式打印。 详细了解可以使用[PowerPoint 网页版 执行的基本PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272775)
+使用 PowerPoint 网页版，您可以将演示文稿打印到 PDF 阅读器，其中幻灯片的所有版式和格式都将以预期方式打印。 详细了解可以使用[PowerPoint 网页版 执行的基本任务](https://go.microsoft.com/fwlink/?LinkId=272775)。
   
 ## <a name="proofing-tools"></a>校对工具
 
@@ -149,19 +156,19 @@ PowerPoint 网页版 Web 浏览器启动，并且依赖于 Internet 连接。 �
   
 ## <a name="real-time-co-authoring"></a>实时共同创作
 
-多个作者可以同时在PowerPoint 网页版PowerPoint 2016。 实时状态可帮助您查看共同创作者在演示文稿中的编辑位置，从而不会在编辑时产生冲突，并且您可以在发生更改时进行查看。 PowerPoint 2013 支持同时编辑，但没有状态指示，并且在保存文档之前多个作者无法看到更改。 有关在演示文稿中实时共同创作PowerPoint，请参阅共同创作PowerPoint[演示文稿](https://go.microsoft.com/fwlink/?linkid=844014)。
+多个作者可以同时在PowerPoint 网页版和PowerPoint 2016。 实时状态可帮助您查看共同创作者在演示文稿中的编辑位置，从而不会在编辑时产生冲突，并且您可以在发生更改时进行查看。 PowerPoint 2013 支持同时编辑，但没有状态指示，并且在保存文档之前多个作者无法看到更改。 有关在演示文稿中实时共同创作PowerPoint，请参阅共同PowerPoint[演示文稿](https://go.microsoft.com/fwlink/?linkid=844014)。
   
 ## <a name="reviewer-tools-advanced"></a>审阅者工具，高级
 
-在 PowerPoint 网页版 中不可用。 仅 PowerPoint 桌面应用程序中提供了高级审阅功能，如合并冲突和比较演示文稿。 使用PowerPoint 网页版，可以查看、添加、编辑或删除注释。
+在 PowerPoint 网页版 中不可用。 仅 PowerPoint 桌面应用程序中提供了高级审阅功能，如合并冲突和比较演示文稿。 使用PowerPoint 网页版，您可以查看、添加、编辑或删除注释。
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>权限管理：应用和使用 IRM 和密码保护
 
-在 PowerPoint 网页版 中不可用。 PowerPoint 网页版使用 IRM 管理信息管理 (演示文稿) 。 但是，这些演示文稿无法编辑在浏览器中，并且不能创建受 IRM 保护的演示文稿PowerPoint 网页版。 PowerPoint 网页版无法打开使用密码进行数字签名或加密的演示文稿。 
+在 PowerPoint 网页版 中不可用。 PowerPoint 网页版使用信息权限管理或 IRM 功能 (演示文稿) 。 但是，这些演示文稿无法编辑在浏览器中，并且不能创建受 IRM 保护的演示文稿PowerPoint 网页版。 PowerPoint 网页版无法打开使用密码进行数字签名或加密的演示文稿。 
   
 ## <a name="run-slide-show"></a>Run slide show
 
-使用 PowerPoint 网页版，只需 Web 浏览器和 Internet 连接就可以运行演示文稿。 详细了解可以使用[PowerPoint 网页版 执行的基本PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272775)
+使用 PowerPoint 网页版，只需使用 Web 浏览器和 Internet 连接就可以运行演示文稿。 详细了解可以使用[PowerPoint 网页版 执行的基本任务](https://go.microsoft.com/fwlink/?LinkId=272775)。
   
 ## <a name="save-as-or-download-a-copy"></a>另存为或下载副本
 
@@ -181,19 +188,19 @@ PowerPoint 网页版全屏窗口中播放幻灯片放映。 按下空格键可�
   
 ## <a name="smartart"></a>SmartArt
 
-可以插入 SmartArt、切换到其他布局或配色方案、应用 SmartArt 样式以及使用自定义样式编辑PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+可以插入 SmartArt、切换到其他版式或配色方案、应用 SmartArt 样式，以及使用PowerPoint 网页版。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="table-creation-editing-and-formatting"></a>表创建、编辑和格式设置
 
-可以在数据库中创建和编辑表PowerPoint 网页版，PowerPoint 网页版大多数表函数。 对于高级功能（如合并和拆分单元格），请使用PowerPoint桌面应用。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
+可以在数据库中创建和编辑表PowerPoint 网页版，PowerPoint 网页版大多数表函数。 对于高级函数（如合并和拆分单元格），请使用PowerPoint桌面应用。 详细了解[在浏览器与 PowerPoint 桌面应用程序中使用演示文稿的区别](https://go.microsoft.com/fwlink/?LinkId=272763)。
   
 ## <a name="tell-me"></a>操作说明搜索
 
-当你需要在任务中完成一些PowerPoint 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到您寻找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
+当你需要在任务中完成PowerPoint 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到您寻找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
   
 ## <a name="undo-and-redo"></a>撤消和恢复
 
-在活动演示文稿的当前编辑会话期间，可撤消 (Ctrl + Z) 和重做 (Ctrl + Y) 无限次最近的操作。 如果编辑会话超时或切换到阅读视图的时间超过 30 秒，则会重置撤消历史记录。 详细了解键盘[快捷方式PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272950)
+在活动演示文稿的当前编辑会话期间，可撤消 (Ctrl + Z) 和重做 (Ctrl + Y) 无限次最近的操作。 如果编辑会话超时或切换到阅读视图的时间超过 30 秒，则会重置撤消历史记录。 了解有关键盘[快捷方式PowerPoint 网页版。](https://go.microsoft.com/fwlink/?LinkId=272950)
   
 ## <a name="view-and-add-comments"></a>查看和添加注释
 
@@ -211,4 +218,4 @@ PowerPoint 网页版全屏窗口中播放幻灯片放映。 按下空格键可�
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Office 网页版[服务说明](office-online-service-description.md)。
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Office 网页版[说明](office-online-service-description.md)。

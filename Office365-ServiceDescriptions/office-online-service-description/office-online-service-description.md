@@ -11,31 +11,31 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office 网页版 (以前Office Web Apps) Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office 网页版通过 Internet 连接从任何位置（几乎任何设备）更轻松地Office和共享文件。 Microsoft 365 Word、Excel、OneNote 或 PowerPoint 的客户可以一起查看、创建和编辑文件。
-ms.openlocfilehash: e40f65fb3271720bd2cd6ea5d275a3f1e32cb639
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+description: Office 网页版 (Web Apps Office，) Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office 网页版通过 Internet 连接从任何位置（几乎任何设备）更轻松地Office和共享文件。 Microsoft 365 Word、Excel、OneNote 或 PowerPoint 的客户可以一起查看、创建和编辑文件。
+ms.openlocfilehash: c1bbf8be1964ebf1adadb9edeac8089854a70424
+ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670004"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60536373"
 ---
 # <a name="office-for-the-web-service-description"></a>Office 网页版服务说明
 
-Office 网页版 (以前Office Web Apps) Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office 网页版通过 Internet 连接从任何位置（几乎任何设备）更轻松地Office和共享文件。 Microsoft 365 Word、Excel、OneNote 或 PowerPoint 的客户可以一起查看、创建和编辑文件。 
+Office 网页版 (Web Apps Office，) Web 浏览器中打开 Word、Excel、OneNote 和 PowerPoint 文档。 Office 网页版通过 Internet 连接从任何位置（几乎任何设备）更轻松地Office和共享文件。 Microsoft 365 Word、Excel、OneNote 或 PowerPoint 的客户可以一起查看、创建和编辑文件。 
   
 ## <a name="available-plans"></a>可用计划
 
-有关使用户能够使用 Web 的订阅Office的详细信息，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+有关允许用户使用 Web Office的详细计划信息，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>跨计划的功能Office 网页版可用性
 
-需要有关找出最适合Office解决方案的帮助？ 下表比较了Office 网页版功能与功能丰富的桌面Microsoft Office功能。 使用表格可发现哪些功能Office 网页版，然后选择功能名称阅读有关该功能工作方式的简短说明。 您可能会发现，您的组织中的一些人员需要 Excel 桌面应用的高级图表功能，而其他人只需要使用 Office 网页版 查看和轻松编辑 Word 文档和 PowerPoint 演示文稿。 
+需要有关找出最适合Office解决方案的帮助？ 下表比较了Office 网页版功能与功能丰富的桌面Microsoft Office功能。 使用表格可发现哪些功能Office 网页版，然后选择功能名称阅读有关该功能工作方式的简短说明。 您可能会发现，您的组织中的一些人员需要 Excel 桌面应用的高级图表功能，而其他人只需要使用 Office 网页版 查看和轻松编辑 Word 文档PowerPoint演示文稿。 
   
 > [!NOTE]
->  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。<br/>  Microsoft Microsoft 365 企业应用版 是最新桌面套件的每月订阅Office产品。 <br/>  Microsoft Office如果联机服务器本地客户已购买 Office 网页版 Office 桌面套件许可证 (（如 Office Professional Plus、Office Standard 或 Microsoft 365 企业应用版 许可证) ，则在线服务器本地客户会获得 Microsoft 365 企业应用版 编辑许可证。 
+>  仅选择了数量有限的 Office 功能来代表 Office 桌面套件的高级功能。这些表格并未列出全部 Microsoft Office 功能。<br/>  Microsoft Microsoft 365 企业应用版 是最新桌面套件的每月订阅Office产品。 <br/>  Microsoft Office如果联机服务器本地客户已购买 Office 桌面套件许可证 (（如 Office Professional Plus、Office Standard 或 Microsoft 365 企业应用版 许可证) ，则在线服务器本地客户会获得 Office 网页版 编辑许可证。 
   
 > [!NOTE]
-> 以 Office 电子邮件附件Outlook或 SharePoint 文档库打开文档时，该文档将在 Office 网页版 中启动，并且将只读。 若要在编辑模式下Office 网页版 (文档) ，您需要一个套件许可证，Office 365 企业版 E1。 若要在桌面应用中编辑文档，你需要一个 Office 桌面套件许可证，例如 Microsoft 365 企业应用版 订阅或安装的 Office Professional Plus 2010 版本。 
+> 以 Office 电子邮件附件Outlook或 SharePoint 文档库打开 Office 网页版 文档时，该文档将在 Office 网页版 中启动，并且将只读。 若要在编辑模式下Office 网页版 (文档) ，您需要一个套件许可证，Office 365 企业版 E1。 若要在桌面应用中编辑文档，你需要一个 Office 桌面套件许可证，例如 Microsoft 365 企业应用版 订阅或安装的 Office Professional Plus 2010 版本。 
   
 ### <a name="word"></a>Word
 
@@ -136,8 +136,8 @@ Office 网页版 (以前Office Web Apps) Web 浏览器中打开 Word、Excel、O
 |[数据验证](excel-online.md#data-validation) <br/> |是 <br/> |是  <br/> |
 |[拖放单元格](excel-online.md#drag-and-drop-cells) <br/> |是  <br/> |是  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |是  <br/> |是  <br/>|
-|[复制 (复制) 工作表](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
-|[在 Web 或博客页面上嵌入工作簿 (OneDrive) ](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
+|[复制 (工作表) 的副本](excel-online.md#duplicate-copy-worksheets) <br/> |是  <br/> |是  <br/>|
+|[在 Web 或博客页面上嵌入 (OneDrive) ](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |是  <br/> |否  <br/> |
 |[外部引用](excel-online.md#external-references-links) <br/> |否<sup>4</sup> <br/> |是  <br/> |
 |[填充手柄](excel-online.md#fill-handle) <br/> |是  <br/> |是  <br/> |
 |[查找](excel-online.md#find) <br/> |是  <br/> |是  <br/> |
@@ -191,8 +191,8 @@ Office 网页版 (以前Office Web Apps) Web 浏览器中打开 Word、Excel、O
 
 > [!NOTE] 
 > <sup>1</sup> 无法创建数据透视图，仅查看。
- <br/><sup>2</sup>根据环境的配置方式，某些种类的数据连接受工作簿中显示的Excel 网页版。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
- <br/><sup>3</sup>不能在 Excel 网页版 中用 VBA 创建或运行宏，但可以打开和编辑启用 VBA 的电子表格，而无需删除 (或损坏) 中包含的 VBA。
+ <br/><sup>2</sup>根据环境的配置方式，某些种类的数据连接受工作簿中显示的数据连接Excel 网页版。 有关详细信息，请参阅 在浏览器窗口中刷新工作簿中的数据。 
+ <br/><sup>3</sup>不能在 Excel 网页版 中用 VBA 创建或运行宏，但可以打开和编辑启用了 VBA 的电子表格， (或损坏) 中包含的 VBA。
  <br/><sup>4</sup> in Excel 网页版， the last known reference value displays in the browser window;但是，必须使用桌面应用Excel更新。 
  <br/><sup>5</sup> 某些（并非所有）Office 外接程序可用。 
   
@@ -259,7 +259,7 @@ Office 网页版 (以前Office Web Apps) Web 浏览器中打开 Word、Excel、O
 |[创建自定义动画](powerpoint-online.md#create-custom-animation) <br/> |否<sup>1</sup> <br/> |是  <br/> |
 |[设计工具，高级](powerpoint-online.md#design-tools-advanced) <br/> |否  <br/> |是  <br/> |
 |[在 Web 或博客页面上嵌入演示文稿](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |是  <br/> |否  <br/> |
-|[字体格式](powerpoint-online.md#font-formatting) <br/> |是  <br/> |是  <br/> |
+|[字体下载和格式设置](powerpoint-online.md#font-downloading-and-formatting) <br/> |是  <br/> |是  <br/> |
 |[全保真阅读视图](powerpoint-online.md#full-fidelity-reading-view) <br/> |是  <br/> |是  <br/> |
 |[完全墨迹支持](powerpoint-online.md#full-ink-support) <br/> |否  <br/> |是<sup>2</sup> <br/> |
 |[完整的动画和切换选择](powerpoint-online.md#full-selection-of-animations-and-transitions) <br/> |否<sup>1</sup> <br/> |是  <br/> |
@@ -296,7 +296,7 @@ Office 网页版 (以前Office Web Apps) Web 浏览器中打开 Word、Excel、O
 ><sup>1</sup> PowerPoint 网页版支持 8 个转换和 37 个动画的库。 若要扩大选择范围或创建自定义动画，请使用 PowerPoint 桌面应用程序。 
  <br/>
 <sup>2</sup> 使用的设备需要支持墨迹。<br/> 
-<sup>3</sup>某些（并非所有）Office外接程序可用。 <br/>
+<sup>3</sup>某些（而不是全部）Office外接程序可用。 <br/>
 <sup>4</sup> 虽然无法创建数据透视图或数据透视表，但可以在查看器中查看它们。 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>支持的文件类型Office 网页版
