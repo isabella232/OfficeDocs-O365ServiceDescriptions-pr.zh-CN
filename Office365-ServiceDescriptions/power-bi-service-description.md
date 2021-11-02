@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI是一套基于云的业务分析工具，任何人都可以以更快速、高效和更好的理解方式连接、可视化和分析数据。 通过简单易用的仪表板将用户连接到各种实时数据，提供交互式报表，并提供极具吸引力的可视化效果，使数据更加生动。
-ms.openlocfilehash: bf1a543008dcfb92496f25ab42c11abcd4d706ea
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 5ad2861794adcc13f89272d6d75ec2f7c06eb07d
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672712"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649159"
 ---
 # <a name="power-bi-service-description"></a>Power BI 服务说明
 
@@ -29,11 +29,11 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 
 下表显示了包含Power BI，以便您可以选择最符合组织需求的解决方案。 有关详细的计划信息，请参阅 [用于支持企业的强大工具](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)。
 
-有关允许用户进行订阅订阅的详细Power BI，请参阅完整的[订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
+有关允许用户进行订阅的详细信息，Power BI完整[订阅比较表](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)。
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划Power BI的主要可用功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关最新、完整的功能列表，请参阅Power BI[定价](https://powerbi.microsoft.com/pricing/)。
+下表列出了跨计划Power BI的主要功能。 某些注意事项适用。 有关详细信息，请参阅脚注。 此表可能发生更改，恕不另行通知。 有关最新、完整的功能列表，请参阅Power BI[定价](https://powerbi.microsoft.com/pricing/)。
 
 | 功能 | Power BI Pro | Power BI Premium Per User | Power BI Premium容量 |
 |---------|--------------|---------------------------|-------------------------------|
@@ -46,7 +46,7 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 | **数据准备、建模和可视化** | | | |
 | 模型大小限制 | 1 GB | 100 GB | 400 GB |
 | 刷新率 | 8/天 | 48/天 | 48/天 |
-| 连接 100 多个数据源 | 是 | 是 | 是 |
+| 连接超过 100 个数据源 | 是 | 是 | 是 |
 | 使用工具创建报表和Power BI Desktop | 是 | 是 | 是 |
 | 嵌入 API 和控件 | 是* | 是* | 是* |
 | AI 视觉对象 | 是 | 是 | 是 |
@@ -57,9 +57,9 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 | **治理和管理** | | | |
 | 数据安全性和加密 | 是 | 是 | 是 |
 | 内容创建、使用和发布的指标 | 是 | 是 | 是 |
-| 应用程序生命周期管理的部署管道 | 否 | 否 | 是 |
+| 应用程序生命周期管理的部署管道 | 否 | 是 | 是 |
 | 多地理位置部署管理 | 否 | 否 | 是 |
-| 将你自己的密钥 (BYOK)  | 否 | 否 | 是 |
+| 将自己的密钥 (BYOK)  | 否 | 否 | 是 |
 | 自动缩放加载项可用性 (预览)  | 否 | 否 | 是 |
 | 最大存储 | 10 GB/用户 | 100 TB | 100 TB |
 
@@ -70,8 +70,8 @@ Power BI 目前属于 Office 365 企业版 E5。有关详细信息，请参阅 [
 有关此Power BI，请查看以下资源：
 
 - 所有Power BI文档[：Power BI文档 - Power BI |Microsoft Docs](/power-bi/)
-- Power BI开发人员的文档：Power BI[文档 - Power BI |Microsoft Docs](/power-bi/developer/)
-- Power BI和企业的管理员文档：Power BI[和企业文档 - Power BI |Microsoft Docs](/power-bi/admin/)
+- Power BI开发人员的文档：开发人员Power BI文档[- Power BI |Microsoft Docs](/power-bi/developer/)
+- Power BI和企业的管理文档：Power BI[和企业文档 - Power BI |Microsoft Docs](/power-bi/admin/)
 - Power BI博客[：Power BI博客更新和新闻|Microsoft Power BI](https://powerbi.microsoft.com/blog/)
 - Power BI社区：[家庭 - Microsoft Power BI Community](https://community.powerbi.com/)
 
