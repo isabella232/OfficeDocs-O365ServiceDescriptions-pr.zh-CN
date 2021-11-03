@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: 822341c87a9a753f6c81a227d7ae339924cbe152
-ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
+ms.openlocfilehash: d4d7a226cabb67838159b9b70741003e9c410a19
+ms.sourcegitcommit: 879fce98f2d91420a673f0cbbd0a392536a4637a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60149404"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60649221"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -110,7 +110,7 @@ Microsoft Exchange Online 的限制可归为以下几个类别：
 | 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 企业版 E1 | Office 365 企业版 E3 | Office 365 企业版 E5 | Office 365 企业版 F3 |
 |---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|---------------------------|
 | 用户邮箱 | 50 GB | 50 GB | 50 GB | 50 GB | 100 GB | 100 GB | 2 GB |
-| 存档邮箱<sup>7、8</sup> | 50 GB | 50 GB | 50 GB | 50 GB | 1.5 TB<sup>1</sup> | 1.5 TB<sup>1</sup> | 不可用<sup>4</sup> |
+| 存档邮箱<sup>7、8</sup> | 50 GB | 50 GB | 1.5 TB<sup>1</sup> | 50 GB | 1.5 TB<sup>1</sup> | 1.5 TB<sup>1</sup> | 不可用<sup>4</sup> |
 | 共享邮箱<sup>10</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50/100 GB<sup>2，9</sup> | 50/100 GB<sup>2，9</sup> | 50 GB<sup>2</sup> |
 | 资源邮箱 | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3,9</sup> | 50 GB<sup>3,9</sup> | 50 GB<sup>3</sup> |
 | 公用文件夹邮箱 <sup>5</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> |
@@ -485,7 +485,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 | 所有传输规则中使用的所有正则表达式的字符限制 | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB |
 | 附件内容的扫描限制 | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB |
 | 所有传输规则添加到邮件的收件人的最大数目 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 |
-| 转发邮件的收件人限制 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 个收件人 | 10 个收件人 |
+| 转发邮件的收件人限制 | 10 位收件人 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 位收件人 | 10 位收件人 | 10 个收件人 |
 | 重定向邮件的次数 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 |
 | 被传输规则重定向邮件次数 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 |
 | 重定向邮件的次数 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 |
