@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: 添加域时，分步向导可帮助您添加用户并将电子邮件地址和其他服务转换为您的公司名称。 完成向导后，你的企业电子邮件将开始发送到 Microsoft，而不是发送到当前的电子邮件提供商。 若要了解更多信息，请参阅将用户和域添加到 Microsoft。 如果您使用由世纪互联运营的 Office 365，请参阅验证您的域。
-ms.openlocfilehash: 730165d82298a43af1cd9903e6bb5726e98f8ec5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+description: 添加域时，分步向导可帮助您添加用户并将电子邮件地址和其他服务转换为您的公司名称。 完成向导后，你的企业电子邮件将开始发送到 Microsoft，而不是发送到当前的电子邮件提供商。
+ms.openlocfilehash: 4f34a220e475a14dda3dba73aea3a6f843aed1c7
+ms.sourcegitcommit: 9a20cfc11c8202f2d95c7545d0a599934bcc3a1e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670317"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60805070"
 ---
 # <a name="domains"></a>域
 
@@ -27,7 +27,7 @@ ms.locfileid: "59670317"
   
 ## <a name="custom-domains"></a>自定义域
 
-您可以在订阅中添加最多 900 个域 (包括子域) 。 无法将域添加到已Microsoft 365 Microsoft 云服务中已使用的域。 这意味着不能将同一个域添加到多个订阅。 有关详细信息，请参阅域 [常见问题](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)解答。
+您最多可以将 5000 个域添加到订阅 (包括子域) 。 无法将域添加到已Microsoft 365 Microsoft 云服务中已使用的域。 此限制还意味着不能将同一个域添加到多个订阅。 有关详细信息，请参阅域 [常见问题](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a)解答。
   
 ### <a name="second-and-third-level-domains"></a>第二级域和第三级域
 
@@ -43,13 +43,13 @@ ms.locfileid: "59670317"
   
 无论您的 DNS 记录在何处托管，都可以将 DNS 记录设置为将域用于 Microsoft 或其他宿主提供商托管的公共网站的 URL。 
   
-Microsoft 主动检查 DNS 记录，以查找并帮助解决 DNS 问题。 如果您的 DNS 记录与我们希望的不匹配，您将收到 Microsoft 365 管理中心 中的通知，以及告诉您如何解决已识别的可能问题的信息。
+Microsoft 主动检查 DNS 记录，以查找并帮助解决 DNS 问题。 如果 DNS 记录与我们希望的不匹配，你将在 Microsoft 365 管理中心 中收到通知，以及告诉您如何解决已识别的可能问题的信息。
   
 有关详细信息，请参阅 Microsoft 如何管理[DNS](/office365/admin/setup/domains-faq)记录，或者，对于由世纪Office 365运营的 DNS 记录，请参阅管理 DNS 记录时Office 365创建 DNS[记录](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)。
   
 ## <a name="sharing-a-domain"></a>共享域
 
-你可以试用 Microsoft 上的域的一些电子邮件地址，以及之前的电子邮件提供商的一些电子邮件地址。 建议仅在试点期间使用，因为它需要额外的设置步骤，并且对Microsoft 服务。 有关详细信息，请参阅：
+你可以试用 Microsoft 上的域的一些电子邮件地址，以及之前的电子邮件提供商的一些电子邮件地址。 建议仅在试点期间使用，因为它需要额外的设置步骤，并且对Microsoft 服务。 有关更多信息，请参阅：
   
 - [小型企业Microsoft 365试用](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
