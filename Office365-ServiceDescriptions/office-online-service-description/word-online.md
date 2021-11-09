@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word 网页版 (之前Word Web App) 将 Microsoft Word 体验扩展到 Web 浏览器，您可以在 Web 浏览器中直接在存储文档的网站上处理文档。
-ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1e1bc88173d5d08b9de57f5b4fff4c68d4b42709
+ms.sourcegitcommit: 3c16d42d1452bdf367cd49545e56a893ca8f031a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672722"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60884848"
 ---
 # <a name="word-for-the-web"></a>Word 网页版
 
@@ -35,7 +35,7 @@ Word 网页版 (之前Word Web App) 将 Microsoft Word 体验扩展到 Web 浏�
   
 ## <a name="office-add-ins"></a>Office 外接程序
 
-可以从 Office 应用商店获取 Word 外接程序。 Office加载项仅适用于 Word 桌面应用，在 word 桌面应用中Word 网页版。 了解如何[获取 Word 外接程序](https://go.microsoft.com/fwlink/?LinkId=391443)。
+可以从 Office 应用商店获取 Word 外接程序。 了解如何[获取 Word 外接程序](https://go.microsoft.com/fwlink/?LinkId=391443)。
   
 ## <a name="autosave"></a>自动保存
 
@@ -63,11 +63,11 @@ Word 网页版进行更改时自动保存文档。
   
 ## <a name="clipboard"></a>剪贴板
 
-由于 Web 浏览器技术的限制，在 web 浏览器中复制和粘贴Office 网页版与在桌面应用程序中复制和粘贴文本Office不同。 详细了解如何[复制并粘贴到Office 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=282321)
+由于 Web 浏览器技术的限制，在 web 浏览器中复制和粘贴文本Office 网页版与在桌面应用程序中复制和粘贴文本Office不同。 详细了解如何[复制并粘贴到Office 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=282321)
   
 ## <a name="collaboration-advanced"></a>协作、高级
 
-在 Word 网页版 中不可用。 启用"跟踪更改"以及合并、比较和组合文档等高级协作功能仅在 Word 桌面应用程序中可用。 按预期方式，在"查看"模式下Word 网页版跟踪的更改将显示在"编辑"模式中。
+在 Word 网页版 中不可用。 启用"跟踪更改"以及合并、比较和组合文档等高级协作功能仅在 Word 桌面应用程序中可用。 按预期方式，在"查看"模式下Word 网页版跟踪的更改将显示在"更改"中。
   
 ## <a name="content-controls"></a>内容控制
 
@@ -75,15 +75,15 @@ Word 网页版进行更改时自动保存文档。
   
 ## <a name="cover-pages"></a>封面页
 
-Microsoft Word 提供预设计的便捷封面库。你可以轻松地选择一个封面，并用自己的文本替换示例文本。
+Microsoft Word 提供预设计的便捷封面库。 你可以选择封面，将示例文本替换为你自己的文本。
   
-## <a name="creation-of-advanced-document-elements"></a>高级文档元素的创建
+## <a name="creation-of-advanced-document-elements"></a>Creation of advanced document elements
 
-在 Word 网页版 中不可用。 自动图文集、封面、书目、目录、索引、公式、水印等高级文档元素仅在 Word 桌面应用程序中可用。 
+在 Word 网页版 中不可用。 自动图文集、封面、书目、目录、索引、公式、水印等高级文档元素仅在 Word 桌面应用程序中可用。
   
 ## <a name="document-parts-and-themes"></a>文档部件和主题
 
-在 Word 网页版 中不可用。 内容控件、预先设置格式的配色方案和字体方案集合、图形效果预先设定等文档部件和主题仅在 Word 桌面应用程序中可用。 
+在 Word 网页版 中不可用。 内容控件、预先设置格式的配色方案和字体方案集合、图形效果预先设定等文档部件和主题仅在 Word 桌面应用程序中可用。
   
 ## <a name="document-translation"></a>文档翻译
 
@@ -111,7 +111,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="full-fidelity-reading-view"></a>Full fidelity reading view
 
-在打开文档时OneDrive或SharePoint，Word 网页版浏览器中打开文档。 布局和格式与您在 Word 桌面应用程序中的“打印布局”视图下打开文档时看到的一样。
+当您在 OneDrive 或 SharePoint 中打开Word 网页版，Word 网页版浏览器中打开文档。 布局和格式与您在 Word 桌面应用程序中的“打印布局”视图下打开文档时看到的一样。
   
 ## <a name="graphic-effect-presets"></a>图形效果预设
 
@@ -123,7 +123,7 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-使用 Word 网页版，可以轻松创建指向文档中书签的链接，并设置当光标指向链接时显示的屏幕提示。 详细了解有关 Word 网页版[中的超链接](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
+使用Word 网页版，可以轻松创建指向文档中书签的链接，并设置当光标指向链接时显示的屏幕提示。 详细了解有关 Word 网页版 中的[超链接](https://go.microsoft.com/fwlink/p/?LinkId=271863)。
   
 ## <a name="index"></a>索引
 
@@ -131,11 +131,11 @@ Microsoft Word 包含对写入和编辑公式，以及可以拖放到文档中�
   
 ## <a name="insert-online-pictures"></a>Insert online pictures
 
-使用 Word 网页版，你可以插入保存在本地硬盘驱动器上的文件或图像必应图片。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
+使用 Word 网页版，可以插入保存在本地硬盘驱动器上的文件或图像必应图片。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="irm-and-password-protection"></a>IRM 和密码保护
 
-Word 网页版 IRM 文件的信息权限管理 (保护) 。 但是，这些文档无法编辑在浏览器中，并且不能创建受 IRM 保护Word 网页版。 Word 网页版无法打开使用密码加密的文档。 高级文档保护功能（如创建受 IRM 保护的文档和应用密码保护）仅在 Word 桌面应用程序中可用。
+Word 网页版使用信息权限管理或 IRM 文件 (文档) 。 但是，这些文档无法编辑在浏览器中，并且不能创建受 IRM 保护Word 网页版。 Word 网页版无法打开使用密码加密的文档。 高级文档保护功能（如创建受 IRM 保护的文档和应用密码保护）仅在 Word 桌面应用程序中可用。
   
 ## <a name="learning-tools"></a>学习工具
 
@@ -143,7 +143,7 @@ Word 网页版 IRM 文件的信息权限管理 (保护) 。 但是，这些文�
   
 ## <a name="lists"></a>列表
 
-在Word 网页版中，开始直接在已有编号列表下方键入，下一行将自动成为列表的一部分。 详细了解如何[创建列表Word 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=397307)
+在Word 网页版中，开始直接在已有编号列表下方键入，下一行将自动成为列表的一部分。 了解有关在["列表"中Word 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=397307)
   
 ## <a name="mail-merge"></a>Mail merge
 
@@ -151,7 +151,7 @@ Word 网页版 IRM 文件的信息权限管理 (保护) 。 但是，这些文�
   
 ## <a name="offline-viewing-and-authoring"></a>脱机查看和创作
 
-在 Word 网页版 中不可用。 Office 网页版需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Word 桌面应用程序，以在断开与 Internet 或组织的本地 Web Apps Server 的连接时查看和编辑Office文档。 如果已安装 Word 桌面应用程序，可以使用 Word 的完整功能查看和编辑文档。 保存后，联机文档会进行更新，以反映你的更改。 还可以下载文档并另存为脱机副本，但此副本不会与联机版本同步。 详细了解 [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
+在 Word 网页版 中不可用。 Office 网页版需要 Internet 连接和 Internet 浏览器。 您需要在计算机上安装 Word 桌面应用程序，以便查看和编辑与 Internet 或组织的本地 Web Apps Server Office文档。 如果已安装 Word 桌面应用程序，可以使用 Word 的完整功能查看和编辑文档。 保存后，联机文档会进行更新，以反映你的更改。 还可以下载文档并另存为脱机副本，但此副本不会与联机版本同步。 详细了解 [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)。
   
 ## <a name="page-breaks"></a>Page breaks
 
@@ -159,7 +159,7 @@ Word 网页版 IRM 文件的信息权限管理 (保护) 。 但是，这些文�
   
 ## <a name="page-layout-tools"></a>Page layout tools
 
-使用 Word 网页版，可以调整页边距、纸张大小以及页面在文档中是垂直布局还是水平布局。 Word 网页版不显示标尺和网格线。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。 
+使用 Word 网页版，可以调整页边距、纸张大小，以及页面在文档中是垂直布局还是水平布局。 Word 网页版不显示标尺和网格线。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。 
   
 了解如何删除[页面中的空白Word 网页版。](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1)
   
@@ -177,7 +177,7 @@ Word 网页版 IRM 文件的信息权限管理 (保护) 。 但是，这些文�
   
 ## <a name="picture-tools"></a>Picture tools
 
-使用Word 网页版，您可以调整图片大小，并添加文档中的可选文本。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
+使用Word 网页版，您可以调整图片的大小，并添加文档中的可选文本。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="preformatted-font-and-color-schemes"></a>预设格式的字体和配色方案
 
@@ -233,11 +233,11 @@ Word 网页版键入时自动检查拼写，对拼写错误的文本应用红色
   
 ## <a name="save-as-pdf"></a>另存为 PDF
 
-您可以使用Word 网页版文件保存或转换为 PDF，以便可以使用商业打印机共享或打印这些文件。 该过程不需要任何其他软件或外接程序。
+您可以使用Word 网页版文件或将文件转换为 PDF，以便可以使用商业打印机共享或打印这些文件。 该过程不需要任何其他软件或外接程序。
   
 ## <a name="share"></a>共享
 
-使用 Word 网页版，只需单击一次即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
+通过Word 网页版，只需单击一次即可发送链接，其他人可以使用该链接查看或编辑文档。 详细了解[浏览器和 Word 中文档用法的差异](https://go.microsoft.com/fwlink/p/?LinkId=271859)。
   
 ## <a name="simple-table-creation"></a>Simple table creation
 
@@ -261,11 +261,11 @@ Word 网页版键入时自动检查拼写，对拼写错误的文本应用红色
   
 ## <a name="tell-me"></a>操作说明搜索
 
-当你需要在任务中完成Word 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到您寻找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
+当你需要在任务中完成Word 网页版不知道如何完成时，可以使用"告诉我"搜索功能来快速找到要查找的内容。 "告诉我"可以理解您要完成的事项，并通过给出建议的方式帮助您更快地做到这一点。
   
 ## <a name="translation-service"></a>转换服务
 
-您可以翻译文本，无论是整个文件、短语的选定单词，还是单个单词，都可以使用 Word 网页版。 
+您可以使用翻译工具翻译文本，无论是整个文件、短语的选定单词还是单个单词Word 网页版。 
   
 ## <a name="undo-and-redo"></a>撤消和恢复
 
@@ -289,11 +289,11 @@ Word 网页版为您提供文档中的单词的粗略计数。 了解有关 word
   
 ## <a name="zoom"></a>缩放
 
-缩放在查看模式下可用。 使用 Word 网页版，在"编辑"模式下使用浏览器的视图设置进行放大或缩小。 了解有关 word count in [Word 网页版 中Word 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=271864)
+缩放在查看模式下可用。 使用Word 网页版，在"编辑"模式下使用浏览器的视图设置进行放大或缩小。 了解有关 word count in [Word 网页版 中Word 网页版。](https://go.microsoft.com/fwlink/p/?LinkId=271864)
   
 ## <a name="feature-availability"></a>功能可用性
 
-若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Office 网页版[服务说明](office-online-service-description.md)。 
+若要查看跨计划、独立选项和本地解决方案的功能可用性，请参阅Office 网页版[说明](office-online-service-description.md)。 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>操作参数限制和规范
 
