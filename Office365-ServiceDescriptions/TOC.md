@@ -21,12 +21,12 @@
 ### [服务运行状况和连续性](office-365-platform-service-description/service-health-and-continuity.md)
 ### [报表](office-365-platform-service-description/reports.md)
 ### [移动设备](office-365-platform-service-description/mobile-devices-sd.md)
+#### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [支持](office-365-platform-service-description/support.md)
 ### [服务更新](office-365-platform-service-description/service-updates.md)
 ### [帮助和培训](office-365-platform-service-description/help-and-training.md)
 ### [网络](office-365-platform-service-description/networking.md)
 ### [隐私、安全性和透明度](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [合作伙伴](office-365-platform-service-description/partners.md)
 ### [服务级别协议](office-365-platform-service-description/service-level-agreement.md)
 ### [产品使用权限](office-365-platform-service-description/product-use-rights.md)
@@ -103,8 +103,6 @@
 ## [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
 ### 在 Yammer 中[Limits](yammer-service-description/yammer-limits.md)
 ## Microsoft 365 服务说明
-### [Microsoft 365 商业高级版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
-
 ### [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Microsoft 365 安全性与合规性指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Microsoft 365 合规性计划 - DoD 部署](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 95594a456d6c0c5ef10c7133ffb4b2298866ec76
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: f7da183c2b55b8f697bd54d528ecc8a0fdead9f8
+ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669987"
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "60963522"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
@@ -29,16 +29,16 @@ Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对�
 
 若要跨计划比较功能，请参阅[](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)以下列表中用于支持企业的强大工具或相关服务说明。 
   
-有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/)documentation [for admins and IT professionals](/office/)和 Microsoft 365 help center for [admins and IT pros。](/microsoft-365/)
+有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/)documentation [for admins and IT professionals](/office/)和 Microsoft 365 help center for [admins and IT pros（](/microsoft-365/)适用于管理员和 IT 专业人员的 Microsoft 365 帮助中心）。
   
 > [!NOTE]
-> 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择Office 365版本的产品功能。 
+> 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择Office 365您需求的产品功能可用性表。 
   
-Microsoft 为符合条件的FastTrack中符合条件的Office 365提供中心权益。 这一优势使你能够与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合FastTrack计划中符合条件的Office 365提供中心权益。 这一优势使你能够与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
-- [Microsoft 365和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365和Office 365平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office 应用程序服务说明](office-applications-service-description/office-applications-service-description.md)
 
@@ -74,7 +74,7 @@ Microsoft 为符合条件的FastTrack中符合条件的Office 365提供中心权
 
 - [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
 
-- [Microsoft 365 商业高级版服务说明](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [比较所有Microsoft 365业务产品](/microsoft-365/business/compare-all-microsoft-365-business-products)
 
 - [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 
