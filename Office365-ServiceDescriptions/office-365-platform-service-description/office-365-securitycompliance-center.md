@@ -15,7 +15,7 @@ ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/16/2021
-ms.locfileid: "61042138"
+ms.locfileid: "61036060"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -103,7 +103,7 @@ ms.locfileid: "61042138"
 
 <sup>7</sup>包括存储在Microsoft Teams中的文件。
 
-<sup>8</sup> 包含基本审核的所有计划的审核日志将保留 90 天。 此外，您可以使用统一[Office 365活动 API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一管理审核日志。
+<sup>8</sup> 包含基本审核的所有计划的审核日志将保留 90 天。 此外，您还可以使用[Office 365 活动 API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一管理活动审核日志。
 
 <sup>9</sup> Office 365数据丢失防护加载项。
 
