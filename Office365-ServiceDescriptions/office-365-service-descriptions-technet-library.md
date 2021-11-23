@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: f7da183c2b55b8f697bd54d528ecc8a0fdead9f8
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+description: Microsoft 365和Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
+ms.openlocfilehash: 3e25e85519f8085a4a8b6a7bee2084483f499444
+ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963522"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61142409"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
-Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
+Microsoft 365和Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。 
   
 此库中的文章详细说明了可用于 Microsoft 365 和 Office 365。 有关 Microsoft Dynamics 365 商业版应用程序的信息，请参阅 [Microsoft Dynamics 365 文档](/dynamics365/)。
 
@@ -34,11 +34,11 @@ Microsoft 365和 Office 365 是基于云的服务，旨在帮助满足组织对�
 > [!NOTE]
 > 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择Office 365您需求的产品功能可用性表。 
   
-Microsoft 为符合FastTrack计划中符合条件的Office 365提供中心权益。 这一优势使你能够与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合FastTrack计划中符合条件的Office 365提供中心权益。 利用该优势，你可以与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
-- [Microsoft 365和Office 365平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Office 应用程序服务说明](office-applications-service-description/office-applications-service-description.md)
 
@@ -76,7 +76,7 @@ Microsoft 为符合FastTrack计划中符合条件的Office 365提供中心权益
 
 - [比较所有Microsoft 365业务产品](/microsoft-365/business/compare-all-microsoft-365-business-products)
 
-- [Microsoft 365 针对中小型企业的许可](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+- [Microsoft 365 中小型企业](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)
 
 - [Microsoft 365 安全性与合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
