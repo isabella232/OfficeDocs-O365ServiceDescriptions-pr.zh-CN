@@ -10,6 +10,11 @@
       "redirect_url": "/microsoft-365/business/compare-all-microsoft-365-business-products",
       "redirect_document_id": false
     },
+	{
+      "source_path": "Office365-ServiceDescriptions/microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md",
+      "redirect_url": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products",
+      "redirect_document_id": false
+    },
     {
       "source_path": "office365-ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md",
       "redirect_url": "/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance",
