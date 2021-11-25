@@ -13,7 +13,7 @@
 #### [适用于美国政府的 SharePoint](office-365-platform-service-description\office-365-us-government\sharepoint.md)
 #### [适用于美国政府的 Exchange Online](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [由世纪互联运营的 Office 365](office-365-platform-service-description/office-365-operated-by-21vianet.md)
-### [Office 365 德国版](office-365-platform-service-description/office-365-germany.md)
+### [Office 365 德国版](https://aka.ms/germanymigrateassist)
 ### [Office 365 教育版](office-365-platform-service-description/office-365-education.md)
 ### [Microsoft 365 教育版](office-365-platform-service-description/microsoft-365-education.md)
 ### [用户帐户管理](office-365-platform-service-description/user-account-management.md)
