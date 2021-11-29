@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365各种Office 365计划都提供了一些解决方案和解决方案，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括Exchange Online计划，本文将介绍每个计划中包含的功能。
-ms.openlocfilehash: c9f93fb004be100b5f06e1fbdfef27def0363810
-ms.sourcegitcommit: 6075a8fc1619a1ab6ebd1ff80f6ddfab4a45fe3c
+ms.openlocfilehash: eacff992dcd69b9a7dad0bae0c2de0e8578f4350
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2021
-ms.locfileid: "61153231"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216864"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
@@ -83,8 +83,8 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
     
 - 非营利组织[：比较Microsoft 365 Office 365非营利组织的优惠](https://go.microsoft.com/fwlink/?LinkID=733237)
 
-- Office 365 Germany:[Office 365 Germany 计划](https://go.microsoft.com/fwlink/?linkid=839016)
-    
+- Office 365德国已停用。 有关详细信息，请参阅 [Microsoft Cloud Deutschland transition](https://www.microsoft.com/cloud-platform/germany-cloud-regions)。
+
 一些Microsoft 365商业版计划具有可购买订阅的加载项。 附加内容可为订阅提供其他功能。 有关详细信息，请参阅 [购买或管理加载项](/microsoft-365/commerce/buy-or-edit-an-add-on)。
 <br><br>
   
@@ -118,7 +118,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |使用 .csv 文件批量上载  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |目录同步工具  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Exchange 简单（直接转换）迁移  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
-|删除帐户并重置用户密码Microsoft 365或通过使用 Windows PowerShell<sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|删除帐户并重置用户密码，Microsoft 365<sup>3 Windows PowerShell重置用户密码</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |用户可以更改自己的密码<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |管理许可证  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
 |从安全组管理Microsoft 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -198,7 +198,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |FISMA 操作授权  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Microsoft 数据处理协议  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |PCI 监管的 PAN 数据  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
-|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> **Office 365 Germany 商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 商业基础版** <br/> |**Microsoft 365 商业应用版** <br/> |**Microsoft 365 商业标准版** <br/> **商业高级版** <br/> |**Office 365 企业版 E1** <br/> |**Office 365 企业版 E3** <br/> |**Office 365 企业版 E5** <br/> |**Office 365 企业版 F3** <br/> |
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |**[合作伙伴](partners.md)** <br/> ||||||||
 |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -220,7 +220,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 <br/><sup>15</sup> Advanced eDiscovery美国和西欧地区以及荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据将导出到美国。 将来自欧洲、中东和非洲的客户数据导出到西欧 [荷兰]) 
 <br/><sup>16</sup>从 2019 年 5 月开始，现有符合条件的 Office 365 和 Microsoft 365 将用 Kaizala 专业版。 从 2019 年 6 月 1 Kaizala 专业版，所有符合条件的 SK 和 SK 中Office 365 Microsoft 365内容。 有关此Microsoft Kaizala，[请参阅](https://products.office.com/business/microsoft-kaizala)Microsoft Kaizala。
 <br/><sup>17</sup> 有关详细信息，请参阅 [MyAnalytics 计划和环境](/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>18</sup>包括Azure Active Directory定价页上的 **Office 365 Apps** 列中描述的Azure Active Directory [功能](https://azure.microsoft.com/pricing/details/active-directory/)。 必须添加Azure Active Directory计划 1 或计划 2、Enterprise 移动安全或 Microsoft 365 E3 或 E5，才能获得高级Azure AD功能。<br/>
+<br/><sup>18</sup>包括Azure Active Directory定价页上的 **Office 365 应用** Azure Active Directory [中描述的](https://azure.microsoft.com/pricing/details/active-directory/)Azure Active Directory功能。 必须添加Azure Active Directory计划 1 或计划 2、Enterprise 移动安全、Microsoft 365 E3 或 E5 才能获得高级Azure AD功能。<br/>
 <sup>19</sup>系统会自动将"简介"电子邮件提供给 Exchange Online。 有关详细信息，请参阅配置 [简介电子邮件](/Briefing/be-admin)。<br>
 <sup>20</sup>向用户提供对 Web Project仅查看访问权限。 这些权限仅限于与 Web 应用程序的 Project 一同使用，并且仅适用于拥有 Project 计划 1、Project 计划 3 或 Project 计划 5 许可证的租户。 这些权限不会授予对 Power Platform 应用程序或其他数据集、Project Online客户端或 Project Online。 有关功能的详细信息，请参阅 Microsoft Project[服务说明](../project-online-service-description/project-online-service-description.md)。<br/>
 <sup>21</sup> Microsoft 365中的审核使组织能够查看组织中跨不同服务的Microsoft 365。 使用 [安全 &amp; 合规中心](./office-365-securitycompliance-center.md) 审核日志搜索来查看你的组织的用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录保留(并可在审核日志中搜索)的时间长度取决于客户的Office 365或Microsoft 365企业订阅以及分配给特定用户的许可证类型。

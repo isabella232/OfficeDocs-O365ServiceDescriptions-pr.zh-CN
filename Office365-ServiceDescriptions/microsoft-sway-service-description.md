@@ -8,27 +8,24 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: 了解 Microsoft Sway 如何使用基于 Web 的交互式画布来帮助你和同事表达想法。
-ms.openlocfilehash: 28969b36aaad9e3dc67497a13661ba78367c23bb
-ms.sourcegitcommit: 6ff9fc56c48694dbd4fcb88325cf93472d242124
+ms.openlocfilehash: 18591bca14963d914901da9500c370bd435e9992
+ms.sourcegitcommit: 9a4daf55770c42ccb89f0301f0dae1d5cbd1a382
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2021
-ms.locfileid: "61126949"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61216884"
 ---
 # <a name="microsoft-sway-service-description"></a>Microsoft Sway 服务说明
 
 Sway 是Microsoft 365应用，可帮助你和同事使用基于 Web 的交互式画布表达想法。 Sway 的设计引擎可帮助你快速轻松地从图像、文本、文档、视频、地图等生成专业、交互且外观吸引人的设计。 还可以修改结果，以获得所需的独特外观。 Sway 可使你的创建在任何浏览器、任何屏幕上都显示出色的外观，并且可以通过发送链接与客户和同事共享它。 若要了解更多信息，请参阅[欢迎使用 Sway。](https://sway.com)
 
-> [!NOTE]
-> Microsoft Sway 尚未在德国Office 365[可用](/office365/servicedescriptions/office-365-platform-service-description/office-365-germany)。
-
 ## <a name="available-plans"></a>可用计划
 
-Sway 可免费供拥有 Microsoft 帐户 (Hotmail、Live 或 Outlook.com) 。 使用 Sway 作为 M365 订阅的一部分时，可以创建包含更多内容的更复杂的 Sway。 有关详细信息，请参阅使用"向[Sways 添加更多Microsoft 365"。](https://support.microsoft.com/office/add-more-content-to-your-sways-with-microsoft-365-87392bc1-7a34-46b3-bfd1-74fdb3af50c4) 有关为 Microsoft Sway 启用用户的订阅的详细计划信息，请参阅 [Microsoft 解决方案比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Sway 可免费供拥有 Microsoft 帐户 (Hotmail、Live 或 Outlook.com) 。 使用 Sway 作为 M365 订阅的一部分时，可以创建包含更多内容的更复杂的 Sway。 有关详细信息，请参阅使用"[向 Sways 添加Microsoft 365"。](https://support.microsoft.com/office/add-more-content-to-your-sways-with-microsoft-365-87392bc1-7a34-46b3-bfd1-74fdb3af50c4) 有关为 Microsoft Sway 启用用户的订阅的详细计划信息，请参阅 [Microsoft 解决方案比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划提供的主要 Microsoft Sway 功能 (一些注意事项;有关详细信息，请参阅脚注。 此表可能会更改，无需通知。) 。 有关 Microsoft Sway 功能最新信息，请参阅 [Sway ](https://support.microsoft.com/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a) (microsoft.com) 入门。
+下表列出了跨计划提供的主要 Microsoft Sway 功能 (一些注意事项;有关详细信息，请参阅脚注。 此表可能会更改，无需通知。) 。 有关 Microsoft Sway 功能最新信息，请参阅 [Sway ](https://support.microsoft.com/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a) (microsoft.com) 。
 
 | 功能 | 消费者 (免费)  | 个人 M365 | M365 商业版 | M365 Enterprise | M365 教育版 |
 | --- | --- | --- | --- | --- | --- |
@@ -65,7 +62,7 @@ Sway 可免费供拥有 Microsoft 帐户 (Hotmail、Live 或 Outlook.com) 。 �
 - 有关简介，请转到 [Sway 简介](https://education.microsoft.com/resource/67e43b8e)。
 - 有关帮助和学习，请转到[Sway 帮助& Learning。](https://support.microsoft.com/sway)
 - 访问 [sway.office.com](https://sway.office.com) 浏览器，无论平台或设备是什么。
-- 在应用中查找适用于你的 Windows 10 设备的免费 Sway [Microsoft Store。](https://go.microsoft.com/fwlink/?LinkId=797619)
+- 在应用中查找适用于 Windows 10 设备的免费 Sway [Microsoft Store。](https://go.microsoft.com/fwlink/?LinkId=797619)
 
 ### <a name="licensing-terms"></a>许可条款
 
