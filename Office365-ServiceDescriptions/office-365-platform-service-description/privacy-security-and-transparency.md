@@ -12,17 +12,17 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 Microsoft 信任中心。
-ms.openlocfilehash: b25a747d5ebb4c8941d2c3e1f592f57d964f7e98
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3c0d7a1ee00bcae4c57a7cbdc924d5bba1906248
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672980"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234873"
 ---
 # <a name="privacy-security-and-transparency"></a>隐私、安全性和透明度
 
 > [!NOTE]
-> 本文中的信息适用于 Office 365 的全球各种版本。如果使用的是 Office 365 国家/地区云实例（包括 Office 365 美国政府版、Office 365 Germany 和由世纪互联运营的 Office 365），请参阅 [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582)（Microsoft 国家/地区云）。 
+> 本文中的信息适用于 Office 365 的全球各种版本。 如果你使用的是由世纪Office 365（Office 365美国政府）和由世纪Office 365运营的 Microsoft[国家](https://go.microsoft.com/fwlink/?linkid=841582)云。 
   
 Microsoft 重视与客户的合作关系，并且非常注重保护客户数据的隐私和安全性。有关更多信息，请参阅 [Microsoft 信任中心](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409)。
   
@@ -54,7 +54,7 @@ Microsoft 重视与客户的合作关系，并且非常注重保护客户数据�
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-Defender for Office 365 可帮助保护你的组织免受恶意软件和病毒的攻击。 Defender for Office 365包括[保险箱、保险箱](/office365/securitycompliance/atp-safe-links)[附件](/office365/securitycompliance/atp-safe-attachments)、[防](/office365/securitycompliance/atp-anti-phishing)钓鱼和欺骗[智能功能](/office365/securitycompliance/learn-about-spoof-intelligence)。 保险箱链接可主动保护用户免受邮件中恶意超链接的攻击，每次选择链接时都会提供保护。 保险箱附件可抵御未知恶意软件和病毒，将没有已知病毒/恶意软件签名的所有邮件和附件路由到 Defender for Office 365 可检测恶意意图的特殊环境。 有关 Defender for Office 365，请参阅 Microsoft [Defender for Office 365 服务说明](../office-365-advanced-threat-protection-service-description.md)。
+Defender for Office 365 可帮助保护你的组织免受恶意软件和病毒的攻击。 Defender for Office 365包括[保险箱、保险箱](/office365/securitycompliance/atp-safe-links)[附件](/office365/securitycompliance/atp-safe-attachments)、[防](/office365/securitycompliance/atp-anti-phishing)钓鱼和欺骗[智能功能](/office365/securitycompliance/learn-about-spoof-intelligence)。 保险箱链接可主动保护用户免受邮件中恶意超链接的攻击，每次选择链接时都会提供保护。 保险箱 附件可抵御未知恶意软件和病毒，将没有已知病毒/恶意软件签名的所有邮件和附件路由到 Defender for Office 365 可检测恶意意图的特殊环境。 有关 Defender for Office 365，请参阅 Microsoft [Defender for Office 365 服务说明](../office-365-advanced-threat-protection-service-description.md)。
   
 ## <a name="feature-availability"></a>功能可用性
 

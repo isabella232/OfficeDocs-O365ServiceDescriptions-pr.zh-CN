@@ -9,23 +9,23 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: 安全 &amp; 与合规中心旨在帮助你管理组织中Office 365合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
-ms.openlocfilehash: bf79bfef4a948e9427e0b7071fca9d6c5410c2ae
-ms.sourcegitcommit: b24fb74e5bfb22de5d591cc3a2f48d46b736a560
+description: 安全 &amp; 与合规中心旨在帮助你管理组织中跨Office 365合规性功能。 到现有的 SharePoint 和 Exchange 合规性功能的链接集合了 Office 365 的合规性功能。
+ms.openlocfilehash: 4bc51a522e561084152fa98554567c8195900a21
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61036060"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234833"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-[Microsoft 365](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx)安全中心[、Microsoft 365 合规中心](https://sip.security.microsoft.com/homepage)和 Exchange 管理中心专为统一安全性[](https://sip.compliance.microsoft.com/homepage)、合规性和邮件流管理设计，包括现有功能和新的增强体验，可跨 Microsoft 365服务。 这些新中心将逐渐取代Office 365 &amp; 合规中心 (protection.office.com) 。 现在可以在安全中心或合规中心启用自动重定向[](https://sip.security.microsoft.com/homepage)，以便你的[](https://sip.compliance.microsoft.com/homepage)组织的管理员立即从 Office 365 安全与合规中心的功能重定向到新中心中的相应 &amp; 功能。
+[Microsoft 365](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx)安全中心[、Microsoft 365 合规中心](https://sip.security.microsoft.com/homepage)和 Exchange 管理中心专为统一安全[](https://sip.compliance.microsoft.com/homepage)、合规性和邮件流管理设计，包括现有功能和新的增强体验，可跨 Microsoft 365服务。 这些新中心将逐渐替换Office 365 &amp; 合规中心 (protection.office.com) 。 现在可以在安全中心或合规中心启用自动重定向[](https://sip.security.microsoft.com/homepage)，以便你的[](https://sip.compliance.microsoft.com/homepage)组织的管理员立即从 Office 365 安全与合规中心的功能重定向到新中心中的相应 &amp; 功能。
 
-若要查看允许用户从合规性功能Microsoft 365的选项，请下载比较Microsoft 365[表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+若要查看允许用户从合规性功能Microsoft 365的选项，请下载Microsoft 365[表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>适用于 &amp; 企业计划的安全与合规中心可用性
 
-| 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1，Office 365美国政府 G1 | Office 365 E3、Office 365美国政府版 G3 | Office 365 E5 |Office 365 G5 | Office 365 F3、Office 365美国政府版 F3|
+| 功能 | Microsoft 365 商业基础版 | Microsoft 365 商业标准版 | Microsoft 365 商业高级版 | Office 365 E1，Office 365美国政府 G1 | Office 365 E3，Office 365美国政府版 G3 | Office 365 E5 |Office 365 G5 | Office 365 F3、Office 365美国政府版 F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[访问安全 &amp; 与合规中心](/office365/securitycompliance/go-to-the-securitycompliance-center)  |是   |是   |是   |是   |是   |是   |是   |是   |
 |[Office 365 云应用安全](/cloud-app-security/what-is-cloud-app-security) | 否 | 否 |否 | 否 | 否 | 是 | 是  |   |
@@ -33,7 +33,7 @@ ms.locfileid: "61036060"
 |[高级威胁管理，例如网络钓鱼活动的威胁资源管理器](/microsoft-365/security/office-365-security/office-365-ti)<sup>6</sup> | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
 |[客户密码箱](/microsoft-365/compliance/customer-lockbox-requests) | 否 | 否 | 否 | 否 | 否 | 是 | 是  | 否  |
 |[移动设备管理](/microsoft-365/admin/basic-mobility-security/set-up) | 是 | 是 | 是 | 是 | 是 | 是 | 是 | 是 |
-|[Exchange Online online、SharePoint Online](/microsoft-365/compliance/data-loss-prevention-policies)和 OneDrive for Business<sup>7，9</sup>的数据丢失防护 | 否 | 否 | 是 | 否 | 是 | 是 | 否 | 否 |
+|[Exchange Online online、SharePoint Online](/microsoft-365/compliance/data-loss-prevention-policies)和 OneDrive for Business<sup>7，9 的数据丢失防护</sup> | 否 | 否 | 是 | 否 | 是 | 是 | 否 | 否 |
 |[针对用户的通信数据丢失Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | 否 | 否 | 否 | 否 | 否 | 是 | 否 |  |
 |[手动敏感度标签](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | 否 | 否 | 是 | 是 | 是 | 是 | 是 | 否 |
 |自动敏感度标签 | 否 | 否 |否 | 否 | 否 | 是 | 是 | 否 |
@@ -71,7 +71,7 @@ ms.locfileid: "61036060"
 |[高级威胁管理](/office365/securitycompliance/office-365-ti)，例如网络钓鱼活动的威胁资源管理器   |否   |否   |否   |否   |否   |否   |否   |否   |否  |
 |[客户密码箱](/office365/securitycompliance/customer-lockbox-requests)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
 |[移动设备管理](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |是   |是   |是   |是   |是   |是   |是   |是   |是   |
-|[Exchange Online、SharePoint Online](/office365/securitycompliance/data-loss-prevention-policies)和 OneDrive for Business<sup>9 的数据丢失防护</sup>  |否   |是   |否   |否   |是 <sup>7<sup>  |否  |是<sup>10</sup> |否   |是   |
+|[Exchange Online、SharePoint Online 和 OneDrive for Business](/office365/securitycompliance/data-loss-prevention-policies)<sup>9 的数据丢失防护</sup>  |否   |是   |否   |否   |是 <sup>7<sup>  |否  |是<sup>10</sup> |否   |是   |
 |[针对用户的通信数据丢失Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
 |[信息屏障](/office365/securitycompliance/information-barriers)  |否   |否   |否   |否   |否   |否   |否   |否   |否   |
 |[信息治理](/office365/securitycompliance/retention-policies)<sup>1</sup>  |是<sup>2</sup>  |是   |是   |是   |是   |是<sup>10</sup>  |是<sup>10</sup>  |是   |是   |
@@ -89,21 +89,21 @@ ms.locfileid: "61036060"
 |[Office 365 高级邮件加密](/microsoft-365/compliance/ome-advanced-message-encryption)  |否   |否   |否   |否   |是   |否   |否|否|否|
 |[Privileged Access Management](/microsoft-365/compliance/privileged-access-management-overview)  |否   |否   |否   |否   |是   |否   |否|否|否|
 
-<sup>1</sup> 利用信息治理，用户可以创建、发布标签，并手动将标签应用于文档;使用驱动器寄送或网络导入数据。 这些功能在 E3 和 E5 中可用，在 E1 中仅提供有限的可用性。 有关 E1、E3 和 E5 中可用功能的完整列表，请参阅详细的 Microsoft 365 [Licensing Comparison](https://aka.ms/M365EnterprisePlans)。
+<sup>1</sup> 利用信息治理，用户可以创建、发布标签，并手动将标签应用于文档;使用驱动器寄送或网络导入数据。 这些功能在 E3 和 E5 中可用，在 E1 中仅提供有限的可用性。 有关 E1、E3 和 E5 中可用功能的完整列表，请参阅Microsoft 365[合规性许可比较"。](https://aka.ms/M365EnterprisePlans)
 
 <sup>2</sup>需要购买Exchange Online Archiving加载项。
 
 <sup>3</sup> 高级信息治理允许您保留重要信息，并基于保留或删除策略对信息进行分类，或同时对二者进行分类，以删除不重要的信息。 它包括智能/自动化操作，如建议策略、自动向数据应用标签、基于敏感数据类型或查询应用标签、处置评审以及智能导入筛选器的使用。 它还包括用于出于安全性和合规性目的查看员工通信的监督功能。
 
-<sup>4</sup> Skype对话存储为邮箱的一部分。
+<sup>4</sup> Skype对话作为邮箱的一部分存储。
 
-<sup>5</sup> Advanced eDiscovery许可证Office 365 E5许可证或附加许可证。
+<sup>5</sup> Advanced eDiscovery要求Office 365 E5许可证或附加许可证。
 
 <sup>6 Skype</sup>存档位于用户邮箱内。
 
 <sup>7</sup>包括存储在Microsoft Teams中的文件。
 
-<sup>8</sup> 包含基本审核的所有计划的审核日志将保留 90 天。 此外，您还可以使用[Office 365 活动 API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一管理活动审核日志。
+<sup>8</sup> 包含基本审核的所有计划的审核日志将保留 90 天。 此外，您可以使用统一[Office 365活动 API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一管理审核日志。
 
 <sup>9</sup> Office 365数据丢失防护加载项。
 
@@ -115,6 +115,6 @@ ms.locfileid: "61036060"
 
 合规中心在由世纪Office 365 [E3 计划中提供](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)。
   
-## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
+## <a name="security-amp-compliance-center-office-365-germany"></a>安全 &amp; 与合规中心：Office 365德国
 
-安全&合规中心适用于Office 365。 有关德国Office 365的信息，请参阅Office 365[德国](office-365-germany.md)。
+Office 365德国已停用。 有关详细信息，请转到 Microsoft [Cloud Deutschland transition](https://aka.ms/germanymigrateassist)。

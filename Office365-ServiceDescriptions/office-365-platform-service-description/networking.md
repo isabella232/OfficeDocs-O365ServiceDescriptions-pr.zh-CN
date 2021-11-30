@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft 支持以下网络功能。
-ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: dfb53ec42745b57dfa88a86833d20b232d01e85a
+ms.sourcegitcommit: 34dd2d202299d88b278490ef4fbea16aa1652fb2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673076"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61234883"
 ---
 # <a name="networking"></a>网络
 
@@ -27,7 +27,7 @@ Microsoft 支持以下网络功能。
 
 Microsoft 使用 IPv4 和 IPv6 地址。 可选择使用 IPv6 寻址，并且不需要与 Office 365 之间进行连接。 并非所有Microsoft 365都使用 IPv6 完全启用。 有关 Ipv6 支持的信息，请参阅[IPv6 support in Microsoft 服务](/office365/enterprise/ipv6-support)。
   
-Microsoft 在 Microsoft 帮助中维护允许的 IP 地址列表。 有关详细信息，请参阅 [URL 和 IP 地址范围](/office365/enterprise/urls-and-ip-address-ranges)。 有关由世纪互联运营的 Office 365 的信息，请参阅[由世纪互联运营的 Office 365 的 URL 和 IP 地址](/office365/enterprise/managing-office-365-endpoints)。 有关 Office 365 Germany，请参阅 [Office 365 Germany 终结点](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8)。
+Microsoft 在 Microsoft 帮助中维护允许的 IP 地址列表。 有关详细信息，请参阅 [URL 和 IP 地址范围](/office365/enterprise/urls-and-ip-address-ranges)。 有关由世纪互联运营的 Office 365 的信息，请参阅[由世纪互联运营的 Office 365 的 URL 和 IP 地址](/office365/enterprise/managing-office-365-endpoints)。
   
 > [!IMPORTANT]
 > 我们强烈建议您允许路由到上述文章中列出的根域名（如 \*.Outlook.com、\*.MicrosoftOnline.com 和 \*.SharePoint.com），而不是路由到特定的 IP 地址子网。如果依赖 IP 地址子网，则进行更改时您的用户会有中断风险。 
