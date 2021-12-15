@@ -9,25 +9,25 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
-description: 了解美国政府SharePoint的新功能可用性。
-ms.openlocfilehash: 3d0660316b53d9aaef8adf514c8835950150abd8
-ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
+description: 了解美国政府SharePoint客户的功能可用性。
+ms.openlocfilehash: 82c9b5ec60647bdd582da5051094cd10bfbcb9ea
+ms.sourcegitcommit: c55d64d09e48f4d74a4e0f92ecf32cacf70798dc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "60088505"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61530001"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint美国政府环境
 
-本文概述了美国政府云与商业云之间的功能差异，如 SharePoint [service description 中所列](../../sharepoint-online-service-description/sharepoint-online-service-description.md)。 SharePoint可用于 政府社区云 (GCC) 、GCC High 和 DoD 环境。 
+本文概述了美国政府云与商业云之间的功能差异，如SharePoint[说明所列](../../sharepoint-online-service-description/sharepoint-online-service-description.md)。 SharePoint适用于 政府社区云 (GCC) 、GCC High 和 DoD 环境。 
 
-有关政府云（包括资格和购买）详细信息，请参阅政府Microsoft 365 [- 如何购买](./microsoft-365-government-how-to-buy.md)。 若要比较Office 365 政府版，请参阅Office 365 政府版[计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
+有关政府云（包括资格和购买）Microsoft 365[政府 - 如何购买](./microsoft-365-government-how-to-buy.md)。 若要比较Office 365 政府版，请参阅Office 365 政府版[计划](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)。
 
 若要了解管理网络连接时所需的终结点，请参阅 Office 365 美国政府 GCC[高](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)终结点或 Office 365 美国政府[DoD 终结点](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)。
 
 除了享受云解决方案Office 365，组织还可从美国政府云环境独有的以下功能中获益：
 
--   在逻辑上，组织的客户内容与 Microsoft 商业或Office 365内容隔离。
+-   组织的客户内容在逻辑上与 Microsoft 商业服务中的客户内容Office 365隔离。
 -   您组织的客户内容存储在美国境内。
 -   对组织的客户内容的访问权限只限于屏蔽的 Microsoft 员工。
 -   政府云环境符合美国公共部门客户所需的认证和资格鉴定。
@@ -47,12 +47,14 @@ ms.locfileid: "60088505"
 
 以下是商业客户的 IT 管理员功能与政府云客户的 IT 管理员功能之间的差异。
 
-- 网站地址更改不适用于高GCC客户
-- 迁移SharePoint和迁移管理器需要更改配置。 有关信息，请参阅 [SPMT 政府云支持](/sharepointmigration/spmt-install-issues#government-cloud-support)。
-- Mover.io 尚不支持
-- 多地理位置并非适用于所有政府云客户
+- 网站地址更改不适用于高GCC客户。
+- 迁移SharePoint和迁移管理器需要更改配置。 有关详细信息，请参阅 [SPMT 政府云支持](/sharepointmigration/spmt-install-issues#government-cloud-support)。
+- Mover.io 尚不支持。
+- 多地理位置并非适用于所有政府云客户。
+- SharePoint 管理中心主页上不适用于 GCC High 和 DoD 客户：SharePoint 存储使用情况、SharePoint 网站使用情况、OneDrive 使用情况、SharePoint 文件活动和 OneDrive 文件活动。
+- [所有政府云](/sharepoint/manage-sites-in-new-admin-center#track-a-view)客户在管理中心SharePoint跟踪视图卡。
 
-有关迁移FastTrack，请参阅美国政府Office 365[服务说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
+有关迁移FastTrack，请参阅美国政府Office 365[说明](./office-365-us-government.md#data-migrations-performed-by-fasttrack)。
 
 ## <a name="security-and-compliance-features"></a>安全性和合规性功能
 
@@ -60,7 +62,7 @@ ms.locfileid: "60088505"
 
 有关安全性和合规性功能的信息，请参阅安全与& [中心](../office-365-securitycompliance-center.md)。
 
-有关政府Azure Active Directory的信息，请参阅[Azure 政府安全 + 标识文档](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
+有关政府Azure Active Directory功能的信息，请参阅[Azure 政府安全 + 标识文档](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory)。 
 
 有关 Azure 信息保护政府功能的信息，请参阅[Azure 信息保护高级版政府服务说明](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。 
 
@@ -70,9 +72,9 @@ ms.locfileid: "60088505"
 
 以下是商业客户的网站和内容功能与政府云客户的网站和内容功能之间的差异：
 
-- 依赖于 Internet 服务连接的 Web 部件（如 Amazon Tube、必应地图、Twitter 和 YouTube Web 部件）无法如期工作
+- 依赖 Internet 服务连接的 Web 部件（如 Amazon Tube、必应地图、Twitter 和 YouTube Web 部件）无法如期工作
 - 组织资产库不可用
-- Graph Online 中SharePoint高GCC功能当前处于禁用状态。 任何依赖 Microsoft Graph服务可能当前不可用
+- Graph Online 中SharePoint高GCC禁用。 任何依赖 Microsoft Graph的服务当前可能不可用
 - 依赖于 Internet 服务连接的功能（如股票图像选项卡）无法按预期工作
 - 文件和网站活动的通知不可用
 - 新闻 Web 部件将仅从当前网站拉取新闻。 来自选定网站或中心新闻汇总的关联网站新闻不适用于高GCC DoD 客户
@@ -89,7 +91,7 @@ ms.locfileid: "60088505"
 
 ## <a name="plan-for-governance"></a>规划治理
 
-移动到云后，内置管理控件可提供转换式体验。 确定管理要求以及如何满足这些要求。 有关详细信息，[请转到规划治理以通过](https://resources.techcommunity.microsoft.com/teamwork-governance/)Microsoft 365转变团队合作。 你将找到有关组Office 365、SharePoint、Teams等的指南。
+移动到云后，内置管理控件可提供转换式体验。 确定管理要求以及如何满足这些要求。 有关详细信息，[请转到规划治理以通过](https://resources.techcommunity.microsoft.com/teamwork-governance/)Microsoft 365团队。 你将找到有关组Office 365、SharePoint、Teams等的指南。
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>部署SharePoint进行协作
 
@@ -101,7 +103,7 @@ ms.locfileid: "60088505"
 
 混合SharePoint向导包含对具有特殊 SPO SharePoint混合功能的支持。
 
-您必须在应用程序文件中编辑环境相关参数 **.config，使** SharePoint混合功能可用于该环境。 请参阅 [编辑配置文件](#editing-configuration-file)。
+您必须在一个安全文件中编辑环境相关 **.config的值，** 使该SharePoint混合功能可供该环境使用。 请参阅 [编辑配置文件](#editing-configuration-file)。
 
 > [!NOTE]
 > 有关混合功能支持的特殊 SPO SharePoint，请参阅S supported [Environments](#supported-environments)。
@@ -133,4 +135,4 @@ SharePoint混合功能支持以下 SPO 环境：
 
 如果客户将值设置为 Custom，则使用 、 和 键来设置该自定义 `SPOEnvironmentType`  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` SPO 环境的终结点。
 
-如果值设置为 Custom 外的任何值，则忽略 、 和 键，SharePoint 混合配置向导将使用适用于这些 SPO 环境类型的硬 `SPOEnvironmentType`  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` 编码值。
+如果值设置为除 Custom 外的任何值，则忽略 、 和 键，SharePoint 混合配置向导将使用适用于这些 `SPOEnvironmentType` SPO 环境类型的硬 `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` 编码值。
