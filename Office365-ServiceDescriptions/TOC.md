@@ -82,7 +82,7 @@
 ## [Visio 网页版服务说明](visio-online-service-description/visio-online-service-description.md)
 ### [Visio 功能详细信息](visio-online-service-description/visio-features.md)
 ## [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
-### 在 Yammer 中[Limits](yammer-service-description/yammer-limits.md)
+### [在 Yammer 中 Limits](yammer-service-description/yammer-limits.md)
 ## [Microsoft 365 商业高级版](https://aka.ms/M365BusinessPlans)
 ## [Microsoft 365 安全性与合规性指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 ### [Microsoft 365 合规性计划 - DoD 部署](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
