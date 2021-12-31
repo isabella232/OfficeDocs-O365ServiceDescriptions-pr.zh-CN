@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365和Office 365是基于云的服务，旨在帮助满足组织对强大安全性、可靠性和用户工作效率的需求。
-ms.openlocfilehash: 3e25e85519f8085a4a8b6a7bee2084483f499444
-ms.sourcegitcommit: 0207fe070b579469ee181919f659512b7e3ee2bc
+ms.openlocfilehash: 09f59d44bd19abf2df0305d517c2d3c9f579949d
+ms.sourcegitcommit: ffbdf0f567d309d8432ccf98c8d4471ddf2bf534
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61142409"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "61643488"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365 和 Office 365 服务说明 
 
@@ -29,57 +29,80 @@ Microsoft 365和Office 365是基于云的服务，旨在帮助满足组织对强
 
 若要跨计划比较功能，请参阅[](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)以下列表中用于支持企业的强大工具或相关服务说明。 
   
-有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/)documentation [for admins and IT professionals](/office/)和 Microsoft 365 help center for [admins and IT pros（](/microsoft-365/)适用于管理员和 IT 专业人员的 Microsoft 365 帮助中心）。
+有关支持文章和信息，请参阅 Office [Help & Training、Office](https://support.office.com/) [documentation for admins and IT professionals](/office/)和 Microsoft 365 help center for [admins and IT pros。](/microsoft-365/)
   
 > [!NOTE]
 > 如果要查找服务说明比较电子表格，则说明已停用。 每个服务说明页面上的产品功能可用性表已更新，以更好地帮助你选择Office 365您需求的产品功能可用性表。 
   
-Microsoft 为符合FastTrack计划中符合条件的Office 365提供中心权益。 利用该优势，你可以与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
+Microsoft 为符合条件的FastTrack中符合条件的Office 365提供中心权益。 借助此优势，你可以与 Microsoft 专家远程合作，Office 365环境可供使用。 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](/fasttrack/O365-fasttrack-benefit-for-office-365)。
   
 若要开始了解这些信息，请参阅下列服务描述：
   
-- [Microsoft 365和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365和Office 365平台服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)<sup>1</sup>
 
-- [Office 应用程序服务说明](office-applications-service-description/office-applications-service-description.md)
+- [Azure Active Directory 服务说明](/office365/servicedescriptions/azure-active-directory)
 
-- [Office 网页版服务说明](office-online-service-description/office-online-service-description.md)
+- [Exchange Online 服务说明](/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
 
-- [Exchange Online 服务说明](exchange-online-service-description/exchange-online-service-description.md)
+- [Exchange Online Protection 服务说明](/office365/servicedescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description)
 
-- [Exchange Online Protection 服务说明](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+- [Exchange Online Archiving 服务说明](/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)
 
-- [Exchange Online Archiving 服务说明](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Microsoft 365 商业高级版](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)
 
-- [Microsoft Defender for Office 365 服务说明](office-365-advanced-threat-protection-service-description.md)
+- [Microsoft 365 安全性与合规性指南](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-- [Microsoft Teams 服务说明](teams-service-description.md)
+- [Microsoft 365 中小型企业](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)
 
-- [OneDrive 服务说明](onedrive-for-business-service-description.md)
+- [Microsoft Bookings 服务说明](/office365/servicedescriptions/microsoft-bookings-service-description)
 
-- [SharePoint 服务说明](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Microsoft Defender for Office 365 服务说明](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-- [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Microsoft Forms 服务说明](/office365/servicedescriptions/microsoft-forms-service-description)
 
-- [工作区分析服务说明](workplace-analytics-service-description.md)
+- [Microsoft Planner 服务说明](/office365/servicedescriptions/project-online-service-description/microsoft-planner-service-description)
 
-- [MyAnalytics 服务说明](mya-service-description.md)
+- [Microsoft 项目服务说明](/office365/servicedescriptions/project-online-service-description/project-online-service-description)
 
-- [Power BI 服务说明](power-bi-service-description.md)
+- [Microsoft Project 网页版服务说明](/office365/servicedescriptions/project-online-service-description/project-web-service-description)
 
-- [Microsoft 项目服务说明](project-online-service-description/project-online-service-description.md)
+- [Microsoft Project Online 桌面客户端服务说明](/office365/servicedescriptions/project-online-service-description/project-online-desktop-client-service-description)
 
-- [Visio 网页版服务说明](visio-online-service-description/visio-online-service-description.md)
+- [Microsoft Project Online 服务说明](/office365/servicedescriptions/project-online-service-description/microsoft-project-online-service-description)
 
-- [Yammer 服务说明](yammer-service-description/yammer-service-description.md)
+- [Microsoft Sway 服务说明](/office365/servicedescriptions/microsoft-sway-service-description)
 
-- [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
+- [Microsoft Teams 服务说明](/office365/servicedescriptions/teams-service-description)
 
-- [比较所有Microsoft 365业务产品](/microsoft-365/business/compare-all-microsoft-365-business-products)
+- [Microsoft Viva 服务说明](/office365/servicedescriptions/microsoft-viva-service-description)
 
-- [Microsoft 365 中小型企业](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)
+- [MyAnalytics 服务说明](/office365/servicedescriptions/mya-service-description)
 
-- [Microsoft 365 安全性与合规性许可指南](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Office 应用程序服务说明](/office365/servicedescriptions/office-applications-service-description/office-applications-service-description)
 
+- [Office 网页版服务说明](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+
+- [Office 365美国政府服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
+
+- [OneDrive 服务说明](/office365/servicedescriptions/onedrive-for-business-service-description)
+
+- [Power BI 服务说明](/office365/servicedescriptions/power-bi-service-description)
+
+- [SharePoint 服务说明](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description)
+
+- [SharePoint Syntex 服务说明](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-service-description)
+
+- [Skype for Business Online 服务说明](/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description)
+
+- [Visio 网页版服务说明](/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)
+
+- [通用打印服务说明](/office365/servicedescriptions/universal-print-service-description/universal-print-service-description)
+
+- [Windows 365 服务说明](/office365/servicedescriptions/windows-365-service-description/windows-365-service-description)
+
+- [工作区分析服务说明](/office365/servicedescriptions/workplace-analytics-service-description)
+
+- [Yammer 服务说明](/office365/servicedescriptions/yammer-service-description/yammer-service-description)
 
 > [!NOTE]
 > <sup>1</sup> 包含 [uite features](./office-365-platform-service-description/office-365-suite-features.md)的可用性，例如 Office Delve、Microsoft MyAnalytics、Microsoft Sway 和 Microsoft Teams。
