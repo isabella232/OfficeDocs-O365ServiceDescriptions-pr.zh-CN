@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 查看不同计划中可用的Yammer。
-ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e4dcad0fec103fded44b2820d82428c005c8201b
+ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986138"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860646"
 ---
 # <a name="yammer-service-description"></a>Yammer 服务说明
 
@@ -57,16 +57,16 @@ ms.locfileid: "59986138"
 
 | 更改类型 | Office 365[消息中心](/microsoft-365/admin/manage/message-center) | Microsoft 365 路线图 | Yammer技术Community博客，例如每月汇总 | 外部社区、Twitter |
 |---------|---------|---------|---------|---------|
-|**需要操作 (** 更改策略) - 需要管理员操作以保持服务运行的更改、可能会影响组织的合规性的更新 | 是 | 是 | 是 | 是 |
-| **需要感知的更改 (随时)** - 不需要管理员操作的更改、视觉设计更改 | 是 | 是 | 是 | 是 |
+|**需要操作 (** 更改策略) 更改 - 需要管理员操作以保持服务运行的更改、可能会影响组织的合规性的更新 | 是 | 是 | 是 | 是 |
+| **需要感知的更改 (及时)** - 不需要管理员操作的更改、视觉设计更改 | 是 | 是 | 是 | 是 |
 
 > [!NOTE]
 > 对于影响一组目标用户的更改，我们可能会直接通知这些用户。</br>
-> 对于非关键且不需要操作或感知的更改 (即使某些用户可能观察到这些更改，这些更改) 。
+> 对于非关键且不需要操作或感知的更改，将不会 (即使某些用户可能会看到这些更改，) 。
 
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer企业服务通信策略
 
-Yammer遵循更改Microsoft 365策略，但确实[](https://aka.ms/ManageChange)使用定向发布来推出一些Microsoft 365更新。 Yammer用户需接受 A/B 功能测试或测试。 这使 Microsoft 可以测试功能，以改进许多环境和设备的稳定性、性能和体验。 同一网络中的用户可能会有不同的测试体验。 客户不能选择停用 A/B 测试。
+Yammer遵循"更改Microsoft 365策略，但不[](https://aka.ms/ManageChange)使用定向发布来推出一些Microsoft 365更新。 Yammer用户需接受 A/B 功能测试或测试。 这使 Microsoft 可以测试功能，以改进许多环境和设备的稳定性、性能和体验。 同一网络中的用户可能会有不同的测试体验。 客户不能选择停用 A/B 测试。
 
 ## <a name="licensing-terms"></a>许可条款
 
@@ -88,7 +88,7 @@ Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](h
 
 ## <a name="system-requirements"></a>系统要求
 
-有关企业、Office 365以及政府组织的基于每月订阅的服务的系统要求，请参阅 Microsoft 365 和 Office [Resources。](https://products.office.com/office-system-requirements/#Office365forBEG)
+有关企业Office 365订阅服务（适用于企业、教育以及政府组织的基于每月订阅的服务）的系统要求，请参阅 Microsoft 365[和 Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG)。
 
 ## <a name="supported-clients-and-integrations"></a>支持的客户端和集成
 
@@ -97,10 +97,10 @@ Microsoft 始终致力于确保数据的安全性以及服务的[辅助功能](h
 - [新增Yammer](https://support.microsoft.com/office/welcome-to-new-yammer-8c749c30-2d17-4153-a3cc-37a70f254681)
 - [经典Yammer](https://support.microsoft.com/office/welcome-to-classic-yammer-02ac514e-cf1d-4060-9cde-6038ca812ede)
 - [社区应用程序](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21)Microsoft Teams
-- 新的Yammer[桌面应用](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
+- 新Yammer[桌面应用](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
 - [SharePoint突出显示和对话 Web 部件](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
-- [Yammer嵌入 (和经典Yammer) ](https://developer.yammer.com/docs/new-embed-feed)
+- [Yammer" ("和"经典"Yammer) ](https://developer.yammer.com/docs/new-embed-feed)
 - [电子邮件中的交互式Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
-- [Yammer Android 上的 iPhone、iPad 移动应用](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
+- [Yammer、iPad 和 Android 上iPhone移动应用](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
 
 经典桌面Yammer桌面应用在 2021 年 7 月 31 日被弃用。

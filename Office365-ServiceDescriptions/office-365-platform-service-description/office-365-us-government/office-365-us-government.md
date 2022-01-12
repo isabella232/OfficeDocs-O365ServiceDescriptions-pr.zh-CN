@@ -10,19 +10,19 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 已创建Office 365 US 政府计划 (或Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: a41a7fa24c26af098f33d86ea6b2390bb854e795
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+ms.openlocfilehash: e5dd87eaa47a63ff0a21a3385a3500da74a98501
+ms.sourcegitcommit: 2f858bc2b5e3339baa5b29b07b4a57849f20e15d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963495"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860702"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
 > [!IMPORTANT]
-> Microsoft Teams COVID-19 冠状病毒（COVID-19）和冠状病毒（COVID-19）爆发，在线呼叫和音频 (/视频会议) 峰值。<br/>
+> Microsoft Teams COVID-19 冠状病毒（COVID-19）和冠状病毒（COVID-19）导致在线呼叫和音频 (/视频会议) 峰值。<br/>
 >
->为了响应前所未有的呼叫数增加，为了确保连续性和可用性，Microsoft 允许 Microsoft Teams GCC 音频/视频服务器利用我们的商业数据中心以及政府数据中心中的处理能力。<br/>
+>为了响应前所未有的呼叫数增长，为了确保连续性和可用性，Microsoft 允许 Microsoft Teams GCC 音频/视频服务器利用我们的商业数据中心以及政府数据中心中的处理能力。<br/>
 >
 >这些音频/视频服务器驻留在美国Microsoft Azure FedRAMP 高资格鉴定边界服务器中，不存储任何客户内容。 但是，这些服务器正在处理通话和会议的音频和视频，并在此临时期间由我们的商业员工运营。<br/>
 >
@@ -30,7 +30,7 @@ ms.locfileid: "60963495"
 >
 >感谢你的支持，我们采取一些措施来确保我们的服务在这些不时时刻保持可用和可靠。<br/>
 
-为了响应美国公共部门不断变化的独特要求，Microsoft 已创建Office 365 政府版计划 (或Office 365 政府版) 。 此服务说明概述了特定于美国环境Office 365 政府版功能。 建议与其他服务说明一起阅读此服务[Microsoft 365 Office 365说明。](../../office-365-service-descriptions-technet-library.md)
+为了响应美国公共部门不断变化的独特要求，Microsoft 已创建Office 365 政府版计划 (或Office 365 政府版) 。 此服务说明概述了特定于美国Office 365 政府版的功能。 建议与其他服务说明一起阅读此服务Microsoft 365[和Office 365说明](../../office-365-service-descriptions-technet-library.md)。
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明
 
@@ -40,7 +40,7 @@ Office 365 政府版服务说明旨在作为常规服务说明Office 365覆盖�
 
 Office 365 政府版计划是按月订阅，可以授权给任意数量的用户。
 
-- 该 **Office 365 GCC** 环境符合联邦云服务要求，包括 FedRAMP High、国防联邦购置条例补充程序 (DFARS) 以及针对刑事犯罪和联邦税务信息系统 (CJI 和 FTI 数据类型) 的要求。
+- Office 365 GCC 环境符合联邦云服务要求，包括 FedRAMP High、国防联邦购置条例补充程序 (DFARS) 以及针对刑事犯罪和联邦税务信息系统 (CJI 和 FTI 数据类型) 的要求。
 
 - 高 **Office 365 GCC DoD** 环境符合美国国防部安全要求指南、国防联邦购置条例补充程序 (DFARS) 以及 ITAR (国际武器) 。
 
@@ -56,7 +56,7 @@ Office 365 政府版计划是按月订阅，可以授权给任意数量的用户
 
 ## <a name="customer-eligibility"></a>客户资格
 
-Office 365 政府版 适用于 (1) 美国联邦、州、地方、领地和地区政府实体，以及 (2) 其他实体，这些实体处理受政府法规和要求限制的数据，并且使用 Office 365 政府版 适合满足这些要求，但需经过资格验证。 Microsoft 的资格验证包括确认处理的是受符合国际武器贸易条例 (ITAR) 约束的数据，还是受 FBI 的刑事司法信息服务 (CJIS) 政策约束的执法数据，亦或是其他受政府监管或控制的数据。 对于 ITAR 数据，资格验证可能需要提供美国国务院注册证明；对于数据处理的具体要求，可能需要提供政府机构资助证明。 Office 365 DoD 环境专供美国国防部使用。
+Office 365 政府版 适用于 (1) 美国联邦、州、地方和地区政府实体，以及 (2) 其他实体，这些实体处理受政府法规和要求限制的数据，并且使用 Office 365 政府版 适合满足这些要求，但需经过资格验证。 Microsoft 的资格验证包括确认处理的是受符合国际武器贸易条例 (ITAR) 约束的数据，还是受 FBI 的刑事司法信息服务 (CJIS) 政策约束的执法数据，亦或是其他受政府监管或控制的数据。 对于 ITAR 数据，资格验证可能需要提供美国国务院注册证明；对于数据处理的具体要求，可能需要提供政府机构资助证明。 Office 365 DoD 环境专供美国国防部使用。
 
 尽管资格条件在产品/服务Office 365 政府版一致，但 Microsoft 将仅同意适用于高环境的 ITAR GCC语言。
 
@@ -68,7 +68,7 @@ Office 365 政府版 适用于 (1) 美国联邦、州、地方、领地和地区
 
 Office 365 政府版服务从物理上位于美国的数据中心提供。 客户内容在物理上仅位于美国的数据中心中存储。这包括但不限于：
 
-- Exchange Online电子邮件 (、日历条目和电子邮件附件内容中的邮箱) 
+- Exchange Online电子邮件 (、日历条目以及电子邮件附件内容中的邮箱) 
 - SharePoint联机网站内容和存储在该网站中的文件
 - Microsoft Teams持久聊天线程
 - Skype for Business存档的对话、上传的文档和白板会话
@@ -78,7 +78,7 @@ Office 365 政府版服务从物理上位于美国的数据中心提供。 客�
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 政府版和第三方服务
 
-Office 365可以将第三方应用程序集成到 SharePoint Online 网站、Teams、Office Microsoft 365 企业应用版 (（如 Word、Excel、PowerPoint 和Outlook) 和 Outlook Web App。 此外，Office 365 还支持与第三方服务提供商集成。 这些第三方应用程序和服务可能参与存储、传输和处理组织在 Office 365 基础结构外部的第三方系统上的客户数据，因此未涵盖在 Office 365 合规性和数据保护协议中。 我们建议您在为组织评估这些服务的相应使用情况时，查看第三方提供的隐私和合规性声明。
+Office 365可以将第三方应用程序集成到 SharePoint Online 网站、Teams、Office Microsoft 365 企业应用版 (应用程序（如 Word、Excel、PowerPoint 和Outlook) ，Outlook Web App。 此外，Office 365 还支持与第三方服务提供商集成。 这些第三方应用程序和服务可能参与存储、传输和处理组织在 Office 365 基础结构外部的第三方系统上的客户数据，因此未涵盖在 Office 365 合规性和数据保护协议中。 我们建议您在为组织评估这些服务的相应使用情况时，查看第三方提供的隐私和合规性声明。
 
 ## <a name="restricted-data-access-by-administrators"></a>管理员受限数据访问
 
@@ -86,7 +86,7 @@ Microsoft Office 365 政府版访问客户内容的访问权限仅限于屏蔽�
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>FastTrack中心载入协助
 
-借助 FastTrack Center Benefit for Office 365<sup>1，</sup>你可以与 FastTrack 专家远程合作，让 Office 365 环境可供使用，并计划在组织中部署和使用。 FastTrack 流程提供了载入和用户采用服务。
+使用 FastTrack Center Benefit for Office 365<sup>1，</sup>你可以与 FastTrack 专家远程合作，让 Office 365 环境可供使用，并计划在组织中部署和使用。 FastTrack 流程提供了载入和用户采用服务。
 
 载入包括：
 
@@ -96,14 +96,14 @@ Microsoft Office 365 政府版访问客户内容的访问权限仅限于屏蔽�
 
 用户采用服务由一些任务组成，这些任务可指导用户确保用户了解符合条件的服务，并可以使用它们来推动业务价值。 此协助与载入活动并行发生。
 
-可以在此处找到FastTrack中心过程的特定[信息](/FastTrack/us-gov-appendix-overview)。 有关参与角色和职责的细分，FastTrack[责任](/FastTrack/us-gov-appendix-fasttrack-responsibilities)以及[你的责任](/FastTrack/us-gov-appendix-your-responsibilities)。
+可以在此处找到FastTrack中心过程[的特定信息](/FastTrack/us-gov-appendix-overview)。 有关参与角色和职责的细分，FastTrack[责任](/FastTrack/us-gov-appendix-fasttrack-responsibilities)和[职责](/FastTrack/us-gov-appendix-your-responsibilities)。
 
-> <sup>1</sup>必须至少从符合条件的计划列表中购买 150 个许可证[](/fasttrack/eligibility)，才能FastTrack服务。
+> <sup>1</sup>必须至少从符合条件的计划列表中购买 150 个许可证[](/fasttrack/eligibility)，才能接收FastTrack许可证。
 <br/><sup>2</sup>数据迁移服务适用于具有 500 Office 365许可证的租户。
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>由用户执行的数据FastTrack
 
-选择迁移[FastTrack](https://fasttrack.microsoft.com/)需要向管理其数据迁移的团队授予访问权限。 这些人员是美国政府公民，在针对美国政府服务客户执行迁移Office 365进行以下背景检查。<br><br>
+选择迁移[FastTrack](https://fasttrack.microsoft.com/)需要向管理其数据迁移的团队授予访问权限。 这些人员是美国政府公民，在针对美国政府服务客户执行迁移Office 365背景检查。<br><br>
 
 |背景屏蔽|GCC|GCC High 和 DoD|
 |---|---|---|
@@ -149,8 +149,8 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Yammer Enterprise<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|否<sup>2</sup>|
 
 > <sup>1</sup> 不包含在内，但可以单独购买加载项。 Project Online包括Project Online桌面客户端作为订阅的一部分。
-<br/> <sup>2</sup> Yammer Enterprise美国政府版的组件Office 365，但对于在美国政府中许可使用 Office 365 的每个用户，可GCC独立产品/服务。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer在高GCC DoD 中不可用。
-<br/><sup>3</sup> 通话套餐是一种附加 (，在自带中继服务上添加) 。
+<br/> <sup>2</sup> Yammer Enterprise美国政府版的组件Office 365，但对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer在高GCC DoD 中不可用。
+<br/><sup>3</sup> 通话套餐是一种附加 (，在自带的中继服务上添加) 。
 <br/><sup>4</sup> 不包含在内，但可以单独购买加载项。 Visio Web 的订阅包括Visio桌面应用作为订阅的一部分。
 
 ## <a name="platform-features"></a>平台功能
@@ -203,30 +203,9 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |Microsoft 365 管理中心仪表板中显示的单个警报的状态|是|是|是|是|
 |是|是|是|是|是|
 |**[报告](../../office-365-platform-service-description/reports.md)**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府版 F3**|
-|活动邮箱和非活动邮箱|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|新邮箱和已删除的邮箱|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|新组和已删除的组|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|邮箱使用情况|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|邮箱连接类型|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|已发送和已接收邮件|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|主要发件人和收件人|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|垃圾邮件检测|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|恶意软件检测|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|邮件的主要恶意软件|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|邮件的规则匹配|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|邮件的主要规则匹配|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|邮件的主要 DLP 策略匹配|否|是<sup>15</sup>|是<sup>15</sup>|否|
-|按邮件严重性显示的 DLP 策略匹配|否|是<sup>15</sup>|是<sup>15</sup>|否|
-|邮件的 DLP 策略匹配、重写和误报|否|是<sup>15</sup>|是<sup>15</sup>|否|
-|邮件的主要 DLP 规则匹配|否|是<sup>15</sup>|是<sup>15</sup>|否|
-|IM 和音频会话|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|应用程序共享、Web 和电话拨入式会议|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|视频、应用程序共享和文件传输会话|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|IM 和音频/视频会议|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|可下载的邮件保护报告|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|使用的浏览器|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|使用的操作系统|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
-|使用 Microsoft 365 报告 Web 服务创建自己的报表|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|是<sup>15</sup>|
+|[活动报告](/microsoft-365/admin/activity-reports/activity-reports#which-activity-reports-are-available-in-the-admin-center)|是|是|是|是|
+|[Microsoft Graph使用情况报告 API](/graph/api/resources/report)|是|是|是|是|
+|[Microsoft Graph API (BETA) ](/graph/api/resources/report?view=graph-rest-beta&preserve-view=true)|是|是|是|是|
 |**[服务更新](../../office-365-platform-service-description/service-updates.md)**|**Office 365 政府版 G1**|**Office 365 政府版 G3**|**Office 365 政府版 G5**|**Office 365 政府版 F3**|
 |向所有客户提供的定期更新|是|是|是|是|
 |通知发送给 消息中心（当需要操作时）|是|是|是|是|
@@ -268,14 +247,14 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |**[服务级别协议](../../office-365-platform-service-description/service-level-agreement.md)**|是|是|是|是|
 |**[产品使用权限](../../office-365-platform-service-description/product-use-rights.md)**|是|是|是|是|
 
-> <sup>1</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用支持的信息权限管理 (IRM) 功能。 一些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，但不包括在Office 365 政府版 G1。
+> <sup>1</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，但此订阅未包含在Office 365 政府版 G1。
 <br/><sup>2</sup> 现有的 BBCS 和 BIS 客户可继续使用服务。 不接受新客户。
 <br/><sup>3</sup> 如果使用目录同步，您必须使用 Active Directory（而不是 Office 365 门户）或使用 Windows PowerShell 的 Azure Active Directory 模块来删除帐户或更改密码。
 <br/><sup>4</sup> 若要了解如何为用户设置自助服务密码管理策略，请参阅使用安全信息重置工作 [或学校密码](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)。
 <br/><sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. 这不适用于按月支付的订阅。
-<br/><sup>6</sup>以下计划不支持更改许可证的许可证席位Microsoft 365 管理中心：Office 365 政府版 G1、Office 365 政府版 G3、Office 365 政府版 F3。
+<br/><sup>6</sup>以下计划不支持更改许可证席位Microsoft 365 管理中心：Office 365 政府版 G1、Office 365 政府版 G3、Office 365 政府版 F3。
 <br/><sup>7</sup>尚未在 GCC 中可用，但即将推出。
-<br/><sup>8</sup>对于 Office 365 政府版 G1、G3 和 F3，Office 365适用于业务路线图;但是，由于合规性要求，特定服务更新可能有一些[差异或延迟](https://www.microsoft.com/trust-center)。
+<br/><sup>8</sup>对于 Office 365 政府版 G1、G3 和 F3，适用于Office 365路线图适用;但是，由于合规性要求，特定服务更新可能有一些差异或[延迟](https://www.microsoft.com/trust-center)。
 <br/><sup>9</sup>尚不可用于Office 365 政府版产品/服务，但即将推出。
 <br/><sup>10</sup>不包含在内，但可以在外接程序中作为单独的GCC。
 <br/><sup>11</sup>不支持Office 365 政府版产品/服务。
@@ -283,12 +262,12 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 <br/><sup>13</sup> 尚不可用于 DoD 环境，但即将推出。
 <br/><sup>14</sup>管理中心不包括 DoD 或高GCC使用情况分析。
 <br/><sup>15</sup>不支持高GCC DoD 环境。
-<br/><sup>16</sup>针对用户和域模拟和欺骗智能的反网络钓鱼尚未在高GCC DoD 中可用。
+<br/><sup>16</sup>高和 DoD 中尚不提供适用于用户和域模拟和欺骗智能GCC防钓鱼。
 <br/><sup>17</sup>尚未在GCC中可用，但即将推出。
 <br/><sup>18</sup> 仅适用于 Microsoft Stream：不发布或共享。
 <br/><sup>19</sup>不适用于 Microsoft Graph API 或 Microsoft Teams。
 <br/><sup>20</sup> 有关详细信息，请参阅使用客户密钥 [的服务加密](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。
-<br/><sup>21</sup> Microsoft 365中的审核使组织能够查看组织中跨不同服务的Microsoft 365。 使用 [安全&合规审核日志](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 搜索来查看组织的用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版 订阅以及分配给特定用户的许可证类型。
+<br/><sup>21</sup> Microsoft 365中的审核使组织能够查看组织中跨不同服务的Microsoft 365。 使用 [安全&安全](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 审核日志搜索来查看组织中用户和管理员的活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录的保留时间长度 (在 审核日志) 中可搜索的时间取决于客户的 Office 365 或 Microsoft 365 企业版 订阅以及分配给特定用户的许可证类型。
 <br/><sup>22</sup>定向发布尚未在Office 365 政府版中提供，但即将推出。
 
 ## <a name="office-application-availability-and-enterprise-value"></a>Office应用程序可用性和企业价值
@@ -346,11 +325,11 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |版本升级|否|是<sup>4</sup>|是<sup>4</sup>|否|
 |批量激活 (KMS/MAK)|否|否|否|否|
 
-> <sup>1</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，但 F3 中未Office 365 政府版 G1或Office 365 政府版订阅。
-<br/><sup>2 Windows Server AD</sup> RMS 是必须单独购买和管理才能启用受支持的 IRM 功能本地服务器。
+> <sup>1</sup> Azure 信息保护不包括在内，但可以单独购买加载项，并启用受支持的信息权限管理 (IRM) 功能。 某些 Azure 信息保护功能需要订阅 Microsoft 365 企业应用版，但 F3 中Office 365 政府版 G1或Office 365 政府版订阅。
+<br/><sup>2</sup> Windows Server AD RMS 是必须单独购买和管理才能启用支持的 IRM 功能本地服务器。
 <br/><sup>3</sup> Skype for Business基本版可供所有客户使用。 Skype for Business 桌面客户端是在本地安装的应用程序，为包含 Skype for Business Online 的 Office 365 计划提供状态、即时消息和会议功能。 Microsoft 365 企业应用版和 Office 365 企业版 E3 包括完整的 Skype 应用程序，其中包括高级电话支持、存档和合规性功能等附加功能。 A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup>在高GCC DoD 环境中尚不可用，但即将推出。
-<br/><sup>5</sup> [有关更多详细信息Outlook](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)请参阅在 政府社区云 中为 iOS 和 Android 使用 iOS 和 Android。
+<br/><sup>5</sup> [请参阅 Outlook for iOS 和 政府社区云 For Android](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)了解更多详细信息。
 <br/><sup>6</sup>尚不可用于Office 365 DoD 环境，但即将推出。
 <br/><sup>7</sup> 应用程序在政府云中完全可用，目前不可用的特定功能除外。 有关详细信息[Office应用程序功能](#office-application-and-feature-availability-in-government-plans)可用性。
 
@@ -367,7 +346,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |数据类型||否|否|否|
 |快速填充||否|否|否|
 |Insight Services (的想法) |是|否|否|否|
-|改进了与 Power BI (Power BI 数据类型、Power BI数据集) <sup>3 的集成</sup>||否|否|否|
+|改进了与 Power BI (Power BI 数据类型的集成，Power BI数据集) <sup>3</sup>||否|否|否|
 |智能数字墨迹||否|否|否|
 |Power View (适用于 2016/2019 永久，因为 O365 和 2021 永久策略中将删除所有客户) ||否|否|否|
 |智能查找|是|否|否|否|
@@ -380,12 +359,12 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |数学||否<sup>1</sup>|否<sup>1</sup>|否|
 |最近的组表单||是|是|是|
 |Office集成||否<sup>1</sup>|否<sup>1</sup>|否|
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)云中完全可用，但以下功能目前不可用： ||**GCC**|**GCC 高级**|**DOD**|
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote)在政府云中完全可用，但以下功能目前不可用： ||**GCC**|**GCC 高级**|**DOD**|
 |研究工具|是|否|否|否|
 |智能数字墨迹|是|否|否|否|
 |向用户发送电子邮件OneNote (me@onenote.com) |是|否|否|否|
 |Web Clipper||否|否|否|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府云中完全可用，但以下功能除外，并非所有政府云中都提供这些功能，如表所示。||**GCC**|**GCC 高级**|**DOD**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook)在政府云中完全可用，以下功能除外，并非所有政府云中都提供这些功能，如表所示。||**GCC**|**GCC 高级**|**DOD**|
 |Office声音 (一些) |是|否|否|否|
 |动态数据Exchange (DDE) 默认情况下处于禁用状态||否|否|否|
 |语音听写|是|是|是|否<sup>1</sup>|
@@ -396,15 +375,15 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |语音听写|是|是|是|否<sup>1</sup>|
 |智能数字墨迹|是|否|否|否|
 |沉浸式阅读器|是|否|否|否|
-|实时字幕和字幕在PowerPoint|是|是|是|否|
+|实时字幕和字幕PowerPoint|是|是|是|否|
 |实时演示文稿||否|否|否|
-|Office声音 (一些) ||否|否|否|
+|Office某些 (声音) ||否|否|否|
 |演示者指导|是|否|否|否|
 |Skype for Business共享集成||否|否|否|
 |智能查找|是|否|否|否|
 |重复使用幻灯片||否|否|否|
 |版本历史记录|是|否|否|否|
-|**Microsoft Whiteboard** 云中的云解决方案当前仅在中心客户端上可用，在桌面上不可用。||**GCC**<sup>2</sup>|**GCC高**<sup>2</sup>|**DOD**<sup>2</sup>|
+|**Microsoft Whiteboard** 云中的云解决方案目前仅在中心客户端上可用，桌面版不可用。||**GCC**<sup>2</sup>|**GCC高**<sup>2</sup>|**DOD**<sup>2</sup>|
 |辅助功能检查器|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
 |白板的板库，包括与您共享的白板||否|否|否|
 |将图像转换为墨迹|是|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
@@ -414,7 +393,7 @@ Office 365 美国政府版 客户可以使用 Azure Government ExpressRoute 服�
 |插入便笺、文本和图像||是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|是<sup>2</sup> <br/>|
 |实时状态|是|否|否|否|
 |对内容的反应|是|否|否|否|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)在政府云中完全可用，但以下功能除外，这些功能并非在所有政府云中可用，如表所示。||**GCC**|**GCC 高级**|**DOD**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word)在政府云中完全可用，以下功能除外，并非所有政府云中都提供这些功能，如表所示。||**GCC**|**GCC 高级**|**DOD**|
 |3D 模型||否|否|否|
 |3D 嵌入式动画||否|否|否|
 |与合著者进行上下文聊天：与文档中共同创作者聊天||否|否|否|
