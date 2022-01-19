@@ -2,18 +2,19 @@
 title: Exchange Online 服务说明
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
-description: 了解Microsoft Exchange Online计划之间的服务Microsoft 365功能Office 365可用性。
-ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+description: 了解Microsoft Exchange Online计划之间的Microsoft 365功能Office 365可用性。
+ms.openlocfilehash: e5ee41e61b5bbbcd2c1e28217437cceada038e3c
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672092"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083368"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -33,23 +34,23 @@ Microsoft Exchange Online 是一款将 Microsoft Exchange Server 功能作为基
 
 ## <a name="feature-availability"></a>功能可用性
 
-下表列出了跨计划Exchange Online的主要功能。 某些注意事项适用*。 此表可能发生更改，恕不另行通知。 有关跨计划最新、完整的Exchange Online列表，请参阅[比较Exchange Online计划](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
+下表列出了跨计划Exchange Online的主要功能。 某些注意事项适用*。 此表可能发生更改，恕不另行通知。 有关各计划中最新、完整的Exchange Online，请参阅[比较Exchange Online计划](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)。<br><br>
   
 | 功能 | 小型企业计划 | Enterprise计划 | 教育计划 | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[计划和部署](planning-and-deployment.md)|是*|是|是|是|是|是|
-|[权限](permissions.md)|是|是|是|是|是|是|
-|[邮件策略和合规性](message-policy-and-compliance.md)|是*|是*|是|是|是|是|
-|[反垃圾邮件和反恶意软件保护](anti-spam-and-anti-malware-protection.md)|是*|是*|是|是|是|是|
-|[邮件流](mail-flow.md)|是*|是|是|是|是|是|
-|[收件人](recipients.md)|是*|是*|是|是|是*|是*|
+|[计划和部署](/exchange/plan-and-deploy/plan-and-deploy)|是*|是|是|是|是|是|
+|[权限](/exchange/permissions-exo/permissions-exo)|是|是|是|是|是|是|
+|[邮件策略和合规性](/exchange/policy-and-compliance/policy-and-compliance)|是*|是*|是|是|是|是|
+|[反垃圾邮件和反恶意软件保护](/exchange/antispam-and-antimalware/antispam-and-antimalware)|是*|是*|是|是|是|是|
+|[邮件流](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)|是*|是|是|是|是|是|
+|[收件人](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)|是*|是*|是|是|是*|是*|
 |[报告功能和疑难解答工具](reporting-features-and-troubleshooting-tools.md)|是*|是*|是|是|是*|是*|
-|[共享和协作](sharing-and-collaboration.md)|是|是|是|是|是|是|
-|[客户端和移动设备](clients-and-mobile-devices.md)|是*|是|是|是*|是*|是*|
-|[语音消息服务](voice-message-services.md)|是*|是*|是|否*|否*|否*|
-|[高可用性和业务连续性](high-availability-and-business-continuity.md)|是*|是|是|是|是|是|
-|[互操作性、连接性和兼容性](interoperability-connectivity-and-compatibility.md)|是|是|是|是|是|是|
-|[Exchange Online 设置和管理](exchange-online-setup-and-administration.md)|是*|是|是|是|是|是*|
+|[共享和协作](/exchange/sharing/sharing)|是|是|是|是|是|是|
+|[客户端和移动设备](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)|是*|是|是|是*|是*|是*|
+|[语音消息服务](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)|是*|是*|是|否*|否*|否*|
+|[高可用性和业务连续性](/exchange/high-availability/high-availability)|是*|是|是|是|是|是|
+|[互操作性、连接性和兼容性](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity)|是|是|是|是|是|是|
+|[Exchange Online 设置和管理](/exchange/architecture/client-access/exchange-admin-center)|是*|是|是|是|是|是*|
 |扩展服务 - 自定义、外接程序和资源|是|是|是|是|是|是|
 
 ## <a name="learn-more"></a>了解详细信息

@@ -1,5 +1,5 @@
 ---
-title: 邮件策略和邮件Exchange Online Protection
+title: 邮件策略和策略中的Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,22 +12,22 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: 阅读本文，了解 Microsoft Exchange Online Protection (EOP) 中的邮件策略和合规性) 。
-ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 12e240cc8f982b98f691af4a45316aea3c7e18d8
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672303"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083348"
 ---
-# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>邮件策略和邮件Exchange Online Protection
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>邮件策略和策略中的Exchange Online Protection
 
-Microsoft Exchange OnlineEOP (保护) 提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
+Microsoft Exchange Online Protection (EOP) 提供了可帮助您管理电子邮件数据的邮件策略和合规性功能。
 
 要查找有关 EOP 所有功能的信息吗？ 请参阅 Exchange Online Protection[服务说明](exchange-online-protection-service-description.md)。
 
 ## <a name="mail-flow-rules"></a>邮件流规则
 
-邮件流规则 (也称为传输规则) 您可以灵活地将您自己的公司特定策略应用于电子邮件。 邮件流规则由灵活条件所决定，这允许您定义条件、例外和基于条件要采取的操作。 有关详细信息，请参阅邮件[流规则 (中的) 传输Exchange Online Protection。](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
+邮件流规则 (传输规则) 传输规则）使你可以灵活地将自己的公司特定策略应用于电子邮件。 邮件流规则由灵活条件所决定，这允许您定义条件、例外和基于条件要采取的操作。 有关详细信息，请参阅邮件[流规则 (中的) 传输Exchange Online Protection。](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
 
 ## <a name="audit-logging"></a>审核日志记录
 
@@ -62,7 +62,7 @@ Microsoft Exchange OnlineEOP (保护) 提供了可帮助您管理电子邮件数
 
 ## <a name="office-365-message-encryption"></a>Office 365 邮件加密
 
-Office 365 邮件加密 Azure 信息保护的一部分，它是允许电子邮件用户向任何人发送加密电子邮件的联机服务。 本地客户可以通过购买 Azure 信息Office 365 邮件加密使用 azure 信息保护，Exchange Online Protection设置邮件流，以Exchange Online。 若要了解有关 Office 365 邮件加密 Exchange Online 中[Office 365 邮件加密，请参阅](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption)Office 365 邮件加密 服务Exchange Online中的说明。
+Office 365 邮件加密 Azure 信息保护的一部分，它是允许电子邮件用户向任何人发送加密电子邮件的联机服务。 本地客户可以通过购买 Azure Office 365 邮件加密，然后使用 Exchange Online Protection 设置邮件流，以访问 Exchange Online。 若要了解有关 Office 365 邮件加密 中Exchange Online，请参阅[Office 365 邮件加密](/exchange/policy-and-compliance/policy-and-compliance)服务Exchange Online中的说明。
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>跨 EOP 选项的邮件策略和合规性功能
 

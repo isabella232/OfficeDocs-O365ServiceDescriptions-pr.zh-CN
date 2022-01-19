@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: cfac46a25119efebccddd775408afa2b735d8563
-ms.sourcegitcommit: d56d154863abf0059e7d19ff88499fda68b216e8
-ms.translationtype: HT
+ms.openlocfilehash: d979a49aa5ab24f06e8501cc44071a8c1d65e56f
+ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60536423"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62083414"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -334,16 +334,16 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 
 | 功能 | 由世纪互联运营的 Microsoft 365 商业基础版 | 由世纪互联运营的 Microsoft 365 商业应用版 | 由世纪互联运营的 Microsoft 365 商业标准版 | 由世纪互联运营的 Office 365 企业版 E1 | 由世纪互联运营的 Office 365 企业版 E3 | 由世纪互联运营的 Office 365 企业版 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| **[规划和部署](../exchange-online-service-description/planning-and-deployment.md)** | | | | | | |
+| **[规划和部署](/exchange/plan-and-deploy/plan-and-deploy)** | | | | | | |
 | 支持的混合部署 | 是<sup>9、10</sup> | 是<sup>10</sup> | 是<sup>9、10</sup> | 是<sup>10</sup> | 是<sup>10</sup> | 是<sup>10</sup> |
 | 支持的 IMAP 迁移 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 支持的直接转换迁移 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 支持的暂存迁移 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[权限](../exchange-online-service-description/permissions.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[权限](/exchange/permissions-exo/permissions-exo)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 基于角色的权限 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 角色组 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 角色分配策略 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[邮件策略和合规性](../exchange-online-service-description/message-policy-and-compliance.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[邮件策略和合规性](/exchange/policy-and-compliance/policy-and-compliance)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 存档基于 Exchange Online 的邮箱 | 是 | 是 | 是 | 是 | 是 | 否 |
 | 内部部署邮箱的基于云的存档 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 保留标记和保留策略 | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -357,7 +357,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | 邮件流规则（传输规则） | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> | 是<sup>3</sup> |
 | 数据丢失防护 | 否 | 否 | 否 | 否 | 是 | 否 |
 | 日记功能  | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[反垃圾邮件和反恶意软件保护](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[反垃圾邮件和反恶意软件保护](/exchange/antispam-and-antimalware/antispam-and-antimalware)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 内置反垃圾邮件保护 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 自定义反垃圾邮件策略 | 是 | 是 | 是 | 是 | 是 | 是 <sup>4</sup> |
 | 内置反恶意软件保护 | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> | 是<sup>5</sup> |
@@ -365,13 +365,13 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | 隔离 - 管理员管理 | 是 | 是 | 是 | 是 | 是 | 是 <sup>4</sup> |
 | 隔离 - 最终用户自我管理 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 高级强大的威胁保护 | 否 | -- | 否 | 否 | 否 | 否 |
-| **[邮件流](../exchange-online-service-description/mail-flow.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[邮件流](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 出站邮件的自定义路由 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 与受信任合作伙伴的安全邮件 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 有条件的邮件路由 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 向入站安全列表添加合作伙伴 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 混合电子邮件路由 | 是<sup>9</sup> | -- | 是<sup>9</sup> | 是 | 是 | 是 |
-| **[收件人](../exchange-online-service-description/recipients.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[收件人](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 容量报警 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 混乱邮件 | 是 | 是 | 是 | 是 | 是 | 是 |
 | MailTips | 是 | 是 | 是 | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> |
@@ -399,10 +399,10 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | 邮件跟踪 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 审核报告 | 是 | 是 | 是 | 是 | 是 | 是 <sup>2</sup> |
 | 统一消息报告 | 否 | 否 | 否 | 否 | 否 | 否 |
-| **[共享和协作](../exchange-online-service-description/sharing-and-collaboration.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[共享和协作](/exchange/sharing/sharing)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 联合共享（包括日历发布） | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> | 是<sup>12</sup> |
 | 公用文件夹 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[客户端和移动设备](../exchange-online-service-description/clients-and-mobile-devices.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[客户端和移动设备](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | Microsoft Outlook | 是 | 是 | 是 | 是 | 是 | 否 <sup>6</sup> |
 | Outlook 网页版 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Exchange ActiveSync | 是 | 是 | 是 | 是 | 是 | 是 |
@@ -410,22 +410,22 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | SMTP | 是 | 是 | 是 | 是 | 是 | 是 |
 | EWS 应用程序支持 | 是 | 是 | 是 | 是 | 是 | 否 |
 | Outlook for Mac | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[语音消息服务](../exchange-online-service-description/voice-message-services.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[语音消息服务](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 语音邮件 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 语音邮件与第三方传真的集成 | 否 | 否 | 否 | 否 | 否 | 否 |
 | 第三方语音邮件互操作性 | 否 | 是 | 否 | 否 | 否 | 否 |
 | Skype for Business 集成 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[高可用性和业务连续性](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[高可用性和业务连续性](/exchange/high-availability/high-availability)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | 数据中心的邮箱复制 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 已删除邮箱的恢复 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 已删除邮件的恢复 | 是 | 是 | 是 | 是 | 是 | 是 |
 | 单个项目恢复 | 是 | 是 | 是 | 是 | 是 | 否 |
-| **[互操作性、连接性和兼容性](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[互操作性、连接性和兼容性](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | OWA 和 Outlook 中的 Skype for Business 状态 | 是 | 是 | 是 | 是 | 是 | 否 |
 | SharePoint 互操作性 | 是 | 是 | 是 | 是 | 是 | 是 |
 | EWS 连接性支持 | 是 | 是 | 是 | 是 | 是 | 是 |
 | SMTP 中继支持 | 是 | 是 | 是 | 是 | 是 | 是 |
-| **[Exchange Online 设置和管理](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
+| **[Exchange Online 设置和管理](/exchange/architecture/client-access/exchange-admin-center)** | **由世纪互联运营的 Microsoft 365 商业基础版** | **由世纪互联运营的 Microsoft 365 商业应用版** | **由世纪互联运营的 Microsoft 365 商业标准版** | **由世纪互联运营的 Office 365 企业版 E1** | **由世纪互联运营的 Office 365 企业版 E3** | **由世纪互联运营的 Office 365 企业版 F3** |
 | Microsoft Office 365 门户访问 | 是 | 是 | 是 | 是 | 是 | 是 |
 | Microsoft 365 管理中心访问 | 是 | 是 | 是 | 是 | 是 | 否 |
 | Exchange 管理中心访问 | 是 | 是 | 是 | 是 | 是 | 是 |
