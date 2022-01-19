@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 34d9dfa84991fb5842a3778f52c26c9c3f2a7ecf
-ms.sourcegitcommit: d8df217b7511b1d7ceb8a66a27a552f4503c4c40
+ms.openlocfilehash: fcb565157c6a28996af2af9d141e1c7c5c2ae887
+ms.sourcegitcommit: 46dcb94ca83d84d035e58938d09ab99932e3e251
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2021
-ms.locfileid: "60963502"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62076861"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -25,18 +25,17 @@ ms.locfileid: "60963502"
 
 | 功能 | Microsoft 365 商业基础版、商业标准版或商业高级版 | Microsoft 365 E3 或 E5、Office 365 E1、E3 或 E5、或 SharePoint 计划 1 或 2 | Microsoft 365 F1 或 F3、Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|每个组织的总存储空间 <sup>1、2、6</sup> <br/> |购买的每个许可证 1 TB 加上 10 GB <sup>3</sup>  <br/> |购买的每个许可证 1 TB 加上 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
-|每个网站（网站集）的最大存储空间 <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <sup>5</sup> <br/> |
-|每个组织的网站（网站集）  <br/> |200 万 <sup>6</sup> <br/> |200 万 <sup>6</sup> <br/> |200 万<br/> |
-|用户数  <br/> |最多 300 个  <br/> |1- 500,000<sup>7</sup> <br/> |1- 500,000<sup>7</sup> <br/> |
+|每个组织的总存储量<sup>1、2、5</sup> <br/> |购买的每个许可证 1 TB 加上 10 GB <sup>3</sup>  <br/> |购买的每个许可证 1 TB 加上 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
+|每个网站（网站集）的最大存储空间 <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <br/> |
+|每个组织的网站（网站集）  <br/> |200 万<sup>5</sup> <br/> |200 万<sup>5</sup> <br/> |200 万<br/> |
+|用户数  <br/> |最多 300 个  <br/> |1- 500，000<sup>6</sup> <br/> |1- 500，000<sup>6</sup> <br/> |
    
 <sup>1</sup> [了解如何查找组织的总存储空间和可用存储空间。](/sharepoint/manage-site-collection-storage-limits) 可以购买的额外存储空间不受限制。 请参阅 [添加订阅的存储空间](/office365/admin/subscriptions-and-billing/add-storage-space)。 
 <br/><sup>2</sup> 建议监视并定期清空回收站。 其所用存储空间是组织总存储限制的一部分。 
 <br/> <sup>3</sup> 如果具有 Microsoft 365 订阅和 Office 365 额外文件存储加载项，则存储量将增加。 
 <br/> <sup>4</sup> 这是单个网站（以前称为“网站集”）的存储 *限制*，而不是为每个站点 *提供的* 存储量。 此限制适用于所有类型的网站，包括 Office 365 组连接团队网站和 OneDrive。 SharePoint 管理员可以 [手动设置较低的存储限制](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。 
-<br/> <sup>5</sup>一线工作人员无法管理SharePoint网站。 
-<br/> <sup>6</sup> 不包括为每个许可用户创建的 OneDrive。 
-<br/> <sup>7</sup> 如果用户数超过 500,000，请与 Microsoft 代表联系。 
+<br/> <sup>5</sup>不包括OneDrive用户创建的许可证。 
+<br/> <sup>6</sup> 如果你的用户数超过 500，000，请与 Microsoft 代表联系。 
   
 ## <a name="service-limits-for-all-plans"></a>所有计划的服务限制
 
@@ -46,7 +45,7 @@ ms.locfileid: "60963502"
 
 - **250 MB - 附加到列表项的文件。** 适用于 Microsoft Lists和 SharePoint Lists - 二者都基于相同的列表平台。
 
-- 对于 OneDrive、OneDrive 和 Microsoft 365 中的 SharePoint，整个解码文件路径（包括文件名）不能超过 400 个字符。 该限制适用于解码后的文件夹路径和文件名的组合。 有关详细信息，请转到文件名  [和路径长度](https://support.microsoft.com/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa#filenamepathlengths)。
+- 整个解码文件路径（包括文件名）对于 OneDrive、OneDrive 或学校以及 Microsoft 365 中的SharePoint不能超过 400 个字符。 该限制适用于解码后的文件夹路径和文件名的组合。 有关详细信息，请转到文件名  [和路径长度](https://support.microsoft.com/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa#filenamepathlengths)。
 
 要详细了解使用新的 OneDrive 同步应用 (OneDrive.exe) 时的限制和约束，请参阅 [无效的文件名和文件类型](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)。
 
@@ -83,7 +82,7 @@ ms.locfileid: "60963502"
 
 ### <a name="sharepoint-workflow"></a>SharePoint 工作流
 
-SharePoint没有结束条件或显式停止操作，则 2013 工作流可以按设计以长期运行。
+SharePoint没有结束条件或显式停止操作，则 2013 工作流可以按设计长期运行。
 
 ### <a name="subsites"></a>子网站
 
@@ -94,7 +93,7 @@ SharePoint没有结束条件或显式停止操作，则 2013 工作流可以按�
 
 ### <a name="lists-and-libraries"></a>列表和库
 
-每个网站集集中组合了 2，000 个列表和 (包括主网站和任何子网站) 。
+每个网站集组合 2，000 个列表和库 (包括主网站和任何子网站) 。
 
 ### <a name="sync"></a>同步
 
