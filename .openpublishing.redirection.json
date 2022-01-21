@@ -191,6 +191,66 @@
       "redirect_document_id": false
     },
 	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/planning-and-deployment.md",
+      "redirect_url": "/exchange/plan-and-deploy/plan-and-deploy",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/permissions.md",
+      "redirect_url": "/exchange/permissions-exo/permissions-exo",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance.md",
+      "redirect_url": "/exchange/policy-and-compliance/policy-and-compliance",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/anti-spam-and-anti-malware-protection.md",
+      "redirect_url": "/exchange/antispam-and-antimalware/antispam-and-antimalware",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/mail-flow.md",
+      "redirect_url": "/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/recipients.md",
+      "redirect_url": "/exchange/recipients-in-exchange-online/recipients-in-exchange-online",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/sharing-and-collaboration.md",
+      "redirect_url": "/exchange/sharing/sharing",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices.md",
+      "redirect_url": "/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/voice-message-services.md",
+      "redirect_url": "/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/high-availability-and-business-continuity.md",
+      "redirect_url": "/exchange/high-availability/high-availability",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/interoperability-connectivity-and-compatibility.md",
+      "redirect_url": "/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity",
+      "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration.md",
+      "redirect_url": "/exchange/architecture/client-access/exchange-admin-center",
+      "redirect_document_id": false
+    },
+	{
       "source_path": "Office365-ServiceDescriptions/yammer-service-description/support-features-in-yammer.md",
       "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
       "redirect_document_id": false
