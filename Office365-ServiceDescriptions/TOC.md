@@ -8,7 +8,6 @@
 ## [Microsoft 365 和 Office 365 平台服务说明](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Microsoft 365 和 Office 365 计划选项](office-365-platform-service-description/office-365-plan-options.md)
 ### [Office 365 系统要求](office-365-platform-service-description/office-365-system-requirements.md)
-### [安全与合规中心](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Microsoft 365 套件功能](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 美国政府版](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)

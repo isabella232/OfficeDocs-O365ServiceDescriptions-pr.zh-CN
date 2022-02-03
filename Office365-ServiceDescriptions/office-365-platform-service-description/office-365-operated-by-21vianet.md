@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
-ms.openlocfilehash: d979a49aa5ab24f06e8501cc44071a8c1d65e56f
-ms.sourcegitcommit: bee0e9c3474f9d0694a8648abff6ac1831fc9bd0
-ms.translationtype: HT
+ms.openlocfilehash: 92d307e9adaaa46c5c12345adb298460dd2f4c6e
+ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "62083414"
+ms.lasthandoff: 02/03/2022
+ms.locfileid: "62332377"
 ---
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
@@ -233,7 +233,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 <sup>14</sup>Outlook Mobile（iOS 和 Android）中目前不支持多重身份验证。 <br/>
 <sup>15</sup>世纪互联提供 OneNote 课堂笔记本，但 OneNote 课堂笔记本工具栏不可用于 Windows 10 应用、iPad 和 OneNote 网页版。 <br/>
 <sup>16</sup> 由世纪互联运营的Office 365仅支持保留策略。 不支持 Yammer 和 Teams 位置的保留标签或保留策略。 有关详细信息，请参阅 [保留策略入门](/microsoft-365/compliance/get-started-with-retention)。 <br/>
-<sup>17</sup> Microsoft 365中的审核使组织能够查看Microsoft 365中不同服务中的多种类型的审核活动。 使用 [安全 &amp; 合规中心](./office-365-securitycompliance-center.md) 审核日志搜索来查看你的组织的用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录保留(并可在审核日志中搜索)的时间长度取决于客户的Office 365或Microsoft 365企业订阅以及分配给特定用户的许可证类型。
+<sup>17</sup> Microsoft 365中的审核使组织能够查看Microsoft 365中不同服务中的多种类型的审核活动。 使用[Microsoft 365合规性策略审核日志&amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)查看组织中用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录保留(并可在审核日志中搜索)的时间长度取决于客户的Office 365或Microsoft 365企业订阅以及分配给特定用户的许可证类型。
 
 ## <a name="office-365-application-features"></a>Office 365 的应用程序功能
 
