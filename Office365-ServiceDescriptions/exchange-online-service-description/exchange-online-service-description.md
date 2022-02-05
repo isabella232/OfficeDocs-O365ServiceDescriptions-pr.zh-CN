@@ -6,33 +6,28 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
-- exchange-online-service-description
+  - exchange-online-service-description
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom:
-- Adm_ServiceDesc_top
-- Adm_ServiceDesc
+  - Adm_ServiceDesc_top
+  - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
-description: 您是否正在查找包含该订阅的订阅的功能Exchange Online？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: 221989f56a2779dc5f8da3beefff85af8d1ce5cd
-ms.sourcegitcommit: 4e715887072acabf402e811298171d619a7c83fe
-ms.translationtype: MT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62271084"
+description: 您是否正在查找包含这些订阅的订阅Exchange Online？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
 ---
+
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
-Microsoft Exchange Online是一种托管邮件解决方案，它从电脑、Web 和移动设备传送电子邮件、日历、联系人和任务。 它与Azure Active Directory集成，使管理员能够使用组策略以及其他管理工具来管理Exchange Online功能。
+Microsoft Exchange Online是一种托管邮件解决方案，它从电脑、Web 和移动设备传送电子邮件、日历、联系人和任务。 它与Azure Active Directory集成，使管理员能够使用组策略以及其他管理工具来管理Exchange Online环境中的功能。
 
 订阅邮件服务的Exchange Online保留对它们为用户提供的邮件服务的控制权。 利用本文档中描述的 Exchange Online 托管计划，电子邮件将托管在同时支持多个客户的服务器上。 这些服务器位于 Microsoft 数据中心内，可供各种设备（从企业网络内部或 Internet）访问。
 
 ## <a name="available-plans-for-exchange-online"></a>可用的Exchange Online
 
-Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关为用户启用订阅的详细信息，Exchange Online完整[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
+Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关允许用户进行订阅的详细信息，Exchange Online完整[订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
 > [!NOTE]
-> 每位访问 Exchange Online 服务的用户均必须分配一个订阅计划，且每个用户订阅均具有自身的邮箱。 这些邮箱中的文件夹和邮件驻留在 Microsoft 数据中心。 会议室和共享邮箱不需要用户订阅。 这些特殊邮箱类型没有登录凭据，而是具有适当权限的许可用户通过委派管理和访问它们。 Microsoft 365 F1不包括对邮箱Exchange权限。 若要启用完整的 Teams 体验，Microsoft 365 F1 K1 服务计划Exchange Online许可证。 尽管 Exchange Online K1 服务计划将为用户设置邮箱，Microsoft 365 F1用户无权使用该邮箱。 建议通过这些步骤Outlook 网页版邮箱，并要求用户不要[](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)通过任何其他Exchange访问邮箱。
+> 每位访问 Exchange Online 服务的用户均必须分配一个订阅计划，且每个用户订阅均具有自身的邮箱。 这些邮箱中的文件夹和邮件驻留在 Microsoft 数据中心。 会议室和共享邮箱不需要用户订阅。 这些特殊邮箱类型没有登录凭据，而是具有适当权限的许可用户通过委派管理和访问它们。 Microsoft 365 F1不包括对邮箱Exchange权限。 若要启用完整的 Teams 体验，Microsoft 365 F1启用的 Exchange Online K1 服务计划。 尽管 Exchange Online K1 服务计划将为用户设置邮箱，Microsoft 365 F1用户无权使用该邮箱。 建议通过这些步骤Outlook 网页版邮箱，并要求用户不要[](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)通过任何其他Exchange访问邮箱。
 
 ## <a name="feature-availability-including-standalone-plans"></a>功能可用性 (包括独立计划) 
 
@@ -40,16 +35,16 @@ Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关
 
 ### <a name="features-available-to-all-plans"></a>所有计划可用的功能
 
-这些功能适用于所有商业版 (基本、标准和高级) 、Enterprise (E1、E3、E5 和 F3) 以及 Exchange Online 计划 (1、2 和展台) – 有关详细信息，请参阅脚注。
+这些功能适用于所有商业版 (基本、标准和高级) 、Enterprise (E1、E3、E5 和 F3) 以及 Exchange Online 计划 (1、2 和网亭) – 有关详细信息，请参阅脚注。
 
-- 反垃圾邮件和反恶意软件 [**保护 (通过**](/exchange/antispam-and-antimalware/antispam-and-antimalware)直接访问 Exchange 管理中心管理界面) ：内置反垃圾邮件和反恶意软件保护 (使用多个反恶意软件引擎扫描入站、出站和内部邮件中的恶意软件) 、自定义反垃圾邮件和反恶意软件策略、隔离 - 管理员管理和隔离 - 最终用户自我管理。
+- 反垃圾邮件和反恶意软件 [**保护 (通过**](/exchange/antispam-and-antimalware/antispam-and-antimalware)直接访问 Exchange 管理中心管理界面) ：内置的反垃圾邮件和反恶意软件保护 (使用多个反恶意软件引擎扫描入站、出站和内部邮件中恶意软件) 、自定义的反垃圾邮件和反恶意软件策略、隔离 - 管理员管理和隔离 - 最终用户自我管理。
 - [**Exchange Online和管理**](/exchange/architecture/client-access/exchange-admin-center)**：** Microsoft 365门户和管理中心访问、Exchange管理中心访问、远程 Windows PowerShell 访问、移动设备的 ActiveSync 策略、[使用情况报告](/exchange/monitoring/monitoring)。
-- [**高可用性和业务连续性**](/exchange/high-availability/high-availability)：数据中心的邮箱复制、单个项目 (不适用于 F3 和 Kiosk 计划) 已删除的邮箱和 [已删除项目恢复](/exchange/recipients/disconnected-mailboxes/restore-deleted-mailboxes)。
+- [**高可用性和业务连续性**](/exchange/high-availability/high-availability)：数据中心的邮箱复制、单个项目 (F3 和展台计划) 已删除的邮箱和已删除 [项目恢复](/exchange/recipients/disconnected-mailboxes/restore-deleted-mailboxes)。
 - 互操作性、连接性和 [**兼容性**](/exchange/security-and-compliance/interoperability-connectivity-and-compatiblity)**：** Skype for Business OWA 和 Outlook 中的状态、SharePoint 互操作性、EWS 连接支持 (EWS 应用支持（应用于模拟) 、SMTP 中继支持）。
 - [](/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)邮件流：出站邮件的自定义路由、与受信任合作伙伴的安全邮件传递、将合作伙伴添加到入站安全列表、条件邮件和混合电子邮件路由 (CAL 或升级到 Enterprise SKU 提供访问权限) 。
 - [](/exchange/plan-and-deploy/plan-and-deploy) [](/exchange/hybrid-deployment/hybrid-deployment)规划和部署：支持 (CAL 或升级到 Enterprise SKU 的混合部署为企业版和 F3 计划提供访问权限) 、[IMAP](/exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes)、转换和分[步迁移支持](/exchange/mailbox-migration/what-to-know-about-a-staged-migration)。
-- [](/office365/servicedescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools)报告功能和疑难解答工具 **：Microsoft 365 管理中心报告**、Excel报告工作簿、Web 服务报告、统一消息报告 (E3/E5 和仅计划 2) 。 邮件跟踪和[审核](/exchange/exchange-auditing-reports-exchange-2013-help)报告可通过直接访问 EAC Exchange管理 (EAC) 访问。
-- [](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)收件人：容量警报、待筛选邮件、邮件提示、收件箱规则、脱机通讯簿、通讯簿策略、通讯组、外部联系人 (全局) 、通用联系人卡片、社交网络的联系人链接、资源邮箱、会议室管理、外出答复、日历共享 (Kiosk 日历只能通过 OWA) 访问或共享。
+- [](/office365/servicedescriptions/exchange-online-service-description/reporting-features-and-troubleshooting-tools)报告功能和疑难解答工具 **：Microsoft 365 管理中心报告**、Excel报告工作簿、Web 服务报告、统一消息报告 (E3/E5 和仅计划 2) 。 邮件跟踪和[审核](/exchange/exchange-auditing-reports-exchange-2013-help)报告可通过直接访问 EAC Exchange管理中心 (EAC) 访问。
+- [](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)收件人：容量警报、待筛选邮件、邮件提示、收件箱规则、脱机通讯簿、通讯簿策略、通讯组、外部联系人 (全局) 、通用联系人卡片、社交网络的联系人链接、资源邮箱、会议室管理、外出答复、日历共享 (展台日历只能通过 OWA) 访问或共享。
 - 共享 [**和**](/exchange/sharing/sharing)协作：必须包含和部署联合共享 (包括日历发布) 、网站邮箱 (SharePoint Online) 以及公用文件夹 (不适用于 F3 和网亭计划) 。
 - [**语音邮件服务**](/exchange/plan-and-deploy/integration-with-sharepoint-and-skype/integration-with-sharepoint-and-skype)**：Skype for Business** 集成。 第三方语音邮件互操作性。 仅 E3/E5 和计划 2 提供语音邮件和第三方语音邮件/传真集成。 对于通过直接连接的第三方 PBX 系统，请参阅不再支持统一消息中的会话[Exchange Online控制器](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853)。
 
@@ -61,7 +56,7 @@ Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[客户端和移动设备](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook 网页版<sup>1、</sup>Outlook iOS 和 <sup>Android1</sup>、Exchange ActiveSync 和 SMTP<img width=140/>|是<img width=60/>|是<img width=60/>|是<img width=60/>|是<img width=60/>|是|是|
 ||POP 和 IMAP|是|是|是|是<sup>2</sup>|是|是<sup>3</sup>|
-||EWS 应用程序支持，Outlook Windows <sup>1、</sup>Outlook for Mac <sup>1</sup>|是|是|是|否|是|否|
+||EWS 应用程序支持，Outlook Windows <sup>1</sup>、Outlook for Mac <sup>1</sup>|是|是|是|否|是|否|
 ||基本移动性和安全性Microsoft 365|是|是|是|是|||
 |**[邮件策略和合规性](/exchange/policy-and-compliance/policy-and-compliance)**|[存档基于 Exchange Online 的邮箱](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|否|是|是|
 ||内部部署邮箱的基于云的存档|否|是|是|否|是<sup>5</sup>|是|
@@ -75,11 +70,11 @@ Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关
 ||Microsoft 365 组|是|是|是|是|是<sup>12</sup>|否|
 
 <sup>1</sup>某些第三方 Web 部件和外接程序可能不可用。 <br/>
-<sup>2</sup> Windows Server AD RMS 是必须单独购买和管理才能启用支持的 IRM 功能本地服务器。 <br/>
+<sup>2</sup> 支持 POP，但不支持 IMAP。 <br/>
 <sup>3</sup> 不支持 IMAP。 <br/>
 <sup>4</sup> 可以单独为需要非活动邮箱或存档功能的每个邮箱购买 EOA 订阅。 <br/>
 <sup>5</sup> 仅计划 2。 <br/>
-<sup>6</sup> 单独购买的 AIP 以启用 IRM 功能。 某些 AIP 功能还要求 M365 企业应用版 (E1/F3 或商业版计划中不包含。 <br/>
+<sup>6</sup> 单独购买的 AIP 以启用 IRM 功能。 某些 AIP 功能还要求 M365 企业应用版 (E1/F3 或业务计划中不包含。 <br/>
 <sup>7</sup> Office 365 邮件加密取决于 AIP。 <br/>
 <sup>8</sup> 仅适用于 E5 的客户密钥。 <br/>
 <sup>9</sup> 对于电子数据展示，需要针对本地与云的单独查询。<br/>
@@ -91,7 +86,7 @@ Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关
 
 ### <a name="scheduler-for-microsoft-365"></a>Microsoft 365 专属计划员
 
-Microsoft 365计划程序是一种附加Exchange Online，允许用户将其日程安排需求委派给数字个人助理。 助理可以安排和重新安排与组织内外人员之间的约会和会议。 助理邮箱由租户设置和控制。 若要启用计划程序，管理员需要通过 PowerShell cmdlet 设置助理的邮箱，并购买会议组织者的许可证。 若要详细了解计划程序及其工作方式，请参阅欢迎[使用计划程序Microsoft 365](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work)。 有关计划程序定价和许可，请参阅[计划程序Microsoft 365许可](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing)。
+Microsoft 365计划程序是一种附加Exchange Online，它使用户能够将其日程安排需求委派给数字个人助理。 助理可以安排和重新安排与组织内外人员之间的约会和会议。 助理邮箱由租户设置和控制。 若要启用计划程序，管理员需要通过 PowerShell cmdlet 设置助理的邮箱，并购买会议组织者的许可证。 若要详细了解计划程序及其工作方式，请参阅欢迎[使用计划程序Microsoft 365](/microsoft-365/scheduler/scheduler-overview#how-does-scheduler-for-microsoft-365-work)。 有关计划程序定价和许可，请参阅[计划程序Microsoft 365许可](https://www.microsoft.com/microsoft-365/meeting-scheduler-pricing)。
 
 ## <a name="learn-more"></a>了解详细信息
 
@@ -105,9 +100,9 @@ Microsoft 365计划程序是一种附加Exchange Online，允许用户将其日�
 - [**Exchange Online 帮助**](/exchange/exchange-online)
 - 有关跨计划的功能详细信息，请参阅 [支持企业的强大工具](https://products.office.com/business/compare-more-office-365-for-business-plans)。
 - 可以在 Microsoft 服务说明中导出、保存和打印页面。 了解如何导出 [**内容搜索结果**](/office365/securitycompliance/export-search-results)。
-- **Exchange中心** 中的新增功能：有关 Exchange 管理中心中的新功能的信息，请参阅 Exchange [中心中的新增功能](/exchange/whats-new)。
+- **Exchange中心** 中的新增功能：有关 Exchange 管理中心中的新功能的信息，请参阅 Exchange [中的新增功能](/exchange/whats-new)。
 - **Exchange Online的系统要求：** 有关系统要求（适用于企业、教育以及政府组织的基于每月订阅的服务）的信息，请参阅 Microsoft 365 [和 Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG)。
-- 存储和收件人Exchange Online：有关 Exchange Online 订阅计划中提供的存储和收件人限制的信息，请参阅Exchange Online[限制](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)。
+- 存储和收件人Exchange Online：有关 Exchange Online 订阅计划中可用的存储和收件人限制的信息，请参阅Exchange Online[限制](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)。
 - **消息传递：** 若要及时了解即将进行的更改，包括新功能和已更改的功能、计划的维护或其他重要通知，请访问消息中心。 有关详细信息，请参阅[消息中心](/microsoft-365/admin/manage/message-center)。
 - 许可条款：有关通过 Microsoft 商业批量许可计划购买的产品和服务的许可条款和条件，请参阅产品 [条款网站](https://www.microsoft.com/licensing/terms/)。
 - **辅助功能：** Microsoft 始终致力于确保数据的安全性 [以及服务的](https://www.microsoft.com/trust-center/compliance/accessibility) 辅助功能。 有关详细信息，请参阅 [Microsoft 信任中心](https://www.microsoft.com/trust-center)和 [Office 辅助功能中心](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)。
