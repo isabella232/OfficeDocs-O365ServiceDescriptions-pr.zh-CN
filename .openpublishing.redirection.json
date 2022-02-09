@@ -254,6 +254,12 @@
       "source_path": "Office365-ServiceDescriptions/yammer-service-description/support-features-in-yammer.md",
       "redirect_url": "/office365/servicedescriptions/yammer-service-description/yammer-service-description",
       "redirect_document_id": false
+    },
+	{
+      "source_path": "Office365-ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center.md",
+    
+	"redirect_url": "/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance",
+      "redirect_document_id": false
     }
   ]
 }
