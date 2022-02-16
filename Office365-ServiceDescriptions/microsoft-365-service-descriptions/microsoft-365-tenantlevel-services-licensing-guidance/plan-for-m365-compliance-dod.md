@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于在美国政府实体或其他处理受政府法规和要求（使用 Microsoft 365 Government – DoD 适合满足这些要求的实体）中部署 Office 365 的 IT 专业人员。
-ms.openlocfilehash: eae27ff24357496815212f5f18af2bb006637c4d
-ms.sourcegitcommit: dfd782da35d10d6c663653706b4c8d53a14ef980
+ms.openlocfilehash: f400e2a7d6a6ee127247490f3c0f566fd0d7d74f
+ms.sourcegitcommit: dc988a858c4df5da81edfef407a01f917a37c52c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62542628"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "62824369"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Microsoft 365 合规性计划 - DoD 部署
 
@@ -70,25 +70,25 @@ ms.locfileid: "62542628"
 | 敏感度标签  | 统一标记客户端和扫描程序 | 可用  |
 | | 对上载到联机文档库的未标记SharePoint应用"默认标签" | 开发中 |
 | | 应用默认标签策略以确保正在编辑的文档 | 开发中 |
-| | Exchange Online、SharePoint Online 和 OneDrive for Business 的自动分类和OneDrive for Business  | 可用 |
-| | 跨平台 Office Web、Windows 和 Mac (Outlook)  (Word、Excel、PowerPoint Outlook) Windows 应用的自动分类和)   | 可用  |
+| | 自动分类和标记Exchange Online、SharePoint Online 和 OneDrive for Business  | 可用 |
+| | 跨平台 Office Web、Windows 和 Mac (Word、Excel、PowerPoint、Outlook)  (应用的自动分类和Windows)   | 可用  |
 | | 自动分类和标记客户端Office - 移动  | 工程积压工作  |
 | | 自动分类和标记Teams、Microsoft 365组SharePoint网站  | 可用  |
 | | 共同创作加密Microsoft 信息保护文档| 可用  |
-| | 增强的模拟和位置支持，支持 SharePoint Online 和 OneDrive for Business | 即将推出  |
+| | 增强的模拟和位置支持，支持在 SharePoint Online 和 OneDrive for Business | 即将推出  |
 | | 将内置敏感度标签扩展到 Azure 中的资产，Microsoft Azure Perview | 开发中  |
 | | 通过适用于在线网站的"敏感度标签"细化SharePoint访问策略 | 工程积压工作  |
 | | 强制标签  | 可用  |
 | | 手动标签  | 可用  |
 | | 自动标记的新条件Exchange Online| 开发中 |
 | 分析  | 数据分类分析：概述和内容资源管理器 | 可用 |
-| | Office应用程序中的审核和分析 | 可用 |
+| | Office 应用中的审核和分析 | 可用 |
 | | 活动资源管理器包括Power BI敏感度标签数据 | 可用 |
 | | 活动资源管理器内置筛选器 | 可用 |
 | | 内容资源管理器包括Teams数据 | 开发中 |
 | | 在应用/客户端上自动标记Office机器学习分类器  | 可用 |
 | 加密  | 基本 Office 365 邮件加密 (E3)  | 可用 |
-| | 高级Office 365 邮件加密 (E5)  | 可用 |
+| | 高级Office 365 邮件加密 (E5)  | 待定 |
 | | Office 365 的客户密钥 | 可用 |
 | | 客户密钥：静态数据加密Microsoft 365 | 可用 |
 | | 客户密钥：SharePoint Online 和 OneDrive for Business | 可用 |
@@ -102,7 +102,7 @@ ms.locfileid: "62542628"
 | | 数据丢失防护：Microsoft Defender for Apps (以前Microsoft Cloud App Security) 集成 | 可用 |
 | | On-prem 的数据丢失防护 | 开发中 |
 | | 数据丢失防护：概述页 | 可用 |
-| | 数据丢失防护：Teams聊天和频道对话 | 可用  |
+| | 数据丢失防护：Teams聊天和频道对话 | 可用 |
 | 信息管理政策  | 信息治理：保留和标记策略的自适应范围 | 可用   |
 | | 信息治理：在保留期结束时应用保留标签操作 | 工程积压工作 |
 | | 信息治理：将默认保留标签应用于SharePoint、OneDrive for Business库、文件夹和文档集;Exchange收件箱;Office 365组 | 可用 |
@@ -118,11 +118,11 @@ ms.locfileid: "62542628"
 | | 信息治理：保留策略Teams | 可用 |
 | | 信息治理：会议录制Teams策略 | 可用   |
 | | 信息治理：专用Teams保留策略 | 可用   |
-| 记录管理 | 记录管理：删除记录标签的能力 | 可用 |
+| 记录管理 | 删除记录标签的能力 | 可用 |
 | | 记录管理：允许记录标签启动"解锁"以用于手动记录声明 | 开发中 |
 | | 记录管理：手动应用记录标签  | 可用 |
-| | 记录管理：记录管理：将默认记录标签应用于SharePoint、OneDrive for Business库、文件夹和文档集Office 365组 | 可用  |
-| | 记录管理：记录管理：根据特定条件自动应用记录策略 (例如关键字或敏感信息) ;和 基于事件 | 可用  |
+| | 记录管理：将默认记录标签应用于SharePoint、OneDrive for Business库、文件夹和文档集以及Office 365组 | 可用  |
+| | 记录管理：根据特定条件自动应用记录 (，例如关键字或敏感信息) ;和 基于事件 | 可用  |
 | | 记录管理：使用可训练分类器自动应用记录策略 | 开发中 |
 | | 记录管理：禁用记录解锁 | 开发中 |
 | | 记录管理：处置评审 | 可用 |
@@ -151,12 +151,11 @@ ms.locfileid: "62542628"
 | | 通信合规性：从Teams聊天或频道Teams消息 | 可用 |
 | | 通信合规性：每个位置报告的敏感信息类型  | 开发中 |
 | | 通信合规性：支持更精细的权限 | 可用 |
-| | 通信合规性：支持七种语言用于威胁、针对性攻击和亵亵分类器  | 可用  |
-| | 通信合规性：支持更精细的权限 | 可用 |
+| | 通信合规性：支持七种语言用于威胁、针对性攻击和亵亵分类器  | 可用 |
 | | 通信合规性：支持Teams、Exchange以及删除邮件Teams功能 | 可用 |
-| | 通信合规性：Teams对话上下文 | 可用 | 
+| | 通信合规性：Teams对话上下文 | 可用 |
 | | 通信合规性：调查期间翻译内容 | 可用 |
-| 信息屏障 | 信息屏障 | 即将推出 |
+| 信息屏障 | 信息屏障 | 可用 |
 | 内部风险管理 | 内部风险管理：导出警报的能力 | 可用 |
 | | 内部风险管理：显示活动资源管理器数据 | 可用 |
 | | 内部风险管理：分析 | 公共预览版 |
@@ -242,12 +241,12 @@ ms.locfileid: "62542628"
 | | Advanced eDiscovery：查看者  | 可用  |
 | | Advanced eDiscovery：Yammer Advanced eDiscovery Microsoft 合规中心  | 可用  |
 | Audit  | 基本审核  | 可用  |
-| | 高级审核：访问关键 (例如 MailItemsAccessed)  | 可用  |
+| | 高级审核：访问关键事件 (例如 MailItemsAccessed)  | 可用  |
 | | 高级审核：审核保留仪表板 | 可用  |
 | | 高级审核：审核搜索增强功能 | 工程积压工作 |
 | | 高级审核：增加管理活动 API 的带宽  | 可用  |
 | | 高级审核：合法保留Teams私人频道消息 | 可用 |
-| | 高级审核：记录保留期 (1 年)   | 可用  |
+| | 高级审核：记录保留 (1 年)   | 可用  |
 | | 高级审核：审核日志的更长期保留期 (10 年)   | 即将推出  |
 | | 高级审核：邮件转发和邮件发送事件  | 可用  |
 | | 高级审核：Microsoft 365安全与合规中心 | 可用  |
@@ -264,7 +263,7 @@ ms.locfileid: "62542628"
 | | 第一方数据连接器：HR 1.2  | 可用   |
 | | 第一方数据连接器：物理保护  | 可用   |
 | | Graph API Advanced eDiscovery   | 开发中  |
-| | Graph公共预览版中的记录 (API)   | 开发中  |
+| | Graph公共预览版 (记录管理)   | 开发中  |
 | | Graph导出数据Teams API  | 开发中  |
  **隐私** | | |
 | 隐私管理  | Microsoft Priva  | 开发中  |
