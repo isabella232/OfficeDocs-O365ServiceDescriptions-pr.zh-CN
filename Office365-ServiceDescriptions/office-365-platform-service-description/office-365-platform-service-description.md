@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft 365 Office 365各种计划中都提供了一些解决方案，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括Exchange Online计划，本文将向您展示每个计划中包含的功能。
-ms.openlocfilehash: a39507016661093bf7a97466f20a699ae17553b5
-ms.sourcegitcommit: 676e301238f7e8b910cc61ec96ba3327b9b4fb73
+description: Microsoft 365各种计划中都提供了Office 365和解决方案，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括Exchange Online计划，本文将介绍每个计划中包含的功能。
+ms.openlocfilehash: 7387a4932e93b96b4fda599bfc968615ff38402e
+ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62332387"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63382773"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365 和 Office 365 平台服务说明
 
-Microsoft 365 Office 365各种计划中都提供了一些解决方案，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括Exchange Online计划，本文将向您展示每个计划中包含的功能。
+Microsoft 365各种计划中都提供了Office 365和解决方案，以最好地满足组织的需求。 如果你要查找计划之间的差异，包括Exchange Online计划，本文将介绍每个计划中包含的功能。
   
-Microsoft 365和 Office 365 为各种规模的企业提供云生产力的能力，从而节省时间、获得资金并释放有价值的资源。 Microsoft 365和 Office 365 计划将熟悉的 Microsoft Office 桌面套件与 Microsoft 的下一代通信和协作服务（包括 Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版和 Microsoft Skype for Business Online-帮助用户从几乎任何位置通过 Internet 提高工作效率。
+Microsoft 365和Office 365为各种规模的企业提供云生产力的能力，帮助节省时间、获得金钱并释放有价值的资源。 Microsoft 365和 Office 365 计划将熟悉的 Microsoft Office 桌面套件与 Microsoft 下一代通信和协作服务的基于云的版本（包括 Microsoft Exchange Online、Microsoft Office SharePoint Online、Office 网页版 和 Microsoft Skype for Business Online-帮助用户从几乎任何位置通过 Internet 提高工作效率。
   
 有关使用户能够使用 Microsoft 365 和 Office 365 平台的订阅的详细计划信息，请参阅[完整的订阅比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。 有关功能的详细列表，请参阅服务说明和Microsoft 365[下Office 365服务说明](/office365/servicedescriptions/office-365-service-descriptions-technet-library)。
   
@@ -43,7 +43,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
   
 ## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365非营利组织Office 365和计划及定价
 
-对于符合非营利组织的 Microsoft 365 和 Office 365 计划条件的组织，这些计划包含的功能与相应的商业计划完全相同 (例如，Office 365 E5 非营利组织版包含的功能与 Office 365 E5) 相同。 同等计划的唯一区别是价格。 有关非营利组织的Microsoft 365和Office 365计划的更多信息，请参阅比较适用于非营利组织的 Microsoft 365 和 [Office 365](https://go.microsoft.com/fwlink/?LinkID=627221) 产品/服务以及适用于非营利组织的生产力[解决方案](https://go.microsoft.com/fwlink/?LinkID=786641)。
+对于符合非营利组织的 Microsoft 365 和 Office 365 计划资格的组织，这些计划包含的功能与相应的商业计划完全相同 (例如，Office 365 E5 非营利组织版包含的功能与 Office 365 E5) 相同。 同等计划的唯一区别是价格。 有关非营利组织的Microsoft 365和Office 365计划的更多信息，请参阅比较适用于非营利组织的 Microsoft 365 和 [Office 365 产品](https://go.microsoft.com/fwlink/?LinkID=627221)/服务以及适用于非营利组织的生产力[解决方案](https://go.microsoft.com/fwlink/?LinkID=786641)。
   
 ## <a name="system-requirements"></a>系统要求
 
@@ -103,7 +103,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |Microsoft Planner  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |[Microsoft PowerApps](/power-platform/admin/powerapps-us-government)  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> | 
 |Microsoft Project Web <sup>20</sup> <br/> |是 <br/> |否 <br/>|是 <br/> |是 <br/> |是 <br/> |是 <br/> | 是 <br/> |
-|Microsoft StaffHub  <br/> |否  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|Microsoft StaffHub ([停用) ](/microsoftteams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |否  <br/> |
 |Microsoft Stream  <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>11</sup> <br/> |
 |Microsoft Sway  <br/> |是  <br/> |是  <br/> |是  <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |是<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |是  <br/> |否  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是 <br/> |
@@ -121,7 +121,7 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 |删除帐户并重置用户密码Microsoft 365或通过使用 Windows PowerShell <sup>3</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |用户可以更改自己的密码<sup>4</sup> <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |管理许可证  <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |是<sup>6</sup> <br/> |
-|从安全组Microsoft 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
+|从安全组管理Microsoft 365  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |多个管理员角色可用  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |允许合作伙伴管理Microsoft 365管理服务  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
 |Azure Active Directory <sup>services18</sup>  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |是  <br/> |
@@ -215,12 +215,12 @@ Office 365 推出了各种计划，旨在最大限度地满足组织需求。 �
 <br/><sup>10</sup> Microsoft Teams Microsoft 365 商业基础版、Microsoft 365 商业标准版、Office 365 企业版 (E1、E3、E5、F3) 和 Office 365 教育版 计划中提供。 
 <br/><sup>11</sup> 在 Office 365 企业版 F3 中，Microsoft Stream 只能查看 (发布或共享) 。
 <br/><sup>12</sup> 在 Office 365 企业版 F3 中，Flow限制为仅消耗，运行限制为每个用户每月 750 次。 
-<br/><sup>13</sup> 仅在 Office 365 教育版 计划中可用，Office 365 E5教育版。 它不适用于 Office 365 企业版 E5。 
+<br/><sup>13</sup> 仅在 Office 365 教育版 计划中可用，Office 365 E5教育。 在 E5 中Office 365 企业版。 
 <br/><sup>14</sup> 有关详细信息，请参阅使用客户密钥 [的服务加密](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。 
-<br/><sup>15</sup> Advanced eDiscovery美国和西欧地区（荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据将导出到美国。 来自欧洲、中东和非洲的客户数据将导出到西欧 [荷兰]) 
-<br/><sup>16</sup> 从 2019 年 5 月开始，现有符合条件的 Office 365 和 Microsoft 365 将用 Kaizala 专业版。 从 2019 年 6 月 1 Kaizala 专业版，所有符合条件的 SK 将包含Office 365 Microsoft 365 SK。 有关此Microsoft Kaizala[，请参阅Microsoft Kaizala](https://products.office.com/business/microsoft-kaizala)。
+<br/><sup>15</sup> Advanced eDiscovery美国和西欧地区（荷兰 (地区) 支持。  (加拿大和亚太地区的客户数据将导出到美国。 将来自欧洲、中东和非洲的客户数据导出到西欧 [荷兰]) 
+<br/><sup>16</sup> 从 2019 年 5 月开始，现有符合条件的 Office 365 和 Microsoft 365 将用 Kaizala 专业版。 从 2019 年 6 月 1 Kaizala 专业版，所有符合条件的 sKUS Office 365 Microsoft 365中。 有关此Microsoft Kaizala[，请参阅Microsoft Kaizala](https://products.office.com/business/microsoft-kaizala)。
 <br/><sup>17</sup> 有关详细信息，请参阅 [MyAnalytics 计划和环境](/workplace-analytics/myanalytics/overview/plans-environments)。
-<br/><sup>18</sup> 包括Azure Active Directory定价页上的 **Office 365 Apps** 列中描述的Azure Active Directory [功能](https://azure.microsoft.com/pricing/details/active-directory/)。 必须添加Azure Active Directory计划 1 或计划 2、Enterprise 移动安全或 Microsoft 365 E3 或 E5，才能获得高级Azure AD功能。<br/>
+<br/><sup>18</sup> 包括Azure Active Directory定价页上Office 365 **应用**"列Azure Active Directory [介绍的功能](https://azure.microsoft.com/pricing/details/active-directory/)。 必须添加Azure Active Directory计划 1 或计划 2、Enterprise 移动安全或 Microsoft 365 E3 或 E5，才能获得高级Azure AD功能。<br/>
 <sup>19</sup> 系统会自动将"简介"电子邮件提供给 Exchange Online。 有关详细信息，请参阅配置 [简介电子邮件](/Briefing/be-admin)。<br>
 <sup>20</sup> 向用户提供对 Web Project仅查看访问权限。 这些权限仅限于与 Web 应用程序的 Project 一同使用，并且仅适用于拥有 Project 计划 1、Project 计划 3 或 Project 计划 5 许可证的租户。 这些权限不会授予对 Power Platform 应用程序或其他数据集、Project Online客户端或 Project Online。 有关功能详细信息，请参阅 Microsoft Project [服务说明](../project-online-service-description/project-online-service-description.md)。<br/>
-<sup>21</sup> Microsoft 365中的审核使组织能够查看组织中跨不同服务的Microsoft 365。 使用[Microsoft 365合规性策略审核日志&amp;](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)查看组织中用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录保留(并可在审核日志中搜索)的时间长度取决于客户的Office 365或Microsoft 365企业订阅以及分配给特定用户的许可证类型。
+<sup>21</sup> Microsoft 365中的审核使组织能够查看组织中跨不同服务的Microsoft 365。 使用 [Microsoft 365 安全指南&amp;合规性](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)审核日志搜索查看组织中的用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录保留(并可在审核日志中搜索)的时间长度取决于客户的Office 365或Microsoft 365企业订阅以及分配给特定用户的许可证类型。

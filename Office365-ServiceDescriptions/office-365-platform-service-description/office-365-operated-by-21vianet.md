@@ -10,8 +10,13 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
+ms.openlocfilehash: 60b88a2fd9c354934dee738cc79cfee7a91f2754
+ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63382843"
 ---
-
 # <a name="office-365-operated-by-21vianet"></a>由世纪互联运营的 Office 365
 
 由世纪互联运营的 Office 365 旨在满足中国用户对安全可靠的可扩展云服务的需求。此服务由 Microsoft 授权给世纪互联使用的技术提供支持。
@@ -102,7 +107,7 @@ Microsoft 365 合规中心提供轻松访问管理组织合规性需求所需的
 | Microsoft MyAnalytics | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Planner | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft PowerApps | 是 | 是 | 是 | 是 | 是 | 是 |
-| Microsoft StaffHub | 否 | 否 | 否 | 否 | 否 | 否 |
+| Microsoft StaffHub ([停用) ](/microsoftteams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Stream | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Sway<sup>8</sup> | 否 | 否 | 否 | 否 | 否 | 否 |
 | Microsoft Teams | 否 | 否 | 否 | 否 | 否 | 否 |
