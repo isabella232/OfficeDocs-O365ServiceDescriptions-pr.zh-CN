@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: 了解 Microsoft 365 和独立计划的 SharePoint 限制。
-ms.openlocfilehash: 6bb37e4291f3826e09ccde354013cdc3117102ac
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 5da27b4b889be7890946787d56618fcc007fd10b
+ms.sourcegitcommit: 172963e811598f2b94d3b65150cec1d0487af197
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382733"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63419450"
 ---
 # <a name="sharepoint-limits"></a>SharePoint 限制
 
@@ -23,7 +23,7 @@ ms.locfileid: "63382733"
   
 ## <a name="limits-by-plan"></a>按计划确定限制 
 
-| 功能 | Microsoft 365 商业基础版、商业标准版或商业高级版 | Microsoft 365 E3 或 E5、Office 365 E1、E3 或 E5、或 SharePoint 计划 1 或 2 | Microsoft 365 F1 或 F3、Office 365 F3 |
+| 功能 | Microsoft 365 商业基础版、商业标准版或商业高级版 | Microsoft 365 A3、E3、G3 & A5、E5、G5</br>Office 365 A3、E3、G3 & A5、E5、G5</br>Office 365 A1、E1、G1</br>SharePoint计划 1 或 2 | Microsoft 365 F1 或 F3、Office 365 F3 |
 |:-----|:-----|:-----|:-----|
 |每个组织的总存储<sup>量1、2、5</sup> <br/> |购买的每个许可证 1 TB 加上 10 GB <sup>3</sup>  <br/> |购买的每个许可证 1 TB 加上 10 GB <sup>3</sup> <br/> |1 TB <sup>3</sup> <br/> |
 |每个网站（网站集）的最大存储空间 <sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB <br/> |
@@ -104,7 +104,7 @@ SharePoint没有结束条件或显式停止操作，则 2013 工作流可以按�
 
 ### <a name="hold-limits"></a>保留限制
 
-保留包括电子数据展示案例保留和Microsoft 365保留策略，SharePoint和OneDrive。 对于合规策略，这些策略还包括 DLP 策略、信息屏障和敏感度标签，每个租户最多 10，000 个。
+保留包括电子数据展示案例保留和Microsoft 365保留策略，SharePoint和OneDrive。 对于兼容性策略（还包括 DLP 策略、信息屏障和敏感度标签），这些值计入每个租户的最大值为 10,000。
 
 支持的最大保留数：
 
