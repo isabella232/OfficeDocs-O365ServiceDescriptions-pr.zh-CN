@@ -88,6 +88,7 @@
 ## [Skype for Business Online 服务说明](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online 功能](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online 限制](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [Microsoft Stream 服务说明](microsoft-stream.md#microsoft-stream-service-description)
 ## [Microsoft Sway 服务说明](microsoft-sway-service-description.md)
 ## [Microsoft Teams 服务说明](teams-service-description.md)
 ### [Microsoft 365 商务语音服务说明](microsoft-365-business-voice-service-description.md)
