@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关实现Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: c67af5da2179efc3265b11be0e4b535346ae699e
-ms.sourcegitcommit: 172963e811598f2b94d3b65150cec1d0487af197
+ms.openlocfilehash: e8e54e422c5a954600247bf294084fe6fc19c04e
+ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63419440"
+ms.lasthandoff: 03/11/2022
+ms.locfileid: "63435398"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365合规性指南&amp;
 
@@ -257,7 +257,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 
 当用户受限于与其他用户通信时，他们受益于信息屏障的高级合规性功能。 可以定义信息屏障策略，以防止某些用户段与每个用户段通信，或允许特定细分仅与某些其他分段进行通信。 有关定义信息屏障策略的信息，请参阅 [定义信息屏障策略](/microsoft-365/compliance/information-barriers-policies)。 对于两个组无法相互通信的情况，这两个组的用户都需要许可证才能从服务 (请参阅下面的示例) 。<br><br>
 
-| 方案 | Who许可证？ |
+| 应用场景 | Who许可证？ |
 |:------|:------|
 | Group1 (和&nbsp; Group2&nbsp;) 这两个组无法相互通信 (即，组&nbsp; 1 用户不能与 Group2&nbsp; 用户通信，而 Group2&nbsp; 用户不能与 Group1&nbsp; 用户通信。 | Group1 和 Group2&nbsp; 中的&nbsp;用户 |
 
@@ -484,7 +484,7 @@ Microsoft 365 E3/A3/G3、Office 365 E3/A3/G3 和 Azure 信息保护计划 1 为�
 
 - Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business 高级版 (信息保护 for Office 365 – 如果仅分配了 E5 许可证，应启用标准) 
 - 企业移动性 + 安全性 E3/E5
-- Office 365 E5/A5/E3/A3/F3
+- Office 365 E5/A5/E3/A3
 - AIP 计划 1
 - AIP 计划 2
 
