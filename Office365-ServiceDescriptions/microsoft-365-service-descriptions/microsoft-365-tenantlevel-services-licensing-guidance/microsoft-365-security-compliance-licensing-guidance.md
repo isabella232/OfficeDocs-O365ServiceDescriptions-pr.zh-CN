@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关实现Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: e8e54e422c5a954600247bf294084fe6fc19c04e
-ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
+ms.openlocfilehash: d3abf40b8cba64cf25148820918d9be03339631a
+ms.sourcegitcommit: baf5696d90d2e9493efc40c48186f7ad8f667995
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2022
-ms.locfileid: "63435398"
+ms.lasthandoff: 03/16/2022
+ms.locfileid: "63509312"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365合规性指南&amp;
 
@@ -88,7 +88,7 @@ SecOps 分析员和安全专业人员从具有基于机器学习算法的已标�
 - Azure Active Directory 1：Microsoft 365 E3/A3/G3/F1/F3、Enterprise Mobility & Security E3 和 Microsoft 365 商业高级版
 - Azure Active Directory 2：Microsoft 365 E5/A5/G5、Enterprise Mobility & Security E5、Microsoft 365 E5/F5 Security and Microsoft 365 F5 Security & Compliance
 
-有关不同计划中提供的功能的详细信息，请参阅什么是Azure Active Directory [Identity Protection？](/azure/active-directory/identity-protection/overview-identity-protection#license-requirements)
+有关不同计划中提供的功能的详细信息，请参阅什么是Azure Active Directory [Identity Protection？](https://www.microsoft.com/en-us/security/business/identity-access-management/azure-ad-pricing)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
@@ -345,7 +345,7 @@ Microsoft 365多工作负荷加密支持的静态数据服务是租户级服务�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
-信息保护和合规性管理员可以访问服务，以访问这些日志和索引数据，以了解敏感数据存储的位置以及哪些活动与此数据相关以及由最终用户执行。
+信息保护和合规性管理员可以访问服务，以访问这些日志和索引数据，以了解敏感数据存储的位置，以及最终用户与此数据相关的活动以及执行的活动。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
@@ -365,6 +365,26 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 仅允许用户从内容资源管
 
 此功能需要针对在合规性门户中主动使用Microsoft 365范围。
 
+## <a name="information-protection-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>信息保护：Exchange Online、SharePoint Online 和 OneDrive for Business
+
+借助 Office 365 数据丢失防护 (DLP) for Exchange Online、SharePoint Online 和 OneDrive for Business，组织可以识别、监视和自动保护电子邮件和文件中敏感信息 (包括存储在 Microsoft Teams 文件库) 。
+
+### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
+
+当用户的电子邮件和文件检查敏感信息时，Exchange Online、SharePoint Online 和 OneDrive for Business 从 DLP 中获益，如组织的 DLP 策略中配置。
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
+
+Microsoft 365 E3/A3/Business 高级版、Office 365 E3/A3、Office 365 数据丢失防护和 F5 合规性和 F5 安全 & 合规性为用户提供从 Office 365 DLP Exchange Online、SharePoint Online 和 OneDrive for Business。
+
+### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
+
+默认情况下，Exchange Online、SharePoint网站和 OneDrive 帐户 (租户中所有用户) DLP 功能启用这些 DLP 功能的位置。** 有关使用 DLP 策略的信息，请参阅 [数据丢失防护概述](/microsoft-365/compliance/data-loss-prevention-policies)。
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
+
+管理员可以在" &amp; 数据丢失防护 (下) 安全与合规中心中自定义) 、包括用户 **和排除** > **用户**。
+
 ## <a name="information-protection-data-loss-prevention-for-teams"></a>信息保护：数据丢失防护Teams
 
 借助通信 DLP Teams，组织可以阻止包含敏感信息（例如财务信息、个人身份信息、运行状况相关信息或其他机密信息）的聊天和频道消息。
@@ -383,26 +403,6 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 仅允许用户从内容资源管
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 
 默认情况下，Teams消息和频道消息是租户中所有用户 (启用) DLP 功能的位置和工作负载。 有关使用 DLP 策略的信息，请参阅 [数据丢失防护概述](/office365/securitycompliance/data-loss-prevention-policies)。
-
-### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
-
-管理员可以在"&amp;数据丢失防护 (下) 安全与合规中心中的工作负载、包括用户和已排除 **用户的位置** > **。**
-
-## <a name="information-protection-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>信息保护：Exchange Online、SharePoint Online 和 OneDrive for Business
-
-借助 Office 365 数据丢失防护 (DLP) for Exchange Online、SharePoint Online 和 OneDrive for Business，组织可以识别、监视和自动保护电子邮件和文件中敏感信息 (包括存储在 Microsoft Teams 文件库) 。
-
-### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
-
-当用户的电子邮件和文件检查敏感信息时，Exchange Online、SharePoint Online 和 OneDrive for Business 从 DLP 中获益，如组织的 DLP 策略中配置。
-
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
-
-Microsoft 365 E3/A3/Business 高级版、Office 365 E3/A3、Office 365 数据丢失防护和 F5 合规性和 F5 安全 & 合规性为用户提供从 Office 365 DLP Exchange Online、SharePoint Online 和 OneDrive for Business。
-
-### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
-
-默认情况下，Exchange Online、SharePoint网站和 OneDrive 帐户 (租户中所有用户) DLP 功能启用这些 DLP 功能的位置。** 有关使用 DLP 策略的信息，请参阅 [数据丢失防护概述](/microsoft-365/compliance/data-loss-prevention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用于租户中获得服务许可的用户？
 
@@ -531,7 +531,7 @@ Microsoft 365 E3/A3/G3、Office 365 E3/A3/G3 和 Azure 信息保护计划 1 为�
 
 内部风险管理是 Microsoft 365中的一种解决方案，可让你检测、调查和操作组织中存在风险的活动，从而将内部风险降至最低。
 
-自定义策略允许你检测组织中恶意和无意间存在风险的活动并采取措施，包括根据需要将Advanced eDiscovery上报给 Microsoft 客户。 您组织的风险分析师可以快速采取相应的措施，以确保用户符合组织的合规性标准。
+自定义策略允许你检测组织中恶意和无意间存在风险的活动并采取措施，包括根据需要将Advanced eDiscovery上报给 Microsoft 客户。 您组织的风险分析师可以快速采取适当的措施，以确保用户符合组织的合规性标准。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
 
@@ -550,28 +550,6 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全 & 合�
 在 Microsoft 365 合规中心 中创建策略时，在"选择用户和组"页上，选择"选择用户或组"以仅选择许可用户，或者，如果您的所有用户都获得许可，您可以选择"所有用户和启用邮件的组"复选框。 有关详细信息，请参阅 [内部风险管理入门](/microsoft-365/compliance/insider-risk-management-configure)。
 
 ## <a name="microsoft-defender-for-business"></a>Microsoft Defender 商业版
-
-Microsoft Defender for Business 是一种新的终结点安全解决方案，专为中小型企业 (最多 300 名员工) 。 借助此终结点安全解决方案，中小型商业 (SMB) 可以更好地防范勒索软件、恶意软件、网络钓鱼和其他威胁。
-
-有关详细信息，请参阅 [Microsoft Defender for Business](/microsoft-365/security/defender-business)。
-
-### <a name="which-licenses-provide-the-rights-for-users-to-benefit-from-the-service"></a>哪些许可证为用户提供了从服务中获益的权利？ 
-
-Microsoft Defender for Business 作为许可证的一Microsoft 365 商业高级版一部分。 当前Microsoft 365 商业高级版客户从 2 月底开始将服务回填到其租户，这将在接下来几周内完成。  
-
-独立版本的 Defender for Business 为预览版，并将于今年晚些时候发布。 若要了解更多信息， [请参阅如何获取 Microsoft Defender for Business](/microsoft-365/security/defender-business/get-defender-business)。
-
-### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中获益？
-
-将 [Microsoft Defender for Business](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/new-security-solutions-to-help-secure-small-and-medium/ba-p/3207043) 添加到 Microsoft 365 商业高级版 通过添加跨平台终结点保护和复杂的勒索软件防护以及终结点检测和响应以及自动调查和修正等技术，高级版 增强业务 高级版 的现有生产力和安全性产品。
-
-### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？ 
-
-默认情况下，在租户级别为租户内的所有用户启用 Microsoft Defender for Business 功能。 如果你已Microsoft 365 商业高级版，可以通过 Microsoft 365 Defender [门户访问 Defender for Business](https://sip.security.microsoft.com/homepage)。 
-
-有关详细信息以及 [更多资源的链接，请查看 Microsoft Defender for Business](/microsoft-365/security/defender-business/get-defender-business) 常见问题解答。
-
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
 Microsoft Defender for Business 是一种新的终结点安全解决方案，专为中小型企业 (最多 300 名员工) 。 借助此终结点安全解决方案，中小型商业 (SMB) 可以更好地防范勒索软件、恶意软件、网络钓鱼和其他威胁。
 
