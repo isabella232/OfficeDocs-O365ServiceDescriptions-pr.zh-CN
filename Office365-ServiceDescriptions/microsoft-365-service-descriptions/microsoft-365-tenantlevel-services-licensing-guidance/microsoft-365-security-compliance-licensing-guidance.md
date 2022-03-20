@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关实现Microsoft 365指南，以帮助避免由于未授权访问而潜在的服务中断。
-ms.openlocfilehash: d3abf40b8cba64cf25148820918d9be03339631a
-ms.sourcegitcommit: baf5696d90d2e9493efc40c48186f7ad8f667995
+ms.openlocfilehash: 360f2dfb0c17a769af03f275f7634c7f0d9d507f
+ms.sourcegitcommit: 3b0b5b5430e2d321c1b2c81ff23fdc91cf406afc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2022
-ms.locfileid: "63509312"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63558877"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365合规性指南&amp;
 
@@ -766,9 +766,9 @@ Microsoft Defender for Office 365 Plans 1 and 2， Office 365 E5/A5/G5， Micros
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中获益的权利？
 
 - Microsoft 365 E5/A5
-- Microsoft 365 E5/A5 合规
-- Microsoft 365 E5/A5 安全性
+- Microsoft 365 E5/A5/F5 合规性
 - Microsoft 365 E5/A5 信息保护和治理
+- Microsoft 365 F5 安全&合规性
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何设置/部署服务？
 

@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: 为了最好地满足您的组织的需要，许多计划中都提供了 Microsoft Office 365。
-ms.openlocfilehash: f982be4a0d3b964315bf7659c80f27c2a49342b3
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 1c1f98d1bb959cc56bf8a95d24ffacc1f6bbabb1
+ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382803"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63658893"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365 和 Office 365 计划选项
 
@@ -76,7 +76,7 @@ Microsoft 365各种计划中都提供了Office 365和解决方案，以最好地
 <sup>13</sup> 包括 Skype for Business Online 计划 1。<br>
 <sup>14</sup> Microsoft Teams现在是邮件、会议和呼叫在 Microsoft 365 中的主要客户端。 截至 2018 年 10 月 1 日，拥有 500 个席位或更少席位的新客户将载入 Microsoft Teams并且无法访问 Skype for Business Online。 已使用 Skype for Business Online 的租户可以继续执行此操作 (包括预配新) 直到他们完成到 Microsoft Teams。<br>
 <sup>15</sup> 包括 Microsoft 365 E5 合规，它提供自动分类和保留、客户密钥、高级邮件加密、内部风险管理、通信合规性、信息屏障、客户密码箱、特权访问管理、高级审核、记录管理和 Advanced eDiscovery 功能;以及Microsoft 365 E5 安全性，包括 Microsoft Defender for Office 365 计划 2、Microsoft Defender for Endpoint、Azure Active Directory 计划 2、Microsoft Defender for Identity、Microsoft Defender for Cloud Apps 和 保险箱 文档。<br>
-<sup>16</sup> Microsoft 365 F1不包括对邮箱Exchange权限。 若要启用完整的 Teams体验，M365 F1 许可证可能会Exchange Online K1 服务计划。 尽管 Exchange Online K1 服务计划将为用户设置邮箱，但 M365 F1 用户无权使用该邮箱。 我们建议你的客户禁用Outlook 网页版，并要求用户不要通过[](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)任何其他Exchange访问邮箱。<br>
+<sup>16</sup> Microsoft 365 F1不包括对邮箱Exchange权限。 若要启用完整的Teams体验，Microsoft 365 F1 K1 服务计划Exchange Online许可证。 尽管 Exchange Online K1 服务计划将为用户设置邮箱，Microsoft 365 F1用户无权使用该邮箱。 我们建议你的客户禁用Outlook 网页版，并要求用户不要通过[](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app)任何其他Exchange访问邮箱。<br>
 <sup>17</sup> Microsoft 365 F1用户可以使用Office 网页版读取文件，但没有创建/编辑/保存权限。 
   
 #### <a name="basic-client-limitations"></a>基本客户端限制

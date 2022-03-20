@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: 了解计划与Microsoft 365计划Office 365 教育版差异。
-ms.openlocfilehash: 11b071668d476a954d4b968889a5eff1a4b70922
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 2b9e3137d93939f5c5f079a1a178a5a3633fb086
+ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382853"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63658923"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 教育版
 
@@ -37,7 +37,7 @@ Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和En
 |OneDrive for Business|是|是|是|是|是|是|是|是|是|
 |Microsoft Teams|是|是|是|是|是|是|是|是|是|
 |Skype for Business Online|是|是|是|是|是|是|是|是|是|
-|项目|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
+|Project|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|否<sup>5</sup>|
 |Yammer Academic|是|是|是|是|是|是|是|是|是|
 |Microsoft Stream|是|是|是|是|是|是|是|是|是|
 |Microsoft Planner|是|是|是|是|是|是|是|是|是|
@@ -122,5 +122,5 @@ Microsoft 365提供了一个完整的系统，包括Office 365、Windows 10和En
 > <sup>12</sup> 以前是 Microsoft Defender 高级威胁防护。 <br/>
 > <sup>13</sup> 教育版 A3 Windows A5 中包含的通用打印。 <br/>
 > <sup>14</sup> 0 (零) 打印作业包含。 <br/>
-> <sup>15</sup> Viva Learning作为 O365 和 M365 A1、A3 和 A5（教职员工）的付费附加设备提供。 <br/>
+> <sup>15</sup> Viva Learning作为付费加载项提供给教职员工Office 365、Microsoft 365 A1、A3 和 A5。 <br/>
 > <sup>16</sup> 不适用于学生或学生使用权益。 <br/>

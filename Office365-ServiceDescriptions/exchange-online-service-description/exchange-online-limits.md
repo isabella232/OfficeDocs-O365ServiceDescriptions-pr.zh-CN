@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: 查找各个服务方面的 Exchange Online 限制，包括通讯簿限制、邮箱存储空间限制以及报告和邮件跟踪限制等。
-ms.openlocfilehash: fa83bbdf42b4385ceb67078f18ba17e3d9c5c6eb
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 9652373d74e7cc010c1c0c9b13236af0b5dcc534
+ms.sourcegitcommit: 3b0b5b5430e2d321c1b2c81ff23fdc91cf406afc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382743"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63558887"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online 限制
 
@@ -229,7 +229,7 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 | 所有传输规则中使用的所有正则表达式的字符限制 | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB |
 | 附件内容的扫描限制 | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB |
 | 所有传输规则添加到邮件的收件人的最大数目 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 | 100 位收件人 |
-| 转发邮件的收件人限制 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 个收件人 | 10 个收件人 |
+| 转发邮件的收件人限制 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 个收件人 | 10 位收件人 | 10 位收件人 | 10 个收件人 |
 | 重定向邮件的次数 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 |
 | 被传输规则重定向邮件次数 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 |
 | 重定向邮件的次数 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 | 1 次重定向 |
@@ -536,6 +536,10 @@ Exchange Online 将在用户的邮箱接近或达到最大容量时提供三种�
 > [!NOTE]
 > <sup>1</sup> 这是 Exchange Server 2013 组织的默认限制。管理员可以为其组织更改此值。<br/>
 <sup>2</sup> 达到收件人率限制后，无法从邮箱发送邮件，直到过去 24 小时内发送邮件的收件人数低于限制。 例如，一位用户可以在上午 09：00 向 5000 个收件人发送电子邮件，然后在上午 10：00 向 2500 个收件人发送另一封邮件，然后在上午 11：00 向 2500 个收件人发送另一封邮件，达到 10，000 封邮件的限制。 第二天上午 09：00 之前，用户将不能再次发送邮件。
+
+#### <a name="sending-and-receiving-meeting-invite-limits"></a>发送和接收会议邀请限制
+
+Microsoft 365 中发送会议邀请或更新时的收件人限制为 2,500 人 (任何传出的会议消息的最大收件人数 - 无论是新邀请、会议更新还是会议取消)。 此最大值仅适用于会议消息。 它确保你将始终能够更新或取消会议，并且仍可查看与会者和答复列表。 更多相关信息，请转到 [计划与数百名与会者 (microsoft.com) 的会议](https://support.microsoft.com/office/scheduling-meetings-with-hundreds-of-attendees-f8cce35d-673e-41a0-8aea-dc5331bb60ed)。
 
 ## <a name="reporting-and-message-trace-limits"></a>报告和邮件跟踪限制
 
