@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: 了解 Microsoft Forms 如何允许您快速而轻松地创建自定义知识检查、调查、投票、调查表、注册等。
-ms.openlocfilehash: c00b82308e811b40b4328fe5ffdcfab642bac1a0
-ms.sourcegitcommit: 2c8d31610cf94a32ec286a4d4ffc2b8005b94462
+ms.openlocfilehash: 654d8c29bfd430538f928a1e386f99a557ab14b8
+ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2022
-ms.locfileid: "63658903"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63761254"
 ---
 # <a name="microsoft-forms-service-description"></a>Microsoft Forms 服务说明
 
@@ -23,7 +23,7 @@ Microsoft Forms 可用于许多机构、企业和政府机构，以满足其数�
 
 ## <a name="available-plans"></a>可用计划
 
-[Microsoft Forms](https://forms.microsoft.com/) 在下列计划中可用：Microsoft 365商业基础版、标准版和高级版;Microsoft 365 A3/A5 和 E3/E5;Office 365 A1/A3/A5 和 E1/E3/E5;Microsoft 365/Office 365 F3。 有关详细信息，请查看 [M365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF) 商业版计划比较、[M365 Enterprise计划比较](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FM365EnterprisePlans&data=04%7C01%7Cv-annhem%40microsoft.com%7C79c2f1a8e8ac4f886ba108d94e0fcc77%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637626652025884338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=de4WVBq68C4IWCQXw9j64EnYwcX6W9ubh7NgTojH%2Fwk%3D&reserved=0)和 [M365 教育版计划比较](https://aka.ms/M365EduPlans)表。
+[Microsoft Forms](https://forms.microsoft.com/) 在下列计划中可用：Microsoft 365商业基础版、标准版和高级版;Microsoft 365 A3/A5 和 E3/E5;Office 365 A1/A3/A5 和 E1/E3/E5;Microsoft 365/Office 365 F3。 有关详细信息，请查看业务Microsoft 365[比较](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEBAF)、Microsoft 365 企业版[比较](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FM365EnterprisePlans&data=04%7C01%7Cv-annhem%40microsoft.com%7C79c2f1a8e8ac4f886ba108d94e0fcc77%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637626652025884338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=de4WVBq68C4IWCQXw9j64EnYwcX6W9ubh7NgTojH%2Fwk%3D&reserved=0)和Microsoft 365 教育版[比较](https://aka.ms/M365EduPlans)表。
 
 Microsoft Forms 还通常Office 365 教育版客户、[](https://www.microsoft.com/education/products/office/default.aspx)Microsoft 365 商业应用版客户以及拥有 Microsoft 帐户的用户 (Hotmail、Live 或 Outlook.com) 。若要了解更多信息，请转到有关 [Microsoft Forms 的常见问题](https://support.microsoft.com/office/frequently-asked-questions-about-microsoft-forms-495c4242-6102-40a0-add8-df05ed6af61c)。 有关允许用户使用 Microsoft Forms 的订阅的详细计划信息，请参阅 [Microsoft 解决方案比较表](https://go.microsoft.com/fwlink/?linkid=2139145)。
 
@@ -75,7 +75,7 @@ Microsoft Forms 还通常Office 365 教育版客户、[](https://www.microsoft.c
 <sup>1</sup> 用于品牌打造的自定义受到限制。 用户只能更改图像。<br> <sup>2</sup> 外部共享不适用于GCC DoD 环境。<br/>
 <sup>3</sup> 不适用于高GCC DoD 环境。
 
-## <a name="learn-more"></a>了解更多
+## <a name="learn-more"></a>了解详细信息
 
 有关 Microsoft Forms 的信息，请查看以下资源：
 

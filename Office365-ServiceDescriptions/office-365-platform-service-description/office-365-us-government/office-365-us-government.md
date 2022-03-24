@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: 为了响应美国公共部门不断变化的独特要求，Microsoft 创建了一Office 365 US 政府计划 (或Office 365 政府版) 。 本文概述了特定于美国环境Office 365 政府版的功能。
-ms.openlocfilehash: 45111d6befb891daeffd5256b2a35d5b77269404
-ms.sourcegitcommit: 36cce83d0f146c904ca02a251ba02a5ab913e3ef
+ms.openlocfilehash: 6aedf2377b574b9dc27a2439930934c106c0535d
+ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63382754"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63761274"
 ---
 # <a name="office-365-government"></a>Office 365 政府版
 
@@ -173,7 +173,7 @@ Office 365美国政府客户可以使用 Azure Government ExpressRoute 服务私
 |Microsoft MyAnalytics|否|否|是<sup>15</sup>|否|
 |Microsoft Planner|是|是|是|是|
 |Microsoft PowerApps|是|是|是|是|
-|Microsoft StaffHub ([停用) ](/microsoftteams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)|否|否|否|否<br/>|
+|Microsoft StaffHub（[已停用](/microsoftteams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)）|否|否|否|否<br/>|
 |什么是 Microsoft Stream（经典）？|是<sup>17、22</sup>|是<sup>17、22</sup>|是<sup>17、22</sup>|是<sup>17、18、22</sup>|
 |Microsoft Stream (SharePoint) |是<sup>23</sup>|是<sup>23</sup>|是<sup>23</sup>|是<sup>23</sup>|
 |Microsoft Sway|否|否|否|否|
@@ -270,7 +270,7 @@ Office 365美国政府客户可以使用 Azure Government ExpressRoute 服务私
 <br/><sup>20</sup> 有关详细信息，请参阅使用客户密钥 [的服务加密](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697)。
 <br/><sup>21</sup> Microsoft 365中的审核使组织能够查看组织中跨不同服务的Microsoft 365。 使用 [安全&中心](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 审核日志搜索来查看组织的用户和管理员活动。 您还可以使用[Office 365管理活动API](/office/office-365-management-api/office-365-management-activity-api-reference)从统一审核日志中检索事件。 用户或管理员执行经审核的活动时，将生成审核记录并存储在客户组织的审核日志中。 审核记录在 审核日志)  (中保留和搜索的时间长度取决于客户的 Office 365 或 Microsoft 365 企业版 订阅以及分配给特定用户的许可证类型。
 <br/><sup>22</sup> stream (经典) 将最终替换为 stream (on SharePoint) 。
-<br/><sup>23</sup> stream (on SharePoint) 用于将视频上载到SharePoint、OneDrive Teams。  这已在所有政府产品/服务中受支持。  M365 路线图中提供了其他增强功能，如 Office 中的 Stream 起始页、隐藏式字幕、脚本等。
+<br/><sup>23</sup> stream (on SharePoint) 用于将视频上载到SharePoint、OneDrive Teams。  这已在所有政府产品/服务中受支持。  其他增强功能（如 Office 中的 Stream 起始页、隐藏式字幕、脚本等）位于 Microsoft 365 路线图中。
 
 ## <a name="office-application-availability-and-enterprise-value"></a>Office应用程序可用性和企业价值
 
@@ -350,7 +350,7 @@ Office 365美国政府客户可以使用 Azure Government ExpressRoute 服务私
 |Insight Services (创意) |是|否|否|否|
 |改进了与 Power BI (Power BI 数据类型、Power BI数据集) <sup>3 的集成</sup>||否|否|否|
 |智能数字墨迹||否|否|否|
-|Power View (适用于 2016/2019 永久，因为 O365 和 2021 永久计划的所有客户将删除此功能) ||否|否|否|
+|Power View (2016/2019 永久，因为针对 Office 365 和 2021 永久计划的所有客户删除此功能) ||否|否|否|
 |智能查找|是|否|否|否|
 |[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) 在政府云中完全可用，但以下功能目前不可用：||**GCC**|**GCC 高级**|**DOD**|
 |客户语音 (表单Pro) ||是|否|否|
