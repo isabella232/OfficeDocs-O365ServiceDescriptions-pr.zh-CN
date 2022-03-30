@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: 您是否正在查找包含新订阅的订阅Exchange Online？ 如果是这样，Exchange Online 服务说明文章就是您需要的内容。 您还可以了解到系统要求以及存储和收件人要求。
-ms.openlocfilehash: ad488c76494b9e8eb5fd6b77c2c984534c22afdc
-ms.sourcegitcommit: 167c817e959598988dd67aefd521c2018c5b2260
+ms.openlocfilehash: 153361e0c30c26c1778e968736119a37742cde5b
+ms.sourcegitcommit: a006a39de571e191c89bae4c051f33633cd9d920
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63761264"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64464930"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online 服务说明
 
@@ -57,35 +57,34 @@ Microsoft 365有多种计划提供，以最好地满足组织的需求。 有关
 
 这些功能可用于某些计划 - 有关进一步的信息，请参阅脚注， (此表可能会更改，) 。
 
-| 功能 | 说明 | Microsoft 365 商业基础版、Standard 和 高级版 | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online计划 1/2 | Exchange Online Kiosk |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[客户端和移动设备](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**<img width=30/>|Outlook 网页版<sup>1、</sup>Outlook for iOS 和 <sup>Android1</sup>、Exchange ActiveSync 和 SMTP<img width=140/>|是<img width=60/>|是<img width=60/>|是<img width=60/>|是<img width=60/>|是|是|
-||POP 和 IMAP|是|是|是|是<sup>2</sup>|是|是<sup>3</sup>|
-||EWS 应用程序支持，Outlook Windows <sup>1、</sup>Outlook for Mac <sup>1</sup>|是|是|是|否|是|否|
-||基本移动性和安全性Microsoft 365|是|是|是|是|||
-|**[邮件策略和合规性](/exchange/policy-and-compliance/policy-and-compliance)**|[存档基于 Exchange Online 的邮箱](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|是<sup>4</sup>|是<sup>4</sup>|是<sup>4</sup>|否|是|是|
-||内部部署邮箱的基于云的存档|否|是|是|否|是<sup>5</sup>|是|
-||[手动保留策略、标签和标记](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|否|是|是|是|是|是|
-||[使用 Azure 信息保护 <sup>6</sup>](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)、Office 365 邮件加密<sup>7</sup> 和客户密钥<sup>的</sup> IRM|否|否|是|否|否|否|
-||In-Place保留、诉讼保留和数据丢失防护|否|否|是|否|是<sup>5</sup>|是|
-||静态数据的加密 (BitLocker) 、邮件记录管理 (MRM) 、S/MIME、日记、In-Place 电子数据展示<sup>9</sup>、传输规则 <sup>10</sup>、使用 Windows Server AD <sup>RMS11</sup> 的 IRM|是|是|是|是|是|是|
-|**[权限](/exchange/permissions-exo/permissions-exo)**|基于角色的权限、角色组和角色分配策略|是|是|是|否|是|否|
-|**[收件人](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|委派访问和分层通讯簿|是|是|是|否|是|否|
-||非活动邮箱|否|否|是|否|是<sup>5</sup>|否|
-||Microsoft 365 组|是|是|是|是|是<sup>12</sup>|否|
+| 功能 | 说明 | Microsoft 365 商业基础版，Business Standard | Microsoft 365 商业高级版 | Office 365 E1 | Microsoft 365 E3/E5 & Office 365 E3/E5 | Microsoft 365 F3 & Office 365 F3 | Exchange Online 计划 2 | Exchange Online 计划 1 | Exchange Online Kiosk |
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|**[客户端和移动设备](/exchange/clients-and-mobile-in-exchange-online/clients-and-mobile-in-exchange-online)**|Outlook 网页版<sup>1、</sup>Outlook for iOS 和 <sup>Android1</sup>、Exchange ActiveSync 和 SMTP|是|是|是|是|是|是|是|是|
+||POP 和 IMAP|是|是|是|是|是<sup>2</sup>|是|是|是<sup>2</sup>|
+||EWS 应用程序支持，Outlook Windows <sup>1、</sup>Outlook for Mac <sup>1</sup>|是|是|是|是|否|是|是|否|
+||基本移动性和安全性Microsoft 365|是|是|是|是|是||||
+|**[邮件策略和合规性](/exchange/policy-and-compliance/policy-and-compliance)**|[Exchange Online 适用的 Exchange Online Archiving](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)|否|否|否|是|否|是|否|否|
+||[适用于 Exchange Server 的 Exchange Online Archiving](/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)|否|否|否|是|否|是|否|否|
+||[手动保留策略、标签和标记](/exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies)|否|是|是|是|是|是|是|是|
+||[使用 Azure 信息保护的 IRM](/exchange/policy-and-compliance/in-place-archiving/in-place-archiving)|否|否|否|是|否|否|否|否|
+||基本邮件加密|是|是|是|是|是|是|是|是|
+||高级邮件加密|否|否|否|是|否|否|否|否|
+||客户密钥|否|否|否|是|否|否|否|否|
+||In-Place保留、诉讼保留|否|是|否|是|否|是|否|是|
+||数据丢失防护|否|是|否|是|否|否|否|否|
+||静态数据的加密 (BitLocker) 、邮件记录管理 (MRM) 、S/MIME、日记、电子数据展示内容搜索<sup>3</sup>、传输规则 <sup>4</sup>|是|是|是|是|是|是|是|是|
+||对使用 <sup>RMS5</sup> 的 IRM Windows Server AD支持|是|是|是|是|是|是|是|是|
+|**[权限](/exchange/permissions-exo/permissions-exo)**|基于角色的权限、角色组和角色分配策略|是|是|是|是|否|是|是|否|
+|**[收件人](/exchange/recipients-in-exchange-online/recipients-in-exchange-online)**|委派访问和分层通讯簿|是|是|是|是|否|是|是|否|
+||非活动邮箱|否|否|否|是|否|是|否|否|
+||Microsoft 365 组|是|是|是|是|是|是<sup>6</sup>|是<sup>6</sup>|否|
 
-<sup>1</sup>某些第三方 Web 部件和外接程序可能不可用。 <br/>
-<sup>2</sup> 支持 POP，但不支持 IMAP。 <br/>
-<sup>3</sup> 不支持 IMAP。 <br/>
-<sup>4</sup> 可以单独为需要非活动邮箱或存档功能的每个邮箱购买 EOA 订阅。 <br/>
-<sup>5</sup> 仅计划 2。 <br/>
-<sup>6</sup> 单独购买的 AIP 以启用 IRM 功能。 某些 AIP 功能还要求Microsoft 365 企业应用版 (E1/F3 或商业版计划中不包含这些功能。 <br/>
-<sup>7</sup> Office 365 邮件加密取决于 AIP。 <br/>
-<sup>8</sup> 仅适用于 E5 的客户密钥。 <br/>
-<sup>9</sup> 对于电子数据展示，需要针对本地与云的单独查询。<br/>
-<sup>10</sup> 传输规则由灵活条件（允许您定义条件和例外）以及基于条件采取的操作（这些条件）所决定。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 <br/>
-<sup>11</sup> Windows Server AD RMS 是本地服务器，必须单独购买和管理，才能启用支持的 IRM 功能。 <br/>
-<sup>12</sup> Microsoft 365组具有缩减功能。 <br/>
+<sup>1</sup>某些第三方 Web 部件和外接程序可能不可用。<br/>
+<sup>2</sup> 支持 POP，但不支持 IMAP。<br/>
+<sup>3</sup> For eDiscovery， you need a separate query for on-premises vs. cloud.<br/>
+<sup>4</sup> 传输规则由灵活条件（允许您定义条件和例外）以及基于条件采取的操作（这些条件）所决定。 有关可用条件和操作的列表，请参阅每款产品的相应条件和操作主题。 <br/>
+<sup>5</sup> Windows Server AD RMS 是本地服务器，必须单独购买和管理，才能启用支持的 IRM 功能。<br/>
+<sup>6</sup> Microsoft 365组具有缩减功能。<br/>
 
 ## <a name="additional-services"></a>其他服务
 

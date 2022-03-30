@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: 查看哪些计划中提供了 OneDrive 功能。
-ms.openlocfilehash: 1b0755376827dca701d647de026d1b4b37d21d1c
-ms.sourcegitcommit: 7c9a6a223caf448c660ac820d014026a4f55bcd2
+ms.openlocfilehash: 0cc204e310ca83adc869c0b35b684d45a3f86368
+ms.sourcegitcommit: aa6f9785881e60517888ff74e982e38261e6ebde
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2022
-ms.locfileid: "63435388"
+ms.lasthandoff: 03/24/2022
+ms.locfileid: "63937301"
 ---
 # <a name="onedrive-service-description"></a>OneDrive 服务说明
 
@@ -44,7 +44,7 @@ OneDrive 包含在 SharePoint 计划的 Microsoft 365 和 Office 365 计划中�
 | 移动功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 | IT 管理、安全性和合规性功能 | 是 | 是 | 是 | 是 | 是 | 是 |
 
-<sup>1</sup>有关每个用户的 OneDrive 存储的信息， 可以在 [Modern 工作计划比较](https://go.microsoft.com/fwlink/?linkid=2139145)或[M365 中小型企业用户订阅套件](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM)中查看 OneDrive。
+<sup>1</sup> 有关每个用户的 OneDrive 存储的信息，可以在 [新式工作计划比较](https://go.microsoft.com/fwlink/?linkid=2139145) 或 [面向中小型企业的 Microsoft 365 用户订阅套件](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM) 中查看 OneDrive。
 
 ## <a name="learn-more"></a>了解详细信息
 
