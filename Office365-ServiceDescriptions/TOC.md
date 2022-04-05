@@ -71,6 +71,7 @@
 ### [Microsoft Project 网页版服务说明](project-online-service-description/project-web-service-description.md)
 ### [Microsoft Project Online 桌面客户端服务说明](project-online-service-description/project-online-desktop-client-service-description.md)
 ### [Microsoft Project Online 服务说明](project-online-service-description/microsoft-project-online-service-description.md)
+### [Microsoft Project Online 功能详细信息](project-online-service-description/microsoft-project-features-descriptions.md)
 ### [核心功能](project-online-service-description/core-functionality.md)
 ### [项目规划](project-online-service-description/project-planning.md)
 ### [任务管理](project-online-service-description/task-management.md)
