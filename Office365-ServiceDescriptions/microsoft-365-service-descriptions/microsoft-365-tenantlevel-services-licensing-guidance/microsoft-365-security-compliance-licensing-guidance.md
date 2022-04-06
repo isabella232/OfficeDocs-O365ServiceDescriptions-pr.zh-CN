@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关Microsoft 365合规性的指导，以帮助避免因未经许可的访问而导致的潜在服务中断。
-ms.openlocfilehash: 8672693b0d8e7696e8b2f702ff22fdd4359499ec
-ms.sourcegitcommit: 52f0d53a031aa6f8827f30fe9d4784d15cc8ac19
+ms.openlocfilehash: 1865c3d8258722a0660f2c66d120ed6040dca68d
+ms.sourcegitcommit: 6fd682b51e184d16ccca82c0cc72ccdf4134a789
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/06/2022
-ms.locfileid: "64662800"
+ms.locfileid: "64690740"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365安全&amp;合规性指南
 
@@ -359,7 +359,7 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 允许用户仅从内容资源管
 
 - **内容资源管理器**：[使用内容资源管理器开始](/microsoft-365/compliance/data-classification-content-explorer)。
 - **活动资源管理器**：[使用活动资源管理器开始](/microsoft-365/compliance/data-classification-activity-explorer)。
-- **数据分类发行说明**： [数据分类发行说明](/microsoft-365/compliance/data-classification-pub-preview-relnotes)。
+- **数据分类发行说明**： [数据分类发行说明](/microsoft-365/compliance/data-classification-overview#public-preview-release-notes)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
