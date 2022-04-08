@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关Microsoft 365合规性的指导，以帮助避免因未经许可的访问而导致的潜在服务中断。
-ms.openlocfilehash: 1865c3d8258722a0660f2c66d120ed6040dca68d
-ms.sourcegitcommit: 6fd682b51e184d16ccca82c0cc72ccdf4134a789
+ms.openlocfilehash: a10cb7a2bbe34f9ec82f1ce17e0c925f3d38c4d2
+ms.sourcegitcommit: 7caadc973ca06d19fa8c196a74061eea09568958
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64690740"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64710037"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365安全&amp;合规性指南
 
@@ -460,7 +460,9 @@ Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中受益的权限？
 
-Microsoft 365 E3/A3/G3、Office 365 E3/A3/G3 和 Azure 信息保护计划 1 为用户提供从Office 365消息加密中受益的权限。
+- Microsoft 365 F3/E3/A3/G3/E5/A5/G5 和 Microsoft Business 高级版
+- Office 365 A1/E3/A3/G3/E5/A5/G5
+- Azure 信息保护计划 1 还提供组织在添加到以下计划时从Office 365消息加密中获益的权利：Exchange Online Kiosk、Exchange Online计划 1、Exchange Online计划 2、Office 365 F3、Microsoft 365 商业基础版、Microsoft 365 商业标准版 或 Office 365 企业版 E1
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
