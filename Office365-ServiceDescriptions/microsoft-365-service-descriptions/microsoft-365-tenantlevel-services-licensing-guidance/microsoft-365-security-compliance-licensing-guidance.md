@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关Microsoft 365合规性的指导，以帮助避免因未经许可的访问而导致的潜在服务中断。
-ms.openlocfilehash: a10cb7a2bbe34f9ec82f1ce17e0c925f3d38c4d2
-ms.sourcegitcommit: 7caadc973ca06d19fa8c196a74061eea09568958
+ms.openlocfilehash: cce6e34112bbb1a6b422f53891a8ccd24562c3e1
+ms.sourcegitcommit: cee14aa16defb331bd4c610e6c3549269a5e4841
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64710037"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64828734"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365安全&amp;合规性指南
 
@@ -255,7 +255,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
-当用户被限制与他人通信时，他们可从信息屏障的高级符合性功能中受益。 可以定义信息屏障策略，以防止某些用户段与每个段通信，或允许特定段仅与某些其他段通信。 有关定义信息屏障策略的详细信息，请参阅 ["定义信息屏障策略](/microsoft-365/compliance/information-barriers-policies)"。 对于两个组无法相互通信的情况，这两个组中的用户都需要许可证才能从服务中受益 (请参阅下面的示例) 。<br><br>
+当用户被限制与他人通信时，他们可从信息屏障的高级符合性功能中受益。 可以定义信息屏障策略，以防止某些用户段与每个段通信，或允许特定段仅与某些其他段通信。 有关定义信息屏障策略的详细信息，请参阅 [“定义信息屏障策略](/microsoft-365/compliance/information-barriers-policies)”。 对于两个组无法相互通信的情况，这两个组中的用户都需要许可证才能从服务中受益 (请参阅下面的示例) 。<br><br>
 
 | 应用场景 | Who需要许可证？ |
 |:------|:------|
@@ -329,7 +329,7 @@ Microsoft 365 E5/a5/G5、Microsoft 365 E5/a5/G5/F5 合规性、Microsoft 365 F5 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-["设置客户密钥](/microsoft-365/compliance/customer-key-set-up)"一文介绍了创建和配置所需 Azure 资源所需的步骤，并提供了设置客户密钥的步骤。
+[“设置客户密钥](/microsoft-365/compliance/customer-key-set-up)”一文介绍了创建和配置所需 Azure 资源所需的步骤，并提供了设置客户密钥的步骤。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
@@ -383,7 +383,7 @@ Microsoft 365 E3/A3/业务高级版、Office 365 E3/A3 以及Office 365数据丢
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员可以自定义工作负载)  (位置，在 **"数据丢失防护** > **定位**"下将用户包括在安全&amp;合规中心，并排除用户。
+管理员可以自定义工作负载)  (位置，在 **“数据丢失防护** > **定位**”下将用户包括在安全&amp;合规中心，并排除用户。
 
 ## <a name="information-protection-data-loss-prevention-for-teams"></a>信息保护：针对Teams的数据丢失防护
 
@@ -406,7 +406,7 @@ Microsoft 365 E3/A3/业务高级版、Office 365 E3/A3 以及Office 365数据丢
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员可以在 **"数据丢失防护** > **"** 下自定义工作负荷 (位置) 、包括用户以及安全&amp;合规中心内排除的用户。
+管理员可以在 **“数据丢失防护** > **”** 下自定义工作负荷 (位置) 、包括用户以及安全&amp;合规中心内排除的用户。
 
 ## <a name="information-protection-double-key-encryption-for-microsoft-365"></a>信息保护：用于Microsoft 365的双键加密
 
@@ -426,7 +426,7 @@ Double Key Encryption 支持桌面版本的 Windows Microsoft Office。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-若要将加密密钥分配给Office 365和/或Microsoft 365组织中的数据，请按照"双密钥加密"部署说明操作。
+若要将加密密钥分配给Office 365和/或Microsoft 365组织中的数据，请按照“双密钥加密”部署说明操作。
 
 ## <a name="information-protection-office-365-advanced-message-encryption"></a>信息保护：Office 365 高级邮件加密
 
@@ -446,7 +446,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员应仅向许可用户应用高级邮件加密的邮件流规则。 有关定义邮件流规则的详细信息，请参阅["定义邮件流规则"以加密Office 365中的电子邮件](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
+管理员应仅向许可用户应用高级邮件加密的邮件流规则。 有关定义邮件流规则的详细信息，请参阅[“定义邮件流规则”以加密Office 365中的电子邮件](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
 
 ## <a name="information-protection-office-365-message-encryption"></a>信息保护：Office 365消息加密
 
@@ -470,7 +470,7 @@ Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员应仅向许可用户应用邮件流规则以Office 365消息加密。 有关定义邮件流规则的详细信息，请参阅 ["定义邮件流规则"来加密电子邮件](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
+管理员应仅向许可用户应用邮件流规则以Office 365消息加密。 有关定义邮件流规则的详细信息，请参阅 [“定义邮件流规则”来加密电子邮件](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
 
 ## <a name="information-protection-sensitivity-labeling"></a>信息保护：敏感度标签
 
@@ -549,7 +549,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-在Microsoft 365 合规中心中创建策略时，在 **"选择用户和组**"页上，**选择"选择用户或组**"以仅选择许可用户，或者，如果所有用户都获得许可，则可以选择 **"所有用户和启用邮件的组"** 复选框。 有关详细信息，请参阅[开始内部风险管理](/microsoft-365/compliance/insider-risk-management-configure)。
+在Microsoft 365 合规中心中创建策略时，在 **“选择用户和组**”页上，**选择“选择用户或组**”以仅选择许可用户，或者，如果所有用户都获得许可，则可以选择 **“所有用户和启用邮件的组”** 复选框。 有关详细信息，请参阅[开始内部风险管理](/microsoft-365/compliance/insider-risk-management-configure)。
 
 ## <a name="microsoft-defender-for-business"></a>Microsoft Defender 商业版
 
@@ -640,7 +640,7 @@ Azure AD P1/P2 为用户提供从作为Defender for Cloud应用的一部分包�
 
 ### <a name="is-it-a-requirement-for-the-apps-in-the-tenant-to-be-registered-with-azure-active-director-to-be-viewable-by-app-governance"></a>是否要求租户中的应用注册到 Azure Active Director 才能通过应用治理查看？
 
-是。 应用必须注册到Azure AD，并且必须启用 OAuth 2.0。 目前不支持其他标识管理系统。 应用治理加载项功能监视使用 Microsoft 图形 API 的 Microsoft 365 OAuth 应用的行为和状态。 所有Microsoft 365 E5/A5 许可证都有Azure AD。
+能。 应用必须注册到Azure AD，并且必须启用 OAuth 2.0。 目前不支持其他标识管理系统。 应用治理加载项功能监视使用 Microsoft 图形 API 的 Microsoft 365 OAuth 应用的行为和状态。 所有Microsoft 365 E5/A5 许可证都有Azure AD。
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
@@ -673,9 +673,9 @@ Microsoft Defender for Endpoint P2（以前称为Microsoft Defender for Endpoint
 
 **Microsoft Defender for Endpoint服务器**
 
-Microsoft Defender for Endpoint服务器是客户的加载项，总共至少有 50 个许可证Microsoft Defender for Endpoint。
+对于服务器安全性，我们的英雄产品/服务Defender for Cloud。 它具有最佳和最合适的服务器和云保护功能，截至 2022 年 4 月，我们引入了 Microsoft Defender for Servers 计划 1，除了 Microsoft Defender for Servers 计划 2 (计划 2 最初是 Microsoft Defender for Servers) 。 有关详细信息，请阅读 [Microsoft Defender for Servers - 优势和功能|Microsoft Docs](/azure/defender-for-cloud/defender-for-servers-introduction)。
 
-有关Microsoft Defender for Endpoint的条款和条件，请参阅[产品条款](https://www.microsoft.com/Licensing/product-licensing/products)。
+有关Microsoft Defender for Endpoint服务器条款和条件，请查看[产品条款](https://www.microsoft.com/licensing/terms/en-US/productoffering/MicrosoftDefenderforEndpointServer/EAEAS)中的信息。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -689,11 +689,11 @@ Microsoft Defender for Endpoint P2 提供全面的终结点保护功能，包括
 
 **Microsoft Defender for Endpoint服务器**
 
-Microsoft Defender for server 使用与 P2 Microsoft Defender for Endpoint一样的功能保护Windows和 Linux 服务器。  
+Microsoft Defender for server 使用与 P2 Microsoft Defender for Endpoint一样的功能保护Windows和 Linux 服务器。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-默认情况下，租户级别为租户中的所有用户启用Microsoft Defender for Endpoint功能。 有关部署的信息，请参阅 ["部署"阶段](/microsoft-365/security/defender-endpoint/deployment-phases)。
+默认情况下，租户级别为租户中的所有用户启用Microsoft Defender for Endpoint功能。 有关部署的信息，请参阅 [“部署”阶段](/microsoft-365/security/defender-endpoint/deployment-phases)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
@@ -713,7 +713,7 @@ SecOp 分析师和安全专业人员受益于Microsoft Defender for Identity检�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-默认情况下，租户级别为租户中的所有用户启用Microsoft Defender for Identity功能。  有关配置Microsoft Defender for Identity的信息，请参阅["创建Microsoft Defender for Identity实例](/defender-for-identity/install-step1)。
+默认情况下，租户级别为租户中的所有用户启用Microsoft Defender for Identity功能。  有关配置Microsoft Defender for Identity的信息，请参阅[“创建Microsoft Defender for Identity实例](/defender-for-identity/install-step1)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
@@ -757,7 +757,7 @@ Microsoft Defender for Office 365计划 1 和 2、Office 365 E5/A5/G5、Microsof
 
 ## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp-and-for-teams-export"></a>Microsoft Graph API，用于Teams数据丢失防护 (DLP) 和Teams导出
 
-这些 API 使开发人员能够生成安全性和合规性应用，这些应用可以"侦听"以近实时的方式Microsoft Teams消息，或者在 1：1/组聊天或Teams频道中导出团队消息。 这些 API 为客户和 ISV 启用 DLP 和其他信息保护和治理方案。 此外，Microsoft Graph修补程序 API 允许将 DLP 操作应用于Teams消息。
+这些 API 使开发人员能够生成安全性和合规性应用，这些应用可以“侦听”以近实时的方式Microsoft Teams消息，或者在 1：1/组聊天或Teams频道中导出团队消息。 这些 API 为客户和 ISV 启用 DLP 和其他信息保护和治理方案。 此外，Microsoft Graph修补程序 API 允许将 DLP 操作应用于Teams消息。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -792,7 +792,7 @@ Priva 可作为Office 365 A1/E1/A3/E3/A5/E5 和Microsoft 365 A3/E3/A5/E5 订阅�
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
-用户能够让组织了解其环境中的私有数据，主动识别和防范隐私风险，以及管理 (通常称为"数据主体请求") 的主题权利请求。
+用户能够让组织了解其环境中的私有数据，主动识别和防范隐私风险，以及管理 (通常称为“数据主体请求”) 的主题权利请求。
 
 ### <a name="how-can-customers-access-the-service"></a>客户如何访问该服务？
 
