@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关Microsoft 365合规性的指导，以帮助避免因未经许可的访问而导致的潜在服务中断。
-ms.openlocfilehash: cce6e34112bbb1a6b422f53891a8ccd24562c3e1
-ms.sourcegitcommit: cee14aa16defb331bd4c610e6c3549269a5e4841
+ms.openlocfilehash: dc81652ff5454afe08e2914713e6c78e182cfb7f
+ms.sourcegitcommit: 0d84043f435e5368e23e1a738fbc019b9979839b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64828734"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64931189"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365安全&amp;合规性指南
 
@@ -25,25 +25,25 @@ ms.locfileid: "64828734"
 
 某些租户服务当前无法限制特定用户的权益。 应努力限制许可用户的服务权益。 若要查看有关使用 Microsoft 产品和Professional通过 Microsoft 许可计划获取的服务的条款和条件，请参阅 [产品条款](https://www.microsoft.com/Licensing/product-licensing/products)。
 
-## <a name="advanced-audit"></a>高级审核
+## <a name="microsoft-purview-audit-premium"></a>Microsoft Purview 审核 (高级版) 
 
-Microsoft 365中的高级审核为用户和管理员活动提供一年的审核日志保留期，并提供创建自定义审核日志保留策略以管理其他Microsoft 365服务的审核日志保留的功能。 它还提供对关键事件的访问权限，以便调查和高带宽访问Office 365管理活动 API。 有关详细信息，请参阅[Microsoft 365中的高级审核](/microsoft-365/compliance/advanced-audit)。
+审核 (高级版)  (以前名为Microsoft 365高级审核) 为用户和管理员活动提供一年的审核日志保留期，并提供创建自定义审核日志保留策略以管理其他Microsoft 365服务的审核日志保留期的能力。 它还提供对关键事件的访问权限，以便调查和高带宽访问Office 365管理活动 API。 有关详细信息，请参阅[审核 (高级版) ](/microsoft-365/compliance/advanced-audit)。
 
 还可以使用加载项 SKU 启用 10 年的保留期。
 
 ### <a name="which-users-benefit-from-the-service"></a>哪些用户从服务中受益？
 
-Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性、Microsoft 365 F5 安全&合规性和Microsoft 365 E5/A5/G5 电子数据展示和审核的许可用户可从高级审核中受益。
+Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性、Microsoft 365 F5 安全&合规性以及Microsoft 365 E5/A5/G5 电子数据展示和审核的许可用户可以受益于审核 (高级版) 。
 
-具有高级审核和 10 年审核日志保留加载项的许可用户可以受益于 10 年的审核日志保留期。
+具有审核 (高级版) 和 10 年审核日志保留加载项的许可用户可以受益于 10 年的审核日志保留期。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
-用户受益于高级审核，因为与Microsoft 365服务中的用户活动相关的审核记录最多可以保留一年。 此外，还会记录高价值审核事件，例如访问或读取用户邮箱中的项目时。 有关详细信息，请参阅[Microsoft 365中的高级审核](/microsoft-365/compliance/advanced-audit)。
+用户受益于审核 (高级版) ，因为与Microsoft 365服务中的用户活动相关的审核记录最多可以保留一年。 此外，还会记录高价值审核事件，例如访问或读取用户邮箱中的项目时。 有关详细信息，请参阅[审核 (高级版) ](/microsoft-365/compliance/advanced-audit)。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-默认情况下，在租户级别为从服务中受益的所有用户启用高级审核，并自动为Azure Active Directory、Exchange和SharePoint中具有适当许可证) 的用户 (执行的活动提供一年的审核日志保留期。 此外，组织可以使用审核日志保留策略来管理其他Microsoft 365服务中活动生成的审核记录的保留期。 还使用相同的保留策略启用了 10 年审核日志保留功能。 有关详细信息，请参阅[管理审核日志保留策略](/microsoft-365/compliance/audit-log-retention-policies)。
+默认情况下，在租户级别为从服务中受益的所有用户启用审核 (高级版) ，并自动为Azure Active Directory、Exchange和SharePoint中具有适当许可证) 的用户执行的活动 (活动提供一年的审核日志保留期。 此外，组织可以使用审核日志保留策略来管理其他Microsoft 365服务中活动生成的审核记录的保留期。 还使用相同的保留策略启用了 10 年审核日志保留功能。 有关详细信息，请参阅[管理审核日志保留策略](/microsoft-365/compliance/audit-log-retention-policies)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
@@ -98,9 +98,9 @@ SecOps 分析师和安全专业人员受益于基于机器学习算法对已标�
 
 管理员可以通过分配风险策略来限制Azure AD标识保护，这些策略定义密码重置级别，并仅允许许可用户访问。 有关如何Azure AD标识保护部署的范围的说明，请参阅[如何配置和启用风险策略](/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
-## <a name="communication-compliance"></a>通信合规性
+## <a name="microsoft-purview-communication-compliance"></a>Microsoft Purview 通信符合性
 
-Microsoft 365中的通信符合性可帮助你检测、捕获和采取针对组织中不当消息的修正操作，从而最大程度地降低通信风险。 可以定义特定策略，用于捕获组织中的内部和外部电子邮件、Microsoft Teams或第三方通信。 审阅者可以采取适当的修正措施，以确保它们符合组织的消息标准。
+通信合规性 (以前名为Microsoft 365通信合规性) 可帮助你检测、捕获和采取针对组织中不当消息的修正操作，从而最大程度地降低通信风险。 可以定义特定策略，用于捕获组织中的内部和外部电子邮件、Microsoft Teams或第三方通信。 审阅者可以采取适当的修正措施，以确保它们符合组织的消息标准。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -112,15 +112,15 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-管理员和合规性专家在Microsoft 365 合规中心中创建通信合规性策略。 这些策略定义哪些通信和用户在组织中需要审阅，定义通信必须满足的自定义条件，并指定谁应执行评审。
+管理员和合规性专家在 Microsoft Purview 合规性门户中创建通信合规性策略。 这些策略定义哪些通信和用户在组织中需要审阅，定义通信必须满足的自定义条件，并指定谁应执行评审。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员选择要包含在通信合规性策略中的特定用户或组。 选择组时，他们还可以在组中选择要从通信合规性策略中排除的特定用户。 有关通信符合性策略的详细信息，请参阅[Microsoft 365中的通信合规性开始](/microsoft-365/compliance/communication-compliance-configure)。
+管理员选择要包含在通信合规性策略中的特定用户或组。 选择组时，他们还可以在组中选择要从通信合规性策略中排除的特定用户。 有关通信符合性策略的详细信息，请参阅 [Microsoft Purview 通信合规性开始](/microsoft-365/compliance/communication-compliance-configure)。
 
-## <a name="compliance-manager"></a>合规性管理器
+## <a name="microsoft-purview-compliance-manager"></a>Microsoft Purview 合规性管理器
 
-[Microsoft 合规性管理器](https://compliance.microsoft.com/compliancemanager)是[Microsoft 365 合规中心](/microsoft-365/compliance/microsoft-365-compliance-center)中的一项功能，可帮助你更轻松、更方便地管理组织的合规性要求。 合规性管理器可以帮助你完成合规性之旅，从清查数据保护风险到管理实现控制的复杂性、及时了解最新法规和认证、以及向审核员报告。
+[合规性管理器](https://compliance.microsoft.com/compliancemanager) 是 Microsoft Purview 合规性门户中的一项功能，可帮助你更轻松、更方便地管理组织的合规性要求。 合规性管理器可以帮助你完成合规性之旅，从清查数据保护风险到管理实现控制的复杂性、及时了解最新法规和认证、以及向审核员报告。
 
 合规性管理器通过提供以下内容来帮助简化合规性和降低风险：
 
@@ -197,13 +197,13 @@ Enterprise希望 Microsoft 协助其云旅程的组织，例如风险评估员�
 
 默认情况下，Microsoft 云符合性计划在租户级别为从服务中受益的所有用户启用。 有关详细信息，请参阅 [Microsoft Cloud 的合规性计划](https://aka.ms/cpmc)。
 
-## <a name="data-connectors"></a>数据连接器
+## <a name="microsoft-purview-data-connectors"></a>Microsoft Purview 数据连接器
 
-Microsoft 提供可在Microsoft 365 合规中心中配置的第三方数据连接器。 有关 Microsoft 提供的数据连接器列表，请参阅 [第三方数据连接器](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) 表。 下表还汇总了在Microsoft 365中导入和存档数据后可应用于第三方数据的符合性解决方案，以及指向每个连接器的分步说明的链接。
+Microsoft 提供可在 Microsoft Purview 合规性门户中配置的第三方数据连接器。 有关 Microsoft 提供的数据连接器列表，请参阅 [第三方数据连接器](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) 表。 下表还汇总了在Microsoft 365中导入和存档数据后可应用于第三方数据的符合性解决方案，以及指向每个连接器的分步说明的链接。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
-使用数据连接器在Microsoft 365中导入和存档第三方数据的主要优点是，在导入数据后，可以对数据应用各种Microsoft 365合规性解决方案。 这有助于确保组织的非 Microsoft 数据符合影响组织的法规和标准。
+使用数据连接器 (以前命名的Microsoft 365数据连接器) 在Microsoft 365中导入和存档第三方数据的主要优点是，在导入数据后，可以将各种 Microsoft Purview 解决方案应用于数据。 这有助于确保组织的非 Microsoft 数据符合影响组织的法规和标准。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中受益的权限？
 
@@ -217,39 +217,43 @@ Microsoft 提供可在Microsoft 365 合规中心中配置的第三方数据连�
 - Microsoft 365 E5/A5/G5 电子数据展示和审核
 - Office 365 E5/A5/G5
 
-对于 Microsoft 合作伙伴提供的Microsoft 365安全&amp;合规中心中的数据连接器，组织需要与合作伙伴建立业务关系，然后才能部署这些连接器。
+对于 Microsoft 合作伙伴提供的 Microsoft Purview 合规性门户中的数据连接器，组织需要与合作伙伴建立业务关系，然后才能部署这些连接器。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-连接器是使用安全 &amp; 合规中心和连接器目录配置的。
+连接器是使用 Microsoft Purview 合规性门户和连接器目录配置的。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
 数据连接器服务是租户级值。 每个打算从此服务中受益的用户都必须获得许可。
 
-## <a name="ediscovery"></a>电子数据展示
+## <a name="microsoft-purview-ediscovery"></a>Microsoft Purview 电子数据展示
 
-电子数据展示为公司内部的 IT 和法律部门提供了调查和电子数据展示解决方案，用于在将调查或诉讼导出Microsoft 365系统之前识别、收集、保存、减少和审查与调查或诉讼相关的内容。
+[电子发现 (电子数据展示) 解决方案Microsoft 365](/microsoft-365/compliance/ediscovery)为公司内部的 IT 和法律部门提供调查和电子数据展示解决方案，以便在导出Microsoft 365系统之前识别、收集、保存、减少和审查与调查或诉讼相关的内容。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
-当用户被选为数据保管人时，用户将受益于Advanced eDiscovery (具有文档或电子文件管理控制权的人) 事例。
+[电子数据展示 (标准) ](/microsoft-365/compliance/get-started-core-ediscovery) (以前名为核心电子数据展示) 通过创建电子数据展示案例并将电子数据展示管理器分配给特定案例，在内容搜索的基本搜索和导出功能的基础上构建。 电子数据展示管理器只能访问其成员的情况。 核心电子数据展示还允许你将搜索和导出与案例相关联，并允许你对与案例相关的内容位置进行电子数据展示保留。
+
+[电子数据展示 (高级版) ](/microsoft-365/compliance/overview-ediscovery-20) (以前名为Advanced eDiscovery) 提供端到端工作流，用于保留、收集、分析、查看和导出响应组织内部和外部调查的内容。 它帮助法律团队管理整个法定保留通知工作流，与案件有关保管人进行沟通。
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中受益的权限？
 
-Exchange Online计划 2、Exchange Online Archiving、SharePoint联机计划 2、Microsoft 365 E5/A5/G5/E3/A3/G3、Office 365 E5/A5/G5/E3/A3/G3 和 F5 合规性和 F5 安全&符合性为用户提供从中受益的权限核心电子数据展示。
+电子数据展示 (标准) ：Exchange Online计划 2、Exchange Online Archiving、SharePoint联机计划 2、Microsoft 365 E5/A5/G5/E3/A3/G3、Office 365 E5/A5/G5/E3/A3/G3 和 F5 合规性和 F5 安全&合规性。
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规性、Microsoft 365 E5/A5/G5 电子数据展示和审核以及Office 365 E5/A5/G5 为用户提供从Advanced eDiscovery中受益的权限。
+电子数据展示 (高级版) ：Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规性、Microsoft 365 E5/A5/G5 电子数据展示和审核以及Office 365 E5/A5/G5。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-默认情况下，当管理员在安全&amp;合规中心分配电子数据展示权限时，租户级别会为租户中的所有用户启用Advanced eDiscovery功能。
+默认情况下，当管理员在 Microsoft Purview 合规性门户中分配电子数据展示权限时，会在租户级别为租户中的所有用户启用电子数据展示功能。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-电子数据展示管理员可以通过使用Advanced eDiscovery中的内置保管人管理工具选择特定用户作为案例的数据保管人，如将[保管人添加到Advanced eDiscovery案例](/microsoft-365/compliance/add-custodians-to-case)中所述。
+电子数据展示管理员可以通过使用Advanced eDiscovery中的内置保管人管理工具选择特定用户作为案例的数据保管人，如将[保管人添加到Advanced eDiscovery (高级版) 案例](/microsoft-365/compliance/add-custodians-to-case)中所述。
 
-## <a name="information-barriers"></a>信息屏障
+有关电子数据展示和非托管数据源的信息，请参阅将[非托管数据源添加到电子数据展示 (高级版) 案例](/microsoft-365/compliance/non-custodial-data-sources)。
+
+## <a name="microsoft-purview-information-barriers"></a>Microsoft Purview 信息屏障
 
 信息屏障是管理员可以配置的策略，以防止个人或组相互通信。 例如，如果一个部门正在处理不应与其他部门共享的信息，或者需要阻止一个组与外部联系人通信，则此操作非常有用。 信息屏障策略还可防止查找和发现。 这意味着，如果尝试与不应与之通信的人员通信，则不会在人员选取器中找到该用户。
 
@@ -263,19 +267,19 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中受益的权限？
 
-Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规性、Microsoft 365 E5/A5/G5 预览体验成员风险管理以及Office 365 E5/A5/G5，为用户提供从信息屏障中获益的权限。
+Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规性、Microsoft 365 E5/A5/G5 预览体验成员风险管理和Office 365 E5/A5/G5，为用户提供从信息屏障中受益的权限。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-管理员在安全 &amp; 合规中心使用 PowerShell cmdlet 创建和管理信息屏障策略。 必须为管理员分配Microsoft 365 企业版全局管理员、Office 365全局管理员或合规性管理员角色才能创建信息屏障策略。 默认情况下，这些策略适用于租户中的所有用户。 有关信息屏障的详细信息，请参阅[Microsoft Teams中的信息屏障](/MicrosoftTeams/information-barriers-in-teams)。
+管理员在 Microsoft Purview 合规性门户中使用 PowerShell cmdlet 创建和管理信息屏障策略。 必须为管理员分配Microsoft 365 企业版全局管理员、Office 365全局管理员或合规性管理员角色才能创建信息屏障策略。 默认情况下，这些策略适用于租户中的所有用户。 有关信息屏障的详细信息，请参阅[Microsoft Teams中的信息屏障](/MicrosoftTeams/information-barriers-in-teams)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员可以自定义工作负载)  (位置、包含的用户以及安全 &amp; 合规中心中排除的用户。 例如，如果所有用户都获得Office 365 E3许可，并且没有一个用户获得Office 365 高级合规版/E5 许可，则他们不需要为组织创建任何信息屏障策略。 有关详细信息，请参阅 [Teams](/MicrosoftTeams/information-barriers-in-teams)中的信息屏障。
+管理员可以在 Microsoft Purview 合规性门户中自定义工作负载) 、包括用户和排除用户 (位置。 有关详细信息，请参阅 [Teams](/MicrosoftTeams/information-barriers-in-teams)中的信息屏障。
 
-## <a name="information-governance"></a>信息治理
+## <a name="microsoft-purview-data-lifecycle-management"></a>Microsoft Purview 数据生命周期管理
 
-信息治理通过发现、分类、标记和管理其数据来帮助组织管理其风险。 信息治理使组织能够满足业务和法规要求，并通过在其Microsoft 365和第三方数据中提供保留和删除功能来减少攻击面。
+数据生命周期管理 (以前名为 Microsoft 信息治理) 通过发现、分类、标记和管理其数据来帮助组织管理其风险。 数据生命周期管理允许组织满足业务和法规要求，并通过在其Microsoft 365和第三方数据中提供保留和删除功能来减少其攻击面。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -309,15 +313,15 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-默认情况下，在租户级别为租户中的所有用户启用信息治理功能。 有关配置信息治理以为许可用户应用自动标签和策略的信息，请参阅 [Microsoft 365 中的 Microsoft 信息治理](/microsoft-365/compliance/manage-information-governance)。
+默认情况下，租户级别为租户中的所有用户启用数据生命周期管理功能。 有关将数据生命周期管理配置为为许可用户应用自动标签和策略的信息，请参阅 [Microsoft Purview 数据生命周期管理](/microsoft-365/compliance/manage-information-governance)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-信息治理功能可应用于特定位置的许可用户 (团队网站、组网站等) 。 有关配置信息治理以为许可用户应用自动标签和策略的信息，请参阅 [Microsoft 365 中的 Microsoft 信息治理](/microsoft-365/compliance/manage-information-governance)。
+数据生命周期管理功能可应用于特定位置的许可用户 (团队网站、组网站等) 。 有关将数据生命周期管理配置为为许可用户应用自动标签和策略的信息，请参阅 [Microsoft Purview 数据生命周期管理](/microsoft-365/compliance/manage-information-governance)。
 
-## <a name="information-protection-customer-key-for-microsoft-365"></a>信息保护：用于Microsoft 365的客户密钥
+## <a name="microsoft-purview-information-protection-customer-key"></a>Microsoft Purview 信息保护：客户密钥
 
-借助客户密钥，可以控制组织的加密密钥，并将Microsoft 365配置为使用它们在 Microsoft 数据中心加密静态数据。 换句话说，客户密钥允许你使用自己的密钥添加属于你的加密层。 客户密钥通过Microsoft 365静态数据加密服务为多个[Microsoft 365工作负荷](/microsoft-365/compliance/customer-key-overview#about-data-encryption-policies)提供静态数据加密支持。 此外，客户密钥还提供SharePoint联机和OneDrive for Business数据的加密，以及Exchange Online邮箱级别的加密。
+使用客户密钥 (以前名为“客户密钥Microsoft 365) ”，可以控制组织的加密密钥，并将Microsoft 365配置为使用它们在 Microsoft 数据中心加密静态数据。 换句话说，客户密钥允许你使用自己的密钥添加属于你的加密层。 客户密钥通过Microsoft 365静态数据加密服务为多个[Microsoft 365工作负荷](/microsoft-365/compliance/customer-key-overview#about-data-encryption-policies)提供静态数据加密支持。 此外，客户密钥还提供SharePoint联机和OneDrive for Business数据的加密，以及Exchange Online邮箱级别的加密。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -335,9 +339,9 @@ Microsoft 365 E5/a5/G5、Microsoft 365 E5/a5/G5/F5 合规性、Microsoft 365 F5 
 
 Microsoft 365提供多工作负荷加密支持的静态数据服务是租户级服务。 尽管某些未经许可的用户在技术上可能能够访问该服务，但任何你打算从服务中受益的用户都需要许可证。 若要Exchange Online邮箱级别加密，需要授权用户邮箱分配数据加密策略。
 
-## <a name="information-protection-data-classification-analytics-overview-content-amp-activity-explorer"></a>信息保护：数据分类分析：概述内容&amp;活动资源管理器
+## <a name="microsoft-purview-information-protection-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft Purview 信息保护：数据分类分析：概述内容&amp;活动资源管理器
 
-数据分类分析功能在Microsoft 365 合规中心体验中可用。 概述显示了数字内容的位置以及最常见的敏感信息类型和标签。 内容资源管理器提供敏感数据的数量和类型的可见性，并允许用户按标签或敏感度类型进行筛选，以获取敏感数据存储位置的详细视图。 活动资源管理器显示与敏感数据和标签相关的活动，例如标签降级或外部共享，可能会使内容面临风险。
+数据分类分析功能在 Microsoft Purview 合规性门户中可用。 概述显示了数字内容的位置以及最常见的敏感信息类型和标签。 内容资源管理器提供敏感数据的数量和类型的可见性，并允许用户按标签或敏感度类型进行筛选，以获取敏感数据存储位置的详细视图。 活动资源管理器显示与敏感数据和标签相关的活动，例如标签降级或外部共享，可能会使内容面临风险。
 
 活动资源管理器提供了一个玻璃窗格，供管理员查看与最终用户正在使用的敏感信息相关的活动。 这些数据包括标签活动、数据丢失防护 (DLP) 日志、自动标记、终结点 DLP 等。
 
@@ -363,11 +367,11 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 允许用户仅从内容资源管
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-此功能需要适用于在符合性门户Microsoft 365积极使用解决方案的用户。
+此功能需要适用于在 Microsoft Purview 合规性门户中积极使用该解决方案的用户。
 
-## <a name="information-protection-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>信息保护：针对Exchange Online、SharePoint联机和OneDrive for Business的数据丢失防护
+## <a name="microsoft-purview-information-protection-data-loss-prevention-dlp-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Microsoft Purview 信息保护：针对 Exchange Online、SharePoint Online 和 OneDrive for Business 的数据丢失防护 (DLP) 
 
-通过Office 365数据丢失防护 (用于Exchange Online、SharePoint联机和OneDrive for Business的 DLP) ，组织可以识别、监视和自动保护电子邮件和文件 (（包括存储在Microsoft Teams中的文件）的敏感信息Microsoft Teams 文件存储库) 。
+使用以前名为Exchange Online、SharePoint联机和OneDrive for Business Microsoft Office 365数据丢失防护) 的数据丢失防护 (，组织可以识别、监视和自动保护电子邮件和文件中的敏感信息 (包括存储在文件存储库) Microsoft Teams文件中的文件。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -375,7 +379,7 @@ Microsoft 365 E3/A3/G3 和 Office 365 E3/A3/G3 允许用户仅从内容资源管
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>哪些许可证为用户提供从服务中受益的权限？
 
-Microsoft 365 E3/A3/业务高级版、Office 365 E3/A3 以及Office 365数据丢失防护和 F5 合规性和 F5 安全&符合性为用户提供从Exchange Online的 Office 365 DLP 中受益的权限，SharePoint联机和OneDrive for Business。
+Microsoft 365 E3/A3/业务高级版、Office 365 E3/A3 和 Microsoft Purview 数据丢失防护和 F5 合规性和 F5 安全&符合性为用户提供从适用于 Exchange Online、SharePoint Online 和OneDrive for Business。
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
@@ -383,9 +387,9 @@ Microsoft 365 E3/A3/业务高级版、Office 365 E3/A3 以及Office 365数据丢
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员可以自定义工作负载)  (位置，在 **“数据丢失防护** > **定位**”下将用户包括在安全&amp;合规中心，并排除用户。
+管理员可以自定义工作负载)  (位置，包括用户，并排除 Microsoft Purview 合规性门户中的用户。
 
-## <a name="information-protection-data-loss-prevention-for-teams"></a>信息保护：针对Teams的数据丢失防护
+## <a name="microsoft-purview-information-protection-data-loss-prevention-dlp-for-teams"></a>Microsoft Purview 信息保护：用于Teams的数据丢失防护 (DLP) 
 
 使用用于Teams的通信 DLP，组织可以阻止包含敏感信息的聊天和频道消息，例如财务信息、个人身份信息、与健康相关的信息或其他机密信息。
 
@@ -406,11 +410,11 @@ Microsoft 365 E3/A3/业务高级版、Office 365 E3/A3 以及Office 365数据丢
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-管理员可以在 **“数据丢失防护** > **”** 下自定义工作负荷 (位置) 、包括用户以及安全&amp;合规中心内排除的用户。
+管理员可以在 Microsoft Purview 合规性门户中自定义工作负载) 、包括用户和排除用户 (位置。
 
-## <a name="information-protection-double-key-encryption-for-microsoft-365"></a>信息保护：用于Microsoft 365的双键加密
+## <a name="microsoft-purview-information-protection-double-key-encryption"></a>Microsoft Purview 信息保护：双键加密
 
-用于Microsoft 365的双重密钥加密使你能够保护高度敏感的数据以满足专门的要求，并保持对加密密钥的完全控制。 双密钥加密使用两个密钥来保护数据，其中一个密钥在控件中，第二个密钥通过Microsoft Azure安全存储。 若要查看数据，必须有权访问这两个密钥。 由于 Microsoft 只能访问一个密钥，因此 Microsoft 无法访问密钥和数据，因此可确保你完全控制数据的隐私和安全性。
+用于Microsoft 365) 的双密钥加密 (以前名为“双密钥加密”，可保护高度敏感的数据以满足特殊要求，并保持对加密密钥的完全控制。 双密钥加密使用两个密钥来保护数据，其中一个密钥在控件中，第二个密钥通过Microsoft Azure安全存储。 若要查看数据，必须有权访问这两个密钥。 由于 Microsoft 只能访问一个密钥，因此 Microsoft 无法访问密钥和数据，因此可确保你完全控制数据的隐私和安全性。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -472,7 +476,7 @@ Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构
 
 管理员应仅向许可用户应用邮件流规则以Office 365消息加密。 有关定义邮件流规则的详细信息，请参阅 [“定义邮件流规则”来加密电子邮件](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)。
 
-## <a name="information-protection-sensitivity-labeling"></a>信息保护：敏感度标签
+## <a name="microsoft-purview-information-protection-sensitivity-labeling"></a>Microsoft Purview 信息保护：敏感度标记
 
 信息保护可帮助组织发现、分类、标记和保护敏感文档和电子邮件。 管理员可以定义规则和条件以自动应用标签，用户可以手动应用标签，或者可以使用这两个标签的组合，在其中向用户提供有关应用标签的建议。
 
@@ -529,11 +533,11 @@ Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构
 
 有关详细信息，请参阅[创建和发布敏感度标签](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy)并[了解 Azure 信息保护统一标记扫描程序](/azure/information-protection/deploy-aip-scanner)。
 
-## <a name="insider-risk-management"></a>内部风险管理
+## <a name="microsoft-purview-insider-risk-management"></a>Microsoft Purview 预览体验成员风险管理
 
-预览体验成员风险管理是Microsoft 365中的一种解决方案，可让你检测、调查组织中的风险活动并采取措施，从而最大限度地降低内部风险。
+预览体验成员风险管理 (以前名为Microsoft 365预览体验成员风险管理) 是一种解决方案，通过让你检测、调查和对组织中的风险活动采取行动，有助于最大程度地降低内部风险。
 
-自定义策略允许检测组织中的恶意和无意中风险活动并采取措施，包括根据需要将事例升级到 Microsoft Advanced eDiscovery。 组织中的风险分析师可以快速采取适当措施，确保用户符合组织的合规性标准。
+使用自定义策略，可以检测并采取措施处理组织中的恶意和无意中风险活动，包括将事例升级到 Microsoft 预览电子数据展示 (高级版)  (以前名为 Microsoft Advanced eDiscovery) （如果需要）。 组织中的风险分析师可以快速采取适当措施，确保用户符合组织的合规性标准。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -545,11 +549,11 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-必须在Microsoft 365 合规中心中创建预览体验成员风险管理策略并将其分配给用户。
+必须在 Microsoft Purview 合规性门户中创建预览体验成员风险管理策略并将其分配给用户。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-在Microsoft 365 合规中心中创建策略时，在 **“选择用户和组**”页上，**选择“选择用户或组**”以仅选择许可用户，或者，如果所有用户都获得许可，则可以选择 **“所有用户和启用邮件的组”** 复选框。 有关详细信息，请参阅[开始内部风险管理](/microsoft-365/compliance/insider-risk-management-configure)。
+有关信息，请参阅[开始内部风险管理](/microsoft-365/compliance/insider-risk-management-configure)。
 
 ## <a name="microsoft-defender-for-business"></a>Microsoft Defender 商业版
 
@@ -640,7 +644,7 @@ Azure AD P1/P2 为用户提供从作为Defender for Cloud应用的一部分包�
 
 ### <a name="is-it-a-requirement-for-the-apps-in-the-tenant-to-be-registered-with-azure-active-director-to-be-viewable-by-app-governance"></a>是否要求租户中的应用注册到 Azure Active Director 才能通过应用治理查看？
 
-能。 应用必须注册到Azure AD，并且必须启用 OAuth 2.0。 目前不支持其他标识管理系统。 应用治理加载项功能监视使用 Microsoft 图形 API 的 Microsoft 365 OAuth 应用的行为和状态。 所有Microsoft 365 E5/A5 许可证都有Azure AD。
+是。 应用必须注册到Azure AD，并且必须启用 OAuth 2.0。 目前不支持其他标识管理系统。 应用治理加载项功能监视使用 Microsoft 图形 API 的 Microsoft 365 OAuth 应用的行为和状态。 所有Microsoft 365 E5/A5 许可证都有Azure AD。
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender for Endpoint
 
@@ -796,7 +800,7 @@ Priva 可作为Office 365 A1/E1/A3/E3/A5/E5 和Microsoft 365 A3/E3/A5/E5 订阅�
 
 ### <a name="how-can-customers-access-the-service"></a>客户如何访问该服务？
 
-Priva 解决方案内置于[Microsoft 365 合规中心](https://compliance.microsoft.com/homepage)中，并在租户级别为租户中的所有用户启用。 我们建议为你打算从服务中受益和保护的任何用户获取许可证。
+Priva 解决方案内置于 Microsoft Purview 合规性门户中，并在租户级别为租户中的所有用户启用。 我们建议为你打算从服务中受益和保护的任何用户获取许可证。
 
 客户可以根据组织需求购买以下许可证：
 
@@ -846,9 +850,9 @@ Office 365 E5/A3/A5/G5 为用户提供从 OCAS 中受益的权限。
 
 管理员可以限制 OCAS 部署的范围，以强制执行某些应用的访问方式，并限制Office 365 云应用安全监视的用户组。 有关详细信息，请参阅 [作用域部署](/cloud-app-security/scoped-deployment)。
 
-## <a name="office-365-customer-lockbox"></a>Office 365 客户密码箱
+## <a name="microsoft-purview-customer-lockbox"></a>Microsoft Purview Customer Lockbox
 
-客户密码箱通过为客户提供为服务操作提供显式访问授权的能力，从而提供额外的控制层。 通过演示显式数据访问授权的过程已就绪，客户密码箱还可以帮助组织履行某些合规性义务，例如 HIPAA 和 FedRAMP。
+客户密码箱 (以前名为Office 365客户密码箱) 通过为客户提供显式访问权限来为服务操作提供显式访问授权，从而提供额外的控制层。 通过演示显式数据访问授权的过程已就绪，客户密码箱还可以帮助组织履行某些合规性义务，例如 HIPAA 和 FedRAMP。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
@@ -860,7 +864,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-管理员可以在Microsoft 365 管理中心中打开客户密码箱。 有关详细信息，请参阅[Office 365中的客户密码箱](/microsoft-365/compliance/customer-lockbox-requests)。 当客户密码箱处于打开状态时，Microsoft 需要在访问其任何内容之前获得组织的批准。
+管理员可以在Microsoft 365 管理中心中打开客户密码箱。 有关详细信息，请参阅 [客户密码箱](/microsoft-365/compliance/customer-lockbox-requests)。 当客户密码箱处于打开状态时，Microsoft 需要在访问其任何内容之前获得组织的批准。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
@@ -886,7 +890,7 @@ Office 365 E5/A5、Microsoft 365 E5/A5、Microsoft 365 E5/A5/F5 合规性和 F5 
 
 客户可以通过审批者组和访问策略（可应用于许可用户）按用户管理 PAM。 有关详细信息，请参阅 [Office 365 中的 Privileged 访问管理](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)。
 
-## <a name="records-management"></a>记录管理
+## <a name="microsoft-purview-records-management"></a>Microsoft Purview 记录管理
 
 记录管理通过在其Microsoft 365和第三方数据中发现、分类、标记、保留和可防御的删除功能，帮助组织履行业务和法规记录保存义务。
 
@@ -902,8 +906,8 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&符合
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？
 
-默认情况下，在租户级别为租户中的所有用户启用记录管理功能。 有关将记录管理配置为适用于许可用户的信息，[请参阅Microsoft 365中的记录管理。](/microsoft-365/compliance/records-management)
+默认情况下，在租户级别为租户中的所有用户启用记录管理功能。 有关将记录管理配置为适用于许可用户的信息，请 [参阅了解 Microsoft Purview 记录管理](/microsoft-365/compliance/records-management)。
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-记录管理功能可以应用于特定位置的许可用户 (团队网站、组网站等) 。 有关将记录管理配置为适用于许可用户的信息，[请参阅Microsoft 365中的记录管理。](/microsoft-365/compliance/records-management)
+记录管理功能可以应用于特定位置的许可用户 (团队网站、组网站等) 。 有关将记录管理配置为适用于许可用户的信息，请 [参阅了解 Microsoft Purview 记录管理](/microsoft-365/compliance/records-management)。
