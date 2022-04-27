@@ -76,6 +76,55 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "office365-servicedescriptions/project-online-service-description/core-functionality.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/project-planning.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/task-management.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/project-resource-management.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/project-publishing.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/core-services-functionality.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/project-management.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/portfolio-management.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/reporting-and-business-intelligence.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+    },
+    {
+      "source_path": "office365-servicedescriptions/project-online-service-description/resource-management.md",
+      "redirect_url": "/office365/servicedescriptions/project-online-service-description/microsoft-project-features-descriptions",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/index.md",
       "redirect_url": "/sharepoint-online-service-description",
       "redirect_document_id": false
