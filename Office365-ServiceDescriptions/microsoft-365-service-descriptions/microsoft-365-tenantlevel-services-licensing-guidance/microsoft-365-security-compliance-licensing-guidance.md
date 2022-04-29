@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关Microsoft 365合规性的指导，以帮助避免因未经许可的访问而导致的潜在服务中断。
-ms.openlocfilehash: dc81652ff5454afe08e2914713e6c78e182cfb7f
-ms.sourcegitcommit: 0d84043f435e5368e23e1a738fbc019b9979839b
+ms.openlocfilehash: e7bc9f7525a004b6bfbc5d72fe855d4aec81df9b
+ms.sourcegitcommit: 7c0a991e031b84f83bce1b30edeabacf3902349e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64931189"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65126309"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365安全&amp;合规性指南
 
@@ -25,7 +25,7 @@ ms.locfileid: "64931189"
 
 某些租户服务当前无法限制特定用户的权益。 应努力限制许可用户的服务权益。 若要查看有关使用 Microsoft 产品和Professional通过 Microsoft 许可计划获取的服务的条款和条件，请参阅 [产品条款](https://www.microsoft.com/Licensing/product-licensing/products)。
 
-## <a name="microsoft-purview-audit-premium"></a>Microsoft Purview 审核 (高级版) 
+## <a name="microsoft-purview-audit-premium"></a>Microsoft Purview 审核（高级版）
 
 审核 (高级版)  (以前名为Microsoft 365高级审核) 为用户和管理员活动提供一年的审核日志保留期，并提供创建自定义审核日志保留策略以管理其他Microsoft 365服务的审核日志保留期的能力。 它还提供对关键事件的访问权限，以便调查和高带宽访问Office 365管理活动 API。 有关详细信息，请参阅[审核 (高级版) ](/microsoft-365/compliance/advanced-audit)。
 
@@ -98,7 +98,7 @@ SecOps 分析师和安全专业人员受益于基于机器学习算法对已标�
 
 管理员可以通过分配风险策略来限制Azure AD标识保护，这些策略定义密码重置级别，并仅允许许可用户访问。 有关如何Azure AD标识保护部署的范围的说明，请参阅[如何配置和启用风险策略](/azure/active-directory/identity-protection/howto-sign-in-risk-policy)。
 
-## <a name="microsoft-purview-communication-compliance"></a>Microsoft Purview 通信符合性
+## <a name="microsoft-purview-communication-compliance"></a>Microsoft Purview 通信合规性
 
 通信合规性 (以前名为Microsoft 365通信合规性) 可帮助你检测、捕获和采取针对组织中不当消息的修正操作，从而最大程度地降低通信风险。 可以定义特定策略，用于捕获组织中的内部和外部电子邮件、Microsoft Teams或第三方通信。 审阅者可以采取适当的修正措施，以确保它们符合组织的消息标准。
 
@@ -233,7 +233,7 @@ Microsoft 提供可在 Microsoft Purview 合规性门户中配置的第三方数
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
-[电子数据展示 (标准) ](/microsoft-365/compliance/get-started-core-ediscovery) (以前名为核心电子数据展示) 通过创建电子数据展示案例并将电子数据展示管理器分配给特定案例，在内容搜索的基本搜索和导出功能的基础上构建。 电子数据展示管理器只能访问其成员的情况。 核心电子数据展示还允许你将搜索和导出与案例相关联，并允许你对与案例相关的内容位置进行电子数据展示保留。
+[电子数据展示 (标准) ](/microsoft-365/compliance/get-started-core-ediscovery) (以前名为核心电子数据展示) 通过创建电子数据展示案例并将电子数据展示管理器分配给特定案例，在内容搜索的基本搜索和导出功能的基础上构建。 电子数据展示管理器只能访问其成员的情况。 电子数据展示 (标准) 还允许你将搜索和导出与案例相关联，并允许你对与案例相关的内容位置进行电子数据展示保留。
 
 [电子数据展示 (高级版) ](/microsoft-365/compliance/overview-ediscovery-20) (以前名为Advanced eDiscovery) 提供端到端工作流，用于保留、收集、分析、查看和导出响应组织内部和外部调查的内容。 它帮助法律团队管理整个法定保留通知工作流，与案件有关保管人进行沟通。
 
@@ -249,7 +249,7 @@ Microsoft 提供可在 Microsoft Purview 合规性门户中配置的第三方数
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>如何仅将服务应用到获得服务许可的租户中的用户？
 
-电子数据展示管理员可以通过使用Advanced eDiscovery中的内置保管人管理工具选择特定用户作为案例的数据保管人，如将[保管人添加到Advanced eDiscovery (高级版) 案例](/microsoft-365/compliance/add-custodians-to-case)中所述。
+电子数据展示管理员可以通过使用电子数据展示 (高级版) 中的内置保管人管理工具选择特定用户作为案例的数据保管人，如向[电子数据展示 (高级版) 案例添加保管人](/microsoft-365/compliance/add-custodians-to-case)中所述。
 
 有关电子数据展示和非托管数据源的信息，请参阅将[非托管数据源添加到电子数据展示 (高级版) 案例](/microsoft-365/compliance/non-custodial-data-sources)。
 
@@ -533,11 +533,11 @@ Office 365 邮件加密 (OME) 是一项基于 Azure 权限管理 (Azure RMS) 构
 
 有关详细信息，请参阅[创建和发布敏感度标签](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy)并[了解 Azure 信息保护统一标记扫描程序](/azure/information-protection/deploy-aip-scanner)。
 
-## <a name="microsoft-purview-insider-risk-management"></a>Microsoft Purview 预览体验成员风险管理
+## <a name="microsoft-purview-insider-risk-management"></a>Microsoft Purview 内部风险管理
 
 预览体验成员风险管理 (以前名为Microsoft 365预览体验成员风险管理) 是一种解决方案，通过让你检测、调查和对组织中的风险活动采取行动，有助于最大程度地降低内部风险。
 
-使用自定义策略，可以检测并采取措施处理组织中的恶意和无意中风险活动，包括将事例升级到 Microsoft 预览电子数据展示 (高级版)  (以前名为 Microsoft Advanced eDiscovery) （如果需要）。 组织中的风险分析师可以快速采取适当措施，确保用户符合组织的合规性标准。
+使用自定义策略，可以检测并采取措施处理组织中的恶意和无意中风险活动，包括将事例升级到 Microsoft Purview 电子数据展示 (高级版)  (以前名为 Microsoft Advanced eDiscovery) （如果需要）。 组织中的风险分析师可以快速采取适当措施，确保用户符合组织的合规性标准。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
