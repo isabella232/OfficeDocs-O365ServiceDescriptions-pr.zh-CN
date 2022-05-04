@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本文提供有关Microsoft 365合规性的指导，以帮助避免因未经许可的访问而导致的潜在服务中断。
-ms.openlocfilehash: e7bc9f7525a004b6bfbc5d72fe855d4aec81df9b
-ms.sourcegitcommit: 7c0a991e031b84f83bce1b30edeabacf3902349e
+ms.openlocfilehash: ce6e4ee2176d31034111f53b3d4046d8995cc0c1
+ms.sourcegitcommit: c2d2064d8fbebbe9843a4e824860e214b0b54c58
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65126309"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "65187473"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365安全&amp;合规性指南
 
@@ -160,7 +160,7 @@ Office 365 E5/A5/G5、Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规�
 
 ### <a name="what-are-custom-assessments"></a>什么是自定义评估？
 
-自定义评估是一项合规性管理器功能，可提供创建新模板或自定义现有评估模板（包括添加或更新控件和改进操作）的功能。
+自定义评估是合规性管理器功能，它提供创建新模板或自定义现有评估模板（包括添加或更新控件和改进操作）的能力。
 
 ### <a name="who-can-access-custom-assessments"></a>Who可以访问自定义评估？
 
@@ -557,7 +557,7 @@ Microsoft 365 E5/A5/G5、Microsoft 365 E5/A5/G5/F5 合规性和 F5 安全&合规
 
 ## <a name="microsoft-defender-for-business"></a>Microsoft Defender 商业版
 
-Microsoft Defender 商业版是一种新的终结点安全解决方案，专为中小型企业设计， (多达 300 名员工) 。 借助此终结点安全解决方案，中小型企业 (SMB) 组织设备可以更好地抵御勒索软件、恶意软件、网络钓鱼和其他威胁。
+Microsoft Defender 商业版是一种新的终结点安全解决方案，专为中小型企业设计， (多达 300 名员工) 。 Defender for Business 作为独立解决方案提供，也包含在Microsoft 365 商业高级版的一部分。 借助此终结点安全解决方案，中小型企业 (SMB) 组织设备可以更好地抵御勒索软件、恶意软件、网络钓鱼和其他威胁。
 
 有关详细信息，请参阅[Microsoft Defender 商业版](/microsoft-365/security/defender-business)。
 
@@ -565,15 +565,19 @@ Microsoft Defender 商业版是一种新的终结点安全解决方案，专为�
 
 Microsoft Defender 商业版包含在Microsoft 365 商业高级版许可证中。  
 
-Defender for Business 的独立版本为预览版，将于今年晚些时候正式发布。 若要了解详细信息， [请参阅如何获取Microsoft Defender 商业版](/microsoft-365/security/defender-business/get-defender-business)。
+对于拥有最多 300 名员工的中小型企业 (SMB) ，还提供独立版本的 Defender for Business。 若要了解详细信息， [请参阅如何获取Microsoft Defender 商业版](/microsoft-365/security/defender-business/get-defender-business)。
 
 ### <a name="how-do-users-benefit-from-the-service"></a>用户如何从服务中受益？
 
 将Microsoft Defender 商业版添加到[Microsoft 365 商业高级版](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/new-security-solutions-to-help-secure-small-and-medium/ba-p/3207043)通过使用终结点检测和响应等技术添加跨平台终结点保护和复杂的勒索软件防御，增强了业务高级版现有的生产力和安全性产品/ 和自动调查和修正。
 
+独立版 Defender for Business 为拥有最多 300 名员工的中小企业提供了以经济实惠的价格获取企业级终结点安全技术的选项。 
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>如何预配/部署服务？ 
 
-默认情况下，租户级别为租户中的所有用户启用Microsoft Defender 商业版功能。 如果有Microsoft 365 商业高级版，可以通过[Microsoft 365 Defender门户](https://sip.security.microsoft.com/homepage)访问 Defender for Business。 
+如果有Microsoft 365 商业高级版，可以通过[Microsoft 365 Defender门户](https://sip.security.microsoft.com/homepage)访问 Defender for Business。 
+
+默认情况下，租户级别为租户中的所有用户启用Microsoft Defender 商业版功能。 有关如何设置和配置 Defender for Business 的信息，请[参阅Microsoft Defender 商业版文档|Microsoft Docs](/microsoft-365/security/defender-business)。
 
 有关详细信息和指向更多资源的链接，请查看[Microsoft Defender 商业版常见问题解答](/microsoft-365/security/defender-business/get-defender-business)。
 
