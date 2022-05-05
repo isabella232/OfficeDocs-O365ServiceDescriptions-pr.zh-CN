@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: 本指南适用于推动在美国联邦政府实体或其他实体中部署Office 365的 IT 专业人员，这些实体处理受政府法规和要求约束的数据，其中使用Microsoft 365政府 - DoD 适合满足这些要求。
-ms.openlocfilehash: dfb160ff6b6cc2f10f0c414e3f5b8733ca2aff7b
-ms.sourcegitcommit: c2d2064d8fbebbe9843a4e824860e214b0b54c58
+ms.openlocfilehash: a9ea26dc85be2809407d04ccf17665314c6ab8ab
+ms.sourcegitcommit: e4bf187c926340f4afb68bfe51d38b303664ae00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "65187453"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65218128"
 ---
 # <a name="plan-for-microsoft-purview-compliance-and-risk-management-solutions---dod-deployments"></a>Microsoft Purview 合规性和风险管理解决方案计划 - DoD 部署
 
@@ -70,9 +70,11 @@ Microsoft 365政府 - DoD 环境符合美国政府对云服务的要求。
 | 敏感度标记  | 统一标记客户端和扫描程序 | 可用  |
 | | 将“默认标签”应用于上传到SharePoint联机文档库的未标记文件 | 正在开发 |
 | | 应用默认标签策略以确保编辑文档 | 正在开发 |
-| | Exchange Online、SharePoint Online 和 OneDrive for Business 的自动分类和标记  | 可用 |
-| | Office 应用 (Word、Excel、PowerPoint、Outlook) 的自动分类和标记， (Web、Android、iOS、Windows 和 Mac)  | 可用  |
-| | 移动)  (Office客户端的自动分类和标记 | 在工程积压工作上  |
+| | Exchange Online、SharePoint Online 和 OneDrive 的自动分类和标记  | 可用 |
+| |  (Word、Excel、PowerPoint (Web、Android、iOS、Windows 和 Mac Outlook) 平台的Office应用的自动分类和标记)   | 可用  |
+| | 移动)  (Office客户端的自动分类和标记  | 在工程积压工作上  |
+| | Teams、Microsoft 365 组、SharePoint站点的自动分类和标记 | 可用  |
+| | 自动标记策略支持覆盖手动标签并加密从任何组织收到的邮件 | 可用  |
 | | Teams、Microsoft 365 组 和SharePoint站点的自动分类和标记  | 可用  |
 | | 自动标记策略支持覆盖手动标签并加密从任何组织收到的邮件 | 可用  |
 | | 共同创作Microsoft 信息保护加密文档| 可用  |
@@ -83,21 +85,21 @@ Microsoft 365政府 - DoD 环境符合美国政府对云服务的要求。
 | | 手动标签  | 可用  |
 | | Exchange Online中自动标记的新条件| 正在开发 |
 | | 可以搜索和电子数据展示使用敏感度标签加密的 PDF 文件 | 在工程积压工作上 |
-| 分析  | 数据分类分析：概述和内容资源管理器 | 可用 |
-| | Office应用中的审核和分析 | 可用 |
-| | 活动资源管理器包含Power BI敏感度标签数据 | 可用 |
-| | 活动资源管理器内置筛选器 | 可用 |
-| | 活动资源管理器用户体验改进 | 正在开发 |
-| | 活动资源管理器Power BI敏感度标签数据 | 可用 |
-| | 活动资源管理器安全读取器角色已更新 | 可用 |
-| | 内容资源管理器包含Teams数据 | 正在开发 |
-| | Office应用/客户端上具有自动标记的机器学习分类器  | 可用 |
-| 加密  | Microsoft Purview 消息加密 (E3)  | 可用 |
-| | Microsoft Purview 客户密钥 | 可用 |
-| | 客户密钥：Microsoft 365的静态数据加密 | 可用 |
-| | 客户密钥：SharePoint联机和OneDrive for Business | 可用 |
-| | 为客户管理的密钥预配生命周期自带密钥 (BYOK)  | 可用 |
-| | Microsoft Purview 双键加密 | 可用 |
+| 分析 | 数据分类分析：概述和内容资源管理器 | 可用 |
+|  | Office应用中的审核和分析 | 可用 |
+|  | 活动资源管理器包含Power BI敏感度标签数据 | 可用 |
+|  | 活动资源管理器内置筛选器 | 可用 |
+|  | 活动资源管理器用户体验改进 | 正在开发 |
+|  | 活动资源管理器Power BI敏感度标签数据 | 可用 |
+|  | 活动资源管理器安全读取器角色已更新 | 可用 |
+|  | 内容资源管理器包含Teams数据 | 正在开发 |
+|  | Office应用/客户端上具有自动标记的机器学习分类器 | 可用 |
+| 加密 | Microsoft Purview 消息加密 (E3)  | 可用 |
+|  | Microsoft Purview 客户密钥 | 可用 |
+|  | 客户密钥：Microsoft 365的静态数据加密 | 可用 |
+|  | 客户密钥：SharePoint联机和OneDrive for Business | 可用 |
+|  | 为客户管理的密钥预配生命周期自带密钥 (BYOK)  | 可用 |
+|  | Microsoft Purview 双键加密 | 可用 |
 | | 使用 Microsoft 托管密钥Exchange Online服务加密 | 可用 |
 | 数据丢失防护 | 警报仪表板和警报体验 | 可用 |
 |  | 活动资源管理器中显示的数据 | 可用 |
@@ -268,19 +270,19 @@ Microsoft 365政府 - DoD 环境符合美国政府对云服务的要求。
 | | 邮件转发和邮件发送事件 | 可用 |
 | | Microsoft 365安全与合规中心 | 可用 |
 | | 在 Exchange Online 和 SharePoint Online 中搜索术语事件 | 可用 |
-| **合规性状况** |  |  |
+| **合规性状况** | | |
 | 合规性管理 | Microsoft Purview 合规性门户 | 可用 |
 | | Microsoft Purview 合规性管理器 | 可用 |
-| | 合规性管理器：警报和通知 | 正在开发 |
-| | 合规性管理器：持续合规性评估 | 即将推出 |
-| | 合规性管理器：非Microsoft 365资产的现新评估 | 可用 |
-| | 合规性管理器：用于创建批量评估的建议引擎 | 正在开发 |
+| | 警报和通知 | 正在开发 |
+| | 持续合规性评估 | 即将推出 |
+| | 非Microsoft 365资产的现Microsoft 365评估 | 可用 |
+| | 用于批量评估创建的建议引擎 | 正在开发 |
 | | 双字节字符支持 | 可用 |
 | | Microsoft Defender for Cloud Apps | 可用 |
-| **生态** |  |  |
-| 数据连接器 | 第一方数据连接器：HR  | 可用 |
-| | 第一方数据连接器：HR 1.2 | 可用 |
-| | 第一方数据连接器：物理损坏 | 可用 |
+| **生态** | | |
+| 数据连接器  | 第一方数据连接器：HR  | 可用  |
+| | 第一方数据连接器：HR 1.2  | 可用   |
+| | 第一方数据连接器：物理损坏  | 可用   |
 | | 电子数据展示 (高级版) Graph API | 正在开发 |
 | | 记录管理Graph API | 正在开发 |
 | | Graph API 用于Teams导出数据 | 正在开发 |
